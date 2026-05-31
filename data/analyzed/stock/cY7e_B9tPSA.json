@@ -8,13 +8,13 @@
     "thumbnail": "https://img.youtube.com/vi/cY7e_B9tPSA/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "엔비디아가 1분기 실적에서 매출, EPS, 가이던스 모두 시장 컨센서스를 상회하는 '어닝 서프라이즈'를 기록했으나, 시장 기대치(휘스퍼 넘버)에는 미치지 못하며 주가가 혼조세를 보였습니다. 월가에서는 AI 산업의 강력한 성장세를 긍정적으로 보는 낙관론과, 과거 닷컴 버블과 유사한 과열 및 순환 투자 구조를 우려하는 신중론이 팽팽하게 맞서고 있습니다. 이러한 복합적인 상황 속에서 투자는 분산 투자가 필요하다는 결론을 제시합니다.",
+    "summary": "엔비디아가 1분기 실적에서 매출, EPS, 가이던스 모두 시장 컨센서스를 상회하는 '<span class=\"text-amber-300 font-bold\">어닝 서프라이즈</span>'를 기록했으나, <span class=\"text-rose-400 font-medium\">시장 기대치(휘스퍼 넘버)에는 미치지 못하며 주가가 혼조세</span>를 보였습니다. 월가에서는 <span class=\"text-amber-300 font-bold\">AI 산업의 강력한 성장세</span>를 긍정적으로 보는 낙관론과, 과거 <span class=\"text-rose-400 font-medium\">닷컴 버블과 유사한 과열 및 순환 투자 구조</span>를 우려하는 신중론이 팽팽하게 맞서고 있습니다. 이러한 복합적인 상황 속에서 투자는 분산 투자가 필요하다는 결론을 제시합니다.",
     "key_claims": [
-      "엔비디아는 1분기 실적에서 매출, EPS, 데이터센터 매출, 다음 분기 가이던스 모두 컨센서스를 상회하는 강력한 성과를 기록했다.",
-      "실적 발표에도 불구하고 '휘스퍼 넘버'를 넘지 못하고 경쟁 환경 변화 우려로 인해 주가는 혼조세를 보였으며, 이는 최근 반복되는 패턴이다.",
-      "월가는 AI 산업의 장기적인 성장 가능성과 엔비디아의 안정적인 공급 능력을 높이 평가하는 낙관론과, 주가 과열, 닷컴 버블 유사성, 그리고 AI 기업 간의 순환 투자 구조를 우려하는 신중론으로 나뉜다.",
-      "오픈AI와 스페이스X의 기습 IPO 준비 소식은 AI 시장의 잠재력과 동시에 과열 신호로 해석될 수 있다.",
-      "AI 슈퍼사이클을 믿더라도 단일 종목보다는 SK 하이닉스와 삼성전자 등 연관 기업에 대한 분산 투자가 현명하다."
+      "<span class=\"text-cyan-300 font-semibold\">엔비디아</span>는 1분기 실적에서 매출, EPS, 데이터센터 매출, 다음 분기 가이던스 모두 컨센서스를 상회하는 <span class=\"text-amber-300 font-bold\">강력한 성과</span>를 기록했다.",
+      "실적 발표에도 불구하고 '<span class=\"text-rose-400 font-medium\">휘스퍼 넘버'를 넘지 못하고</span> <span class=\"text-rose-400 font-medium\">경쟁 환경 변화 우려</span>로 인해 주가는 <span class=\"text-rose-400 font-medium\">혼조세</span>를 보였으며, 이는 최근 반복되는 패턴이다.",
+      "월가는 <span class=\"text-amber-300 font-bold\">AI 산업의 장기적인 성장 가능성</span>과 <span class=\"text-cyan-300 font-semibold\">엔비디아</span>의 안정적인 공급 능력을 높이 평가하는 낙관론과, <span class=\"text-rose-400 font-medium\">주가 과열, 닷컴 버블 유사성, 그리고 AI 기업 간의 순환 투자 구조</span>를 우려하는 신중론으로 나뉜다.",
+      "<span class=\"text-cyan-300 font-semibold\">오픈AI</span>와 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 기습 IPO 준비 소식은 AI 시장의 잠재력과 동시에 <span class=\"text-rose-400 font-medium\">과열 신호</span>로 해석될 수 있다.",
+      "<span class=\"text-amber-300 font-bold\">AI 슈퍼사이클</span>을 믿더라도 단일 종목보다는 <span class=\"text-cyan-300 font-semibold\">SK 하이닉스</span>와 <span class=\"text-cyan-300 font-semibold\">삼성전자</span> 등 연관 기업에 대한 <span class=\"text-rose-400 font-medium\">분산 투자</span>가 현명하다."
     ],
     "data_points": [
       "엔비디아 1분기 매출: 예상 791억 달러, 실제 816.2억 달러 (컨센서스 대비 약 3% 비트)",
@@ -34,7 +34,7 @@
       "젠슨 황 (엔비디아 CEO): 2027년까지 1조 달러 주문 전망"
     ],
     "signal": "neutral",
-    "signal_reason": "엔비디아의 실적은 압도적으로 좋았으나, 시장의 '비공식 기대치'를 완전히 만족시키지 못해 주가가 혼조세를 보였습니다. 월가에서도 'AI 산업의 실질적인 성장'과 '닷컴 버블 유사성 우려'가 공존하며, 최종적으로 분산 투자를 권고하는 등 강한 방향성보다는 신중한 접근이 필요한 복합적인 상황으로 판단됩니다.",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">엔비디아</span>의 실적은 압도적으로 좋았으나, <span class=\"text-rose-400 font-medium\">시장의 '비공식 기대치'를 완전히 만족시키지 못해 주가가 혼조세</span>를 보였습니다. 월가에서도 '<span class=\"text-amber-300 font-bold\">AI 산업의 실질적인 성장</span>'과 '<span class=\"text-rose-400 font-medium\">닷컴 버블 유사성 우려</span>'가 공존하며, 최종적으로 분산 투자를 권고하는 등 강한 방향성보다는 <span class=\"text-rose-400 font-medium\">신중한 접근이 필요한 복합적인 상황</span>으로 판단됩니다.",
     "key_companies": [
       "엔비디아 (NVIDIA)",
       "오픈AI (OpenAI)",
@@ -57,8 +57,8 @@
       "웨드부시 (Wedbush Securities)",
       "ASML (ASML Holding N.V.)"
     ],
-    "insight": "AI 산업의 '슈퍼사이클'은 실재하며 엔비디아의 실적이 이를 강력하게 뒷받침하지만, 시장의 기대치는 비현실적인 '휘스퍼 넘버' 수준까지 올라왔고, AI 기업 간의 순환 투자 구조 및 IPO 러시는 닷컴 버블과 유사한 과열 양상을 보인다. 이는 '산업의 성장'과 '개별 종목의 과열'이라는 두 가지 상반된 현실이 동시에 나타나고 있음을 시사한다. 따라서 투자자는 장기적인 AI 산업의 잠재력을 인정하면서도 단기적인 가격 변동성과 거품 가능성을 경계하며, 특정 기업에 대한 쏠림 현상을 피해야 한다.",
-    "action_point": "엔비디아의 강력한 실적은 AI 산업의 성장을 재확인했지만, 주가 과열 및 시장의 높은 비공식 기대치를 고려하여 신중하게 접근해야 합니다. AI 관련 투자 시에는 엔비디아 단일 종목에 대한 몰빵보다는 SK 하이닉스와 삼성전자 등 밸류체인 전반에 걸친 분산 투자를 통해 위험을 관리하고, 시장의 과열 징후와 경쟁 환경 변화를 지속적으로 모니터링해야 합니다."
+    "insight": "<span class=\"text-amber-300 font-bold\">AI 산업의 '슈퍼사이클'</span>은 실재하며 <span class=\"text-cyan-300 font-semibold\">엔비디아</span>의 실적이 이를 강력하게 뒷받침하지만, <span class=\"text-rose-400 font-medium\">시장의 기대치는 비현실적인 '휘스퍼 넘버'</span> 수준까지 올라왔고, <span class=\"text-rose-400 font-medium\">AI 기업 간의 순환 투자 구조 및 IPO 러시</span>는 <span class=\"text-rose-400 font-medium\">닷컴 버블과 유사한 과열 양상</span>을 보인다. 이는 '<span class=\"text-amber-300 font-bold\">산업의 성장</span>'과 '<span class=\"text-rose-400 font-medium\">개별 종목의 과열</span>'이라는 두 가지 상반된 현실이 동시에 나타나고 있음을 시사한다. 따라서 투자자는 장기적인 AI 산업의 잠재력을 인정하면서도 <span class=\"text-rose-400 font-medium\">단기적인 가격 변동성과 거품 가능성을 경계</span>하며, <span class=\"text-rose-400 font-medium\">특정 기업에 대한 쏠림 현상을 피해야 한다</span>.",
+    "action_point": "<span class=\"text-cyan-300 font-semibold\">엔비디아</span>의 강력한 실적은 <span class=\"text-amber-300 font-bold\">AI 산업의 성장</span>을 재확인했지만, <span class=\"text-rose-400 font-medium\">주가 과열 및 시장의 높은 비공식 기대치</span>를 고려하여 <span class=\"text-rose-400 font-medium\">신중하게 접근</span>해야 합니다. AI 관련 투자 시에는 엔비디아 단일 종목에 대한 몰빵보다는 <span class=\"text-cyan-300 font-semibold\">SK 하이닉스</span>와 <span class=\"text-cyan-300 font-semibold\">삼성전자</span> 등 밸류체인 전반에 걸친 <span class=\"text-rose-400 font-medium\">분산 투자</span>를 통해 위험을 관리하고, 시장의 <span class=\"text-rose-400 font-medium\">과열 징후</span>와 경쟁 환경 변화를 지속적으로 모니터링해야 합니다."
   },
   "classification": {
     "primary_topic": "stock",

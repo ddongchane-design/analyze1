@@ -8,12 +8,12 @@
     "thumbnail": "https://img.youtube.com/vi/pm8T75fe-SE/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "한국 정부가 2035년까지 재생에너지 발전 비중을 30% 이상으로 확대하고 268조 원을 투자하겠다는 공격적인 계획을 발표했습니다. 이는 우크라이나 전쟁 이후 LNG 가격 변동성 등 에너지 안보 강화의 일환으로 추진되지만, 높은 비용과 과거 송배전 인프라 미비 문제 등 현실적인 난관에 부딪힐 수 있다는 우려가 제기됩니다. 특히 '태양광을 원전 수준으로 싸게 하겠다'는 목표는 현실성이 부족하다는 비판과 함께, 대규모 투자에 따른 숨겨진 전기요금 인상 가능성이 논의됩니다.",
+    "summary": "한국 정부가 2035년까지 <span class=\"text-amber-300 font-bold\">재생에너지 발전 비중을 30% 이상으로 확대</span>하고 <span class=\"text-amber-300 font-bold\">268조 원을 투자</span>하겠다는 공격적인 계획을 발표했습니다. 이는 우크라이나 전쟁 이후 LNG 가격 변동성 등 <span class=\"text-amber-300 font-bold\">에너지 안보 강화</span>의 일환으로 추진되지만, <span class=\"text-rose-400 font-medium\">높은 비용</span>과 과거 <span class=\"text-rose-400 font-medium\">송배전 인프라 미비 문제</span> 등 현실적인 난관에 부딪힐 수 있다는 우려가 제기됩니다. 특히 '<span class=\"text-amber-300 font-bold\">태양광을 원전 수준으로 싸게 하겠다</span>'는 목표는 <span class=\"text-rose-400 font-medium\">현실성이 부족하다는 비판</span>과 함께, 대규모 투자에 따른 <span class=\"text-rose-400 font-medium\">숨겨진 전기요금 인상 가능성</span>이 논의됩니다.",
     "key_claims": [
-      "정부는 2035년까지 재생에너지 발전 비중을 30% 이상(100GW 초과)으로 확대하고, 이를 위해 268조 원을 투자할 계획입니다.",
-      "이러한 공격적인 목표는 에너지 안보 강화(LNG 의존도 축소)와 탄소 감축이라는 정치적 의지에 기반하고 있으며, 전문가들의 실무 계획 위에 놓여 있습니다.",
-      "재생에너지의 높은 발전 단가와 과거 송배전 설비 미비로 인한 발전 제한 사례를 고려할 때, 정부의 '태양광을 원자력 수준으로 싸게 하겠다'는 목표의 실현 가능성에 대한 의문이 제기됩니다.",
-      "계획의 실행 과정에서 발생하는 비용 증가는 국민과 산업용 전기 요금 인상으로 이어져 국가 산업 경쟁력에 영향을 미칠 수 있습니다."
+      "정부는 2035년까지 <span class=\"text-amber-300 font-bold\">재생에너지 발전 비중을 30% 이상</span>(100GW 초과)으로 확대하고, 이를 위해 <span class=\"text-amber-300 font-bold\">268조 원을 투자할 계획</span>입니다.",
+      "이러한 공격적인 목표는 <span class=\"text-amber-300 font-bold\">에너지 안보 강화</span>(LNG 의존도 축소)와 <span class=\"text-amber-300 font-bold\">탄소 감축</span>이라는 정치적 의지에 기반하고 있으며, 전문가들의 실무 계획 위에 놓여 있습니다.",
+      "<span class=\"text-rose-400 font-medium\">재생에너지의 높은 발전 단가</span>와 과거 <span class=\"text-rose-400 font-medium\">송배전 설비 미비</span>로 인한 발전 제한 사례를 고려할 때, 정부의 '<span class=\"text-amber-300 font-bold\">태양광을 원자력 수준으로 싸게 하겠다</span>'는 목표의 <span class=\"text-rose-400 font-medium\">실현 가능성에 대한 의문</span>이 제기됩니다.",
+      "계획의 실행 과정에서 발생하는 <span class=\"text-rose-400 font-medium\">비용 증가는 국민과 산업용 전기 요금 인상</span>으로 이어져 <span class=\"text-rose-400 font-medium\">국가 산업 경쟁력에 영향을 미칠 수 있습니다</span>."
     ],
     "data_points": [
       "현재 재생에너지 발전량: 약 37GW (전체 10% 정도)",
@@ -24,12 +24,12 @@
       "계획 단위: 재생에너지 기본 계획 (10년, ~2035년), 전력 수급 기본 계획 (15년)"
     ],
     "signal": "bearish",
-    "signal_reason": "정부의 공격적인 재생에너지 확대 계획은 대규모 투자를 수반하나, 높은 비용, 송배전 인프라 미비 등 과거 문제의 재발 우려, 그리고 비현실적인 가격 목표 등으로 인해 '숨겨진 청구서'라는 제목처럼 향후 전기요금 인상 및 경제적 부담 증가로 이어질 수 있다는 비판적 시각이 강합니다. 이는 재생에너지 부문의 순조로운 성장에 대한 불확실성을 높입니다.",
+    "signal_reason": "정부의 <span class=\"text-amber-300 font-bold\">공격적인 재생에너지 확대 계획</span>은 대규모 투자를 수반하나, <span class=\"text-rose-400 font-medium\">높은 비용</span>, <span class=\"text-rose-400 font-medium\">송배전 인프라 미비</span> 등 과거 문제의 재발 우려, 그리고 <span class=\"text-rose-400 font-medium\">비현실적인 가격 목표</span> 등으로 인해 '<span class=\"text-rose-400 font-medium\">숨겨진 청구서</span>'라는 제목처럼 향후 <span class=\"text-rose-400 font-medium\">전기요금 인상 및 경제적 부담 증가</span>로 이어질 수 있다는 비판적 시각이 강합니다. 이는 재생에너지 부문의 순조로운 성장에 대한 <span class=\"text-rose-400 font-medium\">불확실성을 높입니다</span>.",
     "key_companies": [
       "한전 (KEPCO)"
     ],
-    "insight": "대한민국의 에너지 전환 정책은 에너지 안보 및 환경 목표 달성을 위한 정치적 의지가 강하게 반영된 '공격적인' 목표를 설정하고 있습니다. 그러나 이러한 목표는 현재 재생에너지의 높은 발전 단가와 부족한 송배전 인프라 등 현실적인 제약 조건들을 간과하거나 해결책이 명확하지 않은 상태에서 추진되고 있습니다. '태양광을 원자력 수준으로 싸게 하겠다'는 이상적인 목표와 현실 간의 괴리가 커질수록, 그 비용은 결국 국민과 기업의 전기요금 부담으로 전가될 위험이 있으며, 이는 한국 산업 경쟁력에 장기적인 영향을 미 미칠 수 있습니다.",
-    "action_point": "투자자들은 정부의 재생에너지 투자 규모와 함께, 관련 비용을 충당하기 위한 전기요금 개편 방향 및 송배전 인프라 확충 계획의 실제 이행 여부를 면밀히 주시해야 합니다. 특히, 재생에너지 발전과 연관된 에너지 저장장치(ESS), 스마트 그리드, 송변전 설비 기업 등 인프라 관련 기업의 기술력과 수익 모델이 정책 리스크를 얼마나 잘 상쇄할 수 있는지 평가하는 것이 중요합니다."
+    "insight": "대한민국의 <span class=\"text-amber-300 font-bold\">에너지 전환 정책</span>은 <span class=\"text-amber-300 font-bold\">에너지 안보 및 환경 목표 달성</span>을 위한 정치적 의지가 강하게 반영된 '공격적인' 목표를 설정하고 있습니다. 그러나 이러한 목표는 현재 <span class=\"text-rose-400 font-medium\">재생에너지의 높은 발전 단가</span>와 <span class=\"text-rose-400 font-medium\">부족한 송배전 인프라</span> 등 현실적인 제약 조건들을 간과하거나 해결책이 명확하지 않은 상태에서 추진되고 있습니다. '<span class=\"text-amber-300 font-bold\">태양광을 원자력 수준으로 싸게 하겠다</span>'는 이상적인 목표와 현실 간의 괴리가 커질수록, 그 비용은 결국 국민과 기업의 <span class=\"text-rose-400 font-medium\">전기요금 부담으로 전가될 위험</span>이 있으며, 이는 한국 <span class=\"text-rose-400 font-medium\">산업 경쟁력에 장기적인 영향을 미칠 수 있습니다</span>.",
+    "action_point": "투자자들은 정부의 <span class=\"text-amber-300 font-bold\">재생에너지 투자 규모</span>와 함께, 관련 비용을 충당하기 위한 <span class=\"text-amber-300 font-bold\">전기요금 개편 방향</span> 및 <span class=\"text-amber-300 font-bold\">송배전 인프라 확충 계획</span>의 실제 이행 여부를 면밀히 주시해야 합니다. 특히, 재생에너지 발전과 연관된 <span class=\"text-cyan-300 font-semibold\">에너지 저장장치(ESS)</span>, <span class=\"text-cyan-300 font-semibold\">스마트 그리드</span>, <span class=\"text-cyan-300 font-semibold\">송변전 설비 기업</span> 등 인프라 관련 기업의 기술력과 수익 모델이 정책 리스크를 얼마나 잘 상쇄할 수 있는지 평가하는 것이 중요합니다."
   },
   "classification": {
     "primary_topic": "energy",
