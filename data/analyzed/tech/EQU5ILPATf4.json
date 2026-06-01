@@ -1,0 +1,59 @@
+{
+  "video": {
+    "id": "EQU5ILPATf4",
+    "title": "방금 끝난 젠슨 황의 키노트를 보고 수혜주를 뽑아봤습니다",
+    "published": "2026-06-01T06:24:37+00:00",
+    "channel_name": "이효석아카데미",
+    "url": "https://www.youtube.com/watch?v=EQU5ILPATf4",
+    "thumbnail": "https://img.youtube.com/vi/EQU5ILPATf4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "젠슨 황의 GTC 키노트는 <span class=\"text-amber-300 font-bold\">AI 시대의 중대한 전환점</span>을 알렸습니다. <span class=\"text-cyan-300 font-semibold\">NVIDIA</span>는 에이전트 AI를 위한 '<span class=\"text-cyan-300 font-semibold\">Vera CPU</span>'를 선보이며 CPU 기업으로의 전환을 선언했고, '<span class=\"text-cyan-300 font-semibold\">AI PC</span>'의 등장을 예고하며 폭발적인 수요 증가를 전망했습니다. 이러한 변화는 코스피 급등 및 <span class=\"text-cyan-300 font-semibold\">삼성전자, 네이버, LG전자</span> 등 국내 주요 기업들의 주가 상승을 견인했습니다.",
+    "key_claims": [
+      "<span class=\"text-cyan-300 font-semibold\">NVIDIA</span>는 Vera Rubin 플랫폼과 <span class=\"text-cyan-300 font-semibold\">Vera CPU</span>를 통해 '<span class=\"text-amber-300 font-bold\">에이전트 AI' 시대</span>를 위한 <span class=\"text-amber-300 font-bold\">CPU 회사로 변모</span>하고 있음을 선언했다.",
+      "기존 PC 시장은 '<span class=\"text-amber-300 font-bold\">AI PC' 시대</span>로 재창조되며, AI 기능 탑재로 인한 <span class=\"text-amber-300 font-bold\">새로운 수요 폭발</span>이 예상된다.",
+      "AI는 이제 인프라 구축 단계를 넘어 <span class=\"text-amber-300 font-bold\">실제 아웃풋을 내는 단계로 진입</span>했으며, <span class=\"text-amber-300 font-bold\">추론 단가 하락이 오히려 총수요를 폭발시키는 '젠슨의 역설'</span>이 확인되고 있다."
+    ],
+    "data_points": [
+      "코스피 8,700포인트 돌파, 3% 이상 상승 (영상 시점 초기)",
+      "코스피 8,800포인트 육박 (영상 시점 중반)",
+      "삼성전자 9% 상승 (초기 언급), 10% 상승 (추후 언급)",
+      "네이버 상한가",
+      "SK하이닉스 1%대 상승",
+      "현대차 그룹 8% 상승",
+      "LG전자 상한가",
+      "전통적 PC는 40년 전에 나왔다",
+      "AI PC는 가격이 두 배가 되어도 살 가능성 높다"
+    ],
+    "signal": "bullish",
+    "signal_reason": "젠슨 황의 키노트는 <span class=\"text-amber-300 font-bold\">AI 기술이 인프라 단계를 넘어 실제 활용 및 새로운 시장 창출 단계로 진입</span>했음을 명확히 보여주며, '<span class=\"text-cyan-300 font-semibold\">에이전트 AI</span>'와 '<span class=\"text-cyan-300 font-semibold\">AI PC</span>'를 통한 <span class=\"text-amber-300 font-bold\">전례 없는 수요 폭발</span>과 지수, 개별 종목의 급등을 통해 강력한 긍정적 투자 시그널을 제공한다.",
+    "key_companies": [
+      "Samsung Electronics (삼성전자)",
+      "NVIDIA (젠슨 황)",
+      "Naver",
+      "SK Hynix (하이닉스)",
+      "Hyundai Motor Group (현대차 그룹)",
+      "LG Electronics",
+      "Meta",
+      "ARM",
+      "Microsoft (마이크로소프트)",
+      "Lenovo (레노버)",
+      "Dell (델)"
+    ],
+    "insight": "이번 키노트는 단순한 기술 발전이 아닌, AI가 컴퓨팅의 근본 패러다임을 '인간 중심'에서 '<span class=\"text-amber-300 font-bold\">에이전트 중심</span>'으로 전환시키고, 이에 따라 <span class=\"text-cyan-300 font-semibold\">핵심 하드웨어(CPU, GPU, 메모리)</span>와 최종 사용자 기기(PC)의 정의와 수요를 완전히 재편하는 '<span class=\"text-amber-300 font-bold\">시장 창출</span>'의 순간임을 시사한다. 이는 기존 시장 내 경쟁을 넘어선, <span class=\"text-amber-300 font-bold\">새로운 거대 시장의 개화</span>를 의미한다.",
+    "action_point": "투자자들은 <span class=\"text-amber-300 font-bold\">에이전트 AI 시대</span>를 위한 <span class=\"text-cyan-300 font-semibold\">CPU/메모리 기술을 선도하는 기업</span>과 <span class=\"text-amber-300 font-bold\">AI PC 시장 확대</span>의 직접적인 수혜를 받을 수 있는 <span class=\"text-cyan-300 font-semibold\">기업(PC 제조사, 부품 공급사)</span>에 주목하여 포트폴리오를 재편해야 한다. 기존의 관점을 벗어나 새로운 성장축을 파악하고, 이에 따른 <span class=\"text-amber-300 font-bold\">폭발적인 수요 증가 가능성</span>에 대비할 필요가 있다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "AI",
+      "엔비디아",
+      "AI PC",
+      "반도체",
+      "주식"
+    ]
+  }
+}

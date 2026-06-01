@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "cmnVFhfLTIE",
+    "title": "Today, NVIDIA reinvents PC",
+    "published": "2026-06-01T04:39:28+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=cmnVFhfLTIE",
+    "thumbnail": "https://img.youtube.com/vi/cmnVFhfLTIE/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "마이크로소프트와 엔비디아가 협력하여 <span class=\"text-cyan-300 font-semibold\">PC</span>를 <span class=\"text-amber-300 font-bold\">재창조</span>하고 <span class=\"text-amber-300 font-bold\">새로운 PC 시대</span>를 열 계획입니다. 엔비디아는 사티아(나델라)와 함께 이 프로젝트에 대해 더 많은 이야기를 나눌 예정입니다. 이는 <span class=\"text-amber-300 font-bold\">PC 산업의 중요한 변화</span>를 예고하는 발언입니다.",
+    "key_claims": [
+      "<span class=\"text-cyan-300 font-semibold\">마이크로소프트</span>와 <span class=\"text-cyan-300 font-semibold\">엔비디아</span>가 <span class=\"text-cyan-300 font-semibold\">PC</span>를 <span class=\"text-amber-300 font-bold\">재창조</span>할 것이다.",
+      "이것이 바로 <span class=\"text-amber-300 font-bold\">새로운 PC</span>가 될 것이다.",
+      "<span class=\"text-cyan-300 font-semibold\">사티아(나델라)</span>와 함께 진행 중인 <span class=\"text-amber-300 font-bold\">협업</span>이 있다.",
+      "향후 이 <span class=\"text-amber-300 font-bold\">협업</span>에 대한 더 많은 정보가 공개될 것이다."
+    ],
+    "data_points": [
+      "내일 밤 (우리 시간으로)"
+    ],
+    "signal": "bullish",
+    "signal_reason": "세계적인 기술 기업인 <span class=\"text-cyan-300 font-semibold\">마이크로소프트</span>와 <span class=\"text-cyan-300 font-semibold\">엔비디아</span>가 <span class=\"text-cyan-300 font-semibold\">PC</span>의 '<span class=\"text-amber-300 font-bold\">재창조</span>'를 공동으로 선언하는 것은 <span class=\"text-amber-300 font-bold\">강력한 혁신</span>과 <span class=\"text-amber-300 font-bold\">시장 성장의 잠재력</span>을 시사합니다. 이는 양사의 <span class=\"text-cyan-300 font-semibold\">핵심 기술 결합</span>을 통한 <span class=\"text-amber-300 font-bold\">새로운 시장 기회 창출</span>을 의미합니다.",
+    "key_companies": [
+      "마이크로소프트",
+      "엔비디아",
+      "사티아 (사티아 나델라)"
+    ],
+    "insight": "이 발언은 단순한 제품 출시를 넘어, <span class=\"text-amber-300 font-bold\">AI 시대</span>를 맞아 <span class=\"text-cyan-300 font-semibold\">PC의 근본적인 역할과 기능</span>을 재정의하려는 양사의 <span class=\"text-amber-300 font-bold\">전략적 의지</span>를 보여줍니다. 엔비디아의 <span class=\"text-cyan-300 font-semibold\">AI 역량</span>과 마이크로소프트의 <span class=\"text-cyan-300 font-semibold\">OS 및 소프트웨어 생태계</span>가 결합되어 <span class=\"text-amber-300 font-bold\">차세대 PC 아키텍처 및 사용자 경험에 혁신</span>을 가져올 가능성이 높습니다.",
+    "action_point": "투자자들은 <span class=\"text-cyan-300 font-semibold\">마이크로소프트</span>와 <span class=\"text-cyan-300 font-semibold\">엔비디아</span>의 향후 <span class=\"text-amber-300 font-bold\">공동 발표</span>를 면밀히 주시해야 합니다. 특히 <span class=\"text-cyan-300 font-semibold\">새로운 PC 플랫폼의 세부 내용</span>, <span class=\"text-cyan-300 font-semibold\">AI 통합 전략</span>, 그리고 이것이 기존 <span class=\"text-amber-300 font-bold\">PC 시장 및 반도체 산업에 미칠 파급 효과</span>를 분석하여 투자 기회를 모색해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "AI",
+      "엔비디아",
+      "마이크로소프트",
+      "PC",
+      "반도체",
+      "협력",
+      "투자",
+      "혁신"
+    ]
+  }
+}
