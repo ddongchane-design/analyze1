@@ -1,0 +1,36 @@
+{
+  "video": {
+    "id": "KEL1y2van34",
+    "title": "둠칫두둠칫! 엔비디아 젠슨황 댄스 파티",
+    "published": "2026-05-31T06:25:17+00:00",
+    "channel_name": "안될공학 - IT 테크 신기술",
+    "url": "https://www.youtube.com/watch?v=KEL1y2van34",
+    "thumbnail": "https://img.youtube.com/vi/KEL1y2van34/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "엔비디아 CEO 젠슨 황의 대외 활동 중 댄스 및 네트워킹 이벤트 장면을 짧게 스케치한 가십성 쇼츠 콘텐츠입니다.",
+    "key_claims": [
+      "엔비디아 젠슨 황 CEO의 소통 행보 및 현장 반응을 담은 스케치."
+    ],
+    "data_points": [],
+    "signal": "neutral",
+    "signal_reason": "엔비디아 젠슨 황 CEO 개인의 이벤트성 대외 활동 영상으로, 기업 가치나 반도체 시장 동향에 영향을 미치는 실질적인 기술적/재무적 이슈가 없는 단순 흥미 위주 가십입니다.",
+    "key_companies": [
+      "NVIDIA"
+    ],
+    "insight": "테크 리더들의 <span class=\"text-amber-300 font-bold\">인플루언서화 및 이벤트 스케치</span>는 기업 친화적 대중 이미지를 빌드하는 데 긍정적이지만, 정량적 투자 가치 분석에는 <span class=\"text-rose-400 font-medium\">영향이 전무</span>합니다.",
+    "action_point": "투자적 중요도가 극히 희박한 콘텐츠이므로, 젠슨 황 CEO의 대외 친화 활동 스케치 정도로만 필터링 처리합니다."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "젠슨 황",
+      "엔비디아",
+      "가십",
+      "기타 이슈"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "iyZ0tHM4sOE",
+    "title": "NVIDIA는 왜 빛을 주목하나",
+    "published": "2026-05-30T22:55:59+00:00",
+    "channel_name": "안될공학 - IT 테크 신기술",
+    "url": "https://www.youtube.com/watch?v=iyZ0tHM4sOE",
+    "thumbnail": "https://img.youtube.com/vi/iyZ0tHM4sOE/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "AI 데이터 센터의 급격한 전력 소비 증가 문제를 해결하기 위해 엔비디아가 주목하는 차세대 광학 인터커넥트(Optical Interconnect) 기술과 실리콘 포토닉스(Silicon Photonics)의 부상을 분석합니다.\n전력 소비량의 상당 부분이 데이터를 전송하는 데 소모되는 상황에서, 광기술은 물리적인 전송 속도를 높일 뿐만 아니라 전력 효율성을 극적으로 극대화할 수 있는 생존 기술로 정의됩니다.\n단기적인 고속 광 모듈의 수요 급증과 장기적인 광학 엔진, 시스템 패키징 중심의 밸류체인 역학 변화를 전망합니다.",
+    "key_claims": [
+      "AI 데이터 센터의 전력 소비량이 2030년까지 2024년 대비 두 배 이상 성장하여 일본 전체 전력 소비 규모를 넘어설 것으로 전망됨.",
+      "전기 신호를 빛 신호로 전송하는 광학 인터커넥트는 데이터 전송 과정의 에너지 효율성을 획기적으로 향상시키는 해결책임.",
+      "실리콘 포토닉스는 실리콘 반도체 공정 위에 광학 기능을 구현하는 기술로, 고이종 패키징 및 테스트 역량이 핵심으로 떠오름.",
+      "단기적으로 고속 광 모듈 수요가 급증하겠으나, 장기적으로는 광 엔진 개발, 스위치 ASIC 및 패키징 관련 부품사들 간의 주도권 경쟁이 치열해질 것임."
+    ],
+    "data_points": [
+      "2030년 글로벌 AI 데이터 센터 전력 소비량 전망: 약 945TWh 수준 (2024년 415TWh 대비 2배 이상 증가)",
+      "광 인터커넥트 도입 시 전력 효율 상승"
+    ],
+    "signal": "bullish",
+    "signal_reason": "AI 연산 증가에 따른 물리적 병목이 칩 내부를 넘어 전력 및 네트워킹 전송 효율로 전이되고 있어, 엔비디아가 주도하는 실리콘 포토닉스 및 고성능 광학 패키징 기술 생태계의 성장이 필연적입니다.",
+    "key_companies": [
+      "NVIDIA",
+      "TSMC",
+      "Broadcom",
+      "Intel"
+    ],
+    "insight": "데이터 센터의 핵심 병목이 연산 능력에서 <span class=\"text-rose-400 font-medium\">전력 공급 및 전송 전력 손실</span>로 이동하면서, <span class=\"text-cyan-300 font-semibold\">실리콘 포토닉스(Silicon Photonics)</span>와 <span class=\"text-cyan-300 font-semibold\">광학 인터커넥트</span>는 단순 전송 수단이 아닌 AI 공장 효율의 핵심축으로 진화할 것입니다.",
+    "action_point": "고속 광 모듈 시장의 지배적 사업자들과 함께, 전자 회로와 광학 소자를 통합하는 <span class=\"text-amber-300 font-bold\">CPO(광전융합 패키징) 기술 선도 기업</span> 및 검사/테스트 밸류체인을 선제적으로 선점해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "실리콘포토닉스",
+      "광학인터커넥트",
+      "AI전력효율",
+      "CPO패키징",
+      "엔비디아광기술"
+    ]
+  }
+}
