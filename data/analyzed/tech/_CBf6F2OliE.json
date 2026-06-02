@@ -1,0 +1,41 @@
+{
+  "video": {
+    "id": "_CBf6F2OliE",
+    "title": "Birthday gift from Jensen Huang",
+    "published": "2026-06-02T04:25:52+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=_CBf6F2OliE",
+    "thumbnail": "https://img.youtube.com/vi/_CBf6F2OliE/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "영상에는 화자가 <span class=\"text-amber-300 font-bold\">동시에 17가지 일을 처리할 수 있다는 과장된 능력치</span>를 언급하며, 이를 자신보다 훨씬 대단하다고 평가하는 내용이 담겨 있습니다. 이 대화는 <span class=\"text-cyan-300 font-semibold\">제이슨 황(Jensen Huang)</span>이라는 인물과의 관계 속에서 진행되었을 가능성이 높습니다. 마지막으로 상대방의 생일이 6월 2일인지 확인하는 개인적인 질문으로 마무리됩니다.",
+    "key_claims": [
+      "<span class=\"text-amber-300 font-bold\">동시에 17가지 일을 할 수 있는 능력</span>이 존재한다.",
+      "해당 능력은 화자 본인보다 훨씬 뛰어나다."
+    ],
+    "data_points": [
+      "17가지 일",
+      "6월 2일 (생일)"
+    ],
+    "signal": "neutral",
+    "signal_reason": "영상 자막은 대화의 단편적인 부분으로, 특정 기업의 실적, 시장 동향, 기술 발전 등 <span class=\"text-rose-400 font-medium\">투자 시그널로 해석할 수 있는 정보가 전무합니다</span>. 개인적인 대화 내용에 불과합니다.",
+    "key_companies": [
+      "Nvidia"
+    ],
+    "insight": "<span class=\"text-cyan-300 font-semibold\">제이슨 황(Jensen Huang)</span>과의 연결고리를 고려할 때, '동시에 17가지 일을 할 수 있다'는 언급은 <span class=\"text-cyan-300 font-semibold\">인공지능(AI)</span>이나 <span class=\"text-cyan-300 font-semibold\">고성능 컴퓨팅의 병렬 처리 능력</span>과 같은 Nvidia의 핵심 기술 역량을 비유적으로 표현한 것일 수 있습니다. 이는 AI가 다양한 작업을 동시에 수행하는 복합적인 능력을 갖추고 있음을 암시하며, <span class=\"text-amber-300 font-bold\">미래 기술의 확장 가능성</span>을 상징적으로 보여줍니다.",
+    "action_point": "본 영상 자막은 구체적인 투자 정보보다는 특정 기술 리더의 개인적인 대화 또는 비유적인 표현에 가깝습니다. 따라서 이 내용만으로는 <span class=\"text-rose-400 font-medium\">직접적인 투자 행동을 취하기 어렵습니다</span>. 다만, '17가지 일'과 같은 과장된 표현을 통해 <span class=\"text-cyan-300 font-semibold\">AI 및 고성능 컴퓨팅의 잠재력</span>에 대한 관심을 유지하고, <span class=\"text-cyan-300 font-semibold\">Nvidia</span>와 같은 관련 기업들의 핵심 기술 발전을 지속적으로 모니터링할 필요가 있습니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "etc"
+    ],
+    "tags": [
+      "AI",
+      "엔비디아",
+      "고성능 컴퓨팅",
+      "제이슨 황",
+      "병렬 처리"
+    ]
+  }
+}

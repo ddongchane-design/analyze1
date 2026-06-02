@@ -1,0 +1,38 @@
+{
+  "video": {
+    "id": "8odKF8TioCk",
+    "title": "Why has uranium become a precious resource again?",
+    "published": "2026-06-02T04:24:16+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=8odKF8TioCk",
+    "thumbnail": "https://img.youtube.com/vi/8odKF8TioCk/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "우라늄은 과거 흔한 자원이었으나 <span class=\"text-amber-300 font-bold\">코로나 위기 이후 원자력 발전 수요 증가</span>로 <span class=\"text-amber-300 font-bold\">귀해지기 시작</span>했습니다.\n<span class=\"text-violet-300 font-medium\">러시아-우크라이나 전쟁</span>은 농축 우라늄 공급의 핵심인 러시아를 배제하며 <span class=\"text-rose-400 font-medium\">공급난을 가속화</span>했습니다.\n<span class=\"text-cyan-300 font-semibold\">소형 모듈 원자로(SMR)</span> 등의 부상으로 미래 우라늄 수요는 급증할 것으로 예상되어 <span class=\"text-rose-400 font-medium\">공급 부족 심화</span>가 주목받고 있습니다.",
+    "key_claims": [
+      "우라늄은 이제 <span class=\"text-amber-300 font-bold\">귀한 자원</span>으로 인식되고 있다.",
+      "<span class=\"text-amber-300 font-bold\">코로나19 이후</span> 여러 나라들의 <span class=\"text-amber-300 font-bold\">원자력 발전소 건설 및 활용 움직임</span>으로 우라늄 수요가 급증했다.",
+      "<span class=\"text-violet-300 font-medium\">러시아-우크라이나 전쟁</span>은 국제 우라늄 시장의 주요 공급자인 <span class=\"text-rose-400 font-medium\">러시아의 농축 우라늄 공급에 문제</span>를 야기했다.",
+      "미국을 비롯한 서방 세계가 <span class=\"text-violet-300 font-medium\">전략적인 이유로 러시아산 우라늄 사용을 중단하려</span> 하면서 <span class=\"text-rose-400 font-medium\">공급망 압박이 심화</span>되고 있다.",
+      "<span class=\"text-cyan-300 font-semibold\">소형 모듈 원자로(SMR)의 붐</span>은 앞으로 우라늄 수요를 더욱 증가시킬 <span class=\"text-amber-300 font-bold\">주요 요인</span>이다."
+    ],
+    "data_points": [],
+    "signal": "bullish",
+    "signal_reason": "전 세계적으로 <span class=\"text-amber-300 font-bold\">원자력 발전 수요 증가</span>하고 <span class=\"text-cyan-300 font-semibold\">SMR 같은 신기술</span>이 확산되는 반면, <span class=\"text-violet-300 font-medium\">러시아-우크라이나 전쟁 등 지정학적 요인</span>으로 우라늄 공급이 심각하게 제한되어 <span class=\"text-rose-400 font-medium\">강력한 수급 불균형</span>이 예상됩니다.",
+    "key_companies": [],
+    "insight": "우라늄 시장은 단순한 가격 변동이 아닌, <span class=\"text-violet-300 font-medium\">지정학적 공급 충격</span>과 <span class=\"text-cyan-300 font-semibold\">소형 모듈 원자로(SMR) 같은 기술 혁신</span>에 의한 <span class=\"text-amber-300 font-bold\">구조적인 수요 증가</span>가 동시에 맞물리며 근본적인 시장 패러다임 변화를 겪고 있습니다. 이는 우라늄이 <span class=\"text-amber-300 font-bold\">에너지 안보</span> 및 <span class=\"text-amber-300 font-bold\">탄소 중립 시대</span>의 <span class=\"text-amber-300 font-bold\">핵심 전략 자원</span>으로 재평가받고 있음을 의미합니다.",
+    "action_point": "투자자는 <span class=\"text-cyan-300 font-semibold\">우라늄 채굴 및 가공 기업</span>, <span class=\"text-cyan-300 font-semibold\">핵연료 공급사</span>, 그리고 <span class=\"text-cyan-300 font-semibold\">소형 모듈 원자로(SMR) 기술 개발 및 건설 관련 기업</span>에 대한 잠재적 투자 기회를 모색해야 합니다. 동시에 <span class=\"text-violet-300 font-medium\">러시아 및 주요 우라늄 생산국의 정책 변화</span>와 <span class=\"text-amber-300 font-bold\">글로벌 에너지 안보 동향</span>을 지속적으로 모니터링해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "energy",
+    "secondary_topics": [
+      "economy",
+      "stock"
+    ],
+    "tags": [
+      "우라늄",
+      "원자력",
+      "SMR"
+    ]
+  }
+}

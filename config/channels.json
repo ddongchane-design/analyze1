@@ -103,6 +103,14 @@
       "rss": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIUni4ScRp4mqPXsxy62L5w",
       "active": true,
       "subscribers": 390000
+    },
+    {
+      "id": "UChY8VUjXv0aA7RF9hDQ0ISg",
+      "name": "교양이를 부탁해",
+      "handle": "@sbs_explained",
+      "rss": "https://www.youtube.com/feeds/videos.xml?channel_id=UChY8VUjXv0aA7RF9hDQ0ISg",
+      "active": true,
+      "subscribers": 437000
     }
   ]
 }

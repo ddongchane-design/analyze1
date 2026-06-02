@@ -1,0 +1,57 @@
+{
+  "video": {
+    "id": "ryGILXFRxJg",
+    "title": "\"지금 이차전지 굉장한 기회다\" 뭘 봐야할까? | 김현수 하나증권 리서치센터 연구위원 [더블 업]",
+    "published": "2026-06-02T02:08:19+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=ryGILXFRxJg",
+    "thumbnail": "https://img.youtube.com/vi/ryGILXFRxJg/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "2차전지 섹터는 최근 한 달간 <span class=\"text-rose-400 font-medium\">ESS 마진 악화</span>와 <span class=\"text-violet-300 font-medium\">미중 정상회담 우려</span>로 하락했으나, 이는 일시적 요인이었으며 <span class=\"text-amber-300 font-bold\">펀더멘털은 견고합니다</span>.",
+    "key_claims": [
+      "2차전지 섹터의 최근 하락은 <span class=\"text-rose-400 font-medium\">ESS 수익성 악화</span> 및 <span class=\"text-violet-300 font-medium\">미중 정상회담 언급</span> 등 일시적 요인에 기인하며, <span class=\"text-amber-300 font-bold\">구조적 문제는 아니다</span>.",
+      "<span class=\"text-cyan-300 font-semibold\">ESS(에너지저장장치) 시장</span>은 유틸리티를 넘어 <span class=\"text-cyan-300 font-semibold\">데이터센터 사업자</span>로 고객군이 확장되며 <span class=\"text-amber-300 font-bold\">강력한 성장 동력</span>으로 작용한다.",
+      "미국 전기차 시장은 보조금 폐지 이후 <span class=\"text-rose-400 font-medium\">여전히 부진</span>하나, 유럽은 <span class=\"text-amber-300 font-bold\">견조한 성장세</span>를 보이며, 장기적으로 <span class=\"text-cyan-300 font-semibold\">SDB(Software Defined Vehicle) 및 자율주행</span>이 전기차의 성장을 견인할 것이다.",
+      "배터리 소재 기업보다 <span class=\"text-cyan-300 font-semibold\">셀 메이커(LG에너지솔루션, 삼성SDI)</span>에 집중하는 <span class=\"text-amber-300 font-bold\">투자 전략이 유효하다</span>.",
+      "현재 셀 메이커의 주가는 장기 목표 실적(2028년) 대비 <span class=\"text-amber-300 font-bold\">매수하기 편한 가격대</span>로, <span class=\"text-amber-300 font-bold\">작은 호재에도 민감하게 반응할 수 있는 기회</span>다."
+    ],
+    "data_points": [
+      "미국 전기차 월평균 판매량: 보조금 폐지 후 10만대에서 6만대로 40% 감소",
+      "배터리 기업 매출 중 전기차 비중 75%, 그 중 미국 비중 50%",
+      "유럽 전기차 시장 성장률: 기존 20%에서 현재 40%로 증가",
+      "LG엔솔 ESS 수주(오라클 건) 매출 비중: ESS 내 7%, 전사 매출 대비 4%",
+      "자율주행 레벨 1 대비 2.5/3의 전력 소모량 1,000배 증가",
+      "기관투자자 매수 기준: 3개월 내 30% 업사이드, 장기 50% 이상 업사이드",
+      "플루런스 에너지 주가: 하루 만에 40% 상승 (ESS 고객군 확장 논리)"
+    ],
+    "signal": "bullish",
+    "signal_reason": "최근 조정은 일시적 요인이며, <span class=\"text-cyan-300 font-semibold\">ESS 시장 확장</span>과 <span class=\"text-cyan-300 font-semibold\">미래 전기차 기술 발전</span>이라는 <span class=\"text-amber-300 font-bold\">구조적 성장 동력</span>이 유효하다. 셀 메이커들의 현재 밸류에이션은 장기 성장 잠재력 대비 <span class=\"text-amber-300 font-bold\">매력적인 매수 기회</span>를 제공한다.",
+    "key_companies": [
+      "LG 에너지 솔루션 (LG엔솔)",
+      "삼성SDI (SDI)",
+      "에코프로 (Ecopro)",
+      "오라클 (Oracle)",
+      "플루런스 에너지 (Fluence Energy)",
+      "테슬라 (Tesla)"
+    ],
+    "insight": "2차전지 시장의 <span class=\"text-amber-300 font-bold\">핵심 성장 동력</span>은 단순한 전기차 보급률을 넘어 <span class=\"text-cyan-300 font-semibold\">ESS의 고객군 확장</span>(특히 <span class=\"text-cyan-300 font-semibold\">데이터센터</span>) 및 미래 전기차의 <span class=\"text-cyan-300 font-semibold\">SDB/자율주행 기술 발전</span>이라는 고도화된 에너지 수요로 재편되고 있다. 이는 시장의 비즈니스 모델을 확장시키고 밸류에이션을 자극하는 중요한 <span class=\"text-amber-300 font-bold\">질적 성장 변곡점</span>을 의미한다.",
+    "action_point": "최근 가격 조정을 매수 기회로 활용하여 <span class=\"text-cyan-300 font-semibold\">LG에너지솔루션과 삼성SDI 등 셀 메이커</span>에 대한 비중을 확대하라. <span class=\"text-cyan-300 font-semibold\">ESS 시장의 확장</span>, 특히 새로운 최종 고객사(<span class=\"text-cyan-300 font-semibold\">데이터센터</span> 등) 확보 여부를 주요 투자 판단 기준으로 삼고, 장기적으로 <span class=\"text-cyan-300 font-semibold\">SDB 및 자율주행</span>으로의 전환이 전기차 배터리 수요를 견인할 요인임을 인지하고 접근하라."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "energy",
+      "tech"
+    ],
+    "tags": [
+      "2차전지",
+      "ESS",
+      "전기차",
+      "데이터센터",
+      "자율주행",
+      "셀메이커",
+      "투자전략"
+    ]
+  }
+}
