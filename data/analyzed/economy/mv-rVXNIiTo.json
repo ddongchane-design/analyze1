@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "mv-rVXNIiTo",
+    "title": "환율 1500원 시대? 코스피 올라도 원화는 안오르는 이유 | \"페트로달러 말고 DRAM달러\" | 빈난새의 빈틈없이월가",
+    "published": "2026-06-04T00:10:00+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=mv-rVXNIiTo",
+    "thumbnail": "https://img.youtube.com/vi/mv-rVXNIiTo/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "국내 <span class=\"text-cyan-300 font-semibold\">반도체</span> 대호황에도 불구하고 <span class=\"text-amber-300 font-bold\">원달러 환율</span>이 1,500원 돌파 위기에 직면한 구조적 원인들을 파헤칩니다. 아시아 수입국들의 <span class=\"text-violet-300 font-medium\">중동</span> 에너지 결제 부담 증가, 한미 금리 역전차로 인한 외국인 투자자의 2% 캐리 수익 헷지 쏠림, 그리고 <span class=\"text-cyan-300 font-semibold\">반도체</span> 대기업들이 수출 대금을 원화로 바꾸지 않고 해외 달러 자산으로 재투자하는 'DRAM 달러' <span class=\"text-rose-400 font-medium\">유출</span>이 결합된 결과입니다.",
+    "key_claims": [
+      "외국인들은 한국 <span class=\"text-cyan-300 font-semibold\">반도체</span> 주식을 대거 매수하지만, 한미 금리 차이(+2%)와 미래 원화 하락을 헷징하기 위해 적극적으로 원화를 선물 환매도하는 FX 해지를 동반하고 있다.",
+      "미-<span class=\"text-violet-300 font-medium\">이란</span> <span class=\"text-violet-300 font-medium\">중동</span> 갈등 장기화로 아시아 통화 가치가 동반 <span class=\"text-rose-400 font-medium\">급락</span>하며 <span class=\"text-amber-300 font-bold\">환율</span> 방어 비용이 급증했다.",
+      "<span class=\"text-cyan-300 font-semibold\">반도체</span> 수출 흑자로 벌어들인 달러가 국내 원화 환전 수요로 들어오지 않고 해외 지분 및 설비 자산에 머무는 'DRAM 달러' 현상이 원화 약세를 유발한다."
+    ],
+    "data_points": [
+      "원달러 환율 수준: 1,500원 이상 돌파 시도",
+      "한미 기준금리 차이: 약 2% 내외 (한국 저금리, 미국 고금리)",
+      "외국인 한국 주식 매수 대비 선물환 매도(환헤지 비율) 신규 유입분 급증"
+    ],
+    "signal": "bearish",
+    "signal_reason": "<span class=\"text-amber-300 font-bold\">원달러 환율</span> 1,500원대 안착은 고비용 수입 <span class=\"text-amber-300 font-bold\">인플레이션</span>을 구조화하고, 내수 기업들의 마진 스프레드를 축소시키는 거시 경제적 악재입니다.",
+    "key_companies": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "insight": "과거에는 '수출 호조 = 원화 강세' 공식이 통했으나, 지금은 금리 역전차 때문에 주식을 사면서도 통화 가치는 헷징하여 원화를 매도하는 금융 메커니즘이 강하게 고착화되었습니다. 벌어들인 달러마저 본국으로 송환되지 않는 DRAM 달러 현상은 원화의 장기적 신뢰도 저하를 보여줍니다.",
+    "action_point": "<span class=\"text-amber-300 font-bold\">환율</span> 급등에 따른 원화 가치 하락에 대응하여, 원자재 가격 전가력이 뛰어나며 원화 부채 비중이 낮은 대형 <span class=\"text-cyan-300 font-semibold\">반도체</span> 대기업 및 외화 자산(미국 주식, 달러 예금)의 비중을 대폭 늘려야 합니다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "원달러환율1500원",
+      "환헤지",
+      "한미금리차",
+      "DRAM달러",
+      "자본유출",
+      "지정학적불안",
+      "한경글로벌마켓"
+    ]
+  }
+}

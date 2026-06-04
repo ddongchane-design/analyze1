@@ -1,16 +1,18 @@
 {
-  "cross_insight": "미 증시가 사상 최고가 랠리 후 눈높이 <span class=\"text-rose-400 font-medium\">과열</span>을 식히는 단기 <span class=\"text-rose-400 font-medium\">조정</span>을 겪는 한편, 한국 시장은 연금 자산의 대형 ETF 유입 덕분에 견조한 하방 경직성을 보이고 있습니다. <span class=\"text-cyan-300 font-semibold\">반도체</span> 쏠림 <span class=\"text-rose-400 font-medium\">과열</span>이 진정되며 6월 선물옵션만기일을 기점으로 소외되었던 저PER 밸류업 섹터(자동차, 금융 등)로의 순환매가 기대됩니다.",
+  "cross_insight": "미 증시가 사상 최고가 랠리 후 이격 <span class=\"text-rose-400 font-medium\">조정</span>에 돌입한 가운데, 국내 증시는 빠른 순환매가 전개 중입니다. 젠슨 황 방한 기대로 급등했던 대형 가치주(LG그룹 등)에서 차익 실현 매물이 나와 <span class=\"text-rose-400 font-medium\">조정</span>세를 보이나, 데이터센터 전력 쇼티지 해결의 대안으로 조선주(삼성중공업 부유식 데이터센터 및 HD현<span class=\"text-violet-300 font-medium\">대중</span>공업/하나엔진의 고마진 발전용 엔진 수주)가 강력한 주도주로 떠올랐습니다. 아울러 KOSDAQ 소외 소부장 장비주 및 2차전지가 동반 반등하며 지수 하방을 견고히 지탱하고 있습니다. 개인의 연금 계좌 기반 210조 원 규모 ETF 순유입이 강력한 수급 방어막 역할을 하고 있습니다.",
   "consensus": "neutral",
-  "divergence": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 주도주의 추가 오버슈팅 기대와 기술적 이격도 <span class=\"text-rose-400 font-medium\">과열</span>에 따른 <span class=\"text-rose-400 font-medium\">급락</span> <span class=\"text-rose-400 font-medium\">리스크</span>(<span class=\"text-amber-300 font-bold\">감마 스퀴즈</span> 꼬리 <span class=\"text-rose-400 font-medium\">위험</span>) 경계가 팽팽합니다.",
+  "divergence": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span> IPO 공모를 위한 국장 매도 이탈 우려와 대형주 위주 변동성 확대 국면에서의 코스닥 소부장/바이오 순환매 지속성에 대한 이견이 있습니다.",
   "key_themes": [
-    "극단적인 반도체/AI 쏠림",
-    "국내 퇴직연금의 ETF 머니무브",
-    "6월 선물옵션만기일 대기"
+    "데이터센터 발전용 엔진 및 부유식 데이터센터",
+    "조선/엔진 섹터 고마진 수혜",
+    "코스닥 IT 소부장 순환매",
+    "개인 ETF 210조 유입"
   ],
   "watch_list": [
-    "삼성전자",
-    "SK하이닉스",
-    "현대자동차",
-    "밸류업 ETF"
+    "삼성중공업",
+    "HD현대중공업",
+    "한국카본",
+    "원익IPS",
+    "LG전자"
   ]
 }

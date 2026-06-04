@@ -1,18 +1,18 @@
 {
-  "cross_insight": "글로벌 빅테크들의 AI 인프라 구축을 위한 설비투자 경쟁이 가속화되는 가운데, 독점적 지위를 견제하려는 독자 칩(ASIC) 공동 개발 루머(<span class=\"text-cyan-300 font-semibold\">구글</span>-<span class=\"text-cyan-300 font-semibold\">마벨</span>-<span class=\"text-cyan-300 font-semibold\">인텔</span>)가 부각되었습니다. 미국의 <span class=\"text-violet-300 font-medium\">대중</span> <span class=\"text-cyan-300 font-semibold\">반도체</span> 장비 수출 통제로 <span class=\"text-violet-300 font-medium\">중국</span>의 독자 3D 칩 적층 시도는 <span class=\"text-rose-400 font-medium\">수율 저하</span>(20% 수준)에 막혀 격차가 지속되고 있습니다.",
+  "cross_insight": "AI 인프라 경쟁이 가속화되며 핵심 <span class=\"text-cyan-300 font-semibold\">반도체</span> 생산 용량 증설 경쟁이 본격화되고 있습니다. <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>는 청주 M15X 조기 장비 투자 및 내년 용in 클러스터 가동을 포함한 5개년 <span class=\"text-cyan-300 font-semibold\">HBM</span> 증설 로드맵을 가속하고 있으며 샌디스크와의 HBF 기술 협력을 구체화했습니다. <span class=\"text-cyan-300 font-semibold\">삼성전자</span> 또한 <span class=\"text-cyan-300 font-semibold\">HBM</span>4 샘플 출하 등으로 추격에 나서고 있으며, 서버 및 모바일용 일반 D램 가격이 최근 3주간 전고점을 돌파하는 등 업황 강세가 지속되고 있습니다. 한편 AI 전력 병목을 해소하기 위한 하드웨어 수요가 부각됩니다.",
   "consensus": "bullish",
-  "divergence": "엔비디아 일극 체제 유지 여부와 빅테크 자체 칩 전환 속도 및 파운드리 다변화(<span class=\"text-cyan-300 font-semibold\">인텔</span> 18A 공정 신뢰성)에 대한 시각 차이가 존재합니다.",
+  "divergence": "<span class=\"text-cyan-300 font-semibold\">HBM</span> 선두주자의 지배력 유지 여부와 후발주자의 테스트 진척 속도, 그리고 모바일/PC 등 전방 리테일 디바이스 수요 복원 속도에 대한 시각차가 존재합니다.",
   "key_themes": [
-    "빅테크 AI CAPEX 확장",
-    "주문형 반도체(ASIC) 협업",
-    "중국 반도체 장비 규제 영향"
+    "HBM 5개년 증설 로드맵",
+    "DRAM 가격 전고점 재상승",
+    "차세대 HBF 기술 협력",
+    "삼성전자 추격 모멘텀"
   ],
   "watch_list": [
-    "엔비디아",
-    "구글",
-    "마벨",
-    "인텔",
-    "TSMC",
-    "ASML"
+    "SK하이닉스",
+    "삼성전자",
+    "샌디스크",
+    "마이크론",
+    "TSMC"
   ]
 }

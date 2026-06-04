@@ -1,0 +1,50 @@
+{
+  "video": {
+    "id": "r_6JQvfZ9cI",
+    "title": "올 것이 왔다, 순환매 장세 어떻게 돌파할까? | 장우진 작가 [더블 체크]",
+    "published": "2026-06-04T03:00:00+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=r_6JQvfZ9cI",
+    "thumbnail": "https://img.youtube.com/vi/r_6JQvfZ9cI/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "AI 테마의 쏠림이 진정되는 가운데, 시장은 단기 급등했던 모멘텀주(LG전자, <span class=\"text-cyan-300 font-semibold\">현대차</span> 등)에서 차익 매물이 나와 10일선 지지를 테스트하고 있습니다. 반면 전력 쇼티지 우려 장기화로 조선 대형주(삼성중공업의 Floating Data Center 수주)와 발전용 엔진 대형사(HD현<span class=\"text-violet-300 font-medium\">대중</span>공업, 하나엔진)의 마진 급증(30-40% 수준) 기대감이 새로운 순환매 주도주로 부각되고 있으며, 소외받던 KOSDAQ 소부장 및 이차전지(LG엔솔 등)의 동반 반등세가 시작되었습니다.",
+    "key_claims": [
+      "젠슨 황 테마로 단기 급등했던 LG전자, 네이버 등은 숨고르기에 들어갔으나 10일 이동평균선 지지 여부에 따라 상승 추세 유지가 결정된다.",
+      "육상 전력 부족 대안으로 삼성중공업의 해상 부유식 데이터센터(FDC) 및 HD현<span class=\"text-violet-300 font-medium\">대중</span>공업의 데이터센터용 발전 엔진(선박용 대비 5~6배 단가 상승으로 마진 30-40% 달성)이 각광받고 있다.",
+      "KOSDAQ 시장은 지나친 낙폭 과대 인식 속에 <span class=\"text-cyan-300 font-semibold\">반도체</span> 장비(원익IPS, 이오테크니스 등)와 바이오, 2차전지가 동반 상승하며 빠른 키 맞추기가 진행 중이다."
+    ],
+    "data_points": [
+      "HD현대중공업 데이터센터 발전 엔진 영업이익률 전망: 기존 선박용(10% 대) 대비 30~40% 수준으로 폭증",
+      "조선/엔진 대형주 주가 상승률: 삼성중공업 장대 양봉 형성 및 한국카본 보행제 수주 증가로 목표가 6만원 상향 리포트 출회"
+    ],
+    "signal": "neutral",
+    "signal_reason": "기존 대형 주도주의 가격 <span class=\"text-rose-400 font-medium\">조정</span> 국면이나, 해상 데이터센터 및 발전용 엔진 등 AI 전력 부족의 본질을 해결하는 조선/에너지 밸류체인과 코스닥 소외주들로의 활발한 순환매가 자금의 하방 경직성을 지탱합니다.",
+    "key_companies": [
+      "삼성중공업",
+      "HD현대중공업",
+      "한국카본",
+      "원익IPS",
+      "LG전자"
+    ],
+    "insight": "AI 데이터센터의 전력 부족은 육상 그리드를 넘어 해상 부유식 데이터센터(FDC) 및 선박용 발전 엔진의 개조 수주라는 초유의 공급 마찰을 낳고 있습니다. 이는 단순 <span class=\"text-cyan-300 font-semibold\">반도체</span>보다 전력 부족이라는 병목 해결을 쥐고 있는 인프라 기업들의 가격 결정력과 영업마진이 극대화되는 국면입니다.",
+    "action_point": "단기 급등한 테크 성장주를 무리하게 매수하기보다는, AI 인프라의 실질적 병목인 전력을 해결하는 조선 발전 엔진 및 LNG 보행제(한국카본 등) 저평가 기자재 우량주, 그리고 코스닥 대표 소부장 반등주로 자산을 분산 배치해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "energy"
+    ],
+    "tags": [
+      "순환매장세",
+      "부유식데이터센터",
+      "발전용엔진",
+      "HD현대중공업",
+      "삼성중공업",
+      "한국카본",
+      "소부장반등",
+      "삼프로TV"
+    ]
+  }
+}

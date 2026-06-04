@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "JJbVYMbqBcg",
+    "title": "우리는 왜 배부른데도 계속 먹게 될까?",
+    "published": "2026-06-04T02:00:00+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=JJbVYMbqBcg",
+    "thumbnail": "https://img.youtube.com/vi/JJbVYMbqBcg/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "포만감을 전달하는 장 분비 호르몬 GLP-1의 작용 기전과 비만 환자에게서 호르몬 분비가 저하되는 기전을 과학적으로 설명하고, 비만 치료제(위고비 등)의 약리학적 대안 가능성을 다룹니다.",
+    "key_claims": [
+      "GLP-1은 인슐린 분비를 촉진하고 뇌에 포만감 신호를 전달하여 과식을 막는 핵심 호르몬이다.",
+      "가공식품과 비만은 호르몬 민감성을 저하시켜 포만 브레이크를 밀리게 하는 악순환을 형성한다."
+    ],
+    "data_points": [
+      "위고비 등 비만 치료제 약리학적 타겟: GLP-1 유사체 수용체 작용제"
+    ],
+    "signal": "neutral",
+    "signal_reason": "<span class=\"text-violet-300 font-medium\">대중</span>적 의학 지식 전달 콘텐츠로, 관련 신약 시장의 성장 가치와 현대 사회의 헬스케어 동향을 이해하는 기초 배경을 제공합니다.",
+    "key_companies": [
+      "노보노디스크"
+    ],
+    "insight": "식욕 조절은 개인의 의지 문제가 아니라 생물학적 호르몬 및 현대 가공식품 유입에 따른 뇌 보상 체계의 결과이며, 이를 표적하는 GLP-1 치료제 생태계의 팽창 속도는 멈추지 않을 것입니다.",
+    "action_point": "글로벌 비만 치료 및 헬스케어 생태계를 지배하는 독점 제약사 및 원료 공급 파트너망에 대한 장기 관점 투자를 검토해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "GLP-1",
+      "포만감호르몬",
+      "비만치료제",
+      "위고비",
+      "의학과학",
+      "뇌보상체계",
+      "안될과학"
+    ]
+  }
+}

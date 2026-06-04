@@ -1,0 +1,40 @@
+{
+  "video": {
+    "id": "rCY9Ds37MVY",
+    "title": "Risk-on, but flexible! #2026년 6월 고객자산배분전략 #shorts",
+    "published": "2026-06-04T00:00:00+00:00",
+    "channel_name": "Smart Money by MiraeAsset",
+    "url": "https://www.youtube.com/watch?v=rCY9Ds37MVY",
+    "thumbnail": "https://img.youtube.com/vi/rCY9Ds37MVY/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미래에셋증권의 2026년 6월 고객자산배분전략 요약 숏츠로, <span class=\"text-rose-400 font-medium\">위험</span> 자산 선호(Risk-on) 기조를 유지하되 시장 변동성 확대에 대응해 유연하고 분산된 배분 전략을 조언합니다.",
+    "key_claims": [
+      "6월 글로벌 금융 시장은 여전히 <span class=\"text-rose-400 font-medium\">위험</span>자산 강세(Risk-on) 우위를 지지한다.",
+      "매크로 노이즈 및 이격 <span class=\"text-rose-400 font-medium\">과열</span>을 감안해 특정 단일 종목 집중보다 유연한(flexible) 자산배분 대응이 필수적이다."
+    ],
+    "data_points": [
+      "미래에셋 모델 포트폴리오의 주식 및 대체 자산 편입비 권고"
+    ],
+    "signal": "neutral",
+    "signal_reason": "전반적인 자산배분 가이드로, 개별 기술 지표보다 변동성 관리에 주안점을 두고 있어 중립적 관점을 유지합니다.",
+    "key_companies": [
+      "미래에셋증권"
+    ],
+    "insight": "강세장 후기 국면일수록 단기 변동성에 흔들리지 않는 포트폴리오 내 다변화가 안정적인 장기 누적 수익률을 보장합니다.",
+    "action_point": "한 분야에 쏠린 투자 자산을 일부 회수하고 지수형 및 자산배분형 글로벌 펀드로 분산 배치하여 안정성을 확보해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "자산배분전략",
+      "미래에셋",
+      "Risk-on",
+      "변동성헤징",
+      "분산투자"
+    ]
+  }
+}

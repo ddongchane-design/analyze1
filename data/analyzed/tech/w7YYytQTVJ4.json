@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "w7YYytQTVJ4",
+    "title": "\"끝도없이 올린다\" 더 무서운 건, 다 근거가 있다는 것 | 김록호 하나증권 리서치센터 팀장 [더블 업]",
+    "published": "2026-06-04T04:14:00+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=w7YYytQTVJ4",
+    "thumbnail": "https://img.youtube.com/vi/w7YYytQTVJ4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>가 샌디스크와의 협업을 통해 차세대 HBF(High Bandwidth Foundry / 차세대 적층 메모리 기술) 리더십 확보를 조용히 추진하는 가운데, 청주 M15X 증설 및 내년 용인 클러스터 오픈(250k~300k 캐파)을 통한 <span class=\"text-cyan-300 font-semibold\">HBM</span> 5개년 생산 능력 증가는 충분히 가시적입니다. 한편, <span class=\"text-cyan-300 font-semibold\">삼성전자</span>는 <span class=\"text-cyan-300 font-semibold\">HBM</span>4 샘플 출하 등으로 하이닉스와의 갭을 좁히는 동시에, 최근 IT 수급 소외에 따른 밸류에이션 리바운드가 기대되고 있습니다.",
+    "key_claims": [
+      "<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>는 샌디스크와 협력하여 HBF(적층 메모리) 관련 기술 우위를 구축하고 있으며, 청주 M15X(40k 추가 투자 가속)와 용인 공장 라인업으로 웨이퍼 증설 로드맵을 신뢰성 있게 증명하고 있다.",
+      "<span class=\"text-cyan-300 font-semibold\">삼성전자</span>는 <span class=\"text-cyan-300 font-semibold\">HBM</span>4 샘플 발송 등을 기점으로 경쟁 격차가 좁아지며, 파업 이슈와 ETF 수급 왜곡으로 인한 극단적 소외 상태에서 빠른 주가 메이크업이 기대된다.",
+      "일반 서버 D램 및 스마트폰 모바일 LPDDR 등 범용 메모리 가격이 4월 일시 <span class=\"text-rose-400 font-medium\">조정</span> 후 최근 3주간 전고점까지 재상승하여 <span class=\"text-cyan-300 font-semibold\">반도체</span> 투톱의 2분기 어닝 서프라이즈 가시성이 높아졌다."
+    ],
+    "data_points": [
+      "SK하이닉스 M15X 캐파: 총 80k 공간 중 40k 장비 투자 조기 집행 중",
+      "SK하이닉스 용인 클러스터 생산 능력: 내년 2월 완공 시 총 250k~300k 웨이퍼 캐파 공간 확보",
+      "서버/모바일 D램 현물가 추이: 4월 조정 후 최근 3주간 전고점 수준 회복"
+    ],
+    "signal": "bullish",
+    "signal_reason": "일반 D램 서버 칩의 타이트한 단가 우상향과 <span class=\"text-cyan-300 font-semibold\">HBM</span> 공급망 라인업의 가시적 생산 증가가 동시 실현되고 있어, <span class=\"text-cyan-300 font-semibold\">반도체</span> 대형주 및 장비 체인의 이익은 꺾이지 않고 우상향할 것입니다.",
+    "key_companies": [
+      "SK하이닉스",
+      "삼성전자",
+      "샌디스크"
+    ],
+    "insight": "하이닉스의 5개년 <span class=\"text-cyan-300 font-semibold\">HBM</span> 케파 증설 계획은 이미 완공된 M15X 공장 활용과 내년 용인 클러스터 가동으로 실현 가능한 데이터입니다. <span class=\"text-cyan-300 font-semibold\">삼성전자</span> 역시 <span class=\"text-cyan-300 font-semibold\">HBM</span> 격차 해소와 일반 D램 호조세의 수혜를 고루 입어, 수급 소외를 벗어나 시세 메이크업에 나설 것입니다.",
+    "action_point": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 공급 과잉 우려를 덜고, 증설 수주가 즉시 꽂히는 <span class=\"text-cyan-300 font-semibold\">HBM</span> 검사/세정 장비 제조 강소기업 및 극단적으로 저평가된 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>의 비중을 고르게 확대해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "HBM증설로드맵",
+      "M15X공장",
+      "HBF기술",
+      "일반디램가격반등",
+      "삼성전자소외탈출",
+      "김록호",
+      "삼프로TV"
+    ]
+  }
+}

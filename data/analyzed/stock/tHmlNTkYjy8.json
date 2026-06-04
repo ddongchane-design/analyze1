@@ -1,0 +1,48 @@
+{
+  "video": {
+    "id": "tHmlNTkYjy8",
+    "title": "코스피 1만 간다? 진짜 변수는 환율 | 박병창 MP파트너스 대표 [마켓 인사이드]",
+    "published": "2026-06-04T01:30:00+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=tHmlNTkYjy8",
+    "thumbnail": "https://img.youtube.com/vi/tHmlNTkYjy8/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-amber-300 font-bold\">원달러 환율</span> 급등세가 아시아 비(非)산유국들의 통화 가치 하락 및 금융 시장 불안(인도네시아 국가 신용등급 우려 등)으로 전개되고 있습니다. 코스피는 외국인의 8조 원 매도를 개인 <span class=\"text-amber-300 font-bold\">퇴직연금</span>/예금 기반의 210조 원 ETF 자금이 전격 방어하며 높은 하방 지지력을 증명했으나, 장중 극심한 변동성은 매수세의 점진적 fatigue와 차익 압력을 시사하므로 속도 조절 경계가 필요한 국면입니다.",
+    "key_claims": [
+      "한미 금리차와 오일 의존적 통화 동조화 현상으로 <span class=\"text-amber-300 font-bold\">원달러 환율</span>이 위기 수준으로 치솟아 아시아 약한 고리의 디폴트 <span class=\"text-rose-400 font-medium\">리스크</span>를 확산시키고 있다.",
+      "어제 국내 증시는 장중 1분 30초 만에 2.5조 원대 매물이 출회되어 지수가 -3.2%까지 폭락했다가 다시 전액 보복 매수로 회복되는 극단적인 변동성을 보였다.",
+      "올해 외국인이 130조 원을 매도했음에도 불구하고, 연금 머니무브 등에 기인한 개인의 210조 원 규모 ETF 유입이 시장의 강력한 지지 해자 역할을 하고 있다."
+    ],
+    "data_points": [
+      "올해 개인의 연금/대기성 자금 기반 ETF 신규 유입 규모: 210조 원",
+      "올해 누적 외국인 매도 매물 규모: 130조 원",
+      "장중 알고리즘 연쇄 청산에 의한 폭락 하락폭: 1분 30초 만에 코스피 -3.25% 기록 후 삼성전자 반등으로 전액 회복"
+    ],
+    "signal": "neutral",
+    "signal_reason": "연금 자산의 구조적 장기 유입이 지수 하방을 든든하게 받치고 있으나, 1,500원대 <span class=\"text-amber-300 font-bold\">환율</span> 돌파가 국내 수입 물가와 기업 수익성에 미칠 부정적 충격과 장중 흔들림 강도를 감안해 중립적으로 대응해야 합니다.",
+    "key_companies": [
+      "삼성전자",
+      "삼성생명",
+      "삼성물산"
+    ],
+    "insight": "코스피의 든든한 버팀목은 외국인도, 기관도 아닌 <span class=\"text-amber-300 font-bold\">퇴직연금</span>의 적립식 ETF 머니무브입니다. 그러나 장중 1분 30초 만에 3%가 요동치는 알고리즘 기습 <span class=\"text-rose-400 font-medium\">청산</span>은 전체 시장 참여자들의 불안을 보여주며, 대외 <span class=\"text-rose-400 font-medium\">부실</span> 신호(아시아 통화 위기)가 확산되면 일시적 충격을 피하기 어렵습니다.",
+    "action_point": "무리한 레버리지 활용 및 신용 투자를 금지하고, 대형 지수 ETF 분할 매수 기조는 유지하되, <span class=\"text-amber-300 font-bold\">환율</span> 상승에 따른 헷지용 달러 표시 가치주(<span class=\"text-cyan-300 font-semibold\">삼성전자</span> 등 수출 대형주)에 초점을 맞춰야 합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "코스피전망",
+      "환율변수",
+      "아시아통화위기",
+      "ETF수급",
+      "장중변동성",
+      "알고리즘매매",
+      "박병창",
+      "삼프로TV"
+    ]
+  }
+}

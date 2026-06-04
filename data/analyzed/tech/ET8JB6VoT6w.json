@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "ET8JB6VoT6w",
+    "title": "“반도체 아직 끝난 거 아닙니다… 진짜는 지금부터” | 김록호 하나증권 리서치센터 팀장 [더블 업]",
+    "published": "2026-06-04T00:00:00+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=ET8JB6VoT6w",
+    "thumbnail": "https://img.youtube.com/vi/ET8JB6VoT6w/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "대만 컴퓨텍스 및 대형 테크 로드맵 확인을 바탕으로 <span class=\"text-cyan-300 font-semibold\">반도체</span> AI 인프라 수요와 핵심 소부장(소재·부품·장비) 밸류체인의 이익 사이클이 여전히 성장 초입에 있음을 강변합니다.",
+    "key_claims": [
+      "AI 가속기(GPU/NPU) 수요 폭증에 따른 <span class=\"text-cyan-300 font-semibold\">HBM</span> 및 일반 서버향 D램 숏티지가 하반기에도 해소되지 않는다.",
+      "<span class=\"text-cyan-300 font-semibold\">반도체</span> 사이클 우려에 따른 주가 흔들림은 일시적이며 실적 상향 <span class=\"text-rose-400 font-medium\">조정</span>이 주가 복원을 이끌 것이다."
+    ],
+    "data_points": [
+      "글로벌 AI 서버 및 기업향 메모리 수요 증가율 지속 우상향"
+    ],
+    "signal": "bullish",
+    "signal_reason": "실질적 주문 확대와 업황 가격 상승세가 든든하게 받쳐주고 있어 <span class=\"text-cyan-300 font-semibold\">반도체</span> 하드웨어 상승 동력은 유효합니다.",
+    "key_companies": [
+      "SK하이닉스",
+      "삼성전자"
+    ],
+    "insight": "<span class=\"text-cyan-300 font-semibold\">반도체</span>는 이제 경기 사이클 소비재가 아니라 디지털 혁명을 뒷받침하는 기간 인프라 자산으로 패러다임이 이동했습니다.",
+    "action_point": "일시적인 매물 출회에 따른 주가 <span class=\"text-rose-400 font-medium\">조정</span>을 <span class=\"text-cyan-300 font-semibold\">반도체</span> 핵심 장비 및 부품주의 추가 비중 확대 기회로 삼아야 합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "반도체사이클",
+      "소부장",
+      "실적우상향",
+      "HBM수요",
+      "하나증권",
+      "삼프로TV"
+    ]
+  }
+}
