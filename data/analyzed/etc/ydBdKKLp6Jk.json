@@ -1,0 +1,36 @@
+{
+  "video": {
+    "id": "ydBdKKLp6Jk",
+    "title": "[M-STOCK 이용가이드] 담보대출 투자자정보확인서",
+    "published": "2026-06-03T02:00:00+00:00",
+    "channel_name": "Smart Money by MiraeAsset",
+    "url": "https://www.youtube.com/watch?v=ydBdKKLp6Jk",
+    "thumbnail": "https://img.youtube.com/vi/ydBdKKLp6Jk/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">미래에셋증권</span> M-STOCK 앱에서 주식 담보 대출 약정 시 필요한 투자자 정보 확인서 및 신용공여 설문 작성 절차에 대한 가이드입니다. 고객의 투자 성향과 대출 용도를 확인하고 약관 동의를 완료하면 담보 대출을 신청할 수 있습니다.",
+    "key_claims": [
+      "담보 대출 약정을 위해서는 신용공여 투자자 정보 확인서 작성이 선행되어야 한다.",
+      "고객 투자 성향 및 대출 용도 조회를 통해 적절한 여신 한도가 제공된다."
+    ],
+    "data_points": [],
+    "signal": "neutral",
+    "signal_reason": "단순한 미래에셋 M-STOCK MTS 사용 가이드 영상으로 시장 지표나 개별 종목에 대한 투자 의견을 포함하지 않는 정보성 콘텐츠입니다.",
+    "key_companies": [
+      "미래에셋증권"
+    ],
+    "insight": "증권사의 디지털 담보대출 및 신용공여 가이드는 리테일 투자자들의 레버리지 투자 편의성을 제고하고 증권사의 이자 수익 비즈니스 운영을 지원하는 기초적인 금융 서비스 절차입니다.",
+    "action_point": "미래에셋증권 이용 고객은 담보 대출 약정 전 투자성향 확인 및 금리 조건을 꼼꼼히 체크하여 안전한 자금 운용을 도모해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [],
+    "tags": [
+      "미래에셋증권",
+      "M-STOCK",
+      "담보대출",
+      "이용가이드",
+      "신용공여"
+    ]
+  }
+}

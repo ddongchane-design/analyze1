@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "sLnpiyRT_nM",
+    "title": "젠슨황 직접 보고 왔습니다… GTC Taipei 키노트 핵심 | AI Agent가 인프라 모든 걸 바꾸다",
+    "published": "2026-06-03T06:00:00+00:00",
+    "channel_name": "안될공학 - IT 테크 신기술",
+    "url": "https://www.youtube.com/watch?v=sLnpiyRT_nM",
+    "thumbnail": "https://img.youtube.com/vi/sLnpiyRT_nM/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "엔비디아 컴퓨텍스(GTC Taipei) 키노트 분석을 통해 AI 컴퓨팅이 단순 비용(Cost Center)에서 24시간 토큰을 찍어내 매출을 내는 디지털 공장인 '매출 센터(Revenue Center)'로 전환되었음을 설명합니다. 전력당 토큰 생산비용을 낮추는 **'전력당 토큰(Tokens per Watt)'**과 **'에이전트 처리량(Agent Throughput)'**이 AI 팩토리의 새로운 지표로 제시되었으며, 엔비디아는 하네스 기반 AI 에이전트와 DSX 플랫폼을 앞세워 인프라 수직 계열화를 공고히 하고 있습니다.",
+    "key_claims": [
+      "AI 컴퓨팅은 사용자가 서비스를 구동해 추론이 발생할 때마다 매출이 찍히는 '컴퓨트가 곧 매출(Computing is Revenue)' 패러다임으로 안착했다.",
+      "AI 팩토리 평가는 단일 칩 속도를 넘어, 한정된 전력 한계 하에 최대 토큰 매출을 내는 전력당 토큰(Tokens per Watt) 설계 경쟁이다.",
+      "엔비디아는 AI 팩토리의 효율적 설계를 지원하는 플랫폼 'DSX'와 차세대 베라 루빈(Vera Rubin) 시스템 스택을 통해 표준화를 가속하고 있다."
+    ],
+    "data_points": [
+      "AI 팩토리 핵심 최적화 지표: Tokens per Watt, Agent Throughput",
+      "AI 에이전트 정의: LLM (두뇌) + Harness (규칙/제약조건)"
+    ],
+    "signal": "bullish",
+    "signal_reason": "엔비디아가 전력 및 시스템 단위 설계 최적화(DSX)를 독점 제공하며 AI 에이전트 구동에 따른 토큰 매출 극대화 프레임을 완성함에 따라, 엔비디아 풀스택 인프라 플랫폼의 독점력과 단가는 더욱 탄탄해질 전망입니다.",
+    "key_companies": [
+      "엔비디아"
+    ],
+    "insight": "엔비디아는 GPU 파는 하드웨어 업체를 넘어 AI 전력과 인프라 효율성을 표준화하는 OS 플랫폼사로 자리 잡았습니다. 'Computing is Revenue' 논리는 고객들이 인프라 투자를 단순 비용이 아닌 실시간 토큰 인쇄기(Token Printer) 구매로 인식하게 만들어, 매크로 둔화 우려 속에서도 빅테크들의 지속 투자를 강제하는 마법의 프레임입니다.",
+    "action_point": "엔비디아의 DSX 플랫폼 및 루빈 랙 스케일 아키텍처 도입에 따른 고성능 냉각 솔루션(수냉식 등), 액체 냉각 장비주 및 전력 최적화 관련 반도체 기판(CCL 등) 및 부품 밸류체인의 기술적 주도 기업군을 집중 탐색해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock",
+      "energy"
+    ],
+    "tags": [
+      "컴퓨텍스",
+      "ComputingIsRevenue",
+      "AI팩토리",
+      "TokensPerWatt",
+      "DSX플랫폼",
+      "베라루빈",
+      "AI에이전트"
+    ]
+  }
+}

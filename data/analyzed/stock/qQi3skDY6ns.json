@@ -1,0 +1,51 @@
+{
+  "video": {
+    "id": "qQi3skDY6ns",
+    "title": "[빈난새의 개장전요것만-6월3일] 트럼프 \"하메네이 만나고파\" | 스페이스X 상장이 다른점 | 비트코인 약세 이유 | 마벨 인텔 팔로알토 샌디스크 메타 IBM 이리듐 애플 아이렌",
+    "published": "2026-06-03T14:43:55+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=qQi3skDY6ns",
+    "thumbnail": "https://img.youtube.com/vi/qQi3skDY6ns/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국의 5월 ADP 민간고용이 예상치(12만 개)를 웃돈 12만 2천 개로 집계되며 여전히 견조한 고용 시장을 입증했습니다. 중동에서는 <span class=\"text-violet-300 font-medium\">이란</span> 혁명수비대가 <span class=\"text-violet-300 font-medium\">쿠웨이트</span>와 <span class=\"text-violet-300 font-medium\">바레인</span> 내 미군 기지를 드론으로 타격하며 지정학적 불안을 자극했고, 반도체 부문에서는 <span class=\"text-cyan-300 font-semibold\">구글</span>의 자체 네트워킹 칩을 <span class=\"text-cyan-300 font-semibold\">마벨</span>이 설계하고 <span class=\"text-cyan-300 font-semibold\">인텔</span>이 18A 공정 파운드리로 수주할 것이라는 메가톤급 루머가 유입되었습니다.",
+    "key_claims": [
+      "5월 ADP 민간고용 호조로 인플레이션 우려 및 고금리 장기화 네러티브가 다시 강화되며 채권 시장 경계감이 높아졌다.",
+      "미국이 호르무즈 해협 우회 유조선 탈출을 지원하는 프로젝트 프리덤을 재개하자, 이란이 미군 기지를 직접 보복 타격하여 충돌이 격화되었다.",
+      "구글 자체 AI 가속기(TPU)의 네트워크 칩 협업 루머로 마벨이 장중 급등하고 인텔 파운드리 신뢰도가 급증하고 있다."
+    ],
+    "data_points": [
+      "5월 ADP 민간 고용 지표: 122,000명 증가 (예상 120,000명 상회)",
+      "마벨 주가 등락: 루머 영향으로 장중 +10% 이상 급등",
+      "인텔 주가 등락: 18A 파운드리 수주 루머로 +6% 이상 급등"
+    ],
+    "signal": "neutral",
+    "signal_reason": "빅테크 칩 협력 루머 등 개별 테크 호재가 돋보이나, 중동 전쟁의 전면전 위기 고조와 탄탄한 고용 지표에 따른 고금리 압박이 시장 상방을 제한하고 있습니다.",
+    "key_companies": [
+      "마벨",
+      "인텔",
+      "구글",
+      "스페이스X"
+    ],
+    "insight": "구글-마벨-인텔의 삼각 협업 루머는 엔비디아의 AI 하드웨어 독점을 견제하려는 빅테크 진영의 몸부림을 나타냅니다. 인텔의 18A 공정이 구글 칩 제작에 실질적으로 채택된다면, 이는 대만 파운드리 의존도를 낮추고 미국 중심의 공급망 자립을 이루려는 정치적/경제적 이정표가 될 것입니다.",
+    "action_point": "인텔 파운드리 18A 성과를 지속적으로 추적하고, 글로벌 ASIC(주문형 반도체) 생태계에서 독보적인 가교 역할을 하는 설계 자산(IP) 및 디자인하우스 기업들을 선별하여 투자 비중을 늘려야 합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy",
+      "tech",
+      "crypto"
+    ],
+    "tags": [
+      "ADP민간고용",
+      "이란보복타격",
+      "프로젝트프리덤",
+      "구글자체칩",
+      "마벨설계",
+      "인텔18A",
+      "스페이스X공모가",
+      "한경글로벌마켓"
+    ]
+  }
+}

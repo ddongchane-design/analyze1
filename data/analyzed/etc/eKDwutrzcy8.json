@@ -1,0 +1,39 @@
+{
+  "video": {
+    "id": "eKDwutrzcy8",
+    "title": "내 컴퓨터 속 비서?  |  2분완성 그림퀴즈 'AI 에이전트'편",
+    "published": "2026-06-03T07:00:00+00:00",
+    "channel_name": "Smart Money by MiraeAsset ",
+    "url": "https://www.youtube.com/watch?v=eKDwutrzcy8",
+    "thumbnail": "https://img.youtube.com/vi/eKDwutrzcy8/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미래에셋 스마트머니 채널의 AI 및 디지털 자산 개념 정리 퀴즈 영상입니다. AI 에이전트, 프롬프트, 할루시네이션, AGI, 딥페이크, 바이브 코딩, AI 오케스트레이션 등 주요 인공지능 용어들을 그림과 퀴즈 형식으로 알기 쉽게 전달합니다.",
+    "key_claims": [
+      "AI 에이전트는 단순 응답을 넘어 스스로 계획을 세우고 실행하는 AI 비서이다.",
+      "바이브 코딩은 프로그래밍 언어 대신 일상어로 코딩하는 방식을 뜻한다.",
+      "AI 오케스트레이션은 여러 AI 모델, 데이터, 인프라를 통합해 복잡한 시스템을 조율하는 기술이다."
+    ],
+    "data_points": [],
+    "signal": "neutral",
+    "signal_reason": "일반 대중을 대상으로 한 기초적인 AI 용어 교육 콘텐츠로서, 구체적인 투자 신호나 시장 변동성 예측을 제공하지는 않습니다.",
+    "key_companies": [
+      "미래에셋증권"
+    ],
+    "insight": "AI 에이전트와 오케스트레이션 같은 개념의 확산은 일반 대중이 AI의 단순 사용을 넘어 시스템화된 AI 비서를 일상적으로 다루게 되는 시대로 나아가고 있음을 방증합니다.",
+    "action_point": "일반 비전문가도 개발할 수 있는 바이브 코딩 및 AI 오케스트레이션 툴의 등장에 주목하여, 관련 솔루션을 공급하는 강소 소프트웨어 기업군을 탐색하는 것이 좋습니다."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "AI에이전트",
+      "AI용어",
+      "AGI",
+      "바이브코딩",
+      "오케스트레이션"
+    ]
+  }
+}

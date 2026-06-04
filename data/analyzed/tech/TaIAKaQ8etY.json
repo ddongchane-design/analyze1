@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "TaIAKaQ8etY",
+    "title": "초당 1.1조 개 데이터 처리, 엔비디아 Vera CPU",
+    "published": "2026-06-03T13:00:00+00:00",
+    "channel_name": "안될공학 - IT 테크 신기술",
+    "url": "https://www.youtube.com/watch?v=TaIAKaQ8etY",
+    "thumbnail": "https://img.youtube.com/vi/TaIAKaQ8etY/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "엔비디아가 초당 1.1조(1.1 Trillion) 개의 실시간 데이터를 극도의 초저지연으로 처리할 수 있는 차세대 <span class=\"text-cyan-300 font-semibold\">Vera CPU</span>를 공개했습니다. 뉴욕 증권 거래소(NYSE)와 고빈도 매매(HFT) 등 금융권 실증 자료를 통해 입증된 성능으로, AI 에이전트의 복잡한 조율(오케스트레이션) 데이터 파이프라인을 고속으로 GPU에 피딩하는 능력을 보여줍니다.",
+    "key_claims": [
+      "Vera CPU는 뉴욕증권거래소의 초저지연 데이터 실시간 처리에 최적화되어 기존 대비 6배 빠른 실시간 스트리밍 처리가 가능하다.",
+      "고빈도 트레이딩(HFT) 등 극도로 까다로운 금융 인프라에서 입증된 파이프라이닝 성능을 지닌다.",
+      "Vera CPU는 데이터 흐름 병목을 제거하여 GPU에 빠르게 데이터를 먹여주는 AI 에이전트 조율의 핵심 퍼즐이다."
+    ],
+    "data_points": [
+      "Vera CPU 초당 메시지 처리 성능: 1.1조 개(1.1 Trillion)",
+      "실시간 데이터 스트리밍 처리 속도 향상: 기존 대비 6배"
+    ],
+    "signal": "bullish",
+    "signal_reason": "엔비디아가 데이터 병목이 되는 CPU 영역까지 독보적인 초고속·초저지연 칩셋 Vera를 선보이면서 금융·AI 인프라 플랫폼 전체를 패키지로 묶어 장악하는 완전한 AI 독주 체제를 구축하고 있습니다.",
+    "key_companies": [
+      "엔비디아",
+      "NYSE",
+      "HP"
+    ],
+    "insight": "Vera CPU의 출시는 엔비디아가 GPU 공급사를 넘어 데이터센터 백본 자체를 표준화하고 있음을 증명합니다. 초저지연 실시간 처리가 요구되는 NYSE 등의 사례는 향후 밀리초 단위로 수억 개의 에이전트가 통신해야 할 실시간 자율 에이전트 시대를 대비한 사전 포석입니다.",
+    "action_point": "엔비디아의 풀스택 AI 패키지(GPU + 네트워크 + CPU) 지배력이 더 강해짐에 따라 AI 데이터 파이프라인 소프트웨어 솔루션 및 고빈도 트레이딩을 지원하는 고성능 컴퓨팅 인프라 기업에 투자 기회를 넓혀야 합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "엔비디아",
+      "VeraCPU",
+      "초저지연",
+      "금융인프라",
+      "데이터파이프라인",
+      "AI에이전트"
+    ]
+  }
+}

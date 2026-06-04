@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "6jLIhlLokRQ",
+    "title": "엔비디아가 투자한 최초의 한국 기업",
+    "published": "2026-06-03T01:00:00+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=6jLIhlLokRQ",
+    "thumbnail": "https://img.youtube.com/vi/6jLIhlLokRQ/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">엔비디아</span>가 한국 팹리스 스타트업에 이례적으로 선제 투자를 단행했으며, 해당 기업의 1.6라비(1.6Tbps) 광통신 제품 상용화를 목전에 두고 있습니다. 이는 기존 스마트폰 통신 속도 대비 1600배 빠른 차세대 속도로, 엔비디아의 차세대 GPU 칩인 <span class=\"text-cyan-300 font-semibold\">베라 루빈</span>(Vera Rubin) 등에 접목될 예정입니다.",
+    "key_claims": [
+      "엔비디아가 한국 팹리스 스타트업에 최초이자 이례적으로 지분 투자를 단행하며 협력을 강화하고 있다.",
+      "상용화 임박한 1.6라비(1.6Tbps) 제품은 스마트폰 속도의 1,600배에 달하는 차세대 고속 통신 규격이다.",
+      "엔비디아는 차세대 GPU인 <span class=\"text-cyan-300 font-semibold\">베라 루빈</span>(Vera Rubin) 칩셋에 광학(Optical) 및 튜브 기술을 적용하기 위해 선제적으로 투자했다."
+    ],
+    "data_points": [
+      "통신 속도: 스마트폰의 1,600배",
+      "주요 규격: 1.6Tbps (1.6라비)"
+    ],
+    "signal": "bullish",
+    "signal_reason": "엔비디아가 차세대 베라 루빈 칩에 광학 통신 인터커넥트 기술을 탑재하기 위해 한국 팹리스에 선제 투자했다는 점은 광통신 부품 기업 및 관련 생태계에 강력한 성장 신호입니다.",
+    "key_companies": [
+      "엔비디아",
+      "포인트테크놀로지"
+    ],
+    "insight": "AI 연산 능력이 급증함에 따라 데이터센터 내 칩 간 통신 병목현상이 핵심 과제로 부상했습니다. 엔비디아가 한국의 광학 기술 스타트업에 직접 투자한 것은 차세대 AI 인프라에서 전기 동선 중심의 인터커넥트가 광통신(Optical)으로 급격히 전환될 것임을 시사합니다.",
+    "action_point": "차세대 엔비디아 GPU 로드맵(베라 루빈)과 연계된 광통신(Silicon Photonics, CPO) 기술을 보유한 국내 반도체 디자인하우스 및 광부품 밸류체인에 주목해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "엔비디아",
+      "광통신",
+      "팹리스",
+      "베라루빈",
+      "스타트업투자"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "joqrL33AE1k",
+    "title": "GPT보다 30배나 싼 딥시크 V4 Pro",
+    "published": "2026-06-03T06:00:00+00:00",
+    "channel_name": "안될공학 - IT 테크 신기술",
+    "url": "https://www.youtube.com/watch?v=joqrL33AE1k",
+    "thumbnail": "https://img.youtube.com/vi/joqrL33AE1k/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "중국의 AI 모델 스타트업 <span class=\"text-cyan-300 font-semibold\">딥시크</span>(DeepSeek)가 CSA 및 HCA 압축 기억 구조를 도입한 신형 모델 'V4 Pro'를 출시했습니다. 이 모델은 기존 모델(V3.2) 대비 추론당 연산(FLOPs)을 27% 감축하고, <span class=\"text-cyan-300 font-semibold\">KV 캐시</span> 용량을 단 10% 수준으로 대폭 절감하여 고비용 AI 추론 비용을 극적으로 낮추었습니다.",
+    "key_claims": [
+      "딥시크 V4 Pro는 메모리 압축 효율화 구조를 통해 대용량 콘텍스트 지원 비용을 대폭 낮췄다.",
+      "추론 과정의 FLOPs를 27% 줄이고, 필요한 KV 캐시 메모리 공간을 10% 수준으로 극대화했다.",
+      "이번 발표는 물리적 메모리 반도체 사용을 줄이는 것이 아니라 알고리즘 차원의 메모리 대역폭 및 연산 최적화 성과다."
+    ],
+    "data_points": [
+      "추론 FLOPs 감축률: 27%",
+      "KV 캐시 요구량: 10% 수준으로 감소 (90% 절감)"
+    ],
+    "signal": "bullish",
+    "signal_reason": "중국 딥시크의 지속적인 극초가성비 AI 모델 고도화는 글로벌 AI 기업들의 추론 단가 인하 경쟁을 부추기고 대중적인 AI 에이전트 서비스 보급을 촉진하는 촉매제가 될 것입니다.",
+    "key_companies": [
+      "딥시크",
+      "오픈AI"
+    ],
+    "insight": "딥시크의 기술 혁신은 단순히 대형 LLM 학습 경쟁을 넘어, 서비스 운영비의 절대다수를 차지하는 '추론 비용(KV 캐시)'을 얼마나 영리하게 다이어트 시킬 수 있는지를 보여줍니다. 이는 고비용 GPU 사용 효율성을 극대화하여 저비용 AI 에이전트 시장 개화 속도를 앞당길 핵심 경쟁력이 될 것입니다.",
+    "action_point": "추론 인프라 비용 절감 솔루션(알고리즘 최적화, 경량화 모델) 경쟁이 격화됨에 따라 이를 주도하는 소프트웨어 강자들과 온디바이스 AI 구동 효율성이 뛰어난 NPU 칩 설계 분야의 투자 매력도가 부각될 수 있습니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "딥시크",
+      "DeepSeek",
+      "추론비용",
+      "KV캐시",
+      "경량화",
+      "V4Pro"
+    ]
+  }
+}
