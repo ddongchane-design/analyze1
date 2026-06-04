@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/Omy5HJq_wMQ/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "경구용 위고비(리벨서스)는 16.6%의 체중 감소 효과를 보이지만, 매일 아침 공복 상태에서 물 120ml와 30분간 금식 등 까다로운 복용 조건으로 인해 <span class=\"text-rose-400 font-medium\">환자 순응도가 매우 낮습니다</span>.\n화이자가 개발하던 경구용 GLP-1 약물(다누글리프론)은 <span class=\"text-rose-400 font-medium\">간 손상 우려로 개발이 중단</span>되는 등, 경구용 GLP-1 약물 개발은 매우 어려운 도전임을 보여주었습니다.\n그러나 파운다이오(FounDAO)의 성분인 <span class=\"text-cyan-300 font-semibold\">오포글리프론</span>은 펩타이드가 아닌 <span class=\"text-cyan-300 font-semibold\">비펩타이드 소분자</span>로, 기존의 화학적으로 합성한 일반 화학 약물로서 <span class=\"text-amber-300 font-bold\">새로운 접근 방식</span>을 제시합니다.",
+    "summary": "경구용 위고비(리벨서스)는 16.6%의 체중 감소 효과를 보이지만, 매일 아침 공복 상태에서 물 120ml와 30분간 금식 등 까다로운 복용 조건으로 인해 환자 순응도가 매우 낮습니다.\n화이자가 개발하던 경구용 GLP-1 약물(다누글리프론)은 간 손상 우려로 개발이 중단되는 등, 경구용 GLP-1 약물 개발은 매우 어려운 도전임을 보여주었습니다.\n그러나 파운다이오(FounDAO)의 성분인 오포글리프론은 펩타이드가 아닌 비펩타이드 소분자로, 기존의 화학적으로 합성한 일반 화학 약물로서 새로운 접근 방식을 제시합니다.",
     "key_claims": [
-      "경구용 펩타이드 기반 GLP-1 약물(예: <span class=\"text-cyan-300 font-semibold\">리벨서스</span>)은 효과는 좋지만 엄격한 복용 지침으로 인해 <span class=\"text-rose-400 font-medium\">환자 순응도에 심각한 문제가 있습니다</span>.",
-      "경구용 GLP-1 약물 개발은 <span class=\"text-rose-400 font-medium\">간 손상 우려로 화이자가 개발을 중단</span>했을 정도로 <span class=\"text-rose-400 font-medium\">안전성 측면에서 상당한 난관</span>에 부딪힙니다.",
-      "<span class=\"text-cyan-300 font-semibold\">오포글리프론(FounDAO)</span>은 펩타이드가 아닌 <span class=\"text-cyan-300 font-semibold\">비펩타이드 소분자 약물</span>로, 기존 펩타이드 기반 약물의 한계를 극복할 수 있는 <span class=\"text-amber-300 font-bold\">새로운 화학적 접근 방식</span>을 제시합니다."
+      "경구용 펩타이드 기반 GLP-1 약물(예: 리벨서스)은 효과는 좋지만 엄격한 복용 지침으로 인해 환자 순응도에 심각한 문제가 있습니다.",
+      "경구용 GLP-1 약물 개발은 간 손상 우려로 화이자가 개발을 중단했을 정도로 안전성 측면에서 상당한 난관에 부딪힙니다.",
+      "오포글리프론(FounDAO)은 펩타이드가 아닌 비펩타이드 소분자 약물로, 기존 펩타이드 기반 약물의 한계를 극복할 수 있는 새로운 화학적 접근 방식을 제시합니다."
     ],
     "data_points": [
       "체중 16.6% 감소",
@@ -21,14 +21,14 @@
       "25년 4월 (화이자 임상 시험 참가자 간손상 의심 사례 발생 시점)"
     ],
     "signal": "neutral",
-    "signal_reason": "기존 펩타이드 기반 경구용 GLP-1 약물은 <span class=\"text-rose-400 font-medium\">복용 편의성 및 안전성 문제</span>로 개발 난이도가 매우 높다는 <span class=\"text-rose-400 font-medium\">부정적 시그널</span>을 주지만, <span class=\"text-cyan-300 font-semibold\">비펩타이드 소분자 약물인 오포글리프론의 등장</span>은 <span class=\"text-amber-300 font-bold\">새로운 기술적 돌파구와 시장의 가능성</span>을 제시하여 전반적으로 중립적인 시각을 유지합니다.",
+    "signal_reason": "기존 펩타이드 기반 경구용 GLP-1 약물은 복용 편의성 및 안전성 문제로 개발 난이도가 매우 높다는 부정적 시그널을 주지만, 비펩타이드 소분자 약물인 오포글리프론의 등장은 새로운 기술적 돌파구와 시장의 가능성을 제시하여 전반적으로 중립적인 시각을 유지합니다.",
     "key_companies": [
       "화이자 (Pfizer)",
       "FounDAO (파운다이오 - 자막에 언급된 주체)",
       "위고비 (Wegovy, 브랜드명)"
     ],
-    "insight": "<span class=\"text-rose-400 font-medium\">펩타이드 기반 경구용 GLP-1 약물이 겪는 복용 순응도와 안전성 문제</span>는 해당 시장 확장의 <span class=\"text-rose-400 font-medium\">주요 제약 요인</span>입니다. <span class=\"text-cyan-300 font-semibold\">오포글리프론과 같은 비펩타이드 소분자 GLP-1 작용제</span>의 출현은 이 문제를 해결하고 안정적인 생산 및 보관이 용이하며, 더 넓은 환자층에게 접근 가능한 <span class=\"text-amber-300 font-bold\">혁신적인 치료 옵션</span>을 제공하여 <span class=\"text-amber-300 font-bold\">비만 및 당뇨병 치료 시장의 판도를 바꿀 잠재력</span>을 가지고 있습니다.",
-    "action_point": "투자자들은 <span class=\"text-cyan-300 font-semibold\">비펩타이드 소분자 GLP-1 작용제 개발 기업들</span>의 임상 진행 상황, 규제 승인 일정, 그리고 상업화 전략을 <span class=\"text-amber-300 font-bold\">면밀히 모니터링해야 합니다</span>. 기존의 펩타이드 기반 약물에 대한 <span class=\"text-rose-400 font-medium\">투자 비중을 재검토</span>하고, <span class=\"text-cyan-300 font-semibold\">혁신적인 화학 물질</span>을 통해 <span class=\"text-amber-300 font-bold\">새로운 시장 기회</span>를 창출할 수 있는 기업들에 대한 연구와 투자를 확대하는 것이 중요합니다."
+    "insight": "펩타이드 기반 경구용 GLP-1 약물이 겪는 복용 순응도와 안전성 문제는 해당 시장 확장의 주요 제약 요인입니다. 오포글리프론과 같은 비펩타이드 소분자 GLP-1 작용제의 출현은 이 문제를 해결하고 안정적인 생산 및 보관이 용이하며, 더 넓은 환자층에게 접근 가능한 혁신적인 치료 옵션을 제공하여 비만 및 당뇨병 치료 시장의 판도를 바꿀 잠재력을 가지고 있습니다.",
+    "action_point": "투자자들은 비펩타이드 소분자 GLP-1 작용제 개발 기업들의 임상 진행 상황, 규제 승인 일정, 그리고 상업화 전략을 면밀히 모니터링해야 합니다. 기존의 펩타이드 기반 약물에 대한 투자 비중을 재검토하고, 혁신적인 화학 물질을 통해 새로운 시장 기회를 창출할 수 있는 기업들에 대한 연구와 투자를 확대하는 것이 중요합니다."
   },
   "classification": {
     "primary_topic": "stock",

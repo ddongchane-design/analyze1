@@ -21,8 +21,8 @@
     "key_companies": [
       "NVIDIA"
     ],
-    "insight": "PCB는 이제 단순 전기 기판을 넘어 AI 랙 수준의 신호 간섭과 전력을 일체 제어하는 <span class=\"text-amber-300 font-bold\">인프라 아키텍처 핵심 제어기</span>로 변모하고 있으며, 엔비디아가 하드웨어의 <span class=\"text-rose-400 font-medium\">물리적 한계(신호 감쇄 및 냉각 비효율)</span>를 기판 통합을 통해 풀어내려는 전략적 방향성은 대량 양산 및 기판 공급 파트너의 중요성을 더욱 끌어올릴 것입니다.",
-    "action_point": "차세대 AI 아키텍처의 핵심 변화인 <span class=\"text-cyan-300 font-semibold\">케이블 프리(Cable-less)</span> 동향에 맞추어, 고밀도 상호연결 및 초고다층 <span class=\"text-cyan-300 font-semibold\">MLB(Multi-Layer Board) 기판 관련 수혜 부품주</span>들에 대한 비중 확대를 장기적으로 고려해 볼 만합니다."
+    "insight": "PCB는 이제 단순 전기 기판을 넘어 AI 랙 수준의 신호 간섭과 전력을 일체 제어하는 인프라 아키텍처 핵심 제어기로 변모하고 있으며, 엔비디아가 하드웨어의 물리적 한계(신호 감쇄 및 냉각 비효율)를 기판 통합을 통해 풀어내려는 전략적 방향성은 대량 양산 및 기판 공급 파트너의 중요성을 더욱 끌어올릴 것입니다.",
+    "action_point": "차세대 AI 아키텍처의 핵심 변화인 케이블 프리(Cable-less) 동향에 맞추어, 고밀도 상호연결 및 초고다층 MLB(Multi-Layer Board) 기판 관련 수혜 부품주들에 대한 비중 확대를 장기적으로 고려해 볼 만합니다."
   },
   "classification": {
     "primary_topic": "tech",

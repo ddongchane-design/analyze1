@@ -8,14 +8,14 @@
     "thumbnail": "https://img.youtube.com/vi/cevLpzEA8Y8/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "글로벌 AI 서버 수요 폭증에 따른 국내외 반도체 및 기판 밸류체인의 단기 투자 매력도를 비교 분석하고, 최선호주(원픽) 포지셔닝 전략을 제시합니다.\n삼성전자의 차세대 HBM 4E/HBM 4 샘플 선제 출하가 시장 판도에 미치는 상징적 영향과 삼성전기(MLCC 및 기판)의 고밸류에이션 정당성 논리, 그리고 단기 조정을 겪은 전력/변압기 섹터의 진입 유효성을 해설합니다.",
+    "summary": "글로벌 AI 서버 수요 폭증에 따른 국내외 <span class=\"text-cyan-300 font-semibold\">반도체</span> 및 기판 밸류체인의 단기 투자 매력도를 비교 분석하고, 최선호주(원픽) 포지셔닝 전략을 제시합니다.\n<span class=\"text-cyan-300 font-semibold\">삼성전자</span>의 차세대 <span class=\"text-cyan-300 font-semibold\">HBM</span> 4E/<span class=\"text-cyan-300 font-semibold\">HBM</span> 4 샘플 선제 출하가 시장 판도에 미치는 상징적 영향과 삼성전기(MLCC 및 기판)의 고밸류에이션 정당성 논리, 그리고 단기 <span class=\"text-rose-400 font-medium\">조정</span>을 겪은 전력/변압기 섹터의 진입 유효성을 해설합니다.",
     "key_claims": [
       "델(Dell)의 AI 서버 매출이 8.5배(750% YoY) 폭증하여 전체 매출의 36%를 점유하고 가이던스를 대폭 상향한 것은 AI 서버 및 하드웨어 인프라의 실질적 현금 창출력을 입증함.",
-      "삼성전자가 엔비디아의 루빈(Rubin) GPU 등에 탑재될 차세대 HBM 4E/4 샘플을 경쟁사보다 먼저 출하하여 기술 주도권을 캐치업하고 있으며, 내년도 시장 점유율 대등화 기대감을 키움.",
-      "밸류에이션 관점에서 국내 반도체 2사(삼성전자·SK하이닉스)의 PER은 약 7.5배 수준으로 마이크론(9~10배) 대비 20~30% 저평가 상태이므로 상승 여력(업사이드)이 충분히 열려 있음.",
-      "단기 2주 관점의 반도체 선호도 순위는 1위 마이크론(갭 메우기), 2위 삼성전자(HBM 4E 성과 및 저평가 탈피), 3위 SK하이닉스(안정적 주도권 지속) 순으로 제시함.",
-      "삼성전기(삼성전기 주가는 백만 원 돌파 후 상승세)는 MLCC와 반도체 기판(FC-BGA), 그리고 기판 내장형 실리콘 커패시터 기술을 모두 보유한 글로벌 유일의 기업으로 일본 경쟁사(이비덴 70배, 무라타 50배) 대비 고평가 논란을 해소하고 독보적인 수혜를 누림.",
-      "전력/변압기 섹터(효성중공업, 현대일렉트릭 등)는 반도체로의 자금 쏠림과 일부 기업 공시 오류 등으로 조정을 받았으나, 펀더멘탈 훼손은 없으며 목표가 대비 괴리율이 20~30% 벌어져 분할 매수 기회로 작용함."
+      "<span class=\"text-cyan-300 font-semibold\">삼성전자</span>가 엔비디아의 루빈(Rubin) GPU 등에 탑재될 차세대 <span class=\"text-cyan-300 font-semibold\">HBM</span> 4E/4 샘플을 경쟁사보다 먼저 출하하여 기술 주도권을 캐치업하고 있으며, 내년도 시장 점유율 대등화 기대감을 키움.",
+      "밸류에이션 관점에서 국내 <span class=\"text-cyan-300 font-semibold\">반도체</span> 2사(<span class=\"text-cyan-300 font-semibold\">삼성전자</span>·<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>)의 PER은 약 7.5배 수준으로 마이크론(9~10배) 대비 20~30% 저평가 상태이므로 상승 여력(업사이드)이 충분히 열려 있음.",
+      "단기 2주 관점의 <span class=\"text-cyan-300 font-semibold\">반도체</span> 선호도 순위는 1위 마이크론(갭 메우기), 2위 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>(<span class=\"text-cyan-300 font-semibold\">HBM</span> 4E 성과 및 저평가 탈피), 3위 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>(안정적 주도권 지속) 순으로 제시함.",
+      "삼성전기(삼성전기 주가는 백만 원 돌파 후 상승세)는 MLCC와 <span class=\"text-cyan-300 font-semibold\">반도체</span> 기판(FC-BGA), 그리고 기판 내장형 실리콘 커패시터 기술을 모두 보유한 글로벌 유일의 기업으로 일본 경쟁사(이비덴 70배, 무라타 50배) 대비 고평가 논란을 해소하고 독보적인 수혜를 누림.",
+      "전력/변압기 섹터(효성중공업, 현대일렉트릭 등)는 <span class=\"text-cyan-300 font-semibold\">반도체</span>로의 자금 쏠림과 일부 기업 공시 오류 등으로 <span class=\"text-rose-400 font-medium\">조정</span>을 받았으나, 펀더멘탈 훼손은 없으며 목표가 대비 괴리율이 20~30% 벌어져 분할 매수 기회로 작용함."
     ],
     "data_points": [
       "델(Dell) AI 서버 매출 성장률: 전년 대비 약 750% (8.5배) 폭증",
@@ -23,7 +23,7 @@
       "삼성전기 실적 기준 PER 수준: 단기 약 50~70배 거래 중 (글로벌 피어 이비덴 70배, 무라타 50배 대비 정당화)"
     ],
     "signal": "bullish",
-    "signal_reason": "AI 서버 매출의 기하급수적 성장과 마진 개선이 대형 하드웨어 공급업체를 통해 확인되었으며, 국내 반도체 2사의 저평가 매력 및 삼성전자의 차세대 HBM 기술 로드맵 진척이 실체적인 주가 지지선과 밸류에이션 리레이팅을 보증합니다.",
+    "signal_reason": "AI 서버 매출의 기하급수적 성장과 마진 개선이 대형 하드웨어 공급업체를 통해 확인되었으며, 국내 <span class=\"text-cyan-300 font-semibold\">반도체</span> 2사의 저평가 매력 및 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>의 차세대 <span class=\"text-cyan-300 font-semibold\">HBM</span> 기술 로드맵 진척이 실체적인 주가 지지선과 밸류에이션 리레이팅을 보증합니다.",
     "key_companies": [
       "Samsung Electronics",
       "SK Hynix",
@@ -32,8 +32,8 @@
       "Dell",
       "효성중공업"
     ],
-    "insight": "반도체 장세는 펀더멘탈의 훼손 시점까지 추세 홀딩이 원칙이며, 특히 <span class=\"text-cyan-300 font-semibold\">삼성전기의 MLCC+기판 패키징 융합 경쟁력</span>과 <span class=\"text-cyan-300 font-semibold\">삼성전자의 HBM 4E 조기 진입 시도</span>는 단순한 메모리 사이클을 넘어선 구조적 하드웨어 융합 수혜를 보여주고 있습니다.",
-    "action_point": "단기 반도체 포트폴리오는 마이크론과 <span class=\"text-cyan-300 font-semibold\">삼성전자</span> 비중을 조화롭게 가져가며, 전력 인프라 대장주인 <span class=\"text-cyan-300 font-semibold\">효성중공업</span>이나 기판과 MLCC 듀얼 엔진을 단 <span class=\"text-cyan-300 font-semibold\">삼성전기</span>가 단기 조정 시 과감히 진입하는 전략이 유효합니다."
+    "insight": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 장세는 펀더멘탈의 훼손 시점까지 추세 홀딩이 원칙이며, 특히 삼성전기의 MLCC+기판 패키징 융합 경쟁력과 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>의 <span class=\"text-cyan-300 font-semibold\">HBM</span> 4E 조기 진입 시도는 단순한 메모리 사이클을 넘어선 구조적 하드웨어 융합 수혜를 보여주고 있습니다.",
+    "action_point": "단기 <span class=\"text-cyan-300 font-semibold\">반도체</span> 포트폴리오는 마이크론과 <span class=\"text-cyan-300 font-semibold\">삼성전자</span> 비중을 조화롭게 가져가며, 전력 인프라 대장주인 효성중공업이나 기판과 MLCC 듀얼 엔진을 단 삼성전기가 단기 <span class=\"text-rose-400 font-medium\">조정</span> 시 과감히 진입하는 전략이 유효합니다."
   },
   "classification": {
     "primary_topic": "stock",

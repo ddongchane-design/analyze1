@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/M9JdAPEnVAo/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "테슬라의 <span class=\"text-cyan-300 font-semibold\">옵티머스 휴머노이드 로봇(V3)</span>이 5월 소규모 시험 생산을 시작으로 7~8월 본격적인 <span class=\"text-amber-300 font-bold\">대량 생산 단계</span>에 진입하는 양상과 이에 따른 <span class=\"text-cyan-300 font-semibold\">한국 부품 공급망의 수혜 기회</span>를 조명함. 테슬라는 초기 옵티머스 부품의 60%를 중국 공급망에 의존하고 있으나, <span class=\"text-violet-300 font-medium\">미-중 지정학적 갈등</span>과 전기차 분야와 마찬가지의 <span class=\"text-violet-300 font-medium\">탈중국화 기조</span>로 인해 <span class=\"text-cyan-300 font-semibold\">한국의 액추에이터, 디스플레이(OLED), AI 반도체 파운드리, 고강도 외장 및 텐던 소재 기업들</span>에 강력한 낙수 효과가 기대됨. 프리몬트 공장의 라인 전환과 텍사스 기가팩토리의 증설을 통해 <span class=\"text-amber-300 font-bold\">2026~2027년 연간 수만 대 이상의 생산 규모</span>를 목표로 하며, 이는 현대차/보스턴 다이내믹스와의 <span class=\"text-amber-300 font-bold\">글로벌 로봇 패권 경쟁</span>의 서막이 될 것임.",
+    "summary": "<span class=\"text-cyan-300 font-semibold\">테슬라</span>의 옵티머스 휴머노이드 로봇(V3)이 5월 소규모 시험 생산을 시작으로 7~8월 본격적인 대량 생산 단계에 진입하는 양상과 이에 따른 한국 부품 공급망의 수혜 기회를 조명함. <span class=\"text-cyan-300 font-semibold\">테슬라</span>는 초기 옵티머스 부품의 60%를 <span class=\"text-violet-300 font-medium\">중국</span> 공급망에 의존하고 있으나, 미-중 지정학적 갈등과 전기차 분야와 마찬가지의 탈<span class=\"text-violet-300 font-medium\">중국</span>화 기조로 인해 한국의 액추에이터, 디스플레이(OLED), <span class=\"text-cyan-300 font-semibold\">AI 반도체</span> 파운드리, 고강도 외장 및 텐던 소재 기업들에 강력한 낙수 효과가 기대됨. 프리몬트 공장의 라인 전환과 텍사스 기가팩토리의 증설을 통해 2026~2027년 연간 수만 대 이상의 생산 규모를 목표로 하며, 이는 <span class=\"text-cyan-300 font-semibold\">현대차</span>/보스턴 다이내믹스와의 글로벌 로봇 패권 경쟁의 서막이 될 것임.",
     "key_claims": [
-      "<span class=\"text-cyan-300 font-semibold\">옵티머스 V3(Gen3)</span>는 공학 검증을 마쳤으며, 5월 시험 생산을 시작해 <span class=\"text-amber-300 font-bold\">7월 중순 대량 생산을 위한 첫 부품 발주(프리오더)와 8월 본격 램프업</span>이 개시될 예정임.",
-      "테슬라는 프리몬트 공장의 기존 모델 X/S 라인을 뜯어내고 <span class=\"text-cyan-300 font-semibold\">옵티머스 조립 라인으로 전환</span> 중인데, 로봇 조립은 특수 청정실 없이 공간 확보만으로 라인 구축이 용이해 <span class=\"text-amber-300 font-bold\">빠른 생산 개시</span>가 가능함.",
-      "<span class=\"text-violet-300 font-medium\">미-중 지정학적 규제</span>로 인해 <span class=\"text-cyan-300 font-semibold\">액추에이터, 감속기, 로봇 얼굴용 OLED 디스플레이(삼성/LG), AI 반도체 파운드리(삼성전자) 등 핵심 밸류체인</span>에서 <span class=\"text-cyan-300 font-semibold\">한국 기업들</span>의 비중이 <span class=\"text-amber-300 font-bold\">급격히 증가할 것임</span>."
+      "옵티머스 V3(Gen3)는 공학 검증을 마쳤으며, 5월 시험 생산을 시작해 7월 중순 대량 생산을 위한 첫 부품 발주(프리오더)와 8월 본격 램프업이 개시될 예정임.",
+      "<span class=\"text-cyan-300 font-semibold\">테슬라</span>는 프리몬트 공장의 기존 모델 X/S 라인을 뜯어내고 옵티머스 조립 라인으로 전환 중인데, 로봇 조립은 특수 청정실 없이 공간 확보만으로 라인 구축이 용이해 빠른 생산 개시가 가능함.",
+      "미-중 지정학적 규제로 인해 액추에이터, 감속기, 로봇 얼굴용 OLED 디스플레이(삼성/LG), <span class=\"text-cyan-300 font-semibold\">AI 반도체</span> 파운드리(<span class=\"text-cyan-300 font-semibold\">삼성전자</span>) 등 핵심 밸류체인에서 한국 기업들의 비중이 급격히 증가할 것임."
     ],
     "data_points": [
       "테슬라 옵티머스 부품의 기존 중국 공급망 비중: 약 60%.",
@@ -21,7 +21,7 @@
       "텍사스 공장 목표 규모: 2027년 이후 연간 1,000만 대 생산 체제 구축 계획(일론 머스크의 장기 목표)."
     ],
     "signal": "bullish",
-    "signal_reason": "테슬라 옵티머스의 <span class=\"text-amber-300 font-bold\">대량 생산 개시 일정이 가시화</span>되었으며, <span class=\"text-violet-300 font-medium\">미-중 지정학적 공급망 재편(탈중국화) 흐름</span> 덕분에 <span class=\"text-cyan-300 font-semibold\">한국의 핵심 첨단 부품 기업들</span>이 <span class=\"text-amber-300 font-bold\">대규모 신규 시장을 선점할 가능성</span>이 매우 큼.",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">테슬라</span> 옵티머스의 대량 생산 개시 일정이 가시화되었으며, 미-중 지정학적 공급망 재편(탈<span class=\"text-violet-300 font-medium\">중국</span>화) 흐름 덕분에 한국의 핵심 첨단 부품 기업들이 대규모 신규 시장을 선점할 가능성이 매우 큼.",
     "key_companies": [
       "테슬라",
       "삼성전자",
@@ -30,8 +30,8 @@
       "현대자동차",
       "보스턴 다이내믹스"
     ],
-    "insight": "일반 범용(가정용) 로봇은 손의 정밀도 한계 등으로 상용화가 늦어지지만, 테슬라는 자체 배터리 및 전기차 공장에 옵티머스를 직접 투입해 차량 조립, 검사, 자율주행 차량(로보택시) 생산과의 콜라보로 생산 효율을 검증하는 '<span class=\"text-amber-300 font-bold\">클로즈드 루프(Closed-Loop) 전략</span>'을 구사하고 있음.",
-    "action_point": "테슬라 로봇 밸류체인에 진입 가능성이 높은 <span class=\"text-cyan-300 font-semibold\">고정밀 감속기, 모터(액추에이터 부품) 및 외장 소재</span>를 공급하는 <span class=\"text-cyan-300 font-semibold\">한국 기업들</span>을 선제적으로 발굴하고 투자 기회를 모색해야 함."
+    "insight": "일반 범용(가정용) 로봇은 손의 정밀도 한계 등으로 상용화가 늦어지지만, <span class=\"text-cyan-300 font-semibold\">테슬라</span>는 자체 배터리 및 전기차 공장에 옵티머스를 직접 투입해 차량 조립, 검사, 자율주행 차량(로보택시) 생산과의 콜라보로 생산 효율을 검증하는 '클로즈드 루프(Closed-Loop) 전략'을 구사하고 있음.",
+    "action_point": "<span class=\"text-cyan-300 font-semibold\">테슬라</span> 로봇 밸류체인에 진입 가능성이 높은 고정밀 감속기, 모터(액추에이터 부품) 및 외장 소재를 공급하는 한국 기업들을 선제적으로 발굴하고 투자 기회를 모색해야 함."
   },
   "classification": {
     "primary_topic": "robot",

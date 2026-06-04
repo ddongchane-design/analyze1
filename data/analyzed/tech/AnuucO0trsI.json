@@ -8,12 +8,12 @@
     "thumbnail": "https://img.youtube.com/vi/AnuucO0trsI/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "<span class='text-amber-300 font-bold'>AI 인프라 투자 확대</span>가 <span class='text-cyan-300 font-semibold'>HPE</span> 실적을 통해 강력히 확인되며 <span class='text-amber-300 font-bold'>AI 생태계 전반의 성장 모멘텀</span>이 지속되고 있음이 드러났습니다.\n<span class='text-cyan-300 font-semibold'>버크셔 해서웨이</span>는 저조한 성과를 만회하고자 <span class='text-cyan-300 font-semibold'>알파벳</span>에 100억 달러를 추가 투자하며 <span class='text-amber-300 font-bold'>AI 시대 기술주 투자</span>에 대한 전략적 변화를 시사했습니다.\n<span class='text-violet-300 font-medium'>중동 위기</span>는 트럼프 행정부의 관리 노력으로 완화될 조짐을 보이지만, <span class='text-rose-400 font-medium'>미국 증시 밸류에이션은 역사상 최고 수준에 도달하여 주의가 요구됩니다</span>.",
+    "summary": "AI 인프라 투자 확대가 HPE 실적을 통해 강력히 확인되며 AI 생태계 전반의 성장 모멘텀이 지속되고 있음이 드러났습니다.\n<span class=\"text-cyan-300 font-semibold\">버크셔 해서웨이</span>는 저조한 성과를 만회하고자 알파벳에 100억 달러를 추가 투자하며 AI 시대 기술주 투자에 대한 전략적 변화를 시사했습니다.\n<span class=\"text-violet-300 font-medium\">중동</span> 위기는 트럼프 행정부의 관리 노력으로 완화될 조짐을 보이지만, 미국 증시 밸류에이션은 역사상 최고 수준에 도달하여 주의가 요구됩니다.",
     "key_claims": [
-      "<span class='text-amber-300 font-bold'>AI 인프라 투자</span>가 빅테크를 넘어 기업, 정부, 데이터센터 전반으로 확산되며 <span class='text-amber-300 font-bold'>관련 부품 수요가 폭발적이다</span>.",
-      "<span class='text-cyan-300 font-semibold'>버크셔 해서웨이</span>가 <span class='text-cyan-300 font-semibold'>알파벳</span>에 대한 대규모 추가 투자를 통해 <span class='text-amber-300 font-bold'>AI 시대의 지배적 플랫폼</span>에 대한 전략적 접근을 시작했다.",
-      "<span class='text-rose-400 font-medium'>미국 증시 밸류에이션</span>은 1929년 대공황 직전과 2000년 닷컴 버블 정점을 넘어선 <span class='text-rose-400 font-medium'>역사적 최고 수준</span>을 기록 중이다.",
-      "트럼프 행정부는 <span class='text-violet-300 font-medium'>이란과의 위기를 관리 차원으로 접근하며 확전 방지</span>를 위해 노력하고 있으며, 시장은 이를 긍정적으로 해석하고 있다."
+      "AI 인프라 투자가 빅테크를 넘어 기업, 정부, 데이터센터 전반으로 확산되며 관련 부품 수요가 폭발적이다.",
+      "<span class=\"text-cyan-300 font-semibold\">버크셔 해서웨이</span>가 알파벳에 대한 대규모 추가 투자를 통해 AI 시대의 지배적 플랫폼에 대한 전략적 접근을 시작했다.",
+      "미국 증시 밸류에이션은 1929년 대공황 직전과 2000년 닷컴 버블 정점을 넘어선 역사적 최고 수준을 기록 중이다.",
+      "트럼프 행정부는 <span class=\"text-violet-300 font-medium\">이란</span>과의 위기를 관리 차원으로 접근하며 확전 방지를 위해 노력하고 있으며, 시장은 이를 긍정적으로 해석하고 있다."
     ],
     "data_points": [
       "엔비디아 주가 6% 넘게 상승",
@@ -28,7 +28,7 @@
       "미국 증시 밸류에이션 지표 평균, 1929년 대공황 직전 및 2000년 닷컴 버블 정점 초과 최고치"
     ],
     "signal": "bullish",
-    "signal_reason": "<span class='text-amber-300 font-bold'>AI 인프라 투자</span>에 대한 강력한 수요가 <span class='text-cyan-300 font-semibold'>HPE</span> 실적을 통해 확인되었고, <span class='text-cyan-300 font-semibold'>버크셔 해서웨이</span>마저 <span class='text-cyan-300 font-semibold'>AI 선도 기업</span>에 투자하며 시장의 <span class='text-amber-300 font-bold'>AI 성장 모멘텀</span>이 지속되고 있음을 보여준다. 또한, <span class='text-violet-300 font-medium'>중동 위기 관리</span>에 대한 긍정적 시장 해석도 존재한다.",
+    "signal_reason": "AI 인프라 투자에 대한 강력한 수요가 HPE 실적을 통해 확인되었고, <span class=\"text-cyan-300 font-semibold\">버크셔 해서웨이</span>마저 AI 선도 기업에 투자하며 시장의 AI 성장 모멘텀이 지속되고 있음을 보여준다. 또한, <span class=\"text-violet-300 font-medium\">중동</span> 위기 관리에 대한 긍정적 시장 해석도 존재한다.",
     "key_companies": [
       "NVIDIA",
       "Micron",
@@ -41,8 +41,8 @@
       "Alphabet (Google)",
       "S&P 500"
     ],
-    "insight": "<span class='text-cyan-300 font-semibold'>HPE</span>의 서프라이즈 실적은 <span class='text-amber-300 font-bold'>AI 인프라 투자</span>가 빅테크를 넘어 전방위적으로 확산되는 초기 단계에 있음을 숫자로 증명하며, 이는 <span class='text-cyan-300 font-semibold'>CPU, GPU, 메모리</span> 등 <span class='text-amber-300 font-bold'>AI 서버 생태계 전반의 폭발적인 수요</span>를 예고합니다. <span class='text-cyan-300 font-semibold'>버크셔 해서웨이</span>의 <span class='text-cyan-300 font-semibold'>알파벳</span> 투자는 워렌 버핏조차 <span class='text-amber-300 font-bold'>AI 시대의 기술주 투자</span>를 외면할 수 없게 만드는 <span class='text-amber-300 font-bold'>구조적 변화</span>를 시사하며, AI가 단순 트렌드를 넘어 <span class='text-amber-300 font-bold'>장기적 주도권</span>을 형성하고 있음을 보여줍니다. 다만, 이 모든 긍정적 흐름 속에서 <span class='text-rose-400 font-medium'>증시 밸류에이션이 역사적 고점에 도달</span>했다는 점은 이익 성장이 뒷받침되지 않을 경우 언제든 <span class='text-rose-400 font-medium'>조정 가능성</span>이 있음을 경고합니다.",
-    "action_point": "투자자들은 <span class='text-amber-300 font-bold'>AI 인프라 확장</span>으로 인한 <span class='text-cyan-300 font-semibold'>서버, 네트워킹</span>, 그리고 <span class='text-cyan-300 font-semibold'>관련 부품 (GPU, DRAM, SSD)</span> 기업들의 실적을 지속적으로 주목해야 합니다. <span class='text-cyan-300 font-semibold'>버크셔</span>의 <span class='text-amber-300 font-bold'>AI 투자 전환</span>은 장기 투자 관점에서 <span class='text-cyan-300 font-semibold'>AI 관련 핵심 플랫폼 기업들</span>의 중요성을 다시 한번 상기시키지만, <span class='text-rose-400 font-medium'>역사적 고점 밸류에이션에 대한 경계심</span>을 늦추지 않고 기업의 이익 성장 여부를 면밀히 분석하며 투자 전략을 수립해야 합니다."
+    "insight": "HPE의 서프라이즈 실적은 AI 인프라 투자가 빅테크를 넘어 전방위적으로 확산되는 초기 단계에 있음을 숫자로 증명하며, 이는 CPU, GPU, 메모리 등 AI 서버 생태계 전반의 폭발적인 수요를 예고합니다. <span class=\"text-cyan-300 font-semibold\">버크셔 해서웨이</span>의 알파벳 투자는 워렌 버핏조차 AI 시대의 기술주 투자를 외면할 수 없게 만드는 구조적 변화를 시사하며, AI가 단순 트렌드를 넘어 장기적 주도권을 형성하고 있음을 보여줍니다. 다만, 이 모든 긍정적 흐름 속에서 증시 밸류에이션이 역사적 고점에 도달했다는 점은 이익 성장이 뒷받침되지 않을 경우 언제든 <span class=\"text-rose-400 font-medium\">조정</span> 가능성이 있음을 경고합니다.",
+    "action_point": "투자자들은 AI 인프라 확장으로 인한 서버, 네트워킹, 그리고 관련 부품 (GPU, DRAM, SSD) 기업들의 실적을 지속적으로 주목해야 합니다. 버크셔의 AI 투자 전환은 장기 투자 관점에서 AI 관련 핵심 플랫폼 기업들의 중요성을 다시 한번 상기시키지만, 역사적 고점 밸류에이션에 대한 경계심을 늦추지 않고 기업의 이익 성장 여부를 면밀히 분석하며 투자 전략을 수립해야 합니다."
   },
   "classification": {
     "primary_topic": "tech",

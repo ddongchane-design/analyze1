@@ -8,12 +8,12 @@
     "thumbnail": "https://img.youtube.com/vi/PnYLAezGTdU/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "<span class=\"text-cyan-300 font-semibold\">엔비디아</span>가 컴퓨텍스에서 자체 CPU를 탑재한 <span class=\"text-cyan-300 font-semibold\">AI PC</span> 'RTX 스파크' 실물을 공개하며 <span class=\"text-amber-300 font-bold\">PC 시장 진출을 공식화</span>했습니다. 이는 인텔, AMD, 퀄컴 등 <span class=\"text-rose-400 font-medium\">기존 CPU 강자들에게 큰 위협</span>이 되지만, <span class=\"text-amber-300 font-bold\">AI PC용 LPDDR 메모리 수요를 기존의 4배로 늘려</span> <span class=\"text-cyan-300 font-semibold\">국내 메모리 반도체 기업들에게 막대한 기회</span>가 될 것으로 분석됩니다. <span class=\"text-amber-300 font-bold\">미국 증시는 사상 최고치를 연일 경신</span>하고 있으며, 국내 시장에서는 반도체 외 화장품 등 <span class=\"text-rose-400 font-medium\">다른 강세 섹터가 소외되고 있다는 점</span>도 지적되었습니다.",
+    "summary": "엔비디아가 컴퓨텍스에서 자체 CPU를 탑재한 AI PC 'RTX 스파크' 실물을 공개하며 PC 시장 진출을 공식화했습니다. 이는 <span class=\"text-cyan-300 font-semibold\">인텔</span>, AMD, 퀄컴 등 기존 CPU 강자들에게 큰 위협이 되지만, AI PC용 LPDDR 메모리 수요를 기존의 4배로 늘려 국내 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span> 기업들에게 막대한 기회가 될 것으로 분석됩니다. 미국 증시는 사상 최고치를 연일 경신하고 있으며, 국내 시장에서는 <span class=\"text-cyan-300 font-semibold\">반도체</span> 외 화장품 등 다른 강세 섹터가 소외되고 있다는 점도 지적되었습니다.",
     "key_claims": [
-      "<span class=\"text-cyan-300 font-semibold\">엔비디아</span>가 자체 CPU 기반의 <span class=\"text-cyan-300 font-semibold\">AI PC</span>를 출시하여 <span class=\"text-amber-300 font-bold\">PC 시장 판도를 바꿀 것이다</span>.",
-      "<span class=\"text-amber-300 font-bold\">AI PC의 확산</span>은 <span class=\"text-amber-300 font-bold\">LPDDR 메모리 수요를 기존 대비 4배 증가</span>시켜 <span class=\"text-cyan-300 font-semibold\">국내 메모리 반도체 기업에 큰 기회</span>가 될 것이다.",
-      "미국 증시는 <span class=\"text-rose-400 font-medium\">고점 논란</span> 속에서도 <span class=\"text-amber-300 font-bold\">사상 최고치를 경신</span>하고 있으며, <span class=\"text-cyan-300 font-semibold\">AI 관련 종목들</span>이 나스닥 상승을 견인한다.",
-      "한국 증시에서는 <span class=\"text-cyan-300 font-semibold\">반도체 섹터의 강세</span>로 인해 화장품 등 <span class=\"text-rose-400 font-medium\">다른 강세 섹터가 주목받지 못하고 있다</span>."
+      "엔비디아가 자체 CPU 기반의 AI PC를 출시하여 PC 시장 판도를 바꿀 것이다.",
+      "AI PC의 확산은 LPDDR 메모리 수요를 기존 대비 4배 증가시켜 국내 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span> 기업에 큰 기회가 될 것이다.",
+      "미국 증시는 고점 논란 속에서도 사상 최고치를 경신하고 있으며, AI 관련 종목들이 나스닥 상승을 견인한다.",
+      "한국 증시에서는 <span class=\"text-cyan-300 font-semibold\">반도체</span> 섹터의 강세로 인해 화장품 등 다른 강세 섹터가 주목받지 못하고 있다."
     ],
     "data_points": [
       "다우존스 0.09% 상승",
@@ -28,7 +28,7 @@
       "AI PC에 기존 PC 대비 4배 (128GB) 고용량 LPDDR 메모리 탑재"
     ],
     "signal": "bullish",
-    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">엔비디아의 AI PC 시장 진출</span>은 <span class=\"text-amber-300 font-bold\">새로운 성장 동력을 제시</span>하며, AI PC의 <span class=\"text-cyan-300 font-semibold\">고용량 LPDDR 메모리 탑재</span>는 <span class=\"text-cyan-300 font-semibold\">메모리 반도체 기업들에게 전례 없는 수요 증가</span>를 가져올 것이기 때문입니다. <span class=\"text-amber-300 font-bold\">미국 증시 또한 사상 최고치를 연일 경신</span>하며 전반적으로 긍정적인 투자 심리를 보여주고 있습니다.",
+    "signal_reason": "엔비디아의 AI PC 시장 진출은 새로운 성장 동력을 제시하며, AI PC의 고용량 LPDDR 메모리 탑재는 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span> 기업들에게 전례 없는 수요 증가를 가져올 것이기 때문입니다. 미국 증시 또한 사상 최고치를 연일 경신하며 전반적으로 긍정적인 투자 심리를 보여주고 있습니다.",
     "key_companies": [
       "엔비디아",
       "델 테크놀로지",
@@ -42,8 +42,8 @@
       "하이닉스",
       "삼성전자"
     ],
-    "insight": "<span class=\"text-cyan-300 font-semibold\">엔비디아의 AI PC 출시</span>는 단순한 신제품 출시를 넘어, <span class=\"text-amber-300 font-bold\">CPU 시장의 오랜 과점 체제에 균열</span>을 내고 <span class=\"text-amber-300 font-bold\">온디바이스 AI 시대의 패권 경쟁을 본격화</span>하는 중대한 전환점입니다. 특히, <span class=\"text-amber-300 font-bold\">PC 한 대당 메모리 용량이 4배로 증가하는 LPDDR 트렌드</span>는 전체 PC 시장이 물리적으로 성장하는 것 이상의 의미를 가지며, <span class=\"text-cyan-300 font-semibold\">메모리 제조사들에게 새로운 황금기를 예고</span>하고 있습니다.",
-    "action_point": "<span class=\"text-cyan-300 font-semibold\">엔비디아</span>를 비롯한 <span class=\"text-cyan-300 font-semibold\">AI PC 관련 핵심 부품 기업들</span>의 <span class=\"text-amber-300 font-bold\">경쟁 구도와 기술 발전 동향을 면밀히 주시</span>해야 합니다. 특히, <span class=\"text-cyan-300 font-semibold\">AI PC의 핵심 수혜주인 LPDDR 메모리 관련 국내 반도체 기업들</span>에 대한 비중 확대 가능성을 검토하고, 반도체 외에 실적 개선이 예상되나 <span class=\"text-rose-400 font-medium\">수급에서 소외된 섹터</span>(예: 화장품)에도 관심을 가질 필요가 있습니다."
+    "insight": "엔비디아의 AI PC 출시는 단순한 신제품 출시를 넘어, CPU 시장의 오랜 과점 체제에 균열을 내고 온디바이스 AI 시대의 패권 경쟁을 본격화하는 중대한 전환점입니다. 특히, PC 한 대당 메모리 용량이 4배로 증가하는 LPDDR 트렌드는 전체 PC 시장이 물리적으로 성장하는 것 이상의 의미를 가지며, 메모리 제조사들에게 새로운 황금기를 예고하고 있습니다.",
+    "action_point": "엔비디아를 비롯한 AI PC 관련 핵심 부품 기업들의 경쟁 구도와 기술 발전 동향을 면밀히 주시해야 합니다. 특히, AI PC의 핵심 수혜주인 LPDDR 메모리 관련 국내 <span class=\"text-cyan-300 font-semibold\">반도체</span> 기업들에 대한 비중 확대 가능성을 검토하고, <span class=\"text-cyan-300 font-semibold\">반도체</span> 외에 실적 개선이 예상되나 수급에서 소외된 섹터(예: 화장품)에도 관심을 가질 필요가 있습니다."
   },
   "classification": {
     "primary_topic": "tech",

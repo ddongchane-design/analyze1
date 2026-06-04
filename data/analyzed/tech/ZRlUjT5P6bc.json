@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/ZRlUjT5P6bc/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "글로벌 AI 모델 선도 기업인 앤트로픽(Anthropic)의 폭발적인 성장과 대규모 시리즈 H 투자 유치 소식을 다루고, 메모리 3사(삼성전자·SK하이닉스·마이크론)와의 전략적 제휴가 갖는 거시적 의미를 분석합니다.\n'AI 공장(데이터센터)'과 '지능 정제소(모델사)'로 나뉘는 AI 가치사슬 모델을 제시하고, 앤트로픽의 초고속 성장이 어떻게 메모리 반도체 밸류체인의 이익을 구조적으로 보장하는지 해설합니다.",
+    "summary": "글로벌 AI 모델 선도 기업인 앤트로픽(Anthropic)의 폭발적인 성장과 대규모 시리즈 H 투자 유치 소식을 다루고, 메모리 3사(<span class=\"text-cyan-300 font-semibold\">삼성전자</span>·<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>·마이크론)와의 전략적 제휴가 갖는 거시적 의미를 분석합니다.\n'AI 공장(데이터센터)'과 '지능 정제소(모델사)'로 나뉘는 AI 가치사슬 모델을 제시하고, 앤트로픽의 초고속 성장이 어떻게 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span> 밸류체인의 이익을 구조적으로 보장하는지 해설합니다.",
     "key_claims": [
       "앤트로픽(Anthropic)이 시리즈 H 투자를 통해 기업가치 약 9,650억 달러(한화 약 1,500조 원)를 인정받으며 설립 5년 만에 1조 달러 수준의 거대 기업으로 도약함.",
       "앤트로픽의 연환산 매출은 2025년 10억 달러 수준에서 최근 90억 달러, 300억 달러를 거쳐 최신 470억 달러 전망치까지 기하급수적으로 폭증하고 있음.",
-      "앤트로픽은 이번 투자 유치와 함께 삼성전자, SK하이닉스, 마이크론을 '전략적 파트너'로 공식 명시했으며, 이는 고성능 컴퓨팅의 생존 조건으로 메모리 반도체의 위상이 극상했음을 증명함.",
+      "앤트로픽은 이번 투자 유치와 함께 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>, <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>, 마이크론을 '전략적 파트너'로 공식 명시했으며, 이는 고성능 컴퓨팅의 생존 조건으로 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span>의 위상이 극상했음을 증명함.",
       "21세기 경제는 엔비디아가 주도하는 '컴퓨팅(원유)'과 메모리 3사가 공급하는 '피드(Feed/먹이)' 축으로 굴러가며, 지능 정제소(앤트로픽 등)가 이를 사들여 고/저부가가치 토큰(지능)으로 정제 판매하는 구조임.",
       "애플(40년), 아마존(20년) 대비 앤트로픽의 1조 달러 도달 속도(5년)가 증명하듯, AI 혁명은 과거 닷컴 버블과는 궤를 달리하는 실체적 가치 창출 속도를 보여주고 있음."
     ],
@@ -22,7 +22,7 @@
       "1조 달러 가치 도달 소요 시간: 애플 약 40년, 아마존 약 20년 vs 앤트로픽 고작 5년"
     ],
     "signal": "bullish",
-    "signal_reason": "지능 정제소 역할을 하는 앤트로픽의 연환산 매출이 1년 만에 수십 배 폭증하며 대규모 투자를 유치한 것은, 빅테크의 AI 인프라 자금 회수 우려를 잠재우고 이들에게 메모리를 공급하는 삼성전자, SK하이닉스 등의 장기 이익 동력을 강하게 보장합니다.",
+    "signal_reason": "지능 정제소 역할을 하는 앤트로픽의 연환산 매출이 1년 만에 수십 배 폭증하며 대규모 투자를 유치한 것은, 빅테크의 AI 인프라 자금 회수 우려를 잠재우고 이들에게 메모리를 공급하는 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>, <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 등의 장기 이익 동력을 강하게 보장합니다.",
     "key_companies": [
       "Anthropic",
       "Samsung Electronics",
@@ -30,8 +30,8 @@
       "Micron",
       "NVIDIA"
     ],
-    "insight": "AI 생태계는 연산 능력을 가공해 토큰을 파는 <span class=\"text-cyan-300 font-semibold\">지능 정제소(앤트로픽, OpenAI)</span>의 실질 매출 성장이 유지되는 한 선순환하며, 이 정제소들이 연산 공장에 원활히 공급받기 위해 <span class=\"text-amber-300 font-bold\">메모리 3사와의 동맹(도원결의)</span>에 직접 나서는 판도 변화가 일어났습니다.",
-    "action_point": "빅테크 카펙스(CAPEX) 우려로 메모리 반도체 주가가 흔들릴 때마다 과감한 비중 확대 기회로 삼아야 하며, 앤트로픽과 전략적 혈맹을 맺은 <span class=\"text-cyan-300 font-semibold\">SK하이닉스, 삼성전자</span>의 글로벌 포지션 유지가 최우선적입니다."
+    "insight": "AI 생태계는 연산 능력을 가공해 토큰을 파는 지능 정제소(앤트로픽, OpenAI)의 실질 매출 성장이 유지되는 한 선순환하며, 이 정제소들이 연산 공장에 원활히 공급받기 위해 메모리 3사와의 동맹(도원결의)에 직접 나서는 판도 변화가 일어났습니다.",
+    "action_point": "빅테크 카펙스(CAPEX) 우려로 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span> 주가가 흔들릴 때마다 과감한 비중 확대 기회로 삼아야 하며, 앤트로픽과 전략적 혈맹을 맺은 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>, <span class=\"text-cyan-300 font-semibold\">삼성전자</span>의 글로벌 포지션 유지가 최우선적입니다."
   },
   "classification": {
     "primary_topic": "tech",

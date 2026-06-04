@@ -8,13 +8,13 @@
     "thumbnail": "https://img.youtube.com/vi/bFTsiQNd2HQ/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "<span class=\"text-cyan-300 font-semibold\">MicroStrategy</span>의 소량 <span class=\"text-rose-400 font-medium\">비트코인 매도 공시</span>와 <span class=\"text-rose-400 font-medium\">현물 ETF의 지속적인 자금 유출</span>로 비트코인 가격이 하락하며 <span class=\"text-rose-400 font-medium\">7만 달러 지지선이 위협</span>받고 있습니다. MSTR의 매도 동기는 <span class=\"text-cyan-300 font-semibold\">STRC 우선주</span> 배당금 마련 또는 시장 시그널 주기 등 분분하며, 11.5%의 고배당 STRC의 <span class=\"text-rose-400 font-medium\">지속 가능성에 대한 우려</span>가 커지고 있습니다. 국내 <span class=\"text-rose-400 font-medium\">김치 프리미엄마저 음수로 전환</span>되는 등 디지털 자산 시장 전반의 <span class=\"text-rose-400 font-medium\">투자 심리가 크게 약화</span>된 상황입니다.",
+    "summary": "MicroStrategy의 소량 비트코인 매도 공시와 현물 ETF의 지속적인 자금 <span class=\"text-rose-400 font-medium\">유출</span>로 비트코인 가격이 하락하며 7만 달러 지지선이 위협받고 있습니다. MSTR의 매도 동기는 STRC 우선주 배당금 마련 또는 시장 시그널 주기 등 분분하며, 11.5%의 고배당 STRC의 지속 가능성에 대한 우려가 커지고 있습니다. 국내 김치 프리미엄마저 음수로 전환되는 등 디지털 자산 시장 전반의 투자 심리가 크게 약화된 상황입니다.",
     "key_claims": [
-      "<span class=\"text-cyan-300 font-semibold\">MicroStrategy</span>의 32개 <span class=\"text-rose-400 font-medium\">비트코인 매도 공시</span>가 시장에 충격을 주며 <span class=\"text-rose-400 font-medium\">비트코인 가격 하락</span>을 야기했습니다.",
-      "MSTR의 비트코인 매도 동기(<span class=\"text-cyan-300 font-semibold\">STRC 배당금 마련</span>, 시장 시그널 등)와 이에 대한 <span class=\"text-rose-400 font-medium\">시장의 배신감 여부</span>가 <span class=\"text-amber-300 font-bold\">논란</span>이 되고 있습니다.",
-      "11.5%의 고배당률을 유지하는 <span class=\"text-cyan-300 font-semibold\">STRC 우선주</span>가 <span class=\"text-rose-400 font-medium\">비트코인 가격 하락 시 매력도를 잃고</span>, 이는 <span class=\"text-rose-400 font-medium\">MSTR의 추가 비트코인 매도 압박</span>으로 이어질 수 있습니다.",
-      "<span class=\"text-rose-400 font-medium\">비트코인 현물 ETF</span>는 5월 한 달간 <span class=\"text-rose-400 font-medium\">24억 3천만 달러의 순 유출</span>을 기록하며 <span class=\"text-rose-400 font-medium\">가격 하방 압력을 가중</span>시키고 있습니다.",
-      "국내 <span class=\"text-rose-400 font-medium\">김치 프리미엄이 음수로 전환</span>되어 국내 투자자들의 <span class=\"text-rose-400 font-medium\">디지털 자산 시장 이탈</span> 및 <span class=\"text-cyan-300 font-semibold\">AI 반도체 등 다른 섹터로의 자금 이동</span>을 시사합니다."
+      "MicroStrategy의 32개 비트코인 매도 공시가 시장에 충격을 주며 비트코인 가격 하락을 야기했습니다.",
+      "MSTR의 비트코인 매도 동기(STRC 배당금 마련, 시장 시그널 등)와 이에 대한 시장의 배신감 여부가 논란이 되고 있습니다.",
+      "11.5%의 고배당률을 유지하는 STRC 우선주가 비트코인 가격 하락 시 매력도를 잃고, 이는 MSTR의 추가 비트코인 매도 압박으로 이어질 수 있습니다.",
+      "비트코인 현물 ETF는 5월 한 달간 24억 3천만 달러의 순 <span class=\"text-rose-400 font-medium\">유출</span>을 기록하며 가격 하방 압력을 가중시키고 있습니다.",
+      "국내 김치 프리미엄이 음수로 전환되어 국내 투자자들의 디지털 자산 시장 이탈 및 <span class=\"text-cyan-300 font-semibold\">AI 반도체</span> 등 다른 섹터로의 자금 이동을 시사합니다."
     ],
     "data_points": [
       "MicroStrategy 비트코인 매도량: 32개",
@@ -32,7 +32,7 @@
       "김치 프리미엄: -3.12%"
     ],
     "signal": "bearish",
-    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">MicroStrategy</span>의 <span class=\"text-rose-400 font-medium\">비트코인 매도</span>, <span class=\"text-rose-400 font-medium\">현물 ETF의 대규모 자금 유출</span>, <span class=\"text-cyan-300 font-semibold\">STRC 배당금 관련 불확실성</span>, 그리고 <span class=\"text-rose-400 font-medium\">투자 심리 약화</span>(<span class=\"text-rose-400 font-medium\">음수 김치 프리미엄</span>)가 복합적으로 작용하여 비트코인에 대한 <span class=\"text-rose-400 font-medium\">강한 하방 압력</span>을 형성하고 있습니다.",
+    "signal_reason": "MicroStrategy의 비트코인 매도, 현물 ETF의 대규모 자금 <span class=\"text-rose-400 font-medium\">유출</span>, STRC 배당금 관련 불확실성, 그리고 투자 심리 약화(음수 김치 프리미엄)가 복합적으로 작용하여 비트코인에 대한 강한 하방 압력을 형성하고 있습니다.",
     "key_companies": [
       "MicroStrategy (MSTR)",
       "Nvidia",
@@ -41,8 +41,8 @@
       "Coinbase",
       "블록스트림 (Blockstream)"
     ],
-    "insight": "비트코인 장기 보유 전략을 강조해 온 <span class=\"text-cyan-300 font-semibold\">MicroStrategy</span>의 <span class=\"text-rose-400 font-medium\">소규모 매도</span>는 단순한 자금 조달을 넘어 '비트코인은 절대 팔지 않는다'는 <span class=\"text-rose-400 font-medium\">기존 서사를 훼손</span>하며 시장에 실망감을 안겨주었습니다. 이는 <span class=\"text-cyan-300 font-semibold\">고배당 STRC</span>의 지속 가능성과 MSTR의 향후 <span class=\"text-rose-400 font-medium\">추가 비트코인 매도 가능성</span>에 대한 근본적인 의문을 제기하며, <span class=\"text-rose-400 font-medium\">비트코인 현물 ETF 유출</span> 및 전반적인 투자 심리 약화와 맞물려 디지털 자산 시장의 <span class=\"text-rose-400 font-medium\">중장기적인 신뢰도에 타격</span>을 줄 수 있습니다.",
-    "action_point": "투자자들은 <span class=\"text-cyan-300 font-semibold\">MicroStrategy</span>의 <span class=\"text-rose-400 font-medium\">비트코인 매도 전략 변화</span>와 <span class=\"text-cyan-300 font-semibold\">STRC 발행 및 배당 정책</span>이 비트코인 가격에 미칠 <span class=\"text-amber-300 font-bold\">장기적 영향</span>을 면밀히 추적해야 합니다. 또한, <span class=\"text-rose-400 font-medium\">비트코인 현물 ETF의 자금 흐름</span>과 <span class=\"text-rose-400 font-medium\">김치 프리미엄 같은 투자 심리 지표</span>를 주시하며, 디지털 자산 포트폴리오의 <span class=\"text-rose-400 font-medium\">리스크를 재평가</span>하고 <span class=\"text-cyan-300 font-semibold\">AI 반도체 등 성장 섹터</span>와의 포트폴리오 배분 전략을 검토하는 것이 현명합니다."
+    "insight": "비트코인 장기 보유 전략을 강조해 온 MicroStrategy의 소규모 매도는 단순한 자금 조달을 넘어 '비트코인은 절대 팔지 않는다'는 기존 서사를 훼손하며 시장에 실망감을 안겨주었습니다. 이는 고배당 STRC의 지속 가능성과 MSTR의 향후 추가 비트코인 매도 가능성에 대한 근본적인 의문을 제기하며, 비트코인 현물 ETF <span class=\"text-rose-400 font-medium\">유출</span> 및 전반적인 투자 심리 약화와 맞물려 디지털 자산 시장의 중장기적인 신뢰도에 타격을 줄 수 있습니다.",
+    "action_point": "투자자들은 MicroStrategy의 비트코인 매도 전략 변화와 STRC 발행 및 배당 정책이 비트코인 가격에 미칠 장기적 영향을 면밀히 추적해야 합니다. 또한, 비트코인 현물 ETF의 자금 흐름과 김치 프리미엄 같은 투자 심리 지표를 주시하며, 디지털 자산 포트폴리오의 <span class=\"text-rose-400 font-medium\">리스크</span>를 재평가하고 <span class=\"text-cyan-300 font-semibold\">AI 반도체</span> 등 성장 섹터와의 포트폴리오 배분 전략을 검토하는 것이 현명합니다."
   },
   "classification": {
     "primary_topic": "crypto",

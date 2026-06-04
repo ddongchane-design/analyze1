@@ -8,18 +8,18 @@
     "thumbnail": "https://img.youtube.com/vi/joqrL33AE1k/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "중국의 AI 모델 스타트업 <span class=\"text-cyan-300 font-semibold\">딥시크</span>(DeepSeek)가 CSA 및 HCA 압축 기억 구조를 도입한 신형 모델 'V4 Pro'를 출시했습니다. 이 모델은 기존 모델(V3.2) 대비 추론당 연산(FLOPs)을 27% 감축하고, <span class=\"text-cyan-300 font-semibold\">KV 캐시</span> 용량을 단 10% 수준으로 대폭 절감하여 고비용 AI 추론 비용을 극적으로 낮추었습니다.",
+    "summary": "<span class=\"text-violet-300 font-medium\">중국</span>의 AI 모델 스타트업 딥시크(DeepSeek)가 CSA 및 HCA 압축 기억 구조를 도입한 신형 모델 'V4 Pro'를 출시했습니다. 이 모델은 기존 모델(V3.2) 대비 추론당 연산(FLOPs)을 27% 감축하고, KV 캐시 용량을 단 10% 수준으로 대폭 절감하여 고비용 AI 추론 비용을 극적으로 낮추었습니다.",
     "key_claims": [
       "딥시크 V4 Pro는 메모리 압축 효율화 구조를 통해 대용량 콘텍스트 지원 비용을 대폭 낮췄다.",
       "추론 과정의 FLOPs를 27% 줄이고, 필요한 KV 캐시 메모리 공간을 10% 수준으로 극대화했다.",
-      "이번 발표는 물리적 메모리 반도체 사용을 줄이는 것이 아니라 알고리즘 차원의 메모리 대역폭 및 연산 최적화 성과다."
+      "이번 발표는 물리적 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span> 사용을 줄이는 것이 아니라 알고리즘 차원의 메모리 대역폭 및 연산 최적화 성과다."
     ],
     "data_points": [
       "추론 FLOPs 감축률: 27%",
       "KV 캐시 요구량: 10% 수준으로 감소 (90% 절감)"
     ],
     "signal": "bullish",
-    "signal_reason": "중국 딥시크의 지속적인 극초가성비 AI 모델 고도화는 글로벌 AI 기업들의 추론 단가 인하 경쟁을 부추기고 대중적인 AI 에이전트 서비스 보급을 촉진하는 촉매제가 될 것입니다.",
+    "signal_reason": "<span class=\"text-violet-300 font-medium\">중국</span> 딥시크의 지속적인 극초가성비 AI 모델 고도화는 글로벌 AI 기업들의 추론 단가 인하 경쟁을 부추기고 <span class=\"text-violet-300 font-medium\">대중</span>적인 AI 에이전트 서비스 보급을 촉진하는 촉매제가 될 것입니다.",
     "key_companies": [
       "딥시크",
       "오픈AI"

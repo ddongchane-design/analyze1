@@ -8,9 +8,9 @@
     "thumbnail": "https://img.youtube.com/vi/SPXhamNPf6Q/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "중동 지정학적 위기가 실질적인 물류 마찰로 전이되며, <span class=\"text-amber-300 font-bold\">유가</span>와 석유 제품 가격의 상승 압력이 장기화되고 있습니다. 특히 호르무즈 해협을 우회하는 해상 운송로의 물리적 시차(3~4개월)로 인해, 설령 오늘 <span class=\"text-violet-300 font-medium\">이란</span>과의 전쟁이 종식되더라도 공급망 정상화 시점인 9월까지는 고유가 기조가 유지될 전망입니다.",
+    "summary": "<span class=\"text-violet-300 font-medium\">중동</span> 지정학적 위기가 실질적인 물류 마찰로 전이되며, <span class=\"text-amber-300 font-bold\">유가</span>와 석유 제품 가격의 상승 압력이 장기화되고 있습니다. 특히 <span class=\"text-violet-300 font-medium\">호르무즈 해협</span>을 우회하는 해상 운송로의 물리적 시차(3~4개월)로 인해, 설령 오늘 <span class=\"text-violet-300 font-medium\">이란</span>과의 전쟁이 종식되더라도 공급망 정상화 시점인 9월까지는 고<span class=\"text-amber-300 font-bold\">유가</span> 기조가 유지될 전망입니다.",
     "key_claims": [
-      "호르무즈 해협 우회로 인한 유조선 운송 거리 증가로 해상 물류의 공급망 지연 및 운임 급등이 유발되었다.",
+      "<span class=\"text-violet-300 font-medium\">호르무즈 해협</span> 우회로 인한 유조선 운송 거리 증가로 해상 물류의 공급망 지연 및 운임 급등이 유발되었다.",
       "국내 수입 석유 제품 가격은 싱가포르 현물 가격과 연동되는데, 공급망 시차로 인해 약 3~4개월의 가격 지연 반영(Lag time)이 발생한다.",
       "미국의 셰일 오일 증산에도 불구하고 경질유 중심 공급이어서 정제 마진이 높은 중질유 제품군의 숏티지는 해소되기 어렵다."
     ],
@@ -19,13 +19,13 @@
       "공급망 우회로 인한 물리적 운송 소요 시차: 최소 3~4개월"
     ],
     "signal": "bearish",
-    "signal_reason": "유가 상승 및 운송 마찰 장기화는 글로벌 제조업의 인플레이션 압력을 다시 고조시키며, 각국 중앙은행의 <span class=\"text-amber-300 font-bold\">금리 인하</span> 시점을 늦추는 강력한 매크로 악재입니다.",
+    "signal_reason": "<span class=\"text-amber-300 font-bold\">유가 상승</span> 및 운송 마찰 장기화는 글로벌 제조업의 <span class=\"text-amber-300 font-bold\">인플레이션</span> 압력을 다시 고조시키며, 각국 중앙은행의 <span class=\"text-amber-300 font-bold\">금리 인하</span> 시점을 늦추는 강력한 매크로 악재입니다.",
     "key_companies": [
       "SK이노베이션",
       "S-Oil"
     ],
-    "insight": "지정학적 협상 타결이라는 정치적 뉴스만으로 유가 하락을 예단해서는 안 됩니다. 해운 물류의 병목은 물리적 거리가 늘어난 만큼의 톤-마일(Ton-mile) 증가를 야기하며, 이는 유통 공급망 전체에 최소 한 분기 이상의 시차를 두고 누적 가격 상승을 유발하는 구조적 요인입니다.",
-    "action_point": "원자재 및 에너지 운송 비중이 높은 해운/물류주 및 정제 마진 수혜가 기대되는 정유 대형주 위주로 단기 헤지 포지션을 설정하고, 유가 연동 비용 부담이 큰 화학/항공 업종의 비중을 축소해야 합니다."
+    "insight": "지정학적 협상 타결이라는 정치적 뉴스만으로 <span class=\"text-amber-300 font-bold\">유가</span> 하락을 예단해서는 안 됩니다. 해운 물류의 병목은 물리적 거리가 늘어난 만큼의 톤-마일(Ton-mile) 증가를 야기하며, 이는 유통 공급망 전체에 최소 한 분기 이상의 시차를 두고 누적 가격 상승을 유발하는 구조적 요인입니다.",
+    "action_point": "원자재 및 에너지 운송 비중이 높은 해운/물류주 및 정제 마진 수혜가 기대되는 정유 대형주 위주로 단기 헤지 포지션을 설정하고, <span class=\"text-amber-300 font-bold\">유가</span> 연동 비용 부담이 큰 화학/항공 업종의 비중을 축소해야 합니다."
   },
   "classification": {
     "primary_topic": "economy",

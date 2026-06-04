@@ -8,14 +8,14 @@
     "thumbnail": "https://img.youtube.com/vi/P9pcrUm1oRg/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "AI 및 반도체 섹터의 강세로 비트코인 및 이더리움 현물 ETF에서 5월 한 달간 <span class=\"text-rose-400 font-medium\">대규모 자금 유출</span>이 발생했습니다. <span class=\"text-cyan-300 font-semibold\">삼성전자</span>의 시가총액이 비트코인을 추월하는 등 전통 시장으로의 <span class=\"text-amber-300 font-bold\">유동성 쏠림 현상</span>이 심화되었으나, <span class=\"text-cyan-300 font-semibold\">일부 알트코인은 오히려 상승세</span>를 보였습니다. 주요 <span class=\"text-cyan-300 font-semibold\">디지털 자산 투자 기업들(DAT)</span>은 매입 속도를 늦췄지만, 여전히 매수 의지를 나타내며 <span class=\"text-amber-300 font-bold\">장기적인 시장 관점</span>에 대한 논쟁이 이어지고 있습니다.",
+    "summary": "AI 및 <span class=\"text-cyan-300 font-semibold\">반도체</span> 섹터의 강세로 비트코인 및 이더리움 현물 ETF에서 5월 한 달간 대규모 자금 <span class=\"text-rose-400 font-medium\">유출</span>이 발생했습니다. <span class=\"text-cyan-300 font-semibold\">삼성전자</span>의 시가총액이 비트코인을 추월하는 등 전통 시장으로의 유동성 쏠림 현상이 심화되었으나, 일부 알트코인은 오히려 상승세를 보였습니다. 주요 디지털 자산 투자 기업들(DAT)은 매입 속도를 늦췄지만, 여전히 매수 의지를 나타내며 장기적인 시장 관점에 대한 논쟁이 이어지고 있습니다.",
     "key_claims": [
-      "<span class=\"text-amber-300 font-bold\">AI 및 반도체 주식으로의 투심 쏠림</span>으로 비트코인 등 디지털 자산 시장이 주목을 덜 받고 있다.",
-      "<span class=\"text-cyan-300 font-semibold\">삼성전자 시가총액</span>이 비트코인 시가총액을 넘어서며 <span class=\"text-amber-300 font-bold\">유동성 이동</span>을 상징적으로 보여줬다.",
-      "5월 한 달 동안 미국 비트코인 현물 ETF에서 <span class=\"text-rose-400 font-medium\">역대급 순유출</span>이, 이더리움 ETF에서도 <span class=\"text-rose-400 font-medium\">큰 순유출</span>이 발생했다.",
-      "<span class=\"text-cyan-300 font-semibold\">MicroStrategy와 Bitmain</span> 같은 DAT(Digital Asset Trust) 기업들은 비트코인 및 이더리움 매입량을 줄였으나, 여전히 <span class=\"text-cyan-300 font-semibold\">매수 의지를 보이고 있다</span>.",
-      "비트코인 및 이더리움은 하락했지만, <span class=\"text-cyan-300 font-semibold\">GC, 하이퍼리퀴드 등 일부 알트코인</span>은 <span class=\"text-cyan-300 font-semibold\">오히려 상승하며 차별화된 흐름</span>을 보였다.",
-      "디지털 자산 시장은 <span class=\"text-amber-300 font-bold\">사이클을 타며</span> 항상 하단에서 비관적인 평가를 받아왔으며, 현재 투자자들은 인내의 시기를 겪고 있다."
+      "AI 및 <span class=\"text-cyan-300 font-semibold\">반도체</span> 주식으로의 투심 쏠림으로 비트코인 등 디지털 자산 시장이 주목을 덜 받고 있다.",
+      "<span class=\"text-cyan-300 font-semibold\">삼성전자</span> 시가총액이 비트코인 시가총액을 넘어서며 유동성 이동을 상징적으로 보여줬다.",
+      "5월 한 달 동안 미국 비트코인 현물 ETF에서 역대급 순<span class=\"text-rose-400 font-medium\">유출</span>이, 이더리움 ETF에서도 큰 순<span class=\"text-rose-400 font-medium\">유출</span>이 발생했다.",
+      "MicroStrategy와 Bitmain 같은 DAT(Digital Asset Trust) 기업들은 비트코인 및 이더리움 매입량을 줄였으나, 여전히 매수 의지를 보이고 있다.",
+      "비트코인 및 이더리움은 하락했지만, GC, 하이퍼리퀴드 등 일부 알트코인은 오히려 상승하며 차별화된 흐름을 보였다.",
+      "디지털 자산 시장은 사이클을 타며 항상 하단에서 비관적인 평가를 받아왔으며, 현재 투자자들은 인내의 시기를 겪고 있다."
     ],
     "data_points": [
       "5월 코스피 +2.2% (강조된 22%는 오류로 판단, 2.2%로 해석)",
@@ -30,7 +30,7 @@
       "Bitmain 이더리움 유통량의 4.5% 확보"
     ],
     "signal": "neutral",
-    "signal_reason": "비트코인 및 이더리움 현물 ETF의 <span class=\"text-rose-400 font-medium\">대규모 자금 유출</span>은 단기적으로 <span class=\"text-rose-400 font-medium\">부정적인 신호</span>이나, <span class=\"text-cyan-300 font-semibold\">전용 디지털 자산 투자 기업(DAT)들의 꾸준한(비록 감소된) 매수 의지</span>와 <span class=\"text-cyan-300 font-semibold\">일부 알트코인의 상승세</span>, 그리고 <span class=\"text-amber-300 font-bold\">암호화폐 시장의 주기적 특성</span>에 대한 투자자들의 인식 등을 종합할 때 <span class=\"text-amber-300 font-bold\">중립적인 상황</span>으로 판단됩니다.",
+    "signal_reason": "비트코인 및 이더리움 현물 ETF의 대규모 자금 <span class=\"text-rose-400 font-medium\">유출</span>은 단기적으로 부정적인 신호이나, 전용 디지털 자산 투자 기업(DAT)들의 꾸준한(비록 감소된) 매수 의지와 일부 알트코인의 상승세, 그리고 암호화폐 시장의 주기적 특성에 대한 투자자들의 인식 등을 종합할 때 중립적인 상황으로 판단됩니다.",
     "key_companies": [
       "비트코인 (BTC)",
       "이더리움 (ETH)",
@@ -42,8 +42,8 @@
       "Bitmain",
       "코인베이스 프라임"
     ],
-    "insight": "현재 시장은 <span class=\"text-cyan-300 font-semibold\">AI 및 반도체 주식의 폭발적 성장</span>으로 인해 디지털 자산에서 전통 금융 시장으로의 <span class=\"text-amber-300 font-bold\">유동성 재편</span>이 극명하게 나타나고 있습니다. 이는 단순한 자금 이동을 넘어, 디지털 자산의 '<span class=\"text-amber-300 font-bold\">글로벌 상품' 지위에 대한 재평가</span>와 함께 시장 내 <span class=\"text-amber-300 font-bold\">알트코인들이 비트코인으로부터 독립적인 가치 동력을 찾는 분화 과정</span>을 보여줍니다. 주요 <span class=\"text-cyan-300 font-semibold\">기관 투자자들의 행보</span>가 시장 심리에 민감하게 작용하지만, 장기 투자자들은 이를 익숙한 '<span class=\"text-amber-300 font-bold\">사이클</span>'의 한 부분으로 인식하며 인내하고 있습니다.",
-    "action_point": "투자자들은 <span class=\"text-cyan-300 font-semibold\">AI/반도체 섹터</span>와 디지털 자산 시장 간의 <span class=\"text-amber-300 font-bold\">유동성 흐름 변화</span>를 면밀히 주시해야 합니다. 비트코인 및 이더리움 ETF의 유출입 현황과 함께 <span class=\"text-cyan-300 font-semibold\">MicroStrategy, Bitmain 등 주요 DAT 기업들</span>의 매입 및 이체 동향을 파악하여 <span class=\"text-amber-300 font-bold\">기관의 장기적 관점</span>을 엿보는 것이 중요합니다. 또한, 시장 전체의 하락 속에서도 강세를 보이는 <span class=\"text-cyan-300 font-semibold\">개별 알트코인들의 펀더멘털</span>을 분석하여 <span class=\"text-cyan-300 font-semibold\">차별화된 투자 기회</span>를 모색할 필요가 있습니다."
+    "insight": "현재 시장은 AI 및 <span class=\"text-cyan-300 font-semibold\">반도체</span> 주식의 폭발적 성장으로 인해 디지털 자산에서 전통 금융 시장으로의 유동성 재편이 극명하게 나타나고 있습니다. 이는 단순한 자금 이동을 넘어, 디지털 자산의 '글로벌 상품' 지위에 대한 재평가와 함께 시장 내 알트코인들이 비트코인으로부터 독립적인 가치 동력을 찾는 분화 과정을 보여줍니다. 주요 기관 투자자들의 행보가 시장 심리에 민감하게 작용하지만, 장기 투자자들은 이를 익숙한 '사이클'의 한 부분으로 인식하며 인내하고 있습니다.",
+    "action_point": "투자자들은 AI/<span class=\"text-cyan-300 font-semibold\">반도체</span> 섹터와 디지털 자산 시장 간의 유동성 흐름 변화를 면밀히 주시해야 합니다. 비트코인 및 이더리움 ETF의 <span class=\"text-rose-400 font-medium\">유출</span>입 현황과 함께 MicroStrategy, Bitmain 등 주요 DAT 기업들의 매입 및 이체 동향을 파악하여 기관의 장기적 관점을 엿보는 것이 중요합니다. 또한, 시장 전체의 하락 속에서도 강세를 보이는 개별 알트코인들의 펀더멘털을 분석하여 차별화된 투자 기회를 모색할 필요가 있습니다."
   },
   "classification": {
     "primary_topic": "crypto",

@@ -8,26 +8,26 @@
     "thumbnail": "https://img.youtube.com/vi/O-PK8n4EQR0/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "1. <span class=\"text-cyan-300 font-semibold\">블루 오리진</span>의 <span class=\"text-rose-400 font-medium\">뉴 글렌 폭발 사고</span>는 스페이스X 스타십 사고보다 치명적일 수 있습니다.\n2. 블루 오리진은 스페이스X와 달리 <span class=\"text-rose-400 font-medium\">대체 발사대가 없어</span> 복구에 더 오랜 시간이 걸릴 수 있으며, 이는 <span class=\"text-rose-400 font-medium\">핵심 사업에 큰 타격</span>을 줍니다.\n3. 이 사고는 <span class=\"text-cyan-300 font-semibold\">NASA 달 착륙선 계약</span> 이행을 지연시켜 <span class=\"text-amber-300 font-bold\">아르테미스 계획</span>에도 차질을 초래할 수 있습니다.",
+    "summary": "1. 블루 오리진의 뉴 글렌 폭발 사고는 <span class=\"text-cyan-300 font-semibold\">스페이스X</span> <span class=\"text-cyan-300 font-semibold\">스타십</span> 사고보다 치명적일 수 있습니다.\n2. 블루 오리진은 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>와 달리 대체 발사대가 없어 복구에 더 오랜 시간이 걸릴 수 있으며, 이는 핵심 사업에 큰 타격을 줍니다.\n3. 이 사고는 NASA 달 착륙선 계약 이행을 지연시켜 아르테미스 계획에도 차질을 초래할 수 있습니다.",
     "key_claims": [
-      "<span class=\"text-cyan-300 font-semibold\">블루 오리진</span>의 <span class=\"text-rose-400 font-medium\">뉴 글렌 폭발 사고</span>는 스페이스X 스타십 사고(36호)보다 <span class=\"text-rose-400 font-medium\">회복이 더 길어질 수 있습니다</span>.",
-      "<span class=\"text-cyan-300 font-semibold\">블루 오리진</span>은 <span class=\"text-rose-400 font-medium\">대체 발사대가 없어</span> <span class=\"text-rose-400 font-medium\">비행 재개가 불가능한 구조</span>입니다.",
-      "<span class=\"text-cyan-300 font-semibold\">블루 문 착륙선</span>은 <span class=\"text-rose-400 font-medium\">뉴 글렌으로만 발사가 가능하며</span>, 이번 사고로 <span class=\"text-rose-400 font-medium\">NASA와의 달 착륙선 임무 이행에 차질</span>이 생길 수 있습니다.",
-      "이번 사고는 <span class=\"text-amber-300 font-bold\">아르테미스 계획</span>에 <span class=\"text-rose-400 font-medium\">큰 구멍을 낼 잠재력</span>이 있습니다."
+      "블루 오리진의 뉴 글렌 폭발 사고는 <span class=\"text-cyan-300 font-semibold\">스페이스X</span> <span class=\"text-cyan-300 font-semibold\">스타십</span> 사고(36호)보다 회복이 더 길어질 수 있습니다.",
+      "블루 오리진은 대체 발사대가 없어 비행 재개가 불가능한 구조입니다.",
+      "블루 문 착륙선은 뉴 글렌으로만 발사가 가능하며, 이번 사고로 NASA와의 달 착륙선 임무 이행에 차질이 생길 수 있습니다.",
+      "이번 사고는 아르테미스 계획에 큰 구멍을 낼 잠재력이 있습니다."
     ],
     "data_points": [
       "스타십 36호",
       "며칠 전 (블루 오리진이 나사로부터 블루몬 마크 착륙선 임무를 따낸 시점)"
     ],
     "signal": "bearish",
-    "signal_reason": "<span class=\"text-rose-400 font-medium\">뉴 글렌 폭발</span>은 블루 오리진의 유일한 대형 발사체 운영을 전면 중단시켜 <span class=\"text-rose-400 font-medium\">핵심 NASA 계약 이행 능력에 심각한 의문</span>을 제기하며, <span class=\"text-rose-400 font-medium\">시장 경쟁력 약화</span>가 불가피합니다.",
+    "signal_reason": "뉴 글렌 폭발은 블루 오리진의 유일한 대형 발사체 운영을 전면 중단시켜 핵심 NASA 계약 이행 능력에 심각한 의문을 제기하며, 시장 경쟁력 약화가 불가피합니다.",
     "key_companies": [
       "SpaceX",
       "Blue Origin",
       "NASA"
     ],
-    "insight": "이번 사고는 <span class=\"text-cyan-300 font-semibold\">블루 오리진</span>이 <span class=\"text-rose-400 font-medium\">단일 발사 시스템과 인프라에 지나치게 의존하는 구조적 취약점</span>을 명확히 드러냈습니다. 이는 단순히 일시적인 발사 지연을 넘어, 주요 정부 계약 이행 능력과 <span class=\"text-rose-400 font-medium\">시장 신뢰도에 장기적인 영향</span>을 미칠 수 있으며, <span class=\"text-amber-300 font-bold\">우주 산업에서 운영 탄력성과 리던던시(redundancy) 확보의 중요성</span>을 다시 한번 부각시킵니다.",
-    "action_point": "투자자들은 <span class=\"text-cyan-300 font-semibold\">블루 오리진</span>의 <span class=\"text-rose-400 font-medium\">복구 타임라인</span>, <span class=\"text-rose-400 font-medium\">대체 발사 인프라 구축 계획</span>, 그리고 <span class=\"text-cyan-300 font-semibold\">NASA 블루 문 계약의 변동 사항</span>을 면밀히 주시해야 합니다. 또한, 상업 우주 산업 내에서 <span class=\"text-rose-400 font-medium\">단일 장애점에 대한 의존도가 높은 기업들의 리스크</span>를 재평가하고, <span class=\"text-amber-300 font-bold\">경쟁사 대비 운영 안정성과 다각화된 포트폴리오를 가진 기업</span>에 주목할 필요가 있습니다."
+    "insight": "이번 사고는 블루 오리진이 단일 발사 시스템과 인프라에 지나치게 의존하는 구조적 취약점을 명확히 드러냈습니다. 이는 단순히 일시적인 발사 지연을 넘어, 주요 정부 계약 이행 능력과 시장 신뢰도에 장기적인 영향을 미칠 수 있으며, 우주 산업에서 운영 탄력성과 리던던시(redundancy) 확보의 중요성을 다시 한번 부각시킵니다.",
+    "action_point": "투자자들은 블루 오리진의 복구 타임라인, 대체 발사 인프라 구축 계획, 그리고 NASA 블루 문 계약의 변동 사항을 면밀히 주시해야 합니다. 또한, 상업 우주 산업 내에서 단일 장애점에 대한 의존도가 높은 기업들의 <span class=\"text-rose-400 font-medium\">리스크</span>를 재평가하고, 경쟁사 대비 운영 안정성과 다각화된 포트폴리오를 가진 기업에 주목할 필요가 있습니다."
   },
   "classification": {
     "primary_topic": "space",

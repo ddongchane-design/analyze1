@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/CBDFYQ-s3MM/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "달러 인덱스 상승(99 돌파) 및 원달러 환율의 1,530원 돌파 등 거시 금융 불안 요소 속에서, 미-이란 종전 협상을 둘러싼 트럼프의 '핵무기 포기 합의 성공' 발언과 실제 중동 현장의 드론 도발(이란의 쿠웨이트/바레인 미군 기지 미사일 공격)이 격렬하게 대립하고 있습니다. 한편 주문형 반도체(ASIC) 업계의 1인자인 <span class=\"text-cyan-300 font-semibold\">브로드컴</span>의 실적 발표를 앞두고 구글 TPU 협력사인 브로드컴 및 마벨의 주가 동향에 관심이 쏠리고 있습니다.",
+    "summary": "달러 인덱스 상승(99 돌파) 및 <span class=\"text-amber-300 font-bold\">원달러 환율</span>의 1,530원 돌파 등 거시 금융 불안 요소 속에서, 미-<span class=\"text-violet-300 font-medium\">이란</span> 종전 협상을 둘러싼 트럼프의 '핵무기 포기 합의 성공' 발언과 실제 <span class=\"text-violet-300 font-medium\">중동</span> 현장의 드론 도발(<span class=\"text-violet-300 font-medium\">이란</span>의 <span class=\"text-violet-300 font-medium\">쿠웨이트</span>/<span class=\"text-violet-300 font-medium\">바레인</span> 미군 기지 미사일 공격)이 격렬하게 대립하고 있습니다. 한편 주문형 <span class=\"text-cyan-300 font-semibold\">반도체</span>(ASIC) 업계의 1인자인 <span class=\"text-cyan-300 font-semibold\">브로드컴</span>의 실적 발표를 앞두고 <span class=\"text-cyan-300 font-semibold\">구글</span> TPU 협력사인 <span class=\"text-cyan-300 font-semibold\">브로드컴</span> 및 <span class=\"text-cyan-300 font-semibold\">마벨</span>의 주가 동향에 관심이 쏠리고 있습니다.",
     "key_claims": [
-      "원달러 환율이 야간 거래 중 1,530원을 돌파하여 국내 수입 물가와 유가 상승 압박을 증폭시키고 있다.",
-      "트럼프는 이란이 핵무기를 갖지 않기로 합의했다고 워딩했으나, 이스라엘의 헤지볼라 공습과 이란의 바레인 5함대 드론 공격으로 호르무즈 긴장은 최고조에 달했다.",
-      "구글의 독자 AI 칩인 TPU 설계/제작 파트너인 브로드컴의 실적이 향후 AI 주문형 반도체 밸류체인의 판도를 규정하는 리트머스지가 될 것이다."
+      "<span class=\"text-amber-300 font-bold\">원달러 환율</span>이 야간 거래 중 1,530원을 돌파하여 국내 수입 물가와 <span class=\"text-amber-300 font-bold\">유가 상승</span> 압박을 증폭시키고 있다.",
+      "트럼프는 <span class=\"text-violet-300 font-medium\">이란</span>이 핵무기를 갖지 않기로 합의했다고 워딩했으나, 이스라엘의 헤지볼라 공습과 <span class=\"text-violet-300 font-medium\">이란</span>의 <span class=\"text-violet-300 font-medium\">바레인</span> 5함대 드론 공격으로 <span class=\"text-violet-300 font-medium\">호르무즈</span> 긴장은 최고조에 달했다.",
+      "<span class=\"text-cyan-300 font-semibold\">구글</span>의 독자 AI 칩인 TPU 설계/제작 파트너인 <span class=\"text-cyan-300 font-semibold\">브로드컴</span>의 실적이 향후 AI 주문형 <span class=\"text-cyan-300 font-semibold\">반도체</span> 밸류체인의 판도를 규정하는 리트머스지가 될 것이다."
     ],
     "data_points": [
       "달러 인덱스 수준: 99 돌파",
@@ -21,15 +21,15 @@
       "마벨 테크놀로지 장전 주가 등락률: +11%"
     ],
     "signal": "bearish",
-    "signal_reason": "1,530원대 돌파라는 파국적인 원화 약세와 중동의 미사일 도발 실질 격화, 그리고 차기 연준 케빈 워시의 등장에 따른 고금리 장기화 우려가 대외 금융 여건을 짓누르고 있습니다.",
+    "signal_reason": "1,530원대 돌파라는 파국적인 원화 약세와 <span class=\"text-violet-300 font-medium\">중동</span>의 미사일 도발 실질 격화, 그리고 차기 연준 케빈 워시의 등장에 따른 <span class=\"text-amber-300 font-bold\">고금리 장기화</span> 우려가 대외 금융 여건을 짓누르고 있습니다.",
     "key_companies": [
       "브로드컴",
       "마벨",
       "구글",
       "스페이스X"
     ],
-    "insight": "트럼프가 네타냐후 총리에게 격렬한 욕설을 퍼부으며 종전 협상에 목을 매는 이유는 대선 전 유가 안정과 성과를 내기 위함입니다. 하지만 실제 쿠웨이트 공항 사망 사태 등 지정학적 파국이 진행되고 있어 시장은 트럼프의 구두 개입 효과를 유보하며 보수적 리스크 오프 상태로 회귀하고 있습니다.",
-    "action_point": "환율 급등에 따른 원화 자산 리스크를 헷징하기 위해 미국 내 확실한 캐시카우 독점 기업 지분과 배당 가치주 중심의 달러 자산 비중을 탄탄히 유지해야 합니다."
+    "insight": "트럼프가 네타냐후 총리에게 격렬한 욕설을 퍼부으며 종전 협상에 목을 매는 이유는 대선 전 <span class=\"text-amber-300 font-bold\">유가</span> 안정과 성과를 내기 위함입니다. 하지만 실제 <span class=\"text-violet-300 font-medium\">쿠웨이트</span> 공항 사망 사태 등 지정학적 파국이 진행되고 있어 시장은 트럼프의 구두 개입 효과를 유보하며 보수적 <span class=\"text-rose-400 font-medium\">리스크</span> 오프 상태로 회귀하고 있습니다.",
+    "action_point": "<span class=\"text-amber-300 font-bold\">환율</span> 급등에 따른 원화 자산 <span class=\"text-rose-400 font-medium\">리스크</span>를 헷징하기 위해 미국 내 확실한 캐시카우 독점 기업 지분과 배당 가치주 중심의 달러 자산 비중을 탄탄히 유지해야 합니다."
   },
   "classification": {
     "primary_topic": "economy",

@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/uXMbOcfEI-0/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "AI 산업은 <span class=\"text-cyan-300 font-semibold\">앤스로픽</span>의 급작스러운 IPO 신청과 <span class=\"text-cyan-300 font-semibold\">구글의 대규모 증자 계획</span> 발표로 <span class=\"text-amber-300 font-bold\">자본 조달 전쟁</span>에 돌입했습니다. 이는 <span class=\"text-rose-400 font-medium\">AI 수익성에 대한 시장의 경계심</span>을 키우고 있으며, <span class=\"text-rose-400 font-medium\">초대형 IPO</span>들의 연이은 등장은 증시의 유동성과 기존 주식 수급에 <span class=\"text-rose-400 font-medium\">큰 부담</span>이 될 수 있습니다. 특히 <span class=\"text-amber-300 font-bold\">지수 조기 편입 특례</span>와 <span class=\"text-rose-400 font-medium\">낮은 유통 물량</span>은 초기 <span class=\"text-rose-400 font-medium\">주가 왜곡</span>과 향후 <span class=\"text-rose-400 font-medium\">변동성 확대</span>를 야기할 수 있어 <span class=\"text-amber-300 font-bold\">AI 랠리의 변곡점</span>이 될 수 있습니다.",
+    "summary": "AI 산업은 앤스로픽의 급작스러운 IPO 신청과 <span class=\"text-cyan-300 font-semibold\">구글</span>의 대규모 증자 계획 발표로 자본 조달 전쟁에 돌입했습니다. 이는 AI 수익성에 대한 시장의 경계심을 키우고 있으며, 초대형 IPO들의 연이은 등장은 증시의 유동성과 기존 주식 수급에 큰 부담이 될 수 있습니다. 특히 지수 조기 편입 특례와 낮은 유통 물량은 초기 주가 왜곡과 향후 변동성 확대를 야기할 수 있어 AI 랠리의 변곡점이 될 수 있습니다.",
     "key_claims": [
-      "AI 산업의 경쟁 구도가 <span class=\"text-amber-300 font-bold\">기술 경쟁</span>에서 <span class=\"text-amber-300 font-bold\">자본 조달 경쟁</span>으로 확산되고 있으며, 선제적인 <span class=\"text-amber-300 font-bold\">자금 확보</span>가 중요해지고 있다.",
-      "<span class=\"text-cyan-300 font-semibold\">앤스로픽 IPO</span>와 <span class=\"text-cyan-300 font-semibold\">구글의 대규모 증자</span>는 <span class=\"text-rose-400 font-medium\">AI 투자 부담</span>과 <span class=\"text-rose-400 font-medium\">수익성 우려</span>를 증폭시키며 시장에 막대한 <span class=\"text-rose-400 font-medium\">주식 공급 부담</span>을 줄 것이다.",
-      "<span class=\"text-rose-400 font-medium\">초대형 IPO</span>들의 <span class=\"text-amber-300 font-bold\">지수 조기 편입 특례</span>와 <span class=\"text-rose-400 font-medium\">낮은 초기 유통 물량</span>은 <span class=\"text-rose-400 font-medium\">초기 주가 급등 및 왜곡</span>을 초래하고, <span class=\"text-cyan-300 font-semibold\">패시브 펀드</span>가 초기 투자자들의 <span class=\"text-rose-400 font-medium\">엑시트 물량을 받아주는 역할</span>이 될 수 있다."
+      "AI 산업의 경쟁 구도가 기술 경쟁에서 자본 조달 경쟁으로 확산되고 있으며, 선제적인 자금 확보가 중요해지고 있다.",
+      "앤스로픽 IPO와 <span class=\"text-cyan-300 font-semibold\">구글</span>의 대규모 증자는 AI 투자 부담과 수익성 우려를 증폭시키며 시장에 막대한 주식 공급 부담을 줄 것이다.",
+      "초대형 IPO들의 지수 조기 편입 특례와 낮은 초기 유통 물량은 초기 주가 급등 및 왜곡을 초래하고, 패시브 펀드가 초기 투자자들의 엑시트 물량을 받아주는 역할이 될 수 있다."
     ],
     "data_points": [
       "앤스로픽 시리즈 H 펀딩: 650억 달러 (트랜스크립트 기준)",
@@ -33,7 +33,7 @@
       "스페이스X 밸류에이션: 매출의 90~100배"
     ],
     "signal": "bearish",
-    "signal_reason": "대규모 <span class=\"text-amber-300 font-bold\">AI 인프라 투자</span>로 인한 기업들의 막대한 <span class=\"text-rose-400 font-medium\">자본 조달 압박</span>과 증시의 주식 공급 증가는 <span class=\"text-rose-400 font-medium\">유동성 흡수</span> 및 기존 <span class=\"text-rose-400 font-medium\">기술주 변동성</span>을 야기할 수 있습니다. 특히 <span class=\"text-rose-400 font-medium\">초대형 IPO</span>들의 <span class=\"text-amber-300 font-bold\">지수 조기 편입</span>은 초기 <span class=\"text-rose-400 font-medium\">가격 왜곡</span>과 향후 <span class=\"text-rose-400 font-medium\">급락 위험</span>을 내포하여 투자자들에게 <span class=\"text-rose-400 font-medium\">고통</span>을 줄 가능성이 있습니다.",
+    "signal_reason": "대규모 AI 인프라 투자로 인한 기업들의 막대한 자본 조달 압박과 증시의 주식 공급 증가는 유동성 흡수 및 기존 기술주 변동성을 야기할 수 있습니다. 특히 초대형 IPO들의 지수 조기 편입은 초기 가격 왜곡과 향후 <span class=\"text-rose-400 font-medium\">급락</span> <span class=\"text-rose-400 font-medium\">위험</span>을 내포하여 투자자들에게 고통을 줄 가능성이 있습니다.",
     "key_companies": [
       "앤스로픽",
       "구글 (알파벳)",
@@ -54,8 +54,8 @@
       "블룸버그 인텔리전스",
       "뱅크오브아메리카 (마이클 하트넷)"
     ],
-    "insight": "AI 기술 경쟁이 심화되면서 막대한 <span class=\"text-amber-300 font-bold\">물리적 인프라 구축</span>이 필수화되었고, 이는 기업들에게 전례 없는 수준의 <span class=\"text-rose-400 font-medium\">자본 조달 부담</span>을 안겨주고 있습니다. 이로 인해 AI 산업의 성공 여부가 '누가 더 좋은 기술을 만드느냐'를 넘어 '누가 더 빠르고 효율적으로 막대한 자금을 조달하느냐'의 <span class=\"text-amber-300 font-bold\">자본 전쟁</span>으로 변모하고 있으며, 이는 기존 <span class=\"text-rose-400 font-medium\">AI 랠리에 대한 과도한 낙관론</span>에 <span class=\"text-amber-300 font-bold\">수익성과 재무 건전성</span>이라는 현실적인 시험대를 들이밀고 있음을 시사합니다.",
-    "action_point": "투자자들은 AI 관련 기업에 투자 시 <span class=\"text-rose-400 font-medium\">과도한 기대감</span>보다는 해당 기업의 <span class=\"text-amber-300 font-bold\">재무 건전성</span>, <span class=\"text-amber-300 font-bold\">자본 조달 계획</span>, 그리고 상장 후 예상되는 주식 유통 물량 및 지수 편입 효과를 면밀히 분석해야 합니다. 특히 <span class=\"text-rose-400 font-medium\">초대형 IPO</span>의 경우, 초기 시장 과열로 인한 <span class=\"text-rose-400 font-medium\">가격 왜곡 가능성</span>을 인지하고 중장기적인 기업의 <span class=\"text-amber-300 font-bold\">본질 가치와 수익성</span>을 중심으로 신중하게 투자 시점을 결정해야 합니다."
+    "insight": "AI 기술 경쟁이 심화되면서 막대한 물리적 인프라 구축이 필수화되었고, 이는 기업들에게 전례 없는 수준의 자본 조달 부담을 안겨주고 있습니다. 이로 인해 AI 산업의 성공 여부가 '누가 더 좋은 기술을 만드느냐'를 넘어 '누가 더 빠르고 효율적으로 막대한 자금을 조달하느냐'의 자본 전쟁으로 변모하고 있으며, 이는 기존 AI 랠리에 대한 과도한 낙관론에 수익성과 재무 건전성이라는 현실적인 시험대를 들이밀고 있음을 시사합니다.",
+    "action_point": "투자자들은 AI 관련 기업에 투자 시 과도한 기대감보다는 해당 기업의 재무 건전성, 자본 조달 계획, 그리고 상장 후 예상되는 주식 유통 물량 및 지수 편입 효과를 면밀히 분석해야 합니다. 특히 초대형 IPO의 경우, 초기 시장 <span class=\"text-rose-400 font-medium\">과열</span>로 인한 가격 왜곡 가능성을 인지하고 중장기적인 기업의 본질 가치와 수익성을 중심으로 신중하게 투자 시점을 결정해야 합니다."
   },
   "classification": {
     "primary_topic": "stock",

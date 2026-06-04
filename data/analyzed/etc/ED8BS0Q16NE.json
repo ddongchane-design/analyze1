@@ -18,8 +18,8 @@
     "signal": "neutral",
     "signal_reason": "투자자의 심리적 태도와 감정 관리에 관한 편안한 대담 영상으로, 개별 산업 동향이나 거시 경제 지표에 즉각적인 변화를 야기하는 정량적 신호는 포함되어 있지 않습니다.",
     "key_companies": [],
-    "insight": "시장은 감정이 없는 차가운 곳이므로 투자자가 사적인 감상(가족 부양, 해외여행 등)의 무게를 투자 결정을 내릴 때 투사하는 것은 오히려 <span class=\"text-amber-300 font-bold\">합리적 이성을 저해</span>하고 리스크를 키우는 주범이 될 수 있습니다.",
-    "action_point": "손실이 발생했을 때 <span class=\"text-rose-400 font-medium\">감정적 뇌동매매</span>로 이어지지 않도록 철저한 리스크 관리 규칙을 정립하고 심리적 평정심을 유지해야 합니다."
+    "insight": "시장은 감정이 없는 차가운 곳이므로 투자자가 사적인 감상(가족 부양, 해외여행 등)의 무게를 투자 결정을 내릴 때 투사하는 것은 오히려 합리적 이성을 저해하고 <span class=\"text-rose-400 font-medium\">리스크</span>를 키우는 주범이 될 수 있습니다.",
+    "action_point": "손실이 발생했을 때 감정적 뇌동매매로 이어지지 않도록 철저한 <span class=\"text-rose-400 font-medium\">리스크</span> 관리 규칙을 정립하고 심리적 평정심을 유지해야 합니다."
   },
   "classification": {
     "primary_topic": "etc",

@@ -8,13 +8,13 @@
     "thumbnail": "https://img.youtube.com/vi/z83d8CVMOhs/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "AI 및 <span class=\"text-amber-300 font-bold\">젠슨 황 효과</span>로 <span class=\"text-cyan-300 font-semibold\">LG그룹주, 네이버 등 AI 관련주</span>가 시장을 주도하며 급등하고 있습니다. 특히 <span class=\"text-amber-300 font-bold\">데이터센터의 가치 상승</span>과 <span class=\"text-cyan-300 font-semibold\">로봇 테마</span>가 부각되고 있으며, <span class=\"text-cyan-300 font-semibold\">AI 기반 소프트웨어 기업들</span>의 재평가도 활발합니다. 전력기기주는 상대적으로 주춤하는 가운데 <span class=\"text-amber-300 font-bold\">시장 리더십이 AI 관련 섹터로 빠르게 이동 중</span>입니다.",
+    "summary": "AI 및 젠슨 황 효과로 LG그룹주, 네이버 등 AI 관련주가 시장을 주도하며 급등하고 있습니다. 특히 데이터센터의 가치 상승과 로봇 테마가 부각되고 있으며, AI 기반 소프트웨어 기업들의 재평가도 활발합니다. 전력기기주는 상대적으로 주춤하는 가운데 시장 리더십이 AI 관련 섹터로 빠르게 이동 중입니다.",
     "key_claims": [
-      "<span class=\"text-cyan-300 font-semibold\">LG그룹주(전자, CNS, U플러스 등)</span>가 <span class=\"text-amber-300 font-bold\">AI 모멘텀</span>을 받아 <span class=\"text-amber-300 font-bold\">시장을 주도하며 급등</span>하고 있다.",
-      "<span class=\"text-cyan-300 font-semibold\">네이버</span>는 <span class=\"text-cyan-300 font-semibold\">데이터센터의 가치와 로봇 기술력(네이버 랩스)</span>이 <span class=\"text-amber-300 font-bold\">재평가받으며 강한 상승세</span>를 보이고 있다.",
-      "<span class=\"text-amber-300 font-bold\">미국 내 규제 심화</span>로 <span class=\"text-amber-300 font-bold\">데이터센터의 희소성이 높아져</span> <span class=\"text-cyan-300 font-semibold\">기존 데이터센터 보유 기업</span>의 가치가 상승하고 있다.",
-      "<span class=\"text-amber-300 font-bold\">젠슨 황의 영향력</span>은 메모리 반도체를 넘어 <span class=\"text-cyan-300 font-semibold\">Physical AI(로봇) 분야로 확장</span>되며 <span class=\"text-amber-300 font-bold\">관련 주식들의 관심을 유발</span>하고 있다.",
-      "<span class=\"text-amber-300 font-bold\">미국 소프트웨어 기업들의 실적 호조</span>와 <span class=\"text-cyan-300 font-semibold\">네이버의 AI 검색 도입 발표</span> 등으로 <span class=\"text-amber-300 font-bold\">AI 관련 소프트웨어 기업들의 가치가 재조명</span>되고 있다."
+      "LG그룹주(전자, CNS, U플러스 등)가 AI 모멘텀을 받아 시장을 주도하며 급등하고 있다.",
+      "네이버는 데이터센터의 가치와 로봇 기술력(네이버 랩스)이 재평가받으며 강한 상승세를 보이고 있다.",
+      "미국 내 규제 심화로 데이터센터의 희소성이 높아져 기존 데이터센터 보유 기업의 가치가 상승하고 있다.",
+      "젠슨 황의 영향력은 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span>를 넘어 Physical AI(로봇) 분야로 확장되며 관련 주식들의 관심을 유발하고 있다.",
+      "미국 소프트웨어 기업들의 실적 호조와 네이버의 AI 검색 도입 발표 등으로 AI 관련 소프트웨어 기업들의 가치가 재조명되고 있다."
     ],
     "data_points": [
       "LG 전자: 지난주 상한가 기록, 금요일 종가 25% 상승, 오늘 22% 상승",
@@ -34,7 +34,7 @@
       "JP모건 선정 글로벌 100대 로봇에 네이버 로봇 포함"
     ],
     "signal": "bullish",
-    "signal_reason": "<span class=\"text-amber-300 font-bold\">AI 테마의 확산과 젠슨 황의 영향력</span>으로 <span class=\"text-cyan-300 font-semibold\">데이터센터, 로봇, 소프트웨어 등 AI 생태계 전반</span>의 <span class=\"text-amber-300 font-bold\">가치 재평가</span>가 강력하게 이루어지고 있으며, 관련 기업들의 주가 상승 모멘텀이 뚜렷하다.",
+    "signal_reason": "AI 테마의 확산과 젠슨 황의 영향력으로 데이터센터, 로봇, 소프트웨어 등 AI 생태계 전반의 가치 재평가가 강력하게 이루어지고 있으며, 관련 기업들의 주가 상승 모멘텀이 뚜렷하다.",
     "key_companies": [
       "LG 전자",
       "LG CNS",
@@ -56,8 +56,8 @@
       "로보스타",
       "로보티즈"
     ],
-    "insight": "<span class=\"text-amber-300 font-bold\">AI 시대의 투자</span>는 단순히 하드웨어(반도체)를 넘어 <span class=\"text-cyan-300 font-semibold\">데이터센터 인프라, AI 기반 소프트웨어, 그리고 로봇</span> 등 실질적인 AI 적용 분야로 확산되며 <span class=\"text-amber-300 font-bold\">시장의 리더십을 빠르게 재편</span>하고 있습니다. 특히 <span class=\"text-amber-300 font-bold\">미국의 데이터센터 관련 규제</span>는 기존 <span class=\"text-cyan-300 font-semibold\">데이터센터 보유 기업</span>의 가치를 상승시키는 등 복합적인 외부 요인이 투자 가치를 증폭시키고 있어, 기업의 <span class=\"text-amber-300 font-bold\">AI 생태계 내 포지셔닝</span>이 중요합니다.",
-    "action_point": "투자자는 <span class=\"text-amber-300 font-bold\">AI 붐이 반도체 외에 어떤 섹터로 확산</span>되고 있는지 주시하며, <span class=\"text-cyan-300 font-semibold\">데이터센터 자산, AI 소프트웨어 및 로봇 개발 역량을 가진 기업들</span>을 포트폴리오에 적극적으로 고려해야 합니다. <span class=\"text-amber-300 font-bold\">시장 리더십 변화에 빠르게 대응</span>하여 <span class=\"text-cyan-300 font-semibold\">관련 ETF 또는 개별 종목 투자 기회</span>를 모색하는 것이 중요합니다."
+    "insight": "AI 시대의 투자는 단순히 하드웨어(<span class=\"text-cyan-300 font-semibold\">반도체</span>)를 넘어 데이터센터 인프라, AI 기반 소프트웨어, 그리고 로봇 등 실질적인 AI 적용 분야로 확산되며 시장의 리더십을 빠르게 재편하고 있습니다. 특히 미국의 데이터센터 관련 규제는 기존 데이터센터 보유 기업의 가치를 상승시키는 등 복합적인 외부 요인이 투자 가치를 증폭시키고 있어, 기업의 AI 생태계 내 포지셔닝이 중요합니다.",
+    "action_point": "투자자는 AI 붐이 <span class=\"text-cyan-300 font-semibold\">반도체</span> 외에 어떤 섹터로 확산되고 있는지 주시하며, 데이터센터 자산, AI 소프트웨어 및 로봇 개발 역량을 가진 기업들을 포트폴리오에 적극적으로 고려해야 합니다. 시장 리더십 변화에 빠르게 대응하여 관련 ETF 또는 개별 종목 투자 기회를 모색하는 것이 중요합니다."
   },
   "classification": {
     "primary_topic": "tech",

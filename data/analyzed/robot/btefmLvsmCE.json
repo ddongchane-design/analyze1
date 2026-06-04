@@ -8,13 +8,13 @@
     "thumbnail": "https://img.youtube.com/vi/btefmLvsmCE/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "한국 증시가 역사적으로 <span class=\"text-amber-300 font-bold\">빠른 속도로 상승</span>하고 있으며, 특히 <span class=\"text-cyan-300 font-semibold\">엔비디아 젠슨 황 CEO</span>의 언급으로 <span class=\"text-cyan-300 font-semibold\">AI 및 로봇 관련 국내 기업들</span>이 큰 주목을 받고 있습니다. 과거 반도체에 이어 <span class=\"text-amber-300 font-bold\">피지컬 AI 로봇이 만 포인트 시대의 주도주</span>가 될 것이라는 전망과 함께, 저평가되었던 <span class=\"text-cyan-300 font-semibold\">바이오 섹터의 반등 가능성</span>도 제기되고 있습니다.",
+    "summary": "한국 증시가 역사적으로 빠른 속도로 상승하고 있으며, 특히 엔비디아 젠슨 황 CEO의 언급으로 AI 및 로봇 관련 국내 기업들이 큰 주목을 받고 있습니다. 과거 <span class=\"text-cyan-300 font-semibold\">반도체</span>에 이어 피지컬 AI 로봇이 만 포인트 시대의 주도주가 될 것이라는 전망과 함께, 저평가되었던 바이오 섹터의 반등 가능성도 제기되고 있습니다.",
     "key_claims": [
-      "<span class=\"text-amber-300 font-bold\">한국 증시 지수 상승 속도가 7천→8천p 13거래일, 8천→9천p 5거래일로 매우 빨라지고 있다</span>.",
-      "<span class=\"text-cyan-300 font-semibold\">Nvidia CEO 젠슨 황의 GTC 발언</span>으로 <span class=\"text-cyan-300 font-semibold\">SK텔레콤(디지털 트윈), LG, 현대, 네이버, 두산</span> 등 <span class=\"text-cyan-300 font-semibold\">국내 로봇 관련 기업들이 핵심 협력 대상</span>으로 부각되고 있다.",
-      "메모리 반도체가 과거 지수 상승을 견인했다면, <span class=\"text-amber-300 font-bold\">만 포인트 시대에는 피지컬 AI 로봇이 새로운 주도주</span>가 될 것이다.",
-      "지나치게 <span class=\"text-cyan-300 font-semibold\">저평가된 바이오 섹터</span>는 <span class=\"text-cyan-300 font-semibold\">기술 이전 및 투자 유치</span> 소식과 함께 <span class=\"text-amber-300 font-bold\">반등할 잠재력이 크다</span>.",
-      "개인 투자자는 시장 상승에 동참하기 위해 <span class=\"text-amber-300 font-bold\">'선택과 집중' 전략</span>이 필요하며, <span class=\"text-rose-400 font-medium\">중소형 로봇 개별주 투자에는 신중해야 한다</span>."
+      "한국 증시 지수 상승 속도가 7천→8천p 13거래일, 8천→9천p 5거래일로 매우 빨라지고 있다.",
+      "Nvidia CEO 젠슨 황의 GTC 발언으로 SK텔레콤(디지털 트윈), LG, 현대, 네이버, 두산 등 국내 로봇 관련 기업들이 핵심 협력 대상으로 부각되고 있다.",
+      "<span class=\"text-cyan-300 font-semibold\">메모리 반도체</span>가 과거 지수 상승을 견인했다면, 만 포인트 시대에는 피지컬 AI 로봇이 새로운 주도주가 될 것이다.",
+      "지나치게 저평가된 바이오 섹터는 기술 이전 및 투자 유치 소식과 함께 반등할 잠재력이 크다.",
+      "개인 투자자는 시장 상승에 동참하기 위해 '선택과 집중' 전략이 필요하며, 중소형 로봇 개별주 투자에는 신중해야 한다."
     ],
     "data_points": [
       "KOSPI 7,000p → 8,000p (13 거래일)",
@@ -32,7 +32,7 @@
       "전기 관련 종목 당일 7% 하락"
     ],
     "signal": "bullish",
-    "signal_reason": "전반적인 시장 상승세가 가파르고, <span class=\"text-amber-300 font-bold\">AI/로봇 섹터의 강력한 성장 동력</span>이 확인되고 있으며, <span class=\"text-cyan-300 font-semibold\">저평가 바이오 섹터의 반등 가능성</span>도 점쳐지고 있기 때문에 <span class=\"text-amber-300 font-bold\">긍정적인 시장 전망</span>을 유지한다.",
+    "signal_reason": "전반적인 시장 상승세가 가파르고, AI/로봇 섹터의 강력한 성장 동력이 확인되고 있으며, 저평가 바이오 섹터의 반등 가능성도 점쳐지고 있기 때문에 긍정적인 시장 전망을 유지한다.",
     "key_companies": [
       "SK텔레콤",
       "삼성전자",
@@ -58,8 +58,8 @@
       "DND팜마테",
       "한올바이오파마"
     ],
-    "insight": "시장의 주도권이 <span class=\"text-amber-300 font-bold\">메모리 반도체에서 피지컬 AI 로봇으로 이동하는 변곡점</span>에 있으며, 이는 <span class=\"text-amber-300 font-bold\">코스피 만 포인트 시대를 이끌 새로운 동력</span>이 될 가능성이 크다. <span class=\"text-cyan-300 font-semibold\">엔비디아</span>와의 연계를 통해 <span class=\"text-cyan-300 font-semibold\">국내 주요 기업들이 초기 수혜</span>를 입고 있지만, <span class=\"text-rose-400 font-medium\">테마에 휩쓸리기보다</span> <span class=\"text-amber-300 font-bold\">'선택과 집중'</span>을 통해 본질적 가치가 있는 기업에 투자하는 것이 중요하다.",
-    "action_point": "<span class=\"text-cyan-300 font-semibold\">AI/로봇 분야</span>에서 <span class=\"text-cyan-300 font-semibold\">엔비디아와의 협력</span> 가능성이 높거나 <span class=\"text-cyan-300 font-semibold\">대장주로 분류되는 기업(LG, 현대, 네이버, 두산 등)</span>에 대한 투자를 고려하고, <span class=\"text-rose-400 font-medium\">중소형 로봇 테마주의 무분별한 추격 매수</span>는 지양해야 한다. 동시에, <span class=\"text-cyan-300 font-semibold\">저평가된 바이오 섹터</span> 내에서 기술력과 성장 잠재력을 가진 기업을 발굴하여 <span class=\"text-amber-300 font-bold\">포트폴리오 다변화</span>를 모색할 필요가 있다."
+    "insight": "시장의 주도권이 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span>에서 피지컬 AI 로봇으로 이동하는 변곡점에 있으며, 이는 코스피 만 포인트 시대를 이끌 새로운 동력이 될 가능성이 크다. 엔비디아와의 연계를 통해 국내 주요 기업들이 초기 수혜를 입고 있지만, 테마에 휩쓸리기보다 '선택과 집중'을 통해 본질적 가치가 있는 기업에 투자하는 것이 중요하다.",
+    "action_point": "AI/로봇 분야에서 엔비디아와의 협력 가능성이 높거나 대장주로 분류되는 기업(LG, 현대, 네이버, 두산 등)에 대한 투자를 고려하고, 중소형 로봇 테마주의 무분별한 추격 매수는 지양해야 한다. 동시에, 저평가된 바이오 섹터 내에서 기술력과 성장 잠재력을 가진 기업을 발굴하여 포트폴리오 다변화를 모색할 필요가 있다."
   },
   "classification": {
     "primary_topic": "robot",

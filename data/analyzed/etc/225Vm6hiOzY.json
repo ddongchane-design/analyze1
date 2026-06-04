@@ -8,21 +8,21 @@
     "thumbnail": "https://img.youtube.com/vi/225Vm6hiOzY/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "이란의 페제시키안 대통령이 최고 지도자실에 공식 사임 요구 서한을 보냈다는 보도가 나왔으나 이란 정부 측은 이를 분열 공작 루머로 규정하며 즉각 부인했습니다.\n동시에 미-이란 간의 중동 평화 협상 합의가 이란 측의 나쁜 합의 거부 방침 및 장기전 대비 태세로 평행선을 달리며 합의가 무산/지연되었습니다.\n중동 지정학적 리스크 교착으로 인해 국제 유가는 다시 상승하며 배럴당 90달러 선을 위협해 금융 시장에 긴장감을 주고 있습니다.",
+    "summary": "<span class=\"text-violet-300 font-medium\">이란</span>의 페제시키안 대통령이 최고 지도자실에 공식 사임 요구 서한을 보냈다는 보도가 나왔으나 <span class=\"text-violet-300 font-medium\">이란</span> 정부 측은 이를 분열 공작 루머로 규정하며 즉각 부인했습니다.\n동시에 미-<span class=\"text-violet-300 font-medium\">이란</span> 간의 <span class=\"text-violet-300 font-medium\">중동</span> 평화 협상 합의가 <span class=\"text-violet-300 font-medium\">이란</span> 측의 나쁜 합의 거부 방침 및 장기전 대비 태세로 평행선을 달리며 합의가 무산/지연되었습니다.\n<span class=\"text-violet-300 font-medium\">중동</span> 지정학적 <span class=\"text-rose-400 font-medium\">리스크</span> 교착으로 인해 국제 <span class=\"text-amber-300 font-bold\">유가</span>는 다시 상승하며 배럴당 90달러 선을 위협해 금융 시장에 긴장감을 주고 있습니다.",
     "key_claims": [
-      "이란 반대 언론(이란 인터내셔널)이 페제시키안 대통령의 사직서 제출 및 강경파(혁명수비대)의 국정 장악 문제를 제기하며 사임설을 보도함.",
-      "이란 대통령실 홍보 담당자는 해당 보도가 '이란 단결을 깨기 위한 해외 미디어의 루머이자 현실성 없는 장난'이라며 일축함.",
-      "트럼프 대통령이 미-이란 합의 서명이 조만간 있을 것이라 발표했으나, 이란 관영 타스님 통신은 미국이 합의 초안을 바꾸지 않으면 수용하지 않을 것이며 다른 협상 방식도 예고함.",
-      "지정학적 해결 실마리가 지연됨에 따라 국제 유가 선물 가격이 배럴당 90달러를 넘보는 등 거시지표의 변동성이 증가함."
+      "<span class=\"text-violet-300 font-medium\">이란</span> 반대 언론(<span class=\"text-violet-300 font-medium\">이란</span> 인터내셔널)이 페제시키안 대통령의 사직서 제출 및 강경파(혁명수비대)의 국정 장악 문제를 제기하며 사임설을 보도함.",
+      "<span class=\"text-violet-300 font-medium\">이란</span> 대통령실 홍보 담당자는 해당 보도가 '<span class=\"text-violet-300 font-medium\">이란</span> 단결을 깨기 위한 해외 미디어의 루머이자 현실성 없는 장난'이라며 일축함.",
+      "트럼프 대통령이 미-<span class=\"text-violet-300 font-medium\">이란</span> 합의 서명이 조만간 있을 것이라 발표했으나, <span class=\"text-violet-300 font-medium\">이란</span> 관영 타스님 통신은 미국이 합의 초안을 바꾸지 않으면 수용하지 않을 것이며 다른 협상 방식도 예고함.",
+      "지정학적 해결 실마리가 지연됨에 따라 국제 <span class=\"text-amber-300 font-bold\">유가</span> 선물 가격이 배럴당 90달러를 넘보는 등 거시지표의 변동성이 증가함."
     ],
     "data_points": [
       "국제 유가: 배럴당 90달러 위협 수준으로 상승"
     ],
     "signal": "neutral",
-    "signal_reason": "이란 내부의 권력 갈등설과 미-이란 합의 타결 지연이 교차하며 중동 리스크가 해소되지 못하고 있고, 유가 불안이 가중되어 거시 경제의 불확실성이 지속되는 형국입니다.",
+    "signal_reason": "<span class=\"text-violet-300 font-medium\">이란</span> 내부의 권력 갈등설과 미-<span class=\"text-violet-300 font-medium\">이란</span> 합의 타결 지연이 교차하며 <span class=\"text-violet-300 font-medium\">중동</span> <span class=\"text-rose-400 font-medium\">리스크</span>가 해소되지 못하고 있고, <span class=\"text-amber-300 font-bold\">유가</span> 불안이 가중되어 거시 경제의 불확실성이 지속되는 형국입니다.",
     "key_companies": [],
-    "insight": "이란 최상층부의 <span class=\"text-rose-400 font-medium\">권력 균열 정황</span>은 보도의 진위 여부와 무관하게 이란 내부의 강경파(혁명수비대)와 온건파 간의 심각한 갈등 구조를 대변하며, 이는 향후 미국과의 협상 테이블에서 이란 측의 의사결정 불확실성을 극대화하는 요소로 작용할 것입니다.",
-    "action_point": "중동 지정학적 교착 상태가 지속되면서 <span class=\"text-amber-300 font-bold\">유가 상승 압력(90달러 선 위협)</span>이 재발하고 있으므로, 에너지 관련 자산 및 인플레이션 민감 지표를 모니터링하며 방어적인 포트폴리오 밸런스를 유지해야 합니다."
+    "insight": "<span class=\"text-violet-300 font-medium\">이란</span> 최상층부의 권력 균열 정황은 보도의 진위 여부와 무관하게 <span class=\"text-violet-300 font-medium\">이란</span> 내부의 강경파(혁명수비대)와 온건파 간의 심각한 갈등 구조를 대변하며, 이는 향후 미국과의 협상 테이블에서 <span class=\"text-violet-300 font-medium\">이란</span> 측의 의사결정 불확실성을 극대화하는 요소로 작용할 것입니다.",
+    "action_point": "<span class=\"text-violet-300 font-medium\">중동</span> 지정학적 교착 상태가 지속되면서 <span class=\"text-amber-300 font-bold\">유가 상승</span> 압력(90달러 선 위협)이 재발하고 있으므로, 에너지 관련 자산 및 <span class=\"text-amber-300 font-bold\">인플레이션</span> 민감 지표를 모니터링하며 방어적인 포트폴리오 밸런스를 유지해야 합니다."
   },
   "classification": {
     "primary_topic": "etc",

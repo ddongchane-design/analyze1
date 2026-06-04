@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/lF2WtAUJQWg/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "연준 베이지북을 통해 견조한 고용과 완만한 성장 속에서 인플레이션 우려가 재확인되며 시장 금리 상승 및 연말 금리 인상론(74% 확률)이 대두되었습니다. 또한 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>가 주당 135달러(시총 1.8조 달러 규모)로 12일 나스닥 상장을 가시화한 가운데, 장 마감 후 실적을 발표한 <span class=\"text-cyan-300 font-semibold\">브로드컴</span>과 <span class=\"text-cyan-300 font-semibold\">크라우드스트라이크</span>는 높은 기대치(위스퍼 넘버) 미달 및 가이던스 실망으로 시간외 거래에서 급락세를 보이고 있습니다.",
+    "summary": "연준 베이지북을 통해 견조한 고용과 완만한 성장 속에서 <span class=\"text-amber-300 font-bold\">인플레이션</span> 우려가 재확인되며 시장 금리 상승 및 연말 금리 인상론(74% 확률)이 대두되었습니다. 또한 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>가 주당 135달러(시총 1.8조 달러 규모)로 12일 나스닥 상장을 가시화한 가운데, 장 마감 후 실적을 발표한 <span class=\"text-cyan-300 font-semibold\">브로드컴</span>과 크라우드스트라이크는 높은 기대치(위스퍼 넘버) 미달 및 가이던스 실망으로 시간외 거래에서 <span class=\"text-rose-400 font-medium\">급락세</span>를 보이고 있습니다.",
     "key_claims": [
-      "연준 베이지북에서 12개 연은 관할 중 10개 지역이 완만히 성장했으나 고금리와 중동 분쟁에 따른 유가/물류비 인플레 경계감이 확인되었다.",
-      "스페이스X는 750억 달러 조달을 목표로 상장 절차를 밟고 있으며, 웨드부시는 장기적으로 테슬라와의 합병 가능성(80%)을 높게 평가했다.",
+      "연준 베이지북에서 12개 연은 관할 중 10개 지역이 완만히 성장했으나 <span class=\"text-amber-300 font-bold\">고금리</span>와 <span class=\"text-violet-300 font-medium\">중동</span> 분쟁에 따른 <span class=\"text-amber-300 font-bold\">유가</span>/물류비 인플레 경계감이 확인되었다.",
+      "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>는 750억 달러 조달을 목표로 상장 절차를 밟고 있으며, 웨드부시는 장기적으로 <span class=\"text-cyan-300 font-semibold\">테슬라</span>와의 합병 가능성(80%)을 높게 평가했다.",
       "앤스로픽이 모건스탠리와 골드만삭스를 주관사로 낙점하고 가을경 최대 1조 달러 밸류의 IPO를 준비 중이다."
     ],
     "data_points": [
@@ -26,7 +26,7 @@
       "앤스로픽 기업가치 관측액: 최대 1조 달러"
     ],
     "signal": "bearish",
-    "signal_reason": "베이지북의 긴축 연장 시그널과 관세 인상 리스크(한국/일본 등에 12.5% 관세안 제시), 그리고 브로드컴 및 크라우드스트라이크의 실적 발표 후 시간외 폭락이 복합 작용해 기술주 단기 조정 압력을 높입니다.",
+    "signal_reason": "베이지북의 긴축 연장 시그널과 관세 인상 <span class=\"text-rose-400 font-medium\">리스크</span>(한국/일본 등에 12.5% 관세안 제시), 그리고 <span class=\"text-cyan-300 font-semibold\">브로드컴</span> 및 크라우드스트라이크의 실적 발표 후 시간외 폭락이 복합 작용해 기술주 단기 <span class=\"text-rose-400 font-medium\">조정</span> 압력을 높입니다.",
     "key_companies": [
       "스페이스X",
       "앤스로픽",
@@ -34,8 +34,8 @@
       "크라우드스트라이크",
       "테슬라"
     ],
-    "insight": "현재 시장은 고용 강세와 서비스업 확장을 호재가 아닌 '금리 인하 지연 및 인상 위험'이라는 매크로 악재로 해석하는 역방향 장세입니다. 특히 브로드컴의 AI 매출 143% 성장이라는 놀라운 수치마저도 시장의 극단적인 '위스퍼 넘버(Whisper Number)' 기대에 미치지 못해 10% 폭락한 현상은, AI 하드웨어 장기 성장성과 별개로 단기 밸류에이션 피로감이 극에 달했음을 보여줍니다.",
-    "action_point": "브로드컴 등 핵심 AI 하드웨어 밸류체인의 실적 미스로 인한 단기 폭락은 실질적 펀더멘탈 훼손이 아닌 높은 기대치 조율 과정이므로, 투매에 동참하기보다 락업 우려가 적은 시점에 분할 매수 기회로 삼는 것이 유리합니다."
+    "insight": "현재 시장은 고용 강세와 서비스업 확장을 호재가 아닌 '<span class=\"text-amber-300 font-bold\">금리 인하</span> 지연 및 인상 <span class=\"text-rose-400 font-medium\">위험</span>'이라는 매크로 악재로 해석하는 역방향 장세입니다. 특히 <span class=\"text-cyan-300 font-semibold\">브로드컴</span>의 AI 매출 143% 성장이라는 놀라운 수치마저도 시장의 극단적인 '위스퍼 넘버(Whisper Number)' 기대에 미치지 못해 10% 폭락한 현상은, AI 하드웨어 장기 성장성과 별개로 단기 밸류에이션 피로감이 극에 달했음을 보여줍니다.",
+    "action_point": "<span class=\"text-cyan-300 font-semibold\">브로드컴</span> 등 핵심 AI 하드웨어 밸류체인의 실적 미스로 인한 단기 폭락은 실질적 펀더멘탈 훼손이 아닌 높은 기대치 조율 과정이므로, 투매에 동참하기보다 락업 우려가 적은 시점에 분할 매수 기회로 삼는 것이 유리합니다."
   },
   "classification": {
     "primary_topic": "economy",

@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/5A2Z9Im9Q4o/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "현대차그룹이 단순 완성차 제조사에서 전 세계 100개 이상의 공장 인프라를 활용한 '<span class=\"text-cyan-300 font-semibold\">로봇 행동 데이터(Physical AI) 플랫폼 기업</span>'으로 재평가받을 가능성을 분석함. 로봇 AI의 핵심 병목인 '<span class=\"text-amber-300 font-bold\">현실 세계 액션 데이터</span>'를 대규모로 수집·가공·판매할 수 있는 최적의 생산 거점을 보유하고 있으며, 2030년 <span class=\"text-cyan-300 font-semibold\">데이터 사업 가치가 최대 90조 원</span>에 달할 것으로 전망됨. 가상 시뮬레이션 및 원격 제어(Teleoperation)를 통한 <span class=\"text-amber-300 font-bold\">고부가가치 숙련 데이터 비즈니스</span>는 소프트웨어 산업처럼 재고가 없고 영업이익률이 50%에 달해 <span class=\"text-amber-300 font-bold\">밸류에이션 리레이팅의 핵심</span>이 될 것임.",
+    "summary": "<span class=\"text-cyan-300 font-semibold\">현대차</span>그룹이 단순 완성차 제조사에서 전 세계 100개 이상의 공장 인프라를 활용한 '로봇 행동 데이터(Physical AI) 플랫폼 기업'으로 재평가받을 가능성을 분석함. 로봇 AI의 핵심 병목인 '현실 세계 액션 데이터'를 대규모로 수집·가공·판매할 수 있는 최적의 생산 거점을 보유하고 있으며, 2030년 데이터 사업 가치가 최대 90조 원에 달할 것으로 전망됨. 가상 시뮬레이션 및 원격 제어(Teleoperation)를 통한 고부가가치 숙련 데이터 비즈니스는 소프트웨어 산업처럼 재고가 없고 영업이익률이 50%에 달해 밸류에이션 리레이팅의 핵심이 될 것임.",
     "key_claims": [
-      "로봇 학습(<span class=\"text-cyan-300 font-semibold\">Physical AI</span>)을 위해서는 인터넷 텍스트나 영상이 아니라 실제 잡고, 밀고, 비틀며 실패를 겪는 <span class=\"text-amber-300 font-bold\">실제 액션 데이터가 필수적</span>이며, 현대차의 <span class=\"text-cyan-300 font-semibold\">대규모 공장들</span>이 이 데이터의 산실이 됨.",
-      "현대차는 <span class=\"text-cyan-300 font-semibold\">2028년부터 아틀라스</span>를 공장에 <span class=\"text-cyan-300 font-semibold\">대량 배치</span>하고 <span class=\"text-cyan-300 font-semibold\">로봇 훈련센터 (2026년 하반기 가동 예정)</span>를 통해 <span class=\"text-amber-300 font-bold\">로봇 데이터 플라이휠을 구축</span>하여 <span class=\"text-cyan-300 font-semibold\">빅테크 기업들</span>에 판매하는 비즈니스를 개척할 것임.",
-      "로봇 데이터 수집 작업 및 <span class=\"text-cyan-300 font-semibold\">Skild AI의 데이터 판매 단가(시간당 $72)</span>와 <span class=\"text-cyan-300 font-semibold\">마진율(50%)</span>을 감안할 때 현대차의 <span class=\"text-amber-300 font-bold\">데이터 매출 및 영업이익은 2030년까지 비약적으로 성장</span>할 수 있음."
+      "로봇 학습(Physical AI)을 위해서는 인터넷 텍스트나 영상이 아니라 실제 잡고, 밀고, 비틀며 실패를 겪는 실제 액션 데이터가 필수적이며, <span class=\"text-cyan-300 font-semibold\">현대차</span>의 대규모 공장들이 이 데이터의 산실이 됨.",
+      "<span class=\"text-cyan-300 font-semibold\">현대차</span>는 2028년부터 아틀라스를 공장에 대량 배치하고 로봇 훈련센터 (2026년 하반기 가동 예정)를 통해 로봇 데이터 플라이휠을 구축하여 빅테크 기업들에 판매하는 비즈니스를 개척할 것임.",
+      "로봇 데이터 수집 작업 및 Skild AI의 데이터 판매 단가(시간당 $72)와 마진율(50%)을 감안할 때 <span class=\"text-cyan-300 font-semibold\">현대차</span>의 데이터 매출 및 영업이익은 2030년까지 비약적으로 성장할 수 있음."
     ],
     "data_points": [
       "전 세계 현대차 그룹 공장 개수: 100개 이상",
@@ -24,7 +24,7 @@
       "로봇 데이터 수집 및 훈련 센터 가동 시점: 2026년 하반기"
     ],
     "signal": "bullish",
-    "signal_reason": "현대차가 <span class=\"text-cyan-300 font-semibold\">글로벌 공장 인프라</span>와 <span class=\"text-cyan-300 font-semibold\">보스턴 다이내믹스 로봇</span>을 결합해 빅테크들이 겪는 '<span class=\"text-amber-300 font-bold\">현실 물리 데이터 부족' 병목</span>을 해결하는 <span class=\"text-cyan-300 font-semibold\">독점적 데이터 공급자</span>로 전환되며 주가 <span class=\"text-amber-300 font-bold\">PER 밸류에이션 체계가 완전히 재평가될 기회</span>임.",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">현대차</span>가 글로벌 공장 인프라와 보스턴 다이내믹스 로봇을 결합해 빅테크들이 겪는 '현실 물리 데이터 부족' 병목을 해결하는 독점적 데이터 공급자로 전환되며 주가 PER 밸류에이션 체계가 완전히 재평가될 기회임.",
     "key_companies": [
       "현대자동차",
       "테슬라",
@@ -32,8 +32,8 @@
       "엔비디아",
       "구글"
     ],
-    "insight": "완성차 판매는 일회성 매출에 불과하지만, 한 번 구축된 공장의 실제 <span class=\"text-amber-300 font-bold\">로봇 동작 데이터</span>는 여러 <span class=\"text-cyan-300 font-semibold\">빅테크(구글, 엔비디아 등)</span>에 반복 판매가 가능하고 재고 부담이 없어 <span class=\"text-amber-300 font-bold\">현대차의 마진 구조를 근본적으로 바꿀 게임 체인저</span>가 될 수 있음.",
-    "action_point": "현대차의 <span class=\"text-amber-300 font-bold\">밸류에이션 리레이팅 시그널</span>이 될 <span class=\"text-cyan-300 font-semibold\">2026년 하반기 로봇 훈련소 가동</span>과 <span class=\"text-cyan-300 font-semibold\">2028년 아틀라스 공장 대량 배치 시점</span>에 주목하며, 자동차 제조사 관점에서 벗어나 <span class=\"text-amber-300 font-bold\">플랫폼 기업 관점으로의 포트폴리오 비중 조절</span>이 권장됨."
+    "insight": "완성차 판매는 일회성 매출에 불과하지만, 한 번 구축된 공장의 실제 로봇 동작 데이터는 여러 빅테크(<span class=\"text-cyan-300 font-semibold\">구글</span>, 엔비디아 등)에 반복 판매가 가능하고 재고 부담이 없어 <span class=\"text-cyan-300 font-semibold\">현대차</span>의 마진 구조를 근본적으로 바꿀 게임 체인저가 될 수 있음.",
+    "action_point": "<span class=\"text-cyan-300 font-semibold\">현대차</span>의 밸류에이션 리레이팅 시그널이 될 2026년 하반기 로봇 훈련소 가동과 2028년 아틀라스 공장 대량 배치 시점에 주목하며, 자동차 제조사 관점에서 벗어나 플랫폼 기업 관점으로의 포트폴리오 비중 조절이 권장됨."
   },
   "classification": {
     "primary_topic": "robot",

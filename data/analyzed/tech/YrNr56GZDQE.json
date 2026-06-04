@@ -8,12 +8,12 @@
     "thumbnail": "https://img.youtube.com/vi/YrNr56GZDQE/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "젠슨 황의 <span class=\"text-cyan-300 font-semibold\">AI PC</span> 언급은 새로운 <span class=\"text-cyan-300 font-semibold\">메모리 수요</span>를 창출하지만, <span class=\"text-amber-300 font-bold\">데이터센터 서버 수요의 폭발적 성장</span>이 훨씬 더 중요합니다. <span class=\"text-cyan-300 font-semibold\">델과 HP 엔터프라이즈</span>의 호실적은 <span class=\"text-cyan-300 font-semibold\">AI 서버 시장</span>의 견고한 성장과 높은 마진을 증명했습니다. <span class=\"text-cyan-300 font-semibold\">알파벳</span>의 대규모 유상증자는 <span class=\"text-amber-300 font-bold\">빅테크 기업의 강력한 AI 인프라 투자 수요</span>를 보여주며, 이는 한국의 <span class=\"text-cyan-300 font-semibold\">삼성전자와 SK하이닉스</span>에 매우 긍정적입니다.",
+    "summary": "젠슨 황의 AI PC 언급은 새로운 메모리 수요를 창출하지만, 데이터센터 서버 수요의 폭발적 성장이 훨씬 더 중요합니다. 델과 HP 엔터프라이즈의 호실적은 AI 서버 시장의 견고한 성장과 높은 마진을 증명했습니다. 알파벳의 대규모 유상증자는 빅테크 기업의 강력한 AI 인프라 투자 수요를 보여주며, 이는 한국의 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>와 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>에 매우 긍정적입니다.",
     "key_claims": [
-      "<span class=\"text-cyan-300 font-semibold\">AI PC 시대 개화</span>는 새로운 <span class=\"text-cyan-300 font-semibold\">메모리 수요</span>를 창출하지만, <span class=\"text-amber-300 font-bold\">데이터센터 서버 시장의 성장</span>이 훨씬 더 큰 영향력을 가진다.",
-      "<span class=\"text-cyan-300 font-semibold\">델과 HP 엔터프라이즈</span>의 호실적(특히 이익단)은 <span class=\"text-amber-300 font-bold\">데이터센터 서버 수요의 견고함</span>과 <span class=\"text-cyan-300 font-semibold\">AI 관련 고마진 특성</span>을 확증한다.",
-      "<span class=\"text-cyan-300 font-semibold\">알파벳(구글)</span>의 대규모 유상증자(800억 달러)는 <span class=\"text-amber-300 font-bold\">빅테크 기업의 AI 인프라 투자 수요가 강력하여 자본 확충에 나설 정도임</span>을 시사하며, 이는 <span class=\"text-cyan-300 font-semibold\">반도체 산업</span>에 매우 긍정적 신호다.",
-      "이 모든 요소는 한국의 <span class=\"text-cyan-300 font-semibold\">삼성전자와 SK하이닉스</span> 같은 <span class=\"text-cyan-300 font-semibold\">메모리 반도체 기업</span>에게 <span class=\"text-amber-300 font-bold\">강력한 상승 동력</span>으로 작용할 것이다."
+      "AI PC 시대 개화는 새로운 메모리 수요를 창출하지만, 데이터센터 서버 시장의 성장이 훨씬 더 큰 영향력을 가진다.",
+      "델과 HP 엔터프라이즈의 호실적(특히 이익단)은 데이터센터 서버 수요의 견고함과 AI 관련 고마진 특성을 확증한다.",
+      "알파벳(<span class=\"text-cyan-300 font-semibold\">구글</span>)의 대규모 유상증자(800억 달러)는 빅테크 기업의 AI 인프라 투자 수요가 강력하여 자본 확충에 나설 정도임을 시사하며, 이는 <span class=\"text-cyan-300 font-semibold\">반도체</span> 산업에 매우 긍정적 신호다.",
+      "이 모든 요소는 한국의 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>와 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 같은 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span> 기업에게 강력한 상승 동력으로 작용할 것이다."
     ],
     "data_points": [
       "델 실적: 매출 성장률 예상치 대비 20%+ 상회, 영업이익 예상치 대비 60%+ 상회, 서버 비중 35%, 서버 매출 작년 동기 대비 7.5배 증가",
@@ -23,7 +23,7 @@
       "삼성전자 주가 10% 상승"
     ],
     "signal": "bullish",
-    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">AI PC 시장 개화</span>로 인한 <span class=\"text-cyan-300 font-semibold\">신규 수요</span>, <span class=\"text-cyan-300 font-semibold\">델과 HP 엔터프라이즈</span>의 예상치를 뛰어넘는 <span class=\"text-cyan-300 font-semibold\">서버 실적(특히 이익 마진)</span>, 그리고 <span class=\"text-cyan-300 font-semibold\">알파벳</span>의 대규모 <span class=\"text-amber-300 font-bold\">AI 인프라 투자 목적 유상증자</span>는 <span class=\"text-amber-300 font-bold\">전반적인 반도체 수요가 강력하고 지속적임</span>을 시사한다. 이는 특히 <span class=\"text-cyan-300 font-semibold\">메모리 반도체 기업</span>에 매우 긍정적이다.",
+    "signal_reason": "AI PC 시장 개화로 인한 신규 수요, 델과 HP 엔터프라이즈의 예상치를 뛰어넘는 서버 실적(특히 이익 마진), 그리고 알파벳의 대규모 AI 인프라 투자 목적 유상증자는 전반적인 <span class=\"text-cyan-300 font-semibold\">반도체</span> 수요가 강력하고 지속적임을 시사한다. 이는 특히 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span> 기업에 매우 긍정적이다.",
     "key_companies": [
       "삼성전자",
       "SK 하이닉스",
@@ -43,8 +43,8 @@
       "아마존",
       "메타"
     ],
-    "insight": "<span class=\"text-amber-300 font-bold\">AI 혁명</span>은 단순히 새로운 제품을 넘어, <span class=\"text-amber-300 font-bold\">전례 없는 규모의 인프라 투자</span>를 촉발하고 있으며, 이는 캐시플로우가 풍부한 <span class=\"text-cyan-300 font-semibold\">빅테크</span>조차 자본 확충에 나설 정도다. 이로 인해 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span> 등 핵심 부품 공급자들의 실적 개선이 가속화될 것이며, 특히 <span class=\"text-cyan-300 font-semibold\">서버 부문의 고마진 성장</span>이 이익 구조를 근본적으로 개선할 것이다. <span class=\"text-cyan-300 font-semibold\">AI PC</span>는 추가적인 성장 동력이지만, <span class=\"text-amber-300 font-bold\">인프라 투자의 본질적인 중요성</span>을 간과해서는 안 된다.",
-    "action_point": "<span class=\"text-amber-300 font-bold\">AI 인프라 투자 확대</span>로 인한 <span class=\"text-cyan-300 font-semibold\">메모리 반도체 산업의 구조적 성장</span>에 주목하고, <span class=\"text-cyan-300 font-semibold\">삼성전자 및 SK하이닉스</span> 등 관련 기업의 긍정적인 추세를 지속적으로 관찰해야 한다. 단기적인 <span class=\"text-rose-400 font-medium\">거시경제 변수(환율, 금리, 전쟁 등)</span>가 <span class=\"text-rose-400 font-medium\">노이즈</span>로 작용할 수 있으나, <span class=\"text-amber-300 font-bold\">AI 수요라는 본질적인 펀더멘털 강화</span>에 초점을 맞출 필요가 있다. 서버 매출 호조를 보인 <span class=\"text-cyan-300 font-semibold\">Dell, HPE</span>와 같이 <span class=\"text-cyan-300 font-semibold\">AI 시대의 인프라 구축 핵심 기업들</span>에 대한 관심도 중요하다."
+    "insight": "AI 혁명은 단순히 새로운 제품을 넘어, 전례 없는 규모의 인프라 투자를 촉발하고 있으며, 이는 캐시플로우가 풍부한 빅테크조차 자본 확충에 나설 정도다. 이로 인해 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span> 등 핵심 부품 공급자들의 실적 개선이 가속화될 것이며, 특히 서버 부문의 고마진 성장이 이익 구조를 근본적으로 개선할 것이다. AI PC는 추가적인 성장 동력이지만, 인프라 투자의 본질적인 중요성을 간과해서는 안 된다.",
+    "action_point": "AI 인프라 투자 확대로 인한 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span> 산업의 구조적 성장에 주목하고, <span class=\"text-cyan-300 font-semibold\">삼성전자</span> 및 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 등 관련 기업의 긍정적인 추세를 지속적으로 관찰해야 한다. 단기적인 거시경제 변수(<span class=\"text-amber-300 font-bold\">환율</span>, 금리, 전쟁 등)가 노이즈로 작용할 수 있으나, AI 수요라는 본질적인 펀더멘털 강화에 초점을 맞출 필요가 있다. 서버 매출 호조를 보인 Dell, HPE와 같이 AI 시대의 인프라 구축 핵심 기업들에 대한 관심도 중요하다."
   },
   "classification": {
     "primary_topic": "tech",

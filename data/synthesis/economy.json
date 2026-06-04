@@ -1,7 +1,7 @@
 {
-  "cross_insight": "미국의 JOLTS 및 ADP 고용 데이터가 여전히 견조하게 나타나고 중동에서의 군사 충돌(이란의 미군 기지 타격)로 유가 상승이 장기화되며, <span class=\"text-amber-300 font-bold\">고금리 장기화</span> 우려가 지속되고 있습니다. 원달러 환율도 1,530원을 넘어서며 매크로 불안을 가중시킵니다.",
+  "cross_insight": "미국의 JOLTS 및 ADP 고용 데이터가 여전히 견조하게 나타나고 <span class=\"text-violet-300 font-medium\">중동</span>에서의 군사 충돌(<span class=\"text-violet-300 font-medium\">이란</span>의 미군 기지 타격)로 <span class=\"text-amber-300 font-bold\">유가 상승</span>이 장기화되며, <span class=\"text-amber-300 font-bold\">고금리 장기화</span> 우려가 지속되고 있습니다. <span class=\"text-amber-300 font-bold\">원달러 환율</span>도 1,530원을 넘어서며 매크로 불안을 가중시킵니다.",
   "consensus": "bearish",
-  "divergence": "미국 경기 연착륙(Goldilocks)에 대한 기대와 지나친 고금리 지속에 따른 사모신용 등 금융 부실 뇌관 폭발 우려가 공존합니다.",
+  "divergence": "미국 경기 연착륙(Goldilocks)에 대한 기대와 지나친 <span class=\"text-amber-300 font-bold\">고금리</span> 지속에 따른 <span class=\"text-rose-400 font-medium\">사모신용</span> 등 금융 <span class=\"text-rose-400 font-medium\">부실</span> 뇌관 폭발 우려가 공존합니다.",
   "key_themes": [
     "미국 고용 지표 강세",
     "중동 지정학적 위기",

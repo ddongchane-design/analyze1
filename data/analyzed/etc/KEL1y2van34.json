@@ -14,11 +14,11 @@
     ],
     "data_points": [],
     "signal": "neutral",
-    "signal_reason": "엔비디아 젠슨 황 CEO 개인의 이벤트성 대외 활동 영상으로, 기업 가치나 반도체 시장 동향에 영향을 미치는 실질적인 기술적/재무적 이슈가 없는 단순 흥미 위주 가십입니다.",
+    "signal_reason": "엔비디아 젠슨 황 CEO 개인의 이벤트성 대외 활동 영상으로, 기업 가치나 <span class=\"text-cyan-300 font-semibold\">반도체</span> 시장 동향에 영향을 미치는 실질적인 기술적/재무적 이슈가 없는 단순 흥미 위주 가십입니다.",
     "key_companies": [
       "NVIDIA"
     ],
-    "insight": "테크 리더들의 <span class=\"text-amber-300 font-bold\">인플루언서화 및 이벤트 스케치</span>는 기업 친화적 대중 이미지를 빌드하는 데 긍정적이지만, 정량적 투자 가치 분석에는 <span class=\"text-rose-400 font-medium\">영향이 전무</span>합니다.",
+    "insight": "테크 리더들의 인플루언서화 및 이벤트 스케치는 기업 친화적 <span class=\"text-violet-300 font-medium\">대중</span> 이미지를 빌드하는 데 긍정적이지만, 정량적 투자 가치 분석에는 영향이 전무합니다.",
     "action_point": "투자적 중요도가 극히 희박한 콘텐츠이므로, 젠슨 황 CEO의 대외 친화 활동 스케치 정도로만 필터링 처리합니다."
   },
   "classification": {

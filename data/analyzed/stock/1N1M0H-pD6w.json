@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/1N1M0H-pD6w/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "삼성전자 및 SK하이닉스 2배 레버리지 ETF 쏠림 현상으로 국내 증시 장중 <span class=\"text-rose-400 font-medium\">변동성이 극도로 심화</span>되고 있습니다.\n반도체 투톱이 쉬어가는 구간에 <span class=\"text-cyan-300 font-semibold\">2차전지(ESS 중심)</span>, <span class=\"text-cyan-300 font-semibold\">현대차그룹</span> 등 차기 주도 후보들이 <span class=\"text-amber-300 font-bold\">순환매 바톤 터치</span>를 받아 박스권 지탱 흐름을 구축하고 있습니다.\n미국 증시에서는 정책적 모멘텀이 실린 <span class=\"text-cyan-300 font-semibold\">드론</span>, <span class=\"text-cyan-300 font-semibold\">양자 컴퓨팅 테마</span>가 급등하는 한편 <span class=\"text-cyan-300 font-semibold\">소프트웨어 우량주</span>들이 저점을 짚고 반등하고 있습니다.",
+    "summary": "<span class=\"text-cyan-300 font-semibold\">삼성전자</span> 및 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 2배 레버리지 ETF 쏠림 현상으로 국내 증시 장중 변동성이 극도로 심화되고 있습니다.\n<span class=\"text-cyan-300 font-semibold\">반도체</span> 투톱이 쉬어가는 구간에 2차전지(ESS 중심), <span class=\"text-cyan-300 font-semibold\">현대차</span>그룹 등 차기 주도 후보들이 순환매 바톤 터치를 받아 박스권 지탱 흐름을 구축하고 있습니다.\n미국 증시에서는 정책적 모멘텀이 실린 드론, 양자 컴퓨팅 테마가 급등하는 한편 소프트웨어 우량주들이 저점을 짚고 반등하고 있습니다.",
     "key_claims": [
-      "국내 <span class=\"text-cyan-300 font-semibold\">반도체 대형주 중심의 레버리지 쏠림</span>이 유례없는 <span class=\"text-rose-400 font-medium\">장중 변동성</span>(어제 저점 -5% 급반등 등)을 만들며 단기 트레이딩 위주 수급이 형성됨.",
-      "하드웨어 칩 독주 체제에서 <span class=\"text-cyan-300 font-semibold\">오라클, 마이크로소프트, 팔란티어</span> 등 그동안 차별화되며 소외받던 <span class=\"text-cyan-300 font-semibold\">AI 소프트웨어 및 데이터 이동 밸류체인</span>으로 <span class=\"text-amber-300 font-bold\">수급이 이동 중임</span>.",
-      "미국 행정부의 정책적 우선순위와 정책 사이클에 편입된 <span class=\"text-cyan-300 font-semibold\">드론 테마(언유주얼 머신즈)</span> 및 <span class=\"text-cyan-300 font-semibold\">양자 컴퓨팅(IBM, 아이온큐, 리게티)</span>의 <span class=\"text-amber-300 font-bold\">추세적 상승세 부각</span>."
+      "국내 <span class=\"text-cyan-300 font-semibold\">반도체</span> 대형주 중심의 레버리지 쏠림이 유례없는 장중 변동성(어제 저점 -5% 급반등 등)을 만들며 단기 트레이딩 위주 수급이 형성됨.",
+      "하드웨어 칩 독주 체제에서 오라클, 마이크로소프트, 팔란티어 등 그동안 차별화되며 소외받던 AI 소프트웨어 및 데이터 이동 밸류체인으로 수급이 이동 중임.",
+      "미국 행정부의 정책적 우선순위와 정책 사이클에 편입된 드론 테마(언유주얼 머신즈) 및 양자 컴퓨팅(IBM, 아이온큐, 리게티)의 추세적 상승세 부각."
     ],
     "data_points": [
       "미국 메모리 레버리지 ETF 한 달 유입액: 100억 달러(약 15조 원) 돌파 및 수익률 87%",
@@ -20,7 +20,7 @@
       "유가: 중동 긴장 완화(60일 휴전안) 영향으로 88달러 선으로 급락"
     ],
     "signal": "neutral",
-    "signal_reason": "<span class=\"text-amber-300 font-bold\">반도체 쏠림</span>에 따른 <span class=\"text-rose-400 font-medium\">변동성이 매우 크며</span>, <span class=\"text-amber-300 font-bold\">단기적인 순환매</span>와 <span class=\"text-cyan-300 font-semibold\">테마성 랠리(드론, 양자 등)</span>가 강하므로 <span class=\"text-rose-400 font-medium\">추격 매수보다는 포트폴리오를 분산</span>하고 박스권 수익률 게임에 대비해야 하는 시기임.",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 쏠림에 따른 변동성이 매우 크며, 단기적인 순환매와 테마성 랠리(드론, 양자 등)가 강하므로 추격 매수보다는 포트폴리오를 분산하고 박스권 수익률 게임에 대비해야 하는 시기임.",
     "key_companies": [
       "삼성전자",
       "SK하이닉스",
@@ -32,8 +32,8 @@
       "아이온큐",
       "언유주얼 머신즈"
     ],
-    "insight": "과거에는 중소형주가 급등락하고 대형주가 안전판 역할을 했으나, 현재는 대형주가 레버리지 ETF 및 패시브 자금의 폭발적인 유입으로 인해 오히려 10~15%씩 <span class=\"text-rose-400 font-medium\">변동성을 키우는 시장 왜곡 현상</span>이 나타나고 있습니다. 주도 섹터(<span class=\"text-cyan-300 font-semibold\">반도체</span>)가 휴식할 때 <span class=\"text-cyan-300 font-semibold\">2차전지</span>나 <span class=\"text-cyan-300 font-semibold\">자동차</span> 등 낙폭 과대 우량주들이 충격을 흡수하는 <span class=\"text-amber-300 font-bold\">수급 순환 기류</span>를 명밀히 살필 시점입니다.",
-    "action_point": "장중 대형주의 급등락에 동요되어 <span class=\"text-rose-400 font-medium\">뇌동매매하는 것을 주의</span>하고, 반도체가 쉴 때 견조하게 오르는 후발 섹터(<span class=\"text-cyan-300 font-semibold\">전장/ESS 배터리</span>, <span class=\"text-cyan-300 font-semibold\">기판 관련주</span>)로 비중을 일부 분산하는 <span class=\"text-amber-300 font-bold\">길목 지키기 전략</span>이 유효합니다."
+    "insight": "과거에는 중소형주가 급등락하고 대형주가 안전판 역할을 했으나, 현재는 대형주가 레버리지 ETF 및 패시브 자금의 폭발적인 유입으로 인해 오히려 10~15%씩 변동성을 키우는 시장 왜곡 현상이 나타나고 있습니다. 주도 섹터(<span class=\"text-cyan-300 font-semibold\">반도체</span>)가 휴식할 때 2차전지나 자동차 등 낙폭 과대 우량주들이 충격을 흡수하는 수급 순환 기류를 명밀히 살필 시점입니다.",
+    "action_point": "장중 대형주의 급등락에 동요되어 뇌동매매하는 것을 주의하고, <span class=\"text-cyan-300 font-semibold\">반도체</span>가 쉴 때 견조하게 오르는 후발 섹터(전장/ESS 배터리, 기판 관련주)로 비중을 일부 분산하는 길목 지키기 전략이 유효합니다."
   },
   "classification": {
     "primary_topic": "stock",

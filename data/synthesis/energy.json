@@ -1,7 +1,7 @@
 {
-  "cross_insight": "독일 등 유럽 국가들이 에너지 안보와 고비용 문제를 돌파하기 위해 해상풍력 인허가 기간을 획기적으로 줄이는 신속법을 가결하며 재생에너지 보급을 가속화하고 있습니다. 핵심 경쟁력은 단순 발전 부품(중국 장악)에서 전력망 안정화 제어 소프트웨어 및 계통 시스템(ABB, 지멘스 등)으로 이동 중입니다.",
+  "cross_insight": "독일 등 유럽 국가들이 에너지 안보와 고비용 문제를 돌파하기 위해 해상풍력 인허가 기간을 획기적으로 줄이는 신속법을 가결하며 <span class=\"text-amber-300 font-bold\">재생에너지</span> 보급을 가속화하고 있습니다. 핵심 경쟁력은 단순 발전 부품(<span class=\"text-violet-300 font-medium\">중국</span> 장악)에서 전력망 안정화 제어 소프트웨어 및 계통 시스템(<span class=\"text-cyan-300 font-semibold\">ABB</span>, <span class=\"text-cyan-300 font-semibold\">지멘스</span> 등)으로 이동 중입니다.",
   "consensus": "bullish",
-  "divergence": "재생에너지 도입 과도기 동안의 소매 전기요금 급등 및 계통 마찰에 따른 여론 반발 우려가 존재합니다.",
+  "divergence": "<span class=\"text-amber-300 font-bold\">재생에너지</span> 도입 과도기 동안의 소매 전기요금 급등 및 계통 마찰에 따른 여론 반발 우려가 존재합니다.",
   "key_themes": [
     "유럽 재생에너지 전환 가속",
     "전력망 안정화 및 그리드 소프트웨어",

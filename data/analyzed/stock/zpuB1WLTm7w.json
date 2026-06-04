@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/zpuB1WLTm7w/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "코스피 8,400선 돌파 국면에서 나타난 자동차·로봇·반도체 섹터의 쏠림 현상과 전력기기/변압기 섹터의 단기 유동성 이탈 및 ESS(에너지저장장치)로의 순환매 양상을 진단합니다.\n장기 건설 주기를 가진 전력 인프라 산업의 높은 레버리지 리스크와 차세대 데이터 센터 필수 부품으로 부각되는 ESS 수혜 기조를 설명합니다.",
+    "summary": "코스피 8,400선 돌파 국면에서 나타난 자동차·로봇·<span class=\"text-cyan-300 font-semibold\">반도체</span> 섹터의 쏠림 현상과 전력기기/변압기 섹터의 단기 유동성 이탈 및 ESS(에너지저장장치)로의 순환매 양상을 진단합니다.\n장기 건설 주기를 가진 전력 인프라 산업의 높은 레버리지 <span class=\"text-rose-400 font-medium\">리스크</span>와 차세대 데이터 센터 필수 부품으로 부각되는 ESS 수혜 기조를 설명합니다.",
     "key_claims": [
       "코스피 지수가 8,400포인트를 돌파하며 역사상 최고가 랠리를 펼치고 있으나, 특정 섹터 위주의 급격한 주가 쏠림과 과속 부담이 공존함.",
-      "현대차 등 자동차 섹터는 단순 제조업을 넘어 보스턴 다이내믹스 기반의 피지컬 AI 및 로봇 테마(골드만삭스 리포트 수혜)로 리레이팅되며 신고가 랠리를 이끌고 있음.",
-      "반도체 단일 종목 레버리지 상품 출시 등 반도체(삼성전자·SK하이닉스)로의 극단적 쏠림 현상이 유지되고 있음.",
+      "<span class=\"text-cyan-300 font-semibold\">현대차</span> 등 자동차 섹터는 단순 제조업을 넘어 보스턴 다이내믹스 기반의 피지컬 AI 및 로봇 테마(골드만삭스 리포트 수혜)로 리레이팅되며 신고가 랠리를 이끌고 있음.",
+      "<span class=\"text-cyan-300 font-semibold\">반도체</span> 단일 종목 레버리지 상품 출시 등 <span class=\"text-cyan-300 font-semibold\">반도체</span>(<span class=\"text-cyan-300 font-semibold\">삼성전자</span>·<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>)로의 극단적 쏠림 현상이 유지되고 있음.",
       "기존 주도주였던 전력기기/변압기 3사(현대일렉트릭, 효성중공업, LS)는 고밸류에이션 부담과 고레버리지 산업 특성으로 인해 단기 차익 매물이 쏟아지며 하락세로 전환됨.",
       "최근 전력기기에서 빠져나간 외국인 수급이 데이터 센터의 전력 안정성을 보강할 차세대 솔루션인 ESS(삼성SDI, LG에너지솔루션) 섹터로 유입되는 순환매 포착됨."
     ],
@@ -29,8 +29,8 @@
       "효성중공업",
       "SK Hynix"
     ],
-    "insight": "데이터 센터 건설 병목이 지속되는 과정에서 전력기기는 단기 모멘텀 공백을 겪고 있으나, 전력망의 물리적 공백을 메우기 위해 <span class=\"text-cyan-300 font-semibold\">ESS(에너지저장장치)</span> 및 자동차 융합형 <span class=\"text-cyan-300 font-semibold\">피지컬 AI(로봇)</span> 테마로 시장 지배력이 확대되는 양상입니다.",
-    "action_point": "단기 투자자라면 실적 모멘텀이 다음 분기로 밀린 변압기 섹터 비중을 일부 축소하여 수급이 유입되는 <span class=\"text-cyan-300 font-semibold\">ESS 대형주(삼성SDI 등)</span>나 <span class=\"text-cyan-300 font-semibold\">현대차(로봇/피지컬 AI)</span>로 교체하는 순환매 전략이 유효합니다."
+    "insight": "데이터 센터 건설 병목이 지속되는 과정에서 전력기기는 단기 모멘텀 공백을 겪고 있으나, 전력망의 물리적 공백을 메우기 위해 ESS(에너지저장장치) 및 자동차 융합형 피지컬 AI(로봇) 테마로 시장 지배력이 확대되는 양상입니다.",
+    "action_point": "단기 투자자라면 실적 모멘텀이 다음 분기로 밀린 변압기 섹터 비중을 일부 축소하여 수급이 유입되는 ESS 대형주(삼성SDI 등)나 <span class=\"text-cyan-300 font-semibold\">현대차</span>(로봇/피지컬 AI)로 교체하는 순환매 전략이 유효합니다."
   },
   "classification": {
     "primary_topic": "stock",

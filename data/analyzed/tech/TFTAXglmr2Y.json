@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/TFTAXglmr2Y/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "대만 컴퓨텍스 현장에서 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>가 엔비디아 젠슨 황의 전폭적인 지지(\"Please make more HBM\")와 친필 서명을 받으며 AI 팩토리의 독보적 파트너임을 재입증했습니다. AI 생산성(에이전트 구동)을 결정짓는 핵심 병목인 열 제어(Advanced MR-MUF) 기술 경쟁력을 통해, 하이닉스는 단순 부품 공급사를 넘어 AI 성능을 좌우하는 인프라 설계자로 입지를 굳혔습니다.",
+    "summary": "대만 컴퓨텍스 현장에서 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>가 엔비디아 젠슨 황의 전폭적인 지지(\"Please make more <span class=\"text-cyan-300 font-semibold\">HBM</span>\")와 친필 서명을 받으며 AI 팩토리의 독보적 파트너임을 재입증했습니다. AI 생산성(에이전트 구동)을 결정짓는 핵심 병목인 열 제어(Advanced MR-MUF) 기술 경쟁력을 통해, 하이닉스는 단순 부품 공급사를 넘어 AI 성능을 좌우하는 인프라 설계자로 입지를 굳혔습니다.",
     "key_claims": [
-      "엔비디아 젠슨 황 CEO는 메모리 병목 심화를 해결하기 위해 하이닉스 부스에 가장 오랜 시간 머무르며 HBM 대량 증산을 거듭 요청했다.",
-      "HBM 고단 적층 시 발생하는 발열과 TSV 신호 왜곡을 완벽히 해결한 하이닉스의 열 제어 패키징 기술이 엔비디아 독점 공급망의 최대 무기이다.",
-      "HBM4(2048-bit) 도입에 따라 대역폭이 2.9TB/s로 기하급수적으로 폭증하며, SK하이닉스는 하이퍼스케일러들의 전력·성능 한계를 뚫어주는 인프라사로 격상되었다."
+      "엔비디아 젠슨 황 CEO는 메모리 병목 심화를 해결하기 위해 하이닉스 부스에 가장 오랜 시간 머무르며 <span class=\"text-cyan-300 font-semibold\">HBM</span> 대량 증산을 거듭 요청했다.",
+      "<span class=\"text-cyan-300 font-semibold\">HBM</span> 고단 적층 시 발생하는 발열과 TSV 신호 왜곡을 완벽히 해결한 하이닉스의 열 제어 패키징 기술이 엔비디아 독점 공급망의 최대 무기이다.",
+      "<span class=\"text-cyan-300 font-semibold\">HBM</span>4(2048-bit) 도입에 따라 대역폭이 2.9TB/s로 기하급수적으로 폭증하며, <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>는 하이퍼스케일러들의 전력·성능 한계를 뚫어주는 인프라사로 격상되었다."
     ],
     "data_points": [
       "현행 HBM 속도: 1.2TB/s → HBM4 목표 속도: 2.9TB/s에서 최대 4.0TB/s",
@@ -20,14 +20,14 @@
       "HBM 밀도 및 대역폭 증가폭: 33% ~ 38%"
     ],
     "signal": "bullish",
-    "signal_reason": "메모리가 AI 데이터센터 전체 성능과 전력 마진의 병목(Bottleneck)이 됨에 따라 독점적 1위인 SK하이닉스의 가격 결정력과 영업이익 마진 40%대 안착 가능성은 매우 높습니다.",
+    "signal_reason": "메모리가 AI 데이터센터 전체 성능과 전력 마진의 병목(Bottleneck)이 됨에 따라 독점적 1위인 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>의 가격 결정력과 영업이익 마진 40%대 안착 가능성은 매우 높습니다.",
     "key_companies": [
       "SK하이닉스",
       "엔비디아",
       "TSMC"
     ],
-    "insight": "과거 데이터센터 시대의 D램은 단순 부품이었으나, AI 팩토리 시대의 HBM은 GPU 패키징(CoWoS)에 밀착되어 시스템 구동 한계를 규정하는 인프라입니다. 최태원 회장의 증산 기조 선언과 젠슨 황의 구애는 하이닉스가 독점적 HBM 패키징 기술력을 레버리지하여 메모리 업계의 주도권을 완전히 장악했음을 방증합니다.",
-    "action_point": "SK하이닉스의 HBM4 선제 개발 수혜를 염두에 두고 관련 장비 공급망(MR-MUF 리플로우 장비, TSV 세정 및 검사 장비사)의 지분을 지속 확보해야 합니다."
+    "insight": "과거 데이터센터 시대의 D램은 단순 부품이었으나, AI 팩토리 시대의 <span class=\"text-cyan-300 font-semibold\">HBM</span>은 GPU 패키징(CoWoS)에 밀착되어 시스템 구동 한계를 규정하는 인프라입니다. 최태원 회장의 증산 기조 선언과 젠슨 황의 구애는 하이닉스가 독점적 <span class=\"text-cyan-300 font-semibold\">HBM</span> 패키징 기술력을 레버리지하여 메모리 업계의 주도권을 완전히 장악했음을 방증합니다.",
+    "action_point": "<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>의 <span class=\"text-cyan-300 font-semibold\">HBM</span>4 선제 개발 수혜를 염두에 두고 관련 장비 공급망(MR-MUF 리플로우 장비, TSV 세정 및 검사 장비사)의 지분을 지속 확보해야 합니다."
   },
   "classification": {
     "primary_topic": "tech",

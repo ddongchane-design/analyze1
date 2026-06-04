@@ -8,24 +8,24 @@
     "thumbnail": "https://img.youtube.com/vi/byIjCCzkgqQ/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "고금리 환경 장기화로 AI 업계 내 실적 위주의 <span class=\"text-amber-300 font-bold\">옥석 가리기</span>가 본격화되고 있습니다. 하지만 한국 반도체 기업들은 글로벌 <span class=\"text-cyan-300 font-semibold\">HBM</span> 시장 점유율 70% 이상을 차지하고 있어, <span class=\"text-cyan-300 font-semibold\">엔비디아</span>의 실적 성장과 직접 연동되며 상대적으로 탄탄한 방어력을 보여줄 전망입니다.",
+    "summary": "<span class=\"text-amber-300 font-bold\">고금리</span> 환경 장기화로 AI 업계 내 실적 위주의 옥석 가리기가 본격화되고 있습니다. 하지만 한국 <span class=\"text-cyan-300 font-semibold\">반도체</span> 기업들은 글로벌 <span class=\"text-cyan-300 font-semibold\">HBM</span> 시장 점유율 70% 이상을 차지하고 있어, 엔비디아의 실적 성장과 직접 연동되며 상대적으로 탄탄한 방어력을 보여줄 전망입니다.",
     "key_claims": [
-      "고금리로 인해 자금 조달 비용이 증가하여 실체 없는 AI 테마주는 조정을 겪는 '실적 장세'로 진입하고 있다.",
+      "<span class=\"text-amber-300 font-bold\">고금리</span>로 인해 자금 조달 비용이 증가하여 실체 없는 AI 테마주는 <span class=\"text-rose-400 font-medium\">조정</span>을 겪는 '실적 장세'로 진입하고 있다.",
       "엔비디아 실적 발표 이후 시장은 하드웨어 인프라에서 실제 수익이 창출되는 2차 수혜 기업들을 구분하기 시작했다.",
-      "한국 반도체 업계는 글로벌 HBM 점유율 70% 이상을 확보하여 엔비디아의 독점적 성장 혜택을 온전히 누리고 있다."
+      "한국 <span class=\"text-cyan-300 font-semibold\">반도체</span> 업계는 글로벌 <span class=\"text-cyan-300 font-semibold\">HBM</span> 점유율 70% 이상을 확보하여 엔비디아의 독점적 성장 혜택을 온전히 누리고 있다."
     ],
     "data_points": [
       "글로벌 HBM 점유율 (한국): 70% 이상"
     ],
     "signal": "bullish",
-    "signal_reason": "실적 없는 테마주들의 옥석 가리기가 일어나는 환경에서도 엔비디아 공급망 핵심인 HBM 독점적 구조 덕분에 한국 대표 반도체 대형주들은 확실한 실적 성장을 보장받고 있습니다.",
+    "signal_reason": "실적 없는 테마주들의 옥석 가리기가 일어나는 환경에서도 엔비디아 공급망 핵심인 <span class=\"text-cyan-300 font-semibold\">HBM</span> 독점적 구조 덕분에 한국 대표 <span class=\"text-cyan-300 font-semibold\">반도체</span> 대형주들은 확실한 실적 성장을 보장받고 있습니다.",
     "key_companies": [
       "엔비디아",
       "삼성전자",
       "SK하이닉스"
     ],
-    "insight": "고금리라는 매크로 압박 속에서도 AI 인프라 자본 지출(CAPEX)이 가속화되면서 HBM과 같은 핵심 병목 부품의 지배력이 극대화되고 있습니다. '한국 반도체 점유율 70%'는 금리 부담을 상쇄하는 강력한 가격 결정력을 바탕으로 실적 장세에서 주도주 입지를 굳히는 근거가 됩니다.",
-    "action_point": "단순 기대감으로 상승했던 소프트웨어 및 AI 중소형주 비중을 조절하고, 엔비디아 밸류체인 내 확실한 매출 증가를 입증하는 HBM 대장주 및 장비 체인에 집중하는 전략이 유효합니다."
+    "insight": "<span class=\"text-amber-300 font-bold\">고금리</span>라는 매크로 압박 속에서도 AI 인프라 자본 지출(CAPEX)이 가속화되면서 <span class=\"text-cyan-300 font-semibold\">HBM</span>과 같은 핵심 병목 부품의 지배력이 극대화되고 있습니다. '한국 <span class=\"text-cyan-300 font-semibold\">반도체</span> 점유율 70%'는 금리 부담을 상쇄하는 강력한 가격 결정력을 바탕으로 실적 장세에서 주도주 입지를 굳히는 근거가 됩니다.",
+    "action_point": "단순 기대감으로 상승했던 소프트웨어 및 AI 중소형주 비중을 조절하고, 엔비디아 밸류체인 내 확실한 매출 증가를 입증하는 <span class=\"text-cyan-300 font-semibold\">HBM</span> 대장주 및 장비 체인에 집중하는 전략이 유효합니다."
   },
   "classification": {
     "primary_topic": "tech",

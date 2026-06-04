@@ -8,13 +8,13 @@
     "thumbnail": "https://img.youtube.com/vi/yCrO2AB3HVU/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "한국 증시는 5월 개인 투자자들의 열광적인 상방 베팅(<span class=\"text-amber-300 font-bold\">포모 트레이딩</span>)에 힘입어 전례 없는 급등세를 보였습니다. 이 과정에서 시장 조성자의 헤지 매매가 주가를 더욱 밀어 올리는 <span class=\"text-amber-300 font-bold\">감마 스퀴즈 현상</span>이 나타나고 있습니다. 하지만 이러한 수급 구조는 가격 상승세가 멈추거나 하락 전환 시 극심한 <span class=\"text-rose-400 font-medium\">꼬리 위험</span>과 <span class=\"text-rose-400 font-medium\">취약성</span>을 내포하고 있습니다.",
+    "summary": "한국 증시는 5월 개인 투자자들의 열광적인 상방 베팅(<span class=\"text-amber-300 font-bold\">포모 트레이딩</span>)에 힘입어 전례 없는 급등세를 보였습니다. 이 과정에서 시장 조성자의 헤지 매매가 주가를 더욱 밀어 올리는 <span class=\"text-amber-300 font-bold\">감마 스퀴즈</span> 현상이 나타나고 있습니다. 하지만 이러한 수급 구조는 가격 상승세가 멈추거나 하락 전환 시 극심한 꼬리 <span class=\"text-rose-400 font-medium\">위험</span>과 <span class=\"text-rose-400 font-medium\">취약성</span>을 내포하고 있습니다.",
     "key_claims": [
-      "한국 증시는 <span class=\"text-amber-300 font-bold\">개인 투자자들의 공격적인 상방 베팅</span>과 <span class=\"text-amber-300 font-bold\">포모 트레이딩</span>으로 인해 이례적인 상승세를 기록하고 있습니다.",
-      "선물 및 옵션 시장의 움직임(꼬리)이 현물 시장(몸통)을 흔드는 '<span class=\"text-amber-300 font-bold\">웩더독 현상</span>'이 발생하고 있으며, 시장 조성자(기관)의 헤지 매수(<span class=\"text-amber-300 font-bold\">감마 스퀴즈</span>)가 상승을 가속화하고 있습니다.",
-      "이러한 시장 구조는 가격 상승이 멈추거나 하락으로 전환될 경우 기관의 역포지션으로 인해 <span class=\"text-rose-400 font-medium\">급격한 손실 확대</span> 및 <span class=\"text-rose-400 font-medium\">하락 압력</span>으로 전환될 수 있는 '<span class=\"text-rose-400 font-medium\">꼬리 위험</span>'에 매우 취약합니다.",
-      "현재 B-KOSPI 지수 상승과 이상 거래 움직임, 그리고 다가오는 <span class=\"text-rose-400 font-medium\">선물옵션 동시 만기일</span>(6월 둘째 주 목요일)이 이러한 <span class=\"text-rose-400 font-medium\">위험</span>을 더욱 증폭시킬 수 있습니다.",
-      "<span class=\"text-rose-400 font-medium\">유럽의 금리 인상 가능성</span>, <span class=\"text-rose-400 font-medium\">미국의 고용 보고서</span>, <span class=\"text-rose-400 font-medium\">ISM 물가 지표</span> 등 6월 주요 경제 지표들이 <span class=\"text-rose-400 font-medium\">시장 변동성</span>에 영향을 미칠 수 있습니다."
+      "한국 증시는 개인 투자자들의 공격적인 상방 베팅과 <span class=\"text-amber-300 font-bold\">포모 트레이딩</span>으로 인해 이례적인 상승세를 기록하고 있습니다.",
+      "선물 및 옵션 시장의 움직임(꼬리)이 현물 시장(몸통)을 흔드는 '웩더독 현상'이 발생하고 있으며, 시장 조성자(기관)의 헤지 매수(<span class=\"text-amber-300 font-bold\">감마 스퀴즈</span>)가 상승을 가속화하고 있습니다.",
+      "이러한 시장 구조는 가격 상승이 멈추거나 하락으로 전환될 경우 기관의 역포지션으로 인해 급격한 손실 확대 및 하락 압력으로 전환될 수 있는 '꼬리 <span class=\"text-rose-400 font-medium\">위험</span>'에 매우 취약합니다.",
+      "현재 B-KOSPI 지수 상승과 이상 거래 움직임, 그리고 다가오는 선물옵션 동시 만기일(6월 둘째 주 목요일)이 이러한 <span class=\"text-rose-400 font-medium\">위험</span>을 더욱 증폭시킬 수 있습니다.",
+      "유럽의 금리 인상 가능성, 미국의 고용 보고서, ISM 물가 지표 등 6월 주요 경제 지표들이 시장 변동성에 영향을 미칠 수 있습니다."
     ],
     "data_points": [
       "코스피 지수는 지난 한 달간 약 30% 상승, 연간 기준으로 약 100% 상승했습니다.",
@@ -29,14 +29,14 @@
       "5월 21일 기관과 외국인 간 대규모 선물 스왑 거래가 있었습니다."
     ],
     "signal": "bearish",
-    "signal_reason": "영상은 현재 시장의 <span class=\"text-amber-300 font-bold\">과열된 상승 동력</span>이 <span class=\"text-amber-300 font-bold\">감마 스퀴즈</span>와 <span class=\"text-amber-300 font-bold\">개인 투자자의 포모 트레이딩</span>에 기반하고 있음을 지적하며, 이는 시장의 <span class=\"text-rose-400 font-medium\">구조적 취약성</span>과 '<span class=\"text-rose-400 font-medium\">꼬리 위험</span>'을 야기해 <span class=\"text-rose-400 font-medium\">급격한 하락 반전 가능성</span>이 높다고 경고합니다.",
+    "signal_reason": "영상은 현재 시장의 <span class=\"text-rose-400 font-medium\">과열</span>된 상승 동력이 <span class=\"text-amber-300 font-bold\">감마 스퀴즈</span>와 개인 투자자의 <span class=\"text-amber-300 font-bold\">포모 트레이딩</span>에 기반하고 있음을 지적하며, 이는 시장의 구조적 <span class=\"text-rose-400 font-medium\">취약성</span>과 '꼬리 <span class=\"text-rose-400 font-medium\">위험</span>'을 야기해 급격한 하락 반전 가능성이 높다고 경고합니다.",
     "key_companies": [
       "브로드컴",
       "AMD",
       "레노버"
     ],
-    "insight": "현재 한국 증시의 강력한 상승세는 근본적인 기업 실적 개선을 넘어, 개인 투자자들의 공격적인 매수와 이에 따른 시장 조성자(기관)의 파생상품 헤지 매수(<span class=\"text-amber-300 font-bold\">감마 스퀴즈</span>)가 결합된 <span class=\"text-amber-300 font-bold\">비정상적인 수급 구조</span>에 의해 증폭되고 있습니다. 이는 시장이 상승 탄력을 잃거나 외부 충격이 발생할 경우, <span class=\"text-rose-400 font-medium\">급격한 하락 반전</span>으로 이어질 수 있는 <span class=\"text-rose-400 font-medium\">내재적 취약성</span>을 가지고 있어 투자자들의 면밀한 주의가 요구됩니다.",
-    "action_point": "투자자들은 현재 시장의 <span class=\"text-amber-300 font-bold\">과열된 상승 구조</span>와 내재된 '<span class=\"text-rose-400 font-medium\">꼬리 위험</span>'을 인지하고, 특히 <span class=\"text-rose-400 font-medium\">6월 선물옵션 동시 만기일</span>을 전후하여 <span class=\"text-rose-400 font-medium\">시장 변동성 확대</span>에 대비해야 합니다. 공격적인 상방 베팅보다는 <span class=\"text-rose-400 font-medium\">리스크 관리</span>를 강화하고, 시장이 상승 모멘텀을 상실하거나 하락 전환 신호를 보일 경우 포트폴리오 재조정을 고려해야 합니다."
+    "insight": "현재 한국 증시의 강력한 상승세는 근본적인 기업 실적 개선을 넘어, 개인 투자자들의 공격적인 매수와 이에 따른 시장 조성자(기관)의 파생상품 헤지 매수(<span class=\"text-amber-300 font-bold\">감마 스퀴즈</span>)가 결합된 비정상적인 수급 구조에 의해 증폭되고 있습니다. 이는 시장이 상승 탄력을 잃거나 외부 충격이 발생할 경우, 급격한 하락 반전으로 이어질 수 있는 내재적 <span class=\"text-rose-400 font-medium\">취약성</span>을 가지고 있어 투자자들의 면밀한 주의가 요구됩니다.",
+    "action_point": "투자자들은 현재 시장의 <span class=\"text-rose-400 font-medium\">과열</span>된 상승 구조와 내재된 '꼬리 <span class=\"text-rose-400 font-medium\">위험</span>'을 인지하고, 특히 6월 선물옵션 동시 만기일을 전후하여 시장 변동성 확대에 대비해야 합니다. 공격적인 상방 베팅보다는 <span class=\"text-rose-400 font-medium\">리스크</span> 관리를 강화하고, 시장이 상승 모멘텀을 상실하거나 하락 전환 신호를 보일 경우 포트폴리오 재<span class=\"text-rose-400 font-medium\">조정</span>을 고려해야 합니다."
   },
   "classification": {
     "primary_topic": "etc",

@@ -1,7 +1,7 @@
 {
-  "cross_insight": "미 증시가 사상 최고가 랠리 후 눈높이 과열을 식히는 단기 조정을 겪는 한편, 한국 시장은 연금 자산의 대형 ETF 유입 덕분에 견조한 하방 경직성을 보이고 있습니다. 반도체 쏠림 과열이 진정되며 6월 선물옵션만기일을 기점으로 소외되었던 저PER 밸류업 섹터(자동차, 금융 등)로의 순환매가 기대됩니다.",
+  "cross_insight": "미 증시가 사상 최고가 랠리 후 눈높이 <span class=\"text-rose-400 font-medium\">과열</span>을 식히는 단기 <span class=\"text-rose-400 font-medium\">조정</span>을 겪는 한편, 한국 시장은 연금 자산의 대형 ETF 유입 덕분에 견조한 하방 경직성을 보이고 있습니다. <span class=\"text-cyan-300 font-semibold\">반도체</span> 쏠림 <span class=\"text-rose-400 font-medium\">과열</span>이 진정되며 6월 선물옵션만기일을 기점으로 소외되었던 저PER 밸류업 섹터(자동차, 금융 등)로의 순환매가 기대됩니다.",
   "consensus": "neutral",
-  "divergence": "반도체 주도주의 추가 오버슈팅 기대와 기술적 이격도 과열에 따른 급락 리스크(감마 스퀴즈 꼬리 위험) 경계가 팽팽합니다.",
+  "divergence": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 주도주의 추가 오버슈팅 기대와 기술적 이격도 <span class=\"text-rose-400 font-medium\">과열</span>에 따른 <span class=\"text-rose-400 font-medium\">급락</span> <span class=\"text-rose-400 font-medium\">리스크</span>(<span class=\"text-amber-300 font-bold\">감마 스퀴즈</span> 꼬리 <span class=\"text-rose-400 font-medium\">위험</span>) 경계가 팽팽합니다.",
   "key_themes": [
     "극단적인 반도체/AI 쏠림",
     "국내 퇴직연금의 ETF 머니무브",

@@ -8,24 +8,24 @@
     "thumbnail": "https://img.youtube.com/vi/mJCB-wk82gg/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "중국 반도체 업계가 삼성전자와 SK하이닉스의 독무대였던 <span class=\"text-cyan-300 font-semibold\">HBM</span> 시장을 후공정(패키징, 적층 기술 및 열 방출) 역량 강화와 풍부한 내수 시장을 바탕으로 무섭게 추격하며 기술 격차를 1.5년 수준으로 좁히고 있습니다. 중국의 독자적인 대안 모델(예: 딥시크 등 소프트웨어 혁신과 하드웨어 추격의 결합)은 미중 갈등 장벽 속에서도 자급화 카드로 작용하고 있습니다.",
+    "summary": "<span class=\"text-violet-300 font-medium\">중국</span> <span class=\"text-cyan-300 font-semibold\">반도체</span> 업계가 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>와 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>의 독무대였던 <span class=\"text-cyan-300 font-semibold\">HBM</span> 시장을 후공정(패키징, 적층 기술 및 열 방출) 역량 강화와 풍부한 내수 시장을 바탕으로 무섭게 추격하며 기술 격차를 1.5년 수준으로 좁히고 있습니다. <span class=\"text-violet-300 font-medium\">중국</span>의 독자적인 대안 모델(예: 딥시크 등 소프트웨어 혁신과 하드웨어 추격의 결합)은 미중 갈등 장벽 속에서도 자급화 카드로 작용하고 있습니다.",
     "key_claims": [
-      "HBM 분야에서 한중 간의 기술 격차는 고정이 아니며 패키징(후공정) 기술 추격을 통해 1.5년 내외로 단축되고 있다.",
-      "중국은 미중 갈등 장벽에 대응하여 HBM 자체 공급망을 구축하고 있으며, 소프트웨어(예: 딥시크) 최적화와 결합해 성능 한계를 보완하고 있다.",
-      "후공정 적층 공정 및 열 관리 솔루션에서 중국의 연구개발 속도가 매우 빨라 한국 메모리 제조사들에게 잠재적 위협이 되고 있다."
+      "<span class=\"text-cyan-300 font-semibold\">HBM</span> 분야에서 한중 간의 기술 격차는 고정이 아니며 패키징(후공정) 기술 추격을 통해 1.5년 내외로 단축되고 있다.",
+      "<span class=\"text-violet-300 font-medium\">중국</span>은 미중 갈등 장벽에 대응하여 <span class=\"text-cyan-300 font-semibold\">HBM</span> 자체 공급망을 구축하고 있으며, 소프트웨어(예: 딥시크) 최적화와 결합해 성능 한계를 보완하고 있다.",
+      "후공정 적층 공정 및 열 관리 솔루션에서 <span class=\"text-violet-300 font-medium\">중국</span>의 연구개발 속도가 매우 빨라 한국 메모리 제조사들에게 잠재적 위협이 되고 있다."
     ],
     "data_points": [
       "한중 HBM 기술 격차: 기존 3세대(약 3년)에서 약 1.5년 수준으로 단축"
     ],
     "signal": "bearish",
-    "signal_reason": "중국의 HBM 추격 속도가 당초 예상보다 빠르며, 후공정 기술 경쟁력을 바탕으로 중저가 라인업을 자급화할 경우 한국 메모리 제조사들의 중장기 마진과 점유율에 부담 요인으로 작용할 수 있습니다.",
+    "signal_reason": "<span class=\"text-violet-300 font-medium\">중국</span>의 <span class=\"text-cyan-300 font-semibold\">HBM</span> 추격 속도가 당초 예상보다 빠르며, 후공정 기술 경쟁력을 바탕으로 중저가 라인업을 자급화할 경우 한국 메모리 제조사들의 중장기 마진과 점유율에 부담 요인으로 작용할 수 있습니다.",
     "key_companies": [
       "삼성전자",
       "SK하이닉스",
       "딥시크"
     ],
-    "insight": "미국의 대중국 반도체 장비 규제는 역설적으로 중국이 후공정(Advanced Packaging) 기술 개발에 사활을 걸게 만들었습니다. 중국은 소프트웨어적 경량화(딥시크)와 패키징 혁신을 융합하여 서방의 하드웨어 독점을 우회하는 거대한 대체 생태계를 성공적으로 구축해 나가고 있습니다.",
-    "action_point": "중국의 반도체 자급화 추진 강도를 고려할 때, 국내 후공정 장비(OSAT) 및 미세 열 제어 소재 밸류체인의 기술 장벽 유지 여부를 점검하고, 선단 패키징(HBM4 이후 코옵티컬 패키징 등) 초격차 기술을 보유한 국내 한정적 장비사에 집중해야 합니다."
+    "insight": "미국의 대<span class=\"text-violet-300 font-medium\">중국</span> <span class=\"text-cyan-300 font-semibold\">반도체</span> 장비 규제는 역설적으로 <span class=\"text-violet-300 font-medium\">중국</span>이 후공정(Advanced Packaging) 기술 개발에 사활을 걸게 만들었습니다. <span class=\"text-violet-300 font-medium\">중국</span>은 소프트웨어적 경량화(딥시크)와 패키징 혁신을 융합하여 서방의 하드웨어 독점을 우회하는 거대한 대체 생태계를 성공적으로 구축해 나가고 있습니다.",
+    "action_point": "<span class=\"text-violet-300 font-medium\">중국</span>의 <span class=\"text-cyan-300 font-semibold\">반도체</span> 자급화 추진 강도를 고려할 때, 국내 후공정 장비(OSAT) 및 미세 열 제어 소재 밸류체인의 기술 장벽 유지 여부를 점검하고, 선단 패키징(<span class=\"text-cyan-300 font-semibold\">HBM</span>4 이후 코옵티컬 패키징 등) 초격차 기술을 보유한 국내 한정적 장비사에 집중해야 합니다."
   },
   "classification": {
     "primary_topic": "tech",

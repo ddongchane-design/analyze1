@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/xKIDf62MAhM/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "스페이스X는 2조 달러의 기업 가치로 <span class=\"text-cyan-300 font-semibold\">IPO</span>가 예상되며, 이는 빠르게 성장하는 <span class=\"text-cyan-300 font-semibold\">스타링크 위성 통신 사업</span>과 <span class=\"text-cyan-300 font-semibold\">XAI</span> 인수에 힘입은 것입니다. 다만, 현재 2조 달러 가치는 PSR 80~100배로 경쟁사 대비 <span class=\"text-rose-400 font-medium\">고평가</span>되어 있어 <span class=\"text-rose-400 font-medium\">단기 투자에는 주의가 필요합니다</span>. <span class=\"text-amber-300 font-bold\">일론 머스크 프리미엄</span>과 장기적인 성장 잠재력은 인정되나, <span class=\"text-rose-400 font-medium\">IPO 후 과열과 변동성</span>에 대비해 신중한 접근이 권고됩니다.",
+    "summary": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>는 2조 달러의 기업 가치로 IPO가 예상되며, 이는 빠르게 성장하는 <span class=\"text-cyan-300 font-semibold\">스타링크</span> 위성 통신 사업과 XAI 인수에 힘입은 것입니다. 다만, 현재 2조 달러 가치는 PSR 80~100배로 경쟁사 대비 고평가되어 있어 단기 투자에는 주의가 필요합니다. 일론 머스크 프리미엄과 장기적인 성장 잠재력은 인정되나, IPO 후 <span class=\"text-rose-400 font-medium\">과열</span>과 변동성에 대비해 신중한 접근이 권고됩니다.",
     "key_claims": [
-      "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 2조 달러 기업 가치는 로켓 발사보다 <span class=\"text-cyan-300 font-semibold\">스타링크 위성 통신 사업</span>의 <span class=\"text-amber-300 font-bold\">압도적인 성장성</span>(연 80% 성장, 50% 이상 마진율)과 <span class=\"text-cyan-300 font-semibold\">AI 기업 XAI</span> 인수를 통해 정당화됩니다.",
-      "현재 <span class=\"text-cyan-300 font-semibold\">2조 달러의 기업 가치</span>는 2026년 예상 매출액 기준 <span class=\"text-cyan-300 font-semibold\">PSR 80~100배</span>에 달해 경쟁사(50~60배) 대비 <span class=\"text-rose-400 font-medium\">매우 고평가된 수준</span>으로, 재무 지표만으로는 '<span class=\"text-rose-400 font-medium\">비싸다</span>'고 판단할 수 있습니다.",
-      "<span class=\"text-amber-300 font-bold\">일론 머스크의 비전과 프리미엄</span>으로 인해 고평가된 가치가 유지될 수 있지만, <span class=\"text-rose-400 font-medium\">IPO 이후 단기적인 과열과 급락 가능성</span>, 그리고 <span class=\"text-rose-400 font-medium\">머스크 리스크</span>로 인한 <span class=\"text-rose-400 font-medium\">높은 변동성</span>은 장기 투자를 전제로 해야 합니다."
+      "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 2조 달러 기업 가치는 로켓 발사보다 <span class=\"text-cyan-300 font-semibold\">스타링크</span> 위성 통신 사업의 압도적인 성장성(연 80% 성장, 50% 이상 마진율)과 AI 기업 XAI 인수를 통해 정당화됩니다.",
+      "현재 2조 달러의 기업 가치는 2026년 예상 매출액 기준 PSR 80~100배에 달해 경쟁사(50~60배) 대비 매우 고평가된 수준으로, 재무 지표만으로는 '비싸다'고 판단할 수 있습니다.",
+      "일론 머스크의 비전과 프리미엄으로 인해 고평가된 가치가 유지될 수 있지만, IPO 이후 단기적인 <span class=\"text-rose-400 font-medium\">과열</span>과 <span class=\"text-rose-400 font-medium\">급락</span> 가능성, 그리고 머스크 <span class=\"text-rose-400 font-medium\">리스크</span>로 인한 높은 변동성은 장기 투자를 전제로 해야 합니다."
     ],
     "data_points": [
       "스페이스X 기업 가치: 2조 달러 (한화 3,000조 원)",
@@ -32,7 +32,7 @@
       "미국 IPO 주식 중 상장 후 하락 및 미회복 기업 비율: 80%"
     ],
     "signal": "neutral",
-    "signal_reason": "스페이스X는 <span class=\"text-amber-300 font-bold\">강력한 기술적 해자</span>와 <span class=\"text-amber-300 font-bold\">무한한 성장 가능성</span>을 가졌지만, 현재 예상되는 2조 달러 기업 가치는 재무 지표상 <span class=\"text-rose-400 font-medium\">지나치게 고평가</span>되어 있어 <span class=\"text-rose-400 font-medium\">단기적 접근은 위험하고 장기적 관점에서 신중한 판단이 요구됩니다</span>.",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>는 강력한 기술적 해자와 무한한 성장 가능성을 가졌지만, 현재 예상되는 2조 달러 기업 가치는 재무 지표상 지나치게 고평가되어 있어 단기적 접근은 <span class=\"text-rose-400 font-medium\">위험</span>하고 장기적 관점에서 신중한 판단이 요구됩니다.",
     "key_companies": [
       "스페이스X",
       "월택남",
@@ -48,8 +48,8 @@
       "JP 모건",
       "QQQ"
     ],
-    "insight": "<span class=\"text-cyan-300 font-semibold\">스페이스X IPO</span>는 <span class=\"text-amber-300 font-bold\">우주 산업 전반의 재평가(리레이팅) 촉매제</span>가 될 것이 분명하지만, 현재의 <span class=\"text-rose-400 font-medium\">높은 밸류에이션</span>은 단순한 재무적 가치를 넘어선 '<span class=\"text-amber-300 font-bold\">일론 머스크 프리미엄</span>'과 '먼 미래 비전'이 과도하게 반영된 결과로 보입니다. 투자자는 이 프리미엄이 지속 가능할지, 그리고 장기 성장 가정을 믿고 <span class=\"text-rose-400 font-medium\">단기 변동성</span>을 견딜 수 있을지를 냉철하게 판단해야 합니다.",
-    "action_point": "<span class=\"text-rose-400 font-medium\">IPO 직후 발생할 수 있는 과열 및 단기 급락에 주의</span>하고, 5월 말 예정된 투자 설명서 공개를 통해 구체적인 공모가와 주관사 평가를 확인해야 합니다. 만약 상장 후 주가가 적정 가치 대비 30~40% 이상 하락하는 시점이 온다면 분할 매수를 고려하거나, 스페이스X IPO로 인한 <span class=\"text-amber-300 font-bold\">산업 전체 리레이팅 효과</span>를 노려 <span class=\"text-cyan-300 font-semibold\">우주항공 ETF</span>에 간접 투자하는 방안도 유효할 수 있습니다."
+    "insight": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span> IPO는 우주 산업 전반의 재평가(리레이팅) 촉매제가 될 것이 분명하지만, 현재의 높은 밸류에이션은 단순한 재무적 가치를 넘어선 '일론 머스크 프리미엄'과 '먼 미래 비전'이 과도하게 반영된 결과로 보입니다. 투자자는 이 프리미엄이 지속 가능할지, 그리고 장기 성장 가정을 믿고 단기 변동성을 견딜 수 있을지를 냉철하게 판단해야 합니다.",
+    "action_point": "IPO 직후 발생할 수 있는 <span class=\"text-rose-400 font-medium\">과열</span> 및 단기 <span class=\"text-rose-400 font-medium\">급락</span>에 주의하고, 5월 말 예정된 투자 설명서 공개를 통해 구체적인 공모가와 주관사 평가를 확인해야 합니다. 만약 상장 후 주가가 적정 가치 대비 30~40% 이상 하락하는 시점이 온다면 분할 매수를 고려하거나, <span class=\"text-cyan-300 font-semibold\">스페이스X</span> IPO로 인한 산업 전체 리레이팅 효과를 노려 우주항공 ETF에 간접 투자하는 방안도 유효할 수 있습니다."
   },
   "classification": {
     "primary_topic": "space",

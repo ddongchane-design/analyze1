@@ -8,25 +8,25 @@
     "thumbnail": "https://img.youtube.com/vi/AxXsOzux7zQ/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "유럽의 에너지 전환이 물리적 병목과 고비용 장벽에 부딪히자, 독일은 해상풍력 인허가 기간을 4년에서 1년으로 단축하는 초법적 신속 법안을 가결했습니다. 이는 재생에너지 인프라 구축의 급박함을 반증하며, 저가 패널 등 일반 제조업(하드웨어)을 장악한 중국과의 경쟁을 피해 전력망 안정화(Grid Stabilization) 및 가상발전소(VPP) 시스템 소프트웨어를 장악하려는 서방 기업(<span class=\"text-cyan-300 font-semibold\">지멘스</span>, <span class=\"text-cyan-300 font-semibold\">ABB</span> 등)의 고부가가치 시스템 베팅을 보여줍니다.",
+    "summary": "유럽의 <span class=\"text-amber-300 font-bold\">에너지 전환</span>이 물리적 병목과 고비용 장벽에 부딪히자, 독일은 해상풍력 인허가 기간을 4년에서 1년으로 단축하는 초법적 신속 법안을 가결했습니다. 이는 <span class=\"text-amber-300 font-bold\">재생에너지</span> 인프라 구축의 급박함을 반증하며, 저가 패널 등 일반 제조업(하드웨어)을 장악한 <span class=\"text-violet-300 font-medium\">중국</span>과의 경쟁을 피해 전력망 안정화(Grid Stabilization) 및 <span class=\"text-amber-300 font-bold\">가상발전소</span>(VPP) 시스템 소프트웨어를 장악하려는 서방 기업(<span class=\"text-cyan-300 font-semibold\">지멘스</span>, <span class=\"text-cyan-300 font-semibold\">ABB</span> 등)의 고부가가치 시스템 베팅을 보여줍니다.",
     "key_claims": [
-      "독일은 원전 폐기 이후 치솟는 소매 전기료 고통을 재생에너지의 급속 보급을 통한 원료비 제로(0)화로 돌파하고자 한다.",
-      "태양광 패널 등 범용 하드웨어 제조는 중국이 압도하고 있으나, 수백만 분산 전원을 통합 관리하는 전력망 관리 하드웨어 및 소프트웨어 분야는 안보 이슈로 중국 침투가 불가능하다.",
-      "독일은 지붕 태양광과 가정용 ESS 네트워크를 VPP(가상발전소) 주체로 활용하여 실시간 전력 거래 및 다이내믹 프라이싱을 고도화하고 있다."
+      "독일은 원전 폐기 이후 치솟는 소매 전기료 고통을 <span class=\"text-amber-300 font-bold\">재생에너지</span>의 급속 보급을 통한 원료비 제로(0)화로 돌파하고자 한다.",
+      "태양광 패널 등 범용 하드웨어 제조는 <span class=\"text-violet-300 font-medium\">중국</span>이 압도하고 있으나, 수백만 분산 전원을 통합 관리하는 전력망 관리 하드웨어 및 소프트웨어 분야는 안보 이슈로 <span class=\"text-violet-300 font-medium\">중국</span> 침투가 불가능하다.",
+      "독일은 지붕 태양광과 가정용 ESS 네트워크를 VPP(<span class=\"text-amber-300 font-bold\">가상발전소</span>) 주체로 활용하여 실시간 전력 거래 및 다이내믹 프라이싱을 고도화하고 있다."
     ],
     "data_points": [
       "독일 해상풍력 인허가 심사 기간 단축 법안: 기존 4년에서 1년으로 대폭 단축 가결",
       "독일의 루프탑 태양광 보급률: 한국 대비 약 20배 수준의 고밀도 보급"
     ],
     "signal": "bullish",
-    "signal_reason": "송배전망의 급격한 노후화와 재생에너지 전력 불안정성으로 인해, 전력망 안정화 제어 솔루션 및 에너지 저장 장치(ESS) 인프라 기업들의 장기 이익 성장세가 매우 뚜렷합니다.",
+    "signal_reason": "송배전망의 급격한 노후화와 <span class=\"text-amber-300 font-bold\">재생에너지</span> 전력 불안정성으로 인해, 전력망 안정화 제어 솔루션 및 에너지 저장 장치(ESS) 인프라 기업들의 장기 이익 성장세가 매우 뚜렷합니다.",
     "key_companies": [
       "지멘스",
       "ABB",
       "효성중공업",
       "LS일렉트릭"
     ],
-    "insight": "태양광 패널 제조 단가 싸움에서 중국에 패배한 서방 국가들은 '전력 시스템 제어 및 안정화 소프트웨어'라는 안보 장벽 뒤에 숨은 캐시카우 산업에 올인하고 있습니다. 재생에너지가 늘어날수록 전력망 난이도가 기하급수적으로 올라가며, 전력 공급망 전체를 최적화하는 VPP 솔루션과 초고압 송전 시스템을 쥔 자들이 최후의 승자가 될 것입니다.",
+    "insight": "태양광 패널 제조 단가 싸움에서 <span class=\"text-violet-300 font-medium\">중국</span>에 패배한 서방 국가들은 '전력 시스템 제어 및 안정화 소프트웨어'라는 안보 장벽 뒤에 숨은 캐시카우 산업에 올인하고 있습니다. <span class=\"text-amber-300 font-bold\">재생에너지</span>가 늘어날수록 전력망 난이도가 기하급수적으로 올라가며, 전력 공급망 전체를 최적화하는 VPP 솔루션과 초고압 송전 시스템을 쥔 자들이 최후의 승자가 될 것입니다.",
     "action_point": "단순 신재생 발전(태양광/풍력) 업체 투자보다, 국가적 인프라 투자의 본질인 전력망 안정화 핵심 기기 제조사(초고압 변압기 등) 및 스마트 그리드 관리 플랫폼 기업에 압도적인 비중을 두어야 합니다."
   },
   "classification": {

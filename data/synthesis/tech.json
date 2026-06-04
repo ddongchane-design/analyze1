@@ -1,7 +1,7 @@
 {
-  "cross_insight": "글로벌 빅테크들의 AI 인프라 구축을 위한 설비투자 경쟁이 가속화되는 가운데, 독점적 지위를 견제하려는 독자 칩(ASIC) 공동 개발 루머(구글-마벨-인텔)가 부각되었습니다. 미국의 대중 반도체 장비 수출 통제로 중국의 독자 3D 칩 적층 시도는 수율 저하(20% 수준)에 막혀 격차가 지속되고 있습니다.",
+  "cross_insight": "글로벌 빅테크들의 AI 인프라 구축을 위한 설비투자 경쟁이 가속화되는 가운데, 독점적 지위를 견제하려는 독자 칩(ASIC) 공동 개발 루머(<span class=\"text-cyan-300 font-semibold\">구글</span>-<span class=\"text-cyan-300 font-semibold\">마벨</span>-<span class=\"text-cyan-300 font-semibold\">인텔</span>)가 부각되었습니다. 미국의 <span class=\"text-violet-300 font-medium\">대중</span> <span class=\"text-cyan-300 font-semibold\">반도체</span> 장비 수출 통제로 <span class=\"text-violet-300 font-medium\">중국</span>의 독자 3D 칩 적층 시도는 <span class=\"text-rose-400 font-medium\">수율 저하</span>(20% 수준)에 막혀 격차가 지속되고 있습니다.",
   "consensus": "bullish",
-  "divergence": "엔비디아 일극 체제 유지 여부와 빅테크 자체 칩 전환 속도 및 파운드리 다변화(인텔 18A 공정 신뢰성)에 대한 시각 차이가 존재합니다.",
+  "divergence": "엔비디아 일극 체제 유지 여부와 빅테크 자체 칩 전환 속도 및 파운드리 다변화(<span class=\"text-cyan-300 font-semibold\">인텔</span> 18A 공정 신뢰성)에 대한 시각 차이가 존재합니다.",
   "key_themes": [
     "빅테크 AI CAPEX 확장",
     "주문형 반도체(ASIC) 협업",

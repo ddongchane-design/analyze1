@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/ooyhI2HDUY8/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "<span class=\"text-cyan-300 font-semibold\">구글</span>이 AI 데이터센터 설비투자 재원 확보를 위해 부채 대신 주주 지분이 희석되는 $800억 규모 대규모 유상증자 결정을 내렸습니다. 이례적인 주식 발행 딜에 워런 버핏의 후계자 그렉 아벨이 이끄는 <span class=\"text-cyan-300 font-semibold\">버크셔 해서웨이</span>가 $100억 규모 참여 의사를 밝히며 신뢰를 더했고, 대외적으로는 미국의 5월 구인 건수(JOLTS) 상승으로 견조한 경기 연착륙 기대감이 높아졌습니다. 한편, 미국의 반도체 수출 통제 속에서 <span class=\"text-cyan-300 font-semibold\">화웨이</span>가 칩을 겹쳐 쌓는 3D 스택 공법을 대안으로 제시했으나, <span class=\"text-cyan-300 font-semibold\">ASML</span> 장비 부족으로 인한 수율 저하(20% 수준) 극복이 불가능하다는 보도가 나왔습니다.",
+    "summary": "<span class=\"text-cyan-300 font-semibold\">구글</span>이 AI 데이터센터 설비투자 재원 확보를 위해 부채 대신 주주 지분이 희석되는 $800억 규모 대규모 유상증자 결정을 내렸습니다. 이례적인 주식 발행 딜에 워런 버핏의 후계자 그렉 아벨이 이끄는 <span class=\"text-cyan-300 font-semibold\">버크셔 해서웨이</span>가 $100억 규모 참여 의사를 밝히며 신뢰를 더했고, 대외적으로는 미국의 5월 구인 건수(JOLTS) 상승으로 견조한 경기 연착륙 기대감이 높아졌습니다. 한편, 미국의 <span class=\"text-cyan-300 font-semibold\">반도체</span> 수출 통제 속에서 <span class=\"text-cyan-300 font-semibold\">화웨이</span>가 칩을 겹쳐 쌓는 3D 스택 공법을 대안으로 제시했으나, <span class=\"text-cyan-300 font-semibold\">ASML</span> 장비 부족으로 인한 <span class=\"text-rose-400 font-medium\">수율 저하</span>(20% 수준) 극복이 불가능하다는 보도가 나왔습니다.",
     "key_claims": [
-      "구글의 $800억 유상증자는 원금 상환 부담을 없애고 AI 투자 속도전을 벌이려는 빅테크들의 자본 조달 패러다임 변화를 의미한다.",
-      "버크셔 해서웨이는 구글 증자 참여와 별개로, 주택 시장 부족 리스크에 대응해 주택 건설사 테일러 모리슨을 68억 달러에 전격 인수(PER 7배 수준의 가치 투자)했다.",
-      "중국 화웨이의 3D 반도체 패키징 적층 기술은 고급 리소그래피(ASML EUV) 장비 규제 회복을 위한 고육지책이며, 20% 수준의 극악의 수율 장벽에 가로막혀 있다."
+      "<span class=\"text-cyan-300 font-semibold\">구글</span>의 $800억 유상증자는 원금 상환 부담을 없애고 AI 투자 속도전을 벌이려는 빅테크들의 자본 조달 패러다임 변화를 의미한다.",
+      "<span class=\"text-cyan-300 font-semibold\">버크셔 해서웨이</span>는 <span class=\"text-cyan-300 font-semibold\">구글</span> 증자 참여와 별개로, 주택 시장 부족 <span class=\"text-rose-400 font-medium\">리스크</span>에 대응해 주택 건설사 테일러 모리슨을 68억 달러에 전격 인수(PER 7배 수준의 가치 투자)했다.",
+      "<span class=\"text-violet-300 font-medium\">중국</span> <span class=\"text-cyan-300 font-semibold\">화웨이</span>의 3D <span class=\"text-cyan-300 font-semibold\">반도체</span> 패키징 적층 기술은 고급 리소그래피(<span class=\"text-cyan-300 font-semibold\">ASML</span> EUV) 장비 규제 회복을 위한 고육지책이며, 20% 수준의 극악의 <span class=\"text-rose-400 font-medium\">수율</span> 장벽에 가로막혀 있다."
     ],
     "data_points": [
       "구글(알파벳) 유상증자 조달 규모: 800억 달러 (이 중 버크셔 해서웨이가 100억 달러 전격 참여)",
@@ -20,7 +20,7 @@
       "화웨이 신형 칩 수율: 약 20% 수준으로 불량률이 80%에 달함"
     ],
     "signal": "bullish",
-    "signal_reason": "빅테크들의 투자 딜에 버크셔 등 스마트머니가 역대급 현금을 꽂아주고 있으며, 견조한 고용 지표(JOLTS) 상승과 미국의 첨단 반도체 패권 격차가 중국의 수율 파국으로 확인되며 미 증시의 중장기 상승 동력을 뒷받침합니다.",
+    "signal_reason": "빅테크들의 투자 딜에 버크셔 등 스마트머니가 역대급 현금을 꽂아주고 있으며, 견조한 고용 지표(JOLTS) 상승과 미국의 첨단 <span class=\"text-cyan-300 font-semibold\">반도체</span> 패권 격차가 <span class=\"text-violet-300 font-medium\">중국</span>의 <span class=\"text-rose-400 font-medium\">수율</span> 파국으로 확인되며 미 증시의 중장기 상승 동력을 뒷받침합니다.",
     "key_companies": [
       "구글",
       "버크셔해서웨이",
@@ -28,8 +28,8 @@
       "화웨이",
       "ASML"
     ],
-    "insight": "구글의 증자는 자사주 매입에 안주하던 빅테크들이 '투자하지 않으면 죽는다'는 절박함에 주주 눈치를 보지 않고 행동함을 대변합니다. 중국 반도체 산업은 장비 규제로 인해 3D 스태킹 등 설계 우회로를 찾고 있으나, 누적 수율이 20%에서 추가 악화되는 공학적 한계에 봉착하여 실질적인 대량 생산 및 위협이 되지 못하고 있음이 드러났습니다.",
-    "action_point": "버핏의 발자취를 따라 저평가 주택 건설 등 견고한 미국의 자산 가치주에 동참하거나, 미국의 대중 제재로 장기적 수혜와 해자가 깊어지는 ASML, TSMC 등 독점적 테크 공급망 장장에 투자를 집중해야 합니다."
+    "insight": "<span class=\"text-cyan-300 font-semibold\">구글</span>의 증자는 자사주 매입에 안주하던 빅테크들이 '투자하지 않으면 죽는다'는 절박함에 주주 눈치를 보지 않고 행동함을 대변합니다. <span class=\"text-violet-300 font-medium\">중국</span> <span class=\"text-cyan-300 font-semibold\">반도체</span> 산업은 장비 규제로 인해 3D 스태킹 등 설계 우회로를 찾고 있으나, 누적 <span class=\"text-rose-400 font-medium\">수율</span>이 20%에서 추가 악화되는 공학적 한계에 봉착하여 실질적인 대량 생산 및 위협이 되지 못하고 있음이 드러났습니다.",
+    "action_point": "버핏의 발자취를 따라 저평가 주택 건설 등 견고한 미국의 자산 가치주에 동참하거나, 미국의 <span class=\"text-violet-300 font-medium\">대중</span> 제재로 장기적 수혜와 해자가 깊어지는 <span class=\"text-cyan-300 font-semibold\">ASML</span>, <span class=\"text-cyan-300 font-semibold\">TSMC</span> 등 독점적 테크 공급망 장장에 투자를 집중해야 합니다."
   },
   "classification": {
     "primary_topic": "stock",

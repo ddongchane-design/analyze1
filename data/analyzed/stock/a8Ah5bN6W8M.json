@@ -8,13 +8,13 @@
     "thumbnail": "https://img.youtube.com/vi/a8Ah5bN6W8M/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "AI 테마는 강세를 보이며 <span class=\"text-cyan-300 font-semibold\">엔비디아</span>의 GTC 타이페이 연설로 <span class=\"text-amber-300 font-bold\">AI PC 시대</span>가 가속화되고, <span class=\"text-cyan-300 font-semibold\">인텔/AMD/퀄컴</span>은 <span class=\"text-rose-400 font-medium\">경쟁 심화 우려</span>로 하락했습니다. 동시에 <span class=\"text-violet-300 font-medium\">미국-이란 갈등 심화</span> 및 이란 대통령 사임 소식으로 <span class=\"text-rose-400 font-medium\">유가가 4% 급등</span>하며 <span class=\"text-violet-300 font-medium\">지정학적 불안감</span>이 고조되고 있습니다. <span class=\"text-cyan-300 font-semibold\">골드만삭스</span>는 시장이 <span class=\"text-rose-400 font-medium\">'극도의 탐욕 국면'</span>에 진입했으며, <span class=\"text-rose-400 font-medium\">과열 신호들</span>이 랠리의 끝물을 시사한다고 <span class=\"text-rose-400 font-medium\">경고했습니다</span>.",
+    "summary": "AI 테마는 강세를 보이며 엔비디아의 GTC 타이페이 연설로 AI PC 시대가 가속화되고, <span class=\"text-cyan-300 font-semibold\">인텔</span>/AMD/퀄컴은 경쟁 심화 우려로 하락했습니다. 동시에 미국-<span class=\"text-violet-300 font-medium\">이란</span> 갈등 심화 및 <span class=\"text-violet-300 font-medium\">이란</span> 대통령 사임 소식으로 <span class=\"text-amber-300 font-bold\">유가</span>가 4% 급등하며 지정학적 불안감이 고조되고 있습니다. 골드만삭스는 시장이 '극도의 탐욕 국면'에 진입했으며, <span class=\"text-rose-400 font-medium\">과열</span> 신호들이 랠리의 끝물을 시사한다고 경고했습니다.",
     "key_claims": [
-      "시장은 <span class=\"text-amber-300 font-bold\">'걱정의 벽을 타고 오르는' 역설적인 상황</span>이 이어지며, <span class=\"text-rose-400 font-medium\">AI 관련 기술주만이 상승하는 극심한 쏠림 현상</span>을 보인다.",
-      "<span class=\"text-cyan-300 font-semibold\">엔비디아 젠슨황 CEO</span>의 GTC 타이페이 기조연설은 <span class=\"text-amber-300 font-bold\">AI PC 시대</span>를 열며 <span class=\"text-cyan-300 font-semibold\">엔비디아, 마이크로소프트</span> 및 소프트웨어 기업에 긍정적이나, <span class=\"text-cyan-300 font-semibold\">인텔, AMD, 퀄컴</span>에는 <span class=\"text-rose-400 font-medium\">경쟁 심화 우려</span>로 부정적이다.",
-      "<span class=\"text-violet-300 font-medium\">미국과 이란 간의 핵협상 교착 상태 지속</span>과 <span class=\"text-violet-300 font-medium\">이란 대통령의 사임</span>은 <span class=\"text-violet-300 font-medium\">이란 강경파의 권력 강화</span>를 시사하며, 이는 <span class=\"text-rose-400 font-medium\">협상 장기화와 유가 상승 압력</span>으로 작용한다.",
-      "<span class=\"text-cyan-300 font-semibold\">골드만삭스 마크 윌슨</span>은 시장이 콜/풋옵션 비율, 레버리지 ETF 자금 쏠림, 헤지펀드의 모멘텀 추종 등 <span class=\"text-rose-400 font-medium\">세 가지 과열 신호</span>로 <span class=\"text-rose-400 font-medium\">'극도의 탐욕 국면'</span>에 진입했으며, 이는 <span class=\"text-rose-400 font-medium\">랠리의 끝물 현상일 수 있다고 경고했다</span>.",
-      "<span class=\"text-cyan-300 font-semibold\">버크셔 해서웨이의 에이블 CEO</span>는 첫 대규모 승부수로 <span class=\"text-cyan-300 font-semibold\">주택 건설 업체(테일러 모리슨) 인수</span>를 단행하여 <span class=\"text-cyan-300 font-semibold\">주택 건설 섹터에 긍정적인 영향</span>을 미쳤다."
+      "시장은 '걱정의 벽을 타고 오르는' 역설적인 상황이 이어지며, AI 관련 기술주만이 상승하는 극심한 쏠림 현상을 보인다.",
+      "엔비디아 젠슨황 CEO의 GTC 타이페이 기조연설은 AI PC 시대를 열며 엔비디아, 마이크로소프트 및 소프트웨어 기업에 긍정적이나, <span class=\"text-cyan-300 font-semibold\">인텔</span>, AMD, 퀄컴에는 경쟁 심화 우려로 부정적이다.",
+      "미국과 <span class=\"text-violet-300 font-medium\">이란</span> 간의 핵협상 교착 상태 지속과 <span class=\"text-violet-300 font-medium\">이란</span> 대통령의 사임은 <span class=\"text-violet-300 font-medium\">이란</span> 강경파의 권력 강화를 시사하며, 이는 협상 장기화와 <span class=\"text-amber-300 font-bold\">유가 상승</span> 압력으로 작용한다.",
+      "골드만삭스 마크 윌슨은 시장이 콜/풋옵션 비율, 레버리지 ETF 자금 쏠림, 헤지펀드의 모멘텀 추종 등 세 가지 <span class=\"text-rose-400 font-medium\">과열</span> 신호로 '극도의 탐욕 국면'에 진입했으며, 이는 랠리의 끝물 현상일 수 있다고 경고했다.",
+      "<span class=\"text-cyan-300 font-semibold\">버크셔 해서웨이</span>의 에이블 CEO는 첫 대규모 승부수로 주택 건설 업체(테일러 모리슨) 인수를 단행하여 주택 건설 섹터에 긍정적인 영향을 미쳤다."
     ],
     "data_points": [
       "다우 0.3%, S&P 0.2%, 나스닥 0.2% 상승",
@@ -33,7 +33,7 @@
       "이란 동결 자산 규모 120억 달러"
     ],
     "signal": "bullish",
-    "signal_reason": "전반적인 시장 지수는 상승세를 유지하고 있으며, 특히 <span class=\"text-amber-300 font-bold\">AI 테마와 관련된 기술주들</span>이 시장을 견인하는 <span class=\"text-amber-300 font-bold\">강력한 모멘텀</span>을 보인다. <span class=\"text-cyan-300 font-semibold\">골드만삭스</span>의 <span class=\"text-rose-400 font-medium\">'탐욕' 경고</span>에도 불구하고 투자자들은 여전히 <span class=\"text-amber-300 font-bold\">위험 자산 선호 심리</span>를 보이며 매수 포지션을 유지하는 경향이 나타나고 있다.",
+    "signal_reason": "전반적인 시장 지수는 상승세를 유지하고 있으며, 특히 AI 테마와 관련된 기술주들이 시장을 견인하는 강력한 모멘텀을 보인다. 골드만삭스의 '탐욕' 경고에도 불구하고 투자자들은 여전히 <span class=\"text-rose-400 font-medium\">위험</span> 자산 선호 심리를 보이며 매수 포지션을 유지하는 경향이 나타나고 있다.",
     "key_companies": [
       "엔비디아",
       "마이크로소프트",
@@ -66,8 +66,8 @@
       "루멘텀 (Lumentum)",
       "SK 하이닉스 (SK Hynix)"
     ],
-    "insight": "현재 시장은 <span class=\"text-amber-300 font-bold\">AI 주도 성장</span>과 <span class=\"text-rose-400 font-medium\">과열 징후</span>, 그리고 <span class=\"text-violet-300 font-medium\">지정학적 불안정</span>이라는 상반된 요인들이 동시에 작용하는 <span class=\"text-rose-400 font-medium\">고도의 불확실성 국면</span>이다. <span class=\"text-amber-300 font-bold\">'AI만 행복한' 시장</span>의 <span class=\"text-rose-400 font-medium\">지속 가능성에 대한 의문</span>과 함께, <span class=\"text-rose-400 font-medium\">유가 상승 및 금리 압박</span>이 가중되고 있어 <span class=\"text-rose-400 font-medium\">기술주 랠리 외 다른 섹터의 취약성</span>이 부각되고 있다. 이는 투자자들이 <span class=\"text-rose-400 font-medium\">극단적인 포트폴리오 쏠림 현상</span>에 대한 경계를 늦추지 않으면서도, 단기적인 모멘텀을 추종하는 복합적인 심리가 지배하고 있음을 시사한다.",
-    "action_point": "투자자는 <span class=\"text-amber-300 font-bold\">AI 테마의 단기적 모멘텀</span>은 활용하되, <span class=\"text-cyan-300 font-semibold\">골드만삭스</span>가 제시한 <span class=\"text-rose-400 font-medium\">'극도의 탐욕' 신호</span>와 <span class=\"text-rose-400 font-medium\">높은 레버리지 ETF 쏠림 현상</span>을 인지하고 <span class=\"text-rose-400 font-medium\">과열 리스크</span>에 대비해야 한다. <span class=\"text-violet-300 font-medium\">미국-이란 갈등 심화</span>로 인한 <span class=\"text-rose-400 font-medium\">유가 상승이 인플레이션 및 금리 인상 압박으로 이어질 수 있으므로</span>, 매크로 지표와 기업 실적 발표를 면밀히 주시하며 <span class=\"text-rose-400 font-medium\">변동성 확대</span>에 대비한 <span class=\"text-rose-400 font-medium\">포트폴리오 다각화 및 위험 관리</span>가 필요하다."
+    "insight": "현재 시장은 AI 주도 성장과 <span class=\"text-rose-400 font-medium\">과열</span> 징후, 그리고 지정학적 불안정이라는 상반된 요인들이 동시에 작용하는 고도의 불확실성 국면이다. 'AI만 행복한' 시장의 지속 가능성에 대한 의문과 함께, <span class=\"text-amber-300 font-bold\">유가 상승</span> 및 금리 압박이 가중되고 있어 기술주 랠리 외 다른 섹터의 <span class=\"text-rose-400 font-medium\">취약성</span>이 부각되고 있다. 이는 투자자들이 극단적인 포트폴리오 쏠림 현상에 대한 경계를 늦추지 않으면서도, 단기적인 모멘텀을 추종하는 복합적인 심리가 지배하고 있음을 시사한다.",
+    "action_point": "투자자는 AI 테마의 단기적 모멘텀은 활용하되, 골드만삭스가 제시한 '극도의 탐욕' 신호와 높은 레버리지 ETF 쏠림 현상을 인지하고 <span class=\"text-rose-400 font-medium\">과열</span> <span class=\"text-rose-400 font-medium\">리스크</span>에 대비해야 한다. 미국-<span class=\"text-violet-300 font-medium\">이란</span> 갈등 심화로 인한 <span class=\"text-amber-300 font-bold\">유가 상승</span>이 <span class=\"text-amber-300 font-bold\">인플레이션</span> 및 금리 인상 압박으로 이어질 수 있으므로, 매크로 지표와 기업 실적 발표를 면밀히 주시하며 변동성 확대에 대비한 포트폴리오 다각화 및 <span class=\"text-rose-400 font-medium\">위험</span> 관리가 필요하다."
   },
   "classification": {
     "primary_topic": "stock",

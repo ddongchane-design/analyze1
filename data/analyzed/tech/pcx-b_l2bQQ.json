@@ -8,25 +8,25 @@
     "thumbnail": "https://img.youtube.com/vi/pcx-b_l2bQQ/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "글로벌 빅테크 기업들이 AI 리더십을 잃지 않기 위해 유상증자까지 단행하며 설비투자(CAPEX)를 늘리는 '기호지세(호랑이 등에 탄 형국)'의 죄수의 딜레마에 처해 있습니다. 이는 메모리 및 AI 반도체 공급망을 장악한 한국 반도체 기업들에 사상 최대의 실적 수혜 환경을 제공하고 있으며, 코스피 지수의 장기 상승 잠재력을 대폭 끌어올리고 있습니다.",
+    "summary": "글로벌 빅테크 기업들이 AI 리더십을 잃지 않기 위해 유상증자까지 단행하며 설비투자(CAPEX)를 늘리는 '기호지세(호랑이 등에 탄 형국)'의 죄수의 딜레마에 처해 있습니다. 이는 메모리 및 <span class=\"text-cyan-300 font-semibold\">AI 반도체</span> 공급망을 장악한 한국 <span class=\"text-cyan-300 font-semibold\">반도체</span> 기업들에 사상 최대의 실적 수혜 환경을 제공하고 있으며, 코스피 지수의 장기 상승 잠재력을 대폭 끌어올리고 있습니다.",
     "key_claims": [
-      "구글, 마이크로소프트 등 빅테크들은 주주 희석 우려에도 불구하고 생존을 위해 대규모 자금 조달을 통한 AI 인프라 투자를 지속할 수밖에 없다.",
-      "메모리 반도체(HBM 및 고용량 DDR5) 가격 상승세와 빅테크의 공격적인 주문 증가로 국내 반도체 양사의 2분기 및 하반기 실적 전망치가 가파르게 상향되고 있다.",
-      "코스피 지수가 역사적 고점을 뚫고 장기 상승하기 위해서는 반도체 업종의 이익 기여도가 절대적인 비중을 차지해야 한다."
+      "<span class=\"text-cyan-300 font-semibold\">구글</span>, 마이크로소프트 등 빅테크들은 주주 희석 우려에도 불구하고 생존을 위해 대규모 자금 조달을 통한 AI 인프라 투자를 지속할 수밖에 없다.",
+      "<span class=\"text-cyan-300 font-semibold\">메모리 반도체</span>(<span class=\"text-cyan-300 font-semibold\">HBM</span> 및 고용량 DDR5) 가격 상승세와 빅테크의 공격적인 주문 증가로 국내 <span class=\"text-cyan-300 font-semibold\">반도체</span> 양사의 2분기 및 하반기 실적 전망치가 가파르게 상향되고 있다.",
+      "코스피 지수가 역사적 고점을 뚫고 장기 상승하기 위해서는 <span class=\"text-cyan-300 font-semibold\">반도체</span> 업종의 이익 기여도가 절대적인 비중을 차지해야 한다."
     ],
     "data_points": [
       "구글의 AI 인프라 전용 자금 조달 계획 규모: 800억 달러",
       "메모리 고정거래가격 상승률 및 국내 HBM 점유율의 견조함 지속"
     ],
     "signal": "bullish",
-    "signal_reason": "빅테크의 무한 설비투자 경쟁은 글로벌 반도체 장비 및 메모리 밸류체인에 장기적이고 확실한 매출 성장을 보장하는 최고의 촉매제입니다.",
+    "signal_reason": "빅테크의 무한 설비투자 경쟁은 글로벌 <span class=\"text-cyan-300 font-semibold\">반도체</span> 장비 및 메모리 밸류체인에 장기적이고 확실한 매출 성장을 보장하는 최고의 촉매제입니다.",
     "key_companies": [
       "삼성전자",
       "SK하이닉스",
       "구글"
     ],
-    "insight": "빅테크들의 CAPEX 투자는 이제 단순한 선택의 영역이 아니라 생존 게임입니다. 투자 규모가 커질수록 한국의 메모리 반도체 생태계(HBM, 고용량 eSSD 등)는 단가 협상력과 공급 지배력을 높여, 지수의 지속적인 우상향을 견인할 견고한 실적 해자를 확보하게 됩니다.",
-    "action_point": "단기적인 환율 급등이나 거시 지표 흔들림으로 인한 반도체 대형주의 조정 발생 시, 이를 비중 확대 기회로 적극 활용하여 포트폴리오의 주축으로 유지해야 합니다."
+    "insight": "빅테크들의 CAPEX 투자는 이제 단순한 선택의 영역이 아니라 생존 게임입니다. 투자 규모가 커질수록 한국의 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span> 생태계(<span class=\"text-cyan-300 font-semibold\">HBM</span>, 고용량 eSSD 등)는 단가 협상력과 공급 지배력을 높여, 지수의 지속적인 우상향을 견인할 견고한 실적 해자를 확보하게 됩니다.",
+    "action_point": "단기적인 <span class=\"text-amber-300 font-bold\">환율</span> 급등이나 거시 지표 흔들림으로 인한 <span class=\"text-cyan-300 font-semibold\">반도체</span> 대형주의 <span class=\"text-rose-400 font-medium\">조정</span> 발생 시, 이를 비중 확대 기회로 적극 활용하여 포트폴리오의 주축으로 유지해야 합니다."
   },
   "classification": {
     "primary_topic": "tech",
