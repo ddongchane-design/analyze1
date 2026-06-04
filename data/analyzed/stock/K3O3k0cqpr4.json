@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "K3O3k0cqpr4",
+    "title": "삼전닉스 쉬어간다고 끝난 건 아닙니다. 조정장에서 봐야 할 진짜 신호ㅣ정프로, 박가영, 유창희 [주린이 구조대]",
+    "published": "2026-06-04T00:00:00+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=K3O3k0cqpr4",
+    "thumbnail": "https://img.youtube.com/vi/K3O3k0cqpr4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">삼성전자</span>와 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 등 <span class=\"text-cyan-300 font-semibold\">반도체</span> 투톱의 일시적인 <span class=\"text-rose-400 font-medium\">조정</span>세는 펀더멘탈 훼손이 아닌, 단기 <span class=\"text-rose-400 font-medium\">과열</span> 해소 및 미국 빅테크 변동성에 동조한 일시적 매물 출회입니다. 일반 서버 D램 가격의 강력한 반등과 설비투자 로드맵을 신뢰할 때, <span class=\"text-rose-400 font-medium\">조정</span> 구간에서 봐야 할 핵심 신호는 <span class=\"text-cyan-300 font-semibold\">HBM</span> 장비 수주 지속성입니다.",
+    "key_claims": [
+      "<span class=\"text-cyan-300 font-semibold\">반도체</span> 대형주의 단기 <span class=\"text-rose-400 font-medium\">조정</span>은 대세 상승 추세 속의 자연스러운 5일선/10일선 이격 메우기 과정이다.",
+      "일반 서버 D램 및 고용량 모바일 칩의 공급 부족으로 국내 대형 <span class=\"text-cyan-300 font-semibold\">반도체</span>사의 2분기 호실적 컨센서스는 계속 상향되고 있다.",
+      "후공정에만 한정되던 수혜가 키옥시아 투자 및 하이닉스 증설을 바탕으로 전공정 핵심 장비사로의 확산이 뚜렷하다."
+    ],
+    "data_points": [
+      "삼성전자/SK하이닉스 주요 이동평균선 격차 축소세 지속"
+    ],
+    "signal": "bullish",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">메모리 반도체</span> 단가와 수요의 우상향 흐름이 단단하고, 설비투자가 실제 집행되기 시작하여 <span class=\"text-rose-400 font-medium\">조정</span> 시 저가 분할 매수 메리트가 높습니다.",
+    "key_companies": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "insight": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 주가의 멈춤을 두려워할 필요가 없습니다. 본질인 어닝 가시성(DRAM 가격 상승세)과 대규모 설비 증설 로드맵이 실현되고 있으므로, 수급 이탈 노이즈는 좋은 저가 포지션 구축 기회입니다.",
+    "action_point": "일시적 <span class=\"text-rose-400 font-medium\">급락</span> 시 대형 <span class=\"text-cyan-300 font-semibold\">반도체</span> 지분을 안정적으로 모아가고, 수주 확장이 확인되는 전공정/후공정 대표 소부장 장비주들의 포트폴리오를 유지해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "반도체조정",
+      "이격메우기",
+      "DRAM어닝",
+      "설비투자",
+      "소부장수혜",
+      "삼프로TV"
+    ]
+  }
+}

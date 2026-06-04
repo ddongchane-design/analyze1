@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "f20kF9HLqeU",
+    "title": "벽돌보다 태양광이 싸다 유럽의 '기괴한 담장' (권효재 대표)",
+    "published": "2026-06-05T00:00:00+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=f20kF9HLqeU",
+    "thumbnail": "https://img.youtube.com/vi/f20kF9HLqeU/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "유럽에서 <span class=\"text-violet-300 font-medium\">중국</span>산 태양광 패널 공급 과잉으로 인해 패널 단가가 벽돌보다 저렴해져, 태양광 패널을 정원 담장이나 벽면에 그대로 박아 넣는 '태양광 담장' 기현상과 이로 인한 전력 계통 수용성 문제를 간략히 짚어봅니다.",
+    "key_claims": [
+      "<span class=\"text-violet-300 font-medium\">중국</span> 기업들의 태양광 모듈 덤핑으로 가격이 폭락하여 일반 건축 자재보다 저렴하게 소비되는 전도 현상이 발생했다.",
+      "무분별한 개인 태양광 보급은 한낮 송전망 전압 불균형 등 전력망 안정성 위기를 심화시키고 있다."
+    ],
+    "data_points": [
+      "중국산 범용 태양광 모듈 단가의 지속적 가격 하향세 지속"
+    ],
+    "signal": "neutral",
+    "signal_reason": "태양광 패널 시장 자체의 마진은 <span class=\"text-violet-300 font-medium\">중국</span>의 공급 과잉으로 박살 났으나, 이로 인해 송배전망 그리드 통제 및 ESS 전력 안정화 장비에 대한 수요는 더욱 커지고 있습니다.",
+    "key_companies": [
+      "지멘스",
+      "ABB"
+    ],
+    "insight": "하드웨어 단가의 폭락은 시스템 복잡성을 급격히 끌어올리며, 최후의 마진은 시스템을 최적화하는 제어 기기와 송전 안보에 수렴합니다.",
+    "action_point": "태양광 패널 제조사 투자는 피하고, 전력망 과부하를 해소할 배전 기기 및 송전망 관리 솔루션 선도주에 대한 투자 포커스를 유지해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "energy",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "태양광패널과잉",
+      "태양광담장",
+      "유럽전력망",
+      "그리드제어",
+      "중국공급과잉",
+      "언더스탠딩"
+    ]
+  }
+}

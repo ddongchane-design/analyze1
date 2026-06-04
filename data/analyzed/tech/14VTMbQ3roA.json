@@ -1,0 +1,40 @@
+{
+  "video": {
+    "id": "14VTMbQ3roA",
+    "title": "최태원 회장 소름돋는 인터뷰 ㄷㄷ",
+    "published": "2026-06-05T00:00:00+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=14VTMbQ3roA",
+    "thumbnail": "https://img.youtube.com/vi/14VTMbQ3roA/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "최태원 SK그룹 회장의 최근 외신/대외 인터뷰를 통해 본 <span class=\"text-cyan-300 font-semibold\">HBM</span> 및 AI 메모리 인프라 부문의 장기 증설 로드맵과 미래 경영 비전을 간략히 조명합니다.",
+    "key_claims": [
+      "<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>는 5개년 로드맵 하에 AI 가속기 웨이퍼 캐파를 공격적으로 증설할 준비가 완료되었다.",
+      "글로벌 빅테크의 요청에 신속히 대응할 수 있는 생산 구조 구축을 최우선으로 둔다."
+    ],
+    "data_points": [
+      "SK그룹의 향후 5개년 반도체 대규모 설비 투자 방침"
+    ],
+    "signal": "bullish",
+    "signal_reason": "그룹 최고 의사 결정권자의 강력한 <span class=\"text-cyan-300 font-semibold\">HBM</span> 투자 지속 지지 의사는 <span class=\"text-cyan-300 font-semibold\">반도체</span> 벨류체인의 장기 성장 신뢰도를 높여줍니다.",
+    "key_companies": [
+      "SK하이닉스"
+    ],
+    "insight": "경쟁사 대비 선제적인 투자 유연성과 로드맵 제시가 SK의 지배력을 지탱하고 있습니다.",
+    "action_point": "<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 중심의 <span class=\"text-cyan-300 font-semibold\">HBM</span> 장비 수주 벨류체인 핵심 우량주 비중을 유지해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "최태원",
+      "SK하이닉스",
+      "HBM증설",
+      "AI인프라",
+      "경영비전"
+    ]
+  }
+}

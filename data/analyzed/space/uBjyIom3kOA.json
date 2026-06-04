@@ -1,0 +1,49 @@
+{
+  "video": {
+    "id": "uBjyIom3kOA",
+    "title": "스페이스X 때문에 들썩이는 우주항공주, 지금 주목해야 할 종목은?ㅣ정프로, 박가영, 최창규 [주린이 구조대]",
+    "published": "2026-06-04T00:00:00+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=uBjyIom3kOA",
+    "thumbnail": "https://img.youtube.com/vi/uBjyIom3kOA/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>가 $135 고정 공모가로 IPO 로드쇼에 들어가며 시가총액 1.75조~2조 달러(한화 약 2,500조 원 이상) 가치 평가 논의가 본격화되었습니다. 나스닥, MSCI, S&P 500 등 글로벌 주요 지수 편입에 따른 패시브 인덱스 추종 자금(약 50조~100조 원 예상)의 무조건적 매수세 유입이 전망되며, 미국 개인 투자자들에게 20~30% 배정하는 이례적 리크루팅이 진행 중입니다.",
+    "key_claims": [
+      "<span class=\"text-cyan-300 font-semibold\">스페이스X</span> 상장 시 패시브 인덱스 자금(MSCI, FTSE, S&P 500 등)의 강제 매수가 50조~100조 원 규모로 발생해 타 자산의 유동성을 청소기처럼 흡수할 것이다.",
+      "현재 영업이익은 <span class=\"text-cyan-300 font-semibold\">스타링크</span> 및 발사체 감가상각과 대규모 CAPEX로 마이너스 상태이나, 감가상각 전 <span class=\"text-rose-400 font-medium\">조정</span> EBITDA는 65억 달러 이상으로 현금 창출력이 검증되었다.",
+      "2조 달러 시가총액은 8년치 베스트 시나리오(발사 실패 제로, <span class=\"text-cyan-300 font-semibold\">스타링크</span> 침투율 폭증)를 선반영한 멀티플로 다소 밸류에이션 부담이 있다."
+    ],
+    "data_points": [
+      "스페이스X IPO 예정 공모가: 주당 135달러 고정 제시",
+      "스페이스X 시가총액 목표 범위: 1.75조 달러 ~ 2조 달러 수준",
+      "2025년 기준 매출액: 186억 달러 (EBITDA 조정치는 약 65.8억 달러 기록)",
+      "공모 물량 중 리테일(개인) 배정 비율: 이례적인 20~30% 배정"
+    ],
+    "signal": "bullish",
+    "signal_reason": "글로벌 상장 지수 펀드들의 대규모 패시브 의무 유입세와 독보적인 민간 우주 통신(<span class=\"text-cyan-300 font-semibold\">스타링크</span>) 지배력의 가치 입증이 우주항공 섹터 전반에 장기 성장 에너지를 불어넣고 있습니다.",
+    "key_companies": [
+      "스페이스X",
+      "테슬라"
+    ],
+    "insight": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span> 상장은 현대 금융 역사상 가장 큰 우주인프라 독점 플랫폼의 상장입니다. 지수 편입에 따른 패시브 매수 자금 규모가 50조 원을 넘기 때문에, 글로벌 기관들은 이미 타 자산(신흥국 주식 등)을 덜어내고 <span class=\"text-cyan-300 font-semibold\">스페이스X</span> 매입을 위한 달러 현금 실탄을 장전하고 있습니다.",
+    "action_point": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span> IPO로 인해 수급 수혜 및 프록시 프리미엄을 공유할 국내 우주항공 안테나 및 위성 통신용 핵심 기자재 수출 강소기업들을 발굴하여 장기 보유해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "space",
+    "secondary_topics": [
+      "stock",
+      "tech"
+    ],
+    "tags": [
+      "스페이스X",
+      "스타링크",
+      "IPO공모가",
+      "패시브자금",
+      "지수편입",
+      "밸류에이션논란",
+      "EBITDA",
+      "삼프로TV"
+    ]
+  }
+}

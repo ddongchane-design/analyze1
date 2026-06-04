@@ -1,0 +1,40 @@
+{
+  "video": {
+    "id": "1nsjC0_gTOA",
+    "title": "간담이 서늘해지는 회장님 돌발 질문 ㄷㄷ",
+    "published": "2026-06-05T00:00:00+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=1nsjC0_gTOA",
+    "thumbnail": "https://img.youtube.com/vi/1nsjC0_gTOA/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "최태원 회장의 경영 지침과 돌발 인터뷰 상황을 통해 본 조직적 유연성 및 대미 통상 정책 대처의 필요성을 다룹니다.",
+    "key_claims": [
+      "변화하는 글로벌 무역 마찰 속에서 <span class=\"text-cyan-300 font-semibold\">반도체</span> 공급망 <span class=\"text-rose-400 font-medium\">리스크</span>에 민첩하게 대처해야 한다.",
+      "R&D 기술력 축적을 넘어 수급의 정치학을 이해하는 조직적 민첩성이 생존 요건이다."
+    ],
+    "data_points": [
+      "SK그룹 반도체 수급 위기 대응 매뉴얼 및 전략 흐름"
+    ],
+    "signal": "neutral",
+    "signal_reason": "대외 지정학 통상 <span class=\"text-rose-400 font-medium\">리스크</span>에 대응하려는 국내 기업의 의지를 단편적으로 보여줍니다.",
+    "key_companies": [
+      "SK하이닉스"
+    ],
+    "insight": "기술 개발 이상으로 공급망 안보 및 미국의 무역 장벽(보복 관세 등)을 헷징하려는 지정학적 전략 수립이 중요합니다.",
+    "action_point": "단기 경영 잡음보다 장기적인 대미 현지 생산 전략 및 수주 유효성을 관망해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "최태원",
+      "공급망리스크",
+      "의사결정",
+      "대미무역",
+      "SK그룹"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "pRrxRPnY9Oc",
+    "title": "삼성전자 번 돈 우리도 나눠달라. 불붙은 '초과이익 배분' 논란 (언더스탠딩 백종훈 기자)｜2026년 06월 02일 녹화",
+    "published": "2026-06-04T07:55:00+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=pRrxRPnY9Oc",
+    "thumbnail": "https://img.youtube.com/vi/pRrxRPnY9Oc/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">삼성전자</span> 노조의 파업과 임금 협상 국면 속에서, 고용노동부 장관이 제안한 '초과 이익의 원·하청 상생 연대 임금 배분' 화두를 둘러싸고 국가적 정책 논쟁이 격화되고 있습니다. 산업통상자원부 장관과 학계는 초격차 유지를 위해 <span class=\"text-cyan-300 font-semibold\">반도체</span> 이익의 70%를 R&D 및 설비에 재투자해야 한다고 맞서며, 노동 사회 정책과 국가 산업 패권 전략이 정면 충돌하고 있습니다.",
+    "key_claims": [
+      "노동부 장관은 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>의 거대 이익이 정부의 대규모 세액 공제(K-칩스법 등)와 공공 인프라(용수/전력) 지원의 합작품이므로 협력사와 분배해야 한다고 제안했다.",
+      "산업부 장관과 학계는 글로벌 <span class=\"text-cyan-300 font-semibold\">반도체</span> 속도전 상황에서 이윤 분배에 치중하는 배분주의는 기술 초격차를 잃게 만드는 자멸책이라며 즉각 반대했다.",
+      "노조의 파업 영향과 원칙 없는 보너스 배분 관행이 대기업 내부 정규직과 협력사 근로자 간의 임금 양극화 논쟁으로 비화되었다."
+    ],
+    "data_points": [
+      "반도체 세액 공제 비율: 최대 20% 수준 (K-칩스법 기준)",
+      "반도체 이익의 재투자 권고 비율: 김정호 교수 기준 최소 70% 이상 (R&D 및 설비)"
+    ],
+    "signal": "neutral",
+    "signal_reason": "이윤 분배 논란은 국내 대기업의 비용 구조 및 투자 집중도를 떨어뜨릴 수 있는 잠재적 <span class=\"text-rose-400 font-medium\">리스크</span> 요인이 될 수 있어 중립적인 관찰이 요구됩니다.",
+    "key_companies": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "insight": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 이익은 상수가 아닌 글로벌 치킨 게임과 혁신의 결과입니다. 세액 공제를 빌미로 기업의 사적 이윤을 연대 임금 형태로 사회화하려는 정책 시도는 <span class=\"text-cyan-300 font-semibold\">반도체</span> 경쟁 안보라는 거대한 패권 국면과 충돌을 피할 수 없습니다.",
+    "action_point": "임금 협상 및 파업 장기화에 따른 단기 수급 차질 여부와 국내 <span class=\"text-cyan-300 font-semibold\">반도체</span> 대기업들의 설비 투자 집행률 변동 가능성을 추적하며 포지션을 관리해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "삼성전자파업",
+      "초과이익배분",
+      "연대임금",
+      "노동부장관",
+      "재투자비율",
+      "반도체초격차",
+      "언더스탠딩"
+    ]
+  }
+}

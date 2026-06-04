@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "DiJGYBMPLtM",
+    "title": "“EUV 장비 없이 1.4나노 성공?” 美 규제에 화웨이가 던진 승부수 #교양이를부탁해",
+    "published": "2026-06-05T00:00:00+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=DiJGYBMPLtM",
+    "thumbnail": "https://img.youtube.com/vi/DiJGYBMPLtM/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">화웨이</span>가 네덜란드 <span class=\"text-cyan-300 font-semibold\">ASML</span>의 최첨단 노광 장비(EUV) 수출 제재를 피하기 위해 독자적인 3D 칩 스태킹(적층 및 다차원 본딩) 방식을 도입해 1.4나노급 성능 돌파를 시도하고 있으나, 극악의 누적 <span class=\"text-rose-400 font-medium\">수율</span> 문제로 양산 한계에 봉착해 있음을 분석합니다.",
+    "key_claims": [
+      "<span class=\"text-violet-300 font-medium\">중국</span>은 미국의 EUV 장비 차단에 대응하여 칩을 위로 겹쳐 쌓아 신호 거리를 단축하는 3D 스택 패키징 기술을 우회로로 삼았다.",
+      "장비 한계로 인한 개별 칩의 <span class=\"text-rose-400 font-medium\">수율</span>(20% 수준)이 낮아, 두 개 이상을 적층하는 본딩 공정까지 거칠 경우 완제품의 실제 누적 <span class=\"text-rose-400 font-medium\">수율</span>은 10% 미만으로 떨어지는 엔지니어링 병목에 갇혀 있다."
+    ],
+    "data_points": [
+      "화웨이 독자 반도체 시제품 개별 수율 수준: 약 20% 수준 (불량률 80%)",
+      "3D 패키징 적층 시 완제품 예상 수율 수준: 10% 이하 추정"
+    ],
+    "signal": "bearish",
+    "signal_reason": "<span class=\"text-violet-300 font-medium\">중국</span>의 <span class=\"text-cyan-300 font-semibold\">반도체</span> 자급화 내러티브는 화려하나, 최첨단 리소그래피 장비 부재에 따른 <span class=\"text-rose-400 font-medium\">수율 저하</span>라는 물리적 장벽에 부딪혀 글로벌 첨단 공급망을 실질적으로 위협하기 어렵습니다.",
+    "key_companies": [
+      "화웨이",
+      "ASML",
+      "TSMC"
+    ],
+    "insight": "EUV 노광 장비 없이 칩 성능을 올리려는 3D 스태킹은 불량률이 누적 곱 연산으로 축적되는 수학적 한계를 지닙니다. 미국의 장비 차단 제재 효과가 강력하게 작동하고 있음을 보여주는 사례입니다.",
+    "action_point": "<span class=\"text-violet-300 font-medium\">중국</span>의 추격 우려에 따른 첨단 파운드리/장비 대장주들의 센티멘트 흔들림 발생 시, <span class=\"text-cyan-300 font-semibold\">ASML</span> 및 <span class=\"text-cyan-300 font-semibold\">TSMC</span>와 같은 핵심 제재 수혜주의 장기 보유 강도를 강화해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "화웨이수율",
+      "3D스태킹",
+      "EUV장비제한",
+      "ASML독점",
+      "반도체수출통제",
+      "교양이를부탁해"
+    ]
+  }
+}

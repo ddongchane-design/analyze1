@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "wA3eCk7ztJA",
+    "title": "브로드컴 쇼크..AI 반도체 이대로 꺾이나?",
+    "published": "2026-06-05T00:00:00+00:00",
+    "channel_name": "월텍남",
+    "url": "https://www.youtube.com/watch?v=wA3eCk7ztJA",
+    "thumbnail": "https://img.youtube.com/vi/wA3eCk7ztJA/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">구글</span>의 독점적 파트너였던 <span class=\"text-cyan-300 font-semibold\">브로드컴</span>이 TPU 가이던스 발표 시 공급 다각화 가능성을 제기하면서 시간외 -15% <span class=\"text-rose-400 font-medium\">급락</span>했습니다. 이는 AI 가속기 독점의 붕괴 우려를 가중시켰으나, 장기적인 클라우드 빅테크의 <span class=\"text-cyan-300 font-semibold\">반도체</span> 투자 속도와 소프트웨어 확산세는 견조하여 단기 이격 <span class=\"text-rose-400 font-medium\">과열</span> 해소로 해석됩니다.",
+    "key_claims": [
+      "<span class=\"text-cyan-300 font-semibold\">구글</span>이 TPU 공급망에 <span class=\"text-cyan-300 font-semibold\">마벨</span> 등 제2의 벤더들을 진입시킬 여지를 준 것이 <span class=\"text-cyan-300 font-semibold\">브로드컴</span>의 고점 밸류에이션 <span class=\"text-rose-400 font-medium\">조정</span> 요인으로 작용했다.",
+      "하지만 <span class=\"text-cyan-300 font-semibold\">구글</span>의 $847억 대형 유상증자를 비롯한 빅테크의 공격적인 설비투자 규모는 변함없이 <span class=\"text-cyan-300 font-semibold\">반도체</span> 소부장의 주문량을 지지한다."
+    ],
+    "data_points": [
+      "브로드컴 주가 하락폭: 장외 시장에서 약 15% 하락 마감"
+    ],
+    "signal": "neutral",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">구글</span> TPU 독점 체제 붕괴라는 개별 <span class=\"text-rose-400 font-medium\">리스크</span>가 유입되었으나, 전체 AI 인프라 장기 수요가 축소되는 것은 아니며 쏠림의 다각화 과정이기 때문에 중립적 관점을 유지합니다.",
+    "key_companies": [
+      "브로드컴",
+      "구글",
+      "마벨"
+    ],
+    "insight": "<span class=\"text-cyan-300 font-semibold\">AI 반도체</span> 시장이 엔비디아/<span class=\"text-cyan-300 font-semibold\">브로드컴</span> 중심의 독점 국면에서 개별 맞춤형 칩(ASIC)의 멀티 공급망으로 다변화되고 있습니다. 독점 프리미엄 축소에 따른 단기 <span class=\"text-rose-400 font-medium\">조정</span> 이후, 신규 참여자(<span class=\"text-cyan-300 font-semibold\">마벨</span>, <span class=\"text-cyan-300 font-semibold\">인텔</span> 등)의 수혜가 커지는 변화에 주목해야 합니다.",
+    "action_point": "<span class=\"text-cyan-300 font-semibold\">브로드컴</span>의 독점 비중 노출을 줄이고, 다각화 수혜주인 <span class=\"text-cyan-300 font-semibold\">마벨</span> 테크놀로지 및 대만/한국의 디자인하우스 및 파운드리 대장주로 자산을 분산하여 <span class=\"text-rose-400 font-medium\">위험</span>을 헷징해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "브로드컴쇼크",
+      "구글TPU",
+      "멀티벤더전략",
+      "AI반도체조정",
+      "디자인하우스",
+      "월텍남"
+    ]
+  }
+}

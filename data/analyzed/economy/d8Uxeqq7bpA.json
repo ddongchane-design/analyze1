@@ -1,0 +1,48 @@
+{
+  "video": {
+    "id": "d8Uxeqq7bpA",
+    "title": "도이치뱅크, 브로드컴 목표가 515달러로 상향ㅣ원·달러환율 야간거래 1540원 넘겨ㅣ비트코인 4개월만 최저치 6만1천불 터치ㅣ홍키자의 매일뉴욕",
+    "published": "2026-06-04T11:20:00+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=d8Uxeqq7bpA",
+    "thumbnail": "https://img.youtube.com/vi/d8Uxeqq7bpA/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "도이치뱅크의 <span class=\"text-cyan-300 font-semibold\">브로드컴</span> 목표가($515) 상향에도 불구하고, <span class=\"text-cyan-300 font-semibold\">구글</span>의 TPU 공급망 멀티벤더 가이던스가 트리거가 되어 <span class=\"text-cyan-300 font-semibold\">브로드컴</span>의 주가는 <span class=\"text-rose-400 font-medium\">급락</span>했습니다. 한편, 거시 지표로는 <span class=\"text-amber-300 font-bold\">원달러 환율</span>이 야간 거래 중 1,540원을 상회하며 외환 불안이 심화되었고, 비트코인은 유동성의 AI 이탈로 인해 4개월 만에 6만 1천 달러 선까지 이탈했습니다.",
+    "key_claims": [
+      "<span class=\"text-cyan-300 font-semibold\">브로드컴</span>은 <span class=\"text-cyan-300 font-semibold\">구글</span>의 AI TPU를 10년 간 독점 개발해왔으나, <span class=\"text-cyan-300 font-semibold\">구글</span>이 800억 달러 증자 후 공급망 다각화(<span class=\"text-cyan-300 font-semibold\">마벨</span> 등의 진입 허용)를 언급하며 독점 프리미엄이 훼손되었다.",
+      "미국의 금리 역전차와 <span class=\"text-violet-300 font-medium\">중동</span> <span class=\"text-rose-400 font-medium\">리스크</span>가 누적되며 원달러 야간 <span class=\"text-amber-300 font-bold\">환율</span>이 1,540원을 돌파하여 수입 물가 압박이 극대화되고 있다.",
+      "비트코인은 가상자산 내부 모멘텀의 부재와 글로벌 패시브 자금의 AI 인프라 쏠림 진공청소기 효과로 6만 1천 달러 대의 저점을 다시 터치했다."
+    ],
+    "data_points": [
+      "도이치뱅크 제시 브로드컴 목표주가: 515달러",
+      "원달러 야간 환율 최고치 기록: 1,540원 초과 돌파",
+      "비트코인 저점 가격: 61,000달러 선 터치"
+    ],
+    "signal": "bearish",
+    "signal_reason": "1,540원대의 파국적 <span class=\"text-amber-300 font-bold\">환율</span> 약세와 크립토의 유동성 소외, 그리고 독점 테크 대장주의 공급망 분열 우려가 시장의 불안 심리를 높이고 있습니다.",
+    "key_companies": [
+      "브로드컴",
+      "마벨",
+      "구글",
+      "코인베이스"
+    ],
+    "insight": "아무리 높은 실적 증가율(+48%)을 기록하더라도 독점 해자(Monopoly Moat)의 균열은 고배수 멀티플 테크주에 치명적입니다. 또한, <span class=\"text-amber-300 font-bold\">환율</span> 1,540원선 돌파는 한국 금통위의 운신 폭을 좁히며 경제 전반에 큰 비용 고통을 강제합니다.",
+    "action_point": "<span class=\"text-amber-300 font-bold\">환율</span> 급등에 따른 자산 가치 하락을 헷징하기 위해 달러 기반 국채 및 실적이 깨지지 않는 <span class=\"text-cyan-300 font-semibold\">반도체</span> 선두 장비주 위주의 보수적 방어벽을 쳐야 합니다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock",
+      "crypto"
+    ],
+    "tags": [
+      "브로드컴급락",
+      "원달러환율1540원",
+      "비트코인붕괴",
+      "멀티벤더전략",
+      "구글TPU",
+      "매경월부"
+    ]
+  }
+}

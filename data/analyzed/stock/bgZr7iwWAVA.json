@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "bgZr7iwWAVA",
+    "title": "[홍장원의 불앤베어] 증시 주도주 큰 물결 바뀌나. 골드만삭스 \"바이더딥 유지하라\"",
+    "published": "2026-06-04T00:00:00+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=bgZr7iwWAVA",
+    "thumbnail": "https://img.youtube.com/vi/bgZr7iwWAVA/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "레이먼드 제임스의 칼 에커먼 애널리스트가 <span class=\"text-violet-300 font-medium\">중국</span> 창신메모리(CXMT) 및 양쯔메모리(YMTC)의 공격적인 범용 메모리 팹 증산과 스마트폰 수요 파괴(14% 감소 우려)로 인해 D램/낸드 평균 판매가(ASP)가 올해 중반에 조기 피크아웃할 수 있다고 경고했습니다. 그럼에도 골드만삭스 등 대형 IB들은 '바이 더 딥(Buy the dip)'을 주문하고 있습니다.",
+    "key_claims": [
+      "<span class=\"text-violet-300 font-medium\">중국</span> CXMT는 상하이에 본사 대비 3배 규모의 펩을 지어 범용 메모리 점유율을 14% 수준까지 올릴 준비를 하고 있다.",
+      "삼성/하이닉스가 마진이 높은 AI용 <span class=\"text-cyan-300 font-semibold\">HBM</span> 및 eSSD에 집중하면서 발생한 범용 D램 숏티지 틈새를 <span class=\"text-violet-300 font-medium\">중국</span> 업체들이 치고 들어와 전체 ASP 하락 압력을 가할 수 있다.",
+      "글로벌 스마트폰 출하량이 고부가가치 메모리 가격 단가 상승 부담으로 14% 수준 급감하며 전형적인 사이클 정점 신호를 보내고 있다."
+    ],
+    "data_points": [
+      "창신메모리(CXMT) 글로벌 D램 점유율 전망: 기존 11%에서 올해 13.9%로 증가",
+      "올해 글로벌 스마트폰 출하량 전망 감소율: 카운터포인트 리서치 기준 -14%"
+    ],
+    "signal": "neutral",
+    "signal_reason": "AI 메모리는 극심한 공급 부족이나, <span class=\"text-violet-300 font-medium\">중국</span>의 대규모 범용 팹 증설과 모바일 단가 전가 한계에 따른 전체 메모리 정점 우려가 유입되며 섹터 간 디커플링이 지속될 것입니다.",
+    "key_companies": [
+      "삼성전자",
+      "SK하이닉스",
+      "마이크론"
+    ],
+    "insight": "메모리 사이클은 향후 '고부가 AI 전용 스택'과 '저가용 범용 마켓'의 양극화 체제로 갈릴 것입니다. <span class=\"text-violet-300 font-medium\">중국</span>의 범용 시장 침투는 전체 평균 단가(ASP)에는 악재이나, 독점적 지위를 가진 <span class=\"text-cyan-300 font-semibold\">HBM</span> 공급망에는 실질적 타격이 되지 못합니다.",
+    "action_point": "<span class=\"text-violet-300 font-medium\">중국</span>의 진입이 어려운 <span class=\"text-cyan-300 font-semibold\">HBM</span>, TSV 패키징, 특화 eSSD 장비 공급사 중심의 압축 투자를 유지하고, <span class=\"text-violet-300 font-medium\">중국</span>의 물량 공세 <span class=\"text-rose-400 font-medium\">리스크</span>가 노출된 범용 D램 의존주들은 비중을 조절해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "범용메모리",
+      "창신메모리",
+      "양쯔메모리",
+      "피크아웃논란",
+      "스마트폰수요파괴",
+      "바이더딥",
+      "매경월부"
+    ]
+  }
+}

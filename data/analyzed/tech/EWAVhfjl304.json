@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "EWAVhfjl304",
+    "title": "아틀라스 발보면 기술력 보인다 현대차 테슬라",
+    "published": "2026-06-05T00:00:00+00:00",
+    "channel_name": "엔지니어TV",
+    "url": "https://www.youtube.com/watch?v=EWAVhfjl304",
+    "thumbnail": "https://img.youtube.com/vi/EWAVhfjl304/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "보스턴 다이내믹스의 신형 전기 아틀라스 로봇(<span class=\"text-cyan-300 font-semibold\">현대차</span> 소유)의 발과 관절 메커니즘을 정밀 분석합니다. 고난도 축구 슛 동작(고스트 라보나)을 통해 80-90%의 전신 체중을 한 다리로 지탱하고 착지 시의 동적 균형 제어와 발목 액추에이터의 댐핑 성능을 입증했습니다. 특히 좌우 대칭이 동일하여 양산 및 수리가 극대화된 설계가 돋보입니다.",
+    "key_claims": [
+      "신형 아틀라스는 좌우 다리 및 발의 설계가 완벽히 동일한 대칭형 부품 구조를 채택하여 대량 생산과 부품 교체의 편의성을 2배 높였다.",
+      "<span class=\"text-cyan-300 font-semibold\">테슬라</span> 옵티머스는 사람의 발가락 관절 구조를 모방해 고장이 잦고 유지보수가 어려운 반면, 아틀라스는 복잡성을 덜고 기계적 효율성을 확보했다.",
+      "한 발목에 순간적인 고속 회전력과 착지 시 충격 흡수를 제어하는 액츄에이터 동적 제어 기술이 보스턴 다이내믹스의 최대 하드웨어 강점이다."
+    ],
+    "data_points": [
+      "순간 한 다리 지지율: 전신 하중의 80~90% 순간 부하 분산 제어 성공"
+    ],
+    "signal": "bullish",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">현대차</span> 그룹이 보유한 보스턴 다이내믹스의 로봇 메카트로닉스 설계 효율성과 기계적 신뢰성이 <span class=\"text-cyan-300 font-semibold\">테슬라</span> 등 경쟁사를 압도하고 있음을 보여줍니다.",
+    "key_companies": [
+      "현대자동차",
+      "테슬라"
+    ],
+    "insight": "휴머노이드 로봇의 상용화 성공은 화려한 보행보다 '대량 생산 단가'와 '유지보수 신뢰성'에 달려 있습니다. 아틀라스의 좌우 동일 다리 설계는 자동차 양산 DNA가 결합된 실용적 제조 디자인의 승리입니다.",
+    "action_point": "피지컬 AI의 핵심이 될 보스턴 다이내믹스에 부품 및 엑츄에이터 모터 기술을 공급하는 관련 부품 공급 체인을 선점해 나갈 필요가 있습니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "robot",
+      "stock"
+    ],
+    "tags": [
+      "아틀라스로봇",
+      "보스턴다이내믹스",
+      "현대차로봇",
+      "발목관절설계",
+      "양산편의성",
+      "옵티머스비교",
+      "엔지니어TV"
+    ]
+  }
+}

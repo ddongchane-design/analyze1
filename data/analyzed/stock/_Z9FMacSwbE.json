@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "_Z9FMacSwbE",
+    "title": "젠승 황 호재에도 급락한 LG그룹주-네이버...그렇다면 오히려 지금이 '역대급 매수 타이밍'?ㅣ이재규 SK증권 PB 차장 [집중 오늘의 주식]",
+    "published": "2026-06-04T00:00:00+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=_Z9FMacSwbE",
+    "thumbnail": "https://img.youtube.com/vi/_Z9FMacSwbE/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "젠슨 황의 방한 구두 랠리로 급등했던 LG전자, 네이버 등 테마주들이 가파른 차익 매물로 하락했으나, 코스피 지수의 대형 상승 추세는 깨지지 않았습니다. 한편 KOSDAQ은 거래대금이 전일 대비 79% 수준으로 완연히 실리지 않아 완전한 하락 추세 전환으로 보기는 어렵지만 <span class=\"text-cyan-300 font-semibold\">반도체</span> 소부장을 중심으로 한 단기 되돌림이 진행 중입니다.",
+    "key_claims": [
+      "코스피는 장기 상승 추세가 살아 있어 눌림 시 복구 탄력이 높으나, 코스닥은 거래 대금 부족으로 여전히 <span class=\"text-cyan-300 font-semibold\">반도체</span> 소부장 중심의 차별적 랠리만 허용한다.",
+      "젠슨 황 방한 루머가 확산되면서 관련주의 희소성이 떨어지고 빠른 차익 실현이 나왔지만 5일/10일선 지지 시 추세 훼손으로 보기는 어렵다.",
+      "외환 시장의 <span class=\"text-amber-300 font-bold\">원달러 환율</span>이 1,530원대를 상회하는 상태에서도 증시가 견조한 것은 AI 메가 내러티브가 다른 거시 <span class=\"text-rose-400 font-medium\">리스크</span>를 압도하기 때문이다."
+    ],
+    "data_points": [
+      "코스닥 당일 거래대금 증가율: 전일 대비 약 79% 수준으로 저조",
+      "미국 국채 10년물 저항선 상단: 4.55% (현재 4.49%로 하방 제어됨)"
+    ],
+    "signal": "bullish",
+    "signal_reason": "대형 상승 트렌드 내의 이격 <span class=\"text-rose-400 font-medium\">조정</span> 국면으로, 5일 및 10일 이동평균선이 지탱되는 한 주도 섹터의 우상향은 여전히 신뢰할 수 있습니다.",
+    "key_companies": [
+      "LG전자",
+      "NAVER",
+      "삼성전자",
+      "SK하이닉si"
+    ],
+    "insight": "상승장 초입에서는 고점 매수를 두려워하기보다 추세가 살아있는 섹터의 눌림목 매수에 동참해야 합니다. 특히 원화 약세를 극복하는 유일한 테마는 <span class=\"text-cyan-300 font-semibold\">반도체</span> 독점 지배력입니다.",
+    "action_point": "<span class=\"text-rose-400 font-medium\">급락</span>한 LG전자 등 피지컬 AI 테마주의 10일선 지지 여부를 체크하고, 거래대금이 실리는 KOSDAQ 대표 <span class=\"text-cyan-300 font-semibold\">반도체</span> 소부장(증착/식각 전공정 장비) 기업들 위주로 포트폴리오를 구성해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "상승추세",
+      "코스닥반등",
+      "거래대금부족",
+      "LG전자조정",
+      "환율방어",
+      "이동평균선",
+      "삼프로TV"
+    ]
+  }
+}

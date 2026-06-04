@@ -1,0 +1,48 @@
+{
+  "video": {
+    "id": "O7Gkf2llIP8",
+    "title": "[빈난새의 개장전요것만-6월4일] 브로드컴 실적이 보여준것 | 감원도 구인도 많다 | 원유재고 바닥 | 협상 올인하는 트럼프 | 마이크론 크라우드스트라이크 시에나 팔란티아 AADX",
+    "published": "2026-06-04T14:35:00+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=O7Gkf2llIP8",
+    "thumbnail": "https://img.youtube.com/vi/O7Gkf2llIP8/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">브로드컴</span>의 높은 실적 서프라이즈에도 불구하고 <span class=\"text-cyan-300 font-semibold\">구글</span> TPU 멀티벤더 도입 우려에 따른 하락세와, 미국 신규 실업수당 증가 등 고용 둔화 팩트가 시장의 6월 <span class=\"text-rose-400 font-medium\">조정</span>을 주도하고 있습니다. 한편 미국 원유 재고 감소세가 심화되며 트럼프가 대선 <span class=\"text-amber-300 font-bold\">유가</span> 통제를 위해 <span class=\"text-violet-300 font-medium\">이란</span>과의 합의 성사에 목을 매고 있는 지정학적 상황과, 메모리 고단가 지속이 완제품 수요를 파괴하는 '칩플레이션(Chipflation)' <span class=\"text-rose-400 font-medium\">리스크</span>가 부각되고 있습니다.",
+    "key_claims": [
+      "<span class=\"text-cyan-300 font-semibold\">브로드컴</span>의 <span class=\"text-cyan-300 font-semibold\">구글</span> 독점 구도 약화 가능성(<span class=\"text-cyan-300 font-semibold\">마벨</span>의 침투)이 밸류에이션 부담 완화를 위한 빌미로 작용해 <span class=\"text-cyan-300 font-semibold\">반도체</span> 전반의 차익 실현을 야기했다.",
+      "미국의 원유 재고 바닥 우려와 <span class=\"text-violet-300 font-medium\">중동</span> 긴장이 겹치며 <span class=\"text-amber-300 font-bold\">유가</span> 통제에 실패할 경우, <span class=\"text-amber-300 font-bold\">고금리 장기화</span>를 이끌 긴축적인 연준 구두 개입이 7월부터 강화될 수 있다.",
+      "모건스탠리는 메모리 고단가 부담으로 다운스트림 디바이스(스마트폰 등)의 생산 원가 부담이 한계에 도달해 가격 <span class=\"text-rose-400 font-medium\">조정</span> 압력(칩플레이션)이 누적되고 있다고 지적했다."
+    ],
+    "data_points": [
+      "구글의 자금 조달 업사이징 규모: 최종 847억 달러 유상증자 완료",
+      "미국 원유 재고 감소율 및 신규 실업수당 신청 건수의 완만한 증가세 기록"
+    ],
+    "signal": "bearish",
+    "signal_reason": "칩플레이션에 따른 스마트폰 등 전방 IT 수요 파괴 징후와 원유 재고 감소에 따른 에너지 물가 압박, 그리고 연준의 매파적 금리 정책 유지 가능성이 복합 악재로 결합되고 있습니다.",
+    "key_companies": [
+      "브로드컴",
+      "마벨",
+      "구글",
+      "NVIDIA"
+    ],
+    "insight": "<span class=\"text-cyan-300 font-semibold\">반도체</span>의 초격차 어닝 뒤에는 전방 IT 제조사들이 단가 상승을 더 이상 감당하지 못하는 칩플레이션의 역효과가 누적되고 있습니다. <span class=\"text-amber-300 font-bold\">유가</span> 통제를 위해 <span class=\"text-violet-300 font-medium\">이란</span> 핵합의를 서두르는 트럼프의 행보도 거시 금융 시장의 타이트한 한계를 보여줍니다.",
+    "action_point": "원가 부담을 스스로 전가할 수 있는 완성형 소프트웨어 및 클라우드 빅테크로 자산을 배분하고, 단가 급등 부작용 <span class=\"text-rose-400 font-medium\">리스크</span>가 있는 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span> 하드웨어 비중을 적절히 조율해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy",
+      "tech"
+    ],
+    "tags": [
+      "브로드컴실적",
+      "구글TPU",
+      "칩플레이션",
+      "원유재고감소",
+      "이란핵협상",
+      "실업수당청구",
+      "한경글로벌마켓"
+    ]
+  }
+}

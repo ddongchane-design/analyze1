@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "vri07mP5uLY",
+    "title": "“엔비디아 H200 안 삽니다” 중국이 자국 칩으로 버티는 이유 #교양이를부탁해",
+    "published": "2026-06-04T11:00:11+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=vri07mP5uLY",
+    "thumbnail": "https://img.youtube.com/vi/vri07mP5uLY/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국의 엔비디아 <span class=\"text-violet-300 font-medium\">중국</span>향 GPU(H200 저사양 버전) 수출 통제 완화에도 불구하고, <span class=\"text-violet-300 font-medium\">중국</span> 빅테크 및 AI 데이터센터 업체들의 구매가 극히 저조함을 다룹니다. 이는 <span class=\"text-violet-300 font-medium\">중국</span> 정부의 자국산 <span class=\"text-cyan-300 font-semibold\">반도체</span> 우선 사용 안묵적 강제 및 보조금 정책, 그리고 언제든 다시 차단될 수 있다는 미국 제재에 대한 불확실성 경계 때문입니다.",
+    "key_claims": [
+      "미국이 몇 개월 전 엔비디아의 저사양 GPU 수출 통제를 해금했으나 <span class=\"text-violet-300 font-medium\">중국</span> 시장 내 대량 수입 징후는 나타나지 않았다.",
+      "<span class=\"text-violet-300 font-medium\">중국</span> 정부는 자국산 GPU/NPU 탑재를 음양으로 강제하고 보조금을 지급하여 자국 생태계 전환을 유도하고 있다.",
+      "<span class=\"text-violet-300 font-medium\">중국</span>은 미국의 수출 통제 완화를 의존도를 다시 높이려는 일종의 '미끼'로 인식하여 공급망 다변화 기조를 고수한다."
+    ],
+    "data_points": [
+      "엔비디아 저사양 칩 중국 수출 제한 해금 조치 경과"
+    ],
+    "signal": "neutral",
+    "signal_reason": "미국 제재 완화에도 <span class=\"text-violet-300 font-medium\">중국</span>의 자국산 <span class=\"text-cyan-300 font-semibold\">반도체</span> 생태계 독자 구축 의지가 견고하여, 단기 엔비디아의 매출 급등 기대는 제한적이나 <span class=\"text-violet-300 font-medium\">중국</span> 시장의 첨단 공급망 분리는 지속되고 있음을 입증합니다.",
+    "key_companies": [
+      "NVIDIA",
+      "화웨이"
+    ],
+    "insight": "미국의 엔비디아 칩 수출 통제는 <span class=\"text-violet-300 font-medium\">중국</span>의 의존도를 낮추고 자국 칩 생태계(<span class=\"text-cyan-300 font-semibold\">화웨이</span> 등)를 육성하는 역효과를 낳고 있습니다. 미국의 진짜 무기는 칩 수출 차단보다 <span class=\"text-cyan-300 font-semibold\">ASML</span> 등 첨단 전공정 장비의 <span class=\"text-violet-300 font-medium\">중국</span> 차단 유지 여부입니다.",
+    "action_point": "엔비디아의 <span class=\"text-violet-300 font-medium\">중국</span>향 저사양 칩 매출 기여도에 대한 환상을 버리고, 미국 장비 제재 강도와 <span class=\"text-violet-300 font-medium\">중국</span> 파운드리 자급화 진척에 따른 글로벌 소부장 반사이익 구도를 관망해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "엔비디아중국",
+      "자국칩육성",
+      "수출통제",
+      "미중정상회담",
+      "장비제재",
+      "교양이를부탁해"
+    ]
+  }
+}

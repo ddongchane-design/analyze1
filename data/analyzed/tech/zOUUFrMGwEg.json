@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "zOUUFrMGwEg",
+    "title": "모든 AI 병목에 NVIDIA가 있다 | 젠슨황 키노트 발표에 AI 투자의 흐름이 보인다",
+    "published": "2026-06-04T00:00:00+00:00",
+    "channel_name": "안될공학 - IT 테크 신기술",
+    "url": "https://www.youtube.com/watch?v=zOUUFrMGwEg",
+    "thumbnail": "https://img.youtube.com/vi/zOUUFrMGwEg/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "대만 컴퓨텍스에서 젠슨 황 엔비디아 CEO의 키노트를 분석하여, 모든 AI 하드웨어 연산 병목(Bandwidth, Interconnect, Power, Cooling)에 엔비디아가 제시하는 규격과 패키징 솔루션이 표준으로 고착화되고 있음을 조명합니다.",
+    "key_claims": [
+      "엔비디아는 단순 GPU 칩 설계가 아니라 네트워킹(InfiniBand, Spectrum-X)과 초고속 상호연결(NVLink)을 장악해 연산 병목을 해결하고 있다.",
+      "블랙웰(Blackwell) 플랫폼 및 차세대 로드맵(Rubin)은 온칩 <span class=\"text-cyan-300 font-semibold\">HBM</span> 탑재를 늘려 대역폭 한계를 돌파하며, 액체 냉각(Liquid Cooling) 규격을 수립하고 있다.",
+      "인터커넥트 및 네트워킹 스위치 칩 시장에서 엔비디아의 생태계 지배력이 더욱 강화되어 경쟁사들의 침투 장벽을 높였다."
+    ],
+    "data_points": [
+      "블랙웰 및 차세대 루빈(Rubin) 플랫폼의 차기 HBM 탑재량 증가 로드맵 공식 발표"
+    ],
+    "signal": "bullish",
+    "signal_reason": "AI 하드웨어 가속기뿐만 아니라 네트워크, 스위치, 인터커넥트 인터페이스 표준 전체를 엔비디아가 선제 규정하여 장기 독점력을 강화하고 있습니다.",
+    "key_companies": [
+      "NVIDIA",
+      "SK하이닉스"
+    ],
+    "insight": "엔비디아의 진짜 해자는 GPU 코어가 아니라 칩과 칩을 이어 붙이는 NVLink 및 네트워킹 하이브리드 인터페이스 규격입니다. 모든 AI 인프라 병목을 자사 생태계로 해결해 주는 한, 일극 체제 지배력은 공고합니다.",
+    "action_point": "엔비디아의 블랙웰/루빈 패키징 규격(액체 냉각, 고성능 <span class=\"text-cyan-300 font-semibold\">HBM</span>, 고대역 네트워킹)에 필수 기자재 및 부품을 독점 납품하는 글로벌 1등 공급망 지분을 홀딩해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "젠슨황키노트",
+      "블랙웰",
+      "루빈플랫폼",
+      "NVLink",
+      "네트워킹",
+      "AI병목",
+      "안될공학"
+    ]
+  }
+}

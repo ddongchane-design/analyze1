@@ -1,0 +1,48 @@
+{
+  "video": {
+    "id": "jSozCEgwl4I",
+    "title": "브로드컴, 가이던스 부진에 급락…반도체, 광통신 등 AI H/W 대거 차익실현 [월가 뉴스레터]",
+    "published": "2026-06-04T22:20:00+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=jSozCEgwl4I",
+    "thumbnail": "https://img.youtube.com/vi/jSozCEgwl4I/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">브로드컴</span>이 총매출(+48%) 및 <span class=\"text-cyan-300 font-semibold\">AI 반도체</span> 매출(+143%)의 높은 어닝 서프라이즈를 달성했음에도, <span class=\"text-cyan-300 font-semibold\">구글</span>의 멀티벤더(공급망 다각화) 채택 가능성 언급으로 인해 독점 지위 약화 우려가 유입되며 주가는 <span class=\"text-rose-400 font-medium\">급락</span>했습니다. 이는 마이크론(-8%) 등 그간 급등했던 <span class=\"text-cyan-300 font-semibold\">반도체</span> 및 AI 하드웨어 밸류체인 전반의 대대적인 차익 실현을 유발했습니다.",
+    "key_claims": [
+      "<span class=\"text-cyan-300 font-semibold\">브로드컴</span>은 높은 실적에도 불구하고 <span class=\"text-cyan-300 font-semibold\">구글</span> TPU 독점 체제 붕괴 우려(<span class=\"text-cyan-300 font-semibold\">마벨</span> 등 경쟁사의 잠재적 점유율 침투)로 인해 멀티플 <span class=\"text-rose-400 font-medium\">조정</span>을 겪었다.",
+      "미 증시는 <span class=\"text-cyan-300 font-semibold\">반도체</span> <span class=\"text-rose-400 font-medium\">과열</span>을 끄는 동안 다우 지수와 러셀 2000이 상승하고 오라클, <span class=\"text-cyan-300 font-semibold\">구글</span> 등의 소프트웨어주가 반등하는 등 활발한 업종 순환매를 보였다.",
+      "달러 인덱스가 99 수준까지 상승하고 <span class=\"text-amber-300 font-bold\">원달러 환율</span>이 1,540원 대를 노크하는 등 대외 외환 <span class=\"text-rose-400 font-medium\">리스크</span>가 여전히 잔존해 자본 유입에 걸림돌이 되고 있다."
+    ],
+    "data_points": [
+      "브로드컴 장중/시간외 하락폭: 최고 -15% 수준 급락 마감",
+      "달러 인덱스 수준: 99 부근 돌파 시도",
+      "비트코인 등락: 하방 압력 지속되며 61,000달러 선 사수 테스트"
+    ],
+    "signal": "bearish",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 하드웨어 독점 해자의 훼손 가능성과 <span class=\"text-amber-300 font-bold\">환율</span>의 파국적 급등(1,540원), 크립토의 동반 약세로 인해 당분간 보수적인 주도주 이격 <span class=\"text-rose-400 font-medium\">조정</span>이 예상됩니다.",
+    "key_companies": [
+      "브로드컴",
+      "마벨",
+      "구글",
+      "마이크론"
+    ],
+    "insight": "주가가 신고가 부근일 때는 완벽한 실적만으로는 부족하며 독점력 유지가 핵심입니다. <span class=\"text-cyan-300 font-semibold\">구글</span>의 멀티벤더 언급은 업계 2인자 <span class=\"text-cyan-300 font-semibold\">마벨</span> 테크놀로지에게 기회가 될 것이며, 주도권의 분산은 고점 밸류에이션 부담을 높이는 신호입니다.",
+    "action_point": "<span class=\"text-cyan-300 font-semibold\">브로드컴</span>에 대한 단기 무리한 저가 매수 참여는 지양하되, 독점 다각화의 실질적 수혜자가 될 <span class=\"text-cyan-300 font-semibold\">마벨</span>의 점유율 추이를 모니터링하고 소프트웨어 및 방어주 비중을 유지해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "브로드컴급락",
+      "구글멀티벤더",
+      "차익실현",
+      "달러인덱스99",
+      "순환매장세",
+      "삼프로TV"
+    ]
+  }
+}

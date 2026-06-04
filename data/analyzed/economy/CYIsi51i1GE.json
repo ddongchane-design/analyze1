@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "CYIsi51i1GE",
+    "title": "AI부터 양말까지 싹쓸이 포스트 중국은 없다 (해담경제연구소 어예진 소장) (1부)",
+    "published": "2026-06-04T08:00:00+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=CYIsi51i1GE",
+    "thumbnail": "https://img.youtube.com/vi/CYIsi51i1GE/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "동아시아의 전통적인 안행형 발전 모델(Flying Geese Paradigm: 일본->한국/대만-><span class=\"text-violet-300 font-medium\">중국</span> 순의 제조업 이관)에 따라 포스트 <span class=\"text-violet-300 font-medium\">중국</span> 제조 허브(베트남, 방글라데시, 인도 등)의 성장이 기대되었으나, 실제 데이터 재산정 결과 완제품 완제 공정이 넘어가도 실질적인 부가가치(실, 단추, 부자재, 제봉틀 등)의 60% 이상은 여전히 <span class=\"text-violet-300 font-medium\">중국</span>산에 의존하고 있어 '완벽한 탈<span class=\"text-violet-300 font-medium\">중국</span> 대체제'는 부재함을 고찰합니다.",
+    "key_claims": [
+      "미국이나 서방 패션/테크 브랜드들이 베트남이나 방글라데시로 공장을 대거 이전하여 겉으로는 <span class=\"text-violet-300 font-medium\">중국</span> 비중이 급감한 듯 보인다.",
+      "그러나 실질 부가가치 원산지 기준으로 원자재와 중간재를 역추적하면 <span class=\"text-violet-300 font-medium\">중국</span>의 실질 공급 지배력은 60% 이상으로 공고하다.",
+      "<span class=\"text-violet-300 font-medium\">중국</span>은 범용 원부자재 및 기계 부품 에코시스템의 압도적 비용 해자를 구축해 신흥 개도국이 <span class=\"text-violet-300 font-medium\">중국</span>의 서플라이 체인망 없이 수출하는 것을 불가능하게 만든다."
+    ],
+    "data_points": [
+      "개도국 섬유/완제품 생산에서 중국산 원부자재 및 기계의 실질 부가가치 점유율: 60% 이상 초과 유지"
+    ],
+    "signal": "neutral",
+    "signal_reason": "서방의 인위적인 공급망 탈<span class=\"text-violet-300 font-medium\">중국</span>(Friend-shoring) 드라이브의 속도는 계속되고 있으나, <span class=\"text-violet-300 font-medium\">중국</span> 제조업의 부품 생태계 지배력이 유지되어 장기적인 비용 인플레를 유발하고 있습니다.",
+    "key_companies": [
+      "언더스탠딩"
+    ],
+    "insight": "탈<span class=\"text-violet-300 font-medium\">중국</span>(De-risking)은 정치적 네러티브일 뿐, 물리적 제조업의 밑단은 <span class=\"text-violet-300 font-medium\">중국</span>의 공급망 해자를 대체하지 못했습니다. 신흥 제조 허브로 분류되는 국가들의 밸류체인도 결국 <span class=\"text-violet-300 font-medium\">중국</span> 중간재 수입 확대로 수혜를 입는 의존 관계입니다.",
+    "action_point": "베트남/인도 등의 완제품 조립 공장 테마주에 대한 과도한 프리미엄은 경계하고, 오히려 글로벌 공급망의 유일한 중간 부품 기지이자 비용 전가력이 있는 제조 강자들의 지분을 지켜봐야 합니다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "etc"
+    ],
+    "tags": [
+      "안행형발전모델",
+      "탈중국허구",
+      "원부자재의존",
+      "공급망지배력",
+      "베트남방글라데시",
+      "비용인플레이션",
+      "언더스탠딩"
+    ]
+  }
+}
