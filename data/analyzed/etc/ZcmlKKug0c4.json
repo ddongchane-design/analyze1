@@ -1,0 +1,40 @@
+{
+  "video": {
+    "id": "ZcmlKKug0c4",
+    "title": "내한기념, 젠슨 황 옷 가격분석",
+    "published": "2026-06-05T03:00:07+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=ZcmlKKug0c4",
+    "thumbnail": "https://img.youtube.com/vi/ZcmlKKug0c4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "엔비디아 CEO 젠슨 황의 방한 기념으로 그의 시그니처 룩(에르메스 신발, 톰포드 자켓 등 약 1,200만 원 규모)의 비용과 자산 규모를 비교합니다.",
+    "key_claims": [
+      "젠슨 황이 착용한 에르메스 신발과 톰포드 자켓의 합산 가격은 약 1,200만 원 선으로 추산된다.",
+      "자산이 200~300조 원에 달하는 젠슨 황에게 1,200만 원은 일반 직장인의 수십 원 정도의 가치에 불과하다."
+    ],
+    "data_points": [
+      "젠슨 황 추산 자산 규모: 약 200조 ~ 300조 원 수준"
+    ],
+    "signal": "neutral",
+    "signal_reason": "시황 정보라기보다 방한 전 가십성 정보를 전달하는 스케치형 비디오입니다.",
+    "key_companies": [
+      "NVIDIA"
+    ],
+    "insight": "젠슨 황의 친화적인 방한 행보와 일상이 대중적으로 밈(Meme)화되어 큰 인기를 끌고 있음을 보여줍니다.",
+    "action_point": "단순 흥미성 정보이므로 투자 결정에는 관여하지 마십시오."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "젠슨황옷",
+      "에르메스신발",
+      "톰포드자켓",
+      "인터뷰",
+      "Softdragon"
+    ]
+  }
+}

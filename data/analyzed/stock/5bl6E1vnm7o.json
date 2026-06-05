@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "5bl6E1vnm7o",
+    "title": "점점 과열되는 세기의 머니게임..그런데 구글이 일론 머스크의 뒤통수를 쳤다? | 월가백브리핑",
+    "published": "2026-06-05T03:00:25+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=5bl6E1vnm7o",
+    "thumbnail": "https://img.youtube.com/vi/5bl6E1vnm7o/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">알파벳</span>의 800억 달러 유상증자 추진이 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 IPO를 앞두고 자금을 선점하려는 의도인지 분석하고, AI 설비 투자 과열 논란을 조명합니다.",
+    "key_claims": [
+      "구글의 대규모 유증은 향후 AI 인프라 수요 가시성이 뚜렷하다는 자신감의 방증이다.",
+      "스페이스X IPO를 앞두고 구글이 시장 유동성을 선제적으로 흡수해 경쟁 구도를 심화시켰다.",
+      "빅테크의 과도한 AI 투자가 실질적인 수익으로 회수되기까지는 시차가 존재하며 일부 거품 경고도 나오고 있다."
+    ],
+    "data_points": [
+      "알파벳 유상증자 규모: 800억 달러 (버크셔 해서웨이 100억 달러 인수 포함)",
+      "알파벳 클라우드 백로그: 4,600억 달러 (전 분기 대비 2배 증가)"
+    ],
+    "signal": "neutral",
+    "signal_reason": "유동성 선점으로 단기 테크주 변동성이 커질 수 있으나, 구글의 수주 잔고 성장세가 확실해 장기 전망은 긍정적입니다.",
+    "key_companies": [
+      "Google",
+      "SpaceX",
+      "Berkshire Hathaway"
+    ],
+    "insight": "투자를 너무 많이 해서 망하는 것이 덜 투자해서 뒤처지는 것보다 낫다는 빅테크의 합의가 대규모 자금 조달로 증명되고 있습니다.",
+    "action_point": "단기적인 유동성 쏠림 노이즈를 활용해 밸류에이션 매력이 생긴 빅테크 및 클라우드 인프라 기업을 저가 매수해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "알파벳유증",
+      "스페이스X상장",
+      "AI자본전쟁",
+      "수환매장세",
+      "한경글로벌마켓"
+    ]
+  }
+}

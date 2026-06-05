@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "ip2UiJsHvO4",
+    "title": "비트코인 하락장, 손실만 104억 달러인 MSTR이 망할 수도 있다? 남은 준비금은 단 7개월 | 김동환, 서동주, 박상혁 디지털애셋 편집장 [크립토 PLUS]",
+    "published": "2026-06-05T03:30:30+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=ip2UiJsHvO4",
+    "thumbnail": "https://img.youtube.com/vi/ip2UiJsHvO4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">마이크로스트레티지</span>(MSTR)의 비트코인 매각과 영구 우선주(STRC)의 <span class=\"text-rose-400 font-medium\">배당 재원 한계(7개월)</span> 리스크를 짚어보고, STRC를 담보로 하는 <span class=\"text-rose-400 font-medium\">APX USD 디페깅 사태</span>를 분석합니다.",
+    "key_claims": [
+      "MSTR은 비트코인 평단가 하회로 104억 달러의 미실현 손실을 입었으며, 매달 1.4억 달러의 배당/이자를 줘야 해 현금 바닥 우려가 커졌다.",
+      "STRC 우선주 가격이 100달러를 하회하면서 추가 조달에 제동이 걸려 비트코인 추가 매도 압박이 발생하고 있다.",
+      "STRC를 담보로 발행된 스테이블코인 APX USD가 0.91달러로 디페깅되며 시장의 강제 청산 공포(청산 규모 3%)가 유입되었다."
+    ],
+    "data_points": [
+      "MSTR 보유 비트코인 평균 단가: 75,701달러 (현재가 6.3만 달러 하회)",
+      "MSTR 보유 달러 잔량 기준 배당 지급 가능 기간: 7개월",
+      "APX USD 디페깅 최저가 기록: 0.91달러"
+    ],
+    "signal": "bearish",
+    "signal_reason": "MSTR의 대규모 비트코인 조달 방식의 한계가 확인되었고, 스테이블코인과의 부채 연계 리스크로 인해 크립토 전반의 수급 불안이 예상됩니다.",
+    "key_companies": [
+      "MicroStrategy",
+      "Coinbase"
+    ],
+    "insight": "비트코인을 영원히 홀딩하겠다는 선언이 우선주 배당 고정비 압박으로 무너졌으며, 레버리지 구조의 균열이 시장 덤핑 우려를 키우고 있습니다.",
+    "action_point": "MSTR의 현금 및 우선주 가격 추이가 복구될 때까지 비트코인 등 가상자산에 대한 보수적인 접근을 유지하고 관망하십시오."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "마이크로스트레티지",
+      "비트코인매각",
+      "우선주배당",
+      "APXUSD디페깅",
+      "삼프로TV"
+    ]
+  }
+}

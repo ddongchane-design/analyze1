@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "kIvD6ef83as",
+    "title": "[26.06.05 오전 방송 전체보기] 엔비디아 상승 속 반도체주 하락...다우지수 '사상 최고'",
+    "published": "2026-06-05T03:20:15+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=kIvD6ef83as",
+    "thumbnail": "https://img.youtube.com/vi/kIvD6ef83as/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "반도체 하락 속에 <span class=\"text-amber-300 font-bold\">다우지수가 사상 최고치</span>를 경신한 미국의 건강한 순환매 장세와 스페이스X 상장 대기 수급 노이즈를 요약합니다.",
+    "key_claims": [
+      "과열된 반도체 하드웨어에서 헬스케어, 금융 및 필수소비재 등 저베타 소외주로 수급이 확산되고 있다.",
+      "스페이스X 상장 시 QQQ 등 지수 추종 패시브 펀드들의 매수 부담으로 기존 기술주 지분 매도가 발생할 수 있다.",
+      "금은 단순 인플레이션 헤지 수단이 아닌 비트코인 같은 위험 자산의 성격으로 거래되며 단기 매수 과열에 직면해 있다."
+    ],
+    "data_points": [
+      "스페이스X IPO 지분 매각 비율: 5% 미만 (약 750억 달러 규모)",
+      "금값 저항선 지지 가격대: 온스당 4,000달러 부근 가능성"
+    ],
+    "signal": "neutral",
+    "signal_reason": "주도 테크 섹터의 숨고르기와 소외 섹터로의 순환매는 장기적으로 시장을 건강하게 만들지만, 단기적으로 반도체 이격 조정은 피할 수 없습니다.",
+    "key_companies": [
+      "NVIDIA",
+      "Broadcom",
+      "Micron"
+    ],
+    "insight": "시장 상승 일변도 국면에서는 옵션 해지 비용이 저렴하므로, 강세장 후반부로 갈수록 포트폴리오 다각화와 헬스케어 등 소외 방어주 편입이 중요합니다.",
+    "action_point": "고베타 반도체 비중을 소폭 덜어내고, 밸류에이션 매력이 있는 대형 금융주와 헬스케어 비중을 유지하는 보수적 포트폴리오를 유지하십시오."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy",
+      "tech"
+    ],
+    "tags": [
+      "다우사상최고",
+      "수환매장세",
+      "스페이스XIPO",
+      "헬스케어분산",
+      "삼프로TV"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "MzlDbKE7ihw",
+    "title": "“틱톡 베꼈다” 비웃음 샀던 메타, AI에 '217조' 쏟아붓는 이유 | 매일뉴욕 스페셜 | 홍성용 특파원",
+    "published": "2026-06-05T03:00:26+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=MzlDbKE7ihw",
+    "thumbnail": "https://img.youtube.com/vi/MzlDbKE7ihw/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "틱톡 차단 노이즈 속에서 인스타그램 <span class=\"text-cyan-300 font-semibold\">릴스</span>를 통해 광고 점유율을 늘리고 있는 <span class=\"text-cyan-300 font-semibold\">메타</span>의 압도적인 주주 수익성 및 <span class=\"text-cyan-300 font-semibold\">AI 설비 투자(1,450억 달러)</span>의 실질 성과를 조명합니다.",
+    "key_claims": [
+      "메타는 35억 명의 거대 소셜망과 20년 광고 인프라 해자를 통해 Reels의 카피캣 논란을 극복하고 틱톡을 이겼다.",
+      "1분기 메타의 광고 단가와 노출수가 동반 상승(각각 12%, 19%)했으며, 이는 AI 타게팅 엔진 도입의 실질 어닝 기여 증거이다.",
+      "메타는 인건비 30억 달러를 아껴 AI 인프라에 쏟았으나, 차세대 루빈 GPU의 발열 및 전력 과부하로 인프라 재건설 비용 부담이 존재한다."
+    ],
+    "data_points": [
+      "메타 2026년 연간 Capex 가이던스: 최대 1,450억 달러 (전년 대비 2배 증액)",
+      "메타 1인당 분기 매출액: 약 10억 8,000만 원 (삼성전자 대비 3배 이상의 고효율)",
+      "Ray-Ban Meta 스마트 글래스 2025년 판매량: 700만 대 돌파"
+    ],
+    "signal": "bullish",
+    "signal_reason": "AI 투자는 당장 광고 효율 증대로 결실을 맺고 있으며, 스마트 글래스 시장 선점으로 차세대 플랫폼 장악력이 높아지고 있습니다.",
+    "key_companies": [
+      "Meta",
+      "NVIDIA",
+      "Apple"
+    ],
+    "insight": "카피캣 비난 속에서도 압도적인 유통/네트워크망을 지닌 선두 기업이 포맷만 얹으면 승리한다는 비즈니스 복제 성공 사례를 보여줍니다.",
+    "action_point": "AI CapEx 증설 부담으로 인한 일시적인 주가 조정 국면은 메타 지분을 늘릴 수 있는 확실한 저가 매수 타이밍입니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "메타릴스",
+      "AI광고효율",
+      "인프라Capex",
+      "스마트글래스",
+      "매경월부"
+    ]
+  }
+}

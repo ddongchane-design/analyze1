@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "KEriHGR21zM",
+    "title": "대한민국 크립토의 미래, CIS 2026에서 만나다",
+    "published": "2026-06-05T04:38:13+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=KEriHGR21zM",
+    "thumbnail": "https://img.youtube.com/vi/KEriHGR21zM/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "CIS 2026 행사를 통해 본 <span class=\"text-cyan-300 font-semibold\">하이퍼스케일 데이터</span>(GPUS)의 비트코인 채굴/담보 전략 및 <span class=\"text-cyan-300 font-semibold\">이더리움 재단</span>의 멀티 클라이언트 보안 안정성을 고찰합니다.",
+    "key_claims": [
+      "하이퍼스케일 데이터는 매주 비트코인을 적립하는 MSTR 유사 전략을 취하면서도, 미시간에 대형 AGI 봇 로봇 센터를 짓는 다각화를 진행한다.",
+      "이더리움은 5개 이상의 다른 클라이언트 소프트웨어를 동시에 실행하여 10년 넘게 단 1초도 멈추지 않은 독보적 복원력을 증명했다.",
+      "이더리움 현물 ETF 승인과 기관 자금 유입은 유동성을 공급하여 장기적으로 암호화폐의 변동성을 줄여줄 것이다."
+    ],
+    "data_points": [
+      "하이퍼스케일 데이터(GPUS) 올해 매출 전망치: 2억 달러 이상 (전년 대비 2배 성장)",
+      "이더리움 재단의 전체 이더리움 지분율: 1% 미만 수준"
+    ],
+    "signal": "bullish",
+    "signal_reason": "블록체인의 기술적 안전성과 ETF를 통한 전통 금융 및 기관 투자자 유입이라는 대형 인프라 구조가 정착되고 있습니다.",
+    "key_companies": [
+      "HyperScale Data",
+      "Zangle"
+    ],
+    "insight": "암호화폐 시장은 단순 소매 시장 투기 단계에서 벗어나, 기관의 참여를 유도하는 디지털 신탁 및 글로벌 대체 담보 자산으로 성장하고 있습니다.",
+    "action_point": "비트코인은 변동성을 활용한 적립식 매수를, 이더리움은 유동성 및 기술적 신뢰도 기반의 중장기 포트폴리오 편입을 추천합니다."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "robot",
+      "stock"
+    ],
+    "tags": [
+      "비트코인담보",
+      "이더리움멀티클라이언트",
+      "크립토기관투자",
+      "CIS2026",
+      "삼프로TV"
+    ]
+  }
+}

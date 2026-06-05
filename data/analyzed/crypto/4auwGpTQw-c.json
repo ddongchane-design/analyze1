@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "4auwGpTQw-c",
+    "title": "코인판 돈 안 떠났다.... 총알 장전, 스테이블코인으로 바닥만 기다리는 고래들 | 서동주, 김동환, 최윤영 한화투자증권 팀장 [크립토 PLUS]",
+    "published": "2026-06-05T04:39:40+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=4auwGpTQw-c",
+    "thumbnail": "https://img.youtube.com/vi/4auwGpTQw-c/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "비트코인 현물 ETF 자금 유출에도 불구하고 <span class=\"text-amber-300 font-bold\">스테이블코인 점유율 상승</span>은 크립토 시장 자금이 이탈하지 않고 대기 중임을 보여주며, <span class=\"text-cyan-300 font-semibold\">마이크로스트레티지</span>(MSTR)의 4년 만의 첫 비트코인 매도 노이즈를 분석합니다.",
+    "key_claims": [
+      "비트코인을 테더(USDT)로 바꾼 대기 자금이 많아 크립토 시장의 펀더멘탈은 견조하다.",
+      "마이크로스트레티지는 우선주(STRC) 배당 재원을 마련하기 위해 32 BTC를 매도했으나, 이는 전체 보유량의 극소수로 전략 변화가 아니다."
+    ],
+    "data_points": [
+      "마이크로스트레티지 보유 비트코인 매도량: 32 BTC (4년 만의 최초 매도)",
+      "MSTR 발행 영구 우선주 STRC 배당률: 11.5%"
+    ],
+    "signal": "neutral",
+    "signal_reason": "MSTR의 비트코인 매도 소식이 단기 악재로 작용했으나, 스테이블코인 대기 자금 규모가 탄탄해 하방 지지가 가능해 보입니다.",
+    "key_companies": [
+      "MicroStrategy",
+      "Coinbase"
+    ],
+    "insight": "비트코인을 안 팔겠다는 약속을 깬 MSTR of 첫 매도는 자본 건전성 우선 메시지를 전달하여 단기 심리를 위축시켰으나, 우선주 배당 모델의 정상 작동 과정으로 평가됩니다.",
+    "action_point": "MSTR의 추가 매도 여부와 우선주(STRC) 가격의 100달러 복구 여부를 관망하며 크립토 비중을 조절해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "비트코인",
+      "스테이블코인",
+      "마이크로스트레티지",
+      "배당재원",
+      "수요대기",
+      "삼프로TV"
+    ]
+  }
+}

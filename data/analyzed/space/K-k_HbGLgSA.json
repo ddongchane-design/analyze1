@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "K-k_HbGLgSA",
+    "title": "싫으면 팔고 나가라 스페이스X 배짱 상장 (한겨레 박종오 기자)",
+    "published": "2026-06-05T07:55:17+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=K-k_HbGLgSA",
+    "thumbnail": "https://img.youtube.com/vi/K-k_HbGLgSA/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">스페이스X IPO</span> 심사 서류 분석을 통해 공개된 극단적인 <span class=\"text-rose-400 font-medium\">차등의결권 지배 구조</span>와 일론 머스크의 셀프 성과급 주식 보상(10억 주) 실체를 조명합니다.",
+    "key_claims": [
+      "일론 머스크는 클래스 B 황금주(1주당 10표)를 통해 스페이스X 지분 12%만으로도 85%의 의결권을 완전히 독점하고 있다.",
+      "화성에 100만 명 규모 식민지를 지을 경우 클래스 B 10억 주를 추가로 주는 계약을 머스크가 셀프 통과시켰다.",
+      "SEC 신고서 위험 고지서에 '소송할 생각 말고 싫으면 투자하지 말라'는 식의 배짱 거버넌스를 명시했다."
+    ],
+    "data_points": [
+      "스페이스X IPO 공모 비율: 전체 지분의 4% 내외 (750억 달러 상당)",
+      "일론 머스크의 스페이스X 연봉: 연 8,000만 원 (5년째 동결)"
+    ],
+    "signal": "neutral",
+    "signal_reason": "머스크의 극단적 거버넌스는 기관 투자자 소송의 뇌관이 될 수 있으나, 독보적인 우주 인프라 경쟁력과 패시브 자금 강제 유입으로 흥행은 확실해 보입니다.",
+    "key_companies": [
+      "SpaceX",
+      "Tesla"
+    ],
+    "insight": "스페이스X의 지배구조는 미국에서도 유례없는 배짱 거버넌스이나, 화성 개척이라는 원대한 비전 아래 주주들의 권리 포기를 종용하는 구조입니다.",
+    "action_point": "지수 편입에 따른 패시브 수동 매수 유입은 긍정적이지만, 일론 머스크 리스크와 지배구조 경고를 감안해 상장 초기 고점 추격은 삼가야 합니다."
+  },
+  "classification": {
+    "primary_topic": "space",
+    "secondary_topics": [
+      "stock",
+      "economy"
+    ],
+    "tags": [
+      "스페이스X상장",
+      "차등의결권",
+      "황금주계약",
+      "거버넌스리스크",
+      "언더스탠딩"
+    ]
+  }
+}
