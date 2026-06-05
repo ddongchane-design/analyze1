@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "RX8TUMGecd0",
+    "title": "[6월 5일 마감시황] 삼전닉스 10% 폭락, 진짜 이유? 시장이 놓친 진짜 악재와 진짜 기회ㅣ홍선애, 이권희, 김장열 [클로징벨 라이브]",
+    "published": "2026-06-05T08:22:04+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=RX8TUMGecd0",
+    "thumbnail": "https://img.youtube.com/vi/RX8TUMGecd0/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "2026년 6월 5일 국내 반도체 대형주인 삼성전자(6%대)와 SK하이닉스(10% 가까이)가 <span class=\"text-rose-400 font-medium\">동반 폭락</span>했습니다. 이는 엔비디아의 <span class=\"text-cyan-300 font-semibold\">소캠(SoCAM) LPDDR5 스펙 다운</span> 보도에 대한 오해와 시장의 <span class=\"text-rose-400 font-medium\">차익실현 욕구</span>가 겹친 결과로, 실상은 LPDDR5 디램 쇼티지 상황에서 전체 CPU 출하량을 늘리기 위해 메모리 용량을 효율화한 조치입니다.",
+    "key_claims": [
+      "소캠 스펙 변경은 <span class=\"text-cyan-300 font-semibold\">LPDDR5 공급 부족</span>에 따른 고육지책으로, 반도체 업계의 전체 TAM(유효시장) 규모는 변함이 없습니다.",
+      "CPU 공급이 원활해지면 오히려 시스템 완제품 판매가 늘어나 장기적으로 <span class=\"text-cyan-300 font-semibold\">HBM</span> 수요에 긍정적인 영향을 줍니다.",
+      "일각에서 제기된 26년 말 반도체 사이클 꺾임설은 서버 데이터센터의 <span class=\"text-amber-300 font-bold\">장기공급계약(LTA)</span> 비중을 고려할 때 시기상조입니다."
+    ],
+    "data_points": [
+      "SK하이닉스 9.8% 급락한 207만 원 마감, 삼성전자 6%대 급락",
+      "소캠 LPDDR 용량 스펙이 192GB 수준에서 절반 가까이 축소 보도",
+      "외국인의 코스피 매도 규모 4.4조 원 중 대다수가 반도체 대형주에 집중"
+    ],
+    "signal": "bullish",
+    "signal_reason": "반도체 대형주의 폭락은 펀더멘탈 악화가 아닌 수급 꼬임과 소캠 스펙 다운 오해에 따른 <span class=\"text-rose-400 font-medium\">일시적 충격</span>이므로 강력한 저가 매수 기회입니다.",
+    "key_companies": [
+      "삼성전자",
+      "SK하이닉스",
+      "엔비디아",
+      "마이크론"
+    ],
+    "insight": "소캠 사태의 본질은 '수요 절벽'이 아닌 '심각한 공급 부족(<span class=\"text-amber-300 font-bold\">쇼티지</span>)'입니다. 완제품 판매 증가가 동반되어야 <span class=\"text-cyan-300 font-semibold\">HBM4</span> 등 차세대 제품으로의 선순환이 가능해지며, 밸류에이션 상으로도 금일 하락으로 반도체 대형주들의 가격 메리트가 다시 부각되는 국면입니다.",
+    "action_point": "소캠 노이즈로 기판(PCB) 업종이나 반도체 장비주까지 동반 급락했으나, 실제 기판 설계 변경이 없음을 확인했으므로 낙폭이 과도한 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 및 소부장 우량주(<span class=\"text-cyan-300 font-semibold\">PSK</span> 등)를 저점 매수하는 전략을 추천합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock",
+      "economy"
+    ],
+    "tags": [
+      "반도체폭락",
+      "SK하이닉스",
+      "소캠",
+      "LPDDR5",
+      "저가매수"
+    ]
+  }
+}

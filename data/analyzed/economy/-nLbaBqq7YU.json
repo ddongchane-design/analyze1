@@ -1,0 +1,50 @@
+{
+  "video": {
+    "id": "-nLbaBqq7YU",
+    "title": "[빈난새의 개장전요것만-6월5일] '연내 금리인상' 반영 | 반도체 조정에 대한 해석 | S&P, 초대형 IPO 조기편입 거부 | JPM 테슬라 상향 | 플래닛랩스 룰루레몬 서클",
+    "published": "2026-06-05T14:32:26+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=-nLbaBqq7YU",
+    "thumbnail": "https://img.youtube.com/vi/-nLbaBqq7YU/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "1. 미국의 <span class=\"text-amber-300 font-bold\">강력한 고용 지표</span> 발표로 연내 추가 금리 인상 가능성이 급부상하며 국채 금리가 급등하고 <span class=\"text-amber-300 font-bold\">달러 강세</span>가 심화되었습니다.\n2. <span class=\"text-cyan-300 font-semibold\">엔비디아</span>의 차세대 <span class=\"text-cyan-300 font-semibold\">베라 루빈</span> 플랫폼에서 LPCAMM(소캠) 메모리 탑재 용량이 절반으로 줄어든다는 소식에 반도체주 중심의 <span class=\"text-rose-400 font-medium\">차익 실현</span> 매물이 출회되었습니다.\n3. 스페이스X의 S&P 500 <span class=\"text-rose-400 font-medium\">조기 편입 거부</span> 및 제이피모건의 테슬라 중립 상향 조정 등 개별 대형 기술주 이슈가 겹치며 시장 <span class=\"text-rose-400 font-medium\">변동성이 확대</span>되었습니다.",
+    "key_claims": [
+      "미국 고용 시장의 강세로 인해 연준의 <span class=\"text-rose-400 font-medium\">금리 인하 기대가 소멸</span>하고 연내 인상 가능성이 채권 시장에 반영되었습니다.",
+      "엔비디아의 베라 루빈 소캠 탑재량 축소는 AI 수요 둔화가 아니라 <span class=\"text-amber-300 font-bold\">TCO(총소유비용) 절감</span> 및 공급 병목을 해결하기 위한 전략적 선택입니다.",
+      "스페이스X의 S&P 500 <span class=\"text-rose-400 font-medium\">조기 편입 실패</span>는 패시브 자금의 조기 유입 기대감을 제한하는 요소입니다."
+    ],
+    "data_points": [
+      "미국의 5월 신규 고용은 17만 2,000명으로 예상치와 낙관적인 전망을 모두 상회함",
+      "원/달러 환율이 1,553원을 돌파하며 2009년 금융위기 이후 최고치 기록",
+      "미국의 2년물 국채 금리가 9bp 급등한 4.135%, 10년물은 4.53% 기록",
+      "엔비디아 베라 루빈 NVL72의 소캠 메모리 용량이 기존 192GB에서 96GB로 축소 예정"
+    ],
+    "signal": "neutral",
+    "signal_reason": "고용 강세로 인한 금리 인상 우려와 기술주 <span class=\"text-rose-400 font-medium\">차익 실현 압력</span>이 존재하나, <span class=\"text-cyan-300 font-semibold\">AI 하드웨어</span>의 근본적인 수요와 기업 펀더멘탈은 훼손되지 않았기 때문에 중립적인 시그널로 판단합니다.",
+    "key_companies": [
+      "엔비디아",
+      "테슬라",
+      "스페이스X",
+      "서클",
+      "룰루레몬"
+    ],
+    "insight": "<span class=\"text-cyan-300 font-semibold\">엔비디아</span>의 메모리 탑재량 조절은 AI 하이퍼스케일러들의 <span class=\"text-rose-400 font-medium\">투자 여력 한계</span>를 고려한 현실적 대안입니다. 이는 개별 반도체 칩당 메모리 밀도는 낮아지더라도 전체 서버 및 렉의 공급 속도를 높여 전체 시장 파이를 키우는 긍정적인 <span class=\"text-amber-300 font-bold\">병목 해소 과정</span>으로 보아야 합니다.",
+    "action_point": "금리 상승 압력과 기술주 고점 논란이 맞물리는 <span class=\"text-rose-400 font-medium\">단기 조정기</span>이므로 <span class=\"text-rose-400 font-medium\">추격 매수를 지양</span>하고, 서버 공급망 병목이 완화되는 과정에서 실질적인 수혜를 볼 <span class=\"text-cyan-300 font-semibold\">하드웨어 밸류체인</span> 및 인프라 건설 관련주 위주로 매수 타이밍을 조율해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "tech",
+      "stock",
+      "space"
+    ],
+    "tags": [
+      "금리인상",
+      "고용지표",
+      "반도체조정",
+      "엔비디아",
+      "스페이스X"
+    ]
+  }
+}

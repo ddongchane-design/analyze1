@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "n0piGH8Sa6U",
+    "title": "최태원 회장이 본 반도체의 미래",
+    "published": "2026-06-05T09:00:20+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=n0piGH8Sa6U",
+    "thumbnail": "https://img.youtube.com/vi/n0piGH8Sa6U/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "최태원 SK그룹 회장이 <span class=\"text-amber-300 font-bold\">AI 데이터센터 확장</span>에 따른 메모리 반도체의 미래 전망과 공급 의지를 드러냈습니다. 고객들이 필요로 하는 고성능 메모리를 전폭 제공할 것이며, 장비 및 부지 비용 등 <span class=\"text-rose-400 font-medium\">대규모 투자 비용 부담</span> 속에서도 시장 주도권을 확보하겠다는 강력한 신호를 보냈습니다.",
+    "key_claims": [
+      "인공지능 확장은 데이터센터 건설과 더 많은 <span class=\"text-cyan-300 font-semibold\">AI 메모리 반도체</span> 수요를 필연적으로 유발합니다.",
+      "장비, 부지, 용수 등 데이터센터 확장을 위한 <span class=\"text-rose-400 font-medium\">인프라 비용 상승 문제</span>가 주요 기술적/재무적 난제입니다.",
+      "고객사의 니즈에 맞춰 필요한 반도체를 적기에 공급함으로써 글로벌 시장 독점력을 공고히 할 것입니다."
+    ],
+    "data_points": [
+      "AI 확장에 따른 데이터센터 및 메모리 수요 증가 기조 확인"
+    ],
+    "signal": "bullish",
+    "signal_reason": "그룹 총수가 직접 AI 데이터센터 확장 속에서 <span class=\"text-cyan-300 font-semibold\">고성능 메모리</span> 수요의 지속성을 확인하고, 인프라 비용 부담을 돌파하겠다는 의지를 천명했기 때문입니다.",
+    "key_companies": [
+      "SK하이닉스",
+      "SK그룹"
+    ],
+    "insight": "AI 시장의 승부처는 칩 제조를 넘어 부지, 전력, 용수를 포함한 <span class=\"text-amber-300 font-bold\">AI 인프라 확보 능력</span>에 있습니다. SK그룹은 비용 압박 속에서도 <span class=\"text-cyan-300 font-semibold\">메모리 리더십</span>을 유지하기 위한 선제적 투자를 지속할 것으로 보입니다.",
+    "action_point": "장비 및 부지 구축으로 인한 <span class=\"text-rose-400 font-medium\">단기 비용 지출 부담</span> 우려가 있으나, 글로벌 빅테크의 데이터센터 확장에 직결된 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>의 차세대 메모리 지배력에 장기적으로 주목해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock",
+      "energy"
+    ],
+    "tags": [
+      "SK하이닉스",
+      "AI데이터센터",
+      "메모리반도체",
+      "최태원",
+      "인프라비용"
+    ]
+  }
+}
