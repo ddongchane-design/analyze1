@@ -1,0 +1,51 @@
+{
+  "video": {
+    "id": "NC0ZYir3pXw",
+    "title": "과연 테슬라는 무엇을 숨기고 있는 걸까요? 옵티머스 현대차 아틀라스",
+    "published": "2026-06-06T10:49:01+00:00",
+    "channel_name": "엔지니어TV",
+    "url": "https://www.youtube.com/watch?v=NC0ZYir3pXw",
+    "thumbnail": "https://img.youtube.com/vi/NC0ZYir3pXw/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "테슬라는 경쟁사의 카피캣 방지 및 완성도 제고를 위해 <span class=\"text-cyan-300 font-semibold\">옵티머스 V3</span>의 보안을 극도로 통제하며 7~8월 양산 진입 시점에 맞춘 실물 공개를 준비 중입니다.\n일론 머스크의 비전 온리 및 단일 칩 고집이 3D 공간에서 움직이는 휴머노이드의 연산 과부하를 초래해 <span class=\"text-cyan-300 font-semibold\">듀얼 칩 구조</span>와 카메라 사양 타협(500만 화소) 등 설계 변경을 유발했습니다.\n로봇 대량생산을 위해 관절 모터의 발열 제어, 초정밀 캘리브레이션 기술, <span class=\"text-cyan-300 font-semibold\">촉각 센서 소재</span> 및 로봇 전용 부품 공급망 확보가 핵심 과제로 부각되고 있습니다.",
+    "key_claims": [
+      "휴머노이드 로봇은 자율주행차보다 3D 공간 연산량이 훨씬 복잡하여 기존 FSD 방식을 고수하다가 결국 <span class=\"text-cyan-300 font-semibold\">듀얼 칩 구조(HW4 기반)</span>로 선회하였습니다.",
+      "대량생산 시 동일한 기계적 오차와 노화에 실시간으로 대응하기 위해 자동 온라인 <span class=\"text-cyan-300 font-semibold\">OTA 업데이트 캘리브레이션</span> 기술이 핵심 경쟁력으로 작용할 것입니다.",
+      "옵티머스의 조기 출시는 로봇 부품 기업들의 대량 생산 라인 투자를 촉진해 전반적인 <span class=\"text-cyan-300 font-semibold\">로봇 부품 단가 인하</span>와 생태계 활성화를 유도할 것입니다."
+    ],
+    "data_points": [
+      "옵티머스 실 생산 개시 예정: 2026년 7월~8월경 예상",
+      "관절 모터 발열 현상: 고난도 동작 수행 시 전류 3~5배 증가, 발열량 정격의 9~25배까지 상승",
+      "카메라 사양 타협: 일론 머스크의 1500만 화소 요구 대비 모델 훈련 비용 및 초점 문제로 500만 화소 수준에서 타협",
+      "중고차 감가 및 로봇 단가: 고급 로봇손 단품이 억 대 수준이나 일론 머스크는 완제품 1억 미만(수천만 원대) 출시 목표 제시"
+    ],
+    "signal": "bullish",
+    "signal_reason": "설계 변경과 개발 지연 리스크에도 불구하고, 테슬라의 대량 생산 시도가 <span class=\"text-cyan-300 font-semibold\">로봇 전용 부품 공급망</span>의 대규모 인프라 투자를 유도해 로봇 생태계가 급격히 개화할 것으로 전망됩니다.",
+    "key_companies": [
+      "Tesla",
+      "현대자동차",
+      "Unitree",
+      "에지봇",
+      "오픈AI",
+      "BYD",
+      "Panasonic"
+    ],
+    "insight": "휴머노이드 로봇은 단순한 완성품 제조 경쟁을 넘어 고온/고부하를 견디는 <span class=\"text-cyan-300 font-semibold\">특수 감속기/액추에이터</span> 및 실시간 교정(Online Calibration) 소프트웨어 같은 핵심 하드웨어 및 운영체제 역량이 시장 선점의 열쇠가 될 것입니다.",
+    "action_point": "테슬라 옵티머스 밸류체인 내에 진입해 있는 <span class=\"text-cyan-300 font-semibold\">액추에이터</span>, <span class=\"text-cyan-300 font-semibold\">행성 롤러 스크류</span>, 정밀 센서 기업 및 현대차의 아틀라스 관련 협력사에 대한 비중 확대 기회로 삼아야 합니다."
+  },
+  "classification": {
+    "primary_topic": "robot",
+    "secondary_topics": [
+      "tech",
+      "stock"
+    ],
+    "tags": [
+      "휴머노이드",
+      "테슬라옵티머스",
+      "아틀라스",
+      "액추에이터",
+      "로봇부품"
+    ]
+  }
+}

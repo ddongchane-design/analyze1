@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "IACC4u7dA28",
+    "title": "\"제발 몸만 뛰쳐나오세요\" 터널 안 1000℃ 속에서 살아남는 유일한 탈출구",
+    "published": "2026-06-06T06:00:10+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=IACC4u7dA28",
+    "thumbnail": "https://img.youtube.com/vi/IACC4u7dA28/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "터널은 고대 바빌론 시대 개착식 공법부터 현대의 <span class=\"text-cyan-300 font-semibold\">TBM(터널굴착기)</span> 및 <span class=\"text-cyan-300 font-semibold\">나툼(NATM) 공법</span>에 이르기까지 공학 기술의 집약체로 발전해 왔습니다.\n상매2터널 화재, 제2경인 방음터널 화재, 궁평2지하차도 침수 등 대형 참사 이후 터널 안전기준이 크게 강화되었습니다.\n이에 따라 <span class=\"text-cyan-300 font-semibold\">물분무 설비</span> 설치 기준이 500m 이상으로 강화되고, <span class=\"text-cyan-300 font-semibold\">진입 차단 시설</span> 및 난연성 재질(강화유리 등) 사용이 의무화되었습니다.",
+    "key_claims": [
+      "터널 내 화재 시 유독가스 배출을 위한 제트팬뿐만 아니라 온도를 낮추고 구조물을 보호하는 <span class=\"text-cyan-300 font-semibold\">물분무 설비</span>의 역할이 강화되고 있습니다.",
+      "제2경인 방음터널 참사 이후 가연성 소재인 <span class=\"text-rose-400 font-medium\">PMMA 재질</span> 사용이 전면 금지되고 난연성 소재로의 교체가 의무화되었습니다.",
+      "지하차도 침수 사고를 방지하기 위해 <span class=\"text-cyan-300 font-semibold\">진입 차단 시설</span> 의무화와 벽면 핸드레일, 비상 사다리 등 피난 시설 설치가 필수가 되었습니다."
+    ],
+    "data_points": [
+      "국내 고속도로 및 국도 터널 개수: 2024년 기준 약 3,900개 (일반 터널 2,900개, 지하차도 900개)",
+      "장대 터널(3km 이상): 약 90개이며 국내 가장 긴 도로 터널은 인제양양터널(약 11km)",
+      "물분무 설비 의무화 기준: 기존 1km 이상 터널에서 500m 이상 터널로 강화",
+      "방음터널 화재 규모: 총 830m 중 600m가 연소되었으며 45대 차량 전소"
+    ],
+    "signal": "neutral",
+    "signal_reason": "터널 내 안전 설비 및 난연성 자재 기준이 대폭 강화되면서 관련 <span class=\"text-cyan-300 font-semibold\">특수 건설 자재</span> 및 <span class=\"text-cyan-300 font-semibold\">소방 방재 인프라</span> 시장의 지속적인 성장이 예상됩니다.",
+    "key_companies": [],
+    "insight": "터널 및 지하공간 개발은 늘어나는 반면 사고 발생 시 <span class=\"text-rose-400 font-medium\">밀폐 공간의 치명적 위험성</span>이 부각됨에 따라, 향후 토목 사업은 단순 시공 효율성보다는 <span class=\"text-amber-300 font-bold\">재난 예방 시스템 통합(Smart Safety)</span> 중심으로 고도화될 것입니다.",
+    "action_point": "방음벽 난연재 전환 수혜주 및 터널용 자동 제어/소방 설비 등을 생산하는 <span class=\"text-cyan-300 font-semibold\">스마트 방재 솔루션 기업</span>에 장기적 관점으로 접근할 필요가 있습니다."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "tech",
+      "stock"
+    ],
+    "tags": [
+      "터널안전",
+      "방재시스템",
+      "건설공학",
+      "방음터널",
+      "지하차도"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "Po__kbyhYyc",
+    "title": "반도체 전량매도 고민된다면, 지금 꼭 확인해야 할 신호 3가지",
+    "published": "2026-06-06T03:00:03+00:00",
+    "channel_name": "이효석아카데미",
+    "url": "https://www.youtube.com/watch?v=Po__kbyhYyc",
+    "thumbnail": "https://img.youtube.com/vi/Po__kbyhYyc/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "메모리 주식의 매도 시점을 잡기 위한 3대 신호는 <span class=\"text-amber-300 font-bold\">빅테크의 설비투자(CAPEX) 중단</span>, 이익 성장률 둔화, 그리고 대만 공급망 중단 등 예상치 못한 지정학적/기술적 리스크입니다.\n구글이 120조원 규모의 증자를 단행할 만큼 빅테크의 AI 투자 의지가 강해 <span class=\"text-amber-300 font-bold\">인프라 투자(CAPEX)</span>가 조기에 멈출 가능성은 극히 낮습니다.\n향후 에이전트 AI를 넘어 현실 세계와 상호작용하는 <span class=\"text-cyan-300 font-semibold\">피지컬 AI(Physical AI)</span> 시대가 오면 과거 단순 제어와 달리 대규모 메모리 수요가 신규 창출될 것입니다.",
+    "key_claims": [
+      "구글 등 빅테크들은 주주 환원을 줄이고 <span class=\"text-rose-400 font-medium\">유상증자(증자)</span>까지 단행하며 AI 반도체 및 인프라 구축을 위한 케펙스 재원을 확보하고 있습니다.",
+      "현재 범용 디램 및 낸드의 수익성이 HBM보다 높아지면서 메모리 제조사들의 협상력이 강화되고 있으며, 내년 두 회사의 합산 영업이익이 <span class=\"text-cyan-300 font-semibold\">96조 원</span>에 달할 것이라는 낙관적 전망도 존재합니다.",
+      "메모리 반도체는 수요의 변동성이 전방 산업보다 증폭되는 <span class=\"text-rose-400 font-medium\">채찍 효과(Bullwhip Effect)</span>로 인해 경기 판단의 선행 지표 역할을 합니다."
+    ],
+    "data_points": [
+      "구글 증자 규모: 80B 달러 (약 120조 원, 10B 달러는 워렌 버핏 투자 유치 포함)",
+      "SK증권 전망 내년 영업이익: 삼성전자 54조 원, SK하이닉스 42조 원 (합산 약 96조 원)",
+      "메모리 매도 신호: 빅테크 케펙스 둔화, 이익 성장 가속도 감소, 미-중 갈등 및 대만 지정학적 리스크"
+    ],
+    "signal": "bullish",
+    "signal_reason": "빅테크들이 증자를 감수하며 케펙스 투자를 지속하고 있으며, 범용 디램 가격 상승과 <span class=\"text-cyan-300 font-semibold\">피지컬 AI</span>라는 신규 장기 메모리 수요처가 대기하고 있어 매도 시점으로 보기 어렵습니다.",
+    "key_companies": [
+      "삼성전자",
+      "SK하이닉스",
+      "Nvidia",
+      "Google"
+    ],
+    "insight": "메모리 반도체는 기존 PC/서버 시장의 사이클을 넘어 로보틱스와 결합되는 <span class=\"text-cyan-300 font-semibold\">피지컬 컴퓨팅(Physical Computing)</span>의 필수 요소로 확장되며 구조적 성장 단계로 진입하고 있습니다.",
+    "action_point": "단기 주가 변동성이나 피크아웃 우려에 흔들려 전량 매도하기보다는, 빅테크의 설비투자 추이와 <span class=\"text-rose-400 font-medium\">대만 공급망의 지정학적 리스크</span>를 체크하며 비중을 유지하는 전략이 유효합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "반도체투자",
+      "삼성전자",
+      "SK하이닉스",
+      "HBM",
+      "피지컬AI"
+    ]
+  }
+}

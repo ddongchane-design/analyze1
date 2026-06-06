@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "RR-kJZTyfOg",
+    "title": "[한국어] '샴의 법칙' 창시자가 삼프로TV에! 케빈 워시에도 연준은 바뀌지 않는다? 전 연준 이코노미스트가 내다본 6월 FOMC | 클라우디아 삼 [특별인터뷰]",
+    "published": "2026-06-06T04:00:14+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=RR-kJZTyfOg",
+    "thumbnail": "https://img.youtube.com/vi/RR-kJZTyfOg/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "'샴의 법칙' 창시자인 클라우디아 삼 박사는 2024년 지표 발동에도 불구하고, 이번 실업률 상승은 해고 증가가 아닌 <span class=\"text-amber-300 font-bold\">이민 유입에 따른 노동 공급 급증</span> 때문이므로 경기침체가 아니라고 선을 그었습니다.\n케빈 워시가 차기 연준 의장으로 거론되지만, 연준의 의사결정 연속성과 대차대조표 축소 한계(약 5조 달러 이하 축소 시 시장 기능 차질)를 고려할 때 <span class=\"text-rose-400 font-medium\">통화정책의 급격한 변화</span>는 어려울 것입니다.\nAI 투자가 대규모 집행 중이나 실질적인 <span class=\"text-cyan-300 font-semibold\">생산성 향상 효과</span>가 경제 지표에 나타나기까지는 수년의 시간이 필요할 것으로 진단했습니다.",
+    "key_claims": [
+      "실업률 3개월 평균이 최근 12개월 최저치보다 0.5%p 상승할 때 불황을 판정하는 <span class=\"text-cyan-300 font-semibold\">샴의 법칙</span>은 코로나19 이후의 노동력 왜곡(이민자 급증)으로 인해 예외적 오류가 발생했습니다.",
+      "연준은 양적 긴축(QT)을 진행하더라도 시중은행들의 지급준비금 수요로 인해 <span class=\"text-rose-400 font-medium\">대차대조표의 대폭적인 축소</span>가 현실적으로 어렵습니다.",
+      "케빈 워시가 <span class=\"text-rose-400 font-medium\">포워드 가이던스(향후 금리 경로 안내) 무용론</span>을 주장하며 소통 축소를 꾀할 수 있으나, 이는 시장 투명성과 신뢰를 저해하는 실수가 될 수 있습니다."
+    ],
+    "data_points": [
+      "샴의 법칙 침체 신호 기준: 3개월 평균 실업률이 12개월 내 최저치 대비 0.5%포인트 이상 상승 시 발동",
+      "연준 대차대조표 축소 하한선: 약 5조 달러 수준 이하로 급격히 줄일 경우 단기 자금시장 불안 우려",
+      "연준 역사 및 인플레이션: 최근 인플레이션은 5년 만에 연준 목표치 부근에 도달했으며 파월의 연착륙 성공 평가"
+    ],
+    "signal": "neutral",
+    "signal_reason": "샴의 법칙 발동에도 불구하고 고용 공급 호조에 따른 착시로 <span class=\"text-amber-300 font-bold\">미국 경제의 연착륙(Soft Landing)</span> 기조가 견고하며, 연준의 통화 긴축 완화가 완만하게 이어질 것으로 예상됩니다.",
+    "key_companies": [
+      "New Century Advisors"
+    ],
+    "insight": "현재 노동 시장 and 인플레이션 지표는 과거의 단순 매크로 모델로 예측하기 어려운 구조적 불일치가 존재하며, <span class=\"text-cyan-300 font-semibold\">AI 인프라 투자</span>와 이민 정책 변화가 새로운 장기 잠재성장률을 결정하는 핵심 변수가 되고 있습니다.",
+    "action_point": "경기침체 지표(샴의 법칙 등)의 표면적 신호에 공포 투매하기보다, <span class=\"text-rose-400 font-medium\">단기 자금시장 금리(지급준비금 수준)</span>와 실질 소비 펀더멘털을 보며 포트폴리오를 유지하는 중립적 대응이 필요합니다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock",
+      "tech"
+    ],
+    "tags": [
+      "샴의법칙",
+      "연방준비제도",
+      "통화정책",
+      "경기침체",
+      "케빈워시"
+    ]
+  }
+}

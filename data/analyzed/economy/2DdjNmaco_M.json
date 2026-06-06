@@ -1,0 +1,39 @@
+{
+  "video": {
+    "id": "2DdjNmaco_M",
+    "title": "내려가지 않는 서비스와 집값... 압박에 직면한 한국 중산층 현실? #교양이를부탁해",
+    "published": "2026-06-06T06:00:26+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=2DdjNmaco_M",
+    "thumbnail": "https://img.youtube.com/vi/2DdjNmaco_M/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "현재의 인플레이션은 상품이 아닌 서비스와 부동산 등 내구재 상승에서 비롯됩니다. 부유층의 욕구와 제한된 인프라로 인해 <span class=\"text-amber-300 font-bold\">자산발 인플레이션</span>이 심화되고 있으며, 한국 중산층은 <span class=\"text-amber-300 font-bold\">환율 상승</span> 압박까지 더해져 <span class=\"text-rose-400 font-medium\">실질 구매력 저하</span>를 겪고 있습니다. 기본 소득 분배에 대한 명확한 해답이 없어 정부 정책의 한계도 지적됩니다.",
+    "key_claims": [
+      "현재 인플레이션의 주범은 상품 가격이 아닌 서비스 및 내구재 가격의 상승이다.",
+      "상대적인 <span class=\"text-amber-300 font-bold\">환율 상승</span>으로 인해 한국 중산층에 가중된 <span class=\"text-rose-400 font-medium\">인플레 압박</span>이 가해지고 있다.",
+      "자산발 인플레로 <span class=\"text-cyan-300 font-semibold\">고급 주택</span> 및 서비스 가격이 급등한 상황에서 기본 소득의 배분 주체에 대한 대안이 부재하다."
+    ],
+    "data_points": [
+      "우유 가격 10% 상승 시 환율 10%가 추가로 상승하면 실질적으로 120%의 가격을 지불하게 됨 (예시)"
+    ],
+    "signal": "bearish",
+    "signal_reason": "상품 물가는 안정세이나 서비스 및 부동산 등 실물 자산 가격 상승과 <span class=\"text-amber-300 font-bold\">환율 상승</span>으로 인해 한국 중산층의 <span class=\"text-rose-400 font-medium\">실질 구매력이 하락</span>하는 경제적 압박 국면입니다.",
+    "key_companies": [],
+    "insight": "현재 인플레이션의 본질은 상품이 아닌 자산과 사적 서비스의 고급화에 있습니다. 특히 한국은 원화 약세로 인한 수입 물가 전가 효과가 중산층에 직격탄을 날리고 있으며, 이는 <span class=\"text-amber-300 font-bold\">양극화</span>와 <span class=\"text-rose-400 font-medium\">내수 위축</span>을 가속화시키는 구조적 문제입니다.",
+    "action_point": "자산발 인플레이션 장기화에 대비하여 <span class=\"text-cyan-300 font-semibold\">실물 자산</span> 및 <span class=\"text-cyan-300 font-semibold\">달러 표시 자산</span>으로 포트폴리오를 분산하고, 가격 전가력을 갖춘 우량 기업에 주목해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "인플레이션",
+      "중산층",
+      "환율",
+      "부동산",
+      "기본소득"
+    ]
+  }
+}
