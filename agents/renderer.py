@@ -331,8 +331,9 @@ CONSENSUS_STYLE = {
 
 SYNTHESIS_BANNER = """
 <div class="mb-8 bg-gradient-to-br from-slate-800/70 to-slate-900/50 border border-{color}-400/25 rounded-2xl p-6">
-  <div class="flex items-center gap-3 mb-4">
+  <div class="flex items-center gap-3 mb-4 flex-wrap">
     <span class="text-[10px] font-bold tracking-widest text-{color}-400 uppercase">AI 종합 인사이트</span>
+    {updated_html}
     <span class="inline-flex items-center gap-1.5 text-[11px] font-bold px-2.5 py-1 rounded-lg border"
       style="background:{cs_bg};color:{cs_color};border-color:{cs_border}">
       <span class="w-1.5 h-1.5 rounded-full" style="background:{cs_color}"></span>
@@ -356,7 +357,7 @@ SYNTHESIS_BANNER = """
 DIVERGENCE_HTML = '<p class="text-[11px] text-slate-500 mt-3 border-t border-slate-700/50 pt-3">⚡ {divergence}</p>'
 
 
-def _render_synthesis_banner(synthesis: dict, color: str) -> str:
+def _render_synthesis_banner(synthesis: dict, color: str, updated_at: str = "") -> str:
     if not synthesis:
         return ""
     cs = CONSENSUS_STYLE.get(synthesis.get("consensus", "neutral"), CONSENSUS_STYLE["neutral"])
@@ -369,6 +370,7 @@ def _render_synthesis_banner(synthesis: dict, color: str) -> str:
         for w in synthesis.get("watch_list", [])
     )
     divergence_html = DIVERGENCE_HTML.format(divergence=synthesis["divergence"]) if synthesis.get("divergence") else ""
+    updated_html = f'<span class="text-[10px] text-slate-500 font-light">(업데이트: {updated_at})</span>' if updated_at else ""
     return SYNTHESIS_BANNER.format(
         color=color,
         cs_bg=cs["bg"], cs_color=cs["color"], cs_border=cs["border"], cs_label=cs["label"],
@@ -376,6 +378,7 @@ def _render_synthesis_banner(synthesis: dict, color: str) -> str:
         themes_html=themes_html,
         watchlist_html=watchlist_html,
         divergence_html=divergence_html,
+        updated_html=updated_html,
     )
 
 
@@ -388,7 +391,17 @@ def render_topic_page(topic: dict, cards_html: str, output_dir: Path, channels: 
     if not cards_html.strip():
         cards_html = ""
 
-    synthesis_html = _render_synthesis_banner(synthesis or {}, color)
+    synthesis_path = Path("data/synthesis") / f"{tid}.json"
+    updated_at = ""
+    if synthesis_path.exists():
+        try:
+            mtime = synthesis_path.stat().st_mtime
+            dt = datetime.fromtimestamp(mtime, KST)
+            updated_at = dt.strftime("%Y.%m.%d %H:%M")
+        except Exception:
+            pass
+
+    synthesis_html = _render_synthesis_banner(synthesis or {}, color, updated_at)
 
     ch_btns = ""
     if channels:
