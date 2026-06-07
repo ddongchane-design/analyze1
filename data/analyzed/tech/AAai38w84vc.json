@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "AAai38w84vc",
+    "title": "25년 만에 바뀌는 구글 검색창 | 실리콘밸리뷰 | 원호섭 특파원",
+    "published": "2026-06-06T23:00:12+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=AAai38w84vc",
+    "thumbnail": "https://img.youtube.com/vi/AAai38w84vc/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "1. 구글은 25년간 유지된 키워드 검색에서 질문의 의도를 분석해 실행까지 대행하는 <span class=\"text-amber-300 font-bold\">AI 비서 검색 패러다임</span>으로의 전환을 선언했습니다.\n2. 실시간 맞춤형 화면을 생성하는 <span class=\"text-cyan-300 font-semibold\">제너러티브 UI(Generative UI)</span> 기술과 경량화 모델인 <span class=\"text-cyan-300 font-semibold\">재미나이 3.5 플래시</span>를 통해 사용자 경험을 혁신하고 있습니다.\n3. 오픈AI와 같은 모델 중심의 경쟁사들과 달리 구글은 검색, 유튜브, 안드로이드 등의 <span class=\"text-amber-300 font-bold\">거대한 플랫폼 생태계</span>를 무기로 AI 대중화 및 수익화에 앞서고 있습니다.",
+    "key_claims": [
+      "인터넷의 시작이었던 검색창이 단순 정보 탐색을 넘어 AI가 백그라운드에서 정보를 추적하고 실행하는 <span class=\"text-cyan-300 font-semibold\">자율형 에이전트</span>로 진화합니다.",
+      "정적인 웹페이지 나열에서 탈피하여 AI가 사용자 질문에 맞춰 즉석에서 인터페이스를 구성하는 <span class=\"text-amber-300 font-bold\">동적 화면 생성</span> 기술이 표준이 될 것입니다.",
+      "애플 시리(Siri)에 재미나이 탑재 가능성 등 전 세계 스마트폰 생태계를 아우르는 <span class=\"text-cyan-300 font-semibold\">기기 내재형(On-Device) AI</span> 주도권 선점이 핵심 경쟁처입니다."
+    ],
+    "data_points": [
+      "구글 재미나이 이용자 수 공식 집계 9억 명 돌파",
+      "구글 I/O 2026에서 차세대 AI 검색 모델 및 재미나이 3.5 플래시 공개"
+    ],
+    "signal": "bullish",
+    "signal_reason": "구글이 보유한 강력한 사용자 생태계에 AI가 자연스럽게 결합되면서 고비용 구조에 시달리는 경쟁사들과 달리 광고 및 플랫폼 매출 등 <span class=\"text-amber-300 font-bold\">실질적인 수익 모델 구축</span>이 가시화되고 있기 때문입니다.",
+    "key_companies": [
+      "Alphabet (Google)",
+      "Apple",
+      "OpenAI"
+    ],
+    "insight": "AI 경쟁의 본질은 가장 뛰어난 기초 모델 개발에 머무는 것이 아니라, 수십억 명의 일상과 연결된 <span class=\"text-amber-300 font-bold\">독점적 플랫폼 유통망</span>에 AI 비서를 얼마나 빠르고 유기적으로 심어놓는가에 있습니다.",
+    "action_point": "구글의 AI 검색 전환으로 인해 기존 검색 기반 SEO 비즈니스가 쇠퇴하고 자율 대행 쇼핑과 서비스 결제가 활성화될 것이므로, <span class=\"text-cyan-300 font-semibold\">대화형 AI 플랫폼 생태계 관련주</span>와 빅테크 광고 밸류체인에 투자 비중을 늘려야 합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock",
+      "etc"
+    ],
+    "tags": [
+      "구글IO",
+      "재미나이",
+      "AI검색",
+      "제너러티브UI",
+      "빅테크경쟁",
+      "온디바이스AI"
+    ]
+  }
+}

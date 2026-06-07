@@ -1,0 +1,51 @@
+{
+  "video": {
+    "id": "xk35tWdAH0U",
+    "title": "나스닥 -4.5%, 현금 쌓아둔 버핏은 이순간을 기다렸다!",
+    "published": "2026-06-06T12:05:07+00:00",
+    "channel_name": "수페TV",
+    "url": "https://www.youtube.com/watch?v=xk35tWdAH0U",
+    "thumbnail": "https://img.youtube.com/vi/xk35tWdAH0U/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "금리 인상 우려 및 AI 버블 경계감으로 나스닥이 주간 <span class=\"text-rose-400 font-medium\">-4.5% 급락</span>하는 조정을 겪었으나, 자금이 가치주와 헬스케어 등으로 이동하는 건전한 <span class=\"text-amber-300 font-bold\">순환매 장세</span>가 관측됨.\n워런 버핏의 버크셔 해서웨이가 유상증자를 단행한 <span class=\"text-cyan-300 font-semibold\">구글(알파벳)</span>에 100억 달러 규모의 3자 배정 유상증자로 참여하여 지분을 약 50% 늘린 사실이 확인됨.\n미국 고용 지표 호조에 따른 금리 인상 가능성과 지정학적 불안이 겹친 가운데, 레이 달리오는 <span class=\"text-rose-400 font-medium\">30년물 국채 금리 5% 돌파</span>를 주요 위험 지표로 경고함.",
+    "key_claims": [
+      "이번 기술주 조정은 패닉 셀링이 아니라 과열된 성장주에서 경기방어 및 가치주 섹터로 자금이 이동하는 <span class=\"text-amber-300 font-bold\">건전한 조정 국면</span>임.",
+      "엔비디아 젠슨 황의 방한과 벨라 CPU 사양 변경 우려는 실제 메모리 총수요 감소가 아닌 설계 변화로, 반도체 <span class=\"text-cyan-300 font-semibold\">중장기 업황</span>은 견조함.",
+      "버핏의 구글 투자는 AI 설비투자 부담으로 인한 <span class=\"text-rose-400 font-medium\">주가 조정 및 자금 조달</span> 기회를 역으로 활용한 대가들의 전형적인 매수 전략임."
+    ],
+    "data_points": [
+      "나스닥 주간 하락률 -4.5%",
+      "원/달러 환율 1,507원에서 1,559원으로 상승",
+      "버크셔 해서웨이 구글 100억 달러(3자 배정) 추가 투자",
+      "미국 신규 고용 17.2만 명(예상치 8.5만 명 크게 상회)",
+      "구글의 주당 348달러 유상증자 발행가"
+    ],
+    "signal": "neutral",
+    "signal_reason": "단기적으로 고용 지표 호조와 국채 금리 급등에 따른 <span class=\"text-rose-400 font-medium\">통화 긴축 및 변동성 우려</span>가 존재하나, 워런 버핏의 빅테크 대규모 저점 매수와 가치주 순환매는 시장의 <span class=\"text-amber-300 font-bold\">하방 경직성</span>을 지지함.",
+    "key_companies": [
+      "구글",
+      "버크셔 해서웨이",
+      "브로드컴",
+      "엔비디아",
+      "유나이티드 헬스",
+      "일라이 릴리"
+    ],
+    "insight": "빅테크 기업들이 천문학적인 AI 자본 지출(CapEx)을 감당하기 위해 유상증자 등 적극적인 <span class=\"text-cyan-300 font-semibold\">자금 조달</span>에 나서는 상황에서, 현금 보유량이 높은 대가들이 이를 저가 매수 기회로 활용하고 있음. 이는 시장 전체의 AI 거품 붕괴 우려에도 불구하고, 생존 가능성이 높고 플랫폼 지배력을 갖춘 <span class=\"text-cyan-300 font-semibold\">핵심 테크 기업</span>의 장기적 가치는 여전히 유효하다는 방증임.",
+    "action_point": "성장주 일변도의 포트폴리오를 점검하고 변동성에 대비해 <span class=\"text-cyan-300 font-semibold\">헬스케어(유나이티드헬스, 일라이릴리 등)</span>나 배당주 비중을 밸런싱해야 하며, 미 <span class=\"text-rose-400 font-medium\">30년물 국채 금리 5% 돌파 및 금리 경로 변동</span> 추이를 긴밀히 관찰해야 함."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy",
+      "tech"
+    ],
+    "tags": [
+      "나스닥",
+      "워런버핏",
+      "구글유상증자",
+      "순환매",
+      "헬스케어"
+    ]
+  }
+}

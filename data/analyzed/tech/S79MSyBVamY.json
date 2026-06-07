@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "S79MSyBVamY",
+    "title": "메모리의 파운드리화 가능할까… 한국판 맨해튼 프로젝트의 시동 #교양이를부탁해",
+    "published": "2026-06-06T11:30:35+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=S79MSyBVamY",
+    "thumbnail": "https://img.youtube.com/vi/S79MSyBVamY/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "메모리 반도체의 압도적인 생산량과 핵심 기술력 확보를 바탕으로 한 <span class=\"text-amber-300 font-bold\">메모리 파운드리화</span>가 한국 반도체 산업의 새로운 돌파구로 제시됨.\n벨기에 IMEC과 유사한 <span class=\"text-cyan-300 font-semibold\">공동 연구개발 플랫폼(한국판 IMEC)</span>을 구축하여 글로벌 고객사의 유치 및 맞춤형 칩 개발을 지원하는 생태계 조성이 필요함.\n중국의 반도체 굴기에 맞서기 위해 <span class=\"text-violet-300 font-medium\">정부와 산업계의 선제적 R&D 투자</span>가 시급하며, 이를 방치할 경우 글로벌 주도권을 빼앗길 우려가 있음.",
+    "key_claims": [
+      "압도적인 생산량 증가와 초격차 기술(저전력, 저지연, <span class=\"text-cyan-300 font-semibold\">첨단 패키징</span>)을 확보해야 메모리 파운드리가 가능함.",
+      "공동 반도체 R&D 허브 설립은 개별 기업에만 맡기지 말고 <span class=\"text-amber-300 font-bold\">정부 주도의 공용 플랫폼</span> 형태로 추진되어야 함.",
+      "한국이 선제적으로 공용 플랫폼을 구축하지 못하면 <span class=\"text-rose-400 font-medium\">중국의 저가 경쟁력 공세</span>에 시장을 잠식당할 위험이 있음."
+    ],
+    "data_points": [
+      "생산량 기준 현재의 약 2배 수준의 캐파 확보 필요성 언급",
+      "용인 반도체 메가 클러스터 등 제조 기반 확장 프로젝트 진행 중"
+    ],
+    "signal": "bullish",
+    "signal_reason": "메모리의 파운드리 전환과 <span class=\"text-cyan-300 font-semibold\">한국형 공용 플랫폼 구축</span> 구상은 메모리 공급 부족 상황에서 한국 반도체 기업들의 지배력을 한 단계 끌어올릴 수 있는 강력한 <span class=\"text-amber-300 font-bold\">중장기 성장 동력</span>임.",
+    "key_companies": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "insight": "메모리 파운드리화는 단순한 칩 제조를 넘어 설계부터 후공정까지 아우르는 글로벌 생태계를 한국 내에 이식하려는 시도임. 이는 아시아로 쏠린 반도체 제조 패권을 활용해 벨기에 IMEC 같은 <span class=\"text-cyan-300 font-semibold\">R&D 허브</span>를 선점함으로써, <span class=\"text-rose-400 font-medium\">중국의 메모리 추격 시도</span>를 사전에 차단하고 커스텀 메모리 시장의 독점력을 강화하는 핵심 열쇠가 될 것임.",
+    "action_point": "투자자는 용인 반도체 클러스터 투자 진척도와 <span class=\"text-cyan-300 font-semibold\">첨단 패키징(HBM 등)</span> 및 저전력/저지연 메모리 기술 리더십을 보유한 국내 <span class=\"text-cyan-300 font-semibold\">반도체 투톱(삼성전자, SK하이닉스)</span>의 메모리 파운드리 비즈니스 구체화 여부를 모니터링해야 함."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "반도체",
+      "메모리파운드리",
+      "삼성전자",
+      "SK하이닉스",
+      "IMEC"
+    ]
+  }
+}

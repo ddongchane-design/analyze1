@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "36JHK2Vgf_w",
+    "title": "HDMI 말고 DisplayPort 쓰는 이유… DP 케이블 고를 때 진짜 봐야 할 것",
+    "published": "2026-06-07T01:06:28+00:00",
+    "channel_name": "안될공학 - IT 테크 신기술",
+    "url": "https://www.youtube.com/watch?v=36JHK2Vgf_w",
+    "thumbnail": "https://img.youtube.com/vi/36JHK2Vgf_w/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "1. PC 및 게이밍 환경에서는 거실용인 HDMI보다 높은 대역폭과 확장성을 가진 <span class=\"text-cyan-300 font-semibold\">디스플레이 포트(DP)</span>가 주류로 사용됩니다.\n2. DP 케이블 선택 시 버전(1.4, 2.1)보다 실제 전송 속도를 나타내는 인증 등급(<span class=\"text-cyan-300 font-semibold\">DP40, DP80</span>)과 대역폭을 확인하는 것이 핵심입니다.\n3. 고속 신호 전송에 따른 신호 불안정을 해결하기 위해 <span class=\"text-amber-300 font-bold\">인코딩 방식 개선</span>(128B/132B) 및 DSC 압축 기술이 활용됩니다.",
+    "key_claims": [
+      "HDMI는 거실용 영상 기기 중심, <span class=\"text-cyan-300 font-semibold\">디스플레이 포트</span>는 고성능 PC 및 멀티 모니터 환경에 최적화되어 개발되었습니다.",
+      "케이블 규격의 숫자보다 실제 지원하는 <span class=\"text-amber-300 font-bold\">최대 대역폭</span>과 공식 인증 여부가 해상도 및 주사율 구현의 병목을 결정합니다.",
+      "USB C타입을 통한 화면 출력 시 <span class=\"text-cyan-300 font-semibold\">DP Alt Mode</span>는 네이티브 연결이지만, HDMI 변환 시에는 신호 변환 칩셋이 추가로 필요합니다."
+    ],
+    "data_points": [
+      "DP 2.x 세대의 UHBR 20 규격은 최대 80Gbps의 대역폭을 지원함",
+      "DP 2.x의 128B/132B 인코딩 도입으로 전송 효율이 기존 80%에서 약 97%로 향상됨",
+      "고성능 게이밍 모니터 기준 주사율 144Hz, 240Hz 지원 필요성"
+    ],
+    "signal": "neutral",
+    "signal_reason": "하드웨어 규격과 케이블 선택 요령에 대한 정보성 컨텐츠로, 특정 투자 자산에 대한 직접적인 방향성을 제시하지 않는 <span class=\"text-amber-300 font-bold\">기술 정보 브리핑</span>입니다.",
+    "key_companies": [],
+    "insight": "고주사율·고해상도 디스플레이 보급으로 데이터 전송량의 <span class=\"text-amber-300 font-bold\">트래픽 과부하</span>가 발생하며, 이를 해결하기 위한 케이블 인터페이스 및 압축 기술의 고도화가 하드웨어 생태계에서 필수적인 요소로 자리잡고 있습니다.",
+    "action_point": "게이밍 모니터 및 고성능 디스플레이 관련 칩셋이나 프리미엄 케이블 제조사 등 <span class=\"text-cyan-300 font-semibold\">고대역폭 인터페이스 장비</span> 밸류체인의 성장 잠재력에 주목할 필요가 있습니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "etc"
+    ],
+    "tags": [
+      "디스플레이포트",
+      "HDMI",
+      "케이블인증",
+      "대역폭",
+      "UHBR",
+      "IT하드웨어"
+    ]
+  }
+}
