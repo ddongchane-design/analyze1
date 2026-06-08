@@ -29,6 +29,9 @@
     ::-webkit-scrollbar { width: 6px; }
     ::-webkit-scrollbar-track { background: transparent; }
     ::-webkit-scrollbar-thumb { background: #1e293b; border-radius: 3px; }
+    @media (max-width: 767px) {
+      .ch-container-collapsed { display: none !important; }
+    }
   </style>
 
 </head>
@@ -52,17 +55,47 @@
           <p class="text-xs text-slate-500">AI 분석 인사이트</p>
         </div>
       </div>
-      <span class="text-xs text-slate-600">2026.06.07 12:45</span>
+      <span class="text-xs text-slate-600">2026.06.08 13:36</span>
     </div>
 
     <!-- Filter Bar -->
-    <div class="max-w-[1400px] mx-auto px-8 pb-3 flex items-center gap-2 flex-wrap">
-      <span class="text-xs text-slate-500 mr-1">채널</span>
-      <button onclick="filterCh(this,'all')" data-ch="all"
-        class="ch-btn text-xs px-3 py-1 rounded-full border border-cyan-400/50 bg-cyan-500/15 text-cyan-300 font-semibold transition-all">
-        전체
-      </button>
-      <button onclick="filterCh(this,'삼프로TV_3ProTV')" data-ch="삼프로TV_3ProTV" class="ch-btn text-xs px-3 py-1 rounded-full border border-slate-600 text-slate-400 hover:border-cyan-400/50 hover:text-cyan-300 transition-all">삼프로TV_3ProTV</button>
+    <div class="max-w-[1400px] mx-auto px-8 pb-3 flex flex-col gap-3">
+      <!-- Controls & Signal Filters -->
+      <div class="flex items-center justify-between gap-4 flex-wrap w-full">
+        <!-- Toggle button on mobile, label on desktop -->
+        <div class="flex items-center gap-2">
+          <span class="hidden md:inline text-xs text-slate-500 mr-1">채널</span>
+          <button id="toggleChBtn" onclick="toggleChannels()" 
+            class="md:hidden flex items-center gap-1.5 text-xs px-3 py-1.5 rounded-lg border border-slate-700 bg-slate-800/40 hover:border-slate-600 text-slate-300 hover:text-white transition-all select-none">
+            <span class="material-symbols-outlined text-[16px] leading-none">tune</span>
+            <span id="toggleChBtnText">채널 필터 보이기</span>
+          </button>
+        </div>
+
+        <!-- Right: Signal filters -->
+        <div class="flex gap-2">
+          <button onclick="filterSig(this,'bullish')" data-sig="bullish"
+            class="sig-btn text-[11px] px-3 py-1 rounded-full border border-emerald-500/30 text-emerald-400 hover:bg-emerald-500/15 transition-all">
+            ▲ 강세
+          </button>
+          <button onclick="filterSig(this,'bearish')" data-sig="bearish"
+            class="sig-btn text-[11px] px-3 py-1 rounded-full border border-rose-500/30 text-rose-400 hover:bg-rose-500/15 transition-all">
+            ▼ 약세
+          </button>
+          <button onclick="filterSig(this,'neutral')" data-sig="neutral"
+            class="sig-btn text-[11px] px-3 py-1 rounded-full border border-amber-500/30 text-amber-400 hover:bg-amber-500/15 transition-all">
+            ● 중립
+          </button>
+        </div>
+      </div>
+
+      <!-- Collapsible Channel Filters -->
+      <div id="channelContainer" class="ch-container-collapsed flex flex-wrap gap-2 items-center border-t border-slate-800/40 pt-2.5 md:border-none md:pt-0">
+        <button onclick="filterCh(this,'all')" data-ch="all"
+          class="ch-btn text-xs px-3 py-1 rounded-full border border-cyan-400/50 bg-cyan-500/15 text-cyan-300 font-semibold transition-all">
+          전체
+        </button>
+        <button onclick="filterCh(this,'삼프로TV_3ProTV')" data-ch="삼프로TV_3ProTV" class="ch-btn text-xs px-3 py-1 rounded-full border border-slate-600 text-slate-400 hover:border-cyan-400/50 hover:text-cyan-300 transition-all">삼프로TV_3ProTV</button>
 <button onclick="filterCh(this,'안될과학_Unrealscience')" data-ch="안될과학_Unrealscience" class="ch-btn text-xs px-3 py-1 rounded-full border border-slate-600 text-slate-400 hover:border-cyan-400/50 hover:text-cyan-300 transition-all">안될과학 Unrealscience</button>
 <button onclick="filterCh(this,'한경_글로벌마켓')" data-ch="한경_글로벌마켓" class="ch-btn text-xs px-3 py-1 rounded-full border border-slate-600 text-slate-400 hover:border-cyan-400/50 hover:text-cyan-300 transition-all">한경 글로벌마켓</button>
 <button onclick="filterCh(this,'안될공학_-_IT_테크_신기술')" data-ch="안될공학_-_IT_테크_신기술" class="ch-btn text-xs px-3 py-1 rounded-full border border-slate-600 text-slate-400 hover:border-cyan-400/50 hover:text-cyan-300 transition-all">안될공학 - IT 테크 신기술</button>
@@ -77,19 +110,6 @@
 <button onclick="filterCh(this,'엔지니어TV')" data-ch="엔지니어TV" class="ch-btn text-xs px-3 py-1 rounded-full border border-slate-600 text-slate-400 hover:border-cyan-400/50 hover:text-cyan-300 transition-all">엔지니어TV</button>
 <button onclick="filterCh(this,'월텍남')" data-ch="월텍남" class="ch-btn text-xs px-3 py-1 rounded-full border border-slate-600 text-slate-400 hover:border-cyan-400/50 hover:text-cyan-300 transition-all">월텍남</button>
 
-      <div class="ml-auto flex gap-2">
-        <button onclick="filterSig(this,'bullish')" data-sig="bullish"
-          class="sig-btn text-[11px] px-3 py-1 rounded-full border border-emerald-500/30 text-emerald-400 hover:bg-emerald-500/15 transition-all">
-          ▲ 강세
-        </button>
-        <button onclick="filterSig(this,'bearish')" data-sig="bearish"
-          class="sig-btn text-[11px] px-3 py-1 rounded-full border border-rose-500/30 text-rose-400 hover:bg-rose-500/15 transition-all">
-          ▼ 약세
-        </button>
-        <button onclick="filterSig(this,'neutral')" data-sig="neutral"
-          class="sig-btn text-[11px] px-3 py-1 rounded-full border border-amber-500/30 text-amber-400 hover:bg-amber-500/15 transition-all">
-          ● 중립
-        </button>
       </div>
     </div>
   </header>
@@ -1280,6 +1300,22 @@
 
   <script>
     let activeCh = 'all', activeSig = null;
+    function toggleChannels() {
+      const container = document.getElementById('channelContainer');
+      const btn = document.getElementById('toggleChBtn');
+      const btnText = document.getElementById('toggleChBtnText');
+      const isCollapsed = container.classList.contains('ch-container-collapsed');
+      
+      if (isCollapsed) {
+        container.classList.remove('ch-container-collapsed');
+        btn.classList.add('!border-cyan-400/50', '!text-cyan-300', 'bg-cyan-500/15');
+        btnText.textContent = '채널 필터 숨기기';
+      } else {
+        container.classList.add('ch-container-collapsed');
+        btn.classList.remove('!border-cyan-400/50', '!text-cyan-300', 'bg-cyan-500/15');
+        btnText.textContent = '채널 필터 보이기';
+      }
+    }
     function filterCh(btn, ch) {
       document.querySelectorAll('.ch-btn').forEach(b => b.classList.remove('!bg-cyan-500/15','!border-cyan-400/50','!text-cyan-300','font-semibold'));
       btn.classList.add('font-semibold');
