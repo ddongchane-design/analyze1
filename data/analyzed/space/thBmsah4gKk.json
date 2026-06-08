@@ -1,0 +1,48 @@
+{
+  "video": {
+    "id": "thBmsah4gKk",
+    "title": "다음 주 앞으로 다가온 스페이스X 상장. 실패하면 전부 끝장입니다 [주식주부 리나]",
+    "published": "2026-06-07T08:00:27+00:00",
+    "channel_name": "이효석아카데미",
+    "url": "https://www.youtube.com/watch?v=thBmsah4gKk",
+    "thumbnail": "https://img.youtube.com/vi/thBmsah4gKk/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "다음 주로 예정된 <span class=\"text-cyan-300 font-semibold\">스페이스X(SpaceX)</span>의 상장 성공 여부가 향후 오픈AI, 앤트로픽 등 대형 AI 기술 기업들의 IPO 흥행을 결정지을 핵심 분수령이 될 전망입니다.\n국내 코스피 지수가 8,100선까지 조정받는 등 변동성이 확대되는 가운데, <span class=\"text-rose-400 font-medium\">수급이 스페이스X로 이동</span>하면서 국내 우주 항공 관련주들이 조정을 받고 있습니다.\n개인 투자자의 직접 공모 참여는 제한적이나, 스페이스X 상장 시 수혜를 받을 수 있는 <span class=\"text-cyan-300 font-semibold\">미국 우주테크 ETF</span>에 자금이 쏠리고 있습니다.",
+    "key_claims": [
+      "스페이스X의 상장 성공과 가치 유지는 후속 대형 기술 기업들의 <span class=\"text-amber-300 font-bold\">투자 심리 자극</span>과 지수 편입에 따른 강제 매수세를 유발하므로 매우 중요함.",
+      "최근 코스피 거래대금 폭증에도 불구하고, 대부분의 유동성이 반도체 주도주에 집중되면서 <span class=\"text-rose-400 font-medium\">증권주와 소외 섹터</span>의 주가 회복이 지연됨.",
+      "국내 우주 섹터는 단기 수급 이탈로 부진하나, <span class=\"text-cyan-300 font-semibold\">미국 우주테크 ETF</span>는 스페이스X의 신속한 지수 편입을 바탕으로 추가적인 성장 동력을 확보할 것으로 예상됨."
+    ],
+    "data_points": [
+      "코스피 지수 9,000선 터치 후 8,100선으로 조정 및 20일선 지지력 테스트",
+      "양 시장 거래대금 100조 원 상회",
+      "타이거 미국 우주테크 ETF 순자산 약 2.5조 원 규모"
+    ],
+    "signal": "neutral",
+    "signal_reason": "스페이스X 상장이라는 <span class=\"text-amber-300 font-bold\">역대급 이벤트</span>를 앞두고 단기적인 수급 쏠림과 기존 섹터의 소외가 나타나고 있으나, 상장 성공 시 우주 및 테크 산업 전반의 밸류에이션 재평가 계기가 될 것임.",
+    "key_companies": [
+      "SpaceX",
+      "삼성전자",
+      "SK하이닉스",
+      "OpenAI",
+      "Anthropic"
+    ],
+    "insight": "스페이스X의 상장은 단순한 개별 기업의 IPO를 넘어, 고금리 환경에서 글로벌 유동성이 <span class=\"text-rose-400 font-medium\">메가 테크 IPO</span>를 수용할 수 있는지 검증하는 리트머스 시험지 역할을 할 것입니다.",
+    "action_point": "개인 투자자는 접근성이 높은 <span class=\"text-cyan-300 font-semibold\">미국 우주테크 ETF</span>나 인덱스 편입 수혜를 누릴 수 있는 우량 지수형 펀드로 우회하여 스페이스X의 상장 모멘텀에 대응하는 것이 합리적입니다."
+  },
+  "classification": {
+    "primary_topic": "space",
+    "secondary_topics": [
+      "stock",
+      "tech"
+    ],
+    "tags": [
+      "스페이스X",
+      "우주산업",
+      "IPO",
+      "우주테크ETF",
+      "나스닥"
+    ]
+  }
+}

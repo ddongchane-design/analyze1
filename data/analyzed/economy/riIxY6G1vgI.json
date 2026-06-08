@@ -1,0 +1,48 @@
+{
+  "video": {
+    "id": "riIxY6G1vgI",
+    "title": "[통합본] \"트럼프, AI에 너무 많은 돈 몰렸다\" AI 기업 지분 확보 검토..독이 된 고용 호조? 미국이 돈 풀다 멈추면 일어날 일 / 교양이를 부탁해",
+    "published": "2026-06-07T22:42:51+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=riIxY6G1vgI",
+    "thumbnail": "https://img.youtube.com/vi/riIxY6G1vgI/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국이 부채를 늘려 기술/AI 산업의 주가를 인위적으로 띄우고 있으며, 이를 통해 <span class=\"text-amber-300 font-bold\">달러 패권</span>을 수호하는 전략적 흐름을 보이고 있습니다.\n노동 가치는 정체된 반면, 주식 및 부동산 등 지분 자산 가치는 급등하면서 글로벌 <span class=\"text-rose-400 font-medium\">자산 양극화</span>가 극대화되고 있습니다.\n향후 미국 채권의 토큰화와 <span class=\"text-cyan-300 font-semibold\">스테이블코인(USDC)</span>의 제도화가 맞물려 글로벌 유동성을 미국으로 흡수하는 무한 레버리지 시대가 전개될 전망입니다.",
+    "key_claims": [
+      "정부가 빚을 내어 나스닥 기술주 중심으로 자금을 몰아주는 구조는 달러화 가치와 <span class=\"text-amber-300 font-bold\">통화 패권</span>을 수호하기 위한 정교한 미국 정책의 일환임.",
+      "인플레이션은 상품이 아닌 사적 서비스와 부동산 등 자산 시장에 집중되어 있으며, <span class=\"text-rose-400 font-medium\">실질 소득 감소</span>와 노동 참여율 저하를 유발함.",
+      "<span class=\"text-cyan-300 font-semibold\">스테이블코인</span> 시장이 5~10조 달러 규모로 급성장하며 미국 국채 수요를 전 세계적으로 빨아들이는 빨대 효과를 만들고 있음."
+    ],
+    "data_points": [
+      "상위 10%가 전 세계 부의 75% 소유, 하위 50%는 2% 소유",
+      "미국 상업은행 대출 규모 19조 달러 돌파",
+      "글로벌 달러화 보유 비중 60% 이하로 하락 추세 속 달러 수호 정책 가동",
+      "스테이블코인 제도화(Clarity 법안) 시 향후 5조~10조 달러까지 시장 성장 전망"
+    ],
+    "signal": "neutral",
+    "signal_reason": "미국의 독점적 자산 띄우기와 레버리지 팽창으로 <span class=\"text-cyan-300 font-semibold\">나스닥 빅테크</span> 주도의 우상향은 장기 지속될 것이나, 통화 시스템의 구조적 취약성과 자산 불균형에 따른 변동성 리스크가 내재됨.",
+    "key_companies": [
+      "Circle",
+      "Google",
+      "Meta",
+      "Nvidia"
+    ],
+    "insight": "현 경제 체제는 단순한 경기 순환이 아니라, 스테이블코인과 채권 토큰화를 통해 미국이 전 세계의 유동성을 흡수하고 <span class=\"text-rose-400 font-medium\">인플레이션을 수출</span>하는 무한 금융 레버리지 전쟁 단계에 돌입했습니다.",
+    "action_point": "장기 자산 증식을 위해 노동 소득에만 의존하기보다 미국의 주도주 및 달러 자산(<span class=\"text-cyan-300 font-semibold\">나스닥 테크 주도주</span>) 지분을 확보하는 포트폴리오 다변화 전략이 필수적입니다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock",
+      "crypto"
+    ],
+    "tags": [
+      "달러패권",
+      "스테이블코인",
+      "자산인플레이션",
+      "양극화",
+      "미국금리"
+    ]
+  }
+}

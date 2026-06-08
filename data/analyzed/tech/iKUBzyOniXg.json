@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "iKUBzyOniXg",
+    "title": "진짜 반도체 무너지는 시나리오는 따로 있습니다| 고태훈 에셋플러스자산운용 본부장 [더블 업]",
+    "published": "2026-06-08T01:53:57+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=iKUBzyOniXg",
+    "thumbnail": "https://img.youtube.com/vi/iKUBzyOniXg/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "국내 증시의 서킷브레이커 발동 등 단기 패닉 셀링은 펀더멘탈 훼손이 아닌 금리 인하 지연 우려에 따른 <span class=\"text-rose-400 font-medium\">PER 멀티플 하락 및 유동성 위축</span>이 원인입니다.\n메모리 반도체 업계의 장기 리스크는 실적 둔화가 아니라, 한국 기업들의 독점에 따른 <span class=\"text-violet-300 font-medium\">미국의 잠재적 견제 조치</span> 및 중국산 메모리(YMTC, CXMT) 채택 가능성 등 지정학적 변화입니다.\n미·중 갈등 속에서 완성도 높은 제조 기반을 가진 한국 기업들이 <span class=\"text-cyan-300 font-semibold\">피지컬 AI(로보틱스, 자율주행)</span> 분야에서 엔비디아의 핵심 파트너로 부각되고 있습니다.",
+    "key_claims": [
+      "현재의 증시 폭락은 기업 실적(EPS)의 문제가 아니며 금리 우려로 인한 센티멘트 악화에 따른 <span class=\"text-rose-400 font-medium\">일시적 유동성 발작</span>임",
+      "반도체 업종의 최악 시나리오는 미국이 한국의 독점을 견제하기 위해 <span class=\"text-violet-300 font-medium\">중국 반도체 공급망을 일부 수용</span>하는 지정학적 타협임",
+      "메모리 절감 소프트웨어 기술의 충격적 등장이 하드웨어 스펙 다운보다 <span class=\"text-cyan-300 font-semibold\">메모리 밸류에이션</span>에 더 큰 리스크가 될 수 있음"
+    ],
+    "data_points": [
+      "국내 증시 하락율: 코스피 장초반 서킷브레이커 발동 후 -6%대, 코스닥 매도 사이드카 발동 후 -5.6%대 기록",
+      "과거 소프트웨어 효율화 사례: 2018년 아마존의 쿠버네티스 도입으로 메모리 주문이 대폭 취소된 선례 존재",
+      "미국 전략적 타협 시 위협 대상: 중국의 메모리 반도체 제조사인 YMTC 및 CXMT의 급격한 부상"
+    ],
+    "signal": "neutral",
+    "signal_reason": "단기적인 <span class=\"text-rose-400 font-medium\">시장 유동성 변동성</span>은 매우 높으나, 한국 반도체 및 완제품 제조사들의 핵심 펀더멘탈과 <span class=\"text-cyan-300 font-semibold\">피지컬 AI 협력 구조</span>는 견고하게 유지되고 있습니다.",
+    "key_companies": [
+      "삼성전자(Samsung Electronics)",
+      "SK하이닉스(SK Hynix)",
+      "엔비디아(NVIDIA)",
+      "에셋플러스자산운용"
+    ],
+    "insight": "단기 유동성 급감으로 유발된 공포 속에서 개인 투자자들이 패닉에 빠져 있으나, 진짜 경계해야 할 핵심 리스크는 주가가 폭등하여 글로벌 이익 1, 2위를 다툴 때 발생할 <span class=\"text-violet-300 font-medium\">미국의 지정학적 견제(제2의 플라자 합의 등)</span>입니다. 한편, 미중 패권 경쟁으로 중국을 배제해야 하는 엔비디아에게 현대차, LG, 삼성 등 한국의 고도화된 제조 인프라는 <span class=\"text-cyan-300 font-semibold\">피지컬 AI</span> 구현의 필수 대체재가 되고 있습니다.",
+    "action_point": "메모리 반도체 대형주(삼성전자, SK하이닉스)는 단기 낙폭 과대 시 <span class=\"text-cyan-300 font-semibold\">분할 매수</span> 관점으로 대응하되, 향후 미·중 반도체 패권 구도의 변화와 메모리 절감 소프트웨어 기술 동향을 장기 리스크 요인으로 면밀히 관찰해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock",
+      "economy"
+    ],
+    "tags": [
+      "삼성전자",
+      "SK하이닉스",
+      "미중패권",
+      "피지컬AI",
+      "서킷브레이커"
+    ]
+  }
+}

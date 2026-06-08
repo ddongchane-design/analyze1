@@ -29,9 +29,6 @@
     ::-webkit-scrollbar { width: 6px; }
     ::-webkit-scrollbar-track { background: transparent; }
     ::-webkit-scrollbar-thumb { background: #1e293b; border-radius: 3px; }
-    @media (max-width: 767px) {
-      .ch-container-collapsed { display: none !important; }
-    }
   </style>
 
 </head>
@@ -55,47 +52,17 @@
           <p class="text-xs text-slate-500">AI 분석 인사이트</p>
         </div>
       </div>
-      <span class="text-xs text-slate-600">2026.06.08 14:39</span>
+      <span class="text-xs text-slate-600">2026.06.08 19:16</span>
     </div>
 
     <!-- Filter Bar -->
-    <div class="max-w-[1400px] mx-auto px-8 pb-3 flex flex-col gap-3">
-      <!-- Controls & Signal Filters -->
-      <div class="flex items-center justify-between gap-4 flex-wrap w-full">
-        <!-- Toggle button on mobile, label on desktop -->
-        <div class="flex items-center gap-2">
-          <span class="hidden md:inline text-xs text-slate-500 mr-1">채널</span>
-          <button id="toggleChBtn" onclick="toggleChannels()" 
-            class="md:hidden flex items-center gap-1.5 text-xs px-3 py-1.5 rounded-lg border border-slate-700 bg-slate-800/40 hover:border-slate-600 text-slate-300 hover:text-white transition-all select-none">
-            <span class="material-symbols-outlined text-[16px] leading-none">tune</span>
-            <span id="toggleChBtnText">채널 필터 보이기</span>
-          </button>
-        </div>
-
-        <!-- Right: Signal filters -->
-        <div class="flex gap-2">
-          <button onclick="filterSig(this,'bullish')" data-sig="bullish"
-            class="sig-btn text-[11px] px-3 py-1 rounded-full border border-emerald-500/30 text-emerald-400 hover:bg-emerald-500/15 transition-all">
-            ▲ 강세
-          </button>
-          <button onclick="filterSig(this,'bearish')" data-sig="bearish"
-            class="sig-btn text-[11px] px-3 py-1 rounded-full border border-rose-500/30 text-rose-400 hover:bg-rose-500/15 transition-all">
-            ▼ 약세
-          </button>
-          <button onclick="filterSig(this,'neutral')" data-sig="neutral"
-            class="sig-btn text-[11px] px-3 py-1 rounded-full border border-amber-500/30 text-amber-400 hover:bg-amber-500/15 transition-all">
-            ● 중립
-          </button>
-        </div>
-      </div>
-
-      <!-- Collapsible Channel Filters -->
-      <div id="channelContainer" class="ch-container-collapsed flex flex-wrap gap-2 items-center border-t border-slate-800/40 pt-2.5 md:border-none md:pt-0">
-        <button onclick="filterCh(this,'all')" data-ch="all"
-          class="ch-btn text-xs px-3 py-1 rounded-full border border-orange-400/50 bg-orange-500/15 text-orange-300 font-semibold transition-all">
-          전체
-        </button>
-        <button onclick="filterCh(this,'삼프로TV_3ProTV')" data-ch="삼프로TV_3ProTV" class="ch-btn text-xs px-3 py-1 rounded-full border border-slate-600 text-slate-400 hover:border-orange-400/50 hover:text-orange-300 transition-all">삼프로TV_3ProTV</button>
+    <div class="max-w-[1400px] mx-auto px-8 pb-3 flex items-center gap-2 flex-wrap">
+      <span class="text-xs text-slate-500 mr-1">채널</span>
+      <button onclick="filterCh(this,'all')" data-ch="all"
+        class="ch-btn text-xs px-3 py-1 rounded-full border border-orange-400/50 bg-orange-500/15 text-orange-300 font-semibold transition-all">
+        전체
+      </button>
+      <button onclick="filterCh(this,'삼프로TV_3ProTV')" data-ch="삼프로TV_3ProTV" class="ch-btn text-xs px-3 py-1 rounded-full border border-slate-600 text-slate-400 hover:border-orange-400/50 hover:text-orange-300 transition-all">삼프로TV_3ProTV</button>
 <button onclick="filterCh(this,'안될과학_Unrealscience')" data-ch="안될과학_Unrealscience" class="ch-btn text-xs px-3 py-1 rounded-full border border-slate-600 text-slate-400 hover:border-orange-400/50 hover:text-orange-300 transition-all">안될과학 Unrealscience</button>
 <button onclick="filterCh(this,'한경_글로벌마켓')" data-ch="한경_글로벌마켓" class="ch-btn text-xs px-3 py-1 rounded-full border border-slate-600 text-slate-400 hover:border-orange-400/50 hover:text-orange-300 transition-all">한경 글로벌마켓</button>
 <button onclick="filterCh(this,'안될공학_-_IT_테크_신기술')" data-ch="안될공학_-_IT_테크_신기술" class="ch-btn text-xs px-3 py-1 rounded-full border border-slate-600 text-slate-400 hover:border-orange-400/50 hover:text-orange-300 transition-all">안될공학 - IT 테크 신기술</button>
@@ -110,6 +77,19 @@
 <button onclick="filterCh(this,'엔지니어TV')" data-ch="엔지니어TV" class="ch-btn text-xs px-3 py-1 rounded-full border border-slate-600 text-slate-400 hover:border-orange-400/50 hover:text-orange-300 transition-all">엔지니어TV</button>
 <button onclick="filterCh(this,'월텍남')" data-ch="월텍남" class="ch-btn text-xs px-3 py-1 rounded-full border border-slate-600 text-slate-400 hover:border-orange-400/50 hover:text-orange-300 transition-all">월텍남</button>
 
+      <div class="ml-auto flex gap-2">
+        <button onclick="filterSig(this,'bullish')" data-sig="bullish"
+          class="sig-btn text-[11px] px-3 py-1 rounded-full border border-emerald-500/30 text-emerald-400 hover:bg-emerald-500/15 transition-all">
+          ▲ 강세
+        </button>
+        <button onclick="filterSig(this,'bearish')" data-sig="bearish"
+          class="sig-btn text-[11px] px-3 py-1 rounded-full border border-rose-500/30 text-rose-400 hover:bg-rose-500/15 transition-all">
+          ▼ 약세
+        </button>
+        <button onclick="filterSig(this,'neutral')" data-sig="neutral"
+          class="sig-btn text-[11px] px-3 py-1 rounded-full border border-amber-500/30 text-amber-400 hover:bg-amber-500/15 transition-all">
+          ● 중립
+        </button>
       </div>
     </div>
   </header>
@@ -119,28 +99,80 @@
 <div class="mb-8 bg-gradient-to-br from-slate-800/70 to-slate-900/50 border border-orange-400/25 rounded-2xl p-6">
   <div class="flex items-center gap-3 mb-4 flex-wrap">
     <span class="text-[10px] font-bold tracking-widest text-orange-400 uppercase">AI 종합 인사이트</span>
-    <span class="text-[10px] text-slate-500 font-light">(업데이트: 2026.06.06 21:14)</span>
+    <span class="text-[10px] text-slate-500 font-light">(업데이트: 2026.06.08 19:10)</span>
     <span class="inline-flex items-center gap-1.5 text-[11px] font-bold px-2.5 py-1 rounded-lg border"
-      style="background:rgba(245,200,66,0.10);color:#f5c842;border-color:rgba(245,200,66,0.30)">
-      <span class="w-1.5 h-1.5 rounded-full" style="background:#f5c842"></span>
-      NEUTRAL
+      style="background:rgba(16,217,138,0.10);color:#10d98a;border-color:rgba(16,217,138,0.30)">
+      <span class="w-1.5 h-1.5 rounded-full" style="background:#10d98a"></span>
+      BULLISH
     </span>
   </div>
-  <p class="text-[13px] text-slate-300 leading-relaxed mb-4">신재생에너지 및 전기차 하드웨어의 가격 하락(중국 공급 과잉 등)과 지정학적 불안정성(중동 지정학적 리스크, 전략 비축유 고갈 우려, 러시아산 우라늄 제재)이 겹치며 에너지 안보 및 송배전망 제어의 가치가 급상승하고 있으며, 미국 대규모 태양광 투자에 따른 장비 수혜가 가시화되고 있습니다.</p>
+  <p class="text-[13px] text-slate-300 leading-relaxed mb-4">에너지 패러다임이 안보와 탄소중립, 전력 인프라 재편을 중심으로 급격히 전환되고 있습니다. 전통 에너지(원유, 우라늄)의 지정학적 공급 병목으로 인한 가격 강세가 지속되는 가운데, 재생에너지(태양광, 풍력) 및 전기차의 급격한 보급은 송배전망의 안정성 위기(그리드 병목)를 초래하고 있어, 전력망 안정화 기기 및 에너지 제어 소프트웨어, 가상발전소(VPP) 인프라 기업들이 핵심 수혜처로 부상하고 있습니다.</p>
   <div class="flex flex-wrap gap-4 text-[12px]">
     <div class="flex-1 min-w-[200px]">
       <p class="text-[10px] font-bold tracking-widest text-slate-500 uppercase mb-2">주요 테마</p>
-      <div class="flex flex-wrap gap-1.5"><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-400">송배전망 노후화 해결 및 전력망 안정화(Grid Stabilization)</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-400">미국의 대규모 태양광 생산 인프라 구축 및 국산/비중국 장비 수혜</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-400">우라늄 공급난 및 지정학적 요인(중동 갈등)에 따른 유가 변동성</span></div>
+      <div class="flex flex-wrap gap-1.5"><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-400">지정학적 리스크 및 인프라 복구 시차에 따른 원유·우라늄 등 원자재 공급 부족 지속</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-400">신재생에너지 보급 확대에 따른 송배전망(Grid) 안정화 제어 및 가상발전소(VPP) 인프라 수요 폭증</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-400">미국의 중국 태양광 장비 배제 규제에 따른 한국 차세대 HJT/페로브스카이트 장비사의 반사이익</span></div>
     </div>
     <div class="flex-1 min-w-[200px]">
       <p class="text-[10px] font-bold tracking-widest text-slate-500 uppercase mb-2">주목 종목/섹터</p>
-      <div class="flex flex-wrap gap-1.5"><span class="px-2 py-0.5 rounded-md text-[10px] bg-orange-500/10 border border-orange-400/30 text-orange-400">전력 인프라 및 변압기 제조사(LS일렉트릭, 효성중공업, Eaton)</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-orange-500/10 border border-orange-400/30 text-orange-400">태양광 장비 전문 기업(주성엔지니어링, 선익시스템)</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-orange-500/10 border border-orange-400/30 text-orange-400">우라늄 채굴 및 SMR 관련 기업</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-orange-500/10 border border-orange-400/30 text-orange-400">정유/바이오 연료(SAF) 밸류체인</span></div>
+      <div class="flex flex-wrap gap-1.5"><span class="px-2 py-0.5 rounded-md text-[10px] bg-orange-500/10 border border-orange-400/30 text-orange-400">이튼(Eaton)</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-orange-500/10 border border-orange-400/30 text-orange-400">지멘스(Siemens)</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-orange-500/10 border border-orange-400/30 text-orange-400">주성엔지니어링</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-orange-500/10 border border-orange-400/30 text-orange-400">선익시스템</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-orange-500/10 border border-orange-400/30 text-orange-400">LS일렉트릭</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-orange-500/10 border border-orange-400/30 text-orange-400">정유사 및 우라늄 관련 ETF</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-orange-500/10 border border-orange-400/30 text-orange-400">테슬라(Tesla)</span></div>
     </div>
   </div>
-  <p class="text-[11px] text-slate-500 mt-3 border-t border-slate-700/50 pt-3">⚡ 중국산 저가 태양광 패널의 덤핑 공급을 위기로 보고 전력망 불안정을 경고하는 시각과, 이를 우회하여 가상발전소(VPP) 및 전력망 제어 솔루션 등 고부가 소프트웨어 및 인프라 시장의 기회로 포착하는 시각의 대립.</p>
+  <p class="text-[11px] text-slate-500 mt-3 border-t border-slate-700/50 pt-3">⚡ 태양광 패널 및 배터리와 같은 범용 하드웨어 제조 분야는 중국의 덤핑 및 공급 과잉으로 수익성이 급락한 반면, 시스템 최적화 전력망 기기/소프트웨어 및 미국의 안보 규제(중국산 장비 배제) 수혜를 받는 비중국(한국 등) 기술 장비 기업들은 초과 성장을 누리는 밸류체인 내 온도 차이가 큽니다.</p>
 </div>
     <div id="cardGrid" class="grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-5">
       
+<div class="insight-card group bg-card/60 backdrop-blur-xl border border-slate-700/50 rounded-[1.5rem] p-6 flex flex-col gap-4 transition-all duration-300 hover:-translate-y-1 hover:border-orange-400/40 hover:shadow-[0_8px_32px_rgba(251,146,60,0.15)] relative overflow-hidden"
+     data-ch="언더스탠딩_Understanding" data-sig="bullish">
+  <div class="absolute inset-0 bg-gradient-to-br from-orange-500/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 rounded-[1.5rem] pointer-events-none"></div>
+
+  <!-- Top: thumbnail + title + signal -->
+  <div class="flex gap-3 items-start">
+    <img src="https://img.youtube.com/vi/x9lXZd7HnQI/hqdefault.jpg" class="w-24 h-[60px] rounded-xl object-cover bg-slate-800 flex-shrink-0" onerror="this.style.display='none'">
+    <div class="flex-1 min-w-0">
+      <h3 class="font-bold text-slate-100 text-[14px] leading-snug line-clamp-2 group-hover:text-orange-200 transition-colors">이란 전쟁 오늘 끝나도 유가 9월까지 뛴다 (권효재 대표)</h3>
+      <div class="flex items-center gap-2 mt-1.5 flex-wrap">
+        <span class="px-2 py-0.5 rounded-full text-[10px] font-semibold bg-orange-500/15 text-orange-300 border border-orange-400/30">언더스탠딩_Understanding</span>
+        <span class="text-[11px] text-slate-500">2026-06-07</span>
+      </div>
+    </div>
+    <div class="flex-shrink-0">
+      <span class="inline-flex items-center gap-1.5 text-[11px] font-bold px-2.5 py-1 rounded-lg border"
+        style="background:rgba(16,217,138,0.12);color:#10d98a;border-color:rgba(16,217,138,0.35)">
+        <span class="w-1.5 h-1.5 rounded-full" style="background:#10d98a"></span>
+        BULLISH
+      </span>
+    </div>
+  </div>
+
+  <!-- Insight -->
+  <div class="bg-gradient-to-br from-slate-800/60 to-slate-900/40 border border-slate-700/50 rounded-xl p-4">
+    <p class="text-[10px] font-bold tracking-widest text-orange-400 mb-2 uppercase">Insight</p>
+    <p class="text-[13px] text-slate-300 leading-relaxed">지정학적 리스크가 유가에 미치는 영향은 심리적 요인에만 국한되지 않으며, 공급 인프라의 파괴 또는 중단 시 발생하는 <span class="text-amber-300 font-bold">물리적 복구 시차(Lag)</span>가 핵심입니다. 전쟁이 당장 종료되어도 원유 생산 및 수송 체계의 <span class="text-rose-400 font-medium">공급 병목 현상</span>은 상당 기간 유가를 지지하는 요인으로 작동합니다.</p>
+  </div>
+
+  <!-- Key Claims -->
+  <div class="flex flex-col gap-1.5">
+    <div class="flex items-start gap-2 text-[12px] text-slate-400"><span class="text-slate-600 mt-0.5 flex-shrink-0">▸</span><span>글로벌 석유 재고가 사상 최고의 속도로 빠르게 고갈되는 <span class="text-rose-400 font-medium">재고 부족 위기</span> 국면에 직면했다.</span></div>
+<div class="flex items-start gap-2 text-[12px] text-slate-400"><span class="text-slate-600 mt-0.5 flex-shrink-0">▸</span><span>지정학적 갈등이 해결되더라도 생산 인프라 및 물류 설비가 예전 수준으로 아웃풋을 복구하는 데는 <span class="text-amber-300 font-bold">시간 지연(Time Lag)</span>이 불가피하다.</span></div>
+<div class="flex items-start gap-2 text-[12px] text-slate-400"><span class="text-slate-600 mt-0.5 flex-shrink-0">▸</span><span>IEA(국제에너지기구) 분석에 근거할 때 유가 안정화와 공급 부족 해소 시점은 최소 <span class="text-rose-400 font-medium">9월 이후</span>가 될 것이다.</span></div>
+  </div>
+
+  <!-- Action Point -->
+  <div class="bg-amber-400/5 border border-amber-400/20 rounded-xl p-3.5">
+    <p class="text-[10px] font-bold tracking-widest text-amber-300 mb-1.5 uppercase">Action Point</p>
+    <p class="text-[13px] text-slate-200 leading-relaxed">유가 상승의 장기화에 베팅하여 정유 및 에너지 섹터에 대한 <span class="text-cyan-300 font-semibold">비중 확대</span>를 고려할 수 있으며, 고유가 지속에 따른 글로벌 제조업의 <span class="text-rose-400 font-medium">원가 부담 가중</span> 리스크에 선제적으로 대비해야 합니다.</p>
+  </div>
+
+  <!-- Tags + Link -->
+  <div class="flex items-center justify-between gap-2 pt-1">
+    <div class="flex flex-wrap gap-1.5"><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">유가전망</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">지정학적리스크</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">호르무즈해협</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">원유공급</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">IEA</span></div>
+    <a href="https://www.youtube.com/watch?v=x9lXZd7HnQI" target="_blank"
+      class="flex-shrink-0 flex items-center gap-1 text-[12px] font-semibold px-4 py-2 rounded-xl bg-orange-500/15 hover:bg-orange-500/25 text-orange-300 border border-orange-400/30 hover:border-orange-400/60 transition-all">
+      보기 <span class="material-symbols-outlined text-sm">arrow_forward</span>
+    </a>
+  </div>
+</div>
+
 <div class="insight-card group bg-card/60 backdrop-blur-xl border border-slate-700/50 rounded-[1.5rem] p-6 flex flex-col gap-4 transition-all duration-300 hover:-translate-y-1 hover:border-orange-400/40 hover:shadow-[0_8px_32px_rgba(251,146,60,0.15)] relative overflow-hidden"
      data-ch="매경월가월부" data-sig="neutral">
   <div class="absolute inset-0 bg-gradient-to-br from-orange-500/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 rounded-[1.5rem] pointer-events-none"></div>
@@ -572,22 +604,6 @@
 
   <script>
     let activeCh = 'all', activeSig = null;
-    function toggleChannels() {
-      const container = document.getElementById('channelContainer');
-      const btn = document.getElementById('toggleChBtn');
-      const btnText = document.getElementById('toggleChBtnText');
-      const isCollapsed = container.classList.contains('ch-container-collapsed');
-      
-      if (isCollapsed) {
-        container.classList.remove('ch-container-collapsed');
-        btn.classList.add('!border-orange-400/50', '!text-orange-300', 'bg-orange-500/15');
-        btnText.textContent = '채널 필터 숨기기';
-      } else {
-        container.classList.add('ch-container-collapsed');
-        btn.classList.remove('!border-orange-400/50', '!text-orange-300', 'bg-orange-500/15');
-        btnText.textContent = '채널 필터 보이기';
-      }
-    }
     function filterCh(btn, ch) {
       document.querySelectorAll('.ch-btn').forEach(b => b.classList.remove('!bg-orange-500/15','!border-orange-400/50','!text-orange-300','font-semibold'));
       btn.classList.add('font-semibold');

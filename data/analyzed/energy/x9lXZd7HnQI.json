@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "x9lXZd7HnQI",
+    "title": "이란 전쟁 오늘 끝나도 유가 9월까지 뛴다 (권효재 대표)",
+    "published": "2026-06-07T14:15:32+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=x9lXZd7HnQI",
+    "thumbnail": "https://img.youtube.com/vi/x9lXZd7HnQI/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "호르무즈 해협 봉쇄 및 이란 관련 긴장으로 글로벌 원유 재고가 유례없는 속도로 <span class=\"text-rose-400 font-medium\">빠르게 급감</span>하고 있습니다.\n설령 내일 당장 갈등이 해결되고 해협이 개방되더라도, 설비가 완전히 정상화되어 공급을 회복하려면 최소 <span class=\"text-amber-300 font-bold\">3~4개월의 정상화 기간</span>이 필요합니다.\n국제에너지기구(IEA) 보고서에 따르면 해협이 개방되더라도 <span class=\"text-rose-400 font-medium\">9월까지는 공급 부족</span>이 지속되어 유가 강세가 유지될 전망입니다.",
+    "key_claims": [
+      "글로벌 석유 재고가 사상 최고의 속도로 빠르게 고갈되는 <span class=\"text-rose-400 font-medium\">재고 부족 위기</span> 국면에 직면했다.",
+      "지정학적 갈등이 해결되더라도 생산 인프라 및 물류 설비가 예전 수준으로 아웃풋을 복구하는 데는 <span class=\"text-amber-300 font-bold\">시간 지연(Time Lag)</span>이 불가피하다.",
+      "IEA(국제에너지기구) 분석에 근거할 때 유가 안정화와 공급 부족 해소 시점은 최소 <span class=\"text-rose-400 font-medium\">9월 이후</span>가 될 것이다."
+    ],
+    "data_points": [
+      "설비 정상화 소요 기간: 최소 3~4개월",
+      "유가 공급 부족 지속 예측 시점: 2026년 9월까지"
+    ],
+    "signal": "bullish",
+    "signal_reason": "지정학적 리스크 해결 여부와 무관하게 공급망 및 생산 설비의 물리적 한계로 인해 <span class=\"text-rose-400 font-medium\">원유 공급 부족</span>과 유가 강세가 최소 9월까지 이어질 가능성이 높기 때문입니다.",
+    "key_companies": [
+      "S-Oil",
+      "SK이노베이션",
+      "엑손모빌(ExxonMobil)"
+    ],
+    "insight": "지정학적 리스크가 유가에 미치는 영향은 심리적 요인에만 국한되지 않으며, 공급 인프라의 파괴 또는 중단 시 발생하는 <span class=\"text-amber-300 font-bold\">물리적 복구 시차(Lag)</span>가 핵심입니다. 전쟁이 당장 종료되어도 원유 생산 및 수송 체계의 <span class=\"text-rose-400 font-medium\">공급 병목 현상</span>은 상당 기간 유가를 지지하는 요인으로 작동합니다.",
+    "action_point": "유가 상승의 장기화에 베팅하여 정유 및 에너지 섹터에 대한 <span class=\"text-cyan-300 font-semibold\">비중 확대</span>를 고려할 수 있으며, 고유가 지속에 따른 글로벌 제조업의 <span class=\"text-rose-400 font-medium\">원가 부담 가중</span> 리스크에 선제적으로 대비해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "energy",
+    "secondary_topics": [
+      "economy",
+      "stock"
+    ],
+    "tags": [
+      "유가전망",
+      "지정학적리스크",
+      "호르무즈해협",
+      "원유공급",
+      "IEA"
+    ]
+  }
+}

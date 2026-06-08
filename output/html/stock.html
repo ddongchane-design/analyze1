@@ -29,9 +29,6 @@
     ::-webkit-scrollbar { width: 6px; }
     ::-webkit-scrollbar-track { background: transparent; }
     ::-webkit-scrollbar-thumb { background: #1e293b; border-radius: 3px; }
-    @media (max-width: 767px) {
-      .ch-container-collapsed { display: none !important; }
-    }
   </style>
 
 </head>
@@ -55,47 +52,17 @@
           <p class="text-xs text-slate-500">AI 분석 인사이트</p>
         </div>
       </div>
-      <span class="text-xs text-slate-600">2026.06.08 14:39</span>
+      <span class="text-xs text-slate-600">2026.06.08 19:16</span>
     </div>
 
     <!-- Filter Bar -->
-    <div class="max-w-[1400px] mx-auto px-8 pb-3 flex flex-col gap-3">
-      <!-- Controls & Signal Filters -->
-      <div class="flex items-center justify-between gap-4 flex-wrap w-full">
-        <!-- Toggle button on mobile, label on desktop -->
-        <div class="flex items-center gap-2">
-          <span class="hidden md:inline text-xs text-slate-500 mr-1">채널</span>
-          <button id="toggleChBtn" onclick="toggleChannels()" 
-            class="md:hidden flex items-center gap-1.5 text-xs px-3 py-1.5 rounded-lg border border-slate-700 bg-slate-800/40 hover:border-slate-600 text-slate-300 hover:text-white transition-all select-none">
-            <span class="material-symbols-outlined text-[16px] leading-none">tune</span>
-            <span id="toggleChBtnText">채널 필터 보이기</span>
-          </button>
-        </div>
-
-        <!-- Right: Signal filters -->
-        <div class="flex gap-2">
-          <button onclick="filterSig(this,'bullish')" data-sig="bullish"
-            class="sig-btn text-[11px] px-3 py-1 rounded-full border border-emerald-500/30 text-emerald-400 hover:bg-emerald-500/15 transition-all">
-            ▲ 강세
-          </button>
-          <button onclick="filterSig(this,'bearish')" data-sig="bearish"
-            class="sig-btn text-[11px] px-3 py-1 rounded-full border border-rose-500/30 text-rose-400 hover:bg-rose-500/15 transition-all">
-            ▼ 약세
-          </button>
-          <button onclick="filterSig(this,'neutral')" data-sig="neutral"
-            class="sig-btn text-[11px] px-3 py-1 rounded-full border border-amber-500/30 text-amber-400 hover:bg-amber-500/15 transition-all">
-            ● 중립
-          </button>
-        </div>
-      </div>
-
-      <!-- Collapsible Channel Filters -->
-      <div id="channelContainer" class="ch-container-collapsed flex flex-wrap gap-2 items-center border-t border-slate-800/40 pt-2.5 md:border-none md:pt-0">
-        <button onclick="filterCh(this,'all')" data-ch="all"
-          class="ch-btn text-xs px-3 py-1 rounded-full border border-emerald-400/50 bg-emerald-500/15 text-emerald-300 font-semibold transition-all">
-          전체
-        </button>
-        <button onclick="filterCh(this,'삼프로TV_3ProTV')" data-ch="삼프로TV_3ProTV" class="ch-btn text-xs px-3 py-1 rounded-full border border-slate-600 text-slate-400 hover:border-emerald-400/50 hover:text-emerald-300 transition-all">삼프로TV_3ProTV</button>
+    <div class="max-w-[1400px] mx-auto px-8 pb-3 flex items-center gap-2 flex-wrap">
+      <span class="text-xs text-slate-500 mr-1">채널</span>
+      <button onclick="filterCh(this,'all')" data-ch="all"
+        class="ch-btn text-xs px-3 py-1 rounded-full border border-emerald-400/50 bg-emerald-500/15 text-emerald-300 font-semibold transition-all">
+        전체
+      </button>
+      <button onclick="filterCh(this,'삼프로TV_3ProTV')" data-ch="삼프로TV_3ProTV" class="ch-btn text-xs px-3 py-1 rounded-full border border-slate-600 text-slate-400 hover:border-emerald-400/50 hover:text-emerald-300 transition-all">삼프로TV_3ProTV</button>
 <button onclick="filterCh(this,'안될과학_Unrealscience')" data-ch="안될과학_Unrealscience" class="ch-btn text-xs px-3 py-1 rounded-full border border-slate-600 text-slate-400 hover:border-emerald-400/50 hover:text-emerald-300 transition-all">안될과학 Unrealscience</button>
 <button onclick="filterCh(this,'한경_글로벌마켓')" data-ch="한경_글로벌마켓" class="ch-btn text-xs px-3 py-1 rounded-full border border-slate-600 text-slate-400 hover:border-emerald-400/50 hover:text-emerald-300 transition-all">한경 글로벌마켓</button>
 <button onclick="filterCh(this,'안될공학_-_IT_테크_신기술')" data-ch="안될공학_-_IT_테크_신기술" class="ch-btn text-xs px-3 py-1 rounded-full border border-slate-600 text-slate-400 hover:border-emerald-400/50 hover:text-emerald-300 transition-all">안될공학 - IT 테크 신기술</button>
@@ -110,6 +77,19 @@
 <button onclick="filterCh(this,'엔지니어TV')" data-ch="엔지니어TV" class="ch-btn text-xs px-3 py-1 rounded-full border border-slate-600 text-slate-400 hover:border-emerald-400/50 hover:text-emerald-300 transition-all">엔지니어TV</button>
 <button onclick="filterCh(this,'월텍남')" data-ch="월텍남" class="ch-btn text-xs px-3 py-1 rounded-full border border-slate-600 text-slate-400 hover:border-emerald-400/50 hover:text-emerald-300 transition-all">월텍남</button>
 
+      <div class="ml-auto flex gap-2">
+        <button onclick="filterSig(this,'bullish')" data-sig="bullish"
+          class="sig-btn text-[11px] px-3 py-1 rounded-full border border-emerald-500/30 text-emerald-400 hover:bg-emerald-500/15 transition-all">
+          ▲ 강세
+        </button>
+        <button onclick="filterSig(this,'bearish')" data-sig="bearish"
+          class="sig-btn text-[11px] px-3 py-1 rounded-full border border-rose-500/30 text-rose-400 hover:bg-rose-500/15 transition-all">
+          ▼ 약세
+        </button>
+        <button onclick="filterSig(this,'neutral')" data-sig="neutral"
+          class="sig-btn text-[11px] px-3 py-1 rounded-full border border-amber-500/30 text-amber-400 hover:bg-amber-500/15 transition-all">
+          ● 중립
+        </button>
       </div>
     </div>
   </header>
@@ -119,28 +99,444 @@
 <div class="mb-8 bg-gradient-to-br from-slate-800/70 to-slate-900/50 border border-emerald-400/25 rounded-2xl p-6">
   <div class="flex items-center gap-3 mb-4 flex-wrap">
     <span class="text-[10px] font-bold tracking-widest text-emerald-400 uppercase">AI 종합 인사이트</span>
-    <span class="text-[10px] text-slate-500 font-light">(업데이트: 2026.06.07 12:44)</span>
+    <span class="text-[10px] text-slate-500 font-light">(업데이트: 2026.06.08 19:14)</span>
     <span class="inline-flex items-center gap-1.5 text-[11px] font-bold px-2.5 py-1 rounded-lg border"
-      style="background:rgba(16,217,138,0.10);color:#10d98a;border-color:rgba(16,217,138,0.30)">
-      <span class="w-1.5 h-1.5 rounded-full" style="background:#10d98a"></span>
-      BULLISH
+      style="background:rgba(245,200,66,0.10);color:#f5c842;border-color:rgba(245,200,66,0.30)">
+      <span class="w-1.5 h-1.5 rounded-full" style="background:#f5c842"></span>
+      NEUTRAL
     </span>
   </div>
-  <p class="text-[13px] text-slate-300 leading-relaxed mb-4">금리 인상 재부각과 고환율(1,540~1,560원대)로 인한 수급 불안정으로 단기 지수 조정 및 변동성이 확대되고 있으나, 과거 닷컴 버블과 달리 M7 및 국내 반도체 투톱의 2분기 실적 펀더멘탈(EPS)과 빅테크의 AI 설비투자(CapEx) 모멘텀이 견고하여 조정 시 분할 매수 기회로 접근하는 흐름이 지배적입니다.</p>
+  <p class="text-[13px] text-slate-300 leading-relaxed mb-4">국내외 주식 시장은 미국 고용 서프라이즈발 고금리 장기화 우려, 환율 급등(1,660원 돌파), 외국인의 포트폴리오 리밸런싱 매도 등으로 인해 장중 8% 급락(블랙먼데이 서킷브레이커 발동)하는 단기 수급 패닉을 겪었습니다. 그러나 반도체 기업들의 HBM/DRAM 수출 신고가 경신 및 삼성중공업의 대형 FLNG 수주로 대변되는 조선업 턴어라운드 등 핵심 산업의 실적 펀더멘탈은 매우 견조합니다. 단기 변동성은 불가피하나 우량 기업들의 실적이 뒷받침되는 장기 실적 장세의 초입으로 평가됩니다.</p>
   <div class="flex flex-wrap gap-4 text-[12px]">
     <div class="flex-1 min-w-[200px]">
       <p class="text-[10px] font-bold tracking-widest text-slate-500 uppercase mb-2">주요 테마</p>
-      <div class="flex flex-wrap gap-1.5"><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-400">반도체/AI 주도주 중심의 실적 장세</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-400">금리 및 환율 변동성에 따른 단기 조정과 순환매</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-400">조정 시 분할 매수(Buy the dip) 및 절세 계좌 활용</span></div>
+      <div class="flex flex-wrap gap-1.5"><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-400">글로벌 유동성 위축 및 환율 급등(1,660원선)이 촉발한 국내 증시의 단기 수급 패닉(서킷브레이커 발동)</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-400">외국인의 100조 원 반도체 매도의 본질(포트폴리오 리밸런싱 및 비중 조절)</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-400">반도체 공급 병목 루머에도 불구하고 엔비디아-SK하이닉스 장기 파트너십 등 견고한 AI 하드웨어 펀더멘탈</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-400">지정학적 선박 수요 및 친환경 교체 수요에 따른 조선업의 구조적 장기 호황</span></div>
     </div>
     <div class="flex-1 min-w-[200px]">
       <p class="text-[10px] font-bold tracking-widest text-slate-500 uppercase mb-2">주목 종목/섹터</p>
-      <div class="flex flex-wrap gap-1.5"><span class="px-2 py-0.5 rounded-md text-[10px] bg-emerald-500/10 border border-emerald-400/30 text-emerald-400">삼성전자 및 SK하이닉스 (HBM/MLCC 밸류체인)</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-emerald-500/10 border border-emerald-400/30 text-emerald-400">수출 화장품 및 인바운드 소비주 (실리콘투, APR)</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-emerald-500/10 border border-emerald-400/30 text-emerald-400">미국 30년물 국채 금리 및 고배당/가치주</span></div>
+      <div class="flex flex-wrap gap-1.5"><span class="px-2 py-0.5 rounded-md text-[10px] bg-emerald-500/10 border border-emerald-400/30 text-emerald-400">SK하이닉스</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-emerald-500/10 border border-emerald-400/30 text-emerald-400">삼성전자</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-emerald-500/10 border border-emerald-400/30 text-emerald-400">삼성중공업</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-emerald-500/10 border border-emerald-400/30 text-emerald-400">HD현대중공업</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-emerald-500/10 border border-emerald-400/30 text-emerald-400">엔비디아(NVIDIA)</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-emerald-500/10 border border-emerald-400/30 text-emerald-400">마이크론(Micron)</span></div>
     </div>
   </div>
-  <p class="text-[11px] text-slate-500 mt-3 border-t border-slate-700/50 pt-3">⚡ 고금리 장기화와 채권 금리 상승에 따른 유동성 발작 및 기술주 피크아웃 우려와, 탄탄한 캐시플로우 및 HBM 가격 인상 등에 힘입은 반도체 주도의 실적 장세 지속 간의 시각 차이가 존재합니다.</p>
+  <p class="text-[11px] text-slate-500 mt-3 border-t border-slate-700/50 pt-3">⚡ 단기적으로는 환율 급등, 연준의 금리 긴축 장기화 우려, 글로벌 유동성 위축(리퀴디티 드레인)으로 증시가 추가 하락(고점 대비 20% 조정)할 수 있다는 보수적 관점과, 실적 대비 밸류에이션 매력이 극대화된 시점으로 반도체 주도주(SK하이닉스, 삼성전자) 및 조선주를 적극 분할 매수해야 한다는 적극적 관점이 팽팽히 맞서고 있습니다.</p>
 </div>
     <div id="cardGrid" class="grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-5">
       
+<div class="insight-card group bg-card/60 backdrop-blur-xl border border-slate-700/50 rounded-[1.5rem] p-6 flex flex-col gap-4 transition-all duration-300 hover:-translate-y-1 hover:border-emerald-400/40 hover:shadow-[0_8px_32px_rgba(52,211,153,0.15)] relative overflow-hidden"
+     data-ch="삼프로TV_3ProTV" data-sig="neutral">
+  <div class="absolute inset-0 bg-gradient-to-br from-emerald-500/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 rounded-[1.5rem] pointer-events-none"></div>
+
+  <!-- Top: thumbnail + title + signal -->
+  <div class="flex gap-3 items-start">
+    <img src="https://img.youtube.com/vi/nxoZt9Aj2PU/hqdefault.jpg" class="w-24 h-[60px] rounded-xl object-cover bg-slate-800 flex-shrink-0" onerror="this.style.display='none'">
+    <div class="flex-1 min-w-0">
+      <h3 class="font-bold text-slate-100 text-[14px] leading-snug line-clamp-2 group-hover:text-emerald-200 transition-colors">[긴급점검] 코스피 8% 급락 '패닉'...증시 대응 전략? AI랠리 끝났나?_26.06.08. | 이혁진, 여도은, 허재무 [아침N투자]</h3>
+      <div class="flex items-center gap-2 mt-1.5 flex-wrap">
+        <span class="px-2 py-0.5 rounded-full text-[10px] font-semibold bg-emerald-500/15 text-emerald-300 border border-emerald-400/30">삼프로TV_3ProTV</span>
+        <span class="text-[11px] text-slate-500">2026-06-08</span>
+      </div>
+    </div>
+    <div class="flex-shrink-0">
+      <span class="inline-flex items-center gap-1.5 text-[11px] font-bold px-2.5 py-1 rounded-lg border"
+        style="background:rgba(245,200,66,0.12);color:#f5c842;border-color:rgba(245,200,66,0.35)">
+        <span class="w-1.5 h-1.5 rounded-full" style="background:#f5c842"></span>
+        NEUTRAL
+      </span>
+    </div>
+  </div>
+
+  <!-- Insight -->
+  <div class="bg-gradient-to-br from-slate-800/60 to-slate-900/40 border border-slate-700/50 rounded-xl p-4">
+    <p class="text-[10px] font-bold tracking-widest text-emerald-400 mb-2 uppercase">Insight</p>
+    <p class="text-[13px] text-slate-300 leading-relaxed">이번 급락은 실적 훼손이 아닌 <span class="text-rose-400 font-medium">수급 교란</span>과 심리적 패닉에 의한 것이며, 빅테크의 AI 인프라 투자는 여전히 진행 중이므로 반등 시 가장 먼저 올라올 <span class="text-cyan-300 font-semibold">AI 하드웨어 주도주</span>로 포트폴리오를 압축해야 합니다.</p>
+  </div>
+
+  <!-- Key Claims -->
+  <div class="flex flex-col gap-1.5">
+    <div class="flex items-start gap-2 text-[12px] text-slate-400"><span class="text-slate-600 mt-0.5 flex-shrink-0">▸</span><span><span class="text-rose-400 font-medium">파생상품 레버리지 거래</span>와 높은 환율 등 매크로 우려가 겹치며 국내 증시의 낙폭이 비정상적으로 확대됨.</span></div>
+<div class="flex items-start gap-2 text-[12px] text-slate-400"><span class="text-slate-600 mt-0.5 flex-shrink-0">▸</span><span>엔비디아의 LPDDR 사양 축소 소음은 가격 협상력을 높이려는 의도이며, 반도체 기업들의 <span class="text-amber-300 font-bold">실적 성장성</span> 자체는 훼손되지 않음.</span></div>
+<div class="flex items-start gap-2 text-[12px] text-slate-400"><span class="text-slate-600 mt-0.5 flex-shrink-0">▸</span><span><span class="text-cyan-300 font-semibold">SK하이닉스</span>는 미국 마이크론 대비 현저히 저평가되어 있어 반등장세에서 가장 강력한 탄력을 보일 것임.</span></div>
+  </div>
+
+  <!-- Action Point -->
+  <div class="bg-amber-400/5 border border-amber-400/20 rounded-xl p-3.5">
+    <p class="text-[10px] font-bold tracking-widest text-amber-300 mb-1.5 uppercase">Action Point</p>
+    <p class="text-[13px] text-slate-200 leading-relaxed">패닉 매도에 동참하기보다는 <span class="text-cyan-300 font-semibold">SK하이닉스</span> 등 저평가된 반도체 주도주의 <span class="text-amber-300 font-bold">포트폴리오 비중 확대</span> 기회로 활용할 것을 권장합니다.</p>
+  </div>
+
+  <!-- Tags + Link -->
+  <div class="flex items-center justify-between gap-2 pt-1">
+    <div class="flex flex-wrap gap-1.5"><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">코스피급락</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">반도체</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">에이아이랠리</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">엔비디아</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">SK하이닉스</span></div>
+    <a href="https://www.youtube.com/watch?v=nxoZt9Aj2PU" target="_blank"
+      class="flex-shrink-0 flex items-center gap-1 text-[12px] font-semibold px-4 py-2 rounded-xl bg-emerald-500/15 hover:bg-emerald-500/25 text-emerald-300 border border-emerald-400/30 hover:border-emerald-400/60 transition-all">
+      보기 <span class="material-symbols-outlined text-sm">arrow_forward</span>
+    </a>
+  </div>
+</div>
+
+<div class="insight-card group bg-card/60 backdrop-blur-xl border border-slate-700/50 rounded-[1.5rem] p-6 flex flex-col gap-4 transition-all duration-300 hover:-translate-y-1 hover:border-emerald-400/40 hover:shadow-[0_8px_32px_rgba(52,211,153,0.15)] relative overflow-hidden"
+     data-ch="삼프로TV_3ProTV" data-sig="bullish">
+  <div class="absolute inset-0 bg-gradient-to-br from-emerald-500/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 rounded-[1.5rem] pointer-events-none"></div>
+
+  <!-- Top: thumbnail + title + signal -->
+  <div class="flex gap-3 items-start">
+    <img src="https://img.youtube.com/vi/_p0D2JzIo7A/hqdefault.jpg" class="w-24 h-[60px] rounded-xl object-cover bg-slate-800 flex-shrink-0" onerror="this.style.display='none'">
+    <div class="flex-1 min-w-0">
+      <h3 class="font-bold text-slate-100 text-[14px] leading-snug line-clamp-2 group-hover:text-emerald-200 transition-colors">이런 장일수록 비중 늘려야 하는 이유 | 손수연 하나증권 용산WM센터 사원 [더블 크루]</h3>
+      <div class="flex items-center gap-2 mt-1.5 flex-wrap">
+        <span class="px-2 py-0.5 rounded-full text-[10px] font-semibold bg-emerald-500/15 text-emerald-300 border border-emerald-400/30">삼프로TV_3ProTV</span>
+        <span class="text-[11px] text-slate-500">2026-06-08</span>
+      </div>
+    </div>
+    <div class="flex-shrink-0">
+      <span class="inline-flex items-center gap-1.5 text-[11px] font-bold px-2.5 py-1 rounded-lg border"
+        style="background:rgba(16,217,138,0.12);color:#10d98a;border-color:rgba(16,217,138,0.35)">
+        <span class="w-1.5 h-1.5 rounded-full" style="background:#10d98a"></span>
+        BULLISH
+      </span>
+    </div>
+  </div>
+
+  <!-- Insight -->
+  <div class="bg-gradient-to-br from-slate-800/60 to-slate-900/40 border border-slate-700/50 rounded-xl p-4">
+    <p class="text-[10px] font-bold tracking-widest text-emerald-400 mb-2 uppercase">Insight</p>
+    <p class="text-[13px] text-slate-300 leading-relaxed">시장은 엔비디아의 칩 스펙 다운그레이드를 '수요 피크아웃'의 신호로 오독하지만, 실제로는 제한된 HBM/DRAM 생산 한도 내에서 최대한 많은 고객사(플랫폼 다양화)를 확보하려는 <span class="text-amber-300 font-bold">효율화 및 확장 전략</span>입니다. 이러한 매크로 및 개별 종목 노이즈가 겹치는 조정 장세는 장기 실적 성장성에 확신이 있는 투자자들에게 매력적인 <span class="text-cyan-300 font-semibold">저가 매수 타점</span>을 제공합니다.</p>
+  </div>
+
+  <!-- Key Claims -->
+  <div class="flex flex-col gap-1.5">
+    <div class="flex items-start gap-2 text-[12px] text-slate-400"><span class="text-slate-600 mt-0.5 flex-shrink-0">▸</span><span>엔비디아의 GPU 메모리 축소 헤드라인은 수요 감소가 아닌 반도체 <span class="text-amber-300 font-bold">공급 병목 현상</span>의 반증이다.</span></div>
+<div class="flex items-start gap-2 text-[12px] text-slate-400"><span class="text-slate-600 mt-0.5 flex-shrink-0">▸</span><span>미국 비농업 고용 지표 강세는 숙박·레저 업종의 일시적 이벤트 효과일 뿐 매크로 과열 신호로 해석하기 어렵다.</span></div>
+<div class="flex items-start gap-2 text-[12px] text-slate-400"><span class="text-slate-600 mt-0.5 flex-shrink-0">▸</span><span>과거 2017년 반도체 슈퍼 사이클 사례처럼, 금리 인상 리스크보다 강력한 <span class="text-cyan-300 font-semibold">반도체 기업 실적 성장</span>이 주가를 견인할 것이다.</span></div>
+  </div>
+
+  <!-- Action Point -->
+  <div class="bg-amber-400/5 border border-amber-400/20 rounded-xl p-3.5">
+    <p class="text-[10px] font-bold tracking-widest text-amber-300 mb-1.5 uppercase">Action Point</p>
+    <p class="text-[13px] text-slate-200 leading-relaxed">지수가 패닉에 빠진 시점에 매도에 동참하기보다는, 현금 비중을 활용해 메모리 반도체 리더(삼성전자, SK하이닉스) 및 핵심 <span class="text-cyan-300 font-semibold">소부장(소재·부품·장비)</span> 주식을 6월 중순 선물옵션 만기일 전후로 <span class="text-cyan-300 font-semibold">분할 매수</span>하는 전략을 제안합니다.</p>
+  </div>
+
+  <!-- Tags + Link -->
+  <div class="flex items-center justify-between gap-2 pt-1">
+    <div class="flex flex-wrap gap-1.5"><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">분할매수</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">엔비디아</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">DRAM공급부족</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">코스피전망</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">매크로조정</span></div>
+    <a href="https://www.youtube.com/watch?v=_p0D2JzIo7A" target="_blank"
+      class="flex-shrink-0 flex items-center gap-1 text-[12px] font-semibold px-4 py-2 rounded-xl bg-emerald-500/15 hover:bg-emerald-500/25 text-emerald-300 border border-emerald-400/30 hover:border-emerald-400/60 transition-all">
+      보기 <span class="material-symbols-outlined text-sm">arrow_forward</span>
+    </a>
+  </div>
+</div>
+
+<div class="insight-card group bg-card/60 backdrop-blur-xl border border-slate-700/50 rounded-[1.5rem] p-6 flex flex-col gap-4 transition-all duration-300 hover:-translate-y-1 hover:border-emerald-400/40 hover:shadow-[0_8px_32px_rgba(52,211,153,0.15)] relative overflow-hidden"
+     data-ch="이효석아카데미" data-sig="bullish">
+  <div class="absolute inset-0 bg-gradient-to-br from-emerald-500/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 rounded-[1.5rem] pointer-events-none"></div>
+
+  <!-- Top: thumbnail + title + signal -->
+  <div class="flex gap-3 items-start">
+    <img src="https://img.youtube.com/vi/aBJ9uiVObcc/hqdefault.jpg" class="w-24 h-[60px] rounded-xl object-cover bg-slate-800 flex-shrink-0" onerror="this.style.display='none'">
+    <div class="flex-1 min-w-0">
+      <h3 class="font-bold text-slate-100 text-[14px] leading-snug line-clamp-2 group-hover:text-emerald-200 transition-colors">오늘 장 초반 급락에서 무조건 용기내서 담았다면 진정한 승자 [월간아신 5월호 1부]</h3>
+      <div class="flex items-center gap-2 mt-1.5 flex-wrap">
+        <span class="px-2 py-0.5 rounded-full text-[10px] font-semibold bg-emerald-500/15 text-emerald-300 border border-emerald-400/30">이효석아카데미</span>
+        <span class="text-[11px] text-slate-500">2026-06-08</span>
+      </div>
+    </div>
+    <div class="flex-shrink-0">
+      <span class="inline-flex items-center gap-1.5 text-[11px] font-bold px-2.5 py-1 rounded-lg border"
+        style="background:rgba(16,217,138,0.12);color:#10d98a;border-color:rgba(16,217,138,0.35)">
+        <span class="w-1.5 h-1.5 rounded-full" style="background:#10d98a"></span>
+        BULLISH
+      </span>
+    </div>
+  </div>
+
+  <!-- Insight -->
+  <div class="bg-gradient-to-br from-slate-800/60 to-slate-900/40 border border-slate-700/50 rounded-xl p-4">
+    <p class="text-[10px] font-bold tracking-widest text-emerald-400 mb-2 uppercase">Insight</p>
+    <p class="text-[13px] text-slate-300 leading-relaxed">반도체 시장은 P(단가) 위주의 가격 사이클에서 기기 보급과 세트 수량 확대를 동반한 <span class="text-amber-300 font-bold">Q(물량) 성장 사이클</span>로 체질 변화를 겪고 있습니다. 공급 제약에 의한 일시적인 설계 변경은 전방 하이퍼스케일러들의 투자 규모가 유지되는 한 악재가 아닌 장기 호재입니다.</p>
+  </div>
+
+  <!-- Key Claims -->
+  <div class="flex flex-col gap-1.5">
+    <div class="flex items-start gap-2 text-[12px] text-slate-400"><span class="text-slate-600 mt-0.5 flex-shrink-0">▸</span><span>스펙 다운 루머는 수요 부족이 아닌 제조사들의 HBM 집중으로 인한 <span class="text-rose-400 font-medium">일반 DRAM 공급 쇼티지</span>가 원인이다.</span></div>
+<div class="flex items-start gap-2 text-[12px] text-slate-400"><span class="text-slate-600 mt-0.5 flex-shrink-0">▸</span><span>엔비디아 차세대 가속기 랙의 연간 출하량(Q)은 당초 계획 대비 10~20% 상향되고 있어 전방 수요는 매우 강하다.</span></div>
+<div class="flex items-start gap-2 text-[12px] text-slate-400"><span class="text-slate-600 mt-0.5 flex-shrink-0">▸</span><span>메모리 사이클이 가격 상승(P) 수혜 단계에서 <span class="text-amber-300 font-bold">출하량 성장(Q) 및 다변화 단계</span>로 순조롭게 이행 중이다.</span></div>
+  </div>
+
+  <!-- Action Point -->
+  <div class="bg-amber-400/5 border border-amber-400/20 rounded-xl p-3.5">
+    <p class="text-[10px] font-bold tracking-widest text-amber-300 mb-1.5 uppercase">Action Point</p>
+    <p class="text-[13px] text-slate-200 leading-relaxed">루머와 유동성 충격이 겹쳐서 나타난 투매 흐름에서 당황하지 말고, <span class="text-cyan-300 font-semibold">메모리 대형주</span> 위주로 적극적인 분할 매수 대응이 유효합니다.</p>
+  </div>
+
+  <!-- Tags + Link -->
+  <div class="flex items-center justify-between gap-2 pt-1">
+    <div class="flex flex-wrap gap-1.5"><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">반도체</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">엔비디아</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">DRAM</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">주가조정</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">매수찬스</span></div>
+    <a href="https://www.youtube.com/watch?v=aBJ9uiVObcc" target="_blank"
+      class="flex-shrink-0 flex items-center gap-1 text-[12px] font-semibold px-4 py-2 rounded-xl bg-emerald-500/15 hover:bg-emerald-500/25 text-emerald-300 border border-emerald-400/30 hover:border-emerald-400/60 transition-all">
+      보기 <span class="material-symbols-outlined text-sm">arrow_forward</span>
+    </a>
+  </div>
+</div>
+
+<div class="insight-card group bg-card/60 backdrop-blur-xl border border-slate-700/50 rounded-[1.5rem] p-6 flex flex-col gap-4 transition-all duration-300 hover:-translate-y-1 hover:border-emerald-400/40 hover:shadow-[0_8px_32px_rgba(52,211,153,0.15)] relative overflow-hidden"
+     data-ch="삼프로TV_3ProTV" data-sig="neutral">
+  <div class="absolute inset-0 bg-gradient-to-br from-emerald-500/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 rounded-[1.5rem] pointer-events-none"></div>
+
+  <!-- Top: thumbnail + title + signal -->
+  <div class="flex gap-3 items-start">
+    <img src="https://img.youtube.com/vi/g6N4VGAapDY/hqdefault.jpg" class="w-24 h-[60px] rounded-xl object-cover bg-slate-800 flex-shrink-0" onerror="this.style.display='none'">
+    <div class="flex-1 min-w-0">
+      <h3 class="font-bold text-slate-100 text-[14px] leading-snug line-clamp-2 group-hover:text-emerald-200 transition-colors">"비명 지르는 코스피" 살려는 줄 것입니다, 그러나 그 다음은 | 장우진 작가 [더블 체크]</h3>
+      <div class="flex items-center gap-2 mt-1.5 flex-wrap">
+        <span class="px-2 py-0.5 rounded-full text-[10px] font-semibold bg-emerald-500/15 text-emerald-300 border border-emerald-400/30">삼프로TV_3ProTV</span>
+        <span class="text-[11px] text-slate-500">2026-06-08</span>
+      </div>
+    </div>
+    <div class="flex-shrink-0">
+      <span class="inline-flex items-center gap-1.5 text-[11px] font-bold px-2.5 py-1 rounded-lg border"
+        style="background:rgba(245,200,66,0.12);color:#f5c842;border-color:rgba(245,200,66,0.35)">
+        <span class="w-1.5 h-1.5 rounded-full" style="background:#f5c842"></span>
+        NEUTRAL
+      </span>
+    </div>
+  </div>
+
+  <!-- Insight -->
+  <div class="bg-gradient-to-br from-slate-800/60 to-slate-900/40 border border-slate-700/50 rounded-xl p-4">
+    <p class="text-[10px] font-bold tracking-widest text-emerald-400 mb-2 uppercase">Insight</p>
+    <p class="text-[13px] text-slate-300 leading-relaxed">이번 쇼크의 본질은 미국 재무부의 대규모 국채 발행 및 미국 빅테크의 유상증자가 전 세계 달러 유동성을 빨아들이는 <span class="text-rose-400 font-medium">리퀴디티 드레인(Liquidity Drain)</span> 현상입니다. 이로 인해 취약한 신흥국(동남아 등) 자산이 먼저 폭락했습니다. 한국 증시 또한 이 썰물에 휘쓸렸으나 반도체 등의 실적 가시성이 매우 높으므로 시장은 단기 수급 균형을 찾으며 반등을 모색할 것입니다.</p>
+  </div>
+
+  <!-- Key Claims -->
+  <div class="flex flex-col gap-1.5">
+    <div class="flex items-start gap-2 text-[12px] text-slate-400"><span class="text-slate-600 mt-0.5 flex-shrink-0">▸</span><span>코스피와 아시아 증시의 서킷브레이커 사태는 실적 악화가 아닌 급격한 <span class="text-rose-400 font-medium">글로벌 유동성 위축</span>과 환율 쇼크에서 비롯되었다.</span></div>
+<div class="flex items-start gap-2 text-[12px] text-slate-400"><span class="text-slate-600 mt-0.5 flex-shrink-0">▸</span><span>오전 패닉 투매보다는 강한 단기 반등('살려는 드릴게' 국면) 기회를 노려 포트폴리오를 정비하는 것이 유리하다.</span></div>
+<div class="flex items-start gap-2 text-[12px] text-slate-400"><span class="text-slate-600 mt-0.5 flex-shrink-0">▸</span><span>변동성 장세가 심화될 때는 레버리지 ETF 투자를 피해야 한다. 횡보 및 하락 시 <span class="text-rose-400 font-medium">음의 복리 효과(계좌 마모)</span>로 큰 피해를 볼 수 있다.</span></div>
+  </div>
+
+  <!-- Action Point -->
+  <div class="bg-amber-400/5 border border-amber-400/20 rounded-xl p-3.5">
+    <p class="text-[10px] font-bold tracking-widest text-amber-300 mb-1.5 uppercase">Action Point</p>
+    <p class="text-[13px] text-slate-200 leading-relaxed">극도의 공포 국면에서 공포에 질려 던지는 것은 지양하고, 현금 여유가 있다면 <span class="text-cyan-300 font-semibold">삼성전자, SK하이닉스 등 핵심 반도체 주도주</span>를 매수하는 전략이 유효합니다.</p>
+  </div>
+
+  <!-- Tags + Link -->
+  <div class="flex items-center justify-between gap-2 pt-1">
+    <div class="flex flex-wrap gap-1.5"><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">코스피급락</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">서킷브레이커</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">환율급등</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">유동성위축</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">삼성전자</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">SK하이닉스</span></div>
+    <a href="https://www.youtube.com/watch?v=g6N4VGAapDY" target="_blank"
+      class="flex-shrink-0 flex items-center gap-1 text-[12px] font-semibold px-4 py-2 rounded-xl bg-emerald-500/15 hover:bg-emerald-500/25 text-emerald-300 border border-emerald-400/30 hover:border-emerald-400/60 transition-all">
+      보기 <span class="material-symbols-outlined text-sm">arrow_forward</span>
+    </a>
+  </div>
+</div>
+
+<div class="insight-card group bg-card/60 backdrop-blur-xl border border-slate-700/50 rounded-[1.5rem] p-6 flex flex-col gap-4 transition-all duration-300 hover:-translate-y-1 hover:border-emerald-400/40 hover:shadow-[0_8px_32px_rgba(52,211,153,0.15)] relative overflow-hidden"
+     data-ch="이효석아카데미" data-sig="neutral">
+  <div class="absolute inset-0 bg-gradient-to-br from-emerald-500/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 rounded-[1.5rem] pointer-events-none"></div>
+
+  <!-- Top: thumbnail + title + signal -->
+  <div class="flex gap-3 items-start">
+    <img src="https://img.youtube.com/vi/lMMxxWJ4srE/hqdefault.jpg" class="w-24 h-[60px] rounded-xl object-cover bg-slate-800 flex-shrink-0" onerror="this.style.display='none'">
+    <div class="flex-1 min-w-0">
+      <h3 class="font-bold text-slate-100 text-[14px] leading-snug line-clamp-2 group-hover:text-emerald-200 transition-colors">[속보효] 현실이 된 블랙먼데이, 어떻게 해야 할까?</h3>
+      <div class="flex items-center gap-2 mt-1.5 flex-wrap">
+        <span class="px-2 py-0.5 rounded-full text-[10px] font-semibold bg-emerald-500/15 text-emerald-300 border border-emerald-400/30">이효석아카데미</span>
+        <span class="text-[11px] text-slate-500">2026-06-08</span>
+      </div>
+    </div>
+    <div class="flex-shrink-0">
+      <span class="inline-flex items-center gap-1.5 text-[11px] font-bold px-2.5 py-1 rounded-lg border"
+        style="background:rgba(245,200,66,0.12);color:#f5c842;border-color:rgba(245,200,66,0.35)">
+        <span class="w-1.5 h-1.5 rounded-full" style="background:#f5c842"></span>
+        NEUTRAL
+      </span>
+    </div>
+  </div>
+
+  <!-- Insight -->
+  <div class="bg-gradient-to-br from-slate-800/60 to-slate-900/40 border border-slate-700/50 rounded-xl p-4">
+    <p class="text-[10px] font-bold tracking-widest text-emerald-400 mb-2 uppercase">Insight</p>
+    <p class="text-[13px] text-slate-300 leading-relaxed">단기 주가 폭락은 증거금 부족에 의한 반대매매 등 기술적 요인이 복합 작용하여 가중되는 현상입니다. 그러나 SK하이닉스가 단순 HBM 공급자를 넘어 엔비디아의 차세대 로드맵(<span class="text-cyan-300 font-semibold">루빈, 토르 플랫폼</span> 등) 초기 설계 단계부터 공동 참여하는 기술 동맹을 구축했다는 점은 <span class="text-amber-300 font-bold">반도체 공급망 지배력</span>이 이더리움-나스닥급의 파트너십으로 격상되었음을 의미합니다.</p>
+  </div>
+
+  <!-- Key Claims -->
+  <div class="flex flex-col gap-1.5">
+    <div class="flex items-start gap-2 text-[12px] text-slate-400"><span class="text-slate-600 mt-0.5 flex-shrink-0">▸</span><span>시장 폭락 시 강제 반대매매로 인한 투매 도미노를 방지하기 위해 <span class="text-rose-400 font-medium">서킷브레이커 및 사이드카</span> 등의 제도적 안전 장치가 작동함</span></div>
+<div class="flex items-start gap-2 text-[12px] text-slate-400"><span class="text-slate-600 mt-0.5 flex-shrink-0">▸</span><span>엔비디아의 차세대 루빈 AI 슈퍼컴퓨터 및 피지컬 AI용 칩(토르)에 최적화된 <span class="text-cyan-300 font-semibold">HBM 차세대 제품</span>을 공동 설계 및 제조 시뮬레이션으로 가속 개발할 예정</span></div>
+<div class="flex items-start gap-2 text-[12px] text-slate-400"><span class="text-slate-600 mt-0.5 flex-shrink-0">▸</span><span>반도체 설계에 AI를 적용하는 <span class="text-cyan-300 font-semibold">자동 설계(EDA)</span> 기술 협력으로 개발 주기와 수동 검증 오차를 획기적으로 감축함</span></div>
+  </div>
+
+  <!-- Action Point -->
+  <div class="bg-amber-400/5 border border-amber-400/20 rounded-xl p-3.5">
+    <p class="text-[10px] font-bold tracking-widest text-amber-300 mb-1.5 uppercase">Action Point</p>
+    <p class="text-[13px] text-slate-200 leading-relaxed">패닉 셀링에 동참하기보다 증시 안전 장치 작동 이후의 저가 매수세 유입 강도를 점검하고, 반도체 대형주 중심의 <span class="text-cyan-300 font-semibold">장기 기술 파트너십 성과</span> 및 빅테크와의 장기 공급 계약(LTA) 체결 소식을 예의주시해야 합니다.</p>
+  </div>
+
+  <!-- Tags + Link -->
+  <div class="flex items-center justify-between gap-2 pt-1">
+    <div class="flex flex-wrap gap-1.5"><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">블랙먼데이</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">서킷브레이커</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">사이드카</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">SK하이닉스</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">엔비디아</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">AI팩토리</span></div>
+    <a href="https://www.youtube.com/watch?v=lMMxxWJ4srE" target="_blank"
+      class="flex-shrink-0 flex items-center gap-1 text-[12px] font-semibold px-4 py-2 rounded-xl bg-emerald-500/15 hover:bg-emerald-500/25 text-emerald-300 border border-emerald-400/30 hover:border-emerald-400/60 transition-all">
+      보기 <span class="material-symbols-outlined text-sm">arrow_forward</span>
+    </a>
+  </div>
+</div>
+
+<div class="insight-card group bg-card/60 backdrop-blur-xl border border-slate-700/50 rounded-[1.5rem] p-6 flex flex-col gap-4 transition-all duration-300 hover:-translate-y-1 hover:border-emerald-400/40 hover:shadow-[0_8px_32px_rgba(52,211,153,0.15)] relative overflow-hidden"
+     data-ch="삼프로TV_3ProTV" data-sig="bearish">
+  <div class="absolute inset-0 bg-gradient-to-br from-emerald-500/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 rounded-[1.5rem] pointer-events-none"></div>
+
+  <!-- Top: thumbnail + title + signal -->
+  <div class="flex gap-3 items-start">
+    <img src="https://img.youtube.com/vi/C4L4caNW_0Q/hqdefault.jpg" class="w-24 h-[60px] rounded-xl object-cover bg-slate-800 flex-shrink-0" onerror="this.style.display='none'">
+    <div class="flex-1 min-w-0">
+      <h3 class="font-bold text-slate-100 text-[14px] leading-snug line-clamp-2 group-hover:text-emerald-200 transition-colors">난기류 만난 증시, 추가하락 대비해야? 반도체에 무슨 일이? | 김장열 유니스토리자산운용 리서치센터장 [글로벌 인터뷰]</h3>
+      <div class="flex items-center gap-2 mt-1.5 flex-wrap">
+        <span class="px-2 py-0.5 rounded-full text-[10px] font-semibold bg-emerald-500/15 text-emerald-300 border border-emerald-400/30">삼프로TV_3ProTV</span>
+        <span class="text-[11px] text-slate-500">2026-06-08</span>
+      </div>
+    </div>
+    <div class="flex-shrink-0">
+      <span class="inline-flex items-center gap-1.5 text-[11px] font-bold px-2.5 py-1 rounded-lg border"
+        style="background:rgba(255,79,114,0.12);color:#ff4f72;border-color:rgba(255,79,114,0.35)">
+        <span class="w-1.5 h-1.5 rounded-full" style="background:#ff4f72"></span>
+        BEARISH
+      </span>
+    </div>
+  </div>
+
+  <!-- Insight -->
+  <div class="bg-gradient-to-br from-slate-800/60 to-slate-900/40 border border-slate-700/50 rounded-xl p-4">
+    <p class="text-[10px] font-bold tracking-widest text-emerald-400 mb-2 uppercase">Insight</p>
+    <p class="text-[13px] text-slate-300 leading-relaxed">AI와 메모리 업계의 펀더멘탈 자체는 탄탄하지만, 금리 상승과 수급 부담이라는 <span class="text-rose-400 font-medium">매크로 변수</span>가 펀더멘탈을 압도하고 있습니다. 6월 말 마이크론의 실적 발표와 7월 초 삼성전자 잠정 실적 발표 전까지는 뚜렷한 시장 반전 카탈리스트가 없으므로 관망세가 짙어질 것입니다.</p>
+  </div>
+
+  <!-- Key Claims -->
+  <div class="flex flex-col gap-1.5">
+    <div class="flex items-start gap-2 text-[12px] text-slate-400"><span class="text-slate-600 mt-0.5 flex-shrink-0">▸</span><span>미국 고용 지표 호조는 금리 인상 확률을 대폭 끌어올려 시장에 단순 딥(Dip)이 아닌 <span class="text-rose-400 font-medium">디프(Deep) 하락</span>을 유발할 수 있다.</span></div>
+<div class="flex items-start gap-2 text-[12px] text-slate-400"><span class="text-slate-600 mt-0.5 flex-shrink-0">▸</span><span>10년물 미국 국채 금리가 임계점인 4.7%에 도달할 경우, 밸류에이션 부담이 큰 반도체 기술주 중심의 투매가 연장될 수 있다.</span></div>
+<div class="flex items-start gap-2 text-[12px] text-slate-400"><span class="text-slate-600 mt-0.5 flex-shrink-0">▸</span><span>반도체 펀더멘탈은 유효하지만 매크로 리스크와 환율 및 고레버리지 ETF 청산 등 수급 요인이 시장을 압도하고 있다.</span></div>
+  </div>
+
+  <!-- Action Point -->
+  <div class="bg-amber-400/5 border border-amber-400/20 rounded-xl p-3.5">
+    <p class="text-[10px] font-bold tracking-widest text-amber-300 mb-1.5 uppercase">Action Point</p>
+    <p class="text-[13px] text-slate-200 leading-relaxed">성급한 바닥 낚시(Bottom Fishing)나 레버리지 추격은 위험하며, 현금 비중을 유지한 채 <span class="text-cyan-300 font-semibold">SK하이닉스 190만 원선 및 마이크론 800달러선</span> 등 지지력을 재확인하며 대응해야 합니다.</p>
+  </div>
+
+  <!-- Tags + Link -->
+  <div class="flex items-center justify-between gap-2 pt-1">
+    <div class="flex flex-wrap gap-1.5"><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">반도체</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">주가조정</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">SK하이닉스</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">삼성전자</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">매크로</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">금리인상</span></div>
+    <a href="https://www.youtube.com/watch?v=C4L4caNW_0Q" target="_blank"
+      class="flex-shrink-0 flex items-center gap-1 text-[12px] font-semibold px-4 py-2 rounded-xl bg-emerald-500/15 hover:bg-emerald-500/25 text-emerald-300 border border-emerald-400/30 hover:border-emerald-400/60 transition-all">
+      보기 <span class="material-symbols-outlined text-sm">arrow_forward</span>
+    </a>
+  </div>
+</div>
+
+<div class="insight-card group bg-card/60 backdrop-blur-xl border border-slate-700/50 rounded-[1.5rem] p-6 flex flex-col gap-4 transition-all duration-300 hover:-translate-y-1 hover:border-emerald-400/40 hover:shadow-[0_8px_32px_rgba(52,211,153,0.15)] relative overflow-hidden"
+     data-ch="이효석아카데미" data-sig="bullish">
+  <div class="absolute inset-0 bg-gradient-to-br from-emerald-500/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 rounded-[1.5rem] pointer-events-none"></div>
+
+  <!-- Top: thumbnail + title + signal -->
+  <div class="flex gap-3 items-start">
+    <img src="https://img.youtube.com/vi/Z4AK-YksrJU/hqdefault.jpg" class="w-24 h-[60px] rounded-xl object-cover bg-slate-800 flex-shrink-0" onerror="this.style.display='none'">
+    <div class="flex-1 min-w-0">
+      <h3 class="font-bold text-slate-100 text-[14px] leading-snug line-clamp-2 group-hover:text-emerald-200 transition-colors">외국인이 삼성전자·하이닉스를 미친 듯이 팔아도 겁먹을 필요가 없는 이유</h3>
+      <div class="flex items-center gap-2 mt-1.5 flex-wrap">
+        <span class="px-2 py-0.5 rounded-full text-[10px] font-semibold bg-emerald-500/15 text-emerald-300 border border-emerald-400/30">이효석아카데미</span>
+        <span class="text-[11px] text-slate-500">2026-06-07</span>
+      </div>
+    </div>
+    <div class="flex-shrink-0">
+      <span class="inline-flex items-center gap-1.5 text-[11px] font-bold px-2.5 py-1 rounded-lg border"
+        style="background:rgba(16,217,138,0.12);color:#10d98a;border-color:rgba(16,217,138,0.35)">
+        <span class="w-1.5 h-1.5 rounded-full" style="background:#10d98a"></span>
+        BULLISH
+      </span>
+    </div>
+  </div>
+
+  <!-- Insight -->
+  <div class="bg-gradient-to-br from-slate-800/60 to-slate-900/40 border border-slate-700/50 rounded-xl p-4">
+    <p class="text-[10px] font-bold tracking-widest text-emerald-400 mb-2 uppercase">Insight</p>
+    <p class="text-[13px] text-slate-300 leading-relaxed">시장 참여자들은 외국인의 '순매도 금액'이라는 표면적 악재에 매몰되나, 실질적으로는 이들의 지분 가치 폭등에 따른 <span class="text-amber-300 font-bold">자산 배분 리밸런싱 한도 초과</span> 방지가 본질입니다. 반도체 업계의 이익이 지속해서 늘어나는 국면에서는 외국인의 리밸런싱으로 발생한 주가 조정이 장기 투자자에게는 최적의 <span class="text-cyan-300 font-semibold">저가 매수 구간</span>을 제공합니다.</p>
+  </div>
+
+  <!-- Key Claims -->
+  <div class="flex flex-col gap-1.5">
+    <div class="flex items-start gap-2 text-[12px] text-slate-400"><span class="text-slate-600 mt-0.5 flex-shrink-0">▸</span><span>외국인의 100조 원 매도는 단순 자금 이탈이 아닌, 자산 가치 폭등에 따른 <span class="text-amber-300 font-bold">포트폴리오 리스크 관리(비중 제한)</span> 차원의 매도이다.</span></div>
+<div class="flex items-start gap-2 text-[12px] text-slate-400"><span class="text-slate-600 mt-0.5 flex-shrink-0">▸</span><span>매도세에도 불구하고 외국인 포트폴리오 내 반도체 비중은 46.5%에서 57.6%로 증가하여 반도체에 대한 지배력은 더욱 견고해졌다.</span></div>
+<div class="flex items-start gap-2 text-[12px] text-slate-400"><span class="text-slate-600 mt-0.5 flex-shrink-0">▸</span><span>스페이스X의 상장 자금 유입과 빅테크 기업들의 <span class="text-cyan-300 font-semibold">AI 인프라 CAPEX</span>는 멈추지 않으며 반도체 이익 성장 동력은 유효하다.</span></div>
+  </div>
+
+  <!-- Action Point -->
+  <div class="bg-amber-400/5 border border-amber-400/20 rounded-xl p-3.5">
+    <p class="text-[10px] font-bold tracking-widest text-amber-300 mb-1.5 uppercase">Action Point</p>
+    <p class="text-[13px] text-slate-200 leading-relaxed">외국인 매도 뉴스로 인한 시장 불안 심리에 휩쓸려 반도체 주식을 투매하기보다, 가격 조정 시 분할 매수로 <span class="text-cyan-300 font-semibold">삼성전자와 SK하이닉스 비중을 확대</span>하고 향후 빅테크 CAPEX의 리트머스 시험지 역할을 할 오라클 실적과 CDS 프리미엄 추이를 관찰해야 합니다.</p>
+  </div>
+
+  <!-- Tags + Link -->
+  <div class="flex items-center justify-between gap-2 pt-1">
+    <div class="flex flex-wrap gap-1.5"><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">삼성전자</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">SK하이닉스</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">외국인매도</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">포트폴리오리밸런싱</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">반도체전망</span></div>
+    <a href="https://www.youtube.com/watch?v=Z4AK-YksrJU" target="_blank"
+      class="flex-shrink-0 flex items-center gap-1 text-[12px] font-semibold px-4 py-2 rounded-xl bg-emerald-500/15 hover:bg-emerald-500/25 text-emerald-300 border border-emerald-400/30 hover:border-emerald-400/60 transition-all">
+      보기 <span class="material-symbols-outlined text-sm">arrow_forward</span>
+    </a>
+  </div>
+</div>
+
+<div class="insight-card group bg-card/60 backdrop-blur-xl border border-slate-700/50 rounded-[1.5rem] p-6 flex flex-col gap-4 transition-all duration-300 hover:-translate-y-1 hover:border-emerald-400/40 hover:shadow-[0_8px_32px_rgba(52,211,153,0.15)] relative overflow-hidden"
+     data-ch="언더스탠딩_Understanding" data-sig="bullish">
+  <div class="absolute inset-0 bg-gradient-to-br from-emerald-500/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 rounded-[1.5rem] pointer-events-none"></div>
+
+  <!-- Top: thumbnail + title + signal -->
+  <div class="flex gap-3 items-start">
+    <img src="https://img.youtube.com/vi/bz5SAPymEgQ/hqdefault.jpg" class="w-24 h-[60px] rounded-xl object-cover bg-slate-800 flex-shrink-0" onerror="this.style.display='none'">
+    <div class="flex-1 min-w-0">
+      <h3 class="font-bold text-slate-100 text-[14px] leading-snug line-clamp-2 group-hover:text-emerald-200 transition-colors">반도체 다음은 조선 20년 만의 호황 왔다 (신영증권 엄경아 연구위원)</h3>
+      <div class="flex items-center gap-2 mt-1.5 flex-wrap">
+        <span class="px-2 py-0.5 rounded-full text-[10px] font-semibold bg-emerald-500/15 text-emerald-300 border border-emerald-400/30">언더스탠딩_Understanding</span>
+        <span class="text-[11px] text-slate-500">2026-06-07</span>
+      </div>
+    </div>
+    <div class="flex-shrink-0">
+      <span class="inline-flex items-center gap-1.5 text-[11px] font-bold px-2.5 py-1 rounded-lg border"
+        style="background:rgba(16,217,138,0.12);color:#10d98a;border-color:rgba(16,217,138,0.35)">
+        <span class="w-1.5 h-1.5 rounded-full" style="background:#10d98a"></span>
+        BULLISH
+      </span>
+    </div>
+  </div>
+
+  <!-- Insight -->
+  <div class="bg-gradient-to-br from-slate-800/60 to-slate-900/40 border border-slate-700/50 rounded-xl p-4">
+    <p class="text-[10px] font-bold tracking-widest text-emerald-400 mb-2 uppercase">Insight</p>
+    <p class="text-[13px] text-slate-300 leading-relaxed">이번 호황은 과거 2007년 벌크선 중심의 단순 투기성 버블과 달리, 공급 부족이 만연한 상황에서 <span class="text-violet-300 font-medium">지정학적 공급망 분절</span>과 국제 환경 규제라는 패러다임 변화가 맞물린 구조적 대세 상승기입니다. 조선사들의 잔고 질이 크게 개선되었고, 발주 취소 리스크가 매우 낮다는 점이 핵심입니다.</p>
+  </div>
+
+  <!-- Key Claims -->
+  <div class="flex flex-col gap-1.5">
+    <div class="flex items-start gap-2 text-[12px] text-slate-400"><span class="text-slate-600 mt-0.5 flex-shrink-0">▸</span><span>지정학적 물류 차단으로 물동량 대비 실질 선박 수요인 <span class="text-amber-300 font-bold">톤마일(Ton-Mile)이 17% 급증</span>하여 선박 쇼티지 상태가 지속되고 있다.</span></div>
+<div class="flex items-start gap-2 text-[12px] text-slate-400"><span class="text-slate-600 mt-0.5 flex-shrink-0">▸</span><span>선박 연료유 가격이 2배 급등함에 따라 선사들은 생존을 위해 친환경 고효율 선박으로의 교체 투자를 서두르고 있다.</span></div>
+<div class="flex items-start gap-2 text-[12px] text-slate-400"><span class="text-slate-600 mt-0.5 flex-shrink-0">▸</span><span>조선사들의 도크(Dock)가 꽉 찬 공급자 우위 시장 구조로 인해 호가 지수인 신조선가가 꾸준히 반등하고 있다.</span></div>
+  </div>
+
+  <!-- Action Point -->
+  <div class="bg-amber-400/5 border border-amber-400/20 rounded-xl p-3.5">
+    <p class="text-[10px] font-bold tracking-widest text-amber-300 mb-1.5 uppercase">Action Point</p>
+    <p class="text-[13px] text-slate-200 leading-relaxed">단기적인 기간 조정을 겪은 <span class="text-cyan-300 font-semibold">대형 조선주(삼성중공업 등)</span>와 핵심 기자재 밸류체인에 대해 중장기적 관점의 비중 확대를 제안합니다.</p>
+  </div>
+
+  <!-- Tags + Link -->
+  <div class="flex items-center justify-between gap-2 pt-1">
+    <div class="flex flex-wrap gap-1.5"><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">조선주</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">삼성중공업</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">FLNG</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">신조선가</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">해상운임</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">슈퍼사이클</span></div>
+    <a href="https://www.youtube.com/watch?v=bz5SAPymEgQ" target="_blank"
+      class="flex-shrink-0 flex items-center gap-1 text-[12px] font-semibold px-4 py-2 rounded-xl bg-emerald-500/15 hover:bg-emerald-500/25 text-emerald-300 border border-emerald-400/30 hover:border-emerald-400/60 transition-all">
+      보기 <span class="material-symbols-outlined text-sm">arrow_forward</span>
+    </a>
+  </div>
+</div>
+
 <div class="insight-card group bg-card/60 backdrop-blur-xl border border-slate-700/50 rounded-[1.5rem] p-6 flex flex-col gap-4 transition-all duration-300 hover:-translate-y-1 hover:border-emerald-400/40 hover:shadow-[0_8px_32px_rgba(52,211,153,0.15)] relative overflow-hidden"
      data-ch="삼프로TV_3ProTV" data-sig="bullish">
   <div class="absolute inset-0 bg-gradient-to-br from-emerald-500/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 rounded-[1.5rem] pointer-events-none"></div>
@@ -6230,22 +6626,6 @@
 
   <script>
     let activeCh = 'all', activeSig = null;
-    function toggleChannels() {
-      const container = document.getElementById('channelContainer');
-      const btn = document.getElementById('toggleChBtn');
-      const btnText = document.getElementById('toggleChBtnText');
-      const isCollapsed = container.classList.contains('ch-container-collapsed');
-      
-      if (isCollapsed) {
-        container.classList.remove('ch-container-collapsed');
-        btn.classList.add('!border-emerald-400/50', '!text-emerald-300', 'bg-emerald-500/15');
-        btnText.textContent = '채널 필터 숨기기';
-      } else {
-        container.classList.add('ch-container-collapsed');
-        btn.classList.remove('!border-emerald-400/50', '!text-emerald-300', 'bg-emerald-500/15');
-        btnText.textContent = '채널 필터 보이기';
-      }
-    }
     function filterCh(btn, ch) {
       document.querySelectorAll('.ch-btn').forEach(b => b.classList.remove('!bg-emerald-500/15','!border-emerald-400/50','!text-emerald-300','font-semibold'));
       btn.classList.add('font-semibold');

@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "bz5SAPymEgQ",
+    "title": "반도체 다음은 조선 20년 만의 호황 왔다 (신영증권 엄경아 연구위원)",
+    "published": "2026-06-07T11:55:00+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=bz5SAPymEgQ",
+    "thumbnail": "https://img.youtube.com/vi/bz5SAPymEgQ/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "최근 <span class=\"text-cyan-300 font-semibold\">삼성중공업</span>의 4.3조 원 규모 북미 FLNG 본계약 체결을 계기로 조선업 및 해양 플랜트 시장이 재조명받고 있습니다.\n수에즈·호르무즈 해협 차단 등 <span class=\"text-violet-300 font-medium\">지정학적 갈등</span>으로 인해 선박 운송 거리(톤마일)가 급증하여 전방 선박 수요가 견조하며, 고유가 지속에 따른 친환경 선박 교체 수요가 시장 활기를 이끌고 있습니다.\n국내 조선 3사는 높은 수주 잔고를 바탕으로 단가 협상 우위를 점해 내년 영업이익률 20%대에 달하는 역대급 실적 턴어라운드를 기록할 전망입니다.",
+    "key_claims": [
+      "지정학적 물류 차단으로 물동량 대비 실질 선박 수요인 <span class=\"text-amber-300 font-bold\">톤마일(Ton-Mile)이 17% 급증</span>하여 선박 쇼티지 상태가 지속되고 있다.",
+      "선박 연료유 가격이 2배 급등함에 따라 선사들은 생존을 위해 친환경 고효율 선박으로의 교체 투자를 서두르고 있다.",
+      "조선사들의 도크(Dock)가 꽉 찬 공급자 우위 시장 구조로 인해 호가 지수인 신조선가가 꾸준히 반등하고 있다."
+    ],
+    "data_points": [
+      "삼성중공업 델핀(Delfin) FLNG 수주 금액: 4.3조 원",
+      "2019년 대비 2025년 지표 변화: 물동량 +7% vs 톤마일 +17%",
+      "선박 연료용 벙커C유 가격 변동: 300달러대에서 600달러대 후반으로 상승",
+      "국내 조선 3사 1분기 합산 영업이익: 2조 원 돌파 (역대 최고 수준)"
+    ],
+    "signal": "bullish",
+    "signal_reason": "대형 해양 프로젝트 본계약 성사 및 고유가/지정학 리스크가 촉발한 친환경 선박 교체 사이클은 조선 업종의 <span class=\"text-amber-300 font-bold\">장기 이익 개선</span>을 강력하게 지지합니다.",
+    "key_companies": [
+      "삼성중공업",
+      "HD현대중공업",
+      "한화오션"
+    ],
+    "insight": "이번 호황은 과거 2007년 벌크선 중심의 단순 투기성 버블과 달리, 공급 부족이 만연한 상황에서 <span class=\"text-violet-300 font-medium\">지정학적 공급망 분절</span>과 국제 환경 규제라는 패러다임 변화가 맞물린 구조적 대세 상승기입니다. 조선사들의 잔고 질이 크게 개선되었고, 발주 취소 리스크가 매우 낮다는 점이 핵심입니다.",
+    "action_point": "단기적인 기간 조정을 겪은 <span class=\"text-cyan-300 font-semibold\">대형 조선주(삼성중공업 등)</span>와 핵심 기자재 밸류체인에 대해 중장기적 관점의 비중 확대를 제안합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "조선주",
+      "삼성중공업",
+      "FLNG",
+      "신조선가",
+      "해상운임",
+      "슈퍼사이클"
+    ]
+  }
+}

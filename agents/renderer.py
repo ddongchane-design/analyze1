@@ -59,9 +59,6 @@ SHARED_HEAD = """
     ::-webkit-scrollbar { width: 6px; }
     ::-webkit-scrollbar-track { background: transparent; }
     ::-webkit-scrollbar-thumb { background: #1e293b; border-radius: 3px; }
-    @media (max-width: 767px) {
-      .ch-container-collapsed { display: none !important; }
-    }
   </style>
 """
 
@@ -172,43 +169,26 @@ TOPIC_TEMPLATE = """<!DOCTYPE html>
     </div>
 
     <!-- Filter Bar -->
-    <div class="max-w-[1400px] mx-auto px-8 pb-3 flex flex-col gap-3">
-      <!-- Controls & Signal Filters -->
-      <div class="flex items-center justify-between gap-4 flex-wrap w-full">
-        <!-- Toggle button on mobile, label on desktop -->
-        <div class="flex items-center gap-2">
-          <span class="hidden md:inline text-xs text-slate-500 mr-1">채널</span>
-          <button id="toggleChBtn" onclick="toggleChannels()" 
-            class="md:hidden flex items-center gap-1.5 text-xs px-3 py-1.5 rounded-lg border border-slate-700 bg-slate-800/40 hover:border-slate-600 text-slate-300 hover:text-white transition-all select-none">
-            <span class="material-symbols-outlined text-[16px] leading-none">tune</span>
-            <span id="toggleChBtnText">채널 필터 보이기</span>
-          </button>
-        </div>
-
-        <!-- Right: Signal filters -->
-        <div class="flex gap-2">
-          <button onclick="filterSig(this,'bullish')" data-sig="bullish"
-            class="sig-btn text-[11px] px-3 py-1 rounded-full border border-emerald-500/30 text-emerald-400 hover:bg-emerald-500/15 transition-all">
-            ▲ 강세
-          </button>
-          <button onclick="filterSig(this,'bearish')" data-sig="bearish"
-            class="sig-btn text-[11px] px-3 py-1 rounded-full border border-rose-500/30 text-rose-400 hover:bg-rose-500/15 transition-all">
-            ▼ 약세
-          </button>
-          <button onclick="filterSig(this,'neutral')" data-sig="neutral"
-            class="sig-btn text-[11px] px-3 py-1 rounded-full border border-amber-500/30 text-amber-400 hover:bg-amber-500/15 transition-all">
-            ● 중립
-          </button>
-        </div>
-      </div>
-
-      <!-- Collapsible Channel Filters -->
-      <div id="channelContainer" class="ch-container-collapsed flex flex-wrap gap-2 items-center border-t border-slate-800/40 pt-2.5 md:border-none md:pt-0">
-        <button onclick="filterCh(this,'all')" data-ch="all"
-          class="ch-btn text-xs px-3 py-1 rounded-full border border-{color}-400/50 bg-{color}-500/15 text-{color}-300 font-semibold transition-all">
-          전체
+    <div class="max-w-[1400px] mx-auto px-8 pb-3 flex items-center gap-2 flex-wrap">
+      <span class="text-xs text-slate-500 mr-1">채널</span>
+      <button onclick="filterCh(this,'all')" data-ch="all"
+        class="ch-btn text-xs px-3 py-1 rounded-full border border-{color}-400/50 bg-{color}-500/15 text-{color}-300 font-semibold transition-all">
+        전체
+      </button>
+      {channel_btns}
+      <div class="ml-auto flex gap-2">
+        <button onclick="filterSig(this,'bullish')" data-sig="bullish"
+          class="sig-btn text-[11px] px-3 py-1 rounded-full border border-emerald-500/30 text-emerald-400 hover:bg-emerald-500/15 transition-all">
+          ▲ 강세
         </button>
-        {channel_btns}
+        <button onclick="filterSig(this,'bearish')" data-sig="bearish"
+          class="sig-btn text-[11px] px-3 py-1 rounded-full border border-rose-500/30 text-rose-400 hover:bg-rose-500/15 transition-all">
+          ▼ 약세
+        </button>
+        <button onclick="filterSig(this,'neutral')" data-sig="neutral"
+          class="sig-btn text-[11px] px-3 py-1 rounded-full border border-amber-500/30 text-amber-400 hover:bg-amber-500/15 transition-all">
+          ● 중립
+        </button>
       </div>
     </div>
   </header>
@@ -226,22 +206,6 @@ TOPIC_TEMPLATE = """<!DOCTYPE html>
 
   <script>
     let activeCh = 'all', activeSig = null;
-    function toggleChannels() {{
-      const container = document.getElementById('channelContainer');
-      const btn = document.getElementById('toggleChBtn');
-      const btnText = document.getElementById('toggleChBtnText');
-      const isCollapsed = container.classList.contains('ch-container-collapsed');
-      
-      if (isCollapsed) {{
-        container.classList.remove('ch-container-collapsed');
-        btn.classList.add('!border-{color}-400/50', '!text-{color}-300', 'bg-{color}-500/15');
-        btnText.textContent = '채널 필터 숨기기';
-      }} else {{
-        container.classList.add('ch-container-collapsed');
-        btn.classList.remove('!border-{color}-400/50', '!text-{color}-300', 'bg-{color}-500/15');
-        btnText.textContent = '채널 필터 보이기';
-      }}
-    }}
     function filterCh(btn, ch) {{
       document.querySelectorAll('.ch-btn').forEach(b => b.classList.remove('!bg-{color}-500/15','!border-{color}-400/50','!text-{color}-300','font-semibold'));
       btn.classList.add('font-semibold');

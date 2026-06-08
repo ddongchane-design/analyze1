@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "p8WLQp4Bz90",
+    "title": "피바람 부는 글로벌 시장, 미국 고용 지표 쇼크에 금리 인상, 전쟁 공포까지 | 김동환, 서동주, 박상혁 디지털애셋 편집장 [크립토 PLUS]",
+    "published": "2026-06-08T03:13:01+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=p8WLQp4Bz90",
+    "thumbnail": "https://img.youtube.com/vi/p8WLQp4Bz90/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국의 예상을 뛰어넘는 <span class=\"text-rose-400 font-medium\">고용 지표 서프라이즈</span>로 금리 인상 우려가 재점화되며 글로벌 위험자산 시장이 급락했습니다.\n이란-이스라엘 간 지정학적 충돌과 <span class=\"text-rose-400 font-medium\">대사관 직원 철수</span> 소식으로 비트코인을 비롯한 크립토 시장의 변동성이 극대화되고 있습니다.\n보안 연구원이 AI를 통해 <span class=\"text-cyan-300 font-semibold\">지캐시(Zcash)</span>의 무한 발행 취약점을 발견하면서 프라이버시 코인 진역에 큰 충격을 주었습니다.",
+    "key_claims": [
+      "미국의 5월 비농업 고용자 수가 예상치를 대폭 상회하며 연준의 <span class=\"text-rose-400 font-medium\">추가 금리 인상 확률</span>이 78%까지 급증함.",
+      "이스라엘의 이란 공습과 미국의 대사관 직원 철수로 중동 지역의 <span class=\"text-amber-300 font-bold\">지정학적 리스크</span>가 전면화됨.",
+      "<span class=\"text-cyan-300 font-semibold\">마이크로스트레티지</span>의 마이크 세일러 의장은 매수 의지를 보였으나, CEO가 지분을 대거 매각해 내부 신뢰도에 대한 의구심이 증폭됨."
+    ],
+    "data_points": [
+      "미국 5월 비농업 고용자 수 17만 2,000명 증가 (시장 예상 8만 명)",
+      "연준의 12월 기준금리 인상 확률 78%로 상승",
+      "지캐시(Zcash) 취약점 노출로 금요일 하루 최대 60% 폭락",
+      "마이크로스트레티지(MSTR) CEO 지분 40% 이상 매각"
+    ],
+    "signal": "bearish",
+    "signal_reason": "미 고용 서프라이즈로 인한 <span class=\"text-rose-400 font-medium\">긴축 장기화 우려</span>와 중동 지정학적 위기, 크립토 개별 보안 리스크가 겹치며 시장의 하방 압력이 높음.",
+    "key_companies": [
+      "MicroStrategy",
+      "Zcash",
+      "브로드컴"
+    ],
+    "insight": "이번 하락장은 표면적으로 고용 지표와 지정학적 위기가 촉발했으나, 실질적으로는 과열된 자산 가격에 대한 밸류에이션 부담이 가중된 상태에서 AI 취약점 해킹 같은 <span class=\"text-rose-400 font-medium\">기술적 불확실성</span>이 심리를 급랭시킨 것으로 판단됩니다.",
+    "action_point": "시장 방향성이 확인될 때까지 크립토 및 고밸류 기술주의 성급한 매수를 지양하고, 중동 리스크와 <span class=\"text-amber-300 font-bold\">FMC 금리 동결 여부</span>를 관망하는 보수적인 대응이 필요합니다."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "economy",
+      "stock"
+    ],
+    "tags": [
+      "비트코인",
+      "지캐시",
+      "암호화폐",
+      "고용지표",
+      "중동전쟁"
+    ]
+  }
+}

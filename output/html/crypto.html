@@ -29,9 +29,6 @@
     ::-webkit-scrollbar { width: 6px; }
     ::-webkit-scrollbar-track { background: transparent; }
     ::-webkit-scrollbar-thumb { background: #1e293b; border-radius: 3px; }
-    @media (max-width: 767px) {
-      .ch-container-collapsed { display: none !important; }
-    }
   </style>
 
 </head>
@@ -55,47 +52,17 @@
           <p class="text-xs text-slate-500">AI 분석 인사이트</p>
         </div>
       </div>
-      <span class="text-xs text-slate-600">2026.06.08 14:39</span>
+      <span class="text-xs text-slate-600">2026.06.08 19:16</span>
     </div>
 
     <!-- Filter Bar -->
-    <div class="max-w-[1400px] mx-auto px-8 pb-3 flex flex-col gap-3">
-      <!-- Controls & Signal Filters -->
-      <div class="flex items-center justify-between gap-4 flex-wrap w-full">
-        <!-- Toggle button on mobile, label on desktop -->
-        <div class="flex items-center gap-2">
-          <span class="hidden md:inline text-xs text-slate-500 mr-1">채널</span>
-          <button id="toggleChBtn" onclick="toggleChannels()" 
-            class="md:hidden flex items-center gap-1.5 text-xs px-3 py-1.5 rounded-lg border border-slate-700 bg-slate-800/40 hover:border-slate-600 text-slate-300 hover:text-white transition-all select-none">
-            <span class="material-symbols-outlined text-[16px] leading-none">tune</span>
-            <span id="toggleChBtnText">채널 필터 보이기</span>
-          </button>
-        </div>
-
-        <!-- Right: Signal filters -->
-        <div class="flex gap-2">
-          <button onclick="filterSig(this,'bullish')" data-sig="bullish"
-            class="sig-btn text-[11px] px-3 py-1 rounded-full border border-emerald-500/30 text-emerald-400 hover:bg-emerald-500/15 transition-all">
-            ▲ 강세
-          </button>
-          <button onclick="filterSig(this,'bearish')" data-sig="bearish"
-            class="sig-btn text-[11px] px-3 py-1 rounded-full border border-rose-500/30 text-rose-400 hover:bg-rose-500/15 transition-all">
-            ▼ 약세
-          </button>
-          <button onclick="filterSig(this,'neutral')" data-sig="neutral"
-            class="sig-btn text-[11px] px-3 py-1 rounded-full border border-amber-500/30 text-amber-400 hover:bg-amber-500/15 transition-all">
-            ● 중립
-          </button>
-        </div>
-      </div>
-
-      <!-- Collapsible Channel Filters -->
-      <div id="channelContainer" class="ch-container-collapsed flex flex-wrap gap-2 items-center border-t border-slate-800/40 pt-2.5 md:border-none md:pt-0">
-        <button onclick="filterCh(this,'all')" data-ch="all"
-          class="ch-btn text-xs px-3 py-1 rounded-full border border-fuchsia-400/50 bg-fuchsia-500/15 text-fuchsia-300 font-semibold transition-all">
-          전체
-        </button>
-        <button onclick="filterCh(this,'삼프로TV_3ProTV')" data-ch="삼프로TV_3ProTV" class="ch-btn text-xs px-3 py-1 rounded-full border border-slate-600 text-slate-400 hover:border-fuchsia-400/50 hover:text-fuchsia-300 transition-all">삼프로TV_3ProTV</button>
+    <div class="max-w-[1400px] mx-auto px-8 pb-3 flex items-center gap-2 flex-wrap">
+      <span class="text-xs text-slate-500 mr-1">채널</span>
+      <button onclick="filterCh(this,'all')" data-ch="all"
+        class="ch-btn text-xs px-3 py-1 rounded-full border border-fuchsia-400/50 bg-fuchsia-500/15 text-fuchsia-300 font-semibold transition-all">
+        전체
+      </button>
+      <button onclick="filterCh(this,'삼프로TV_3ProTV')" data-ch="삼프로TV_3ProTV" class="ch-btn text-xs px-3 py-1 rounded-full border border-slate-600 text-slate-400 hover:border-fuchsia-400/50 hover:text-fuchsia-300 transition-all">삼프로TV_3ProTV</button>
 <button onclick="filterCh(this,'안될과학_Unrealscience')" data-ch="안될과학_Unrealscience" class="ch-btn text-xs px-3 py-1 rounded-full border border-slate-600 text-slate-400 hover:border-fuchsia-400/50 hover:text-fuchsia-300 transition-all">안될과학 Unrealscience</button>
 <button onclick="filterCh(this,'한경_글로벌마켓')" data-ch="한경_글로벌마켓" class="ch-btn text-xs px-3 py-1 rounded-full border border-slate-600 text-slate-400 hover:border-fuchsia-400/50 hover:text-fuchsia-300 transition-all">한경 글로벌마켓</button>
 <button onclick="filterCh(this,'안될공학_-_IT_테크_신기술')" data-ch="안될공학_-_IT_테크_신기술" class="ch-btn text-xs px-3 py-1 rounded-full border border-slate-600 text-slate-400 hover:border-fuchsia-400/50 hover:text-fuchsia-300 transition-all">안될공학 - IT 테크 신기술</button>
@@ -110,6 +77,19 @@
 <button onclick="filterCh(this,'엔지니어TV')" data-ch="엔지니어TV" class="ch-btn text-xs px-3 py-1 rounded-full border border-slate-600 text-slate-400 hover:border-fuchsia-400/50 hover:text-fuchsia-300 transition-all">엔지니어TV</button>
 <button onclick="filterCh(this,'월텍남')" data-ch="월텍남" class="ch-btn text-xs px-3 py-1 rounded-full border border-slate-600 text-slate-400 hover:border-fuchsia-400/50 hover:text-fuchsia-300 transition-all">월텍남</button>
 
+      <div class="ml-auto flex gap-2">
+        <button onclick="filterSig(this,'bullish')" data-sig="bullish"
+          class="sig-btn text-[11px] px-3 py-1 rounded-full border border-emerald-500/30 text-emerald-400 hover:bg-emerald-500/15 transition-all">
+          ▲ 강세
+        </button>
+        <button onclick="filterSig(this,'bearish')" data-sig="bearish"
+          class="sig-btn text-[11px] px-3 py-1 rounded-full border border-rose-500/30 text-rose-400 hover:bg-rose-500/15 transition-all">
+          ▼ 약세
+        </button>
+        <button onclick="filterSig(this,'neutral')" data-sig="neutral"
+          class="sig-btn text-[11px] px-3 py-1 rounded-full border border-amber-500/30 text-amber-400 hover:bg-amber-500/15 transition-all">
+          ● 중립
+        </button>
       </div>
     </div>
   </header>
@@ -119,28 +99,184 @@
 <div class="mb-8 bg-gradient-to-br from-slate-800/70 to-slate-900/50 border border-fuchsia-400/25 rounded-2xl p-6">
   <div class="flex items-center gap-3 mb-4 flex-wrap">
     <span class="text-[10px] font-bold tracking-widest text-fuchsia-400 uppercase">AI 종합 인사이트</span>
-    <span class="text-[10px] text-slate-500 font-light">(업데이트: 2026.06.06 06:15)</span>
+    <span class="text-[10px] text-slate-500 font-light">(업데이트: 2026.06.08 19:10)</span>
     <span class="inline-flex items-center gap-1.5 text-[11px] font-bold px-2.5 py-1 rounded-lg border"
-      style="background:rgba(245,200,66,0.10);color:#f5c842;border-color:rgba(245,200,66,0.30)">
-      <span class="w-1.5 h-1.5 rounded-full" style="background:#f5c842"></span>
-      NEUTRAL
+      style="background:rgba(255,79,114,0.10);color:#ff4f72;border-color:rgba(255,79,114,0.30)">
+      <span class="w-1.5 h-1.5 rounded-full" style="background:#ff4f72"></span>
+      BEARISH
     </span>
   </div>
-  <p class="text-[13px] text-slate-300 leading-relaxed mb-4">최근 크립토 시장은 미국 현물 ETF의 자금 유출과 마이크로스트레티지(MSTR)의 4년 만의 첫 비트코인 매도(32 BTC) 노이즈, 선물 청산 연쇄 반응으로 6만 달러 초반까지 조정을 받았습니다. 특히 글로벌 자금이 즉각적인 실적을 증명하는 AI 및 반도체 테마로 쏠리는 '유동성 블랙홀' 현상으로 가상자산이 상대적으로 소외받고 있습니다. 그러나 스테이블코인의 높은 점유율은 대기 자금이 여전히 탄탄함을 시사하며, 미 의회의 스테이블코인 규제 법안(클래리티 법안) 및 실물자산 토큰화(RWA) 도입 등 가상자산이 투기 위주에서 제도권 금융 인프라로 체질 개선을 시도하고 있습니다.</p>
+  <p class="text-[13px] text-slate-300 leading-relaxed mb-4">가상자산 시장이 과거의 단순 내러티브나 투기 중심 생태계에서 벗어나, 글로벌 기관 자금과 월가의 실물자산 토큰화(RWA) 및 스테이블코인 마이그레이션이 가속화되는 제도권 금융 인프라 통합 단계로 급격히 체질을 개선하고 있습니다. 단기적으로는 미국의 긴축 우려, 스페이스X IPO로 인한 유동성 소외, 마이크로스트레티지(MSTR)의 레버리지/배당 부담 및 디페깅 노이즈로 하방 변동성이 커졌으나, 스테이블코인 대기 자금 유입과 메이저 체인(이더리움, 솔라나) 중심의 인프라적 가치는 견고해지고 있습니다.</p>
   <div class="flex flex-wrap gap-4 text-[12px]">
     <div class="flex-1 min-w-[200px]">
       <p class="text-[10px] font-bold tracking-widest text-slate-500 uppercase mb-2">주요 테마</p>
-      <div class="flex flex-wrap gap-1.5"></div>
+      <div class="flex flex-wrap gap-1.5"><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-400">월가 금융기관의 실물자산 토큰화(RWA) 및 규제 준수 스테이블코인 허브 경쟁(이더리움 vs 솔라나)</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-400">미국 고금리 장기화와 고수익 AI 주식 쏠림으로 인한 크립토 시장의 상대적 유동성 소외</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-400">마이크로스트레티지(MSTR)의 우선주/부채 발행 기반 비트코인 매수 모델의 지속가능성 논란과 NAV 프리미엄 역학</span></div>
     </div>
     <div class="flex-1 min-w-[200px]">
       <p class="text-[10px] font-bold tracking-widest text-slate-500 uppercase mb-2">주목 종목/섹터</p>
-      <div class="flex flex-wrap gap-1.5"></div>
+      <div class="flex flex-wrap gap-1.5"><span class="px-2 py-0.5 rounded-md text-[10px] bg-fuchsia-500/10 border border-fuchsia-400/30 text-fuchsia-400">비트코인(BTC) / 이더리움(ETH)</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-fuchsia-500/10 border border-fuchsia-400/30 text-fuchsia-400">솔라나(SOL)</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-fuchsia-500/10 border border-fuchsia-400/30 text-fuchsia-400">마이크로스트레티지(MSTR)</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-fuchsia-500/10 border border-fuchsia-400/30 text-fuchsia-400">서클(USDC)</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-fuchsia-500/10 border border-fuchsia-400/30 text-fuchsia-400">블랙록(BUIDL)</span></div>
     </div>
   </div>
-  <p class="text-[11px] text-slate-500 mt-3 border-t border-slate-700/50 pt-3">⚡ 단기적으로 AI 섹터로의 자금 이탈, MSTR의 레버리지 부채(우선주 STRC 배당 및 APX USD 디페깅) 균열 우려로 보수적인 접근이 필요하다는 약세론이 존재하는 반면, BPS 가치 극대화를 위한 MSTR의 재무 구조가 여전히 견고하며 ETF 기반 기관 자금 유입 및 제도적 정비가 장기적인 하방을 지지할 것이라는 긍정론이 공존합니다.</p>
+  <p class="text-[11px] text-slate-500 mt-3 border-t border-slate-700/50 pt-3">⚡ MSTR의 비트코인 매도에 대해 단순 자본 건전성 한계 및 청산 공포(bearish)로 바라보는 시각과, 주당 보유 비트코인(BPS) 가치를 지키기 위해 NAV 프리미엄 1.22 임계선에 따른 고도의 금융공학적 대응(bullish)으로 해석하는 시각이 갈립니다. 또한 RWA의 표준 체인으로서 압도적인 탈중앙성을 가진 이더리움의 우위와, 저렴한 수수료 및 단일 레이어 유동성을 무기로 한 솔라나의 급부상 간의 표준 플랫폼 선점 경쟁이 지속되고 있습니다.</p>
 </div>
     <div id="cardGrid" class="grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-5">
       
+<div class="insight-card group bg-card/60 backdrop-blur-xl border border-slate-700/50 rounded-[1.5rem] p-6 flex flex-col gap-4 transition-all duration-300 hover:-translate-y-1 hover:border-fuchsia-400/40 hover:shadow-[0_8px_32px_rgba(217,70,239,0.15)] relative overflow-hidden"
+     data-ch="삼프로TV_3ProTV" data-sig="bullish">
+  <div class="absolute inset-0 bg-gradient-to-br from-fuchsia-500/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 rounded-[1.5rem] pointer-events-none"></div>
+
+  <!-- Top: thumbnail + title + signal -->
+  <div class="flex gap-3 items-start">
+    <img src="https://img.youtube.com/vi/g7myIKdokj0/hqdefault.jpg" class="w-24 h-[60px] rounded-xl object-cover bg-slate-800 flex-shrink-0" onerror="this.style.display='none'">
+    <div class="flex-1 min-w-0">
+      <h3 class="font-bold text-slate-100 text-[14px] leading-snug line-clamp-2 group-hover:text-fuchsia-200 transition-colors">RWA 대세는 이더리움인데, 월가 자산운용사들이 솔라나로 넘어오는 진짜 이유 | 서동주, 김동환, 이성산 솔라나 재단 한국 총괄 [크립토 PLUS]</h3>
+      <div class="flex items-center gap-2 mt-1.5 flex-wrap">
+        <span class="px-2 py-0.5 rounded-full text-[10px] font-semibold bg-fuchsia-500/15 text-fuchsia-300 border border-fuchsia-400/30">삼프로TV_3ProTV</span>
+        <span class="text-[11px] text-slate-500">2026-06-08</span>
+      </div>
+    </div>
+    <div class="flex-shrink-0">
+      <span class="inline-flex items-center gap-1.5 text-[11px] font-bold px-2.5 py-1 rounded-lg border"
+        style="background:rgba(16,217,138,0.12);color:#10d98a;border-color:rgba(16,217,138,0.35)">
+        <span class="w-1.5 h-1.5 rounded-full" style="background:#10d98a"></span>
+        BULLISH
+      </span>
+    </div>
+  </div>
+
+  <!-- Insight -->
+  <div class="bg-gradient-to-br from-slate-800/60 to-slate-900/40 border border-slate-700/50 rounded-xl p-4">
+    <p class="text-[10px] font-bold tracking-widest text-fuchsia-400 mb-2 uppercase">Insight</p>
+    <p class="text-[13px] text-slate-300 leading-relaxed">단순 가격 변동성에 주목하기보다, 월가 기관들이 5~10년 장기 먹거리로 <span class="text-amber-300 font-bold">온체인 금융 플랫폼</span>을 선점하기 위해 레거시 금융망을 대체하려는 움직임에 초점을 맞춰야 합니다. 솔라나는 단일 레이어 설계(Single Layer) 구조를 통해 파편화 없는 유동성을 공급하므로 향후 <span class="text-cyan-300 font-semibold">RWA 및 스테이블코인</span> 시장의 핵심 표준이 될 가능성이 높습니다.</p>
+  </div>
+
+  <!-- Key Claims -->
+  <div class="flex flex-col gap-1.5">
+    <div class="flex items-start gap-2 text-[12px] text-slate-400"><span class="text-slate-600 mt-0.5 flex-shrink-0">▸</span><span>이더리움의 높은 거래 비용과 네트워크 파편화를 피하기 위해 블랙록의 BUIDL을 포함한 RWA 자산들이 <span class="text-cyan-300 font-semibold">솔라나 네트워크</span>로 이동하고 있음</span></div>
+<div class="flex items-start gap-2 text-[12px] text-slate-400"><span class="text-slate-600 mt-0.5 flex-shrink-0">▸</span><span><span class="text-cyan-300 font-semibold">토큰 익스텐션(Token Extensions)</span> 기술을 통해 퍼블릭 블록체인 상에서도 기관이 원하는 프라이버시 및 규제 준수 기능을 구현 가능</span></div>
+<div class="flex items-start gap-2 text-[12px] text-slate-400"><span class="text-slate-600 mt-0.5 flex-shrink-0">▸</span><span>신규 네트워크 클라이언트인 <span class="text-cyan-300 font-semibold">파이어댄서(Firedancer)</span> 업데이트로 파이널리티 속도를 0.15초로 단축하여 거래 처리 효율을 비사 수준 이상으로 높일 계획</span></div>
+  </div>
+
+  <!-- Action Point -->
+  <div class="bg-amber-400/5 border border-amber-400/20 rounded-xl p-3.5">
+    <p class="text-[10px] font-bold tracking-widest text-amber-300 mb-1.5 uppercase">Action Point</p>
+    <p class="text-[13px] text-slate-200 leading-relaxed">이더리움과 솔라나 간의 RWA 자산 이동 흐름을 모니터링하고, 향후 예정된 <span class="text-cyan-300 font-semibold">파이어댄서</span> 업데이트 시점의 성능 검증 및 솔라나 기반 <span class="text-amber-300 font-bold">원화 스테이블코인 및 토큰 증권(ST)</span> 연계 서비스의 실증 사례 출시 여부를 주목해야 합니다.</p>
+  </div>
+
+  <!-- Tags + Link -->
+  <div class="flex items-center justify-between gap-2 pt-1">
+    <div class="flex flex-wrap gap-1.5"><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">솔라나</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">RWA</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">스테이블코인</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">ETF</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">이더리움</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">블랙록</span></div>
+    <a href="https://www.youtube.com/watch?v=g7myIKdokj0" target="_blank"
+      class="flex-shrink-0 flex items-center gap-1 text-[12px] font-semibold px-4 py-2 rounded-xl bg-fuchsia-500/15 hover:bg-fuchsia-500/25 text-fuchsia-300 border border-fuchsia-400/30 hover:border-fuchsia-400/60 transition-all">
+      보기 <span class="material-symbols-outlined text-sm">arrow_forward</span>
+    </a>
+  </div>
+</div>
+
+<div class="insight-card group bg-card/60 backdrop-blur-xl border border-slate-700/50 rounded-[1.5rem] p-6 flex flex-col gap-4 transition-all duration-300 hover:-translate-y-1 hover:border-fuchsia-400/40 hover:shadow-[0_8px_32px_rgba(217,70,239,0.15)] relative overflow-hidden"
+     data-ch="삼프로TV_3ProTV" data-sig="bearish">
+  <div class="absolute inset-0 bg-gradient-to-br from-fuchsia-500/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 rounded-[1.5rem] pointer-events-none"></div>
+
+  <!-- Top: thumbnail + title + signal -->
+  <div class="flex gap-3 items-start">
+    <img src="https://img.youtube.com/vi/p8WLQp4Bz90/hqdefault.jpg" class="w-24 h-[60px] rounded-xl object-cover bg-slate-800 flex-shrink-0" onerror="this.style.display='none'">
+    <div class="flex-1 min-w-0">
+      <h3 class="font-bold text-slate-100 text-[14px] leading-snug line-clamp-2 group-hover:text-fuchsia-200 transition-colors">피바람 부는 글로벌 시장, 미국 고용 지표 쇼크에 금리 인상, 전쟁 공포까지 | 김동환, 서동주, 박상혁 디지털애셋 편집장 [크립토 PLUS]</h3>
+      <div class="flex items-center gap-2 mt-1.5 flex-wrap">
+        <span class="px-2 py-0.5 rounded-full text-[10px] font-semibold bg-fuchsia-500/15 text-fuchsia-300 border border-fuchsia-400/30">삼프로TV_3ProTV</span>
+        <span class="text-[11px] text-slate-500">2026-06-08</span>
+      </div>
+    </div>
+    <div class="flex-shrink-0">
+      <span class="inline-flex items-center gap-1.5 text-[11px] font-bold px-2.5 py-1 rounded-lg border"
+        style="background:rgba(255,79,114,0.12);color:#ff4f72;border-color:rgba(255,79,114,0.35)">
+        <span class="w-1.5 h-1.5 rounded-full" style="background:#ff4f72"></span>
+        BEARISH
+      </span>
+    </div>
+  </div>
+
+  <!-- Insight -->
+  <div class="bg-gradient-to-br from-slate-800/60 to-slate-900/40 border border-slate-700/50 rounded-xl p-4">
+    <p class="text-[10px] font-bold tracking-widest text-fuchsia-400 mb-2 uppercase">Insight</p>
+    <p class="text-[13px] text-slate-300 leading-relaxed">이번 하락장은 표면적으로 고용 지표와 지정학적 위기가 촉발했으나, 실질적으로는 과열된 자산 가격에 대한 밸류에이션 부담이 가중된 상태에서 AI 취약점 해킹 같은 <span class="text-rose-400 font-medium">기술적 불확실성</span>이 심리를 급랭시킨 것으로 판단됩니다.</p>
+  </div>
+
+  <!-- Key Claims -->
+  <div class="flex flex-col gap-1.5">
+    <div class="flex items-start gap-2 text-[12px] text-slate-400"><span class="text-slate-600 mt-0.5 flex-shrink-0">▸</span><span>미국의 5월 비농업 고용자 수가 예상치를 대폭 상회하며 연준의 <span class="text-rose-400 font-medium">추가 금리 인상 확률</span>이 78%까지 급증함.</span></div>
+<div class="flex items-start gap-2 text-[12px] text-slate-400"><span class="text-slate-600 mt-0.5 flex-shrink-0">▸</span><span>이스라엘의 이란 공습과 미국의 대사관 직원 철수로 중동 지역의 <span class="text-amber-300 font-bold">지정학적 리스크</span>가 전면화됨.</span></div>
+<div class="flex items-start gap-2 text-[12px] text-slate-400"><span class="text-slate-600 mt-0.5 flex-shrink-0">▸</span><span><span class="text-cyan-300 font-semibold">마이크로스트레티지</span>의 마이크 세일러 의장은 매수 의지를 보였으나, CEO가 지분을 대거 매각해 내부 신뢰도에 대한 의구심이 증폭됨.</span></div>
+  </div>
+
+  <!-- Action Point -->
+  <div class="bg-amber-400/5 border border-amber-400/20 rounded-xl p-3.5">
+    <p class="text-[10px] font-bold tracking-widest text-amber-300 mb-1.5 uppercase">Action Point</p>
+    <p class="text-[13px] text-slate-200 leading-relaxed">시장 방향성이 확인될 때까지 크립토 및 고밸류 기술주의 성급한 매수를 지양하고, 중동 리스크와 <span class="text-amber-300 font-bold">FMC 금리 동결 여부</span>를 관망하는 보수적인 대응이 필요합니다.</p>
+  </div>
+
+  <!-- Tags + Link -->
+  <div class="flex items-center justify-between gap-2 pt-1">
+    <div class="flex flex-wrap gap-1.5"><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">비트코인</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">지캐시</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">암호화폐</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">고용지표</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">중동전쟁</span></div>
+    <a href="https://www.youtube.com/watch?v=p8WLQp4Bz90" target="_blank"
+      class="flex-shrink-0 flex items-center gap-1 text-[12px] font-semibold px-4 py-2 rounded-xl bg-fuchsia-500/15 hover:bg-fuchsia-500/25 text-fuchsia-300 border border-fuchsia-400/30 hover:border-fuchsia-400/60 transition-all">
+      보기 <span class="material-symbols-outlined text-sm">arrow_forward</span>
+    </a>
+  </div>
+</div>
+
+<div class="insight-card group bg-card/60 backdrop-blur-xl border border-slate-700/50 rounded-[1.5rem] p-6 flex flex-col gap-4 transition-all duration-300 hover:-translate-y-1 hover:border-fuchsia-400/40 hover:shadow-[0_8px_32px_rgba(217,70,239,0.15)] relative overflow-hidden"
+     data-ch="삼프로TV_3ProTV" data-sig="bullish">
+  <div class="absolute inset-0 bg-gradient-to-br from-fuchsia-500/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 rounded-[1.5rem] pointer-events-none"></div>
+
+  <!-- Top: thumbnail + title + signal -->
+  <div class="flex gap-3 items-start">
+    <img src="https://img.youtube.com/vi/jldDqabBa8U/hqdefault.jpg" class="w-24 h-[60px] rounded-xl object-cover bg-slate-800 flex-shrink-0" onerror="this.style.display='none'">
+    <div class="flex-1 min-w-0">
+      <h3 class="font-bold text-slate-100 text-[14px] leading-snug line-clamp-2 group-hover:text-fuchsia-200 transition-colors">비트맥시 오태민, 이더리움 10배 폭등하거나, 아예 세상에서 사라지거나 [크립토 PLUS]</h3>
+      <div class="flex items-center gap-2 mt-1.5 flex-wrap">
+        <span class="px-2 py-0.5 rounded-full text-[10px] font-semibold bg-fuchsia-500/15 text-fuchsia-300 border border-fuchsia-400/30">삼프로TV_3ProTV</span>
+        <span class="text-[11px] text-slate-500">2026-06-08</span>
+      </div>
+    </div>
+    <div class="flex-shrink-0">
+      <span class="inline-flex items-center gap-1.5 text-[11px] font-bold px-2.5 py-1 rounded-lg border"
+        style="background:rgba(16,217,138,0.12);color:#10d98a;border-color:rgba(16,217,138,0.35)">
+        <span class="w-1.5 h-1.5 rounded-full" style="background:#10d98a"></span>
+        BULLISH
+      </span>
+    </div>
+  </div>
+
+  <!-- Insight -->
+  <div class="bg-gradient-to-br from-slate-800/60 to-slate-900/40 border border-slate-700/50 rounded-xl p-4">
+    <p class="text-[10px] font-bold tracking-widest text-fuchsia-400 mb-2 uppercase">Insight</p>
+    <p class="text-[13px] text-slate-300 leading-relaxed">RWA 시장의 폭발적 성장은 결국 신뢰와 규모가 검증된 플랫폼으로 자본이 쏠리는 <span class="text-amber-300 font-bold">네트워크 효과</span>를 유발합니다. 이더리움이 RWA 플랫폼의 표준이 될 경우 생태계 가치는 나스닥 수준으로 팽창할 수 있으며, 이는 단순 유동성 유입을 넘어 금융의 패러다임이 <span class="text-cyan-300 font-semibold">온체인 결제 및 정산</span>으로 전환됨을 의미합니다.</p>
+  </div>
+
+  <!-- Key Claims -->
+  <div class="flex flex-col gap-1.5">
+    <div class="flex items-start gap-2 text-[12px] text-slate-400"><span class="text-slate-600 mt-0.5 flex-shrink-0">▸</span><span>이더리움이 RWA 표준 플랫폼이 될 경우 가격이 지금보다 10배 폭등할 것이나, 실패 시 <span class="text-rose-400 font-medium">완전 소멸(0원)</span>할 양극단의 운명에 놓임</span></div>
+<div class="flex items-start gap-2 text-[12px] text-slate-400"><span class="text-slate-600 mt-0.5 flex-shrink-0">▸</span><span>솔라나, 하이퍼리퀴드 등 경쟁 체인은 <span class="text-rose-400 font-medium">네트워크 총가치(TVL) 한계</span>로 대규모 자산 유입에 제약이 있음</span></div>
+<div class="flex items-start gap-2 text-[12px] text-slate-400"><span class="text-slate-600 mt-0.5 flex-shrink-0">▸</span><span>기관들이 스테이블코인과 RWA를 도입하는 목적 자체가 최소한의 <span class="text-cyan-300 font-semibold">탈중앙성 확보</span>이므로 중앙화 플랫폼보다 이더리움이 선호됨</span></div>
+  </div>
+
+  <!-- Action Point -->
+  <div class="bg-amber-400/5 border border-amber-400/20 rounded-xl p-3.5">
+    <p class="text-[10px] font-bold tracking-widest text-amber-300 mb-1.5 uppercase">Action Point</p>
+    <p class="text-[13px] text-slate-200 leading-relaxed">이더리움 생태계 내 RWA 자산 및 스테이블코인 유입 규모 추이를 모니터링하고, 전통 금융 기관의 <span class="text-cyan-300 font-semibold">주식 토큰화 표준 체인 선택</span> 동향을 지속적으로 관찰해야 합니다.</p>
+  </div>
+
+  <!-- Tags + Link -->
+  <div class="flex items-center justify-between gap-2 pt-1">
+    <div class="flex flex-wrap gap-1.5"><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">이더리움</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">RWA</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">솔라나</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">주식토큰화</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">탈중앙성</span></div>
+    <a href="https://www.youtube.com/watch?v=jldDqabBa8U" target="_blank"
+      class="flex-shrink-0 flex items-center gap-1 text-[12px] font-semibold px-4 py-2 rounded-xl bg-fuchsia-500/15 hover:bg-fuchsia-500/25 text-fuchsia-300 border border-fuchsia-400/30 hover:border-fuchsia-400/60 transition-all">
+      보기 <span class="material-symbols-outlined text-sm">arrow_forward</span>
+    </a>
+  </div>
+</div>
+
 <div class="insight-card group bg-card/60 backdrop-blur-xl border border-slate-700/50 rounded-[1.5rem] p-6 flex flex-col gap-4 transition-all duration-300 hover:-translate-y-1 hover:border-fuchsia-400/40 hover:shadow-[0_8px_32px_rgba(217,70,239,0.15)] relative overflow-hidden"
      data-ch="디파이_농부_조선생_|_Professor_Jo" data-sig="bearish">
   <div class="absolute inset-0 bg-gradient-to-br from-fuchsia-500/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 rounded-[1.5rem] pointer-events-none"></div>
@@ -1152,22 +1288,6 @@
 
   <script>
     let activeCh = 'all', activeSig = null;
-    function toggleChannels() {
-      const container = document.getElementById('channelContainer');
-      const btn = document.getElementById('toggleChBtn');
-      const btnText = document.getElementById('toggleChBtnText');
-      const isCollapsed = container.classList.contains('ch-container-collapsed');
-      
-      if (isCollapsed) {
-        container.classList.remove('ch-container-collapsed');
-        btn.classList.add('!border-fuchsia-400/50', '!text-fuchsia-300', 'bg-fuchsia-500/15');
-        btnText.textContent = '채널 필터 숨기기';
-      } else {
-        container.classList.add('ch-container-collapsed');
-        btn.classList.remove('!border-fuchsia-400/50', '!text-fuchsia-300', 'bg-fuchsia-500/15');
-        btnText.textContent = '채널 필터 보이기';
-      }
-    }
     function filterCh(btn, ch) {
       document.querySelectorAll('.ch-btn').forEach(b => b.classList.remove('!bg-fuchsia-500/15','!border-fuchsia-400/50','!text-fuchsia-300','font-semibold'));
       btn.classList.add('font-semibold');

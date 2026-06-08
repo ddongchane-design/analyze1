@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "7NRNvdqNIz0",
+    "title": "엔비디아 버블논란의 핵심! VR200 렉 설계 변경 루머 분석 [월간아신 5월호 2부]",
+    "published": "2026-06-08T02:00:10+00:00",
+    "channel_name": "이효석아카데미",
+    "url": "https://www.youtube.com/watch?v=7NRNvdqNIz0",
+    "thumbnail": "https://img.youtube.com/vi/7NRNvdqNIz0/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "엔비디아의 차세대 AI 서버인 <span class=\"text-cyan-300 font-semibold\">VR200(베라 루빈)</span> 랙의 CPU 지원 메모리 스펙 하향 루머가 발생했습니다.\n이러한 메모리 감축은 수요 감소가 아닌 메모리 제조 3사의 심각한 <span class=\"text-rose-400 font-medium\">공급 부족(쇼티지)</span>에 대응하기 위한 고육지책입니다.\n기판 설계가 메모리 탈부착이 가능한 소켓 방식을 유지하므로, 향후 공급망이 안정되면 스펙 업그레이드가 가능하여 장기 펀더멘탈 훼손은 없습니다.",
+    "key_claims": [
+      "VR200 랙의 메모리 스펙 감축 루머는 수요 둔화가 아닌 최첨단 <span class=\"text-rose-400 font-medium\">메모리 공급 쇼티지</span>에서 비롯된 불가피한 타협이다.",
+      "마더보드 설계는 메모리 고정형이 아닌 소켓 방식이어서 추후 메모리 공급 확대 시 업그레이드가 가능하다.",
+      "엔비디아 랙의 총 출하량(Q) 계획은 오히려 기존 예상보다 10~20% 상향되고 있다."
+    ],
+    "data_points": [
+      "소켓당 CPU DRAM 스펙: 192GB에서 96GB로 축소 루머",
+      "서버 랙당 총 메모리 용량: 기존 55TB에서 28TB 수준으로 감소 우려",
+      "DRAM 3사의 소켓 DRAM 공급 가능량: 올해 약 300억 비트 수준으로 병목 작용"
+    ],
+    "signal": "bullish",
+    "signal_reason": "메모리 하향은 수요 문제가 아닌 극심한 <span class=\"text-rose-400 font-medium\">공급 쇼티지</span> 때문이며, 서버 랙 출하량 자체는 상향되고 있어 반도체 업계에는 긍정적인 신호입니다.",
+    "key_companies": [
+      "엔비디아",
+      "SK하이닉스",
+      "삼성전자",
+      "마이크론"
+    ],
+    "insight": "이번 스펙 하향 조정은 시장의 우려와 달리 <span class=\"text-rose-400 font-medium\">메모리 공급 제약</span> 속에서 출하량을 최대한 극대화하기 위한 임시 방편입니다. 이는 인공지능 서버 시장이 단순 가격 상승(P) 수혜에서 실질적인 <span class=\"text-amber-300 font-bold\">출하량 증가(Q) 중심의 확장 사이클</span>로 진입했음을 시사합니다.",
+    "action_point": "스펙 다운 루머로 인한 반도체 관련주들의 단기 주가 조정은 비중 확대를 위한 매력적인 <span class=\"text-cyan-300 font-semibold\">매수 기회</span>로 활용해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "반도체",
+      "엔비디아",
+      "DDR5",
+      "HBM",
+      "Vera Rubin"
+    ]
+  }
+}

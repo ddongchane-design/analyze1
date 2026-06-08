@@ -1,0 +1,48 @@
+{
+  "video": {
+    "id": "nxoZt9Aj2PU",
+    "title": "[긴급점검] 코스피 8% 급락 '패닉'...증시 대응 전략? AI랠리 끝났나?_26.06.08. | 이혁진, 여도은, 허재무 [아침N투자]",
+    "published": "2026-06-08T02:51:28+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=nxoZt9Aj2PU",
+    "thumbnail": "https://img.youtube.com/vi/nxoZt9Aj2PU/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "국내 증시가 <span class=\"text-rose-400 font-medium\">코스피 8% 급락</span>하는 패닉셀을 겪었으나, 이는 파생상품 및 단기 수급 교란에 따른 과도한 조정으로 분석됩니다.\n<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>를 비롯한 AI 핵심 반도체 기업들의 이익 전망은 여전히 견조하며 밸류에이션 매력이 높습니다.\n단기적으로 <span class=\"text-amber-300 font-bold\">SpaceX IPO</span>와 매크로 우려로 변동성이 지속될 수 있으나, 8~9월을 기점으로 매수 대응이 유리한 장기 상승 사이클로 진입할 전망입니다.",
+    "key_claims": [
+      "<span class=\"text-rose-400 font-medium\">파생상품 레버리지 거래</span>와 높은 환율 등 매크로 우려가 겹치며 국내 증시의 낙폭이 비정상적으로 확대됨.",
+      "엔비디아의 LPDDR 사양 축소 소음은 가격 협상력을 높이려는 의도이며, 반도체 기업들의 <span class=\"text-amber-300 font-bold\">실적 성장성</span> 자체는 훼손되지 않음.",
+      "<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>는 미국 마이크론 대비 현저히 저평가되어 있어 반등장세에서 가장 강력한 탄력을 보일 것임."
+    ],
+    "data_points": [
+      "코스피 장중 최대 8% 급락",
+      "삼성전자 및 SK하이닉스 단일 종목 레버리지 거래 대금 약 4조 원",
+      "SpaceX IPO 공모 금액 약 750억 달러 예상"
+    ],
+    "signal": "neutral",
+    "signal_reason": "단기적으로 <span class=\"text-rose-400 font-medium\">수급 변동성</span>과 매크로 부담이 지속되겠으나, 실적 대비 밸류에이션 저점 부근으로 추가 하락 시 <span class=\"text-cyan-300 font-semibold\">분할 매수</span> 관점 접근이 유효함.",
+    "key_companies": [
+      "SK하이닉스",
+      "삼성전자",
+      "엔비디아",
+      "마이크론",
+      "네이버"
+    ],
+    "insight": "이번 급락은 실적 훼손이 아닌 <span class=\"text-rose-400 font-medium\">수급 교란</span>과 심리적 패닉에 의한 것이며, 빅테크의 AI 인프라 투자는 여전히 진행 중이므로 반등 시 가장 먼저 올라올 <span class=\"text-cyan-300 font-semibold\">AI 하드웨어 주도주</span>로 포트폴리오를 압축해야 합니다.",
+    "action_point": "패닉 매도에 동참하기보다는 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 등 저평가된 반도체 주도주의 <span class=\"text-amber-300 font-bold\">포트폴리오 비중 확대</span> 기회로 활용할 것을 권장합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "코스피급락",
+      "반도체",
+      "에이아이랠리",
+      "엔비디아",
+      "SK하이닉스"
+    ]
+  }
+}

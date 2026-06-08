@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "_p0D2JzIo7A",
+    "title": "이런 장일수록 비중 늘려야 하는 이유 | 손수연 하나증권 용산WM센터 사원 [더블 크루]",
+    "published": "2026-06-08T01:38:57+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=_p0D2JzIo7A",
+    "thumbnail": "https://img.youtube.com/vi/_p0D2JzIo7A/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "최근 엔비디아의 메모리 탑재량 축소 루머와 미국의 고용 지표 쇼크로 증시가 급락하며 <span class=\"text-rose-400 font-medium\">서킷브레이커가 발동</span>하는 조정을 겪었으나, 이는 일시적 노이즈에 불과합니다.\n엔비디아의 96GB 축소 결정은 수요 둔화가 아닌 심각한 <span class=\"text-amber-300 font-bold\">DRAM 공급 부족</span>을 타개하고 중소형 고객사로 확장하려는 우회 전략의 결과입니다.\nAI 장기 성장 패러다임과 메모리 수출 실적 신고가 경신 등 기초체력은 무너지지 않았으므로, 이번 조정을 <span class=\"text-cyan-300 font-semibold\">분할 매수 기회</span>로 삼아야 합니다.",
+    "key_claims": [
+      "엔비디아의 GPU 메모리 축소 헤드라인은 수요 감소가 아닌 반도체 <span class=\"text-amber-300 font-bold\">공급 병목 현상</span>의 반증이다.",
+      "미국 비농업 고용 지표 강세는 숙박·레저 업종의 일시적 이벤트 효과일 뿐 매크로 과열 신호로 해석하기 어렵다.",
+      "과거 2017년 반도체 슈퍼 사이클 사례처럼, 금리 인상 리스크보다 강력한 <span class=\"text-cyan-300 font-semibold\">반도체 기업 실적 성장</span>이 주가를 견인할 것이다."
+    ],
+    "data_points": [
+      "코스피 1차 지지선 레벨: 7,500선 부근",
+      "미국 비농업 고용 증가 폭: 약 17만 명 (예상치 두 배 상회하나 레저/숙박 편중)",
+      "6월 주요 일정: 10일 CPI/TSMC 매출 발표, 12일 네 마녀의 날(선물옵션 만기), 16일 FOMC"
+    ],
+    "signal": "bullish",
+    "signal_reason": "엔비디아 발 노이즈와 고용 지표 왜곡에 따른 단기 패닉 셀링으로 밸류에이션 매력도가 급격히 올라갔으며, 메모리 반도체 수출 실적이 <span class=\"text-cyan-300 font-semibold\">신고가를 갱신</span>하는 등 실적 장세 초입이기 때문입니다.",
+    "key_companies": [
+      "엔비디아(NVIDIA)",
+      "삼성전자",
+      "SK하이닉스",
+      "TSMC"
+    ],
+    "insight": "시장은 엔비디아의 칩 스펙 다운그레이드를 '수요 피크아웃'의 신호로 오독하지만, 실제로는 제한된 HBM/DRAM 생산 한도 내에서 최대한 많은 고객사(플랫폼 다양화)를 확보하려는 <span class=\"text-amber-300 font-bold\">효율화 및 확장 전략</span>입니다. 이러한 매크로 및 개별 종목 노이즈가 겹치는 조정 장세는 장기 실적 성장성에 확신이 있는 투자자들에게 매력적인 <span class=\"text-cyan-300 font-semibold\">저가 매수 타점</span>을 제공합니다.",
+    "action_point": "지수가 패닉에 빠진 시점에 매도에 동참하기보다는, 현금 비중을 활용해 메모리 반도체 리더(삼성전자, SK하이닉스) 및 핵심 <span class=\"text-cyan-300 font-semibold\">소부장(소재·부품·장비)</span> 주식을 6월 중순 선물옵션 만기일 전후로 <span class=\"text-cyan-300 font-semibold\">분할 매수</span>하는 전략을 제안합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "분할매수",
+      "엔비디아",
+      "DRAM공급부족",
+      "코스피전망",
+      "매크로조정"
+    ]
+  }
+}

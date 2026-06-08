@@ -1,0 +1,49 @@
+{
+  "video": {
+    "id": "g7myIKdokj0",
+    "title": "RWA 대세는 이더리움인데, 월가 자산운용사들이 솔라나로 넘어오는 진짜 이유 | 서동주, 김동환, 이성산 솔라나 재단 한국 총괄 [크립토 PLUS]",
+    "published": "2026-06-08T04:29:26+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=g7myIKdokj0",
+    "thumbnail": "https://img.youtube.com/vi/g7myIKdokj0/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "이더리움의 한계를 극복하기 위해 빠른 속도와 저렴한 수수료를 제공하는 <span class=\"text-cyan-300 font-semibold\">솔라나</span>가 월가 자산운용사들의 새로운 인프라로 채택되고 있습니다.\n블랙록의 <span class=\"text-cyan-300 font-semibold\">비들(BUIDL)</span> 마이그레이션 및 페이팔의 <span class=\"text-cyan-300 font-semibold\">PYUSD</span> 독점 기능 탑재 등 실질적인 대형 금융사들의 온체인 진입이 활발합니다.\n솔라나 재단은 단순 토큰 가격보다는 장기적인 <span class=\"text-amber-300 font-bold\">금융 자산 토큰화(RWA)</span>와 글로벌 금융 결제망 구축이라는 인프라적 가치에 집중하고 있습니다.",
+    "key_claims": [
+      "이더리움의 높은 거래 비용과 네트워크 파편화를 피하기 위해 블랙록의 BUIDL을 포함한 RWA 자산들이 <span class=\"text-cyan-300 font-semibold\">솔라나 네트워크</span>로 이동하고 있음",
+      "<span class=\"text-cyan-300 font-semibold\">토큰 익스텐션(Token Extensions)</span> 기술을 통해 퍼블릭 블록체인 상에서도 기관이 원하는 프라이버시 및 규제 준수 기능을 구현 가능",
+      "신규 네트워크 클라이언트인 <span class=\"text-cyan-300 font-semibold\">파이어댄서(Firedancer)</span> 업데이트로 파이널리티 속도를 0.15초로 단축하여 거래 처리 효율을 비사 수준 이상으로 높일 계획"
+    ],
+    "data_points": [
+      "솔라나의 토큰 유통량 비율: 약 99.1% (이미 대부분의 물량이 락업 해제되어 시장에 공급됨)",
+      "비트와이즈 솔라나 현물 ETF(BITW)의 출시 후 약 1년간 유치된 TBL: 약 20억 달러(2 Billion USD)",
+      "파이어댄서 적용 시 목표 파이널리티(결제 완결성) 속도: 0.15초"
+    ],
+    "signal": "bullish",
+    "signal_reason": "월가 자이언트들의 RWA 자산 및 스테이블코인 마이그레이션이 가속화되며, <span class=\"text-cyan-300 font-semibold\">솔라나</span>의 실질적인 결제 및 금융 인프라 마켓 셰어가 확대되는 강력한 <span class=\"text-amber-300 font-bold\">인프라 채택 모멘텀</span>을 보이고 있습니다.",
+    "key_companies": [
+      "솔라나 재단(Solana Foundation)",
+      "블랙록(BlackRock)",
+      "페이팔(PayPal)",
+      "비트와이즈(Bitwise)",
+      "모건스탠리(Morgan Stanley)"
+    ],
+    "insight": "단순 가격 변동성에 주목하기보다, 월가 기관들이 5~10년 장기 먹거리로 <span class=\"text-amber-300 font-bold\">온체인 금융 플랫폼</span>을 선점하기 위해 레거시 금융망을 대체하려는 움직임에 초점을 맞춰야 합니다. 솔라나는 단일 레이어 설계(Single Layer) 구조를 통해 파편화 없는 유동성을 공급하므로 향후 <span class=\"text-cyan-300 font-semibold\">RWA 및 스테이블코인</span> 시장의 핵심 표준이 될 가능성이 높습니다.",
+    "action_point": "이더리움과 솔라나 간의 RWA 자산 이동 흐름을 모니터링하고, 향후 예정된 <span class=\"text-cyan-300 font-semibold\">파이어댄서</span> 업데이트 시점의 성능 검증 및 솔라나 기반 <span class=\"text-amber-300 font-bold\">원화 스테이블코인 및 토큰 증권(ST)</span> 연계 서비스의 실증 사례 출시 여부를 주목해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "stock",
+      "tech"
+    ],
+    "tags": [
+      "솔라나",
+      "RWA",
+      "스테이블코인",
+      "ETF",
+      "이더리움",
+      "블랙록"
+    ]
+  }
+}

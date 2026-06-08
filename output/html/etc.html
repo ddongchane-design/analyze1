@@ -29,9 +29,6 @@
     ::-webkit-scrollbar { width: 6px; }
     ::-webkit-scrollbar-track { background: transparent; }
     ::-webkit-scrollbar-thumb { background: #1e293b; border-radius: 3px; }
-    @media (max-width: 767px) {
-      .ch-container-collapsed { display: none !important; }
-    }
   </style>
 
 </head>
@@ -55,47 +52,17 @@
           <p class="text-xs text-slate-500">AI 분석 인사이트</p>
         </div>
       </div>
-      <span class="text-xs text-slate-600">2026.06.08 14:39</span>
+      <span class="text-xs text-slate-600">2026.06.08 19:16</span>
     </div>
 
     <!-- Filter Bar -->
-    <div class="max-w-[1400px] mx-auto px-8 pb-3 flex flex-col gap-3">
-      <!-- Controls & Signal Filters -->
-      <div class="flex items-center justify-between gap-4 flex-wrap w-full">
-        <!-- Toggle button on mobile, label on desktop -->
-        <div class="flex items-center gap-2">
-          <span class="hidden md:inline text-xs text-slate-500 mr-1">채널</span>
-          <button id="toggleChBtn" onclick="toggleChannels()" 
-            class="md:hidden flex items-center gap-1.5 text-xs px-3 py-1.5 rounded-lg border border-slate-700 bg-slate-800/40 hover:border-slate-600 text-slate-300 hover:text-white transition-all select-none">
-            <span class="material-symbols-outlined text-[16px] leading-none">tune</span>
-            <span id="toggleChBtnText">채널 필터 보이기</span>
-          </button>
-        </div>
-
-        <!-- Right: Signal filters -->
-        <div class="flex gap-2">
-          <button onclick="filterSig(this,'bullish')" data-sig="bullish"
-            class="sig-btn text-[11px] px-3 py-1 rounded-full border border-emerald-500/30 text-emerald-400 hover:bg-emerald-500/15 transition-all">
-            ▲ 강세
-          </button>
-          <button onclick="filterSig(this,'bearish')" data-sig="bearish"
-            class="sig-btn text-[11px] px-3 py-1 rounded-full border border-rose-500/30 text-rose-400 hover:bg-rose-500/15 transition-all">
-            ▼ 약세
-          </button>
-          <button onclick="filterSig(this,'neutral')" data-sig="neutral"
-            class="sig-btn text-[11px] px-3 py-1 rounded-full border border-amber-500/30 text-amber-400 hover:bg-amber-500/15 transition-all">
-            ● 중립
-          </button>
-        </div>
-      </div>
-
-      <!-- Collapsible Channel Filters -->
-      <div id="channelContainer" class="ch-container-collapsed flex flex-wrap gap-2 items-center border-t border-slate-800/40 pt-2.5 md:border-none md:pt-0">
-        <button onclick="filterCh(this,'all')" data-ch="all"
-          class="ch-btn text-xs px-3 py-1 rounded-full border border-slate-400/50 bg-slate-500/15 text-slate-300 font-semibold transition-all">
-          전체
-        </button>
-        <button onclick="filterCh(this,'삼프로TV_3ProTV')" data-ch="삼프로TV_3ProTV" class="ch-btn text-xs px-3 py-1 rounded-full border border-slate-600 text-slate-400 hover:border-slate-400/50 hover:text-slate-300 transition-all">삼프로TV_3ProTV</button>
+    <div class="max-w-[1400px] mx-auto px-8 pb-3 flex items-center gap-2 flex-wrap">
+      <span class="text-xs text-slate-500 mr-1">채널</span>
+      <button onclick="filterCh(this,'all')" data-ch="all"
+        class="ch-btn text-xs px-3 py-1 rounded-full border border-slate-400/50 bg-slate-500/15 text-slate-300 font-semibold transition-all">
+        전체
+      </button>
+      <button onclick="filterCh(this,'삼프로TV_3ProTV')" data-ch="삼프로TV_3ProTV" class="ch-btn text-xs px-3 py-1 rounded-full border border-slate-600 text-slate-400 hover:border-slate-400/50 hover:text-slate-300 transition-all">삼프로TV_3ProTV</button>
 <button onclick="filterCh(this,'안될과학_Unrealscience')" data-ch="안될과학_Unrealscience" class="ch-btn text-xs px-3 py-1 rounded-full border border-slate-600 text-slate-400 hover:border-slate-400/50 hover:text-slate-300 transition-all">안될과학 Unrealscience</button>
 <button onclick="filterCh(this,'한경_글로벌마켓')" data-ch="한경_글로벌마켓" class="ch-btn text-xs px-3 py-1 rounded-full border border-slate-600 text-slate-400 hover:border-slate-400/50 hover:text-slate-300 transition-all">한경 글로벌마켓</button>
 <button onclick="filterCh(this,'안될공학_-_IT_테크_신기술')" data-ch="안될공학_-_IT_테크_신기술" class="ch-btn text-xs px-3 py-1 rounded-full border border-slate-600 text-slate-400 hover:border-slate-400/50 hover:text-slate-300 transition-all">안될공학 - IT 테크 신기술</button>
@@ -110,6 +77,19 @@
 <button onclick="filterCh(this,'엔지니어TV')" data-ch="엔지니어TV" class="ch-btn text-xs px-3 py-1 rounded-full border border-slate-600 text-slate-400 hover:border-slate-400/50 hover:text-slate-300 transition-all">엔지니어TV</button>
 <button onclick="filterCh(this,'월텍남')" data-ch="월텍남" class="ch-btn text-xs px-3 py-1 rounded-full border border-slate-600 text-slate-400 hover:border-slate-400/50 hover:text-slate-300 transition-all">월텍남</button>
 
+      <div class="ml-auto flex gap-2">
+        <button onclick="filterSig(this,'bullish')" data-sig="bullish"
+          class="sig-btn text-[11px] px-3 py-1 rounded-full border border-emerald-500/30 text-emerald-400 hover:bg-emerald-500/15 transition-all">
+          ▲ 강세
+        </button>
+        <button onclick="filterSig(this,'bearish')" data-sig="bearish"
+          class="sig-btn text-[11px] px-3 py-1 rounded-full border border-rose-500/30 text-rose-400 hover:bg-rose-500/15 transition-all">
+          ▼ 약세
+        </button>
+        <button onclick="filterSig(this,'neutral')" data-sig="neutral"
+          class="sig-btn text-[11px] px-3 py-1 rounded-full border border-amber-500/30 text-amber-400 hover:bg-amber-500/15 transition-all">
+          ● 중립
+        </button>
       </div>
     </div>
   </header>
@@ -119,28 +99,132 @@
 <div class="mb-8 bg-gradient-to-br from-slate-800/70 to-slate-900/50 border border-slate-400/25 rounded-2xl p-6">
   <div class="flex items-center gap-3 mb-4 flex-wrap">
     <span class="text-[10px] font-bold tracking-widest text-slate-400 uppercase">AI 종합 인사이트</span>
-    <span class="text-[10px] text-slate-500 font-light">(업데이트: 2026.06.06 21:18)</span>
+    <span class="text-[10px] text-slate-500 font-light">(업데이트: 2026.06.08 19:10)</span>
     <span class="inline-flex items-center gap-1.5 text-[11px] font-bold px-2.5 py-1 rounded-lg border"
       style="background:rgba(245,200,66,0.10);color:#f5c842;border-color:rgba(245,200,66,0.30)">
       <span class="w-1.5 h-1.5 rounded-full" style="background:#f5c842"></span>
       NEUTRAL
     </span>
   </div>
-  <p class="text-[13px] text-slate-300 leading-relaxed mb-4">글로벌 테크 트렌드와 함께 우리 삶에 직결되는 경제 구조(한국 중산층의 주거·내수 압박, 미국 강제 DIY 사회화), 대형 IT 기업들의 실제 비즈니스 혁신 실패 요인(KT 신수정 전 부사장 인터뷰), 그리고 첨단 과학/바이오 영역(양자 광학의 음수 군지연 현상, 항비만 치료제의 전방위 확장성)에 이르기까지 다방면의 최신 시사 및 과학 지식이 보고되었습니다. 이는 단순한 이론에 그치지 않고 일상과 미래 핵심 산업 인프라(터널 안전 시스템 등)에 실질적인 파급력을 미치는 요소들로 구성되어 있습니다.</p>
+  <p class="text-[13px] text-slate-300 leading-relaxed mb-4">거시적인 질병/기후/사회 재난 리스크 관리의 중요성이 예방 의학(hs-CRP 만성염증 추적), 기후 변화에 따른 신종 곰팡이 감염병 출현, 그리고 터널 방재 및 선거 행정 전산화와 같은 스마트 인프라 안전 기준으로 고도화되고 있습니다. F&B 영역에서는 동남아시아의 여성 주도 가계 소비와 외식/배달 플랫폼의 결합이 장기 성장 축으로 지목되며, 헬스케어 분야에서는 GLP-1 비만 치료제 시장의 폭발적 성장에 따른 글로벌 제약 생태계의 팽창이 지속되고 있습니다.</p>
   <div class="flex flex-wrap gap-4 text-[12px]">
     <div class="flex-1 min-w-[200px]">
       <p class="text-[10px] font-bold tracking-widest text-slate-500 uppercase mb-2">주요 테마</p>
-      <div class="flex flex-wrap gap-1.5"><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-400">한국 중산층의 주거·서비스 물가 압박 및 소득 양극화</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-400">민간 기업들의 외형적 혁신 선언 대비 실질적 변화 지체 문제</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-400">첨단 양자 물리 및 바이오(항비만 치료제) 과학 기술의 미래 가치</span></div>
+      <div class="flex flex-wrap gap-1.5"><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-400">기후 변화로 인한 고온 적응형 병원성 곰팡이(칸디다 아우리스) 출현 및 예방 의학적 만성염증 진단 시장 부각</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-400">터널 및 지하도 등 밀폐 재난 예방을 위한 스마트 안전(진입 차단, 난연 자재) 인프라 기준 강화</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-400">GLP-1 비만 치료제(위고비 등)의 약리학적 기전 설명 및 글로벌 바이오테크 생태계의 팽창</span></div>
     </div>
     <div class="flex-1 min-w-[200px]">
       <p class="text-[10px] font-bold tracking-widest text-slate-500 uppercase mb-2">주목 종목/섹터</p>
-      <div class="flex flex-wrap gap-1.5"><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-500/10 border border-slate-400/30 text-slate-400">AI 도입 및 실질적 체질 개선에 성공하는 민간 대기업</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-500/10 border border-slate-400/30 text-slate-400">글로벌 바이오/제약 선두 기업 (비만 치료제 관련)</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-500/10 border border-slate-400/30 text-slate-400">재난 안전 인프라 및 신소재 관련 기술 기업</span></div>
+      <div class="flex flex-wrap gap-1.5"><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-500/10 border border-slate-400/30 text-slate-400">노보노디스크(Novo Nordisk)</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-500/10 border border-slate-400/30 text-slate-400">그랩(Grab)</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-500/10 border border-slate-400/30 text-slate-400">차세대 항진균제 및 바이오 진단 기업</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-500/10 border border-slate-400/30 text-slate-400">방음벽 및 터널용 스마트 방재 솔루션 기업</span></div>
     </div>
   </div>
-  <p class="text-[11px] text-slate-500 mt-3 border-t border-slate-700/50 pt-3">⚡ 양자역학 및 최첨단 광학 현상(음수 군지연)의 상용화 가능성에 대한 낙관적 시각과 물리적 한계 극복을 위한 중장기 연구 필요성의 대립, 그리고 한국의 부동산 및 서비스 가격 고착화가 가져올 경제적 충격의 임계점에 대한 전문가 간 시각 차이가 존재합니다.</p>
+  <p class="text-[11px] text-slate-500 mt-3 border-t border-slate-700/50 pt-3">⚡ 선거 행정 용지 부족 사태와 같이 공공 시스템의 노후화 및 행정 비효율성이 사회적 갈등을 유발하는 부정적 이슈(bearish)가 있는 반면, 스마트 재난 시스템 구축(난연 자재, 물분무 등) 및 비만 치료제(GLP-1)의 고부가가치 의료 밸류체인 팽창과 같이 신규 시장을 개척하는 기회 요인이 공존합니다.</p>
 </div>
     <div id="cardGrid" class="grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-5">
       
+<div class="insight-card group bg-card/60 backdrop-blur-xl border border-slate-700/50 rounded-[1.5rem] p-6 flex flex-col gap-4 transition-all duration-300 hover:-translate-y-1 hover:border-slate-400/40 hover:shadow-[0_8px_32px_rgba(148,163,184,0.15)] relative overflow-hidden"
+     data-ch="안될과학_Unrealscience" data-sig="neutral">
+  <div class="absolute inset-0 bg-gradient-to-br from-slate-500/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 rounded-[1.5rem] pointer-events-none"></div>
+
+  <!-- Top: thumbnail + title + signal -->
+  <div class="flex gap-3 items-start">
+    <img src="https://img.youtube.com/vi/MLjIXyS0UHY/hqdefault.jpg" class="w-24 h-[60px] rounded-xl object-cover bg-slate-800 flex-shrink-0" onerror="this.style.display='none'">
+    <div class="flex-1 min-w-0">
+      <h3 class="font-bold text-slate-100 text-[14px] leading-snug line-clamp-2 group-hover:text-slate-200 transition-colors">미국을 뒤흔든 ‘백색 가루 공포’의 정체</h3>
+      <div class="flex items-center gap-2 mt-1.5 flex-wrap">
+        <span class="px-2 py-0.5 rounded-full text-[10px] font-semibold bg-slate-500/15 text-slate-300 border border-slate-400/30">안될과학 Unrealscience</span>
+        <span class="text-[11px] text-slate-500">2026-06-08</span>
+      </div>
+    </div>
+    <div class="flex-shrink-0">
+      <span class="inline-flex items-center gap-1.5 text-[11px] font-bold px-2.5 py-1 rounded-lg border"
+        style="background:rgba(245,200,66,0.12);color:#f5c842;border-color:rgba(245,200,66,0.35)">
+        <span class="w-1.5 h-1.5 rounded-full" style="background:#f5c842"></span>
+        NEUTRAL
+      </span>
+    </div>
+  </div>
+
+  <!-- Insight -->
+  <div class="bg-gradient-to-br from-slate-800/60 to-slate-900/40 border border-slate-700/50 rounded-xl p-4">
+    <p class="text-[10px] font-bold tracking-widest text-slate-400 mb-2 uppercase">Insight</p>
+    <p class="text-[13px] text-slate-300 leading-relaxed">역사적 생화학 테러 사례는 국가 안보 차원의 <span class="text-rose-400 font-medium">방역 및 보안 시스템 강제 격상</span>이라는 제도적 변화를 수반합니다. 탄저균 테러 이후 구축된 바이오 디펜스 및 방사선 멸균 인프라는 현대 국가들의 공공 안전 표준에 지대한 영향을 미쳤습니다.</p>
+  </div>
+
+  <!-- Key Claims -->
+  <div class="flex flex-col gap-1.5">
+    <div class="flex items-start gap-2 text-[12px] text-slate-400"><span class="text-slate-600 mt-0.5 flex-shrink-0">▸</span><span>탄저균은 생존 한계 상황에서 고온과 건조에 극도로 강한 <span class="text-cyan-300 font-semibold">내생 포자(내생포자)</span>를 형성하여 장기 생존함</span></div>
+<div class="flex items-start gap-2 text-[12px] text-slate-400"><span class="text-slate-600 mt-0.5 flex-shrink-0">▸</span><span>2001년 백색 가루 우편물 테러로 실제 사상자가 발생하여 미국 전역에 <span class="text-rose-400 font-medium">생화학 무기 공포증</span>이 확산됨</span></div>
+<div class="flex items-start gap-2 text-[12px] text-slate-400"><span class="text-slate-600 mt-0.5 flex-shrink-0">▸</span><span>생화학 테러 방지를 위해 미국 우편 시스템에 <span class="text-cyan-300 font-semibold">방사선 멸균 장비</span>가 전격 도입되는 계기가 됨</span></div>
+  </div>
+
+  <!-- Action Point -->
+  <div class="bg-amber-400/5 border border-amber-400/20 rounded-xl p-3.5">
+    <p class="text-[10px] font-bold tracking-widest text-amber-300 mb-1.5 uppercase">Action Point</p>
+    <p class="text-[13px] text-slate-200 leading-relaxed">직접적인 투자 유발 포인트는 없으나, 공공 안보 및 생명공학 안전 규제 강화 흐름에 따른 <span class="text-cyan-300 font-semibold">바이오 보안 및 멸균 솔루션 산업</span>의 간접적 성장을 배경 지식으로 이해할 수 있습니다.</p>
+  </div>
+
+  <!-- Tags + Link -->
+  <div class="flex items-center justify-between gap-2 pt-1">
+    <div class="flex flex-wrap gap-1.5"><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">탄저균</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">생화학테러</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">911테러</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">내생포자</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">과학사</span></div>
+    <a href="https://www.youtube.com/watch?v=MLjIXyS0UHY" target="_blank"
+      class="flex-shrink-0 flex items-center gap-1 text-[12px] font-semibold px-4 py-2 rounded-xl bg-slate-500/15 hover:bg-slate-500/25 text-slate-300 border border-slate-400/30 hover:border-slate-400/60 transition-all">
+      보기 <span class="material-symbols-outlined text-sm">arrow_forward</span>
+    </a>
+  </div>
+</div>
+
+<div class="insight-card group bg-card/60 backdrop-blur-xl border border-slate-700/50 rounded-[1.5rem] p-6 flex flex-col gap-4 transition-all duration-300 hover:-translate-y-1 hover:border-slate-400/40 hover:shadow-[0_8px_32px_rgba(148,163,184,0.15)] relative overflow-hidden"
+     data-ch="언더스탠딩_Understanding" data-sig="neutral">
+  <div class="absolute inset-0 bg-gradient-to-br from-slate-500/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 rounded-[1.5rem] pointer-events-none"></div>
+
+  <!-- Top: thumbnail + title + signal -->
+  <div class="flex gap-3 items-start">
+    <img src="https://img.youtube.com/vi/VDiNiLQ_B4Q/hqdefault.jpg" class="w-24 h-[60px] rounded-xl object-cover bg-slate-800 flex-shrink-0" onerror="this.style.display='none'">
+    <div class="flex-1 min-w-0">
+      <h3 class="font-bold text-slate-100 text-[14px] leading-snug line-clamp-2 group-hover:text-slate-200 transition-colors">여자가 일 다하는 이 나라, 남자는 폰만 본다 [동남아 음식로드 2부]  (한국외대 동남아연구소 장준영 연구교수)</h3>
+      <div class="flex items-center gap-2 mt-1.5 flex-wrap">
+        <span class="px-2 py-0.5 rounded-full text-[10px] font-semibold bg-slate-500/15 text-slate-300 border border-slate-400/30">언더스탠딩_Understanding</span>
+        <span class="text-[11px] text-slate-500">2026-06-07</span>
+      </div>
+    </div>
+    <div class="flex-shrink-0">
+      <span class="inline-flex items-center gap-1.5 text-[11px] font-bold px-2.5 py-1 rounded-lg border"
+        style="background:rgba(245,200,66,0.12);color:#f5c842;border-color:rgba(245,200,66,0.35)">
+        <span class="w-1.5 h-1.5 rounded-full" style="background:#f5c842"></span>
+        NEUTRAL
+      </span>
+    </div>
+  </div>
+
+  <!-- Insight -->
+  <div class="bg-gradient-to-br from-slate-800/60 to-slate-900/40 border border-slate-700/50 rounded-xl p-4">
+    <p class="text-[10px] font-bold tracking-widest text-slate-400 mb-2 uppercase">Insight</p>
+    <p class="text-[13px] text-slate-300 leading-relaxed">동남아시아는 주거 공간 내 부엌이 협소하고 아침부터 외식 및 포장(테이크아웃)을 선호하는 <span class="text-amber-300 font-bold">외식 산업 고도화</span>가 이미 생활 깊숙이 자리 잡고 있습니다. 특히 사회 실무와 소비 결정을 주도하는 핵심 주체가 <span class="text-cyan-300 font-semibold">여성 소비자층</span>이라는 점을 간과해서는 안 되며, 이들의 라이프스타일 변화가 내수 시장 성장을 견인하고 있습니다.</p>
+  </div>
+
+  <!-- Key Claims -->
+  <div class="flex flex-col gap-1.5">
+    <div class="flex items-start gap-2 text-[12px] text-slate-400"><span class="text-slate-600 mt-0.5 flex-shrink-0">▸</span><span>동남아시아는 지리적으로 열려 있고 식민 지배를 거치며 동서양의 조리법이 융합된 독창적인 <span class="text-amber-300 font-bold">다양성 중심 식문화</span>를 형성했다.</span></div>
+<div class="flex items-start gap-2 text-[12px] text-slate-400"><span class="text-slate-600 mt-0.5 flex-shrink-0">▸</span><span>더운 날씨로 인한 식재료 부패 위험 때문에 찬 음식이나 생식을 기피하고, 모든 음식을 가열해 먹는 <span class="text-amber-300 font-bold">식습관 안전 지향성</span>이 강하다.</span></div>
+<div class="flex items-start gap-2 text-[12px] text-slate-400"><span class="text-slate-600 mt-0.5 flex-shrink-0">▸</span><span>전쟁과 강제 노역 등 역사적 요인으로 남성의 역할이 축소된 반면, 여성들이 가계와 실무를 책임지는 <span class="text-amber-300 font-bold">여성 중심 경제 실권</span> 구조가 정착됐다.</span></div>
+  </div>
+
+  <!-- Action Point -->
+  <div class="bg-amber-400/5 border border-amber-400/20 rounded-xl p-3.5">
+    <p class="text-[10px] font-bold tracking-widest text-amber-300 mb-1.5 uppercase">Action Point</p>
+    <p class="text-[13px] text-slate-200 leading-relaxed">동남아 소비재 및 F&B 시장 진출을 꾀하는 투자자는 단순한 K-푸드 이식을 넘어, 현지의 <span class="text-amber-300 font-bold">가열 조리 선호</span> 성향과 종교적 <span class="text-cyan-300 font-semibold">할랄(Halal) 인증 필요성</span>을 정밀하게 고려해야 하며, 실질적 구매력을 쥔 <span class="text-cyan-300 font-semibold">여성 경제 인구</span>를 타깃팅한 마케팅 전략이 유효합니다.</p>
+  </div>
+
+  <!-- Tags + Link -->
+  <div class="flex items-center justify-between gap-2 pt-1">
+    <div class="flex flex-wrap gap-1.5"><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">동남아문화</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">동남아음식</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">젠더역할</span><span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">외식문화</span></div>
+    <a href="https://www.youtube.com/watch?v=VDiNiLQ_B4Q" target="_blank"
+      class="flex-shrink-0 flex items-center gap-1 text-[12px] font-semibold px-4 py-2 rounded-xl bg-slate-500/15 hover:bg-slate-500/25 text-slate-300 border border-slate-400/30 hover:border-slate-400/60 transition-all">
+      보기 <span class="material-symbols-outlined text-sm">arrow_forward</span>
+    </a>
+  </div>
+</div>
+
 <div class="insight-card group bg-card/60 backdrop-blur-xl border border-slate-700/50 rounded-[1.5rem] p-6 flex flex-col gap-4 transition-all duration-300 hover:-translate-y-1 hover:border-slate-400/40 hover:shadow-[0_8px_32px_rgba(148,163,184,0.15)] relative overflow-hidden"
      data-ch="안될과학_Unrealscience" data-sig="neutral">
   <div class="absolute inset-0 bg-gradient-to-br from-slate-500/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 rounded-[1.5rem] pointer-events-none"></div>
@@ -1618,22 +1702,6 @@
 
   <script>
     let activeCh = 'all', activeSig = null;
-    function toggleChannels() {
-      const container = document.getElementById('channelContainer');
-      const btn = document.getElementById('toggleChBtn');
-      const btnText = document.getElementById('toggleChBtnText');
-      const isCollapsed = container.classList.contains('ch-container-collapsed');
-      
-      if (isCollapsed) {
-        container.classList.remove('ch-container-collapsed');
-        btn.classList.add('!border-slate-400/50', '!text-slate-300', 'bg-slate-500/15');
-        btnText.textContent = '채널 필터 숨기기';
-      } else {
-        container.classList.add('ch-container-collapsed');
-        btn.classList.remove('!border-slate-400/50', '!text-slate-300', 'bg-slate-500/15');
-        btnText.textContent = '채널 필터 보이기';
-      }
-    }
     function filterCh(btn, ch) {
       document.querySelectorAll('.ch-btn').forEach(b => b.classList.remove('!bg-slate-500/15','!border-slate-400/50','!text-slate-300','font-semibold'));
       btn.classList.add('font-semibold');
