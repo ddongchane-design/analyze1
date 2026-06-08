@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "7GQTj6aaKVc",
+    "title": "결국 터진 3대 악재, 비트코인 어디까지 떨어지나?",
+    "published": "2026-06-07T04:45:30+00:00",
+    "channel_name": "디파이 농부 조선생 | Professor Jo",
+    "url": "https://www.youtube.com/watch?v=7GQTj6aaKVc",
+    "thumbnail": "https://img.youtube.com/vi/7GQTj6aaKVc/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "비트코인(-15%)과 이더리움(-20%)의 급격한 낙폭을 유발한 내생·외생적 3대 악재와 향후 대응 전략을 입체적으로 진단함. 크립토 규제 입법인 <span class=\"text-cyan-300 font-semibold\">클레리티 법안</span>의 7월 중 통과 확률이 60%로 하락하며 규제 리스크가 잔존하는 가운데, 미국 5월 비농업 고용 지표 쇼크로 인한 <span class=\"text-rose-400 font-medium\">금리 인상(추가 긴축) 우려</span>가 고조됨. 또한 지캐시(ZCash)의 무한 발행 가능 버그 노출과 다음 주 스페이스X IPO에 따른 나스닥 유동성 흡수 우려가 시장을 억누르고 있음.",
+    "key_claims": [
+      "크립토 시장의 최대 내생 변수인 <span class=\"text-cyan-300 font-semibold\">클레리티 법안</span>은 7월 말 의회 휴회 전 통과가 무산될 경우, 대선 및 해외 정보 감시 권한(FISA 4702) 법안 우선 처리로 인해 9월 이후로 표류할 우려가 큼.",
+      "미국 5월 고용 지표가 예상(8.5만)의 2배 수준(17.2만)으로 강하게 나오면서 연준의 금리 인하 기대가 완전히 소멸되었고, 오히려 <span class=\"text-rose-400 font-medium\">내년 금리 인상 확률</span>이 반영되기 시작함.",
+      "지캐시(ZCash)에서 AI(앤트로픽 클로드)가 발견한 <span class=\"text-rose-400 font-medium\">무한 발행 버그</span>는 프라이버시 코인 전반의 신뢰도를 강타하며 지캐시 가격의 50% 폭락을 견인함."
+    ],
+    "data_points": [
+      "비트코인 ETF 순유출 규모: 최근 주간 약 15억 달러 순유출 (이더리움은 1억 6천만 달러 유출).",
+      "미국 비농업 고용 건수: 예상치 8만 5천 건 대비 실제 17만 2천 건 기록.",
+      "이더리움 국내 투자 매수 영역: 입금 평균가(실현 가격) 283만 원 대비 현재가 236만 원선(약 3% 하회로 역사적 저점 분할 매수 구간 진입)."
+    ],
+    "signal": "bearish",
+    "signal_reason": "금리 인상 우려 재점화, 크립토 입법 지연, 유동성 흡수(스페이스X IPO), 프라이버시 코인 시스템 결함 등 단기 악재가 동시다발적으로 겹쳐 <span class=\"text-rose-400 font-medium\">하락 압력 및 매도 심리</span>가 우세한 국면임.",
+    "key_companies": [
+      "마이크로스트레티지",
+      "블랙록",
+      "스페이스X",
+      "지캐시"
+    ],
+    "insight": "지캐시 버그를 인간 개발자가 아닌 AI(클로드)가 먼저 식별하여 보고했다는 점은 <span class=\"text-cyan-300 font-semibold\">AI 기반 코드 오딧(보안 감사)</span> 시대의 도래를 방증하며, 동시에 기존 암호학적 풀(Pool)의 보안 리스크를 재부각함.",
+    "action_point": "유동성 위축으로 추가 조정 가능성(비트코인 5만 3천 달러선 지지 테스트 등)이 존재하나, 이더리움은 실현 가격 대비 괴리율 기준으로 역사적 5번째 매수 영역에 도달했으므로 철저히 분할 매수로 접근할 만함."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "economy",
+      "stock"
+    ],
+    "tags": [
+      "비트코인폭락",
+      "클레리티법안지연",
+      "고용지표쇼크",
+      "지캐시버그",
+      "이더리움실현가격"
+    ]
+  }
+}
