@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "Cau_YyatVdE",
+    "title": "6월 공포장 뒤에 숨겨진 가장 중요한 투자 기회_26.06.09. | 김병연, 박지훈, 허재무 [아침N투자]",
+    "published": "2026-06-09T02:33:57+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=Cau_YyatVdE",
+    "thumbnail": "https://img.youtube.com/vi/Cau_YyatVdE/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "최근 증시 급변동은 금리 우려로 인한 매크로 경계감이 작용했으나, 6월 말부터 시작될 2분기 어닝 프리뷰는 수출주의 환율 효과에 힘입어 강력한 <span class=\"text-amber-300 font-bold\">2분기 실적 모멘텀</span>을 제공할 것으로 기대됩니다.",
+    "key_claims": [
+      "FOMC 및 물가 지표 확인 전까지는 단기 변동성 박스권 장세가 이어지겠으나 금리 인상 위험은 현저히 낮다.",
+      "네이버나 LG전자 등 젠슨황 미팅 재료로 급등했던 모멘텀 주식은 실적이 미비해 <span class=\"text-rose-400 font-medium\">금리 민감도 양극화</span>에 따른 빠른 조정을 보였다.",
+      "연준은 변동성이 큰 항목을 배제한 '절사평균(Trimmed Mean) PCE'를 통해 추가 인플레이션 위험이 통제되고 있음을 시사하고 있다."
+    ],
+    "data_points": [
+      "국내 주요 수출 대형주의 2분기 영업이익 컨센서스 상향 중",
+      "연준 내부 물가 절사평균 PCE 기준값 안정 확인"
+    ],
+    "signal": "bullish",
+    "signal_reason": "대외 매크로 노이즈가 진정된 이후, 2분기 실적 시즌 초입부터 환율 효과와 견조한 반도체 수요가 결합된 수출 주도주의 실적 서프라이즈가 장세를 견인할 전망입니다.",
+    "key_companies": [
+      "삼성전자",
+      "SK하이닉스",
+      "LG전자",
+      "NAVER"
+    ],
+    "insight": "실적 입증이 부족한 단순 모멘텀/테마주는 고금리 리스크에 빠르게 위축되는 반면, 단단한 펀더멘탈과 독점력을 가진 반도체 대형주는 금리 변동에 대한 우수한 방어력을 보여주고 있습니다.",
+    "action_point": "모멘텀 테마주 비중을 줄이고 실적이 보증되는 반도체 및 환율 수혜 대형 수출주 위주로 비중을 재편하는 7월 실적 선취매 전략이 유효합니다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock",
+      "tech"
+    ],
+    "tags": [
+      "실적모멘텀",
+      "금리민감도",
+      "절사평균PCE",
+      "수출서프라이즈",
+      "삼프로TV"
+    ]
+  }
+}

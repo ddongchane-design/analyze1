@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "-7fFxBLMuSQ",
+    "title": "미국의 'AI 몰빵' 전략... 달러 패권을 지키는 무서운 공식 #교양이를부탁해",
+    "published": "2026-06-07T06:00:39+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=-7fFxBLMuSQ",
+    "thumbnail": "https://img.youtube.com/vi/-7fFxBLMuSQ/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 정부가 막대한 부채를 지면서도 특정 성장 산업인 <span class=\"text-cyan-300 font-semibold\">AI 산업</span>과 관련 주가를 인위적으로 띄워 <span class=\"text-amber-300 font-bold\">달러 패권</span>을 유지하는 경제적 프레임을 구축하고 있음을 분석함. 글로벌 화폐 리저브에서 달러 비중이 줄어드는 상황에서, 나스닥과 S&P500의 성장을 유도해 전 세계 자금이 끊임없이 달러 자산을 사게 만드는 흡수 플로우를 형성함. 반면 이로 인해 철강, 기계 등 전통 제조업은 사양화되고 <span class=\"text-rose-400 font-medium\">경제 양극화</span>가 극대화되는 부작용이 동반되고 있음.",
+    "key_claims": [
+      "미국은 대규모 국가 부채와 <span class=\"text-rose-400 font-medium\">양극화 리스크</span>에도 불구하고 성장 산업의 주가를 인위적으로 부양해 글로벌 달러 수요를 강제로 창출하고 있음.",
+      "유럽은 증세와 소득 분배에 치중하다 대규모 재정 확보에 실패하고 성장 동력을 잃어 <span class=\"text-rose-400 font-medium\">유럽채 매수 기피</span> 현상 및 기술 경쟁력 낙후를 겪고 있음.",
+      "이러한 성장 산업 집중 전략은 <span class=\"text-cyan-300 font-semibold\">반도체</span> 등 동맹국 수혜 산업에는 낙수효과를 주지만, 비혜택 제조업은 고사시키는 극단적 양면성을 지님."
+    ],
+    "data_points": [
+      "미국 정부의 부채 급증 및 글로벌 달러 보유 비중의 장기적 하락 추세.",
+      "유럽의 성장 산업 투자 지연 및 유로 채권 선호도 감소."
+    ],
+    "signal": "neutral",
+    "signal_reason": "미국의 핵심 테크 주가 부양 및 달러 유입 플로우는 단기적으로 테크 및 반도체 강세를 지지하나, 국가 부채 누적과 산업 양극화 및 분배 실패라는 <span class=\"text-rose-400 font-medium\">구조적 잠재 위험</span>이 매우 높음.",
+    "key_companies": [
+      "나스닥",
+      "S&P500"
+    ],
+    "insight": "미국의 AI 드라이브는 단순한 기술 경쟁이 아닌 대외 부채 압박 속에서 <span class=\"text-amber-300 font-bold\">금융 시스템과 달러 수요</span>를 연장하기 위한 생존형 국가 금융 전략임.",
+    "action_point": "미국 주도 성장 섹터(<span class=\"text-cyan-300 font-semibold\">AI 및 반도체</span>)로의 포트폴리오 쏠림 현상은 지속될 수밖에 없으나, 연준 부채 급증과 전통 제조국들의 지정학적 변동성을 주기적으로 모니터링해야 함."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "tech",
+      "stock"
+    ],
+    "tags": [
+      "달러패권",
+      "AI몰빵전략",
+      "부채경제",
+      "유럽모형한계",
+      "양극화"
+    ]
+  }
+}

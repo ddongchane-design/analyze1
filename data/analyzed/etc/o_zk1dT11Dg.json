@@ -1,0 +1,36 @@
+{
+  "video": {
+    "id": "o_zk1dT11Dg",
+    "title": "[M-STOCK 이용가이드] 계좌증거금 변경",
+    "published": "2026-06-08T12:00:00+00:00",
+    "channel_name": "Smart Money by MiraeAsset",
+    "url": "https://www.youtube.com/watch?v=o_zk1dT11Dg",
+    "thumbnail": "https://img.youtube.com/vi/o_zk1dT11Dg/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">미래에셋증권</span> M-STOCK 모바일 앱의 계좌별 증거금율 변경 메뉴 위치 및 설정 변경 방법을 간략히 안내하는 투자자 이용 가이드입니다.",
+    "key_claims": [
+      "M-STOCK 메뉴 검색창을 통해 '계좌증거금 변경' 메뉴로 즉시 진입할 수 있다.",
+      "차등 증거금(30%, 40% 등) 혹은 100% 증거금 계좌로의 설정을 변경하여 리스크 노출을 제어할 수 있다."
+    ],
+    "data_points": [],
+    "signal": "neutral",
+    "signal_reason": "특정 투자 펀더멘탈 정보를 포함하지 않는 미래에셋증권의 기초 금융 서비스 안내용 숏클립 콘텐츠입니다.",
+    "key_companies": [
+      "미래에셋증권"
+    ],
+    "insight": "증권사의 디지털 자산 관리 가이드는 개인 고객의 자금 사정에 따른 레버리지 조율과 주식 주문 조건 변경의 편의성을 개선하는 기초 가이드라인을 제공합니다.",
+    "action_point": "개인 MTS 이용 주주들은 계좌의 원활한 예수금 운영 및 뜻하지 않은 미수금 발생 방지를 위해 본인 증거금 설정을 사전에 100%로 변경해 두는 것이 안전합니다."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [],
+    "tags": [
+      "미래에셋증권",
+      "M-STOCK",
+      "계좌증거금",
+      "이용가이드",
+      "미수금방지"
+    ]
+  }
+}

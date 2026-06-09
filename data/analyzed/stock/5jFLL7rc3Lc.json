@@ -1,0 +1,49 @@
+{
+  "video": {
+    "id": "5jFLL7rc3Lc",
+    "title": "[김종학의 뉴욕, 지금-6월9일] 스페이스X, 초과 청약..고평가 우려도 확산 | 트럼프도 통제 못하는 네타냐후 | 인텔, 구글, 애플, 코닝, 아마존, 마벨, 세레브라스",
+    "published": "2026-06-08T21:18:15+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=5jFLL7rc3Lc",
+    "thumbnail": "https://img.youtube.com/vi/5jFLL7rc3Lc/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "뉴욕 증시는 폭락 후 반도체주 주도로 회복세를 연출했으며, 이번 주 금요일 상장되는 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 초과 청약 열기와 <span class=\"text-rose-400 font-medium\">고평가 우려</span>가 대립하는 가운데, <span class=\"text-cyan-300 font-semibold\">인텔</span>은 구글 TPU 파운드리 수주 호재로 11% 급등했습니다.",
+    "key_claims": [
+      "스페이스X는 단순 우주 기업을 넘어 구글 등과 대규모 컴퓨팅 계약을 맺으며 AI 인프라 기업으로 포지셔닝하고 있다.",
+      "애플의 WWDC AI 시리 발표는 가을 출시 지연 및 혁신성 부족 평가를 받아 급락세로 돌아섰다.",
+      "아마존과의 데이터센터 광유리 다년간 공급 계약을 수주한 코닝이 시장에서 큰 주목을 받았다."
+    ],
+    "data_points": [
+      "스페이스X 청약율: 모집액의 2배 이상 초과 청약 달성",
+      "구글-스페이스X 컴퓨팅 파워 계약 규모: 총 300억 달러 상당",
+      "인텔 급등율: 구글 2028년 TPU 300만 개 생산 주문 보도로 +11%"
+    ],
+    "signal": "bullish",
+    "signal_reason": "스페이스X 상장 및 인텔의 대규모 수주 소식, 아마존-코닝 협력 등 반도체 및 AI 하드웨어 밸류체인 전반의 자금 투입 강도가 높게 유지되고 있습니다.",
+    "key_companies": [
+      "SpaceX",
+      "Intel",
+      "Corning",
+      "Apple",
+      "Google"
+    ],
+    "insight": "스페이스X의 가치 산정은 총시장규모(TAM)의 과열 논란을 안고 있으나, 시장의 막대한 유동성을 흡수하며 테크 분야의 모멘텀 재편을 자극하고 있습니다.",
+    "action_point": "구글 TPU 다각화 및 광학 인프라 수요 급증에 맞춰 인텔 파운드리 파트너 및 코닝 광섬유 부품 수혜주에 선제적 분할 매수로 접근할 필요가 있습니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "space"
+    ],
+    "tags": [
+      "스페이스X",
+      "인텔파운드리",
+      "애플실망",
+      "코닝광섬유",
+      "뉴욕증시",
+      "한경글로벌마켓"
+    ]
+  }
+}

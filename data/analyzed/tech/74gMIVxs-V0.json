@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "74gMIVxs-V0",
+    "title": "'쿠다' 독점 흔들리기 시작? 엔비디아가 노리는 진짜 목표는 #교양이를부탁해",
+    "published": "2026-06-08T10:45:31+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=74gMIVxs-V0",
+    "thumbnail": "https://img.youtube.com/vi/74gMIVxs-V0/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">엔비디아</span>의 독점 소프트웨어 해자인 <span class=\"text-cyan-300 font-semibold\">쿠다</span>(CUDA)에 대항해 중국 팹리스 업계가 대체 플랫폼을 구축하고 있습니다. 엔비디아의 궁극적인 지향점은 가상을 넘어 자율주행, 로보틱스, 바이오, 에너지 혁신을 포함한 <span class=\"text-amber-300 font-bold\">리얼 월드 AI</span>의 지배입니다.",
+    "key_claims": [
+      "중국의 무어드레드 등은 쿠다(CUDA)와 높은 호환성을 지닌 무사(MUSA)를 개발해 독점 장벽에 우회 균열을 가하고 있다.",
+      "엔비디아는 모빌리티 및 로보틱스 데이터 학습을 장악함으로써 현실 세계 하드웨어 표준 플랫폼을 확보하려 한다.",
+      "최종 지향점인 바이오와 에너지 혁신을 통해 자사의 AI 가속기 지배력을 반영구적 인프라로 안착시킬 것이다."
+    ],
+    "data_points": [
+      "엔비디아의 차세대 자율주행 플랫폼(알파마이요) 및 로보틱스 AI 칩 로드맵 전개"
+    ],
+    "signal": "bullish",
+    "signal_reason": "단기적인 소프트웨어 독점 우려에도 불구하고, 엔비디아가 구상하는 바이오/에너지 생태계 장악 시도는 독점 기간을 전방위로 연장하는 신호입니다.",
+    "key_companies": [
+      "NVIDIA"
+    ],
+    "insight": "엔비디아는 단순한 가속기 제조사를 넘어, 인류 문명의 병목지대(바이오 신약 개발, 전력망 그리드 및 배터리 성능 혁신)를 AI 컴퓨팅 플랫폼으로 독점하려는 대전략을 펴고 있습니다.",
+    "action_point": "가상 세계 AI 거품 논란에서 비껴서서, 엔비디아와 협력하거나 엔비디아가 제시하는 로보틱스/자율주행/스마트에너지 분야의 실물 부품 밸류체인 기업을 장기 보유해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "robot",
+      "energy"
+    ],
+    "tags": [
+      "엔비디아",
+      "CUDA",
+      "리얼월드AI",
+      "로보틱스",
+      "바이오에너지",
+      "교양이를부탁해"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "hS6j5p-KY4c",
+    "title": "비트코인 채굴 에서 AI 데이터센터로 전향한 기업들의 미친 수익률 | 서동주, 김동환, 김제이 블록미디어 편집장 [크립토 PLUS]",
+    "published": "2026-06-09T03:21:16+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=hS6j5p-KY4c",
+    "thumbnail": "https://img.youtube.com/vi/hS6j5p-KY4c/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">비트코인 채굴 기업</span>들이 자사의 기 확보된 막대한 전력망 및 그리드 접속 인프라를 활용하여 <span class=\"text-cyan-300 font-semibold\">AI 고성능 데이터센터</span>로 체질을 개선하면서 역대급 수익률과 랠리를 시현 중입니다.",
+    "key_claims": [
+      "채굴 기업들은 반감기 이후 줄어든 보상을 만회하기 위해 이미 구축된 수백 메가와트(MW) 전력 용량을 AI 연산용으로 임대하고 있다.",
+      "미국의 AI 빅테크들은 데이터센터 부지 및 전력 수급 병목을 즉각 해소하기 위해 채굴 기업들의 전력망 매수를 적극 추진한다.",
+      "마이크로스트래티지(MSTR)의 비트코인 1,550개 재매수 소식과 지정학 휴전 기대가 합쳐져 크립토 가격이 6.3만 달러 선을 수복했다."
+    ],
+    "data_points": [
+      "마이크로스트래티지 총 비트코인 보유량: 84만 개 돌파",
+      "AI 인프라 연동형 미국 비트코인 채굴주들의 사상 최고가 경신 지속"
+    ],
+    "signal": "bullish",
+    "signal_reason": "전력 확보가 시급한 빅테크들의 자금 투입으로 채굴주들의 자산 가치가 급상승하고 있으며 비트코인의 주말 조정을 극복할 매크로/수급 지지가 확인되고 있습니다.",
+    "key_companies": [
+      "MicroStrategy",
+      "Core Scientific",
+      "Iris Energy"
+    ],
+    "insight": "비트코인 채굴업은 단순 가상자산 채굴을 넘어, 4차 산업혁명의 가장 희소한 자원인 '전력망 그리드 확보권'의 독점 사업자로서 재평가되고 있습니다.",
+    "action_point": "가치 없는 잡코인 투자는 피하고, 전력 공급망 프리미엄을 보유한 미국 상장 채굴 기업 및 대장주 중심의 디지털 자산 노출 강도를 유지해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "stock",
+      "energy"
+    ],
+    "tags": [
+      "비트코인채굴",
+      "AI데이터센터",
+      "전력망확보",
+      "마이크로스트래티지",
+      "가상자산반등",
+      "삼프로TV"
+    ]
+  }
+}

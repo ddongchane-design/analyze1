@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "yxGJfI9MTRo",
+    "title": "AI 전환 본격화, SI업종이 주목 받는 이유 #LGCNS #삼성SDS｜애널리스트리포트｜2026.06.9(화)",
+    "published": "2026-06-08T21:00:00+00:00",
+    "channel_name": "Smart Money by MiraeAsset",
+    "url": "https://www.youtube.com/watch?v=yxGJfI9MTRo",
+    "thumbnail": "https://img.youtube.com/vi/yxGJfI9MTRo/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "하반기 생성형 AI의 관심사가 하드웨어에서 소프트웨어 및 AI 전환(AX) 수요로 확산되면서, 대규모 계열사 데이터와 <span class=\"text-cyan-300 font-semibold\">시스템 통합(SI) 역량</span>을 확보한 국내 대표 IT 서비스 기업들의 리레이팅이 본격화될 전망입니다.",
+    "key_claims": [
+      "단순 단발성 사스(SaaS) 기업들은 생성형 LLM에 의해 무력화되고 있으나, 데이터 독점력과 비즈니스 워크플로우를 쥔 허브 플랫폼 기업들은 오히려 가격 협상력이 강화되었다.",
+      "기업들의 AI 적용이 프라이빗 AI와 내부 핵심 레거시 시스템(ERP, MES 등)의 유기적 연동으로 심화되면서 SI 및 맞춤형 인프라 구축 수요(AX)가 급증하고 있다.",
+      "공장 자동화, 로봇 제어, 자율주행 등 현실계와 AI를 결합하는 <span class=\"text-cyan-300 font-semibold\">피지컬 AI</span> 개화 단계에서 캡티브 레퍼런스를 지닌 IT 서비스 기업의 수혜가 확실시된다."
+    ],
+    "data_points": [
+      "삼성SDS: 향후 5조 원 규모 신규 AIDC 구축 시 연간 2조 원 수준의 순수 AI 관련 신규 매출 기여 기대",
+      "LGCNS: AX 수요 증가에 기반해 하반기 소프트웨어 섹터 내 타픽으로 주목"
+    ],
+    "signal": "bullish",
+    "signal_reason": "AI 전방 투자가 하드웨어를 넘어 실무 프로세스 전환(AX) 및 피지컬 AI로 다변화되고 있으며, 대형 고객사를 고정 확보한 SI 대기업들의 마진 상승 및 매출 기여가 가시화되는 초기 단계입니다.",
+    "key_companies": [
+      "삼성SDS",
+      "LGCNS",
+      "DataDog",
+      "CrowdStrike"
+    ],
+    "insight": "인공지능이 현실 산업을 제어하는 피지컬 AI 및 <span class=\"text-cyan-300 font-semibold\">프라이빗 AI 아키텍처</span>로 이행할수록, 고품질 산업 데이터를 독점 통제하는 캡티브 SI 대기업의 멀티플 리레이팅 타당성이 강력해집니다.",
+    "action_point": "상반기 하드웨어 칩 대비 크게 저평가되었던 국내 IT 서비스 대형주(삼성SDS 등) 및 글로벌 데이터/보안 플랫폼 업체의 지분을 바스켓으로 구성해 적극 편입하는 전략을 수립해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "AX수요급증",
+      "IT서비스SI",
+      "피지컬AI",
+      "삼성SDS",
+      "LGCNS",
+      "소프트웨어전환",
+      "미래에셋"
+    ]
+  }
+}

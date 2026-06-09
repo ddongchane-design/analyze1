@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "rX_Ccre4Mkk",
+    "title": "트랙터에 AI를 달았더니 농업이 바뀌기 시작했다 (대동에이아이랩 최준기 대표)",
+    "published": "2026-06-08T07:55:34+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=rX_Ccre4Mkk",
+    "thumbnail": "https://img.youtube.com/vi/rX_Ccre4Mkk/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "농가 인구 감소 및 고령화에 직면한 농업 시장에서 대동은 국내외 노동력 부족 문제를 해결하기 위해 비전 AI 기반의 <span class=\"text-cyan-300 font-semibold\">자율 작업 트랙터</span> 기술을 개발하여 농업의 무인화 및 효율 극대화를 추진하고 있습니다.",
+    "key_claims": [
+      "한국, 일본, 미국 모두 농가 인구가 급감하고 있으며, 특히 집중적인 노동력이 필요한 수확 시기의 인력 수급이 매우 심각하여 해외 농업 비자 신청이 급증하고 있다.",
+      "단순 자율 주행을 넘어 땅이 갈린 정도나 이물질 상태를 비전 센서로 실시간 모니터링하고 피드백하여 최적의 결과를 내는 <span class=\"text-amber-300 font-bold\">자율 작업 솔루션</span>이 핵심 가치다.",
+      "미국의 존디어(John Deere)처럼 국내에서도 농작업의 노동 강도 저하 및 효율 향상을 위해 농기계 법인화 및 디지털 전환이 가속화되고 있다."
+    ],
+    "data_points": [
+      "미국의 농업 전용 비자(H2A) 신청 건수가 2005년 대비 2024년 8배 이상 증가",
+      "농사 작업 시 8시간 이상 시속 5km 이하로 저속 주행해야 하는 등 극심한 단조로움과 피로로 사고 위험 상존"
+    ],
+    "signal": "bullish",
+    "signal_reason": "농업 노동 인구 감소라는 구조적 한계를 기술로 돌파해야 하는 강한 수요가 존재하며, 자율 주행 및 정밀 자율 작업 시장을 선점하는 농기계 제조사는 장기적인 독점 해자를 구축할 수 있습니다.",
+    "key_companies": [
+      "대동",
+      "John Deere",
+      "KT"
+    ],
+    "insight": "농업 자율주행은 복잡한 도심 도로망에 비해 주행 변수는 적지만, 비포장 환경의 제어 및 수확/쇄토 등 정밀 작업의 완성도를 비전 카메라로 자동 검증해야 하므로 고도화된 <span class=\"text-cyan-300 font-semibold\">비전 AI 판단 제어</span> 기술이 본질적인 진입 장벽입니다.",
+    "action_point": "AI 농기계 제조사뿐 아니라 향후 스마트 농업 플랫폼으로의 확장 가능성이 높은 국내 농기계 대장주에 대한 장기적 관점의 비중 확대를 고려해 볼 만합니다."
+  },
+  "classification": {
+    "primary_topic": "robot",
+    "secondary_topics": [
+      "tech",
+      "etc"
+    ],
+    "tags": [
+      "대동",
+      "자율작업",
+      "비전AI",
+      "농슬라",
+      "존디어",
+      "스마트농업",
+      "언더스탠딩"
+    ]
+  }
+}
