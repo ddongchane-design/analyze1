@@ -28,6 +28,7 @@ SIGNAL_STYLE = {
     "bullish": {"label": "BULLISH", "dot": "#10d98a", "bg": "rgba(16,217,138,0.12)", "border": "rgba(16,217,138,0.35)", "text": "#10d98a"},
     "bearish": {"label": "BEARISH", "dot": "#ff4f72", "bg": "rgba(255,79,114,0.12)", "border": "rgba(255,79,114,0.35)", "text": "#ff4f72"},
     "neutral": {"label": "NEUTRAL", "dot": "#f5c842", "bg": "rgba(245,200,66,0.12)",  "border": "rgba(245,200,66,0.35)",  "text": "#f5c842"},
+    "na":      {"label": "N/A",     "dot": "#94a3b8", "bg": "rgba(148,163,184,0.12)", "border": "rgba(148,163,184,0.35)", "text": "#94a3b8"},
 }
 
 # ───────────────────────── SHARED HEAD ─────────────────────────
@@ -199,6 +200,10 @@ TOPIC_TEMPLATE = """<!DOCTYPE html>
             class="sig-btn text-[11px] px-3 py-1 rounded-full border border-amber-500/30 text-amber-400 hover:bg-amber-500/15 transition-all">
             ● 중립
           </button>
+          <button onclick="filterSig(this,'na')" data-sig="na"
+            class="sig-btn text-[11px] px-3 py-1 rounded-full border border-slate-500/30 text-slate-400 hover:bg-slate-500/15 transition-all">
+            ■ N/A
+          </button>
         </div>
       </div>
 
@@ -249,11 +254,11 @@ TOPIC_TEMPLATE = """<!DOCTYPE html>
     }}
     function filterSig(btn, sig) {{
       if (activeSig === sig) {{
-        btn.classList.remove('!bg-emerald-500/15','!bg-rose-500/15','!bg-amber-500/15');
+        btn.classList.remove('!bg-emerald-500/15','!bg-rose-500/15','!bg-amber-500/15','!bg-slate-500/15');
         activeSig = null;
       }} else {{
-        document.querySelectorAll('.sig-btn').forEach(b => b.classList.remove('!bg-emerald-500/15','!bg-rose-500/15','!bg-amber-500/15'));
-        const map = {{bullish:'!bg-emerald-500/15', bearish:'!bg-rose-500/15', neutral:'!bg-amber-500/15'}};
+        document.querySelectorAll('.sig-btn').forEach(b => b.classList.remove('!bg-emerald-500/15','!bg-rose-500/15','!bg-amber-500/15','!bg-slate-500/15'));
+        const map = {{bullish:'!bg-emerald-500/15', bearish:'!bg-rose-500/15', neutral:'!bg-amber-500/15', na:'!bg-slate-500/15'}};
         btn.classList.add(map[sig]);
         activeSig = sig;
       }}
@@ -275,7 +280,7 @@ TOPIC_TEMPLATE = """<!DOCTYPE html>
 # ───────────────────────── CARD ─────────────────────────
 
 CARD_TEMPLATE = """
-<div class="insight-card group bg-card/60 backdrop-blur-xl border border-slate-700/50 rounded-[1.5rem] p-6 flex flex-col gap-4 transition-all duration-300 hover:-translate-y-1 hover:border-{color}-400/40 hover:shadow-[0_8px_32px_{shadow}] relative overflow-hidden"
+<div class="insight-card group bg-card/60 backdrop-blur-xl border border-slate-700/50 rounded-[1.5rem] p-6 flex flex-col gap-4 transition-all duration-300 hover:-translate-y-1 hover:border-{color}-400/40 hover:shadow-[0_8px_32px_{shadow}] relative overflow-hidden {opacity_class}"
      data-ch="{ch_key}" data-sig="{signal}">
   <div class="absolute inset-0 bg-gradient-to-br from-{color}-500/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 rounded-[1.5rem] pointer-events-none"></div>
 
@@ -338,6 +343,20 @@ def render_card(video: dict, analysis: dict, classification: dict) -> str:
     sig  = analysis.get("signal", "neutral")
     ss   = SIGNAL_STYLE.get(sig, SIGNAL_STYLE["neutral"])
 
+    # signal_confidence 가 low 이면 카드를 흐리게(opacity-60)
+    conf = analysis.get("signal_confidence", "high").lower()
+    opacity_class = ""
+    if conf == "low":
+        opacity_class = "opacity-60"
+    elif conf == "medium":
+        opacity_class = "opacity-85"
+
+    # 시그널 라벨에 신뢰도 표시를 달아줌 (투자 관련이고 신뢰도가 high가 아닐 때 표시해주면 더욱 직관적임)
+    sig_label = ss["label"]
+    if sig != "na" and conf in ["medium", "low"]:
+        conf_kor = "보통" if conf == "medium" else "낮음"
+        sig_label = f"{sig_label} ({conf_kor})"
+
     claims_html = "\n".join(CLAIM_HTML.format(c) for c in analysis.get("key_claims", []))
     tags_html   = "".join(TAG_HTML.format(t)   for t in classification.get("tags", []))
 
@@ -351,11 +370,12 @@ def render_card(video: dict, analysis: dict, classification: dict) -> str:
         channel=video["channel_name"],
         date=_to_kst_date(video["published"]),
         url=video["url"],
-        sig_bg=ss["bg"], sig_text=ss["text"], sig_border=ss["border"], sig_dot=ss["dot"], sig_label=ss["label"],
+        sig_bg=ss["bg"], sig_text=ss["text"], sig_border=ss["border"], sig_dot=ss["dot"], sig_label=sig_label,
         insight=analysis.get("insight", ""),
         claims_html=claims_html,
         action_point=analysis.get("action_point", ""),
         tags_html=tags_html,
+        opacity_class=opacity_class,
     )
 
 
