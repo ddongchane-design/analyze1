@@ -1,0 +1,49 @@
+{
+  "video": {
+    "id": "9wYxhhmyF44",
+    "title": "[김종학의 뉴욕, 지금-6월10일] 트럼프, 미군 헬기 추락에 “대응해야\"..유가 낙폭 축소 | 스페이스X, 약 4배 초과 청약 | 애플, ASML, CDNS, 로빈후드, 리비안",
+    "published": "2026-06-09T21:20:03+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=9wYxhhmyF44",
+    "thumbnail": "https://img.youtube.com/vi/9wYxhhmyF44/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "스페이스X의 4배 흥행 초과 청약(2,500억 달러 조달) 및 클로드 3.5 소네트(프리미엄 미토스 모델) 출시 등 기술주 밸류에이션 팽창 요인과, 아파치 헬기 추락으로 인한 미-이란 갈등 수위 고조 및 6월 CPI/PPI 발표를 앞둔 채권 시장의 긴장과 개미 단타 거래 제한 폐지(PDT) 등의 시장 영향을 진단합니다.",
+    "key_claims": [
+      "스페이스X는 750억 달러 모집 목표에 네 배가 넘는 2,500억 달러의 유동성이 대거 몰려 글로벌 우주 인터넷 쏠림 수급을 입증했다.",
+      "엔스로픽은 강력한 성능의 일반 버전 '미토스(Mythos)'를 공개하며 연 환산 매출 470억 달러 런레이트를 입증, 하반기 <span class=\"text-cyan-300 font-semibold\">소프트웨어 IPO 모멘텀</span>을 강화했다.",
+      "미증권거래위원회(SEC)가 소액 투자자의 단타 제한(PDT) 규제를 전격 폐지함에 따라, 로빈후드를 포함한 브로커리지 사의 수익성 개선과 시장 변동성 확대가 동시에 진행되고 있다."
+    ],
+    "data_points": [
+      "스페이스X 상장 청약 경쟁률: 약 4배 초과 (총 2,500억 달러 규모 자금 유입 확인)",
+      "엔스로픽의 추론 API 단가: 입력 토큰 100만 개당 10달러, 출력 토큰 100만 개당 50달러 고가 라인 구축"
+    ],
+    "signal": "bullish",
+    "signal_reason": "WWDC 이후 애플의 단기 조정과 지정학적 노이즈가 있으나, 스페이스X의 압도적 흥행과 차세대 AI 소프웨어(미토스)의 매출 실체 및 단타 규제 완화에 따른 거래량 폭증은 시장 성장 동력을 강력하게 재점화하기 때문입니다.",
+    "key_companies": [
+      "SpaceX",
+      "Anthropic",
+      "Apple",
+      "ASML",
+      "Cadence Design Systems",
+      "Robinhood"
+    ],
+    "insight": "스페이스X와 엔스로픽 등 메가급 비상장 거물들의 상장 임박은 자본 시장의 신규 <span class=\"text-cyan-300 font-semibold\">패시브 수급 유입</span>을 강제하며, EDA 자동화 설계 툴 등 핵심 곡괭이 업계(CDNS)의 장기 매출 파트너십을 공고히 만듭니다.",
+    "action_point": "WWDC 실망감으로 단기 눌림이 발생한 애플 및 자본 조달 흥행 수혜를 직접 입는 항공우주/반도체 핵심 장비 파트너십 관련주의 비중 확대를 제안합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "스페이스X흥행",
+      "클로드미토스",
+      "단타규제폐지",
+      "EDA반도체",
+      "ASML호재",
+      "한경글로벌"
+    ]
+  }
+}

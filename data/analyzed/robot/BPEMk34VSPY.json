@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "BPEMk34VSPY",
+    "title": "200조 부자에게도 맛있는 바나나 우유",
+    "published": "2026-06-09T12:00:27+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=BPEMk34VSPY",
+    "thumbnail": "https://img.youtube.com/vi/BPEMk34VSPY/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "엔비디아의 차세대 <span class=\"text-amber-300 font-bold\">피지컬 AI 플랫폼</span>과 세계 최초의 로봇용 컴퓨터인 <span class=\"text-cyan-300 font-semibold\">이노베인 프로세서</span> 생태계 선점 의지를 다룬 요약 영상입니다.",
+    "key_claims": [
+      "개발 초기에는 아무도 원하지 않았던 로봇 전용 컴퓨터 칩셋을 다시 만들어야 한다는 결론에 도달했다.",
+      "로봇이 주변 환경을 물리적으로 인식하고 연산할 수 있는 특화 프로세서 생태계 구축이 엔비디아의 핵심 목표이다.",
+      "젠슨 황의 대만 Computex 행보와 함께 글로벌 모빌리티 및 로봇 제조업체들과의 칩셋 협력이 강화되고 있다."
+    ],
+    "data_points": [
+      "엔비디아 CEO 젠슨 황의 추정 자산 규모: 약 200조 원 수준"
+    ],
+    "signal": "bullish",
+    "signal_reason": "엔비디아가 GPU 리더십을 넘어 로봇 컴퓨터 및 물리적 인터페이스 전용 칩셋 시장까지 선점함으로써 하드웨어 독점력을 한 단계 더 확장하고 있기 때문입니다.",
+    "key_companies": [
+      "NVIDIA"
+    ],
+    "insight": "단순 연산 가속기를 넘어 물리 세계에 작용하는 액추에이터 제어용 '로봇 컴퓨터(Robot Computer)' 표준을 제시함으로써 엔비디아표 '쿠다(CUDA)' 생태계가 물리 공간으로 전이되고 있습니다.",
+    "action_point": "엔비디아의 로봇 개발 플랫폼(Isaac) 및 관련 전용 칩셋 공급망에 참여하는 에코시스템 파트너사들에 대한 장기 투자가 유효합니다."
+  },
+  "classification": {
+    "primary_topic": "robot",
+    "secondary_topics": [
+      "tech",
+      "stock"
+    ],
+    "tags": [
+      "로봇컴퓨터",
+      "젠슨황",
+      "이노베인",
+      "엔비디아",
+      "Softdragon",
+      "피지컬AI"
+    ]
+  }
+}

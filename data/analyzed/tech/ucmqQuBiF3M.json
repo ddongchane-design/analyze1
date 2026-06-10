@@ -1,0 +1,49 @@
+{
+  "video": {
+    "id": "ucmqQuBiF3M",
+    "title": "유가 진정, 반도체주 반등...하락 멈춘 미국 증시 | 데일리 라이브 | 2026.6.9(화)",
+    "published": "2026-06-09T11:19:27+00:00",
+    "channel_name": "Smart Money by MiraeAsset ",
+    "url": "https://www.youtube.com/watch?v=ucmqQuBiF3M",
+    "thumbnail": "https://img.youtube.com/vi/ucmqQuBiF3M/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "이란과 이스라엘의 교전 중단 선언으로 유가가 안정화되고 미 증시가 반등한 가운데, 생성형 AI의 확산에 발맞춰 국내외 IT 서비스 기업들의 <span class=\"text-amber-300 font-bold\">AI 전환(AX) 솔루션 수요</span>가 급증하며 하반기 밸류에이션 리레이팅이 기대됩니다.",
+    "key_claims": [
+      "구글이 2028년 <span class=\"text-cyan-300 font-semibold\">TPU칩 300만 개 생산</span>을 인텔에 위탁하고, 오픈AI와 앤트로픽이 기업공개(IPO) 절차를 본격 개시하는 등 AI 하드웨어와 소프트웨어의 확장이 계속되고 있다.",
+      "AI 트렌드가 하드웨어에서 소프트웨어로 확장되면서 데이터독, 크라우드스트라이크 등 사스(SaaS) 기반 모니터링 및 보안 수요가 견조하게 늘어나고 있다.",
+      "국내에서는 대기업 캡티브 물량을 기반으로 스마트 팩토리, 물류 자동화 등 <span class=\"text-cyan-300 font-semibold\">피지컬 AI 운영 체계</span>를 구축할 수 있는 SI 기업들의 수혜가 확실시된다."
+    ],
+    "data_points": [
+      "나스닥 지수 0.86% 상승 및 필라델피아 반도체 지수 5.61% 급반등",
+      "인텔, 구글 TPU 300만 개 위탁생산 및 엔비디아 백업칩 검토 소식에 11.19% 급등"
+    ],
+    "signal": "bullish",
+    "signal_reason": "지정학적 유가 불안이 완화된 환경 속에서 AI 밸류체인의 영토가 하드웨어를 넘어 소프트웨어와 시스템 통합(SI)으로 넓어지며 장기 성장 로드맵이 다각화되고 있습니다.",
+    "key_companies": [
+      "삼성SDS",
+      "LG CNS",
+      "Intel",
+      "Google",
+      "Broadcom"
+    ],
+    "insight": "단순 퍼블릭 LLM 도입 단계를 넘어 기업 내부 데이터를 결합하는 <span class=\"text-amber-300 font-bold\">프라이빗 AI 구축 및 AX 솔루션</span> 도입이 본격화되면서, 기존 업무 시스템(ERP, MES)과의 통합 역량이 핵심 해자로 부각될 것입니다.",
+    "action_point": "하반기 강력한 성장 모멘텀이 기대되는 대형 SI 대표주를 선별적으로 바스켓 매수하고, 소프트웨어 비중 확대를 통한 포트폴리오 밸런싱을 구축할 필요가 있습니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock",
+      "economy"
+    ],
+    "tags": [
+      "미래에셋",
+      "미국증시반등",
+      "구글TPU",
+      "인텔파운드리",
+      "소프트웨어전환",
+      "AX수요",
+      "LGCNS"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "video": {
+    "id": "TeK-ujkCr8w",
+    "title": "열 나는 건 아픈 게 아닙니다 (이승훈 교수)",
+    "published": "2026-06-09T14:15:22+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=TeK-ujkCr8w",
+    "thumbnail": "https://img.youtube.com/vi/TeK-ujkCr8w/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "인체의 면역 반응을 조율하는 <span class=\"text-amber-300 font-bold\">발열 메커니즘</span>을 해부하여, 열이 나는 현상이 침입자가 아닌 우리 몸의 면역세포(<span class=\"text-cyan-300 font-semibold\">호중구</span>)가 생존 투쟁을 위해 세팅한 의도적 기전임을 규명합니다.",
+    "key_claims": [
+      "발열, 발적, 부종, 통증 등 염증의 4대 반응은 병원균의 직접 공격 결과가 아니라 침입자를 몰아내기 위한 몸의 방어 신호이다.",
+      "호중구가 파이로젠(pyrogen, 발열 인자)을 분비해 뇌 시상하부의 체온 기준점을 인위적으로 상승시킴으로써 면역 경보를 발동한다.",
+      "인체 온도가 38.5도 수준에 도달했을 때, 면역 주력 세포인 호중구의 대식 작용 및 살균 활성도가 최상으로 극대화된다."
+    ],
+    "data_points": [
+      "면역세포(호중구) 활성 극대화 및 박테리아 퇴치 최적 체온 세팅: 38.5도 부근"
+    ],
+    "signal": "neutral",
+    "signal_reason": "인체의 과학적 자가 치유 및 면역 제어 프로세스를 규명하여 건강 유지에 필요한 유용한 교양 지식을 제공하고 있기 때문입니다.",
+    "key_companies": [],
+    "insight": "질병의 증상(열) 자체를 적으로 간주해 무작위로 해열제를 투입하는 것보다, 면역 세포들이 활동할 수 있는 환경(일정한 발열 범위)을 확보해주고 몸의 균형을 모니터링하는 것이 합리적인 건강 관리입니다.",
+    "action_point": "건강 관리 및 헬스케어 디바이스를 통한 체온 제어, 바이오 면역치료제 등 체내 방어 기전을 활성화하는 바이오테크 섹터의 중장기 R&D 성과를 관찰해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "발열메커니즘",
+      "면역반응",
+      "호중구",
+      "체온조절",
+      "인체과학",
+      "이승훈교수",
+      "언더스탠딩"
+    ]
+  }
+}

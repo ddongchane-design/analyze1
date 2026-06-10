@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "_d1BdfTsSek",
+    "title": "지금까지 에러였습니다",
+    "published": "2026-06-09T10:00:32+00:00",
+    "channel_name": "안될공학 - IT 테크 신기술",
+    "url": "https://www.youtube.com/watch?v=_d1BdfTsSek",
+    "thumbnail": "https://img.youtube.com/vi/_d1BdfTsSek/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "안될공학 채널을 5년간 이끌어온 메인 크리에이터 <span class=\"text-amber-300 font-bold\">에러(Error)의 하차</span> 소식과 함께, 부족함을 채우고 새로움을 더할 신규 멤버 <span class=\"text-cyan-300 font-semibold\">패치(Patch)의 영입</span> 및 채널 개편 계획을 발표했습니다.",
+    "key_claims": [
+      "메인 크리에이터 에러는 개인적인 집중 과제를 위해 5년 만에 안될공학 일선에서 임시 물러난다.",
+      "테크 씬을 완전히 떠나는 것은 아니며 향후 오프라인 행사 등 다른 방식으로 복귀할 수 있다.",
+      "새로운 크리에이터 '패치'를 중심으로 채널 패치(개편)가 적용되며 추가 전문가 영입도 검토 중이다."
+    ],
+    "data_points": [
+      "안될공학 에러의 채널 리드 기간: 약 5년 (2021년 여름 ~ 현재)"
+    ],
+    "signal": "neutral",
+    "signal_reason": "채널의 핵심 크리에이터 세대교체에 따른 과도기이나, 테크 정보 전달이라는 채널의 본질과 신규 멤버 영입을 통한 시스템화는 지속될 예정이므로 중립적입니다.",
+    "key_companies": [
+      "안될공학"
+    ],
+    "insight": "테크 MCN 및 미디어가 1인 크리에이터 의존도에서 벗어나 공동 크리에이터 시스템 및 채널 브랜드 자체의 성장을 도모하는 과도기적 사례를 보여줍니다.",
+    "action_point": "크리에이터 교체 초기 콘텐츠 품질과 구독자 반응 추이를 모니터링하며 MCN 비즈니스의 시스템 다각화 가능성을 관찰해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "안될공학",
+      "에러은퇴",
+      "패치영입",
+      "채널개편",
+      "IT테크",
+      "MCN"
+    ]
+  }
+}

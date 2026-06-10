@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "SddPspXFapA",
+    "title": "두 번의 데자뷰, 이유 없이 떨어질 땐 뭐라고? | 빈센트 하나증권 애널리스트 [더블 체크]",
+    "published": "2026-06-09T08:20:00+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=SddPspXFapA",
+    "thumbnail": "https://img.youtube.com/vi/SddPspXFapA/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "이유 없는 낙폭과 <span class=\"text-rose-400 font-medium\">서킷브레이커 및 사이드카 발동</span> 등 극단적 변동성을 겪는 시장에서, 매크로 불확실성 극복을 위한 <span class=\"text-amber-300 font-bold\">확실한 주도 가치주</span> 판별 전략을 논의합니다.",
+    "key_claims": [
+      "코스피의 1200~1300포인트 급락과 서킷브레이커의 발동은 심리적 쏠림에 의한 수급 마비 현상이다.",
+      "시장 전체가 불확실해질수록, 확실한 실물 이익과 구조적 성장을 보장받는 최상위 밸류체인의 매력도가 오히려 부각된다.",
+      "과거 하락 국면의 데자뷰(일시적 유동성 쇼크) 이후 복구 국면에서는 주도 섹터의 V자 반등 강도가 압도적이었다."
+    ],
+    "data_points": [
+      "코스피 단기 조정 낙폭: 고점 대비 1,200 ~ 1,300포인트 급락 수준 기록"
+    ],
+    "signal": "neutral",
+    "signal_reason": "투매와 신용 청산으로 인한 일시적 서킷브레이커 수준의 과매도는 기술적으로 복구 가능한 지점이나, 단기 수급 교란이 완전히 진정되기 전까지 변동성 방어 태세 유지가 필요하기 때문입니다.",
+    "key_companies": [
+      "NVIDIA",
+      "SK하이닉스"
+    ],
+    "insight": "시장의 공포 발작은 본질적 성장 추세를 훼손하는 경제 위기가 아니며, 오히려 어설픈 대안 투자처들의 버블을 걷어내고 1티어 주도주의 수급 밀도를 공고히 다져줍니다.",
+    "action_point": "서킷브레이커 발동 등에 따른 공포 투매에 동참하지 말고, 펀더멘탈이 견고한 글로벌 반도체 및 인프라 대장주의 수급 지지력을 활용한 저가 매수 기회로 활용해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "서킷브레이커",
+      "과매도",
+      "수급마비",
+      "주도주반등",
+      "변동성극복",
+      "삼프로TV"
+    ]
+  }
+}
