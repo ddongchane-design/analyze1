@@ -41,22 +41,20 @@ def analyze_video(video: dict, transcript: str) -> dict:
     prompt = ANALYZE_PROMPT.format(
         title=video["title"],
         channel=video["channel_name"],
-        transcript=transcript[:8000]
+        transcript=transcript[:100000]
     )
     try:
         response = client.models.generate_content(
             model="gemini-2.5-flash",
-            contents=prompt
+            contents=prompt,
+            config={"response_mime_type": "application/json"}
         )
     except Exception as e:
         print(f"  [warn] Gemini 분석 오류: {e}")
         return {}
 
-    text = response.text
-    match = re.search(r'\{.*\}', text, re.DOTALL)
-    if match:
-        try:
-            return json.loads(match.group())
-        except json.JSONDecodeError:
-            pass
-    return {}
+    try:
+        return json.loads(response.text)
+    except (json.JSONDecodeError, TypeError) as e:
+        print(f"  [warn] JSON 파싱 오류: {e}")
+        return {}
