@@ -120,9 +120,13 @@ def render_dashboard():
             try:
                 pub_dt = datetime.fromisoformat(pub_str)
                 if pub_dt >= cutoff:
-                    recent_analyses.append(analysis)
+                    analysis_with_date = dict(analysis)
+                    analysis_with_date["published_date"] = pub_str[:10]
+                    recent_analyses.append(analysis_with_date)
             except Exception:
-                recent_analyses.append(analysis)
+                analysis_with_date = dict(analysis)
+                analysis_with_date["published_date"] = pub_str[:10] if pub_str else ""
+                recent_analyses.append(analysis_with_date)
 
         synthesis = {}
         synthesis_path = synthesis_dir / f"{topic_id}.json"

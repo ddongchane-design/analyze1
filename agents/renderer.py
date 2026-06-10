@@ -383,6 +383,7 @@ CONSENSUS_STYLE = {
     "bullish": {"label": "BULLISH", "color": "#10d98a", "bg": "rgba(16,217,138,0.10)", "border": "rgba(16,217,138,0.30)"},
     "bearish": {"label": "BEARISH", "color": "#ff4f72", "bg": "rgba(255,79,114,0.10)", "border": "rgba(255,79,114,0.30)"},
     "neutral": {"label": "NEUTRAL", "color": "#f5c842", "bg": "rgba(245,200,66,0.10)",  "border": "rgba(245,200,66,0.30)"},
+    "na":      {"label": "N/A",     "color": "#94a3b8", "bg": "rgba(148,163,184,0.10)", "border": "rgba(148,163,184,0.30)"},
 }
 
 SYNTHESIS_BANNER = """
