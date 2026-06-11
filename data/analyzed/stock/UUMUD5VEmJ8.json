@@ -1,0 +1,39 @@
+{
+  "video": {
+    "id": "UUMUD5VEmJ8",
+    "title": "스페이스X 상장이 한국 증시에 미칠 영향 | 한유건 하나증권 리서치센터 팀장 [더블 업]",
+    "published": "2026-06-11T03:30:00+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=UUMUD5VEmJ8",
+    "thumbnail": "https://img.youtube.com/vi/UUMUD5VEmJ8/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "1. 시가총액 1.75조 달러(2,670조 원) 규모의 초대형 <span class=\"text-cyan-300 font-semibold\">스페이스X(SpaceX)</span>가 미국 상장에 돌입하며 역대급 기업 공개 신기록을 경신 중입니다.\n2. 상장 초기 유통 물량이 4.2% 수준에 불과하고 락업 해제도 6개월간 순차 분산되므로 즉각적인 수급 고갈 우려는 낮으나, <span class=\"text-violet-300 font-medium\">7월 7일 나스닥 100 패스트트랙 편입</span> 시기 리밸런싱 블랙홀 압박이 예상됩니다.\n3. 스페이스X 상장은 국내 우주 및 HBM 특수 엔진 부품 기업들에 <span class=\"text-cyan-300 font-semibold\">낙수 효과(CapEx 조달 수혜)</span>를 유발하며 장기적 호재로 작동할 것입니다.",
+    "key_claims": [
+      "스페이스X의 상장 초기 유통 물량 비중은 4.2% 수준으로 페이스북(15.4%) 등 과거 대형 IPO에 비해 <span class=\"text-amber-300 font-bold\">오버행 부담이 제한적</span>입니다.",
+      "글로벌 지수(나스닥 100 등) 조기 편입에 따른 패시브 자금 쏠림은 7월 7일 전후로 국내 정보통신 및 대형 기술주의 <span class=\"text-rose-400 font-medium\">일시적 수급 이탈</span>을 가져올 수 있습니다.",
+      "스페이스X에 직접 부품을 공급하는 국내 특수 철강, 알루미늄, HBM 엔진 소재 제조 기업들의 <span class=\"text-cyan-300 font-semibold\">공급망 가치 재평가</span>가 시작될 것입니다."
+    ],
+    "data_points": [
+      "스페이스X 기업가치 1.75조~2조 달러 (원화 2,670조 원 수준, 삼성전자/SK하이닉스 시총 규모 상회)",
+      "상장 유통 가능 물량: 전체 131억 주 중 약 4.2% 수준 극소 배정",
+      "나스닥 100 지수 패스트트랙 편입 예정일: 2026년 7월 7일 (삼성전자 잠정 실적 발표일과 근접)",
+      "올해 스페이스X 예상 매출 중 스타링크 부문 비중 60~70% 차지 (스타링크 가입자 작년 대비 2배 성장)"
+    ],
+    "signal": "bullish",
+    "signal_confidence": "high",
+    "signal_reason": "대규모 상장 조달 자금이 스타링크 및 스타십 투자 확대로 연결되며, 글로벌 우주 공급망에 참여한 국내 특수 부품 제조사와 지분 투자 금융사들의 가치 상승을 자극합니다.",
+    "key_companies": [
+      "스페이스X",
+      "세아베스틸지주(001430)",
+      "알맥(365120)",
+      "미래에셋증권(006800)"
+    ],
+    "insight": "스페이스X 상장에 따른 글로벌 시장의 시총 지각 변동은 단기 수급 이탈 공포를 자극하지만, 본질은 우주 인터넷(스타링크)과 민간 발사체 인프라 시장의 무제한적 팽창입니다. 국내 증시 수급 역시 대규모 패시브 리밸런싱이 끝나는 7월 중순 이후 공급망 낙수 효과를 향해 빠르게 안정을 찾을 것입니다.",
+    "action_point": "수급 노이즈로 주가가 흔들리는 스페이스X 직접 공급망 밸류체인(소재 공급사) 및 지분 보유 투자사에 대해 7월 초 리밸런싱 조정 구간을 <span class=\"text-cyan-300 font-semibold\">매수 진입 기회</span>로 삼아야 합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "relevance_score": 9.5
+  }
+}

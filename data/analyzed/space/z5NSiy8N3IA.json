@@ -1,0 +1,35 @@
+{
+  "video": {
+    "id": "z5NSiy8N3IA",
+    "title": "아르테미스 Ⅲ 우주인, 스펙이 영화보다 더하다",
+    "published": "2026-06-11T06:00:00+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=z5NSiy8N3IA",
+    "thumbnail": "https://img.youtube.com/vi/z5NSiy8N3IA/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "1. NASA의 아르테미스 III 달 남극 도킹 미션에 투입될 우주비행사들의 고스펙과 풍부한 베테랑 경험을 소개했습니다.\n2. 4개의 학위와 장비 개발 이력을 지닌 안드레 더글라스, 미국 최장 우주 체류 기행을 한 프랭크 루비오 등이 선발되었습니다.\n3. 이탈리아 최고참 우주인 루카 파르미타노, 90종 기종을 조종한 탑건 출신 랜디 브레스닉 등 과학적/공학적 역량을 겸비한 전문가들로 팀이 구성되었습니다.",
+    "key_claims": [
+      "달 착륙 도킹 미션은 극도의 위험성이 따르기 때문에 파일럿 및 기계 제어 전문가 등 <span class=\"text-cyan-300 font-semibold\">베테랑 중의 베테랑</span> 위주로 차출되었습니다.",
+      "선발된 우주인들은 단순 조종사가 아니라 의사, 공학 박사 등 멀티 태스킹이 가능한 <span class=\"text-cyan-300 font-semibold\">융합형 인재</span>들입니다.",
+      "우주 유영 중 헬멧 내부 물 고임 같은 생사 갈림길의 사고를 극복한 정신력 보유자들이 주축을 이룹니다."
+    ],
+    "data_points": [
+      "아르테미스 III(Artemis III) 달 도킹 유인 우주 미션 우주비행사 선발 완료",
+      "탑건 출신 랜디 브레스닉: 90여 개 기종 조종, 비행 시간 7,000시간 이상 기록"
+    ],
+    "signal": "na",
+    "signal_confidence": "high",
+    "signal_reason": "우주 비행사들의 프로필과 미션 준비 상황을 다룬 정보성 교양 콘텐츠로, 상업적 투자 시그널을 도출하기에는 적합하지 않습니다.",
+    "key_companies": [
+      "NASA",
+      "스페이스X"
+    ],
+    "insight": "아르테미스 계획의 최종 달 착륙에 투입될 인력의 수준은 극도로 조율되어 있으며, 이는 상업 우주 개발 단계로 진입하기 전 국가 단위의 기술적 완성도와 신뢰성을 높이기 위한 전략적 결정입니다.",
+    "action_point": "민간 우주 개발에 앞서 유인 달 착륙 인프라 기술을 보유한 NASA 및 락히드마틴 등 글로벌 방산/우주 기업들의 장기 연구 개발 가이드라인으로 참고할 가치가 있습니다."
+  },
+  "classification": {
+    "primary_topic": "space",
+    "relevance_score": 7.5
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "video": {
+    "id": "jlKh26fxC3Q",
+    "title": "반도체 권위자 : 쇼티지 절대 안 끝난다, 왜 겁 먹어요? | 김록호 & 빈센트 & 편아나 [더블 업]",
+    "published": "2026-06-11T01:30:00+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=jlKh26fxC3Q",
+    "thumbnail": "https://img.youtube.com/vi/jlKh26fxC3Q/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "1. 반도체 권위자 김록호 위원은 현재 반도체 업황은 대단히 안전하며, 매크로 변동성으로 인한 주가 조정은 <span class=\"text-cyan-300 font-semibold\">비중 확대 기회</span>라고 강조했습니다.\n2. 모바일 기기에 사용되는 <span class=\"text-cyan-300 font-semibold\">LPDDR 쇼티지(공급 부족)</span> 현상은 연내 해결되지 않아 강력한 단가 강세를 이어갈 것입니다.\n3. LPDDR 가격 상승은 D램 전체 블렌디드 ASP(평균판매단가) 상승을 견인하여 삼성전자 및 SK하이닉스의 하반기 실적 전망치를 계속 끌어올릴 것입니다.",
+    "key_claims": [
+      "매크로 이슈에 의한 메모리 반도체 대형주 주가 조정은 펀더멘탈 훼손이 아니므로 적극적인 <span class=\"text-cyan-300 font-semibold\">매수 전략</span>이 필요합니다.",
+      "AI 온디바이스 생태계 확장으로 기존 서버용 HBM뿐 아니라 모바일용 고성능 LPDDR 수요가 폭발해 <span class=\"text-rose-400 font-medium\">쇼티지 장기화</span>가 심화되고 있습니다.",
+      "3분기 잠정 실적 발표 시점(10월 초)까지는 반도체 실적 상향이 확실하므로 단기 노이즈에 동요하지 말아야 합니다."
+    ],
+    "data_points": [
+      "LPDDR 쇼티지 심화 및 모바일 D램 단가 강세 기조 지속",
+      "삼성전자 및 SK하이닉스 3분기 실적 전망치 상향 트렌드 유지",
+      "D램 혼합 평균 판매 단가(ASP) 상승 수치 견조"
+    ],
+    "signal": "bullish",
+    "signal_confidence": "high",
+    "signal_reason": "모바일 AIPC 및 AI 스마트폰 수요에 의한 LPDDR 쇼티지가 메모리 반도체 기업들의 ASP를 구조적으로 올리는 구간이며, 실적 펀더멘탈이 극도로 우수합니다.",
+    "key_companies": [
+      "삼성전자(005930)",
+      "SK하이닉스(000660)"
+    ],
+    "insight": "HBM에만 집중되던 AI 반도체 수혜가 온디바이스 AI 활성화에 따라 모바일 저전력 메모리(LPDDR) 시장으로 빠르게 전이되고 있습니다. 이는 메모리 제조사의 가파른 마진 믹스 개선 및 실적 체력 향상으로 직결되며 반도체 피크아웃 우려를 완벽히 종식시키는 계기가 될 것입니다.",
+    "action_point": "매크로 변동성으로 인해 삼성전자와 SK하이닉스 주가가 조정을 받을 때마다 적극적으로 비중을 확대하고, 최소한 3분기 잠정 실적이 발표되는 10월 초까지는 반도체 섹터의 롱(Long) 관점을 유지해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "relevance_score": 9.6
+  }
+}

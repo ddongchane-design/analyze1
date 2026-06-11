@@ -1,0 +1,36 @@
+{
+  "video": {
+    "id": "bVbctmrmIDk",
+    "title": "[26.06.11 오전 방송 전체보기] 전쟁·물가 우려 속 뉴욕증시 하락 마감",
+    "published": "2026-06-11T00:30:00+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=bVbctmrmIDk",
+    "thumbnail": "https://img.youtube.com/vi/bVbctmrmIDk/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "1. 뉴욕 증시는 지정학적 전쟁 긴장 지속과 <span class=\"text-amber-300 font-bold\">물가 인상 우려</span>가 겹치며 하락세로 마감했으나, 장중 낙폭을 줄이는 변동성 장세를 보였습니다.\n2. 매크로 불확실성에도 불구하고 국내 반도체(삼성전자, SK하이닉스)는 단기 차익 매물을 이겨내고 외국인 수급이 유입되며 <span class=\"text-cyan-300 font-semibold\">하방을 지지</span>하고 있습니다.\n3. 6월 옵션 만기 주간과 겹치며 시장의 일시적 <span class=\"text-rose-400 font-medium\">유동성 변동성</span>이 극대화되고 있지만 중장기적 기초체력은 훼손되지 않았습니다.",
+    "key_claims": [
+      "지정학적 우려와 유가 변동이 매크로 심리를 압박하고 있지만, 실질적인 기업들의 이익 전망치는 견조하게 상향 조정되고 있습니다.",
+      "환율 상승 압박(1,540원대)이 수출 대기업들의 가격 경쟁력과 어닝 기대를 자극하여 주가지수의 <span class=\"text-cyan-300 font-semibold\">극단적인 폭락을 방어</span>하고 있습니다.",
+      "단기 지수 하락은 공포로 인한 반대매매나 패닉셀을 유도하지만, 하반기 어닝 시즌 진입 시 <span class=\"text-amber-300 font-bold\">실적 장세</span>로 회복될 것입니다."
+    ],
+    "data_points": [
+      "코스피 변동성 하락 후 코스닥 낙폭 회복 양전 흐름",
+      "원/달러 환율 1,540원선 근접 수준 유지",
+      "SK하이닉스 등 대형 반도체주 장중 반등(양전) 전환 성공"
+    ],
+    "signal": "neutral",
+    "signal_confidence": "high",
+    "signal_reason": "단기 거시경제(전쟁, 유가) 불안과 환율 급변동으로 리스크 경계 심리가 팽팽하지만, 반도체 및 주주환원 대형주 중심으로 하방 지지력이 증명되어 지수의 하방 압력은 제한적입니다.",
+    "key_companies": [
+      "삼성전자(005930)",
+      "SK하이닉스(000660)"
+    ],
+    "insight": "뉴욕 증시의 하락과 환율 급등은 국내 시장에 외인 자금 이탈 우려를 유발하지만, 고환율 수혜를 받는 수출 전방 산업(반도체, 자동차)의 영업이익 추정치가 오르는 역설적인 헷지(Hedge) 구도를 연출하고 있습니다.",
+    "action_point": "시장 전반의 단기 지수 밴드 하단 이탈 시 패닉셀하기보다, 호실적이 기대되는 대형 반도체 기업 위주로의 저가 분할 매수 대응이 유효합니다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "relevance_score": 9.2
+  }
+}

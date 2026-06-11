@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "0T5YyMoOL5o",
+    "title": "2700조 원 최대 상장의 이면..국내 최초 멤피스 데이터센터에서 본 스페이스X의 현주소 | 바이아메리카 in 뉴욕",
+    "published": "2026-06-11T01:00:00+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=0T5YyMoOL5o",
+    "thumbnail": "https://img.youtube.com/vi/0T5YyMoOL5o/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "1. 스페이스X는 XAI의 멤피스 <span class=\"text-cyan-300 font-semibold\">콜로서스 데이터센터</span> 및 전력 인프라 등 지상 AI 생태계를 기반으로 최대 1.8조 달러 몸값의 상장 로드쇼를 개시했습니다.\n2. 공모가는 135달러 단일 고정가로, 물량의 4배가 넘는 대규모 기관 주문이 쏠려 상장 초기 <span class=\"text-violet-300 font-medium\">수급 쏠림(블랙홀)</span> 우려가 고조되고 있습니다.\n3. 락업 해제 시점에 대한 다양한 예외 조항(비상 출구)이 존재하여 임직원과 초기 투자자들의 매도로 인한 <span class=\"text-rose-400 font-medium\">단기 주가 변동성 리스크</span>가 큽니다.",
+    "key_claims": [
+      "스페이스X는 단순한 로켓 발사 기업이 아니라 스타링크와 XAI, 테라 프로젝트를 엮은 <span class=\"text-cyan-300 font-semibold\">AI 인프라 사슬</span>로 기업가치를 포장하고 있습니다.",
+      "6개월 내 물량 해제 예외 조항이 많아 피그마나 세레브라스처럼 <span class=\"text-rose-400 font-medium\">상장 직후 내부자 매도</span>로 인한 급락 악순환의 위험이 있습니다.",
+      "다모다란 교수는 템(TAM) 산정 시 소프트웨어 시장 규모(22조 달러)를 과도하게 부풀려 <span class=\"text-rose-400 font-medium\">AI 버블의 경고 시그널</span>로 작용한다고 지적합니다."
+    ],
+    "data_points": [
+      "스페이스X 시가총액 최소 1.8조 달러 (약 2,700조 원) 규모 전망",
+      "멤피스 콜로서스 데이터센터 1호기: 22만 개 엔비디아 GPU 기반 가동 중",
+      "스페이스X 공모가 135달러, 유통 물량 약 131억 주 중 4.2% 수준 공모",
+      "조정 에비타(EBITDA) 작년 65억 8,400만 달러, EV/EBITDA 배수 275배 수준의 높은 멀티플",
+      "앤스로픽과 월 12.5억 달러(연 150억 달러), 구글과 총 300억 달러 데이터센터 임대 계약 체결",
+      "락업 예외: 주가가 공모가 대비 30% 이상 열흘 중 5일 상승 시 10% 추가 매도 가능"
+    ],
+    "signal": "neutral",
+    "signal_confidence": "high",
+    "signal_reason": "스페이스X의 2,700조 원 규모 IPO가 다가오면서 스타링크 독점력은 긍정적이나, 275배에 달하는 높은 EV/EBITDA 밸류에이션과 내부자 락업 예외 조항에 따른 오버행 우려가 팽팽합니다.",
+    "key_companies": [
+      "스페이스X",
+      "테슬라(TSLA)",
+      "구글(GOOGL)",
+      "앤스로픽",
+      "마이크로소프트(MSFT)"
+    ],
+    "insight": "일론 머스크가 스페이스X 상장을 고집하는 이유는 화성 이주 목적보다 XAI 및 600억 달러 가치의 커서(Cursor) 인수 등 막대한 지상 AI 데이터센터 인프라(콜로서스, 테라 프로젝트) 구축을 위한 자금 조달에 초점이 맞춰져 있습니다. 이는 단기적으로 시장의 자금을 빠라들이는 수급 블랙홀을 야기할 수 있습니다.",
+    "action_point": "스페이스X의 지분 투자가 연계된 간접 수혜주(미래에셋증권, 세아베스틸지주 등)는 변동성을 활용한 매수 기회로 보되, 상장 직후 락업 예외 물량이 풀리는 기간(상장 후 2개월 시점) 동안은 변동성을 극히 경계해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "space",
+    "relevance_score": 9.5
+  }
+}
