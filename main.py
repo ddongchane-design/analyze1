@@ -19,5 +19,8 @@ if __name__ == "__main__":
         render_dashboard()
     else:
         if not os.environ.get("GEMINI_API_KEY"):
-            raise RuntimeError("GEMINI_API_KEY가 설정되지 않았습니다. .env 파일을 확인하세요.")
-        run()
+            print("[경고] GEMINI_API_KEY가 설정되지 않았습니다. API가 필요한 비디오 분석 단계는 스킵되며, 신규 영상 수집 및 대시보드 렌더링만 진행됩니다.")
+            collect_pending()
+            render_dashboard()
+        else:
+            run()

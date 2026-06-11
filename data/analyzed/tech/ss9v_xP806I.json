@@ -1,0 +1,35 @@
+{
+  "video": {
+    "id": "ss9v_xP806I",
+    "title": "테슬라 자율주행도 여기선 찬밥입니다 (KB증권 아시아시장팀 박수현 팀장)",
+    "published": "2026-06-10T12:00:16+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=ss9v_xP806I",
+    "thumbnail": "https://img.youtube.com/vi/ss9v_xP806I/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "1. 중국 내 자율주행 시장은 테슬라의 FSD 도입 기대감에도 불구하고, 로컬 데이터와 신뢰도를 선점한 <span class=\"text-cyan-300 font-semibold\">모멘타(Momenta) 및 화웨이(Huawei)</span> 등의 현지 업체들이 강한 주도권을 쥐고 있습니다.\n2. 중국 정부는 전국적으로 자율주행 레벨 2부터 레벨 4까지 동시다발적인 시범구를 지정해 기술 간 치열한 실전 경쟁과 인프라 고도화를 유도하고 있습니다.\n3. 가성비를 앞세운 중국 토종 전기차와 고도로 현지화된 ADAS(자율주행보조) 연동 기술로 인해 테슬라의 중국 내 입지 및 점유율이 심각한 위협을 받고 있습니다.",
+    "key_claims": [
+      "중국 전기차 시장의 빠른 기술 상향 평준화로 인해 자율주행 소프트웨어 영역마저 중국 로컬 업체들의 <span class=\"text-cyan-300 font-semibold\">데이터 현지 점유율 독점</span>이 심화되고 있습니다.",
+      "지역별 동시다발적 시범 배포를 통한 규제 샌드박스 활성화는 중국 자율주행 경쟁력을 <span class=\"text-amber-300 font-bold\">글로벌 최상위 수준</span>으로 빠르게 도약시키는 핵심 동력입니다.",
+      "자율주행의 핵심인 AI 인지 및 모션 데이터 처리에 있어 화웨이가 중국 내 벤더 생태계를 빠르게 통합하고 있습니다."
+    ],
+    "data_points": [
+      "중국 내 자율주행 시범 도시 테스트 단계: ADAS(L2)부터 자율주행 무인화(L4)까지 동시 적용",
+      "중국 로컬 대표 자율주행 기술 기업: 모멘타(Momenta), 화웨이(Huawei)"
+    ],
+    "signal": "bearish",
+    "signal_confidence": "high",
+    "signal_reason": "테슬라의 핵심 성장 비전인 자율주행(FSD) 경쟁력이 최대 시장인 중국에서 현지 로컬 동맹(화웨이 등)의 저가 및 맞춤 데이터 공세로 위상이 위협받고 있습니다.",
+    "key_companies": [
+      "테슬라(TSLA)",
+      "화웨이(Huawei)"
+    ],
+    "insight": "중국의 모빌리티 시장은 소프트웨어 주도권마저 철저히 로컬 기업들 위주로 재편되고 있습니다. 테슬라의 중국 내 시장 장악력 회복은 쉽지 않을 것이며, 자국 반도체 자급화 기조와 결합한 <span class=\"text-violet-300 font-medium\">중국 중심의 독자 자율주행 플랫폼</span>이 글로벌 시장의 위협으로 부상할 것입니다.",
+    "action_point": "테슬라의 중국 및 아시아 시장 밸류에이션 둔화 리스크를 감안해 전기차 완제품 투자에는 신중을 기하고, 로컬 자율주행 시스템에 부품을 공급하는 <span class=\"text-cyan-300 font-semibold\">국내 정밀 센서 및 모빌리티 PCB 부품사</span>로 포커스를 전환해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "relevance_score": 9.5
+  }
+}

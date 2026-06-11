@@ -1,0 +1,35 @@
+{
+  "video": {
+    "id": "RSOtKvknTKg",
+    "title": "흔들리는 시장... 대응 전략은 무엇? | 박병창 MP파트너스 대표 [마켓 인사이드]",
+    "published": "2026-06-10T06:45:21+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=RSOtKvknTKg",
+    "thumbnail": "https://img.youtube.com/vi/RSOtKvknTKg/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "1. 미국 반도체 기술주 중심의 하락과 동조화되어 코스피가 단기 조정을 겪는 것은 10주간 연속 상승에 따른 정상적인 <span class=\"text-amber-300 font-bold\">수급 과열 해소 과정(매물 소화)</span>입니다.\n2. 음봉이 크게 떨어진 이후 모멘텀 부재로 지수가 하락 테스트를 진행 중이지만, 이는 대세 하락장 전환보다는 단기적인 이격도 조정 흐름에 해당합니다.\n3. 단기 일희일비식 초단타 매매(인파이터)보다는 시장 흐름을 여유 있게 바라보며(아웃복서) 리스크 관리와 비중 조절에 힘써야 할 구간입니다.",
+    "key_claims": [
+      "최근의 주가 급락은 장기 상승 추세선의 붕괴가 아닌, 과매수권에 진입했던 기술주들의 <span class=\"text-rose-400 font-medium\">단기 매물 압박 해소</span> 과정입니다.",
+      "미국 증시 및 반도체 지수의 변동성이 여전히 높아 국내 증시도 며칠간 추가 하방 테스트를 진행하는 <span class=\"text-rose-400 font-medium\">불안정한 수급 구간</span>이 이어질 수 있습니다.",
+      "시장 고수를 모방해 추격 매수나 조급한 매도를 하기보다 현금 및 안전자산 비중을 보유하며 지지선 형성을 기다리는 것이 합리적입니다."
+    ],
+    "data_points": [
+      "주봉 기준 최근 코스피 약 10주 연속 상승세를 기록한 후 상단 채널에서 조정 진입",
+      "나스닥 및 필라델피아 반도체 지수 단기 4~5일 연속 하락 영향 동조화"
+    ],
+    "signal": "neutral",
+    "signal_confidence": "high",
+    "signal_reason": "추세 붕괴의 신호는 없으나 단기 변동성과 추가 지지선 확인 과정이 여전히 진행 중이므로 신중한 관망이 요구되는 중립 상태입니다.",
+    "key_companies": [
+      "삼성전자(005930)",
+      "SK하이닉스(000660)"
+    ],
+    "insight": "지수가 장기 상승폭의 피로를 해소하기 위해 가격 조정을 받는 국면입니다. 이러한 매물 소화 과정을 거쳐야 향후 <span class=\"text-cyan-300 font-semibold\">실적 시즌 돌입 시</span> 더 견고한 상승 지지대를 형성할 수 있습니다.",
+    "action_point": "과도한 공격적 레버리지 투자를 자제하여 계좌의 안전성을 유지하고, 지수가 60일 이동평균선 등 <span class=\"text-cyan-300 font-semibold\">주요 지지 구간</span>에 진입할 때 주도주 분할 매수를 개시하는 전략이 필요합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "relevance_score": 9.4
+  }
+}

@@ -18,7 +18,8 @@ from highlight_existing import highlight_analysis
 
 def main():
     if not os.environ.get("GEMINI_API_KEY"):
-        print("GEMINI_API_KEY가 설정되지 않았습니다. .env 파일을 확인하세요.")
+        print("[정보] GEMINI_API_KEY가 설정되지 않아 로컬 API 분석 단계를 건너뛰고 대시보드 렌더링만 수행합니다.")
+        render_dashboard()
         return
 
     pending_dir = Path("data/pending")

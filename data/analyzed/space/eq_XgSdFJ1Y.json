@@ -1,0 +1,37 @@
+{
+  "video": {
+    "id": "eq_XgSdFJ1Y",
+    "title": "영화 ’빅쇼트' 아이스먼 “스페이스X 살 이유도, 숏 칠 이유도 없다” #shorts",
+    "published": "2026-06-10T10:11:53+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=eq_XgSdFJ1Y",
+    "thumbnail": "https://img.youtube.com/vi/eq_XgSdFJ1Y/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "1. 영화 '빅쇼트'의 실제 모델인 아이스먼은 <span class=\"text-cyan-300 font-semibold\">스페이스X(SpaceX)</span>의 자본 집약도 급증(1분기 매출 대비 CapEx 215%)과 높은 밸류에이션에 대해 회의적인 시각을 드러냈습니다.\n2. 일론 머스크의 AI 기업(Grok)은 세계적 수준으로 보기 어려우며, 스페이스X가 미래 가치의 85%를 AI에 걸고 있어 공상 과학 소설 같은 과평가 영역에 있다고 평가했습니다.\n3. 다만 머스크 관련 기업에 공매도(숏)를 쳤던 투자자들이 과거에 큰 손해를 입은 사례가 많아 공매도는 실행하지 않고 관망하겠다고 밝혔습니다.",
+    "key_claims": [
+      "스페이스X는 스타링크/우주 인프라를 넘어 AI를 기업의 핵심 TAM(28.5조 달러)으로 제시하고 있으나 이는 <span class=\"text-rose-400 font-medium\">과도하게 부풀려진 기대감</span>입니다.",
+      "테슬라의 영업이익이 지난 4년간 감소했고 전기차 경쟁이 심화되는 등 일론 머스크 관련 자산의 <span class=\"text-rose-400 font-medium\">기초 펀더멘탈 약화</span> 우려가 존재합니다.",
+      "스페이스X의 평가 가치는 매우 터무니없으나, 수급과 일론 머스크 프리미엄으로 인해 <span class=\"text-rose-400 font-medium\">공매도는 극도로 위험</span>하므로 배제해야 합니다."
+    ],
+    "data_points": [
+      "스페이스X 2023 회계연도 매출 대비 자본 지출(CapEx) 비중: 42%",
+      "스페이스X 2026년 1분기 매출 대비 자본 지출(CapEx) 비중: 215%로 급증",
+      "스페이스X가 정의하는 총 잠재 시장 규모(TAM): 28조 5,000억 달러 (이 중 85%가 AI 영역)",
+      "테슬라의 영업이익 4년 연속 감소 추세"
+    ],
+    "signal": "neutral",
+    "signal_confidence": "high",
+    "signal_reason": "밸류에이션 과열 우려와 일론 머스크에 숏을 치는 것의 과거 위험성이 상존하여 시장 참여자들이 매수와 매도 어느 쪽도 쉽게 베팅하기 어려운 중립 영역입니다.",
+    "key_companies": [
+      "스페이스X",
+      "테슬라(TSLA)"
+    ],
+    "insight": "스페이스X의 미래 가치 산정이 AI와 스타링크의 비현실적 성장 시나리오에 기반해 있다는 경고입니다. 특히 매출의 두 배가 넘는 자본 투입(CapEx)은 자금 조달 리스크를 키울 수 있으나, <span class=\"text-cyan-300 font-semibold\">독점적 수급 효과</span>와 탄탄한 기관 대기 매수세 때문에 상장 직후의 주가는 밸류에이션과 별개로 움직일 가능성이 큽니다.",
+    "action_point": "스페이스X 상장 초기 밸류에이션 과열 구간에서는 추격 매수를 자제하되, 시장의 높은 변동성을 이용한 단기 공매도 역시 지양하며 장기적인 <span class=\"text-cyan-300 font-semibold\">자본 효율성 및 AI 실적 증명</span> 과정을 지켜보아야 합니다."
+  },
+  "classification": {
+    "primary_topic": "space",
+    "relevance_score": 8.8
+  }
+}

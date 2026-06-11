@@ -1,0 +1,34 @@
+{
+  "video": {
+    "id": "vqiQOKmaMGA",
+    "title": "\"고점 예측 금지\" 어차피 주도주 바뀌지 않습니다. 진짜 챙겨야 할 대응의 영역은?ㅣ홍선애, 박병창 MP파트너스 [여의도 인사이트]",
+    "published": "2026-06-10T21:47:30+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=vqiQOKmaMGA",
+    "thumbnail": "https://img.youtube.com/vi/vqiQOKmaMGA/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "1. 극심한 시장 변동성(사이드카 빈번 작동) 속에서 개인 투자자들은 조급한 단기 거래(인파이터)를 지양하고, 시장 흐름을 한 발짝 물러서서 관망하는 <span class=\"text-cyan-300 font-semibold\">아웃복서의 태도</span>를 견지해야 합니다.\n2. 증시의 단기 고점을 인위적으로 예단하여 주도주를 성급히 처분하기보다는, 하방이 확인된 핵심 반도체 주도주 비중을 유지하는 전략이 합리적입니다.\n3. 매크로 충격과 옵션 만기, 증자 이슈에 따른 단기 수급 왜곡 속에서 리스크(레버리지) 통제 및 포트폴리오 압축만이 실질적인 대응의 영역입니다.",
+    "key_claims": [
+      "시장 참여자들이 단기 급등락에 흥분하고 절망하는 심리적 롤러코스터는 장기 자산 성장에 해가 되므로 <span class=\"text-amber-300 font-bold\">객관적 거리두기</span>가 최우선입니다.",
+      "단기 밸류에이션 고평가 논란에도 불구하고 AI 패러다임과 기업 실적 모멘텀상 <span class=\"text-cyan-300 font-semibold\">핵심 반도체 주도주의 위상</span>은 쉽게 변화하지 않을 것입니다.",
+      "개인이 통제할 수 없는 매크로(전쟁, 유가, 금리) 변수 예측에 몰두하기보다는 자신의 <span class=\"text-rose-400 font-medium\">신용/미수 레버리지 비율 축소</span>와 같은 대응에 집중해야 합니다."
+    ],
+    "data_points": [
+      "옵션 만기 및 지정학(미국-이란 보복 타격)에 따른 양시장 변동성 급증 상황 언급"
+    ],
+    "signal": "neutral",
+    "signal_confidence": "high",
+    "signal_reason": "단기 고점 확인과 매물 출회 국면이지만 주도주 위상의 훼손은 포착되지 않아 무리한 비중 축소나 신규 추격 매수 대신 계좌 내 리스크를 다스리는 중립적 관찰 구간입니다.",
+    "key_companies": [
+      "삼성전자(005930)",
+      "SK하이닉스(000660)"
+    ],
+    "insight": "변동성 국면에서 투자의 성패는 종목 예측이 아니라 자금의 성격(레버리지 유무)이 결정합니다. 고가 매수 대기 자금이 충분한 반도체 대장주는 <span class=\"text-cyan-300 font-semibold\">단기 매물 압박</span>을 소화한 뒤 강하게 반등할 것입니다.",
+    "action_point": "인위적인 단기 고점 매도 베팅(인버스 등)이나 섣부른 테마주 이동을 피하고, 60일선 등 기술적 지지선 안착을 확인한 뒤 <span class=\"text-cyan-300 font-semibold\">삼성전자 및 하이닉스</span>를 모아가는 기본형 전략에 충실해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "relevance_score": 9.5
+  }
+}
