@@ -8,25 +8,26 @@
     "thumbnail": "https://img.youtube.com/vi/YO4-HdQaPvA/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 역대급 IPO 상장을 앞두고 자금 유입 기대감과 유통 물량 부족으로 인한 상장 초기 오버슈팅 우려가 공존함. 실리콘밸리 전문가는 상장 초기 급등했다가 매물 출회로 하락하는 첫 2주간의 조정기를 기다린 후 진입하는 전략이 현명하다고 권고함.",
+    "summary": "실리콘밸리 전문가는 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 상장 초기에 유통 주식이 극도로 적어 변동성이 클 것이므로, 상장 직후 추격 매수보다는 과거 페이스북의 사례처럼 <span class=\"text-rose-400 font-medium\">첫 번째 가격 조정(상장 후 1~2주간 하락세)</span> 때 매수하는 것을 추천함.",
     "key_claims": [
-      "스페이스X 상장은 1.8조 달러 규모로 테슬라의 과거 상장 수준을 능가하며, 일론 머스크가 지분의 82% 이상을 쥐고 통제권을 행사하게 됨.",
-      "유통 주식 비율(부력)이 낮아 상장 직후 매수세 쏠림으로 폭등 가능성이 있으나, 결국 락업 해제 및 초기 기관 차익 실현으로 첫 2주 내 조정이 올 것임.",
-      "개인 투자자들의 관심이 폭발적이며 주식 거래 대금의 30% 수준의 변동을 소매 부문이 주도할 수 있음."
+      "일론 머스크가 스페이스X의 압도적 지분율(의결권 약 82%)을 기반으로 회사를 완전히 장악하고 있으며, 향후 <span class=\"text-cyan-300 font-semibold\">테슬라</span>와의 <span class=\"text-amber-300 font-bold\">합병 시나리오</span>를 통해 3.5조 달러 규모의 거대 테크 기업을 탄생시킬 가능성이 제기됨.",
+      "기관 대비 <span class=\"text-amber-300 font-bold\">개인 투자자(소매 투자)</span>들이 스페이스X IPO의 주요 매수 주체이며, 일론 머스크의 리더십에 대한 신뢰가 주가를 지탱하는 핵심 동력이다.",
+      "스페이스X와 테슬라의 합병은 머스크의 통제권 극대화 및 시너지 창출을 위한 조치가 될 수 있으나, <span class=\"text-rose-400 font-medium\">보상 구조 설계</span> 및 지배구조 합의 등 해결해야 할 규정상 난제가 많다."
     ],
     "data_points": [
-      "스페이스X IPO 평가 가치: 약 1.8조 달러 수준",
-      "일론 머스크의 스페이스X 지분율: 약 82% 수준"
+      "머니마켓 펀드(MMF) 내 대기 현금 규모: 약 7.78조 달러",
+      "스페이스X 상장 시 예상 시가총액: 1.8조 달러선 (테슬라는 약 1.6조 달러)",
+      "스페이스X 내 일론 머스크의 의결권 장악력: 약 82%"
     ],
-    "signal": "neutral",
-    "signal_confidence": "medium",
-    "signal_reason": "초대형 상장 흥행으로 장기적 성장성은 매우 긍정적이나, 극단적으로 적은 유통 물량과 레버리지 상품 쏠림으로 상장 초기 주가 변동성이 극대화될 것이기 때문임.",
+    "signal": "bullish",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 압도적인 우주 독점력과 머스크에 대한 개인 투자자들의 강한 신뢰를 고려할 때, <span class=\"text-rose-400 font-medium\">상장 초기 단기 조정</span> 이후 장기적인 주가 상승세는 매우 뚜렷함.",
     "key_companies": [
-      "스페이스X",
-      "테슬라(TSLA)"
+      "SpaceX",
+      "Tesla",
+      "Facebook"
     ],
-    "insight": "일론 머스크에게 스페이스X는 테슬라보다 훨씬 더 수익성 높은 보상 체계와 통제권을 제공하는 핵심 제국임. 소수의 유통 물량으로 주가를 띄운 뒤 데이터센터(XAI) 및 지상 인프라 자금 수혈을 꾀하는 구조를 이해해야 함.",
-    "action_point": "상장 첫날의 광풍에 추격 매수하기보다는, 페이스북 사례처럼 상장 후 첫 1~2주간 매물이 출회되어 주가가 안정을 찾을 때 진입하는 분할 매수 타이밍을 권장함."
+    "insight": "스페이스X 투자는 단순히 우주 비즈니스에 대한 배팅이 아닌 '일론 머스크의 지배력 및 추진력'에 대한 배팅(소매 중심의 팬덤 투자)이다. <span class=\"text-cyan-300 font-semibold\">테슬라</span>가 이사회와 소송 리스크로 머스크의 지배력 강화에 어려움을 겪는 반면, <span class=\"text-cyan-300 font-semibold\">스페이스X</span>는 머스크가 <span class=\"text-amber-300 font-bold\">완전한 통제권(82% 의결권)</span>을 확보하고 있다. 상장 후 유통 물량이 적어 발생하는 <span class=\"text-rose-400 font-medium\">수급적 이상 변동</span>이 지나간 후 테슬라와의 합병 시나리오가 현실화될 때 본격적인 가치 재평가가 이뤄질 것이다.",
+    "action_point": "상장 첫날의 과열 국면에서는 매수를 자제하고, 상장 후 1~2주 내에 찾아올 <span class=\"text-rose-400 font-medium\">첫 가격 조정(락업 해제 또는 수급 진정 국면)</span>을 기회로 비중을 확보하는 장기 적립식 투자 전략을 권장한다."
   },
   "classification": {
     "primary_topic": "space",
@@ -35,10 +36,11 @@
       "tech"
     ],
     "tags": [
-      "SpaceX",
-      "IPO",
-      "일론머스크",
-      "변동성"
+      "스페이스X",
+      "SPCX",
+      "IPO전략",
+      "테슬라합병",
+      "지배구조"
     ]
   }
 }

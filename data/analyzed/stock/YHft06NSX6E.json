@@ -1,0 +1,49 @@
+{
+  "video": {
+    "id": "YHft06NSX6E",
+    "title": "[빈난새의 개장전요것만-6월12일] SPCX 주가 어떻게 흐를까 | 이란 합의 향후 쟁점 | 나스닥100 편출입 | 어도비 AMD 아스테라랩스 로켓랩 네비우스 코어위브 테슬라",
+    "published": "2026-06-12T14:22:27+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=YHft06NSX6E",
+    "thumbnail": "https://img.youtube.com/vi/YHft06NSX6E/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "역사상 최대 규모인 <span class=\"text-cyan-300 font-semibold\">스페이스X(티커: SPCX)</span>의 나스닥 상장을 앞두고 시장의 유동성 흡수 우려와 연구 선물 거래 가격의 급등(30% 프리미엄) 등 강한 수급 쏠림 현상이 나타남.",
+    "key_claims": [
+      "이란과 미국의 종전 합의(MO) 기대감으로 유가가 90달러 밑으로 하락하며 물가 부담을 덜었으나, 이스라엘의 반발 등 중동 지정학적 리스크의 완전한 해소 여부는 여전히 <span class=\"text-rose-400 font-medium\">돌발 변수</span>로 남아 있다.",
+      "<span class=\"text-cyan-300 font-semibold\">어도비</span>는 호실적에도 불구하고 무료 AI 유인책(<span class=\"text-rose-400 font-medium\">프리미엄 전략</span>)에 따른 수익성 저하 우려로 주가가 8% 급락한 반면, 골드만삭스는 하이퍼스케일러들의 <span class=\"text-amber-300 font-bold\">AI 인프라 투자(CAPEX)</span>가 내년 1조 달러를 돌파할 것이라며 반도체 중심의 강력한 성장세를 전망함.",
+      "나스닥 100 지수에 AI 및 우주 테크 기업들(아스테라랩스, 로켓랩 등)이 대거 편입된 것은 <span class=\"text-amber-300 font-bold\">미국 성장주 세대교체</span>의 단면을 보여준다."
+    ],
+    "data_points": [
+      "스페이스X 공모가: 135달러 (상장 시총 약 1.8조 달러), 연구 선물 거래가: 170~173달러선 형성",
+      "골드만삭스의 내년 글로벌 AI CAPEX 전망: 기존 9,200억 달러에서 1조 달러 이상으로 상향",
+      "어도비 주가: 실적 발표 후 8~9% 급락 (수익성 지표가 시장 예상치를 하회한 여파)"
+    ],
+    "signal": "neutral",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">스페이스X 상장</span>과 중동 종전 합의 조짐은 장기적인 호재이나, 대형 기술주의 단기 <span class=\"text-rose-400 font-medium\">차익 실현 압력</span> 및 어도비의 AI 수익화 지연 충격이 겹쳐 시장 변동성이 큰 상태임.",
+    "key_companies": [
+      "SpaceX",
+      "Adobe",
+      "AMD",
+      "Tesla",
+      "Astera Labs",
+      "Rocket Lab"
+    ],
+    "insight": "이번 시장의 초점은 두 가지 패러다임이다. 첫째는 스페이스X 상장으로 대표되는 <span class=\"text-amber-300 font-bold\">우주·AI 결합 인프라 비전</span>의 가속화이며, 둘째는 어도비에서 확인된 <span class=\"text-rose-400 font-medium\">AI 비즈니스의 수익화 증명 시험대</span>다. 골드만삭스의 전망처럼 빅테크의 CAPEX가 1조 달러에 육박하는 환경에서, 하드웨어 공급업체(<span class=\"text-cyan-300 font-semibold\">AMD</span>, 아스테라랩스 등)는 실질적인 수혜를 누리는 반면, 소프트웨어 업체는 무료 AI 서비스 제공 비용 부담이라는 모순에 처해 있다.",
+    "action_point": "수익성이 즉각 확인되지 않는 소프트웨어 기업(어도비 등)에 대한 투자는 신중하게 접근하고, <span class=\"text-cyan-300 font-semibold\">스페이스X</span> 상장 후 지수 편입 일정에 따른 수급 유입 경로 및 확실한 하드웨어 수혜주에 포커스를 맞춰야 한다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy",
+      "space"
+    ],
+    "tags": [
+      "스페이스X상장",
+      "어도비실적",
+      "AI수익화",
+      "나스닥100편입",
+      "글로벌증시"
+    ]
+  }
+}

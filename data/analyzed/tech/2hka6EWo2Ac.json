@@ -1,0 +1,48 @@
+{
+  "video": {
+    "id": "2hka6EWo2Ac",
+    "title": "CXMT, YMTC에 투자하고 싶다면? | RE포트 | 2026.6.12(금)",
+    "published": "2026-06-12T00:00:12+00:00",
+    "channel_name": "Smart Money by MiraeAsset ",
+    "url": "https://www.youtube.com/watch?v=2hka6EWo2Ac",
+    "thumbnail": "https://img.youtube.com/vi/2hka6EWo2Ac/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "중국 정부가 국가 주도로 반도체 자급률을 80% 이상으로 끌어올리려는 전략에 맞춰, 중국의 대표적인 D램 기업인 CXMT와 낸드(NAND) 기업 YMTC가 <span class=\"text-violet-300 font-medium\">과창판(Star Market) 기업 공개(IPO)</span>를 준비하고 있습니다. 국내 투자자의 직접 투자가 불가능한 이들 기업의 IPO 수혜를 누리기 위한 대안으로 <span class=\"text-cyan-300 font-semibold\">차이나 반도체 관련 ETF</span>가 유망한 투자 수단으로 제시되고 있습니다. 변동성이 커진 국내 증시에서도 주도주인 삼성전자와 SK하이닉스는 강력한 이익 성장세와 글로벌 장기 공급 계약 수주에 힘입어 <span class=\"text-cyan-300 font-semibold\">장기적인 펀더멘탈 강화 흐름</span>을 보이고 있습니다.",
+    "key_claims": [
+      "미국의 제재 속에서도 중국은 AI 국가 경쟁력 확보를 위해 <span class=\"text-violet-300 font-medium\">국산 메모리 자급화 정책</span>에 강하게 드라이브를 걸고 있다.",
+      "CXMT와 YMTC의 상장은 대규모 설비 투자 및 기술 격차 단축을 가속화해 중장기적으로 글로벌 메모리 시장의 <span class=\"text-rose-400 font-medium\">경쟁 구도 다변화 리스크</span>를 야기할 것이다.",
+      "직접 투자가 제한된 중국 비상장 첨단 기술 기업에 선제 진입하기 위해서는 해당 기업들이 편입될 가능성이 높은 <span class=\"text-cyan-300 font-semibold\">테마형 반도체 ETF</span>를 적극 활용해야 한다."
+    ],
+    "data_points": [
+      "CXMT 공모 규모 약 6.7조 원(295억 위안) 전망, 글로벌 D램 점유율 7.6%(세계 4위)",
+      "YMTC 최신 294단 3D TLC 낸드 플래시 기술 공개, 글로벌 낸드 점유율 15% 확대 목표",
+      "중국 AI 및 데이터센터 인프라 향후 5년간 약 450조 원(2조 위안) 투자 발표"
+    ],
+    "signal": "bullish",
+    "signal_reason": "중국의 막대한 반도체 육성 자금 유입과 <span class=\"text-cyan-300 font-semibold\">CXMT/YMTC의 상장 모멘텀</span>이 차이나 반도체 밸류체인 전반의 밸류에이션을 상승시킬 기회입니다.",
+    "key_companies": [
+      "CXMT",
+      "YMTC",
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "insight": "미국의 대중 규제 장벽을 넘기 위한 중국의 반도체 자급화 의지는 단순한 구호에 그치지 않고 대규모 자본 시장 IPO와 대규모 국가 보조금 투입으로 현실화되고 있으며, 이는 글로벌 반도체 투자 지형을 재편하는 <span class=\"text-violet-300 font-medium\">지정학적 헤게모니 싸움</span>의 핵심 국면입니다.",
+    "action_point": "중국 내수 반도체 시장 성장에 동참하기 위해 포트폴리오의 일부를 <span class=\"text-cyan-300 font-semibold\">글로벌엑스 차이나 반도체 ETF 등 관련 펀드</span>에 분할 매수하고, 동시에 압도적 기술 우위를 가진 삼성전자와 SK하이닉스의 HBM 리더십을 지속 확인하며 양방향 투자 균형을 잡아야 합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock",
+      "economy"
+    ],
+    "tags": [
+      "중국반도체",
+      "CXMT",
+      "YMTC",
+      "반도체ETF",
+      "삼성전자",
+      "SK하이닉스"
+    ]
+  }
+}

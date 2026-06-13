@@ -1,0 +1,50 @@
+{
+  "video": {
+    "id": "9_RPDPOIeiY",
+    "title": "미국 증시, 종전 기대에 물가 부담 딛고 상승 마감 | 데일리 라이브 | 2026.6.12(금)",
+    "published": "2026-06-12T11:36:41+00:00",
+    "channel_name": "Smart Money by MiraeAsset ",
+    "url": "https://www.youtube.com/watch?v=9_RPDPOIeiY",
+    "thumbnail": "https://img.youtube.com/vi/9_RPDPOIeiY/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "트럼프 미 대통령의 이란 공습 정격 취소 및 평화 합의 임박 소식으로 국제 유가가 급락하며 <span class=\"text-amber-300 font-bold\">뉴욕 3대 지수가 일제히 급등 마감</span>했습니다. 국내 증시에서는 메모리 가격 상승과 장기 공급 계약 수혜로 삼성전자(2분기 영업익 전망 98조 원)와 SK하이닉스(71조 원) 등 <span class=\"text-cyan-300 font-semibold\">반도체 대형주의 이익 전망치 상향</span>이 이어지고 있습니다. 유럽중앙은행(ECB)의 물가 대응 기준금리 인상(2.25%) 및 원/달러 환율의 1,950원대 돌파 등 <span class=\"text-rose-400 font-medium\">거시경제적 긴축 우려와 고환율 부담</span>은 리스크 요인으로 상존합니다.",
+    "key_claims": [
+      "트럼프 정부의 중동 협상 진전 기대감이 매크로 물가 불안(PPI 상회)을 상쇄하고 <span class=\"text-amber-300 font-bold\">강력한 투자 심리 개선</span>을 이끌었다.",
+      "빅테크들의 AI 설비 투자(Capex) 선점 경쟁으로 모바일 D램(2분기 81% 상승) 및 고용량 서버 SSD 가격이 <span class=\"text-cyan-300 font-semibold\">동반 폭등세</span>를 나타내고 있다.",
+      "고유가와 고환율 장기화로 항공업종 등 내수·소비재 섹터는 비용 부담 가중으로 <span class=\"text-rose-400 font-medium\">수익성 양극화</span>가 심화될 것이다."
+    ],
+    "data_points": [
+      "다우 +1.86%, S&P500 +1.75%, 나스닥 +2.54% 동반 폭등",
+      "국제유가(WTI) 2.58% 하락한 배럴당 87.71달러 기록",
+      "원/달러 환율 1,950원 선 돌파하며 원화 약세 심화",
+      "삼성전자 2분기 영업이익 전망치 기존 89조 원에서 98조 원으로 상향 조정",
+      "SK하이닉스 2분기 영업이익 전망치 기존 68조 원에서 71조 원으로 상향 조정"
+    ],
+    "signal": "bullish",
+    "signal_reason": "중동 평화 협상 타결 가능성에 따른 유가 안정과 <span class=\"text-cyan-300 font-semibold\">반도체 투톱의 역대급 실적 추정치 상향</span>이 국내외 증시의 상승 랠리를 탄탄하게 이끌고 있습니다.",
+    "key_companies": [
+      "삼성전자",
+      "SK하이닉스",
+      "인텔",
+      "대한항공"
+    ],
+    "insight": "현 시장은 금리 인하라는 매크로 호재가 부재한 상황에서도 <span class=\"text-cyan-300 font-semibold\">지정학적 리스크 완화와 메모리 초호황</span>이라는 두 축으로 상승 동력을 확보하고 있으며, 특히 공급 병목 현상이 지속되는 HBM 및 범용 메모리 시장의 공급자 우위가 장기화될 가능성이 높습니다.",
+    "action_point": "고환율과 고유가 리스크에 취약한 LCC(저비용항공사)나 일반 내수주 비중은 줄이고, 압도적 실적 상향과 장기 계약 안정성을 갖춘 <span class=\"text-cyan-300 font-semibold\">삼성전자, SK하이닉스 및 대형 FSC(대한항공)</span> 위주로 포트폴리오를 다변화해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy",
+      "tech",
+      "space"
+    ],
+    "tags": [
+      "미국증시",
+      "삼성전자",
+      "SK하이닉스",
+      "환율",
+      "중국반도체"
+    ]
+  }
+}

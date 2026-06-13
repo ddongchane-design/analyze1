@@ -1,0 +1,48 @@
+{
+  "video": {
+    "id": "7K77dpu5HY8",
+    "title": "골드만 삭스 휴머노이드 최대 수혜는 한국 공급망, 로보티즈 HL만도 현대차",
+    "published": "2026-06-12T10:50:54+00:00",
+    "channel_name": "엔지니어TV",
+    "url": "https://www.youtube.com/watch?v=7K77dpu5HY8",
+    "thumbnail": "https://img.youtube.com/vi/7K77dpu5HY8/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "골드만삭스 보고서에 따르면 휴머노이드 로봇 시장의 폭발적인 성장에서 국내 부품 및 공급망 기업인 로보티즈, HL만도 등이 <span class=\"text-cyan-300 font-semibold\">핵심 공급망 수혜주</span>로 주목받고 있습니다. 글로벌 사족보행 및 휴머노이드 출하량 1위인 유니트리(Unitree)가 IPO를 준비하는 과정에서 R&D 지출 증가로 이익이 52% 급감하는 등 <span class=\"text-rose-400 font-medium\">로봇 업계의 단기 수익성 악화</span> 현상이 확인되었습니다. 주요 선진국들이 로봇을 국가 안보 및 노동 구조 개혁을 위한 전략적 인프라로 다루는 만큼, 한국 정부도 초기 수요 창출과 <span class=\"text-amber-300 font-bold\">국가 차원의 로봇 산업 육성책</span>을 서둘러 구축해야 한다는 목소리가 높습니다.",
+    "key_claims": [
+      "휴머노이드 로봇은 단순 IT 기기가 아니라 노동력 대체, 국가 국방 및 제조 주권을 결정하는 <span class=\"text-amber-300 font-bold\">핵심 안보 인프라 산업</span>이다.",
+      "미국(국방), 중국(정부 보급), 일본(고령화 대응)에 비해 한국 정부의 <span class=\"text-rose-400 font-medium\">초기 시장 수요 창출 및 지원 적극성</span>이 상대적으로 약하다.",
+      "중국의 가격 경쟁력과 테슬라 옵티머스의 진입 장벽 속에서 한국 로봇 공급망은 정밀 감속기, 액추에이터 등 <span class=\"text-cyan-300 font-semibold\">특화 부품 분야 독점력</span>을 확보해야 생존 가능하다."
+    ],
+    "data_points": [
+      "글로벌 로봇 출하량 1위 유니트리 로보틱스, 최근 영업이익 52% 감소 기록",
+      "중국 정부 주도의 로봇 산업 육성 및 미국 국방 중심의 휴머노이드 개발 지속",
+      "정밀 제어 감속기 및 섀시 부품 공급 기업들의 대규모 납품 계약 추진 중"
+    ],
+    "signal": "bullish",
+    "signal_reason": "골드만삭스가 한국 로봇 공급망의 글로벌 경쟁력을 높이 평가했고, 휴머노이드가 단순 테마를 넘어 <span class=\"text-cyan-300 font-semibold\">국가 안보 및 제조 주권 경쟁의 핵심 섹터</span>로 부각되고 있기 때문입니다.",
+    "key_companies": [
+      "로보티즈",
+      "HL만도",
+      "현대자동차",
+      "유니트리"
+    ],
+    "insight": "휴머노이드 로봇 산업은 제조업 혁명을 넘어 국가 안보와 인구 감소 극복의 최종 병기가 될 것이며, 앞으로의 경쟁은 \"누가 더 고성능 로봇을 만드느냐\"가 아니라 <span class=\"text-cyan-300 font-semibold\">\"누가 더 많은 로봇을 실제 산업 현장에 도입해 생산성을 올리느냐\"</span>로 전환될 것입니다.",
+    "action_point": "단기 실적 모멘텀은 부진할 수 있으나, 골드만삭스가 픽한 <span class=\"text-cyan-300 font-semibold\">로보티즈(감속기/액추에이터), HL만도(로봇 섀시 및 구동부)</span> 등 실물 공급망 핵심 기술 보유 기업에 대한 장기적 관점의 분할 매수 전략이 유효합니다."
+  },
+  "classification": {
+    "primary_topic": "robot",
+    "secondary_topics": [
+      "tech",
+      "stock"
+    ],
+    "tags": [
+      "휴머노이드",
+      "로봇공급망",
+      "유니트리",
+      "골드만삭스",
+      "로보티즈",
+      "HL만도"
+    ]
+  }
+}

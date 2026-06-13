@@ -1,0 +1,49 @@
+{
+  "video": {
+    "id": "2Dj09apoVMs",
+    "title": "CNN \"미국-이란 협상 여전히 진행중\"ㅣ스페이스X 첫 커버리지, 목표가 165달러ㅣ오픈AI, 경쟁력 확보 위해 가격인하 검토 ㅣ홍키자의 매일뉴욕",
+    "published": "2026-06-11T14:34:55+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=2Dj09apoVMs",
+    "thumbnail": "https://img.youtube.com/vi/2Dj09apoVMs/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국의 5월 생산자물가지수(PPI) 상승률이 예상을 웃돌았음에도 불구하고, 트럼프 행정부의 미국-이란 평화합의 체결 임박 소식과 유가 급락에 힘입어 <span class=\"text-amber-300 font-bold\">뉴욕 증시가 동반 상승 마감</span>했습니다. 기업 공개를 눈앞에 둔 스페이스X(SpaceX)에 대해 투자은행 제프리스 등은 공모가인 135달러 대비 높은 <span class=\"text-cyan-300 font-semibold\">165달러의 목표주가</span>를 제시하며 첫 커버리지를 개시했습니다. AI 경쟁 심화 속에서 오픈AI가 경쟁력을 확보하기 위해 서비스 가격 인하를 검토 중인 가운데, 뱅크오브아메리카(BofA)가 <span class=\"text-cyan-300 font-semibold\">인텔(INTEL)의 투자 의견을 상향</span>하며 기술주 랠리를 자극했습니다.",
+    "key_claims": [
+      "유가 급락과 중동 종전 양해각서(MOU) 타결 소식이 인플레이션 지표 악재보다 더 큰 <span class=\"text-amber-300 font-bold\">투자 심리 회복제</span>로 작용했다.",
+      "스페이스X 상장은 단기적으로 시장의 유동성을 강하게 빨아들이는 요인이 되며, 상장 초기 <span class=\"text-rose-400 font-medium\">극심한 변동성</span>을 보일 것이다.",
+      "오픈AI의 가격 인하 검토는 AI 인프라 확대로 인한 공급 과잉과 <span class=\"text-rose-400 font-medium\">플랫폼 단가 인하 압력(치킨 게임)</span>의 신호탄일 수 있다."
+    ],
+    "data_points": [
+      "미국 5월 PPI 전월 대비 1.1% 상승 (시장 예상치 0.7% 상회)",
+      "스페이스X 공모가 135달러 확정, 주요 투자사 목표가 165달러 제시",
+      "BofA, 인텔 투자 의견을 '시장 수익률 하회'에서 '매수'로 두 단계 상향하며 인텔 주가 9.27% 급등",
+      "오라클 실적 호조에도 대규모 자금 조달 발표로 8.53% 급락"
+    ],
+    "signal": "bullish",
+    "signal_reason": "지정학적 긴장 완화에 따른 국제유가 하락과 <span class=\"text-cyan-300 font-semibold\">스페이스X IPO 호재</span>, 빅테크 기업들의 강력한 AI 성장 잠재력이 지수 상승을 주도하고 있습니다.",
+    "key_companies": [
+      "스페이스X",
+      "인텔",
+      "오픈AI",
+      "오라클",
+      "어도비"
+    ],
+    "insight": "PPI 물가 지표 충격을 이겨낸 뉴욕 증시의 상승세는 단순한 지표 의존성을 넘어 <span class=\"text-cyan-300 font-semibold\">지정학적 리스크 해소와 대형 테크 IPO</span>라는 새로운 모멘텀에 시장이 더 민감하게 반응하고 있음을 나타내며, 특히 AI PC 및 CPU 시장으로의 AI 밸류체인 다변화 조짐(인텔 상향)을 눈여겨봐야 합니다.",
+    "action_point": "단기 고평가 논란과 유동성 분산이 예상되는 스페이스X 직접 투자보다는, 하방 압력을 극복하고 투자 의견이 상향된 <span class=\"text-cyan-300 font-semibold\">인텔 등 전통 실적 반도체주</span> 및 AI 서비스 가격 인하 경쟁에 따른 최대 수혜처인 클라우드/인프라 기업에 주목해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "space"
+    ],
+    "tags": [
+      "미국증시",
+      "스페이스X",
+      "오픈AI",
+      "인텔",
+      "SK하이닉스"
+    ]
+  }
+}

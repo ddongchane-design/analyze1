@@ -1,0 +1,51 @@
+{
+  "video": {
+    "id": "LoJ3fEo8qGg",
+    "title": "[김종학의 뉴욕, 지금-6월13일] 시가총액 7위 스페이스X..머스크 자산 1조 달러 돌파 | IPO 수수료만 총 5억 달러..월가 은행들 초대박 | 마이크론, 블랙록, 찰스슈왑",
+    "published": "2026-06-12T21:20:36+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=LoJ3fEo8qGg",
+    "thumbnail": "https://img.youtube.com/vi/LoJ3fEo8qGg/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "1. 뉴욕 증시 상장 첫날을 맞이한 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>가 공모가 대비 19% 급등하여 시가총액 7위 기업으로 화려하게 데뷔했습니다.\n2. 미국과 이란 간의 최종 핵/평화 합의 도출 가능성이 80~85% 수준으로 높아짐에 따라 서부텍산 원유(<span class=\"text-cyan-300 font-semibold\">WTI</span>)가 배럴당 84.26달러까지 급락했습니다.\n3. 초대형 IPO 성공에 따라 월가 주요 은행들(<span class=\"text-cyan-300 font-semibold\">골드만삭스</span>, 모건스탠리 등)이 막대한 인수 수수료 수익을 올리며 금융 섹터 호실적을 견인했습니다.",
+    "key_claims": [
+      "공모가 135달러에서 시초가 150달러 형성 후 장중 최고 175달러 기록, 종가 160.95달러 안착으로 강력한 투자 수요 입증",
+      "미-이란 간 제네바 긴급 회동 및 G7 전후 최종 합의 기대감이 고조되며 지정학적 유가 압박 요인이 해소 중임",
+      "개인 투자자들의 매수 폭주로 <span class=\"text-rose-400 font-medium\">로빈후드 거래 장애</span>가 발생할 만큼 극단적인 자금 쏠림 현상이 나타남"
+    ],
+    "data_points": [
+      "스페이스X 상장 첫날 공모가 135달러 대비 19.2% 상승한 160.95달러 마감",
+      "상장 첫날 조달한 자금 규모 총 750억 달러",
+      "서부텍사스산 원유(WTI) 배럴당 3.93% 하락한 84.26달러 마감",
+      "골드만삭스, 모건스탠리 인수 수수료 요율 0.7% 기준으로 각각 약 1억 달러의 주관 수수료 획득",
+      "개인 투자자 주문이 폭주하며 거래소 주문 오작동 시간 약 30분 지속"
+    ],
+    "signal": "bullish",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">스페이스X 상장 성공</span>에 따른 시장 유동성 입증과 지정학적 리스크 완화로 인한 <span class=\"text-amber-300 font-bold\">유가 급락</span>은 주식 시장 전반에 긍정적인 신호입니다.",
+    "key_companies": [
+      "스페이스X",
+      "골드만삭스",
+      "모건스탠리",
+      "로빈후드",
+      "마이크론",
+      "블랙록"
+    ],
+    "insight": "스페이스X의 상장은 단기적으로 대형 기술주(엔비디아 등)의 수급을 흡수하는 <span class=\"text-rose-400 font-medium\">유동성 블랙홀</span> 역할을 했으나, 중장기적으로는 글로벌 자본 시장의 딜 메이킹 부활 신호탄입니다. 더불어 유가 하락이 다음 주 예정된 연준 FOMC의 통화 정책 긴축 압박을 희석해 주는 타이밍 좋은 매크로 안도감을 제공하고 있습니다.",
+    "action_point": "지해주관사인 금융 플랫폼 및 월가 IB 은행의 수수료 수혜와 더불어, 우주 테크 상장에 따른 관련 장비 공급망 기업의 주가 재조정 기회를 포착하고 <span class=\"text-cyan-300 font-semibold\">WTI 하락</span>에 따른 에너지 비용 절감 수혜주를 탐색해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "space",
+      "economy"
+    ],
+    "tags": [
+      "스페이스X",
+      "IPO",
+      "유가하락",
+      "미이란합의",
+      "뉴욕증시"
+    ]
+  }
+}

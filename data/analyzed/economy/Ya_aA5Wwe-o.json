@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "Ya_aA5Wwe-o",
+    "title": "중동 전쟁이 쏘아 올린 공포! 미 연준이 매파로 급변한 이유 #교양이를부탁해",
+    "published": "2026-06-11T11:15:29+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=Ya_aA5Wwe-o",
+    "thumbnail": "https://img.youtube.com/vi/Ya_aA5Wwe-o/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "중동 지역의 <span class=\"text-rose-400 font-medium\">이란 전쟁 장기화</span>로 에너지가격 상승이 물가 전반에 영향을 미쳐 기대 인플레이션이 상승하자, <span class=\"text-cyan-300 font-semibold\">미 연준(Fed)</span>을 필두로 글로벌 중앙은행들이 <span class=\"text-amber-300 font-bold\">금리 인상 네러티브</span>를 다시 강화하고 있음.",
+    "key_claims": [
+      "연준 내부에 금리 동결 스탠스에 반대하며 인상을 주장하는 위원들이 늘어나는 분열 조짐 속에, 차기 연준 리더십으로 유력한 매파 성향의 <span class=\"text-cyan-300 font-semibold\">케빈 워시</span>의 합류가 연준의 <span class=\"text-amber-300 font-bold\">매파적 색채 전환</span>을 자극하고 있다.",
+      "5월 비농업 고용 지표가 예상치를 크게 웃도는 서프라이즈를 기록하자, 연준은 경기 침체 우려를 덜고 오직 <span class=\"text-rose-400 font-medium\">물가 안정(금리 인상 카드 검토)</span>에만 집중할 수 있는 든든한 기초 체력을 확보하게 되었다.",
+      "물가 통제력을 완전히 잃을지 모른다는 연준의 공포가 시장의 금리 인하 낙관론에 강력한 경고등을 켜고 있다."
+    ],
+    "data_points": [
+      "5월 비농업 고용 증가수: 170,000명 기록 (시장 예상치 130,000명 크게 상회)",
+      "FMC 의사록 결과: 4명의 위원이 동결 스탠스에 반대 (3명 인상 주장, 1명 인하 주장)"
+    ],
+    "signal": "bearish",
+    "signal_reason": "중동 지정학적 위기에 따른 인플레이션 전이와 미국의 <span class=\"text-rose-400 font-medium\">고용 강세</span>가 연준의 <span class=\"text-amber-300 font-bold\">매파적 긴축 정책(금리 인상 리스크)</span>을 자극하여 위험자산 시장에 하방 압력을 가함.",
+    "key_companies": [
+      "Federal Reserve",
+      "US Government"
+    ],
+    "insight": "연준이 금리 인하 카드를 접고 금리 인상 가능성까지 열어두기 시작한 것은 경제 펀더멘털의 강함 때문이 아니라 <span class=\"text-rose-400 font-medium\">물가 통제력을 잃을 수 있다는 공포</span> 때문이다. 특히 차기 의장 후보로 꼽히는 <span class=\"text-cyan-300 font-semibold\">케빈 워시</span>의 조기 등판설과 고용 서프라이즈의 결합은 연준의 정책 경로를 '안정적 동결'에서 '매파적 긴축 재개'로 유도하고 있어, 하반기 매크로 시장에 예상보다 큰 <span class=\"text-rose-400 font-medium\">긴축 발작 변동성</span>을 몰고 올 수 있다.",
+    "action_point": "금리 인상 가능성 재부각에 따른 달러 강세 및 채권 금리 상승에 대비해 자산 배분에서 현금 비중을 확보하고, 금리 민감도가 높은 고밸류에이션 기술주 비중을 조절해야 한다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "연준통화정책",
+      "금리인상",
+      "물가두려움",
+      "케빈워시",
+      "고용서프라이즈"
+    ]
+  }
+}

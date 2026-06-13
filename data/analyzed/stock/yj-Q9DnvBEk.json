@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "yj-Q9DnvBEk",
+    "title": "밀리면 사라 했는데, 하루에 10%가 오른다고? | 빈센트 & 장우진 & 정프로 [더블 체크]",
+    "published": "2026-06-12T06:49:46+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=yj-Q9DnvBEk",
+    "thumbnail": "https://img.youtube.com/vi/yj-Q9DnvBEk/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "코스피 지수가 단 3일 만에 <span class=\"text-cyan-300 font-semibold\">8,400선을 회복</span>하며 삼성전자와 SK하이닉스 등 대형 반도체주가 하루 만에 <span class=\"text-cyan-300 font-semibold\">약 10% 급등</span>하는 역사적 랠리를 펼쳤습니다. 야간 선물 7% 상승 및 MSCI Korea ETF(EWY)의 <span class=\"text-cyan-300 font-semibold\">11% 폭등</span> 등 해외 자금 유입이 확인되었습니다. 전문가들은 주가 하락 시 매수하는 <span class=\"text-amber-300 font-bold\">밀사(밀리면 사라) 전략</span>이 여전히 유효하다고 진단했습니다.",
+    "key_claims": [
+      "코스피 지수가 8,400선을 단기 수복하며 시장의 <span class=\"text-amber-300 font-bold\">하방 경직성과 복원력</span>이 입증되었습니다.",
+      "반도체 대장주의 하루 10% 내외 급등은 일시적 수급 이탈 이후 <span class=\"text-cyan-300 font-semibold\">메모리 주도권의 강인함</span>을 대변합니다.",
+      "조정장마다 반복되는 공포 투매를 피하고 <span class=\"text-amber-300 font-bold\">기계적 분할 매수</span>로 대응하는 자세가 승률을 높입니다."
+    ],
+    "data_points": [
+      "코스피 지수 8,400선 돌파 및 단기 회복",
+      "야간 선물 지수 7% 급등, MSCI 코리아 ETF(EWY) 11% 폭등",
+      "삼성전자, SK하이닉스 등 대형 반도체주 주가 하루 만에 10% 안팎 급등"
+    ],
+    "signal": "bullish",
+    "signal_reason": "주요 반도체 대형주가 10%대 반등에 성공하며 지수 <span class=\"text-cyan-300 font-semibold\">8,400선 돌파</span>를 이끄는 등 강세장 기조가 강력히 복원되었으므로 매우 <span class=\"text-cyan-300 font-semibold\">긍정적(Bullish)</span>입니다.",
+    "key_companies": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "insight": "이번 급반등은 글로벌 자금 배분(스페이스X IPO 관련 수급 조정 등)으로 발생한 한국 증시의 단기 낙폭 과대가 <span class=\"text-rose-400 font-medium\">강력한 저가 매수세</span>를 자극했음을 보여줍니다. 기초 체력(이익)이 탄탄한 반도체 섹터의 복원 속도가 가장 빠르게 나타나고 있습니다.",
+    "action_point": "급등 시점에 추격 매수하기보다, 포트폴리오 내 반도체 비중을 든든히 채운 채 향후 흔들림이 있을 때마다 <span class=\"text-amber-300 font-bold\">'밀사' 전략</span>으로 추가 수량을 확보해 나가야 합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "코스피8400",
+      "삼성전자",
+      "SK하이닉스",
+      "밀사전략",
+      "지수급등",
+      "삼프로TV"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "T6DdPYultN8",
+    "title": "\"상상도 못한 결정\" 판을 엎어버린 머스크의 광기, 스페이스X 진짜 실체 ㄷㄷ",
+    "published": "2026-06-12T09:00:02+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=T6DdPYultN8",
+    "thumbnail": "https://img.youtube.com/vi/T6DdPYultN8/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "일론 머스크가 지구에서의 태양광 사업을 축소하는 대신, <span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 상장 신고서를 통해 <span class=\"text-amber-300 font-bold\">우주 태양광 기반 AI 데이터 센터</span> 구축이라는 파괴적인 비전을 제시함.",
+    "key_claims": [
+      "지구상의 <span class=\"text-rose-400 font-medium\">전력망 노후화 및 AI 전력난</span>, 그리고 환경 오염 및 입지(NIMBY) 규제 문제를 해결하기 위해, <span class=\"text-cyan-300 font-semibold\">스타십</span>의 초저비용 우주 수송 능력을 활용하여 지구 저궤도에 위성형 서버를 띄워 24시간 무제한 전력을 얻는 구상임.",
+      "스타십의 성공으로 우주 1kg 수송 비용이 200달러 이하로 떨어질 경우, 우주 데이터 센터가 지상보다 에너지 및 부지 관점에서 더욱 경제적이 된다.",
+      "스페이스X의 진정한 가치는 단순 발사체 제조사가 아닌 우주 통신(스타링크)과 전력 인프라를 독점하는 <span class=\"text-amber-300 font-bold\">우주 플랫폼 독점 기업</span>에 있다."
+    ],
+    "data_points": [
+      "AI 컴퓨팅 필요 전력 급증 (1TW는 원전 1,000기급 전력)",
+      "한국의 태양광 셀 시장 내 중국산 점유율: 2019년 38% -> 2023년 74% -> 현재 95%",
+      "우주 수송 임계 비용: 200달러/kg 이하 달성 시 우주 데이터 센터가 더 효율적"
+    ],
+    "signal": "bullish",
+    "signal_reason": "<span class=\"text-rose-400 font-medium\">지상의 전력난과 부지 제한</span>을 극복하고, 대체 불가능한 우주 통신(스타링크) 및 초저가 발사(스타십) 기술을 결합하여 독점적 <span class=\"text-amber-300 font-bold\">우주 인프라 비즈니스</span>의 선점 효과가 막강함.",
+    "key_companies": [
+      "SpaceX",
+      "Tesla",
+      "NVIDIA",
+      "xAI"
+    ],
+    "insight": "머스크가 화성 이주를 표방하지만, 현실적인 단기 비즈니스의 핵심은 지구 저궤도에 <span class=\"text-amber-300 font-bold\">우주 클라우드 인프라</span>를 구축하는 것이다. 지상에서는 송배전 한계와 주민 반대로 전력망 확보가 극도로 지체되는 반면, 대기권 밖에서는 공짜 태양광을 24시간 받으며 서버를 냉각할 수. <span class=\"text-cyan-300 font-semibold\">엔비디아</span>가 칩 생태계(CUDA)로 지상을 장악했듯, <span class=\"text-cyan-300 font-semibold\">스페이스X</span>는 물리적 수송과 통신망을 장악해 우주 인프라의 독점 지배자가 되려 하고 있다.",
+    "action_point": "향후 <span class=\"text-cyan-300 font-semibold\">스페이스X</span> IPO 시 단기 과열로 인한 변동성에 주의하되, 우주 태양광 및 데이터 센터 통신 기술(ISL 모듈 등) 관련 밸류체인과 지상 전력망 인프라 수혜주에 선제적으로 주목할 필요가 있다."
+  },
+  "classification": {
+    "primary_topic": "space",
+    "secondary_topics": [
+      "tech",
+      "energy"
+    ],
+    "tags": [
+      "우주태양광",
+      "우주데이터센터",
+      "스타십",
+      "스페이스X",
+      "AI전력난"
+    ]
+  }
+}

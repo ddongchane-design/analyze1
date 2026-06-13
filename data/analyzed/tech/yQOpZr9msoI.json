@@ -1,0 +1,53 @@
+{
+  "video": {
+    "id": "yQOpZr9msoI",
+    "title": "[LIVE] 오라클 급락한 날, 스페이스X엔 돈이 몰렸다…상장 전야에 알아야 할 AI 돈줄 전쟁 | 이나연 특파원",
+    "published": "2026-06-12T09:47:50+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=yQOpZr9msoI",
+    "thumbnail": "https://img.youtube.com/vi/yQOpZr9msoI/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "오라클은 대규모 설비투자로 인한 현금흐름 악화(잉여현금흐름 <span class=\"text-rose-400 font-medium\">-237억 달러</span>)로 주가는 급락했으나, 조달 일정을 투명화해 <span class=\"text-cyan-300 font-semibold\">채권 시장은 반등</span>하는 동상이몽을 보였습니다. 업계 회계 표준 선점을 위해 <span class=\"text-cyan-300 font-semibold\">엔트로픽과 오픈AI의 IPO 레이스</span>가 본격화되었고, 상장이 임박한 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>는 블랙록의 50억 달러 청약 및 개인 700억 달러 몰림으로 전례 없는 흥행을 거두었습니다.",
+    "key_claims": [
+      "주식 투자자는 수익성을 걱정해 매도한 반면, 채권 투자자는 <span class=\"text-amber-300 font-bold\">확실한 부채 관리 계획</span>을 신뢰하여 매수했습니다.",
+      "오픈AI와 엔트로픽은 매출 집계 방식(총액 vs 순액)의 <span class=\"text-amber-300 font-bold\">글로벌 표준 선점</span>을 위해 상장 일정을 긴박하게 당기고 있습니다.",
+      "스페이스X의 청약 열기는 물가 우려와 지배구조 리스크를 잠재웠으며, 트럼프의 이란 종전 합의 소식이 <span class=\"text-cyan-300 font-semibold\">상장 첫날의 우호적 배경</span>으로 작용했습니다."
+    ],
+    "data_points": [
+      "오라클 연간 설비투자 557억 달러(회계연도 최대 950억 달러 전망), 잉여현금흐름 -237억 달러(적자 60배 증가)",
+      "올해 글로벌 AI 관련 채권 발행 전망치 5,700억 달러(전년 대비 2배)",
+      "2027년 글로벌 하이퍼스케일러들의 연간 설비투자(Capex) 전망치 1조 달러 돌파 예상",
+      "엔트로픽(6월 1일) 및 오픈AI(6월 8일) 기밀 상장 신청서(S-1) 접수",
+      "스페이스X IPO 블랙록 주문액 50억 달러 이상, 개인 투자자 청약 주문액 700억 달러 이상",
+      "일론 머스크의 스페이스X 상장 후 의결권 점유율 80%대 초과"
+    ],
+    "signal": "bullish",
+    "signal_reason": "글로벌 투자금이 메가 IPO와 AI 채권을 통해 반도체 가치사슬 전반으로 빠르게 수혈되고 있으며, 메모리 병목 현상이 지속되어 장기 성장세가 뚜렷하므로 <span class=\"text-cyan-300 font-semibold\">긍정적(Bullish)</span>입니다.",
+    "key_companies": [
+      "오라클(ORCL)",
+      "스페이스X",
+      "오픈AI",
+      "엔트로픽",
+      "마이크론 테크놀로지",
+      "블랙록(BLK)"
+    ],
+    "insight": "빅테크의 자금 수혈 통로가 주식에서 <span class=\"text-amber-300 font-bold\">AI 관련 회사채 시장(올해 5,700억 달러 예상)</span>으로 확장되고 있습니다. 이 천문학적인 AI 군비 경쟁 자금은 데이터센터를 거쳐 결국 핵심 병목인 <span class=\"text-cyan-300 font-semibold\">메모리 반도체(DRAM) 섹터</span>로 유입되는 선순환 고리를 형성합니다.",
+    "action_point": "최근의 가격 조정(리셋)이 완료된 <span class=\"text-cyan-300 font-semibold\">메모리 반도체 대형주(삼성전자, SK하이닉스)</span>와 하드웨어 장비 섹터에 대한 장기적 매수 접근법이 가장 유리합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock",
+      "economy"
+    ],
+    "tags": [
+      "오라클",
+      "스페이스X",
+      "오픈AI",
+      "엔트로픽",
+      "IPO전쟁",
+      "AI채권"
+    ]
+  }
+}
