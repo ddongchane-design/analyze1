@@ -1,0 +1,54 @@
+{
+  "video": {
+    "id": "U5C4L6RjiD4",
+    "title": "반도체 무한질주 '이 때' 조심하셔야 합니다ㅣ송명섭 feat.김장열 [칩썰]",
+    "published": "2026-06-13T02:00:20+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=U5C4L6RjiD4",
+    "thumbnail": "https://img.youtube.com/vi/U5C4L6RjiD4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "최근 서버 수요 급증으로 D램 수요 증가율(29%)이 생산 목표치(25%)를 상회하여 타이트한 수급과 가격 상승세가 지속되고 있음을 설명함. 내년에는 HBM 비중 확대로 인한 웨이퍼 패널티로 생산 증가율이 낮아져 수급은 양호할 것이나, 세트 수요 부진 및 빅테크의 메모리 구매 비용 부담(자본 지출의 37% 차지)으로 <span class=\"text-rose-400 font-medium\">추가 가격 상승은 제한적</span>일 것으로 전망함. 반도체 사이클의 본질적 변동성을 경고하며 PER보다 ROE 기반의 PBR 밸류에이션을 제시하고, 2028년경 GPU-LPU 적층형 3D 패키징 도입 등 <span class=\"text-cyan-300 font-semibold\">파운드리 시장의 격돌</span>을 주목함.",
+    "key_claims": [
+      "D램과 HBM은 단기적인 대규모 공급 과잉 우려를 털어내고 타이트한 흐름을 유지하나, 빅테크의 예산 제약과 전력망·냉각 인프라 비용 부담이 <span class=\"text-rose-400 font-medium\">D램 가격 상방을 억제</span>할 수 있음.",
+      "반도체 시장에 장기공급계약(LTA)이 확산되어 변동폭을 줄이고 바닥 가격을 확보해 주나, 업황 하락 시 무력화될 수 있어 <span class=\"text-rose-400 font-medium\">사이클 소멸 및 상시 고밸류에이션 부여</span>는 경계해야 함.",
+      "<span class=\"text-cyan-300 font-semibold\">TSMC</span>의 3나노 이하 선단 공정 캐파 부족이 AI 가속기와 CPU 공급의 병목으로 작용하고 있으며, 향후 삼성전자 파운드리의 기회 요인이 될 수 있음."
+    ],
+    "data_points": [
+      "올해 서버 출하량 증가 전망치 16% 이상, D램 수요 증가율 28.9% 전망",
+      "제조사 D램 생산 증가 가이던스: 삼성전자 28%, SK하이닉스 25%, 마이크론 20%, 중국 32% (업계 평균 약 25%)",
+      "빅테크 전체 capex 중 메모리 구매 비중이 이미 37%에 달함",
+      "과거 삼성전자 고점 PBR 2.2배(ROE 20% 미만 시절) 대비 올해 추정 ROE 45% 기준으로 PBR 4.2~4.5배 적용 가능성 언급. SK하이닉스는 마이크론 PBR(7~10배) 대비 7배 적용 가능성 제시"
+    ],
+    "signal": "neutral",
+    "signal_reason": "업황 호조와 사상 최대 실적에도 불구하고 빅테크 비용 제약에 따른 내년 가격 정체 우려와 <span class=\"text-rose-400 font-medium\">반도체 사이클 하강 리스크</span>가 공존하기 때문임.",
+    "key_companies": [
+      "삼성전자",
+      "SK하이닉스",
+      "마이크론",
+      "TSMC",
+      "엔비디아",
+      "AMD",
+      "인텔",
+      "애플",
+      "미디어텍"
+    ],
+    "insight": "장기공급계약(LTA) 도입 등으로 과거 대비 이익의 진폭은 좁아지나, <span class=\"text-rose-400 font-medium\">반도체 사이클 자체의 존재</span>를 잊고 무리하게 안정적 고성장주 멀티플(PER)을 부여하는 것은 위험함.",
+    "action_point": "D램 가격 급등세가 진정되는 국면에 대비하여 단순한 밸류에이션 추종보다 <span class=\"text-cyan-300 font-semibold\">실적 개선 강도(ROE)</span>의 변화를 면밀히 모니터링하며 분할 매도 전략을 검토해야 함."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "삼성전자",
+      "SK하이닉스",
+      "반도체사이클",
+      "HBM",
+      "PBR밸류에이션",
+      "TSMC"
+    ]
+  }
+}

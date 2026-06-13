@@ -1,0 +1,50 @@
+{
+  "video": {
+    "id": "CQjXMrTKa5I",
+    "title": "이제 이더리움의 절반은 '월가' 것입니다 (50:50의 시대)",
+    "published": "2026-06-13T09:15:34+00:00",
+    "channel_name": "디파이 농부 조선생 | Professor Jo",
+    "url": "https://www.youtube.com/watch?v=CQjXMrTKa5I",
+    "thumbnail": "https://img.youtube.com/vi/CQjXMrTKa5I/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "기존의 100% 온체인 금융 모델이 <span class=\"text-rose-400 font-medium\">해킹 리스크</span>와 비용 증가로 한계에 봉착하면서, 자산 보관 및 리스크 관리는 제도권 <span class=\"text-cyan-300 font-semibold\">커스터디</span>(앵커리지 등)가 맡고 거래/정산만 온체인으로 처리하는 <span class=\"text-amber-300 font-bold\">50대 50 결합 모델</span>이 부상하고 있습니다. <span class=\"text-cyan-300 font-semibold\">이더리움</span> 토큰 자체의 가치 축적 경로는 다변화되는 반면, 전통 금융 자산의 온체인 유입(<span class=\"text-cyan-300 font-semibold\">RWA</span>)과 글로벌 유통 레일로서의 네트워크 쓸모는 더욱 명확해지고 있습니다.",
+    "key_claims": [
+      "AI 기술 발전으로 스마트 컨트랙트 취약점 공격 비용이 낮아져 <span class=\"text-rose-400 font-medium\">온체인 해킹 손실</span>이 급증하고 있다.",
+      "기관 자금 유입을 위해 자산 보관과 리스크 관리는 규제권 내의 오프체인 <span class=\"text-cyan-300 font-semibold\">커스터디</span>로 이동 중이다.",
+      "퍼블릭 체인은 중립성을 바탕으로 금융 상품을 전 세계로 유통하고 24시간 정산하는 <span class=\"text-amber-300 font-bold\">글로벌 유통 레일</span>의 역할을 강화하고 있다."
+    ],
+    "data_points": [
+      "온체인 RWA 총액 성장: 18개월 전 156억 달러에서 최근 310억 달러로 증가",
+      "이더리움 가격 최고점 대비 하락률: 약 67% 하락 (5,000불 부근에서 1,650불 수준)",
+      "1~5월 온체인 해킹 손실액: 8억 달러 이상 (전년 동기 대비 해킹 건수 70% 증가)",
+      "AI 활용 컨트랙트 취약점 분석 비용: 건당 약 2달러 수준으로 급감"
+    ],
+    "signal": "neutral",
+    "signal_reason": "온체인 금융의 유통 규모(<span class=\"text-cyan-300 font-semibold\">RWA</span>)는 두 배 가까이 성장하고 있으나, 가치가 <span class=\"text-cyan-300 font-semibold\">이더리움</span> 토큰에만 집중되지 않고 커스터디 및 유통 플랫폼으로 분산되고 있어 가치 축적 메커니즘의 재정의가 필요합니다.",
+    "key_companies": [
+      "블랙록",
+      "앵커리지 디지털",
+      "아폴로 글로벌 매니지먼트",
+      "하이퍼리퀴드"
+    ],
+    "insight": "AI의 공격 비용 감소로 인해 100% 탈중앙화 코드 신뢰 모델은 금융 기관들에 한계를 보이고 있습니다. 퍼블릭 블록체인의 본질적 가치는 기존 시스템의 전면 대체가 아닌, 24시간 중립적인 <span class=\"text-amber-300 font-bold\">B2B 정산 및 유통 인프라</span>로서 전통 금융의 비효율성을 극대화하여 해결해 주는 도구로 안착하는 것에 있습니다.",
+    "action_point": "단순 네트워크 가스비 수혜를 기대한 이더리움 단일 매수보다는 전통 금융 상품(<span class=\"text-cyan-300 font-semibold\">RWA</span>) 토큰화 플랫폼 및 B2B 백엔드 유동성을 공급하는 인프라 솔루션(<span class=\"text-cyan-300 font-semibold\">하이퍼리퀴드</span> 등)의 지분이나 생태계 가치 창출 경로에 주목해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "economy",
+      "stock"
+    ],
+    "tags": [
+      "이더리움",
+      "RWA",
+      "온체인금융",
+      "커스터디",
+      "전통금융",
+      "DeFi",
+      "하이퍼리퀴드"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "video": {
+    "id": "FWGnN8h0iWo",
+    "title": "\"미친듯한 변동성 장\" 그들의 숨겨진 생각이 쏟아진다...!ㅣ이선엽 윤지호 이권희 박병창 김프로 [심야 투자 회담 1부]",
+    "published": "2026-06-13T04:00:06+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=FWGnN8h0iWo",
+    "thumbnail": "https://img.youtube.com/vi/FWGnN8h0iWo/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "반도체와 빅테크 주도의 <span class=\"text-amber-300 font-bold\">AI 자본투자(CAPEX) 사이클</span>이 강력히 유지되는 가운데, 고금리 지속과 미국 연준의 개입 약화 우려로 금융 시장의 <span class=\"text-rose-400 font-medium\">변동성</span>과 개인 투자자들의 심리적 조급함이 증폭되고 있습니다. 전문가들은 단기적 밸류에이션 논쟁보다 장기 투자 사이클의 지속성을 주시하고 있으며, 확실한 실적이 담보된 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>와 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 중심의 모멘텀 대응을 강조하고 있습니다.",
+    "key_claims": [
+      "AI 반도체 수요 및 글로벌 빅테크의 설비 투자 규모가 예상을 뛰어넘으며 실적 장세의 지배력을 강화하고 있다.",
+      "미국의 서비스 물가가 단단하여 <span class=\"text-rose-400 font-medium\">고금리 장기화</span> 압박이 지속되며, 연준의 시장 안정화 개입이 과거보다 약화될 수 있다.",
+      "변동성 장세에서는 환금성이 낮고 기초 체력이 부실한 중소형주보다 대형 반도체주 중심의 모멘텀 투자가 유리하다."
+    ],
+    "data_points": [
+      "구글(Alphabet) AI 인프라 투자 발표액: 800억 달러",
+      "반도체 장기 계약(LTA) 비중: 삼성전자 약 30%, 마이크론 테크놀로지 약 20%"
+    ],
+    "signal": "neutral",
+    "signal_reason": "글로벌 빅테크의 AI 설비 투자가 급증하는 우호적 환경이지만, <span class=\"text-rose-400 font-medium\">고금리 지속</span>과 6월 FOMC 등 매크로 불확실성이 겹쳐 시장 변동성이 심화되는 혼조세입니다.",
+    "key_companies": [
+      "삼성전자",
+      "SK하이닉스",
+      "구글",
+      "마이크론 테크놀로지"
+    ],
+    "insight": "이번 AI 투자 사이클은 과거 IT 버블이나 2차전지 붐과 달리 대기업들의 실제 현금 흐름 및 대규모 자본 조달(<span class=\"text-cyan-300 font-semibold\">증자/부채</span>)을 바탕으로 단기간에 집중 집행되고 있습니다. 이는 공급 과잉으로 꺾이는 전통적 사이클보다 빅테크 기업들의 인프라 투자 여력과 매크로 금리 장벽의 충돌 지점이 어디인가가 꼭지점 판단의 핵심 기준이 됨을 시사합니다.",
+    "action_point": "단기적인 가격 등락에 휩쓸려 조급하게 트레이딩하기보다, 실적 전망치가 지속 상향되는 반도체 대장주(<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>, <span class=\"text-cyan-300 font-semibold\">삼성전자</span>)에 비중을 유지하되, 하반기 빅테크의 자금 부담 노이즈나 금리 트리거를 주시하며 분할 매매로 대응해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy",
+      "tech"
+    ],
+    "tags": [
+      "삼성전자",
+      "SK하이닉스",
+      "AI투자",
+      "고금리",
+      "CAPEX",
+      "매크로",
+      "변동성장세"
+    ]
+  }
+}

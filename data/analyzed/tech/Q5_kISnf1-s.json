@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "Q5_kISnf1-s",
+    "title": "돼지 심장 이식, FDA 첫 임상 허가…이종이식은 현실이 될까?",
+    "published": "2026-06-13T06:00:36+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=Q5_kISnf1-s",
+    "thumbnail": "https://img.youtube.com/vi/Q5_kISnf1-s/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 FDA가 <span class=\"text-cyan-300 font-semibold\">유나이티드 테라퓨틱스</span>의 유전자 편집 돼지 심장인 <span class=\"text-cyan-300 font-semibold\">유하트(UHeart)</span>에 대해 사람 대상 정식 임상시험(IND)을 최초로 승인하면서 이종 장기 이식이 신약 개발 표준 트랙에 본격 진입했습니다. 이는 과거 비상 예외 시도(긴급 인도주의적 사용)에서 벗어나, 체계적인 프로토콜 아래 거부 반응 및 바이러스 감염 통제를 검증하는 이정표가 될 것입니다.",
+    "key_claims": [
+      "유전자 편집 돼지 장기 이식이 예외적인 비상 치료에서 FDA 정식 규제 하의 체계적인 표준 임상 트랙으로 이관되었다.",
+      "<span class=\"text-cyan-300 font-semibold\">유하트</span>는 인간 면역 반응을 속이기 위한 인간 유전자 6개 추가 및 거부반응/성장 억제를 위한 돼지 유전자 4개 비활성화를 적용한 특수 의료용 돼지 장기이다.",
+      "과거 메릴랜드 의대 이식 실패의 주요 원인 중 하나인 <span class=\"text-rose-400 font-medium\">돼지 거대세포 바이러스(PCMV)</span> 감염 리스크를 배제하기 위해 무균 사육 및 감염 모니터링이 극대화되었다."
+    ],
+    "data_points": [
+      "유전자 편집 수: 총 10개 (인간 유전자 6개 추가, 돼지 유전자 4개 비활성화)",
+      "1차 임상 관찰 기간: 이식 후 최소 12주간 추적 및 승인 후 다음 환자 이식 진행",
+      "이전 임상 시도 생존 기간: 1차 데이빗 베네치(2달), 2차 로렌스 포시(6주) 세상을 떠남"
+    ],
+    "signal": "bullish",
+    "signal_reason": "이종 장기 이식이 정식 FDA 임상 승인을 획득하고 표준 개발 궤도에 진입했다는 것은 글로벌 바이오텍 기술 및 <span class=\"text-cyan-300 font-semibold\">유전자 편집</span> 산업의 장기 성장에 매우 강력한 동력입니다.",
+    "key_companies": [
+      "유나이티드 테라퓨틱스"
+    ],
+    "insight": "이종이식 기술은 기증 장기 부족이라는 의료계의 근본적 병목을 해결할 잠재력을 지니고 있습니다. 유전자 편집 기술의 고도화를 통해 면역 거부 반응과 동물 매개 바이러스 전파라는 생물학적 난제를 안전하게 통제할 수 있음을 입증하는 것이 향후 장기 이식 대중화 및 상업화의 성패를 가를 핵심 뇌관입니다.",
+    "action_point": "단기 테마성 바이오주 추종은 지양하되, FDA IND 승인을 필두로 실질적 임상 성과를 내기 시작한 <span class=\"text-cyan-300 font-semibold\">유전자 편집(CRISPR)</span> 및 정밀 바이오 가공 기술 밸류체인 내 독보적 리더 기업들에 장기 관심을 기울여야 합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "etc"
+    ],
+    "tags": [
+      "이종장기이식",
+      "돼지심장",
+      "유나이티드테라퓨틱스",
+      "FDA임상",
+      "유전자편집",
+      "유하트",
+      "바이오테크"
+    ]
+  }
+}

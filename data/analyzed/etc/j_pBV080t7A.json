@@ -1,0 +1,36 @@
+{
+  "video": {
+    "id": "j_pBV080t7A",
+    "title": "긴 터널은 왜 일부러 S자로 만들까?",
+    "published": "2026-06-13T11:00:01+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=j_pBV080t7A",
+    "thumbnail": "https://img.youtube.com/vi/j_pBV080t7A/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "터널 주행 시 발생할 수 있는 <span class=\"text-amber-300 font-bold\">고속도로 최면 현상</span>(가수면 상태)을 방지하기 위해 터널을 일부러 S자 형태로 설계합니다. 또한, 밝은 곳에서 어두운 곳으로 들어갈 때(블랙홀 현상)와 나올 때(화이트 현상) 운전자의 눈이 적응하도록 진입부 조명을 밝게 설계하는 등 <span class=\"text-cyan-300 font-semibold\">안전 설계 기술</span>이 반영되어 있습니다.",
+    "key_claims": [
+      "동일한 풍경의 터널을 지속해서 달릴 때 발생하는 <span class=\"text-amber-300 font-bold\">고속도로 최면 현상</span>을 방지하고자 일부러 터널을 S자로 설계한다.",
+      "터널 진입 및 진출 시 발생하는 블랙홀·화이트 현상에 대비해 <span class=\"text-cyan-300 font-semibold\">진입로 조명</span>을 밝게 설계해 운전자의 시각 적응을 돕는다."
+    ],
+    "data_points": [
+      "S자 형태의 대표적 예: 인제양양터널 (핸들을 S자로 네 번 꺾도록 설계)"
+    ],
+    "signal": "neutral",
+    "signal_reason": "터널 설계 및 안전 공학에 대한 순수 지식 제공 영상으로, 특정 기업이나 금융 시장에 미치는 직접적 영향은 중립적입니다.",
+    "key_companies": [],
+    "insight": "고속도로 터널 설계는 단순 최단 거리 연결이 아니라 운전자의 생리적 인지 한계와 도로 안전을 종합적으로 고려한 고도의 <span class=\"text-cyan-300 font-semibold\">인간공학적 설계</span> 결과물입니다.",
+    "action_point": "터널 주행 시에는 <span class=\"text-cyan-300 font-semibold\">크루즈 컨트롤</span>에만 의존하지 말고 가벼운 환기나 시선 이동을 통해 고속도로 최면 현상을 스스로 예방하는 안전 운전 습관이 필요합니다."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [],
+    "tags": [
+      "고속도로최면",
+      "터널설계",
+      "안전공학",
+      "인제양양터널",
+      "교통안전"
+    ]
+  }
+}

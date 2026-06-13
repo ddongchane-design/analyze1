@@ -1,0 +1,40 @@
+{
+  "video": {
+    "id": "bQZwrtZ3TqM",
+    "title": "금리 하나 알면 환율·주식이 보입니다, 초보자도 이해하는 금리 기초강의",
+    "published": "2026-06-13T03:30:18+00:00",
+    "channel_name": "이효석아카데미",
+    "url": "https://www.youtube.com/watch?v=bQZwrtZ3TqM",
+    "thumbnail": "https://img.youtube.com/vi/bQZwrtZ3TqM/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">금리</span>는 돈의 가치와 가격이며, 시장의 수요·공급과 중앙은행의 통화 정책에 의해 결정됩니다. 최근에는 고금리가 레버리지 청산 압박을 가해 주가 하락 요인으로 작용하며, 물가 안정을 위해 정부의 금리 인하 압박과 대립하는 <span class=\"text-cyan-300 font-semibold\">중앙은행 독립성</span>이 중요합니다.",
+    "key_claims": [
+      "금리는 돈의 가격으로, 경제가 좋거나 기업 투자가 늘어날 때 및 인플레이션 기대 시 상승한다.",
+      "정부는 표를 위해 항상 금리 인하를 선호하나, 중앙은행은 물가 안정을 위해 독립적으로 금리를 통제해야 한다.",
+      "최근 주식시장에서는 금리가 오르면 주가가 빠지는 부정적 영향이 더 크게 지배하고 있다."
+    ],
+    "data_points": [
+      "1970년대 미국 연준 금리 수준: 20%"
+    ],
+    "signal": "neutral",
+    "signal_confidence": "high",
+    "signal_reason": "금리 결정 원리와 중앙은행 독립성의 중요성, 그리고 최근 고금리 환경이 자산 가격에 미치는 하방 압력을 기초 수준에서 설명하는 교육용 콘텐츠입니다.",
+    "key_companies": [],
+    "insight": "금리는 단순한 은행 이자가 아니라 자산 투자의 기회비용이자 기대수익률의 기준점입니다. 경제 성장이나 기업 실적 개선보다 고금리 장기화에 따른 자산 매도 압력이 커진 최근 시장 구조를 이해하는 핵심 열쇠입니다.",
+    "action_point": "연준과 한국은행의 기준금리 방향성과 시중 유동성 흡수 흐름을 밀착 모니터링하여, 레버리지 비중이 높고 금리 민감도가 큰 성장주보다는 안정적 현금흐름을 확보한 방어적 자산으로 포트폴리오를 안배해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "금리기초",
+      "중앙은행",
+      "통화정책",
+      "인플레이션",
+      "샤워실의바보"
+    ]
+  }
+}
