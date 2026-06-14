@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "PmKe7G_DjiA",
+    "title": "반도체 소부장이 심상치 않다, 조만간 시장을 뒤흔들 엄청난 일이 다가오는 진짜 이유 [주식주부 리나]",
+    "published": "2026-06-14T06:00:32+00:00",
+    "channel_name": "이효석아카데미",
+    "url": "https://www.youtube.com/watch?v=PmKe7G_DjiA",
+    "thumbnail": "https://img.youtube.com/vi/PmKe7G_DjiA/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "최근 인공지능 반도체 수요가 폭증하면서 후공정뿐만 아니라 <span class=\"text-cyan-300 font-semibold\">전공정 소부장</span> 기업들의 투자가 급증하고 있음. 반도체 기업들의 주가 급등에 따른 ETF 비중 제한(25%)으로 발생한 기계적 매도 수급 이슈는 <span class=\"text-rose-400 font-medium\">단기 조정</span>일 뿐 장기 투자자에게는 기회가 될 수 있음. 코스닥 중심의 중소형 소부장 개별주 투자가 어렵다면 다양한 반도체 <span class=\"text-cyan-300 font-semibold\">ETF</span> 상품을 활용해 분산 투자하는 것이 유리함.",
+    "key_claims": [
+      "반도체 공급 부족이 심화됨에 따라 기존 AI 관련 <span class=\"text-amber-300 font-bold\">후공정</span> 중심에서 공장 증설을 수반하는 <span class=\"text-cyan-300 font-semibold\">전공정 소부장</span> 기업들의 중요성이 다시 부각되고 있음.",
+      "삼성전자와 하이닉스 등의 급등으로 일부 반도체 ETF 내 종목 비중이 25%를 한도 초과함에 따라 발생한 수급 조절 매물은 매수 기회임.",
+      "코스닥 상장 소부장 주식들은 거래대금이 비교적 작고 변동성이 커 개별 투자보다는 ETF 포트폴리오를 통한 접근을 추천함."
+    ],
+    "data_points": [
+      "ETF 단일 종목 최대 투자 비중 제한: 25%",
+      "일부 반도체 ETF 내 특정 대형주 비중: 최대 37% 수준 도달 후 수급 조절 진행"
+    ],
+    "signal": "bullish",
+    "signal_confidence": "medium",
+    "signal_reason": "HBM을 비롯한 AI 반도체 쇼티지에 따른 주요 제조사들의 전공정/후공정 투자 확대가 장기 매출을 보장하며, 최근 비중 조절 수급 노이즈로 발생한 단기 조정을 매수 기회로 활용할 수 있기 때문임.",
+    "key_companies": [
+      "SK하이닉스(000660)",
+      "삼성전자(005930)",
+      "삼성전기(009150)",
+      "SK스퀘어(402340)"
+    ],
+    "insight": "그동안 시장은 후공정(HBM, 패키징 등)에 극단적으로 치우쳐져 있었으나, 전체 생산 캐파 증설이 불가피해진 국면에 진입하면서 전공정 장비 및 소재 기업들로 수급이 낙수효과를 누리기 시작함. 특정 ETF의 한도 초과(25%)에 따른 기계적 리밸런싱 매물 출회는 기업 가치 훼손이 아닌 제도적 수급 압박이므로, 가격이 안정되는 조정 구간을 분할 매수의 장기 기회로 봐야 함.",
+    "action_point": "전공정 특화 ETF(예: 솔 반도체 전공정)나 미국 소부장 기업이 포함된 글로벌 반도체 ETF를 장기적으로 적립 매수할 것을 권장함."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "반도체소부장",
+      "전공정",
+      "ETF투자",
+      "수급이슈"
+    ]
+  }
+}
