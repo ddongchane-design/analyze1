@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "RBrP44mxPuE",
+    "title": "반도체 마지막 매수 기회는 '이 때' 될 것 | 이형수 HSL파트너스 대표 [더블업]",
+    "published": "2026-06-15T07:15:33+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=RBrP44mxPuE",
+    "thumbnail": "https://img.youtube.com/vi/RBrP44mxPuE/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "이형수 대표는 반도체 업황의 전년 대비 역기저 효과와 5월 일평균 수출 증가율의 둔화가 시장에 <span class=\"text-rose-400 font-medium\">3분기 가격 조정 압력</span>을 가할 수 있다고 조언했다. 하지만 과거 B2C 중심 사이클과 달리 이번 사이클은 빅테크 간 경쟁에 기반한 대규모 '인프라 투자(CapEx)' 성격이 짙어 설비 투자 속도를 늦추기 어렵다. 따라서 3분기의 흔들림과 변동성을 겪고 나면 올 연말부터 내년까지 반도체 주가가 역사적 고점을 다시 경신하는 최적의 매수 기회가 될 것이다.",
+    "key_claims": [
+      "작년 하반기 메모리 급등에 따른 역기저 효과로 인해 <span class=\"text-rose-400 font-medium\">3분기 메모리 수출 지표</span>의 일시적 둔화가 예상된다.",
+      "이번 인공지능 인프라 투자는 경쟁 압박 때문에 빅테크의 CapEx를 중단할 수 없어 장기 수요의 골격이 유지된다.",
+      "현금 비중을 유지하며 3분기 조정기를 견뎌내면, 연말 강력한 <span class=\"text-cyan-300 font-semibold\">반도체 소부장 랠리</span>를 누릴 수 있다."
+    ],
+    "data_points": [
+      "5월 전체 메모리 일평균 수출 증가율 270%대에서 100%대로 연말 둔화 가능성",
+      "메모리 법령 가격 급등 역기저 반영 시점 8월 말 이후 집중"
+    ],
+    "signal": "bullish",
+    "signal_reason": "3분기의 일시적 수급 및 기저 효과 조정을 거쳐 대규모 인프라 발 반도체 메가 사이클의 2차 랠리가 시작될 가능성이 높다.",
+    "key_companies": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "insight": "사이클의 피크 아웃 논란이 일 때 지표의 절대적 수치보다 빅테크들의 자본 지출 경쟁(FOMO) 구조가 멈췄는지를 봐야 하며, 경쟁이 지속되는 한 반도체 장비 수요는 계속 우상향한다.",
+    "action_point": "3분기 가격 지표 둔화 리포트로 인해 반도체 대형주 및 장비 소부장이 흔들릴 때 <span class=\"text-cyan-300 font-semibold\">현금을 분할 투입하여 비중을 확충</span>하는 기회로 활용하라."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "반도체조정기",
+      "역기저효과",
+      "수출증가율",
+      "CapEx투자",
+      "매수타이밍"
+    ]
+  }
+}

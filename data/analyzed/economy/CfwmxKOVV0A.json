@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "CfwmxKOVV0A",
+    "title": "전쟁 드디어 끝! “여름휴가 가지마세요” 이슈가 풍년입니다 | 김장열 유니스토리자산운용 리서치센터 센터장 [글로벌 인터뷰]",
+    "published": "2026-06-14T22:50:37+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=CfwmxKOVV0A",
+    "thumbnail": "https://img.youtube.com/vi/CfwmxKOVV0A/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "종전 분위기 형성과 함께 한국의 <span class=\"text-amber-300 font-bold\">MSCI 선진국 관찰대상국 편입</span>(와치리스트) 결과 발표(24일 새벽)가 단기 핵심 수급 모멘텀으로 다가옴.\n이번 주 18일(한국시간 19일) 미 FOMC 점도표의 매파적 금리 전망 완화 여부와 25일 예정된 <span class=\"text-cyan-300 font-semibold\">마이크론 실적 발표</span>가 반도체 시장의 추가 상승력을 결정할 것임.\n대규모 유상증자를 단행한 <span class=\"text-cyan-300 font-semibold\">알파벳(구글)</span>은 AGI 칩(TPU), 모델(Gemini), 클라우드를 모두 수직 계열화해 AI 펀더멘탈의 마지노선 역할을 하고 있음.",
+    "key_claims": [
+      "한국이 <span class=\"text-cyan-300 font-semibold\">MSCI 선진국 지수 와치리스트</span>에 등재될 확률은 50~70% 수준이며, 등재 시 스마트 머니 유입으로 코리아 디스카운트가 대폭 축소될 것임.",
+      "종전 합의로 유가 및 인플레 우려가 완화됨에 따라 이번 <span class=\"text-amber-300 font-bold\">FOMC 금리 결정</span> 및 점도표에 매파적 색채가 옅어질 가능성이 높음.",
+      "알파벳은 탄탄한 캐시카우(검색광고)와 독자 칩-클라우드 역량을 결합해 AI 투자 광풍의 버블 붕괴를 막아줄 최후의 방어벽 역할을 수행하고 있음."
+    ],
+    "data_points": [
+      "MSCI 선진국 지수 관찰대상국 등재 가능성 확률: 50~70%",
+      "선진국 지수 추종 글로벌 자금 규모: 약 12~13조 달러",
+      "한국 편입 시 기대되는 패시브/액티브 자금 유입 예상액: 최대 100조 원 수준",
+      "구글 알파벳 유상증자(주주배정 및 시장 매각 결합) 규모: 약 800억 달러"
+    ],
+    "signal": "bullish",
+    "signal_reason": "전쟁 완화에 따른 매크로 안도감, 연준 금리 불안 완화 가능성 및 한국 증시 선진국 와치리스트 등재 기대가 맞물려 외국인의 적극적인 순매수를 자극할 수 있습니다.",
+    "key_companies": [
+      "삼성전자",
+      "SK하이닉스",
+      "알파벳(GOOGL)"
+    ],
+    "insight": "코스피의 7배 수준의 낮은 밸류에이션(할인율)은 MSCI 선진국 와치리스트 등재를 통해 환율 안정과 패시브 수급 개선으로 점진적 해소가 기대됨. 또한 AI 회의론의 핵심 지표는 독점 인프라를 보유한 <span class=\"text-cyan-300 font-semibold\">구글 알파벳</span>의 주가 추이이므로, 이를 AI 인프라 건전성 등대로 삼아야 함.",
+    "action_point": "19일 아침 MSCI 와치리스트 편입 힌트 및 18일 FOMC 결과를 확인한 뒤, AI 선두주자 및 밸류에이션 리레이팅이 예상되는 반도체 투톱(삼성전자/하이닉스)과 글로벌 탑티어 AI 수혜주(구글)에 투자 포지션을 확고히 유지할 필요가 있음."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock",
+      "tech"
+    ],
+    "tags": [
+      "MSCI선진국",
+      "FOMC금리",
+      "구글유상증자",
+      "반도체수급",
+      "코리아디스카운트"
+    ]
+  }
+}

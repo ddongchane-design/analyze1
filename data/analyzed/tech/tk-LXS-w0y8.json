@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "tk-LXS-w0y8",
+    "title": "젠슨 황 “너희는 다 틀렸다”",
+    "published": "2026-06-14T11:00:38+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=tk-LXS-w0y8",
+    "thumbnail": "https://img.youtube.com/vi/tk-LXS-w0y8/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "젠슨 황 엔비디아 CEO는 <span class=\"text-cyan-300 font-semibold\">에이전트형 AI(Agentic AI)</span>의 등장으로 모든 소프트웨어 회사들이 문을 닫을 것이라는 우려에 정면 반박했다. 에이전트가 범용화될수록 인간 노동력의 수적 한계를 뛰어넘어 기존보다 기하급수적으로 많은 전용 도구(소프트웨어)를 소비하게 된다. 따라서 현시점은 소프트웨어 기업들에 전례 없는 큰 시장 확장의 기회이며, 다만 모든 소프트웨어는 AI 에이전트가 쉽게 파싱하고 활용할 수 있는 형태로 재설계되어야 한다.",
+    "key_claims": [
+      "AI 에이전트의 대량 도입은 생산 노동의 병목을 해결하고 소프트웨어 수요를 <span class=\"text-cyan-300 font-semibold\">수십 배 이상 폭증</span>시킬 것이다.",
+      "에이전트 중심의 생태계로 재구성하지 못하는 레거시 소프트웨어 기업들은 <span class=\"text-rose-400 font-medium\">도태 위험</span>이 크다.",
+      "미래 소프트웨어의 가치는 사람뿐 아니라 AI 에이전트에게 얼마나 가치 있는 도구로 제시되는가에 달려 있다."
+    ],
+    "data_points": [
+      "글로벌 B2B 엔터프라이즈 에이전트 도입률 급증 추세",
+      "소프트웨어 API 연동 지연 수준 및 전송 대역폭 가이드 제시"
+    ],
+    "signal": "bullish",
+    "signal_reason": "AI 에이전트 생태계의 도래로 소프트웨어 소모량이 기하급수적으로 폭증하며 새로운 <span class=\"text-cyan-300 font-semibold\">B2B AI 소프트웨어</span> 전성시대가 열린다.",
+    "key_companies": [
+      "NVIDIA",
+      "Microsoft"
+    ],
+    "insight": "AI가 인간을 대신해 코딩하고 프로그램을 실행하는 시대에는 소프트웨어의 사용 주체가 인간에서 에이전트로 이동하므로, API 친화적이고 에이전트 지향적인 혁신 소프트웨어 기업의 몸값이 치솟을 것이다.",
+    "action_point": "단순 UI 위주의 레거시 소프트웨어사에서 벗어나, 에이전트 AI가 호출하여 복잡한 태스크를 해결하는 데 필수적인 <span class=\"text-cyan-300 font-semibold\">엔터프라이즈 API/DB 솔루션</span> 기업을 매수하라."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "젠슨황",
+      "에이전틱AI",
+      "소프트웨어생존",
+      "엔비디아",
+      "AI도구"
+    ]
+  }
+}

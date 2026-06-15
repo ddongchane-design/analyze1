@@ -1,0 +1,40 @@
+{
+  "video": {
+    "id": "bNDYcVkFfa4",
+    "title": "미국-이란 협상 타결…이란, 호르무즈 관리할 듯ㅣ이상은의 워싱턴나우",
+    "published": "2026-06-15T03:00:36+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=bNDYcVkFfa4",
+    "thumbnail": "https://img.youtube.com/vi/bNDYcVkFfa4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국과 이란이 60일간의 임시 휴전을 포함한 <span class=\"text-amber-300 font-bold\">평화 협정 합의</span>안에 전격 동의하며 전쟁 리스크가 크게 완화됨.\n양측은 <span class=\"text-cyan-300 font-semibold\">호르무즈 해협 개방</span>과 핵 합의 재개에 동의했으나, 통행료 징수 및 해협 관리 통제권을 둘러싼 이견은 불씨로 남음.\n60일간 통행료를 한시 유예하는 조건이 담겼으며, 우라늄 농축 희석 등 핵합의 구체적 이행을 위한 후속 실무 협상이 관건임.",
+    "key_claims": [
+      "미·이란 전격 합의로 <span class=\"text-cyan-300 font-semibold\">호르무즈 해협</span>이 재개방되어 글로벌 에너지 물류의 병목 현상이 일시적으로 해결될 것임.",
+      "트럼프의 전면 무료 개방 주장과 달리 이란은 오만과 협력하여 독자적인 해협 <span class=\"text-violet-300 font-medium\">통행 법체계 통제권</span>을 주장하고 있음.",
+      "60일 휴전 기간 내에 이란 핵프로그램 농축 물질 폐기 및 300억 달러 규모 재건 펀드 조성을 둘러싸고 치열한 <span class=\"text-violet-300 font-medium\">외교적 기싸움</span>이 예상됨."
+    ],
+    "data_points": [
+      "미·이란 임시 휴전 기간: 60일",
+      "이란 재건 펀드(걸프국 자금 기반) 규모: 300억 달러"
+    ],
+    "signal": "bullish",
+    "signal_reason": "전쟁 종료와 호르무즈 해협 개방 확정으로 유가가 안정화될 것이며, 글로벌 공급망 불확실성 감소로 시장 전반에 단기 호재로 작용할 것입니다.",
+    "key_companies": [],
+    "insight": "이번 합의는 완벽한 연구적 종전이 아닌, 양측의 체면 세우기와 단기 안정을 노린 고도의 외교적 결과물임. 특히 <span class=\"text-violet-300 font-medium\">호르무즈 해협의 관리 권한</span>을 이란이 쥐고 간다는 점은 장기적으로 서방 해상 물류의 아킬레스건으로 작용할 우려가 있음.",
+    "action_point": "유가 하향 안정화에 따른 인플레이션 우려 진정 국면에서, 해운/원유 관련 헤징 자산을 축소하고 매크로 안정 수혜주(테크 및 반도체 대형주)의 비중을 늘려야 함."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "미국이란협상",
+      "호르무즈해협",
+      "종전합의",
+      "매크로안정",
+      "유가하락"
+    ]
+  }
+}

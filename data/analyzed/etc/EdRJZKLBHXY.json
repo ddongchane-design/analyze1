@@ -1,0 +1,36 @@
+{
+  "video": {
+    "id": "EdRJZKLBHXY",
+    "title": "편의점에서 파는 로봇, 정말 집안일을 할 수 있을까?",
+    "published": "2026-06-14T11:00:29+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=EdRJZKLBHXY",
+    "thumbnail": "https://img.youtube.com/vi/EdRJZKLBHXY/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "편의점과 마트 등에서 유통되기 시작한 일반 소비자용 <span class=\"text-cyan-300 font-semibold\">유니 로봇</span>은 실제 가사 노동을 돕는 피지컬 AI가 아님.\n공간 인식 능력이나 정밀 제어가 불가능해 춤추기와 같은 단순 오락형 동작만 수행할 수 있는 <span class=\"text-rose-400 font-medium\">완구/장난감 수준</span>에 불과함.\n현 단계의 리테일 로봇 보급 모델은 산업적 파급력이 없으며 영구적인 사용이 불가능한 한계가 뚜렷함.",
+    "key_claims": [
+      "편의점 판매 로봇은 스마트 가전이나 가사용 로봇으로서의 <span class=\"text-rose-400 font-medium\">실용성이 전무</span>함.",
+      "정밀 센서나 자율동작 알고리즘이 결합되지 않아 지정된 버튼 입력에만 반응하는 단순 구조임.",
+      "일반 소비자들의 피지컬 AI에 대한 관심을 환기시키는 마케팅/완구 성격이 짙음."
+    ],
+    "data_points": [],
+    "signal": "neutral",
+    "signal_reason": "반도체나 인프라 밸류체인에 기여하는 바가 없는 순수 취미/완구 제품에 대한 흥미 위주 클립입니다.",
+    "key_companies": [],
+    "insight": "진정한 가사 도우미형 휴머노이드 로봇이 출시되기까지는 대용량 추론 칩 내재화와 피지컬 AI 훈련 데이터의 축적이 선행되어야 하며, 현재 완구 수준의 리테일 로봇 보급은 마케팅적 성격에 국한됨.",
+    "action_point": "해당 기기는 단순 완구 시장에 불과하므로 피지컬 AI나 로봇 공학 대장주(현대차 아틀라스, 테슬라 옵티머스 등)에 대한 투자 로드맵과 엮어 해석하지 않아야 함."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "robot"
+    ],
+    "tags": [
+      "유니로봇",
+      "장난감로봇",
+      "피지컬AI",
+      "가사로봇한계"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "wKrKPWYUDho",
+    "title": "악재가 사라진 시장, 코스닥 따라 올까요?_26.06.15. | 이혁진 여도은, 허재무 [아침N투자]",
+    "published": "2026-06-15T02:39:44+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=wKrKPWYUDho",
+    "thumbnail": "https://img.youtube.com/vi/wKrKPWYUDho/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "이란 종전 합의와 유가 급락으로 매크로 악재가 해소된 국면에서 코스닥 시장의 변곡점이 임박했다는 진단이 제기되었다. 특히 7월 1일부터 집행되는 <span class=\"text-rose-400 font-medium\">동전주 및 시총 미달 기업 상장폐지</span> 조치와 코스닥 승강제 도입(프라임 지수 구축)은 코스닥 수급 생태계를 전면 재편할 것이다. 연기금이 코스닥에 복귀할 때 단순 고평가된 테마주보다는 실제 실적과 성장률이 뒷받침되는 영업이익 상위 소부장 종목으로 자금이 압축 집중될 전망이다.",
+    "key_claims": [
+      "WTI 유가의 80달러 이하 하락이 확산 랠리의 트리거가 되어 금리 인하 기대와 함께 코스닥 반등을 이끌 것이다.",
+      "7월부터 상장폐지 조건이 대폭 강화되어 좀비 기업들이 정리되며 시장 전반의 <span class=\"text-cyan-300 font-semibold\">건전성 제고 효과</span>가 기대된다.",
+      "코스닥 승강제 도입으로 연기금 수급은 밸류에이션 부담이 큰 바이오보다는 실제 이익을 내는 <span class=\"text-cyan-300 font-semibold\">반도체 소부장 대장주</span>로 쏠릴 것이다."
+    ],
+    "data_points": [
+      "7월 1일부터 동전주 및 시가총액 미달 퇴출 가이드라인 가동",
+      "코스닥 프라임 지수 설계 및 연기금 신규 편입 가이드 검토",
+      "WTI 국제유가 80달러 전후 지지 흐름에서 80달러 하회 트라이 가능성"
+    ],
+    "signal": "bullish",
+    "signal_reason": "좀비 기업 정리와 정부 주도의 제도적 수급 개선(승강제, 연기금 복귀)이 우량 코스닥 종목의 강력한 멀티플 재평가를 견인할 것이다.",
+    "key_companies": [
+      "에코프로BM"
+    ],
+    "insight": "코스닥 지수의 단순 밸류에이션 평균은 착시를 유발하므로, 시장의 정화 과정(상폐)과 제도적 수급(프라임 지수)이 겹치는 우량 강소기업으로만 포트폴리오를 슬림화해야 한다.",
+    "action_point": "영업이익 퀄리티가 우수하고 이익 성장률이 뚜렷하여 연기금이 매수할 수 있는 <span class=\"text-cyan-300 font-semibold\">우량 코스닥 소부장 탑픽(Top Picks)</span> 위주로 포트폴리오를 집중 재편하라."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "코스닥변곡점",
+      "동전주상장폐지",
+      "코스닥승강제",
+      "영업이익우량주",
+      "연기금수급"
+    ]
+  }
+}

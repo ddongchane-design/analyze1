@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "Jts7vHxRtHQ",
+    "title": "아마존 창업자 제프 베이조스 \"AI 시대, 오히려 일손이 모자란다\" #shorts",
+    "published": "2026-06-15T11:20:20+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=Jts7vHxRtHQ",
+    "thumbnail": "https://img.youtube.com/vi/Jts7vHxRtHQ/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "제프 베이조스는 AI 혁신으로 인한 일자리 감소에 낙관적 시각을 제시하며, 오히려 장기적으로 <span class=\"text-amber-300 font-bold\">노동력 부족 현상</span>이 발생할 것이라 전망했다. 생산성이 증가하면 물가가 안정되고 소비가 증진되어 전체 경제 규모가 확장되며, 이는 새로운 도구와 신산업의 발명으로 이어진다. 공장의 단순 노동자는 줄어들더라도 제품 기획과 엔지니어링 등 고부가 가치 직군의 신규 채용은 폭발적으로 증가할 것이다.",
+    "key_claims": [
+      "기술 발명과 <span class=\"text-amber-300 font-bold\">생산성 증대</span>가 일자리 자체를 완전히 없애기보다는 경제 전반의 삶의 질을 제고한다.",
+      "아이폰이나 페니실린처럼 획기적 발명품은 고용의 형태를 완전히 바꾸어 새로운 기회를 만들어낸다.",
+      "생산 공장이 자동화되더라도 향후 기획 및 연구 개발에 필요한 <span class=\"text-cyan-300 font-semibold\">엔지니어 고용</span>은 더 늘어날 것이다."
+    ],
+    "data_points": [
+      "아마존 공장의 자동화 수준 지속 상승",
+      "신규 엔지니어링 및 개발자 부문 채용 비중 대폭 상향 계획"
+    ],
+    "signal": "bullish",
+    "signal_reason": "생산성 제고와 신생 산업의 태동으로 빅테크 플랫폼과 엔지니어링 시장의 장기적 펀더멘탈이 견고해진다.",
+    "key_companies": [
+      "Amazon",
+      "Microsoft",
+      "Apple"
+    ],
+    "insight": "단기적인 노동 시장의 변화와 혼란은 존재할 수 있으나, 역사적으로 발명과 혁신은 언제나 경제를 성장시키고 인간의 삶을 더 윤택하게 만들어왔다.",
+    "action_point": "실업 비관론으로 인한 단기 주가 출렁임에 휘둘리지 말고, <span class=\"text-cyan-300 font-semibold\">AI를 이용해 자체 생산성을 비약적으로 높이는</span> 빅테크 리더들을 포트폴리오에 유지하라."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "etc"
+    ],
+    "tags": [
+      "제프베이조스",
+      "AI일자리",
+      "생산성향상",
+      "자동화혁신",
+      "노동력부족"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "nezzlzj9olM",
+    "title": "급등장의 진짜 변수는 '리밸런싱'…대응법은? | 박병창 MP파트너스 대표 [마켓 인사이드]",
+    "published": "2026-06-15T00:21:05+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=nezzlzj9olM",
+    "thumbnail": "https://img.youtube.com/vi/nezzlzj9olM/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국-이란 종전 타결 속보로 글로벌 증시가 급반등한 가운데, 향후 시장의 핵심 변수로 <span class=\"text-rose-400 font-medium\">스페이스X 관련 수급 변동</span>과 연준 금리 결정 전후의 '리밸런싱'이 제시되었다. 필라델피아 반도체 지수의 극심한 주간 변동성(고가와 저가의 격차가 13%)은 수급적 포지션 청산과 재구축 과정을 투영한다. 단기 급등 시 추격 매수보다는 80달러 전후의 유가 흐름과 금리 추이를 확인하며 변동성에 대응해야 한다.",
+    "key_claims": [
+      "중동 종전 속보로 인플레이션 우려가 경감되었으나 연준 FOMC를 전후한 <span class=\"text-rose-400 font-medium\">수급 변동성</span>은 여전히 크다.",
+      "필라델피아 반도체 지수의 주간 13% 변동폭이 보여주듯 수급 재구축이 극심하게 진행 중이다.",
+      "급반등 장세에서 지나친 레버리지 베팅은 <span class=\"text-rose-400 font-medium\">청산 압력</span>을 가중시켜 불리할 수 있으므로 주의해야 한다."
+    ],
+    "data_points": [
+      "나스닥 지수 6월 첫째 주 4.6% 급락 후 주 후반 극적 반등",
+      "필라델피아 반도체 지수 주간 변동폭 고점 대비 저점 차이 13% (종가 9.4% 상승, 주간 저점 -3.5% 기록)",
+      "국제 유가 80~81달러 안착 흐름 및 미국 2년물 국채 수익률 횡보"
+    ],
+    "signal": "neutral",
+    "signal_reason": "지정학적 악재 해소라는 호재와 연준 FOMC 경계감 및 선물옵션 동시 만기 리밸런싱이라는 수급 노이즈가 혼재되어 있어 단기 변동성이 지속될 수 있다.",
+    "key_companies": [
+      "SpaceX",
+      "NVIDIA"
+    ],
+    "insight": "시장들이 호재에 맞춰 급반등하지만, 기관들이 대규모 선물옵션 만기 및 대형 테크주 편출입을 통해 포트폴리오를 조정하는 '리밸런싱' 시즌에는 가격 왜곡이 발생하기 쉽다.",
+    "action_point": "반등 시 급하게 비중을 채우기보다 변동성을 이겨낼 수 있는 현금 비중을 유지하고, 분기말 <span class=\"text-rose-400 font-medium\">기관 리밸런싱 매물</span> 출회 시 안정적인 실적주 위주로 저가 매수하라."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "리밸런싱",
+      "옵션만기일",
+      "필라델피아반도체지수",
+      "변동성",
+      "스페이스X수급"
+    ]
+  }
+}

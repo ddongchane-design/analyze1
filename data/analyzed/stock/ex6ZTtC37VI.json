@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "ex6ZTtC37VI",
+    "title": "주가만 과열? 펀더멘탈도 과열인 진짜 이유 (ft.빅테크 캐펙스)",
+    "published": "2026-06-14T13:08:06+00:00",
+    "channel_name": "이효석아카데미",
+    "url": "https://www.youtube.com/watch?v=ex6ZTtC37VI",
+    "thumbnail": "https://img.youtube.com/vi/ex6ZTtC37VI/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "국내 반도체 영업이익 전망이 연 600조 원대로 수직 상승하는 등 주가뿐 아니라 <span class=\"text-amber-300 font-bold\">펀더멘탈의 역사적 과열</span>이 주가 지지선의 명확한 근거로 작용하고 있음.\n2026년 기준 마이크로소프트, 구글 등 빅테크 4사의 <span class=\"text-cyan-300 font-semibold\">설비투자(CapEx) 계획</span>이 6,800억 달러(약 1,000조원)에 육박해 반도체 매출로 고스란히 유입됨.\n최근 대두된 시장 변동성과 조정은 스페이스X IPO 및 빅테크 자금 조달에 따른 단기적 <span class=\"text-rose-400 font-medium\">유동성 흡수 현상</span>에 기인함.",
+    "key_claims": [
+      "한국 반도체 영업이익이 전년 93조에서 올해 600조 수준으로 폭증한 현상은 역사상 유례없는 강력한 <span class=\"text-cyan-300 font-semibold\">실적 과열</span> 상태임.",
+      "반도체 랠리가 가격(P) 상승에서 본격적인 <span class=\"text-cyan-300 font-semibold\">물량 증설(Q)</span>로 전이됨에 따라 전공정 및 후공정 장비주의 랠리가 구조적으로 지속될 것임.",
+      "삼성전기의 금요일 급락은 펀더멘탈 훼손이 아닌 ETF 내 한도 초과에 따른 강제적 <span class=\"text-rose-400 font-medium\">수급 리밸런싱 매도</span> 압력 때문이며, 이는 오히려 매수 기회임."
+    ],
+    "data_points": [
+      "한국 반도체 영업이익 전망: 전년 93조 원 -> 올해 600조 원 돌파",
+      "빅테크 4사(MS, 구글, 메타, 아마존) 2026년 CapEx 예상치: 6,800억 달러 (약 1,000조 원)",
+      "신한 SOL 반도체 TOP2 ETF 리밸런싱 삼성전기 편입 비율: 한도 30%를 초과한 38% 수준 도달 후 조절"
+    ],
+    "signal": "bullish",
+    "signal_reason": "빅테크의 천조 원대 자본적 지출이 반도체 하드웨어 기업의 영업이익 과열(600조)로 고스란히 치환되고 있으며, 수급 노이즈에 의한 일시적 조정은 비중 확대의 기회이기 때문입니다.",
+    "key_companies": [
+      "삼성전자",
+      "SK하이닉스",
+      "삼성전기",
+      "어플라이드 머티리얼즈(AMAT)"
+    ],
+    "insight": "반도체 시장을 P의 상승으로만 보던 회의론자들은 이제 막 시작된 빅테크의 물량(Q) 증설 및 전공정 장비교체 장기화라는 펀더멘탈을 과소평가하고 있음. ETF 강제 청산 등 수급 왜곡 현상(삼성전기 사례)은 <span class=\"text-cyan-300 font-semibold\">가격 왜곡</span>을 활용한 훌륭한 매수 타점임.",
+    "action_point": "수급 불일치로 단기 조정이 발생한 MLCC 대장주 <span class=\"text-cyan-300 font-semibold\">삼성전기</span>를 분할 매수하고, P에서 Q로 넘어가는 사이클의 수혜주인 반도체 <span class=\"text-cyan-300 font-semibold\">전공정 장비 기업</span>들의 편입 비중을 높여가야 함."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "펀더멘탈과열",
+      "빅테크CapEx",
+      "장비주주도력",
+      "리밸런싱수급",
+      "이효석대표"
+    ]
+  }
+}

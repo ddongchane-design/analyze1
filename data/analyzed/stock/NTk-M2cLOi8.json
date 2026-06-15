@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "NTk-M2cLOi8",
+    "title": "전쟁 끝났는데 재건주는 애매? 여전히 IT가 더 강한 이유 | 장우진 작가 [더블 체크]",
+    "published": "2026-06-15T00:58:41+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=NTk-M2cLOi8",
+    "thumbnail": "https://img.youtube.com/vi/NTk-M2cLOi8/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "중동 종전 합의 이후 시장의 기대와 달리 단순 재건 테마주(건설, 기계)는 주도권을 쥐지 못하고 있으며, 여전히 <span class=\"text-cyan-300 font-semibold\">IT/반도체 중심의 주도주</span>가 가장 강력한 흐름을 지속하고 있다. 유가 하락에 따른 비용 절감과 유동성 환경 개선은 결국 실적 가시성이 가장 돋보이는 테크 섹터로 자금이 재유입되는 동력으로 작용한다. 주가지수 9,000선 돌파 시도가 이어지는 상황에서 수급 쏠림이 유효하다.",
+    "key_claims": [
+      "지정학적 리스크 소멸 국면에서 재건 수혜 테마보다 펀더멘탈이 검증된 <span class=\"text-cyan-300 font-semibold\">IT 반도체 업종</span>의 지배력이 더 확고하다.",
+      "유가 하락으로 확보된 인프라 예산과 투자 여력은 결국 인공지능(AI)과 디지털 전환 설비로 집중된다.",
+      "국장 및 미증시 모두 단기 테마성 자금 순환매보다 실적 지표가 찍히는 대형주 위주로 대응하는 것이 효율적이다."
+    ],
+    "data_points": [
+      "원-달러 환율 1,510원대로 하향 및 유가 안정",
+      "미국 나스닥 선물 및 주요 IT 지수 주말 내 1.5%대 랠리",
+      "지수 단기 7,000선 돌파 후 8,000 돌파 및 9,000선 트라이 전망"
+    ],
+    "signal": "bullish",
+    "signal_reason": "일시적인 테마 장세로의 유출 없이 <span class=\"text-cyan-300 font-semibold\">반도체 및 인프라 주도군</span>으로 유동성 쏠림이 더욱 단단해지고 있다.",
+    "key_companies": [
+      "삼성전자",
+      "SK하이닉스",
+      "NVIDIA"
+    ],
+    "insight": "전쟁 종식은 비용 요인 하락을 통해 실질 구매력을 늘리며, 이는 단순 건설 재건보다 부가가치가 가장 높은 미래 혁신 IT 자산으로의 교체 투자를 촉진한다.",
+    "action_point": "모멘텀이 약한 재건 테마주의 단기 낙폭과대 반등에 현혹되지 말고, 여전히 시장을 지배하는 <span class=\"text-cyan-300 font-semibold\">인공지능 하드웨어 선도 기업</span>에 핵심 비중을 집중하라."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "전쟁종식재건",
+      "IT주도주",
+      "반도체선호",
+      "유동성쏠림",
+      "지수전망"
+    ]
+  }
+}

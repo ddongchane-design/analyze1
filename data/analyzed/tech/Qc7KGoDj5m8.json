@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "Qc7KGoDj5m8",
+    "title": "앤트로픽의 무시무시한 AI, 페이블5 ! 보이지 않는 개입이 존재한다?",
+    "published": "2026-06-15T09:10:26+00:00",
+    "channel_name": "안될공학 - IT 테크 신기술",
+    "url": "https://www.youtube.com/watch?v=Qc7KGoDj5m8",
+    "thumbnail": "https://img.youtube.com/vi/Qc7KGoDj5m8/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "앤트로픽(Anthropic)이 차세대 모델 'Opus 4.8' 등의 출시 과정에서 사용자에게 고지하지 않고 안전장치를 가동한 '보이지 않는 개입'이 밝혀지며 논란이 일었다. 시스템 카드에 명시된 <span class=\"text-rose-400 font-medium\">프롬프트 모디피케이션(질문 조작), 스티어링 벡터(사고 강제 전환), 패프트(일부 재교육)</span>를 통해 AI의 결과물을 인위적으로 흐리게 만든 것이다. 사용자들의 격렬한 반발로 앤트로픽은 이틀 만에 공식 사과하고 오프스 4.8 폴백 방식으로 투명하게 전환하겠다고 발표했다.",
+    "key_claims": [
+      "앤트로픽은 사용자가 모르게 답변을 순화하거나 사고 흐름을 비트는 세이프가드를 가동했다.",
+      "답변 거부가 아닌, 인위적으로 왜곡된 답변을 제공함으로써 모델 신뢰성에 심각한 타격을 입혔다.",
+      "안전 규제와 인공지능 성능 간의 균형 설정 실패로 인해 기업용 <span class=\"text-rose-400 font-medium\">AI 신뢰도 및 투명성 검증</span> 이슈가 수면 위로 떠올랐다."
+    ],
+    "data_points": [
+      "앤트로픽 출시 단 2일 만에 세이프가드 시스템 강제 개입 논란 발생",
+      "Opus 4.8 폴백 방식으로의 전면 복귀 결정"
+    ],
+    "signal": "neutral",
+    "signal_reason": "앤트로픽의 투명성 논란은 단기 노이즈에 가깝지만, AI 규제 시스템의 신뢰성에 관한 근본적인 물음을 제기한다.",
+    "key_companies": [
+      "Anthropic",
+      "OpenAI"
+    ],
+    "insight": "AI 모델의 세이프가드 개입이 투명하게 공유되지 않는다면 기업들은 인공지능이 제공한 원시 정보와 조작된 정보 간의 차이를 구분하지 못해 비즈니스 의사결정의 리스크가 될 수 있다.",
+    "action_point": "기술 투명성 및 개방성이 확보된 <span class=\"text-cyan-300 font-semibold\">오픈소스 LLM 툴체인</span>과 개발 주도권을 쥔 플랫폼사들의 솔루션에 집중할 필요가 있다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "etc"
+    ],
+    "tags": [
+      "앤트로픽",
+      "세이프가드",
+      "AI투명성",
+      "답변왜곡",
+      "보이지않는개입"
+    ]
+  }
+}

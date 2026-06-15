@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "iqsZSNt7nEA",
+    "title": "\"한국 노조 초토화\" 10년을 준비한 현대차의 역대급 결단, 세계가 경악한 이유",
+    "published": "2026-06-15T09:00:28+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=iqsZSNt7nEA",
+    "thumbnail": "https://img.youtube.com/vi/iqsZSNt7nEA/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "현대자동차가 <span class=\"text-cyan-300 font-semibold\">보스턴 다이나믹스</span>를 인수한 것은 국내 생산직의 강한 노조 리스크를 우회하고 미래 <span class=\"text-cyan-300 font-semibold\">휴머노이드 로봇</span> 시장을 선점하기 위한 장기 포석이다. 이탈리아 및 미국 연구에 따르면 로봇 도입은 단순 해고가 아닌 고임금 관리직 이동의 커리어 사다리를 잠식하는 효과가 있다. 2035년까지 휴머노이드 시장이 380억 달러로 성장하면서 로봇 핵심 부품 기업들의 과실 공유가 기대된다.",
+    "key_claims": [
+      "보스턴 다이나믹스 인수는 <span class=\"text-amber-300 font-bold\">노조 리스크 우회</span>와 생산성 제고를 노린 장기 시나리오다.",
+      "로봇 도입 1%당 반복 노동 강도가 급감하여 노동자의 평생 기대 소득이 감소할 수 있다.",
+      "<span class=\"text-cyan-300 font-semibold\">액추에이터, 센서, 배터리</span> 등 하드웨어 부품사들이 시장 성장의 핵심 수혜자가 될 것이다."
+    ],
+    "data_points": [
+      "로봇 도입 1%포인트당 반복 노동 동작 0.834%포인트 감소",
+      "미국 기준 로봇 1대 추가당 평균 커리어 밸류 1.5% 급감 및 3,360달러 평생 소득 감소",
+      "2035년까지 휴머노이드 로봇 시장 380억 달러 성장 전망"
+    ],
+    "signal": "bullish",
+    "signal_reason": "강력한 글로벌 제조 경쟁력을 갖춘 로봇 플랫폼과 부품 생태계의 중장기 동반 성장이 확실시된다.",
+    "key_companies": [
+      "현대자동차",
+      "Boston Dynamics",
+      "레인보우로보틱스",
+      "Tesla"
+    ],
+    "insight": "기술 혁신의 흐름은 거역할 수 없으며, 노조 리스크가 없는 해외 신공장에서부터 로봇 기반의 무인 공정이 먼저 확산되어 전통 고용 구조를 완전히 바꿀 것이다.",
+    "action_point": "로봇에 필수로 들어가는 핵심 하드웨어(특히 <span class=\"text-cyan-300 font-semibold\">전고체 배터리</span> 및 구동용 모터/액추에이터) 대장주에 장기 투자하라."
+  },
+  "classification": {
+    "primary_topic": "robot",
+    "secondary_topics": [
+      "tech",
+      "stock"
+    ],
+    "tags": [
+      "현대자동차",
+      "보스턴다이나믹스",
+      "휴머노이드",
+      "로봇부품",
+      "일자리대체"
+    ]
+  }
+}
