@@ -1,0 +1,49 @@
+{
+  "video": {
+    "id": "-67LEDMWFBg",
+    "title": "\"전쟁 끝나면 유가•금리 내리고 순환매\" 정말 그럴까요 | 빈난새의 빈틈없이월가",
+    "published": "2026-06-16T01:00:15+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=-67LEDMWFBg",
+    "thumbnail": "https://img.youtube.com/vi/-67LEDMWFBg/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미-이란 종전 합의에 대한 양해각서 서명으로 유가와 금리가 하락했으나, <span class=\"text-amber-300 font-bold\">물류 정상화 지연</span>과 각국의 <span class=\"text-violet-300 font-medium\">전략비축유 재매입 수요</span>로 유가가 급격히 하락하긴 어려울 전망입니다. 또한 신임 연준 의장 <span class=\"text-cyan-300 font-semibold\">케빈 워시</span>가 주재하는 첫 <span class=\"text-amber-300 font-bold\">FOMC 회의</span>를 앞두고 통화 정책의 매파적 스탠스 경계감이 커지고 있습니다. 미국 경제가 강력한 <span class=\"text-cyan-300 font-semibold\">AI 설비투자(CapEx)</span>를 기반으로 버티고 있어, 시장이 기대하는 광범위한 경기 순환매보다는 <span class=\"text-cyan-300 font-semibold\">AI/반도체 주도주</span> 독주 장세가 연장될 가능성이 높습니다.",
+    "key_claims": [
+      "미-이란 종전 합의 이후에도 물류 정상화에는 최소 1~3개월이 소요되며, 이란이 호르무즈 해협 통행에 서비스 비용을 징수할 여지가 있어 유가 하락 속도가 제한될 수 있음.",
+      "미국 경제 성장률의 상당 부분을 <span class=\"text-cyan-300 font-semibold\">AI 설비투자</span>가 견인하고 있어 고금리 상태가 장기화되어도 기술주 투자 사이클은 유지될 것임.",
+      "금리와 유가가 쉽게 떨어지지 않는 고금리 장기화 환경에서는 펀더멘탈이 견조한 소수 <span class=\"text-cyan-300 font-semibold\">AI 대장주</span>로 수급이 회귀하게 됨."
+    ],
+    "data_points": [
+      "미국의 전략 비축유 수준: 1983년 이후 최저 수준",
+      "올해 하이퍼스케일러들의 AI CapEx 예상 규모: 약 8,000억 달러 (미국 GDP의 2% 초과)",
+      "올해 미국 GDP 성장률 전망치 중 AI CapEx 기여도: 약 1%포인트 수준"
+    ],
+    "signal": "neutral",
+    "signal_confidence": "high",
+    "signal_reason": "중동 지정학 리스크 완화로 단기 유가는 안정되었으나, 전략비축유 재고 확충 수요 및 강력한 미국 경제 펀더멘탈로 인해 금리 하락 및 경기 민감주로의 대규모 순환매 확산세는 다소 제약될 수 있기 때문임.",
+    "key_companies": [
+      "JP모건",
+      "모건스탠리",
+      "앤스로픽"
+    ],
+    "insight": "전쟁 종식이 즉각적인 <span class=\"text-amber-300 font-bold\">금리 인하</span>와 경기 민감주 랠리로 이어질 것이라는 나이브한 기대는 경계해야 함. AI 투자는 국가 안보 및 리쇼어링과 직결된 메가 트렌드로, 금리 수준과 무관하게 독자적인 투자 사이클을 그리고 있어 <span class=\"text-cyan-300 font-semibold\">반도체 및 인프라</span> 기업의 이익 경로는 훼손되지 않을 것임.",
+    "action_point": "금리 인하 지연으로 타격을 입을 수 있는 레버리지 높은 경기 민감주보다는, 확실한 수주 장고와 강한 자금력을 보유한 <span class=\"text-cyan-300 font-semibold\">AI 인프라 및 핵심 반도체주</span> 위주로 포트폴리오를 압축하는 전략이 안전함."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock",
+      "tech"
+    ],
+    "tags": [
+      "미이란합의",
+      "유가전망",
+      "FOMC",
+      "연준의장",
+      "케빈워시",
+      "순환매",
+      "AI설비투자"
+    ]
+  }
+}

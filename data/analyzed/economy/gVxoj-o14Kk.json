@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "gVxoj-o14Kk",
+    "title": "The three major South Korean shipbuilders will earn 10 trillion won this year.",
+    "published": "2026-06-16T04:27:10+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=gVxoj-o14Kk",
+    "thumbnail": "https://img.youtube.com/vi/gVxoj-o14Kk/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "국내 조선 3사(HD현대, 한화오션, 삼성중공업)의 올해 1분기 합산 영업이익이 사상 최초로 2조 원을 돌파하며 어닝 서프라이즈를 기록했습니다. 이에 힘입어 2026년 연간 기준 합산 영업이익 <span class=\"text-amber-300 font-bold\">10조 원 돌파</span>가 확실시되며, 제조업 부문에서 이례적으로 높은 수준인 <span class=\"text-amber-300 font-bold\">약 20%의 마진율</span> 달성 기대감이 고조되고 있습니다. 2026년 실적은 피크(Peak)가 아니며 조선 업계 전반의 장기 슈퍼사이클이 본격화되고 있음을 입증하고 있습니다.",
+    "key_claims": [
+      "국내 조선 3사의 영업 실적이 동반 흑자를 넘어 조 단위의 대형 어닝 서프라이즈 구간에 정식 진입함.",
+      "전통적인 저마진 제조업으로 인식되던 조선 업계의 이익률 체력이 선가 상승과 친환경 선박 수주 확대에 힘입어 20%선까지 격상될 수 있음.",
+      "현재 도출되고 있는 호실적은 단기 정점이 아니며 향후 수년간 실적 우상향 경로가 지속될 것임."
+    ],
+    "data_points": [
+      "조선 3사 1분기 합산 영업이익: 약 2조 원 (사상 최대)",
+      "2026년 연간 합산 영업이익 전망치: 10조 원 이상 수준",
+      "목표 영업이익률 레벨: 약 20% 수준"
+    ],
+    "signal": "bullish",
+    "signal_confidence": "high",
+    "signal_reason": "다년간 쌓아온 고부가가치 선박 수주잔고가 매출로 본격 인식되는 가운데 선가 상승세가 유지되어 조선 3사의 연간 이익 체력이 사상 최고치(10조 원 돌파)로 리레이팅되는 국면이기 때문임.",
+    "key_companies": [
+      "HD현대중공업(329180)",
+      "한화오션(042660)",
+      "삼성중공업(010140)"
+    ],
+    "insight": "수주 랠리 이후 실제 실적으로 인도되기까지 발생하는 2~3년의 시차가 마침내 이익 폭발 구간으로 전환되었음. 높은 진입 장벽과 친환경 규제로 인해 도크 쇼티지가 지속되는 만큼, <span class=\"text-cyan-300 font-semibold\">조선 3사</span>의 가격 협상력과 마진 개선세는 쉽게 꺾이지 않을 것임.",
+    "action_point": "실적 피크아웃 우려로 인해 주가 조정을 받을 시 이를 강력한 매수 기회로 삼아 한국 <span class=\"text-cyan-300 font-semibold\">조선 대장주</span>들의 포트폴리오 비중을 늘려갈 것을 권장함."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "조선3사",
+      "HD현대중공업",
+      "한화오션",
+      "삼성중공업",
+      "어닝서프라이즈",
+      "조선슈퍼사이클"
+    ]
+  }
+}
