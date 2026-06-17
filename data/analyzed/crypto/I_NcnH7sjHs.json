@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "I_NcnH7sjHs",
+    "title": "매달 80만 원씩 비트코인을 모으면, 15년 뒤 노후가 달라집니다ㅣ이장우·박종한·강승구 [풀영상]",
+    "published": "2026-06-16T10:07:01+00:00",
+    "channel_name": "이효석아카데미",
+    "url": "https://www.youtube.com/watch?v=I_NcnH7sjHs",
+    "thumbnail": "https://img.youtube.com/vi/I_NcnH7sjHs/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "전 세계 비트코인의 한정된 공급량(2,100만 개)에 착안해 상위 1% 자산 계층 진입을 위한 <span class=\"text-cyan-300 font-semibold\">0.21 비트코인 적립 목표</span>가 제시됨. 극심한 시장 변동성을 극복하기 위해 매달 80만 원 수준의 <span class=\"text-amber-300 font-bold\">정립식 투자(DCA)</span>를 활용, 장기적인 국가 화폐 가치 하락 및 재정 리스크에 대응하는 은퇴 전략이 입증됨.",
+    "key_claims": [
+      "비트코인은 2,100만 개라는 절대적 희소성을 가진 자산으로, 전 세계 인구 중 단 0.21개만 보유해도 상위 1%의 부를 확보하는 효과를 지님.",
+      "변동성이 극도로 높은 자산 특성상 일시불 매수보다 매달 소액으로 꾸준히 사 모으는 정립식 매수(DCA)가 평균단가 조절에 가장 유리함.",
+      "정부의 국채 발행 남발과 피아트 화폐 가치의 인위적 디플레이션 속에서, 비트코인은 국가 리스크가 배제된 중립적 개인 금고 기능을 수행함."
+    ],
+    "data_points": [
+      "비트코인 총 발행 한도: 2,100만 개",
+      "상위 1% 진입을 위한 비트코인 보유 기준량: 0.21 BTC",
+      "비트세이빙 서비스 사용자 수: 약 13,000명 돌파"
+    ],
+    "signal": "bullish",
+    "signal_confidence": "medium",
+    "signal_reason": "거시 경제의 재정 적자 누적과 통화 가치 절하 흐름 속에서 <span class=\"text-cyan-300 font-semibold\">비트코인의 희소 자산 매력</span>이 장기 축적 수요에 의해 확고한 하방 지지선을 형성하고 있기 때문임.",
+    "key_companies": [],
+    "insight": "비트코인은 전통 금융 주식이나 채권 포트폴리오의 하락 시 보조적인 대체 자산으로서 가치가 있으며, 단기 트레이딩 대상이 아닌 화폐 가치 절하에 대비해 장기 보유(HODL) 및 DCA로 축적해야 할 자산 범주임.",
+    "action_point": "투자 포트폴리오의 2~5% 수준에서 매달 일정한 현금 흐름을 활용해 <span class=\"text-cyan-300 font-semibold\">비트코인을 정립식으로 매수</span>하는 시스템을 구축하고, 단기 변동성 급락 시 동요하지 않고 10년 이상의 장기 호흡으로 보유하는 전략을 가져가야 함."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "stock",
+      "economy"
+    ],
+    "tags": [
+      "비트코인DCA",
+      "은퇴준비",
+      "희소자산",
+      "화폐가치하락"
+    ]
+  }
+}

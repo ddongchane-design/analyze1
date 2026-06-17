@@ -1,0 +1,38 @@
+{
+  "video": {
+    "id": "Q27x4mRgX4I",
+    "title": "앞으로 10년을 결정할 세계 경제의 5가지 갈림길 #교양이를부탁해",
+    "published": "2026-06-16T11:30:01+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=Q27x4mRgX4I",
+    "thumbnail": "https://img.youtube.com/vi/Q27x4mRgX4I/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "향후 10년의 세계 경제를 규정할 5가지 핵심 갈림길로 <span class=\"text-amber-300 font-bold\">지정학적 리스크</span>, 양극화(K자 성장), <span class=\"text-cyan-300 font-semibold\">연준 의장 교체</span>와 독립성 흔들림, AI 혁명의 성공 여부, 그리고 <span class=\"text-rose-400 font-medium\">미국 1극 주의</span> 평판 저하에 따른 탈(脫)미국 다변화 투자를 제시함.",
+    "key_claims": [
+      "지정학 갈등은 종전 후에도 새로운 질서를 형성하며 경제적 갈림길이 될 것임.",
+      "자산 인플레이션은 자본주의 내 양극화를 가속화할 것임.",
+      "연준 의장이 친정치적 인물로 교체될 경우 독립성 훼손으로 물가 제어가 어려워질 수 있음.",
+      "트럼프 행정부의 관세 부과 및 자국 우선주의는 미국의 평판 리스크(소프트파워 저하)를 높여 미국 올인 투자에 의문을 던짐."
+    ],
+    "data_points": [],
+    "signal": "neutral",
+    "signal_confidence": "medium",
+    "signal_reason": "장기적 경제 체질 변화를 유발하는 매크로 변수들이며, 단기적인 지수 등락보다는 자산 배분의 패러다임 전환을 논하고 있기 때문임.",
+    "key_companies": [],
+    "insight": "미국의 일방적 1극 주의와 지정학 불안은 과거 안정적이었던 물가와 금리 구조를 해체하고 있음. 특히 연준의 정치화 우려와 인플레이션 고착화는 장기 자산 배분에서 미국 중심 일변도에서 벗어나 지리적, 자산군별 <span class=\"text-amber-300 font-bold\">포트폴리오 다변화</span>를 진지하게 고민하게 만드는 신호임.",
+    "action_point": "미국 빅테크 위주의 포트폴리오 쏠림을 점검하고, 지정학적 완충 지대 역할을 하거나 미국 정책 변화(관세 등)에 대응력이 높은 <span class=\"text-cyan-300 font-semibold\">글로벌 대안 자산 및 신흥국 우량주</span> 비중을 점진적으로 다변화하는 장기 전략을 세워야 함."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "세계경제전망",
+      "지정학적리스크",
+      "연준독립성",
+      "양극화"
+    ]
+  }
+}

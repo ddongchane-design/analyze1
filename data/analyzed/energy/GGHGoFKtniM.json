@@ -1,0 +1,40 @@
+{
+  "video": {
+    "id": "GGHGoFKtniM",
+    "title": "중동 전쟁 이후의 유가, 왜 이전 가격으로 못 돌아가나 #교양이를부탁해",
+    "published": "2026-06-16T12:15:13+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=GGHGoFKtniM",
+    "thumbnail": "https://img.youtube.com/vi/GGHGoFKtniM/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "중동 전쟁 종식 후 호르무즈 해협이 개방되더라도 국제 유가가 전쟁 이전 수준(배럴당 60달러)으로 즉각 하락하기는 어려움. 이란(오펙 생산 능력 3위), 사우디, 카타르, UAE 등의 <span class=\"text-violet-300 font-medium\">에너지 생산/가스 시설 파괴</span>로 생산 재건에 최소 6개월에서 2년의 시간이 소요되기 때문임. 추가로 재발 우려에 따른 용선료, 선원 인건비, <span class=\"text-rose-400 font-medium\">해상 보험료 상승</span> 등 운송비 부담이 영구적으로 상향 평준화된 것도 유가를 지지하는 원인임.",
+    "key_claims": [
+      "전쟁이 끝나 호르무즈 해협이 개방되어도 에너지 공급량이 예전 수준으로 바로 회복될 수 없음 (인프라 복구에 6개월~2년 소요).",
+      "호르무즈 위험 프리미엄으로 인해 용선료, 인건비, 보험료 등 운송 비용이 구조적으로 증가함."
+    ],
+    "data_points": [
+      "전쟁 이전 국제 유가: 배럴당 60달러 수준",
+      "현재 국제 유가 수준: 배럴당 약 90달러 수준 (피크 120달러 기록 후)",
+      "이란 산유국 능력 순위: 오펙(OPEC) 내 3위"
+    ],
+    "signal": "neutral",
+    "signal_confidence": "medium",
+    "signal_reason": "유가가 전쟁 이전 수준(60달러대)으로 빠르게 회귀하기 어려워 고유가 기조가 장기화됨에 따라, 글로벌 <span class=\"text-rose-400 font-medium\">인플레이션 압박</span>과 금리 인하 지연 리스크가 장기화될 수 있기 때문임.",
+    "key_companies": [],
+    "insight": "원유 공급선이 열리더라도 지정학적 불안이 남긴 상흔(시설 파괴 및 보험료 상향)은 물류 및 에너지 공급망 전체에 <span class=\"text-violet-300 font-medium\">영구적인 추가 비용 구조</span>를 장착시킴. 이는 에너지 가격의 하방 지지선을 높이고 고물가 장기화 요인으로 작용함.",
+    "action_point": "유가의 빠른 안정화를 가정한 공격적인 금리 인하 수혜주 투자(중소형 성장주 등) 비중을 일시적으로 조율하고, 전통 <span class=\"text-cyan-300 font-semibold\">에너지 기업 및 조선/해운 물류</span> 업종의 마진 방어 능력을 평가해 포트폴리오를 구성해야 함."
+  },
+  "classification": {
+    "primary_topic": "energy",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "국제유가",
+      "지정학적리스크",
+      "운송비상승",
+      "보험료상승"
+    ]
+  }
+}

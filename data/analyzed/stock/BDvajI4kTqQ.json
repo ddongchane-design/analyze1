@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "BDvajI4kTqQ",
+    "title": "분산투자의 함정, 개인투자자가 놓치는 핵심은? | 박병창 MP파트너스 대표 [마켓 인사이드]",
+    "published": "2026-06-17T00:32:47+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=BDvajI4kTqQ",
+    "thumbnail": "https://img.youtube.com/vi/BDvajI4kTqQ/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국의 <span class=\"text-cyan-300 font-semibold\">스페이스X</span> 폭등에 따른 수급 쏠림으로 엔비디아, 마이크론 등 반도체 주도주가 일시 조정을 받은 가운데, 미 행정부의 항소 포기로 풍력 개발 규제가 무너지며 국내 <span class=\"text-cyan-300 font-semibold\">풍력 기자재 기업(CS윈드 등)</span>들이 무더기 상한가를 기록함. 또한 일본 BOJ의 금리 인상(1%)과 한국은행의 추가 긴축 가능성이 부각되나 채권 시장은 안정세를 보이고 있음.",
+    "key_claims": [
+      "스페이스X의 단기 폭등(시총 2.9조 달러)이 패시브 수급을 흡수하여 기존 M7 빅테크와 반도체 섹터의 차익 실현을 자극함.",
+      "미국 법원의 풍력 규제 위헌 판결 및 행정부의 항소 포기로 신재생에너지 정책 리스크가 제거되며 풍력주가 부활함.",
+      "한-일 양국 중앙은행의 긴축 움직임(BOJ 1%로 인상, 한은 추가 인상 가능성) 속에서 단기 금리 상승 영향은 이미 시장에 선반영됨."
+    ],
+    "data_points": [
+      "필라델피아 반도체 지수 하락률: 5.7% (마이크론 -6%, 샌디스크 -5.5% 등 동반 하락)",
+      "스페이스X 최고 주가 및 시총: 주당 225달러 (시총 2.9조 달러 도달)",
+      "일본 BOJ 기준금리 도달 수준: 1.0% (1995년 이후 약 30년 만에 최고치)"
+    ],
+    "signal": "neutral",
+    "signal_confidence": "medium",
+    "signal_reason": "풍력 규제 취소와 금리 우려 완화는 긍정적이나, <span class=\"text-rose-400 font-medium\">스페이스X의 수급 블랙홀 효과</span>로 반도체 소부장 및 기존 주도주들의 변동성이 확대되는 구간이기 때문임.",
+    "key_companies": [
+      "스페이스X",
+      "CS윈드(112610)",
+      "마이크론(MU)",
+      "엔비디아(NVDA)"
+    ],
+    "insight": "개인 투자자의 무분별한 포트폴리오 다변화는 오히려 수익률을 갉아먹는 함정이 될 수 있으며, 시장 주도권이 명확한 섹터(AI 메모리)의 비중을 지키되 정책 리스크가 해소된 풍력 등 특정 순환매 섹터를 선별적으로 편입하는 스페이스 분산이 요구됨.",
+    "action_point": "스페이스X의 쏠림으로 인해 하락한 <span class=\"text-cyan-300 font-semibold\">마이크론 등 메모리 반도체 주도주</span>는 적극적인 비중 확대 기회이며, 정책 불확실성이 걷힌 <span class=\"text-cyan-300 font-semibold\">풍력 및 원전주</span>를 바스켓으로 일부 분산 투자하는 전략이 유효함."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy",
+      "energy"
+    ],
+    "tags": [
+      "분산투자의함정",
+      "스페이스X수급",
+      "풍력관련주",
+      "금리인상우려"
+    ]
+  }
+}

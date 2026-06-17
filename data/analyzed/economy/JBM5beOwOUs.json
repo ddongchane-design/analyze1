@@ -1,0 +1,41 @@
+{
+  "video": {
+    "id": "JBM5beOwOUs",
+    "title": "연준 의장이 바뀌면 내 주식은 어떻게 되는 걸까? [리뷰효]",
+    "published": "2026-06-16T11:36:50+00:00",
+    "channel_name": "이효석아카데미",
+    "url": "https://www.youtube.com/watch?v=JBM5beOwOUs",
+    "thumbnail": "https://img.youtube.com/vi/JBM5beOwOUs/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "신임 연준 의장 <span class=\"text-cyan-300 font-semibold\">케빈 워시</span>가 과거 버냉키 시절부터 이어온 친절한 연준(투명한 포워드 가이드)을 종식하고, 1990년대 앨런 그린스펀식 <span class=\"text-amber-300 font-bold\">건설적 모호성</span>(침묵 전략)으로 회귀할 것임. 파월 의장의 인플레이션 일시적(Transitory) 오류와 무분별한 점도표 발언이 연준 신뢰성을 훼손했다고 보아, 개별 데이터에 일희일비하지 않는 정책을 선언할 가능성이 큼. 이는 시장에 AI 생산성 혁신에 기반한 <span class=\"text-cyan-300 font-semibold\">AI 버블 용인</span> 신호로 해석되어 단기적으로 주식 시장에 긍정적이나, 장기적으로는 닷컴 버블과 유사한 과열을 부를 수 있음.",
+    "key_claims": [
+      "케빈 워시는 연준의 과도한 포워드 가이던스와 점도표가 시장을 혼란스럽게 하고 신뢰도를 떨어뜨렸다고 강하게 비판함.",
+      "워시는 투명성보다 정책의 유연성을 확보하기 위해 앨런 그린스펀식의 모호하고 소통을 제한하는 침묵 전략을 선호함.",
+      "시장은 워시의 침묵과 AI 생산성 신뢰를 연준의 'AI 버블 묵인/용인'으로 해석하여 테크주 위주의 투기적 랠리를 이어갈 개연성이 큼."
+    ],
+    "data_points": [
+      "버냉키 의장의 통화 정책 철학: 시장과의 협력 게임 및 투명한 포워드 가이던스 중시",
+      "그린스펀 의장의 통화 정책 철학: 건설적 모호성 및 통화 소통 제한"
+    ],
+    "signal": "bullish",
+    "signal_confidence": "medium",
+    "signal_reason": "연준이 단기 물가 지표에 기계적으로 대응하지 않고 AI 생산성 혁신을 신뢰해 모호성을 유지할 경우, 긴축 완화 우려가 줄어들며 <span class=\"text-cyan-300 font-semibold\">AI 및 빅테크 밸류체인</span> 중심의 자산 팽창(버블)이 추가로 진행될 수 있기 때문임.",
+    "key_companies": [],
+    "insight": "워시의 그린스펀식 회귀는 단기적으로 지표 발표 때마다 흔들리던 시장 발작을 줄여줄 수 있음. 그러나 연준의 경고음(금리 인상 구두 개입 등)이 사라진 상태에서 시장이 AI 생산성을 무제한으로 선반영해 밸류에이션을 올릴 경우, 90년대 후반의 <span class=\"text-rose-400 font-medium\">닷컴 버블 재현</span>이라는 장기적인 시스템적 리스크를 누적하게 됨.",
+    "action_point": "연준의 긴축 개입 부담이 줄어드는 구간에서 <span class=\"text-cyan-300 font-semibold\">엔비디아 등 AI 핵심 주도주</span> 중심의 모멘텀 랠리를 향유하되, 밸류에이션 멀티플이 역사적 극단에 도달할 경우 닷컴 버블 붕괴 모델을 참고해 리스크 관리 비중을 점진적으로 높여야 함."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock",
+      "tech"
+    ],
+    "tags": [
+      "케빈워시연준의장",
+      "그린스펀모호성",
+      "AI버블용인",
+      "포워드가이던스"
+    ]
+  }
+}

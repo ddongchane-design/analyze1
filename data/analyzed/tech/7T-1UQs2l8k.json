@@ -1,0 +1,36 @@
+{
+  "video": {
+    "id": "7T-1UQs2l8k",
+    "title": "중국 3단계 자율주행 절대 안 나오는 이유",
+    "published": "2026-06-16T14:15:09+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=7T-1UQs2l8k",
+    "thumbnail": "https://img.youtube.com/vi/7T-1UQs2l8k/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "자율주행 <span class=\"text-cyan-300 font-semibold\">L3(레벨3)</span> 단계부터는 사고 발생 시 운전 책임이 운전자가 아닌 자율주행 시스템에 귀속됨. 이로 인해 법적 책임 리스크를 회피하고자 중국 등 글로벌 제조사들은 기능이 FSD급이어도 L3 명칭 대신 <span class=\"text-amber-300 font-bold\">L2 플러스</span>(L2+)로 호칭하고 있음. 결과적으로 사고 책임 부담 때문에 전 세계적으로 L3 레벨의 자율주행 시스템 도입은 거의 괴멸 상태를 보이고 있음.",
+    "key_claims": [
+      "L3 단계부터는 운전자의 전방 주시 의무가 사라지고 운전 책임이 시스템으로 넘어가기 때문에 기업들이 이를 회피하려고 함.",
+      "제조사들이 FSD 수준의 자율주행 기능을 구현하더라도 법적 책임을 면하기 위해 L2플러스로 명명함."
+    ],
+    "data_points": [],
+    "signal": "neutral",
+    "signal_confidence": "high",
+    "signal_reason": "기술적으로 자율주행 고도화가 이뤄지고 있으나 제조사들의 <span class=\"text-rose-400 font-medium\">법적 책임 문제</span>로 상용 L3 자율주행의 제도적 보급이 지연되고 있기 때문임.",
+    "key_companies": [],
+    "insight": "자율주행 기술의 완성도와 별개로, 법적 책임 소재의 변곡점인 L3 단계의 도입은 글로벌 메이커들에게 극심한 <span class=\"text-rose-400 font-medium\">소송 및 제조 책임 리스크</span>를 안겨줌. 따라서 시장은 안전과 규제 리스크를 우회하면서도 성능을 극대화할 수 있는 L2+ 하이브리드 노선을 지속 채택할 것으로 보임.",
+    "action_point": "자율주행 산업 투자 시 완전자율주행(L3 이상) 기대감만으로 접근하기보다는, 현실적인 타협안인 <span class=\"text-cyan-300 font-semibold\">ADAS 및 L2+ 솔루션</span> 공급으로 매출을 일으키는 소부장 및 소프트웨어 솔루션 기업에 주목해야 함."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "etc"
+    ],
+    "tags": [
+      "자율주행",
+      "L3",
+      "법적책임",
+      "L2플러스"
+    ]
+  }
+}

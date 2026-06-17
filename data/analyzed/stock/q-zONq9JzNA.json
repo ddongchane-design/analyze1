@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "q-zONq9JzNA",
+    "title": "반도체만 담기 불안한 장세…조선·소비재로 분산해야 할 타이밍ㅣ명민준, 최효은, 황유현 [주린이 구조대]",
+    "published": "2026-06-16T14:00:32+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=q-zONq9JzNA",
+    "thumbnail": "https://img.youtube.com/vi/q-zONq9JzNA/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "반도체 일변도의 쏠림에서 탈피해 역사적 슈퍼사이클을 맞이한 <span class=\"text-cyan-300 font-semibold\">조선 3사</span>와 트럼프 규제 리스크 해소로 급반등한 <span class=\"text-cyan-300 font-semibold\">풍력 섹터(CS윈드 등)</span>로 자금이 분산되는 순환매가 시작됨. 유가 하락 안정화 수혜를 입는 백화점 등 전통 내수 소비재도 매력적인 하방 지지를 받고 있음.",
+    "key_claims": [
+      "반도체 주도주의 단기 차익 실현 매물이 나오는 시점에서, 친환경 선가 상승세를 띤 조선주가 주도주 대안으로 부각됨.",
+      "미 행정부의 항소 포기로 풍력 규제 소송이 일단락되어 풍력 소부장 기업들의 주주 리스크가 완전히 해소됨.",
+      "유가 갤런당 4달러 붕괴에 따른 가계 소비력 회복 논리를 바탕으로 백화점 및 유통 섹터의 단기 밸류에이션 갭 메우기가 나타남."
+    ],
+    "data_points": [
+      "미국 갤런당 휘발유 가격: 4달러 하회 (두 달 만에 최저치)",
+      "조선 업계 선가 지수: 친환경선 중심의 지속적인 상승세 유지"
+    ],
+    "signal": "bullish",
+    "signal_confidence": "high",
+    "signal_reason": "반도체의 주도권이 꺾인 것이 아니라 수급이 <span class=\"text-cyan-300 font-semibold\">조선, 방산, 풍력</span> 등 호실적 자본재 및 정책 수혜 섹터로 고르게 확산되며 시장의 펀더멘탈 체력이 다변화되고 있기 때문임.",
+    "key_companies": [
+      "HD현대중공업(329180)",
+      "CS윈드(112610)",
+      "한화오션(042660)",
+      "현대백화점(069960)"
+    ],
+    "insight": "시장이 단기 도파민(빅테크 쏠림)에서 벗어나 실적이 가시화되는 기계/조선/방산/에너지 등 구경제(Old Economy) 인프라로 온기를 넓히는 과정임. 특히 조선업은 다년치 수주 잔고와 친환경 규제 수혜로 매크로 변동성과 무관하게 실적 우상향이 확실한 업종임.",
+    "action_point": "반도체 핵심 포지션을 유지한 채, 슈퍼사이클 어닝 서프라이즈가 기대되는 <span class=\"text-cyan-300 font-semibold\">HD현대중공업/한화오션</span>과 소송 승소로 규제 족쇄가 풀린 <span class=\"text-cyan-300 font-semibold\">CS윈드</span>를 포트폴리오에 적극 분산 편입하는 로테이션 전략이 바람직함."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy",
+      "energy"
+    ],
+    "tags": [
+      "조선슈퍼사이클",
+      "풍력관련주",
+      "소비재순환매",
+      "수급분산"
+    ]
+  }
+}
