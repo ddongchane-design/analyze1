@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "NVrBe6ldKjc",
+    "title": "[Breaking News] June FOMC Review, Kevin Warsh’s Appearance! The Impact on Financial Markets",
+    "published": "2026-06-18T06:21:00+00:00",
+    "channel_name": "이효석아카데미",
+    "url": "https://www.youtube.com/watch?v=NVrBe6ldKjc",
+    "thumbnail": "https://img.youtube.com/vi/NVrBe6ldKjc/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "6월 FOMC 회의 결과와 신임 연준 의장 <span class=\"text-cyan-300 font-semibold\">케빈 워시</span>가 선보인 파격적인 연준 구조조정 행보를 해석합니다.\n워시는 기존 파월 의장이 장황하게 수식어를 붙여 작성했던 성명서를 빨간 펜으로 다 지워버리고 간결한 팩트만 남겨 시장과의 소통 노이즈를 최소화했습니다.\n자신은 점도표 작성을 거부하여 점도표의 권위를 강제로 훼손하는 한편, 설문에만 의존하던 기존 구식 데이터를 폐기하고 빅테크의 실시간 트래픽 등을 활용하기 위한 5개의 <span class=\"text-cyan-300 font-semibold\">연준 개혁 테스크포스(TF)</span> 설치를 선언해 자신의 정책적 통제권을 극대화하려 합니다.",
+    "key_claims": [
+      "케빈 워시는 점도표의 예측 무용론을 입증하기 위해 의도적으로 점 제출을 생략하며 점도표를 참고하지 말라는 시그널을 주었습니다.",
+      "파월의 구식 관행적 커뮤니케이션을 폐지하고 시장의 자의적 해석을 차단하는 극단적인 <span class=\"text-rose-400 font-medium\">정보 비대칭 통제</span>를 시작했습니다.",
+      "데이터 출처, 생산성 평가, 대차대조표 축소, 인플레 프레임워크를 다루는 TF는 연준의 의사 결정 방식을 워시의 지론(생산성 우선)대로 정립하는 수단입니다."
+    ],
+    "data_points": [
+      "6월 연준 성명서 글자 수: 기존 340여 단어에서 핵심 132단어로 대폭 칼질",
+      "미국 국채 2년물 금리: 연준 긴축 기조 확인 후 당일 14bp 급등해 4.2% 터치",
+      "변동성 지수(VIX): 발표 직후 12% 급등하며 18.4 기록"
+    ],
+    "signal": "neutral",
+    "signal_reason": "워시의 파격적인 연준 개혁과 모호성은 시장 금리를 자극하고 불확실성을 키워 단기 변동성을 연출하지만, 데이터 수집 고도화를 통한 합리적 의사결정 체계 구축은 중장기적으로 중립 이상의 긍정 효과를 가집니다.",
+    "key_companies": [],
+    "insight": "워시는 시장을 안심시키기 위해 겉으로는 '물가 2% 안착'을 단호하게 외쳐 매파적인 면모를 내세웠으나, 이면에서는 AI 생산성 데이터를 구축해 금리를 빠르게 인하할 논리적 근거(TF)를 세팅 중인 양면성을 가집니다.",
+    "action_point": "단기적인 성명서 문구 삭제나 금리 10~15bp 변동에 따른 노이즈에 과민반응해 손절하기보다, 워시가 주도하는 연준의 실시간 데이터 지향 정책이 가시화될 때까지 우량 포트폴리오를 유지하는 것이 바람직합니다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "케빈워시",
+      "FOMC리뷰",
+      "점도표거부",
+      "연준개혁TF",
+      "구조조정",
+      "매파적데뷔"
+    ]
+  }
+}
