@@ -1,0 +1,48 @@
+{
+  "video": {
+    "id": "GRRzeDXLWDE",
+    "title": "엘니뇨보다 더 큰 변수? 올여름 한반도 날씨가 위험한 이유",
+    "published": "2026-06-18T11:00:08+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=GRRzeDXLWDE",
+    "thumbnail": "https://img.youtube.com/vi/GRRzeDXLWDE/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "올해 한반도 여름 기후는 유례없이 강한 <span class=\"text-amber-300 font-bold\">엘니뇨 현상</span>과 지구 온난화가 결합하여 폭염과 집중호우가 번갈아 나타나는 극단적 변동성을 보일 전망입니다.\n바다 온도가 상승함에 따라 공기 중 수증기량이 기온 1도 상승 시 약 7%씩 증가하는 <span class=\"text-rose-400 font-medium\">기후 위험</span>이 증폭되어, 태풍이 직접 상륙하지 않더라도 대규모 물 폭탄을 유발할 수 있습니다.\n또한, 대서양 자오선 역전 순환(<span class=\"text-cyan-300 font-semibold\">AMOC</span>)의 약화로 인한 글로벌 제트 기류 및 수온 분포의 구조적 변화가 장기적인 기상 예측 불가성을 높이고 있습니다.",
+    "key_claims": [
+      "엘니뇨에 지구 온난화가 결합하면서 태풍이 한반도로 북상할 때 차가운 바다를 만나 힘이 빠지던 과거의 <span class=\"text-amber-300 font-bold\">날씨 알고리즘</span>이 붕괴하고 있다.",
+      "기온이 1도 오를 때마다 공기가 머금을 수 있는 수증기량이 약 7% 늘어나(클라우지우스-클라페이론 관계), 비구름의 물폭탄 에너지가 극대화된다.",
+      "대서양 열 순환 벨트인 <span class=\"text-cyan-300 font-semibold\">AMOC</span>의 둔화는 전 지구적 기후 균형을 무너뜨려 기상 이변 예측 기준 자체를 영구적으로 변화시키고 있다."
+    ],
+    "data_points": [
+      "공기가 먹음을 수 있는 수증기의 양은 기온이 1도 오를 때마다 약 7%씩 늘어납니다.",
+      "2025년 11월 아이슬란드 정부는 AMOC 붕괴 위험을 국가 안보 차원의 위협으로 공식적으로 다루기 시작했습니다.",
+      "아열대 해는 AMOC가 10년에 약 1 스배드럽씩 느려지고 있다는 보고도 나왔는데... 1 스베드럽은 초당 100만세제곱미터의 물이 흐르는 양",
+      "작년 2025년에 우리나라에 상륙한 태풍은 놀랍게도 단 한 개도 없었습니다."
+    ],
+    "signal": "bearish",
+    "signal_confidence": "medium",
+    "signal_reason": "전 지구적 기온 상승과 <span class=\"text-cyan-300 font-semibold\">AMOC</span>의 감속 등 통제 불가능한 매크로 기후 이상이 농업, 인프라 시설, 화재/재해 보험 산업에 직접적인 <span class=\"text-rose-400 font-medium\">재난 리스크 비용</span>을 크게 증가시키기 때문입니다.",
+    "key_companies": [],
+    "insight": "과거 엘니뇨가 단순 기상 현상에 그쳤다면, 현재는 지구 온난화와 대서양 해류 속도 저하라는 <span class=\"text-rose-400 font-medium\">물리적 기후 임계점(Tipping Point)</span> 돌파가 맞물려 농산물 원자재 공급 부족(Greenflation)과 재난 예산 증가를 야기하는 실질적 경제 안보 위협 요인으로 작용하고 있습니다.",
+    "action_point": "극단적 집중호우 및 태풍 피해 증가에 대비하여 건설/인프라 보강 섹터의 수요와 기후 이변으로 가격 급등 가능성이 높은 곡물/원자재 선물에 관심을 가져야 하며, 기후 재해로 손해율이 급등할 수 있는 <span class=\"text-rose-400 font-medium\">보험 및 금융 업종</span>의 비중은 선별적으로 조절해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "energy",
+    "secondary_topics": [
+      "economy",
+      "tech"
+    ],
+    "tags": [
+      "엘니뇨",
+      "지구온난화",
+      "AMOC",
+      "기상공학",
+      "태풍",
+      "집중호우",
+      "기후변화",
+      "안단과학",
+      "국가안보"
+    ]
+  }
+}

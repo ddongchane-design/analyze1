@@ -1,15 +1,17 @@
 {
-  "cross_insight": "보스턴 다이내믹스 풋옵션 만기 도래와 현대차그룹 주도의 공장 라인 로봇 도입 움직임이 유지되는 가운데, 피지컬 AI 핵심 탑재 등 로봇 생태계 M&A 모멘텀이 이어지고 있습니다. 인력난과 임금 상승 압력이 높은 제조업 현장 및 물류 자동화에 특화된 휴머노이드 투자가 가속화되는 한편, 중국산 가격 파괴형 로봇의 침투 속도와 LG전자의 가정용 AI 에이전트 다각화가 핵심입니다.",
   "consensus": "bullish",
-  "divergence": "중국 유니트리 등 초저가 하드웨어 물량 공세로 부품 마진이 훼손될 것이라는 우려와, 월드 모델 AI 브레인 및 정밀 부품 기술력을 쥔 독점적 부품사의 이익 집중 현상이 대치합니다.",
+  "cross_insight": "The robotics sector is undergoing a rapid transition from lab research to real-world industrial deployment, driven by severe labor shortages and <span class=\"text-amber-300 font-bold\">cost reduction pressures</span>. Key players are establishing proprietary physical AI data collection centers, such as LG Electronics' 양재 <span class=\"text-cyan-300 font-semibold\">로봇 데이터 팩토리</span>, to train foundation models. Major automotive and electronics conglomerates are vertically integrating core hardware supply chains, particularly high-performance <span class=\"text-cyan-300 font-semibold\">액추에이터</span> and sensors, to secure margins before the commercial humanoid market scale-up.",
+  "divergence": "There is a notable strategic split: Western tech giants focus on high-fidelity simulation, digital twins, and premium industrial humanoids, whereas Chinese competitors like Unitree and Newvitry are aggressively pushing for rapid commoditization using ultra-low-cost, sub-$20,000 hardware designs.",
   "key_themes": [
-    "현대차-소프트뱅크 간 보스턴 다이내믹스 지분 재편과 피지컬 AI 협력",
-    "중국의 가격 파괴형 휴머노이드의 글로벌 시장 침투 우려",
-    "물류 및 대기업 제조 공정 내 휴머노이드 파일럿 도입 스케줄"
+    "Transition from research to real-world factory deployment",
+    "Establishment of physical AI training centers (Data Factories)",
+    "Vertical integration of core components (actuators, sensors, motors)",
+    "Disruption from ultra-low-cost Chinese humanoid platforms"
   ],
   "watch_list": [
-    "보스턴 다이내믹스 지분 추가 인수 거래 공시 및 협상 완료 여부",
-    "중국 휴머노이드 제조사들의 양산 출하 수치 및 가격 추이",
-    "로봇 부품(로보티즈, HL만도 등)의 대형 고객사 추가 수주"
+    "현대자동차 (Boston Dynamics IPO and Atlas production)",
+    "LG전자 (Yangjae R&D Robot Data Factory)",
+    "삼성전자 (Investment and foundry partnership for robotics chips)",
+    "Unitree / Newvitry (Low-cost humanoid platforms)"
   ]
 }

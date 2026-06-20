@@ -1,15 +1,17 @@
 {
-  "cross_insight": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>가 나스닥 상장 직후 폭발적 상승세를 보이며 시가총액 3조 달러선에 접근했으나, 영화 *빅쇼트*의 마이클 버리가 이를 부채와 고평가 논란의 중심에 선 <span class=\"text-rose-400 font-medium\">코어위브(Coreweave)의 아류</span>라 비판하고 다컴 버블 말기와 유사하다고 저격하며 논란의 중심에 섰습니다. 옵션 시장에서는 풋옵션 가격이 지나치게 높게 형성되어 숏 배팅마저 포기하는 수급 딜레마가 나타나고 있으며, 향후 9월까지 50% 이상 추가 폭등할 확률과 반토막 날 확률이 비슷하게 예측되는 등 극강의 변동성을 내포하고 있습니다. 시장은 위성 통신망(스타링크) 독점력과 xAI 인프라 수직 계열화의 가치를 높게 사면서도, 8월 대규모 <span class=\"text-rose-400 font-medium\">보호예수(락업) 해제</span>를 앞두고 잠재적 매물 출회에 대한 경계감을 극도로 키우고 있습니다.",
-  "consensus": "neutral",
-  "divergence": "독점적인 우주 위성 통신망의 압도적 매출 성장세와 테슬라/xAI 시너지를 밸류에이션에 반영해야 한다는 낙관론과, 연매출 대비 터무니없이 높은 시총 및 품절주 상태에서 기계적 패시브 펀드 수급이 왜곡한 거품일 뿐이며 락업 해제 시 폭락할 것이라는 경계론이 대립합니다.",
+  "consensus": "bullish",
+  "cross_insight": "The space sector is being redefined from a speculative frontier into a critical infrastructure layer for the global AI race. With land and power constraints limiting ground-based computing, tech giants are planning <span class=\"text-cyan-300 font-semibold\">우주 데이터 센터</span> utilizing abundant solar energy and natural cooling, which will drive a high-margin market for radiation-resistant semiconductors. SpaceX's reuse technology has crushed launch costs, securing a virtual monopoly on orbital transport, while its massive lease agreements with hyperscalers for GPU clusters provide immediate, non-space cash flows.",
+  "divergence": "Valuation is the primary point of contention. Bulls point to the Nasdaq 100 inclusion, Starship's 100-ton transport capability, and AGI vertical integration as justifications for premium pricing. In contrast, bears like Michael Burry highlight the extreme 70x PSR, looming August <span class=\"text-rose-400 font-medium\">lockup expirations</span>, and the financial impracticality of Musk's in-house semiconductor manufacturing goals (Terafab).",
   "key_themes": [
-    "마이클 버리의 스페이스X 밸류에이션 거품 저격 및 코어위브 아류설 제기",
-    "숏옵션마저 터무니없이 비싼 옵션 시장의 극단적인 수급 딜레마와 변동성",
-    "8월 대규모 보호예수(락업) 해제 물량 출회 가능성 대두"
+    "Space-based data centers as a solution to ground-based power bottlenecks",
+    "Drastic launch cost reduction through rocket reuse (35% of traditional cost)",
+    "Vertical integration of communication, AI compute, and robotics",
+    "Valuation debates and lockup release risks in public markets"
   ],
   "watch_list": [
-    "스페이스X의 분기 위성 통신망 매출 성장 속도 및 영업이익 전환 여부",
-    "단일 레버리지 파생 상품(SPEX 등)의 자금 유입 추이",
-    "8월 말 보호예수 해제 시의 실제 매도 출회 규모 및 주가 지지력"
+    "SpaceX lockup release timeline (August/September)",
+    "Starship orbital refueling and heavy transport test results",
+    "Space radiation-tolerant memory research by Samsung and SK Hynix",
+    "U.S. defense and NASA contract award announcements"
   ]
 }

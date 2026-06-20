@@ -1,15 +1,17 @@
 {
-  "cross_insight": "지정학 타결 기대로 유가는 70달러대로 하향 안정화되는 조짐을 보이지만, 전략 비축유의 소진 한계로 구조적인 하방(70달러)이 단단히 지지되고 있습니다. 한편 독일의 풍력 발전 간헐성 부진으로 소매 전기 가격이 MWh당 400유로를 넘어 폭등하는 등 친환경 전환 과도기의 전력 안보 리스크가 실체화되었습니다. 이에 따라 단순 발전 원자재 마진 축소와 달리, 전력망 안정화를 위한 송배전 제어 소프트웨어, 가상발전소(VPP), 대량 전력 공급을 위한 SMR 및 송배전 변압기/그리드 안보 설비의 장기 수주 사이클이 본질적인 수혜 섹터로 돋보이고 있습니다.",
-  "consensus": "bullish",
-  "divergence": "글로벌 유가 하락 안정이 단기 정유/에너지 업종의 어닝 둔화를 부를 것이라는 우려와, 중장기적으로 AI 데이터센터 및 글로벌 친환경 전력 부족(독일 전력난 등)을 방어하기 위한 송배전/발전 그리드 하드웨어의 수주 가속이 이어질 것이라는 낙관론이 대립합니다.",
+  "consensus": "neutral",
+  "cross_insight": "The energy sector is facing dual pressures from structural geopolitical risks and physical climate anomalies, which are permanently raising the floor for commodity prices. The weaponization of maritime choke points like the <span class=\"text-violet-300 font-medium\">호르무즈 해협</span> has introduced permanent insurance and transport premiums, preventing crude prices from retreating to pre-war levels. Concurrently, major nations are aggressively funding <span class=\"text-cyan-300 font-semibold\">SMR</span> (Small Modular Reactor) technologies to resolve the massive power deficit caused by AI data centers, shifting the energy transition from a purely green initiative to a national security imperative.",
+  "divergence": "A major debate centers around the near-term path of oil prices; some analysts forecast a supply-glut induced correction as non-OPEC+ production rises and Middle East tensions cool, while others warn that the physical depletion of the U.S. Strategic Petroleum Reserve and long rebuilding times for damaged infrastructure will sustain a tight market through the end of the year.",
   "key_themes": [
-    "미-이란 종전 타결에도 불구하고 비축유 소진에 따른 유가의 구조적 70달러 하방 경직성",
-    "독일 풍력 발전 간헐성 부진에 의한 전력 가격 폭등(MWh당 400유로)과 전력 안보 부각",
-    "송배전망 기기 및 가상발전소(VPP), SMR 중심의 전력 계통 제어망 투자 집중"
+    "Structural elevation of transport costs and insurance premiums",
+    "Acceleration of SMR investments for AI power demands",
+    "Global warming and AMOC weakening as systemic risk factors",
+    "Depletion of strategic energy reserves in the West"
   ],
   "watch_list": [
-    "미국 해상 풍력 규제 소송 최종 판결에 따른 신규 그리드 라이선스 공급",
-    "전력 인프라 대장주(GE 버노바 등) 및 변압기/전선 제조사들의 연간 수주 잔고 납기 스케줄",
-    "우라늄 공급망 차질 해소 여부 및 글로벌 SMR 실증 착공 스케줄"
+    "WTI/Brent Crude Oil Prices and OPEC+ production levels",
+    "U.S. Strategic Petroleum Reserve (SPR) inventory levels",
+    "Global SMR partnership developments (NuScale, GE-Hitachi)",
+    "AMOC and oceanic temperature indicators"
   ]
 }

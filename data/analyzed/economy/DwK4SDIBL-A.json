@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "DwK4SDIBL-A",
+    "title": "\"금리 동결인 줄 알았지?\" 6월 연준 성명서에서 완전히 사라진 '이것' #교양이를부탁해",
+    "published": "2026-06-19T09:30:01+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=DwK4SDIBL-A",
+    "thumbnail": "https://img.youtube.com/vi/DwK4SDIBL-A/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "6월 FOMC에서 기준금리는 3.75%로 동결되었으나, 성명서에서 기존의 <span class=\"text-cyan-300 font-semibold\">금리 인하 관련 문구</span>가 완전히 삭제되며 매파적 기조로 전환되었습니다.\n연준 위원 18명 중 9명이 금리 인상, 8명이 동결, 단 1명만이 인하를 주장하며 다수가 <span class=\"text-rose-400 font-medium\">추가 금리 인상</span> 가능성을 열어두었습니다.\n이에 따라 미국채 2년물 금리가 4.2%, 10년물 금리가 4.5%를 돌파하는 등 채권 시장의 <span class=\"text-amber-300 font-bold\">긴축적 발작</span>이 나타났습니다.",
+    "key_claims": [
+      "연준 성명서에서 향후 금리 인하를 염두에 둔 문구들이 삭제되면서 <span class=\"text-rose-400 font-medium\">금리 인상 옵션</span>이 다시 공식적인 연준의 협상 테이블 위로 복귀했습니다.",
+      "점도표상 다수가 인하가 아닌 동결 또는 인상에 보팅을 한 사실은 향후 인플레이션 통제 여부에 따라 추가적인 <span class=\"text-rose-400 font-medium\">긴축 조치</span>가 취해질 수 있음을 경고합니다."
+    ],
+    "data_points": [
+      "6월 FOMC 직후 미국채 2년물 금리 4.2% 돌파, 10년물 금리 4.5% 상회",
+      "기준금리 상단 기준 3.75%로 유지(동결)",
+      "연준 위원 18명 중 9명 금리 인상, 8명 금리 동결, 1명 금리 인하 선택",
+      "3월 FOMC 점도표 컨센서스는 3.75%에서 3.50%로 인하 시각이 지배적이었음"
+    ],
+    "signal": "bearish",
+    "signal_confidence": "high",
+    "signal_reason": "연준의 통화 정책 기조가 예상을 깨고 추가 금리 인상 가능성까지 열어두는 <span class=\"text-rose-400 font-medium\">매파적 대전환</span>을 선언하며 유동성 환경을 제약하기 때문입니다.",
+    "key_companies": [],
+    "insight": "금리 인하 기대로 상승하던 시장에 연준 성명서 문구 삭제와 점도표 분포는 강력한 경고등을 켠 것이며, 이는 단순한 금리 동결이 아니라 장기 고금리 유지(Higher for Longer)를 넘어 <span class=\"text-rose-400 font-medium\">추가 긴축의 가능성</span>을 시장에 재주입한 조치입니다.",
+    "action_point": "단기적으로 국채 금리 급등에 취약한 고밸류 성장주 및 부채 비율이 높은 한계 기업들의 비중을 <span class=\"text-rose-400 font-medium\">축소</span>해야 합니다.\n안전 자산으로서의 현금 비중을 확보하거나, 고금리 장기화 수혜를 누릴 수 있는 금융주 및 강력한 현금 흐름을 지닌 <span class=\"text-cyan-300 font-semibold\">초우량 빅테크</span>로 피신할 필요가 있습니다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "6월FOMC",
+      "금리인상",
+      "점도표",
+      "연준성명서",
+      "미국채금리",
+      "통화정책"
+    ]
+  }
+}

@@ -1,15 +1,17 @@
 {
-  "cross_insight": "지구 환경 부문에서는 필리핀 민다나오에서 발생한 규모 7.8의 강진이 단순 판 경계가 아닌 서쪽 해구의 복잡한 <span class=\"text-amber-300 font-bold\">이중 섭입 구조</span> 내부에서 발생해 깊은 충격을 안겼습니다. 학계는 고성능 <span class=\"text-cyan-300 font-semibold\">AI 모델</span>을 총동원하더라도 지진의 정확한 발생 시기와 장소를 예측하는 것은 과학적으로 완전히 불가능하다며, 실질적인 인명 피해 방지를 위해 <span class=\"text-rose-400 font-medium\">내진 설계 의무화</span>와 조기 경보 전파 인프라 강화가 급선무라고 조언했습니다. 생활 경제 부문에서는 공급 부족에 따른 서울/수도권 <span class=\"text-rose-400 font-medium\">전월세 가격 폭등</span>과 임차 시장의 빠른 월세화가 가계의 실질 가처분 소득을 갉아먹고 있습니다. 다세대 빌라 공급이 1/5 수준으로 박살 난 가운데, <span class=\"text-cyan-300 font-semibold\">강남 업무지구</span> 직주근접 메리트를 지닌 핵심 입지 아파트의 독점적 초양극화 랠리가 고착화되고 있습니다. 한편, 지정학적 변수로 캐나다가 미국의 방위비 증액 압박 및 나토 북극해 안보를 위해 60조 원 규모의 <span class=\"text-cyan-300 font-semibold\">잠수함 도입 사업</span>을 본격화하며 한국 조선사(한화오션, HD현대중공업)의 방산 경쟁이 달아오르고 있습니다.",
   "consensus": "neutral",
-  "divergence": "부동산 규제 완화 및 공급 유도를 위한 세제 혜택 방안이 서민 주거 안정을 도울 것이라는 정책적 기대와, 인위적 전세 억제와 대출 규제가 월세화 및 주거 비용 폭등을 더욱 부채질해 소비 위축을 낳을 것이라는 정책 회의론이 대치하고 있습니다.",
+  "cross_insight": "The miscellaneous and geopolitical analysis highlights structural shifts in global security, defense procurement, and infrastructure stability. A prominent example is Canada's 60-trillion KRW submarine project (CPSP), which showcases how rising <span class=\"text-violet-300 font-medium\">지정학적 안보 긴장</span> under U.S. pressure is forcing allied nations to rapidly expand defense budgets, directly benefiting advanced shipbuilders. Meanwhile, in non-defense sectors, efforts to commercialize low-cost consumer robotics in retail environments are dismissed as mere marketing toys, emphasizing that true physical AI requires extensive data factories and high-precision components.",
+  "divergence": "While geopolitical tension in East Asia (such as the North-China-Russia alliance) is reinforcing supply chain bloc formation, opinion is divided on whether these alignments will trigger immediate <span class=\"text-rose-400 font-medium\">trade disruptions</span> or remain a long-term, slow-moving structural headwind for global markets.",
   "key_themes": [
-    "빌라 공급 급감에 따른 서울 전월세 대란 및 임차 시장의 고비용 월세화 패러다임",
-    "이중 섭입대 지진과 AI의 지진 예측 한계론 및 내진 설계 중요성 대두",
-    "트럼프 행정부의 압박이 유발한 캐나다 60조 잠수함 사업(CPSP) 최종 수주 경쟁"
+    "Allied defense budget expansion and large-scale procurement programs",
+    "Skepticism toward low-end consumer robotics (marketing toys vs. physical AI)",
+    "Geopolitical alliance consolidation (North-China-Russia) and supply chain fragmentation",
+    "Infrastructure resilience and seismic safety regulations"
   ],
   "watch_list": [
-    "국토교통부의 다세대 빌라 공급 활성화 지원책 및 전세 대출 규제 수위",
-    "서울 강남구 및 핵심지 아파트의 평당 전세가 상승률 및 월세 전환 지수",
-    "캐나다 국방부의 순찰 잠수함 사업(CPSP) 우선협상대상자 선정 결과 공시"
+    "Canada CPSP Submarine Project shortlist and bidding updates",
+    "North-China-Russia diplomatic and military cooperation indicators",
+    "Seismic building code regulations in industrial hubs",
+    "Domestic shipyard order backlogs and defense export pipelines"
   ]
 }

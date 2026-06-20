@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "spzmZqo00fY",
+    "title": "\"가이던스 전부 삭제? 파월 가고 역대급 '불친절한' 연준 의장 왔다 #교양이를부탁해",
+    "published": "2026-06-19T09:45:03+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=spzmZqo00fY",
+    "thumbnail": "https://img.youtube.com/vi/spzmZqo00fY/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "제롬 파월의 뒤를 이어 취임한 <span class=\"text-amber-300 font-bold\">케빈 워시 연준 의장</span>은 첫 FOMC 기자회견에서 가이던스를 대폭 삭제하며 대대적인 소통 방식 변화를 선언했습니다.\n파월 전 의장과 달리 사전 힌트 제공을 거부하고 점도표 투표에도 참여하지 않는 등 극도로 <span class=\"text-rose-400 font-medium\">불친절한 스탠스</span>를 유지했습니다.\n이에 따라 시장은 인하 기대감을 완전히 접고 연준의 의도를 스스로 추측해야 하는 높아진 <span class=\"text-rose-400 font-medium\">매크로 불확실성</span>에 직면했습니다.",
+    "key_claims": [
+      "케빈 워시의 통화정책은 시장에 사전 신호(포워드 가이던스)를 주지 않고, 데이터와 연준 내부 지표를 통해서만 해석하게 만드는 구조적 개혁을 지향합니다.",
+      "금리 인하 가능성은 사실상 소멸되었으나, 즉각적인 인상 역시 단언하지 않아 시장의 단기 <span class=\"text-rose-400 font-medium\">눈치보기 장세</span>를 유발합니다.",
+      "기자회견을 축소하고 발언을 극도로 절제하는 방식은 연준의 <span class=\"text-amber-300 font-bold\">독립성 강화</span> 및 시장의 정보 왜곡 방지를 노린 포석입니다."
+    ],
+    "data_points": [
+      "FMC",
+      "점도표"
+    ],
+    "signal": "neutral",
+    "signal_confidence": "high",
+    "signal_reason": "금리 인하 힌트가 전무해졌으나 급격한 인상 리스크도 제한적이며, 연준 소통 차단으로 인한 <span class=\"text-rose-400 font-medium\">불확실성 프리미엄</span>이 반영되는 국면입니다.",
+    "key_companies": [],
+    "insight": "연준 의장의 교체는 단순한 인물 변경이 아닌 금융시장과의 소통 체계를 <span class=\"text-amber-300 font-bold\">룰 기반(Rule-based)</span>으로 회귀시키는 신호탄이며, 정보의 비대칭성을 해소하려는 정책적 피봇은 시장의 정보 해석 난이도를 크게 높이고 있습니다.",
+    "action_point": "투자자는 연준 위원들의 구두 개입보다 실제 발표되는 경제 지표(물가, 고용 등) 데이터 자체에 집중하여 판단해야 하며, 가이던스 부재에 따른 <span class=\"text-rose-400 font-medium\">채권 및 주식 시장 변동성 확대</span>에 대비한 현금 비중 확보가 필요합니다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "FOMC",
+      "케빈워시",
+      "연준의장",
+      "금리동결",
+      "통화정책",
+      "연준개혁"
+    ]
+  }
+}

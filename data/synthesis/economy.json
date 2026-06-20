@@ -1,16 +1,17 @@
 {
-  "cross_insight": "6월 FOMC에서 신임 연준 의장 <span class=\"text-cyan-300 font-semibold\">케빈 워시</span>가 공식 데뷔하며 연준 개혁과 극단적인 매파적 점도표 반전을 이끌었습니다. 연내 금리 인하 기대가 완전히 무너지고 추가 인상 의견이 과반(19명 중 9명)에 달했으며, 미국의 5월 소매 판매 서프라이즈(0.9% 증가)가 견조한 <span class=\"text-amber-300 font-bold\">소비 복원력</span>을 입증했습니다. 긴축 장기화의 핵심 배후에는 <span class=\"text-cyan-300 font-semibold\">AI 데이터 센터 투자 붐</span>이 단기 인플레이션 촉진 요인으로 작용하고 있다는 분석이 제기되었습니다. 반면 워시 의장은 포워드 가이던스를 폐지하고 성명서를 대폭 요약했으며, 인플레이션을 공급 측면(에너지 충격)의 문제로 정의하고 AI에 기반한 <span class=\"text-cyan-300 font-semibold\">생산성 혁신</span>이 장기 디스인플레이션을 유도해 '낮은 물가와 높은 고용의 공존'을 이끌 수 있다는 신념 하에 연준 개혁 TF 구성을 발표했습니다. 글로벌 긴축 기조 속에서 독일의 풍력 부진에 따른 도매 전력 가격 폭등(MWh당 400유로 돌파)으로 전력 에너지난이 가중되었으나, 유가는 트럼프 대통령의 G7 회견을 통한 미-이란 간의 <span class=\"text-violet-300 font-medium\">종전 평화 합의 임박</span>(원유 수출 재개 및 제재 종료) 기대감으로 WTI 기준 75달러 이하로 미끄러졌습니다.",
-  "consensus": "bearish",
-  "divergence": "AI 데이터 센터 CapEx 지출이 단기 인플레이션을 가속화하여 고금리를 장기화시킬 것이라는 경계론과, AI가 이끄는 생산성 향상이 공급 곡선을 우측으로 이동시켜 물가 압박을 통제할 것이라는 생산성 낙관론이 팽팽히 대립하고 있습니다. 또한 전통적인 안전자산이었던 미국 국채가 고인플레이션 국면에서 헤지 역할을 못 하고 주가와 동반 하락하는 새로운 거시적 현상에 대한 논란이 있습니다.",
+  "consensus": "neutral",
+  "cross_insight": "The global economy is transitioning into a <span class=\"text-amber-300 font-bold\">post-modern cycle</span> characterized by higher terminal rates, regionalization, and heavy government intervention, such as the US government's direct stake in Intel. Under the new Federal Reserve Chair Kevin Warsh, the abandonment of forward guidance has heightened <span class=\"text-rose-400 font-medium\">macro uncertainty</span>, forcing markets to price in a higher risk premium. Simultaneously, the resolution of geopolitical conflicts in the Middle East has triggered a structural decline in crude prices, offering a disinflationary offset to persistent fiscal deficits.",
+  "divergence": "There is a clear debate regarding monetary policy trajectory. While the hawkish dot plot at the FOMC suggests that rates may stay higher for longer or even see hikes, some market strategists point to AI-driven productivity gains and falling energy prices as catalysts that could allow the Fed to cut rates as early as late autumn.",
   "key_themes": [
-    "케빈 워시의 매파적 데뷔전과 추가 금리 인상(12월 인상 배팅 70%) 시사",
-    "AI CapEx 투자 붐이 초래한 단기 인플레이션 압력과 소비 지표(소매판매 0.9%) 서프라이즈",
-    "미-이란 종전 평화 합의 임박에 따른 유가 하락 안정화(70달러 중반)",
-    "독일 전력 요금 폭등(MWh당 400유로)과 글로벌 전력 안보 리스크 부각"
+    "Transition to a post-modern macro cycle with higher terminal rates",
+    "Elimination of Federal Reserve forward guidance and increased uncertainty",
+    "Disinflationary pressure from falling crude oil prices",
+    "U.S. government intervention in domestic semiconductor manufacturing"
   ],
   "watch_list": [
-    "케빈 워시가 설립한 5대 연준 개혁 테스크포스(TF)의 실시간 데이터 분석 결과",
-    "WTI 및 브렌트유 국제유가 변동 추이와 19일 스위스 평화 협정 서명 여부",
-    "미국 장기 국채 금리(2년물/10년물 스프레드)의 고금리 안착 구간"
+    "U.S. 2-Year and 10-Year Treasury Yields",
+    "WTI and Brent Crude Oil Prices",
+    "Semiconductor manufacturing policy (Intel 10% government stake)",
+    "PCE inflation and employment data"
   ]
 }

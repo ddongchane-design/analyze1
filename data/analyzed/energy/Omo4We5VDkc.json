@@ -1,0 +1,57 @@
+{
+  "video": {
+    "id": "Omo4We5VDkc",
+    "title": "미국에 100조 베팅한 일본, SMR 시장 먹는다? (언더스탠딩 김상훈 기자)",
+    "published": "2026-06-18T07:55:11+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=Omo4We5VDkc",
+    "thumbnail": "https://img.youtube.com/vi/Omo4We5VDkc/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "일본은 미국과의 투자 협정을 통해 SMR 시장에 약 <span class=\"text-amber-300 font-bold\">100조 원</span> 규모의 투자를 단행하며 무너진 자국 원전 생태계 재건을 노리고 있습니다.\n초기 시장(초도기) 선점을 위해 <span class=\"text-cyan-300 font-semibold\">GE-히타치</span> 및 <span class=\"text-cyan-300 font-semibold\">뉴스케일 파워</span> 등 미국 SMR 프로젝트에 지분 투자를 단행하고 자국 기업의 우선 납품권을 확보하려 합니다.\n이는 독보적인 주기기 제작 역량을 보유한 한국의 <span class=\"text-cyan-300 font-semibold\">두산에너빌리티</span> 등에 장기적인 위협 요인이 될 수 있습니다.",
+    "key_claims": [
+      "후쿠시마 사고 이후 붕괴된 일본 원전 공급망을 미국 <span class=\"text-cyan-300 font-semibold\">SMR</span> 프로젝트 투자를 통해 재활성화하려는 국가적 전략입니다.",
+      "초도기 시장 선점은 생산 단가를 낮추는 <span class=\"text-amber-300 font-bold\">규모의 경제</span> 구축에 필수적이며, 향후 글로벌 표준을 차지하는 기반이 됩니다.",
+      "자국 기자재 우선 납품 조건부 투자는 한국 원전 기자재 업체들의 미국 시장 입지를 <span class=\"text-rose-400 font-medium\">위축시킬 리스크</span>가 있습니다."
+    ],
+    "data_points": [
+      "5,500억 달러",
+      "400억 달러",
+      "250억 달러",
+      "650억 달러",
+      "100조",
+      "BWRX-300",
+      "127종",
+      "74종"
+    ],
+    "signal": "neutral",
+    "signal_confidence": "medium",
+    "signal_reason": "일본의 대규모 자금 투입은 <span class=\"text-cyan-300 font-semibold\">SMR</span> 시장의 개화를 앞당기는 호재이나, 한국 원전 밸류체인에는 <span class=\"text-rose-400 font-medium\">수주 경쟁 심화</span>라는 불확실성을 줍니다.",
+    "key_companies": [
+      "GE Hitachi",
+      "NuScale Power(SMR)",
+      "Doosan Enerbility(034020)",
+      "Toshiba",
+      "Mitsubishi Heavy Industries"
+    ],
+    "insight": "자본력을 앞세운 일본의 '선투자-후납품' 전략은 기술력 위주의 한국 기업에 강력한 <span class=\"text-rose-400 font-medium\">진입 장벽</span>이 될 수 있으며, SMR 초기 표준 경쟁이 단순한 기술 싸움이 아닌 <span class=\"text-violet-300 font-medium\">국가 간 금융·외교전</span>으로 전개되고 있음을 보여줍니다.",
+    "action_point": "투자자는 SMR 시장의 표준 경쟁 및 초도기 수주 추이를 주시하되, <span class=\"text-cyan-300 font-semibold\">두산에너빌리티</span>의 수주 확정 여부와 일본 기자재 업체의 미국 내 공급망 진입 속도를 비교 평가해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "energy",
+    "secondary_topics": [
+      "stock",
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "SMR",
+      "원자력",
+      "두산에너빌리티",
+      "히타치",
+      "뉴스케일파워",
+      "미국원전",
+      "에너지"
+    ]
+  }
+}

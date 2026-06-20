@@ -1,15 +1,17 @@
 {
-  "cross_insight": "AI 하드웨어 가속기(GPU/HBM) 공급망 경쟁을 넘어, 방대한 데이터를 저장하기 위한 <span class=\"text-cyan-300 font-semibold\">NAND 플래시 및 기업용 SSD</span>로 AI 인프라 수혜가 빠르게 확산되고 있습니다. 독립 법인으로 부활한 <span class=\"text-cyan-300 font-semibold\">샌디스크</span>가 빅테크 고객사들과 수백억 달러 규모의 장기 공급 계약을 체결하며 이 흐름을 대변하고 있습니다. 한편, 앤스로픽의 초고성능 모델 <span class=\"text-cyan-300 font-semibold\">페이블 5(Claude Fable 5)</span>가 미국 정부의 수출 통제 자산으로 지정되면서 최첨단 AI 소프트웨어가 핵무기와 유사한 <span class=\"text-rose-400 font-medium\">국가 안보용 전략 자산</span>화되고 있음이 입증되었습니다. 이는 각국의 <span class=\"text-violet-300 font-medium\">인프라 주권(Sovereign AI)</span> 구축 움직임을 자극하고 있습니다. 또한 국내에서는 <span class=\"text-cyan-300 font-semibold\">젬백스앤카엘</span>의 신약 물질 <span class=\"text-cyan-300 font-semibold\">GV1001</span>이 희귀 뇌질환(PSP) 치료제 3상 조건부 허가 단계를 밟는 동시에, 시장 1위 반도체 케미컬 에어 필터(점유율 58%) 사업의 안정적 캐시카우를 통해 재무 리스크가 없는 강한 독점 바이오-테크 구조를 과시하고 있습니다.",
   "consensus": "bullish",
-  "divergence": "AI 모델 성능의 고도화가 가져오는 기술 안보 통제(수출 금지) 장벽이 글로벌 개발 속도를 위축시킬 것이라는 신중론과, 국가 주도형 소벌린 AI 데이터 센터 건설 경쟁이 반도체, SSD, 기판 밸류체인의 수주 규모를 천문학적으로 가열시킬 것이라는 낙관론이 교차합니다.",
+  "cross_insight": "The technological landscape is experiencing a massive wave of innovation, shifting from pure training models to real-world deployment of <span class=\"text-cyan-300 font-semibold\">온디바이스 AI</span> and autonomous agents. This transition is causing severe hardware bottlenecks, which are moving beyond GPUs to high-bandwidth memory, advanced packaging substrates like <span class=\"text-cyan-300 font-semibold\">FC-BGA</span>, and power delivery infrastructure. The high capital expenditure from hyperscalers is driving a surge in electricity demand, highlighting power efficiency technologies like S-RAM and SMRs as critical bottlenecks.",
+  "divergence": "While the core infrastructure players enjoy massive backlogs and sold-out capacities, there is emerging skepticism regarding the consumer-facing monetization of software. While on-device AI tools (e.g., Apple's iOS 27) are seen as near-term catalysts for device replacement cycles, domestic restaurant tech platforms and pure software tools face high customer acquisition costs and slow adoption rates, leading to a stark valuation divergence.",
   "key_themes": [
-    "AI 가속기를 보완하는 대용량 NAND 플래시 및 기업용 SSD 장기 공급 계약 대세화",
-    "미국 정부의 초고성능 AI 모델(페이블 5) 수출 통제와 소벌린 AI(Sovereign AI) 인프라 주권 대두",
-    "반도체 에어 필터 캐시카우와 신약(GV1001)의 ODD 및 용도 특허로 무장한 독점적 IP 포트폴리오"
+    "Shift from AI model training to inference and AI agents",
+    "Bottleneck migration to advanced packaging (FC-BGA, glass substrates) and MLCCs",
+    "On-device AI integration as a device upgrade catalyst",
+    "Energy efficiency and on-chip memory (S-RAM) as computing bottlenecks"
   ],
   "watch_list": [
-    "샌디스크 및 마이크론의 기업용 SSD 장기 공급 계약 수주 추가 공시",
-    "미국 USTR 및 상무부의 첨단 AI 소프트웨어 추가 라이선스 규제 범위",
-    "젬백스의 PSP 3상 조건부 허가 및 글로벌 IND 승인 일정"
+    "Apple Intelligence (iOS 27 adoption and consumer feedback)",
+    "LG Innotek / Samsung Electro-Mechanics (FC-BGA and glass substrates)",
+    "High-Bandwidth Memory (HBM4 development and supply constraints)",
+    "AI energy infrastructure (SMRs and power grid equipment)"
   ]
 }

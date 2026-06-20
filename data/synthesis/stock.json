@@ -1,15 +1,17 @@
 {
-  "cross_insight": "연준의 매파적 긴축 장기화 선언과 빅테크 내부의 사법 소송(MS 코파일럿 클래스액션), 조직 갈등 및 임원 사임(메타) 리스크가 부각되며 뉴욕 증시가 이격 조정을 겪었습니다. 이 틈을 타 국내 증시에서는 지정학적 리스크 완화 수혜를 입은 <span class=\"text-cyan-300 font-semibold\">방산</span> 및 친환경 수주가 확인되는 <span class=\"text-cyan-300 font-semibold\">조선/엔진</span>, 풍력 등 올드 이코노미 인프라 섹터로의 순환매가 뚜렷했습니다. 특히 전력 쇼티지의 대안으로 조선 기자재와 더불어 변압기, 발전 솔루션(GE 버노바 등)이 역사적 신고가 랠리를 달성했습니다. 반면 성장주 영역에서는 AI 거품론에 갇혀 엔비디아를 기피하고 구형 소프트웨어주에 고집스럽게 집착했던 폴랜 캐피털이 4년간 자산의 60%(500억 달러)가 증발하는 참혹한 사례를 겪으며, 시장 주도 섹터의 과도한 거부(에고)가 불러오는 자산 포트폴리오 실패가 월가의 뼈아픈 교훈으로 남았습니다.",
-  "consensus": "neutral",
-  "divergence": "조선 및 방산 등 실제 실적과 해외 수주가 증명되는 인프라 자본재 중심의 상승 모멘텀 지속 전망과, 금리 추가 인상 우려에 따른 할인율 가중으로 빅테크 하드웨어의 조정이 코스닥 소부장 전반의 투자 심리를 급격히 동반 위축시킬 것이라는 우려가 존재합니다.",
+  "consensus": "bullish",
+  "cross_insight": "The equity markets are displaying a historic polarization, where index gains are heavily concentrated in the semiconductor and power infrastructure sectors, leaving the broader market <span class=\"text-rose-400 font-medium\">severely neglected</span>. While macro headwinds like high interest rates and FTSE index rebalancing trigger short-term corrections, the structural earnings growth in the AI value chain remains robust. Global capital continues to flow into cash-rich tech giants, whereas high-debt growth sectors like biotech and secondary batteries face continued pressure from delayed rate cut expectations.",
+  "divergence": "Market participants are divided between chasing the high-flying semiconductor leaders and preparing for a <span class=\"text-amber-300 font-bold\">sector rotation</span> into undervalued value stocks. Some warn that any earnings miss by key bellwethers like Micron could trigger a broader market liquidation, while others argue that the valuation of Korean memory leaders remains attractive when adjusted for HBM-led margins, suggesting that any pullback is a buying opportunity.",
   "key_themes": [
-    "빅테크 악재(MS 집단소송, 메타 임원사임) 속에서 돋보이는 전력/발전 인프라(GE 버노바 등) 강세",
-    "주도주(엔비디아) 거부로 자산 60%를 잃은 폴랜 캐피털 사례와 정교한 분할 매수의 중요성",
-    "대외 방산 수주(LIG넥스원, 잠수함 수주전 등) 및 고마진 조선 순환매 장세"
+    "Semiconductor-led index growth and extreme market polarization",
+    "Short-term volatility driven by passive ETF rebalancing",
+    "Underperformance of rate-sensitive sectors (biotech, secondary batteries)",
+    "Use of safety margins for tactical buying of memory leaders"
   ],
   "watch_list": [
-    "마이크로소프트 및 메타의 사법/내부 갈등 봉합 및 AI 수익화 공시 일정",
-    "폴랜 캐피털 등 전통 기관 펀드들의 강제적 엔비디아 추격 매수 유입 추이",
-    "한국 조선사들의 캐나다 60조 잠수함 사업 최종 수주 결과 및 방산 지형 변화"
+    "Samsung Electronics & SK Hynix (earnings guidance and HBM supply)",
+    "Micron Technology (quarterly earnings and forward guidance)",
+    "Global passive index rebalancing schedules",
+    "U.S. Federal Reserve PCE inflation releases"
   ]
 }

@@ -1,0 +1,54 @@
+{
+  "video": {
+    "id": "FVpHg46XtaU",
+    "title": "NASA가 무릎 꿇었다, 스페이스X 상장 직후 터진 역대급 대격변",
+    "published": "2026-06-19T11:00:35+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=FVpHg46XtaU",
+    "thumbnail": "https://img.youtube.com/vi/FVpHg46XtaU/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">SpaceX</span>가 나스닥 상장 후 시가총액이 이틀 만에 약 20%씩 급등하며 아마존의 시총 순위를 넘어서는 역대급 대격변을 보여주었습니다.\n로켓 발사와 스타링크 외에도 앤트로픽과 구글에 <span class=\"text-cyan-300 font-semibold\">Colossus 데이터 센터</span>를 임대하여 연간 260억 달러의 신규 AI 인프라 매출을 창출하고 있습니다.\n또한, 경쟁사 블루 오리진의 뉴글렌 발사장 폭발 사고와 스타십의 우주 급유 기술 고도화로 나사의 <span class=\"text-cyan-300 font-semibold\">아르테미스 프로젝트</span> 내 독점권이 대폭 강화되었습니다.",
+    "key_claims": [
+      "SpaceX의 기업 가치는 단순 우주/로켓 섹터를 넘어 연간 260억 달러 규모의 <span class=\"text-cyan-300 font-semibold\">AI 데이터 센터 임대 비즈니스</span>가 더해지며 재평가받고 있다.",
+      "블루 오리진의 뉴글렌 발사장 손상으로 아르테미스 계획이 2년 지연됨에 따라, 나사는 SpaceX의 <span class=\"text-cyan-300 font-semibold\">우주 급유 기술</span>에 절대적으로 의존할 수밖에 없게 되었다.",
+      "일론 머스크는 10배의 의결권을 가진 클래스 B 주식을 통해 의결권의 80% 이상을 독점하여 사실상 <span class=\"text-rose-400 font-medium\">1인 지배 체제</span>를 굳혔다."
+    ],
+    "data_points": [
+      "스페이스 X가 미국 나스닥 시장에 상장이 되었습니다. 상장 당일 날 거의 20%에 가까운 주가 상승률을 보이고 그리고 그다음 날이 월요일 그때도 또 19%에 가까운 상승률을 기록을 했습니다.",
+      "거의 1.75조 달러가 이제 공모되는 시가 총액이었으니까",
+      "엔트로피가 계약한 계약 규모가 엄청 커요. 이게 매월 12억 5천만 달러 규모예요. 연간으로 환산하면 이게 150억 달러거든요. 지난해 스페이스 X 전체 매출액이 187억 달러였어요.",
+      "콜로소스 2 이거는 어디로 임대했죠? 구부에 임대했습니다. 근데 그 규모가 얼마냐? 월에 9.1억 달러예요. 그러면 연간으로 108억 달러가 되거든요."
+    ],
+    "signal": "bullish",
+    "signal_confidence": "high",
+    "signal_reason": "SpaceX가 우주 발사체 시장의 독점적 지위를 넘어 클라우드 빅테크(구글, 앤트로픽) 대상 대규모 <span class=\"text-cyan-300 font-semibold\">AI 인프라 임대</span>로 즉각적인 흑자 전환이 예정되어 있고, 지수 편입에 따른 패시브 자금 유입 수급이 강력하기 때문입니다.",
+    "key_companies": [
+      "SpaceX",
+      "Google(GOOGL)",
+      "Anthropic",
+      "Blue Origin"
+    ],
+    "insight": "SpaceX의 강점은 우주 기술의 독보성뿐 아니라, AI 빅테크들의 인프라 부족 문제를 해결해 주는 <span class=\"text-cyan-300 font-semibold\">AI 데이터 센터 자산</span>을 확보했다는 점입니다. 나사가 아르테미스 프로젝트의 핵심 도킹 설계를 지구 저궤도 급유 방식으로 변경한 것은 사실상 우주 패권을 한 사기업에 이양한 것과 다름없습니다.",
+    "action_point": "단기적으로는 7월 초 나스닥 100 지수 편입에 따른 수급 랠리 후 하반기 보호예수 해제와 타 AI 기업(오픈AI 등) 상장에 따른 조정을 분할 매수 기회로 활용해야 하며, <span class=\"text-cyan-300 font-semibold\">SpaceX</span>의 지분을 보유한 간접 수혜주 및 글로벌 우주 항공 상장지수펀드(ETF) 편입 비중을 점검하는 것이 유리합니다."
+  },
+  "classification": {
+    "primary_topic": "space",
+    "secondary_topics": [
+      "tech",
+      "stock"
+    ],
+    "tags": [
+      "스페이스X",
+      "나스닥상장",
+      "콜로소스",
+      "데이터센터임대",
+      "앤트로픽",
+      "구글",
+      "아르테미스",
+      "스타십",
+      "우주급유",
+      "일론머스크"
+    ]
+  }
+}

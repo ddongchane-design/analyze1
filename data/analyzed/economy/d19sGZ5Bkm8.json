@@ -1,0 +1,49 @@
+{
+  "video": {
+    "id": "d19sGZ5Bkm8",
+    "title": "기승전 태스크포스..워시의 이상과 현실은 | 월가백브리핑",
+    "published": "2026-06-19T03:00:21+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=d19sGZ5Bkm8",
+    "thumbnail": "https://img.youtube.com/vi/d19sGZ5Bkm8/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 연준의 새로운 의장 케빈 월시가 <span class=\"text-cyan-300 font-semibold\">5대 테스크포스</span>(TF)를 출범하며 포워드 가이던스 폐지와 대차대조표 축소 등 연준의 전면적인 구조 개혁을 예고했습니다.\n이는 헤리티지 재단의 <span class=\"text-amber-300 font-bold\">프로젝트 2025</span>에 명시된 '이중 책무(고용) 폐지', '양적완화 금지' 등 보수적 통화 패러다임과 궤를 같이하며 연준의 시장 개입을 최소화하려는 시도입니다.\n이란 전쟁 종식과 오펙플러스(OPEC+)의 증산 기조, 공급망 정상화로 인해 <span class=\"text-violet-300 font-medium\">국제 유가</span>가 배럴당 50~60달러 선으로 하락해 물가 압력은 다소 완화될 전망입니다.",
+    "key_claims": [
+      "월시 의장은 전통적인 패드풋을 종식시키고 시장이 연준을 바라보는 것이 아니라 <span class=\"text-amber-300 font-bold\">자율적인 가격 발견 기능</span>을 회복하도록 유도하고 있습니다.",
+      "하지만 연방정부의 거대한 <span class=\"text-rose-400 font-medium\">재정 적자</span>가 지속되는 한, 연준이 국채 매입(QE)을 중단하고 최종 대부자 역할을 거부하는 개혁은 현실적으로 구현하기 어려울 것입니다.",
+      "이란 전쟁 종료 후 이란의 석유 수출 재개, UAE의 송유관 우회 투자, 브라질/베네수엘라의 증산 등으로 인해 <span class=\"text-violet-300 font-medium\">원유 시장</span>은 구조적인 공급 과잉 국면에 진입했습니다."
+    ],
+    "data_points": [
+      "케빈 월시 의장, 연준 개혁을 위한 5대 테스크포스 출범",
+      "FOMC 위원 6명이 올해 2회 금리 인상을 점도표에 반영",
+      "국제 유가, 이란 전쟁 종식 이후 브렌트유 기준 70달러대 중반으로 하락(향후 50~60달러대 전망)",
+      "미국 PC 물가 3% 수준 기록 중"
+    ],
+    "signal": "neutral",
+    "signal_confidence": "high",
+    "signal_reason": "연준의 통화 긴축 개혁안이 채권 시장의 <span class=\"text-rose-400 font-medium\">변동성을 확대</span>시키는 요인이 될 것이나, 유가 안정세와 AI 생산성 지지가 시장의 하단을 지탱하기 때문입니다.",
+    "key_companies": [
+      "골드만삭스(GS)",
+      "JP모건(JPM)",
+      "헤리티지 재단"
+    ],
+    "insight": "케빈 월시의 개혁은 연준이 더 이상 금융시장의 하방을 보장하는 <span class=\"text-rose-400 font-medium\">대부자 역할</span>을 하지 않겠다는 선언이며, 이는 미국 정부의 무제한 재정 팽창과 충돌하며 향후 시스템 위기 시 정책의 일관성이 시험대에 오르게 될 것임을 의미합니다.",
+    "action_point": "연준의 커뮤니케이션 축소로 인해 거시 지표 발표 시 <span class=\"text-rose-400 font-medium\">채권 시장의 변동성</span>이 커질 것이므로, 미 국채 2년물 금리를 핵심 지표로 밀착 모니터링해야 합니다.\n유가 하락 수혜가 예상되는 운송, 화학 등 정유 원가 하락 관련 섹터의 비중을 늘리고, 유동성 축소에 대비해 현금 창출 능력이 뛰어난 <span class=\"text-cyan-300 font-semibold\">빅테크 하드웨어</span>와 전력 인프라 대장주 위주로 포트폴리오를 압축해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "케빈월시",
+      "프로젝트2025",
+      "연준개혁",
+      "테스크포스",
+      "지정학적리스크",
+      "국제유가",
+      "유동성"
+    ]
+  }
+}

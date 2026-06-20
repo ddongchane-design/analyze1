@@ -1,0 +1,58 @@
+{
+  "video": {
+    "id": "b0VM-50qvvc",
+    "title": "병목을 타고 흐르는 AI 투자 | RE포트 | 2026.6.19(금)",
+    "published": "2026-06-19T00:00:18+00:00",
+    "channel_name": "Smart Money by MiraeAsset ",
+    "url": "https://www.youtube.com/watch?v=b0VM-50qvvc",
+    "thumbnail": "https://img.youtube.com/vi/b0VM-50qvvc/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "AI 투자 열기가 지속됨에 따라 하드웨어 병목 구간이 GPU/HBM에서 원자력 발전, 패키징 기판(<span class=\"text-cyan-300 font-semibold\">FC-BGA</span>), 그리고 적층 세라믹 커패시터(<span class=\"text-cyan-300 font-semibold\">MLCC</span>)로 확장되고 있습니다. 국내 대형 건설사들은 각국의 인프라 확대에 대응하여 원전 및 복구 재건 수혜를 입을 전망입니다. 또한 IT 부품 업계에서는 고성능 칩 패키징의 기술 난이도가 올라가고 서버당 부품 탑재량이 늘어나는 수혜를 독식하고 있습니다.",
+    "key_claims": [
+      "AI 데이터 센터 전력 증가 문제를 해결하기 위해 미국, 이탈리아 등 글로벌 주요국이 <span class=\"text-cyan-300 font-semibold\">원전 건설 및 규제 법안</span>을 경쟁적으로 통과시키고 있다.",
+      "GPU 서버 한 대당 필요한 MLCC와 플립칩 기판(FC-BGA)의 수요가 폭발적으로 증가하면서 IT 부품 섹터에 구조적 병목이 나타나고 있다.",
+      "메모리 통합 경쟁력과 독자 파운드리 4나노 공정을 갖춘 삼성전자는 차세대 HBM4 시장에서 독보적인 <span class=\"text-amber-300 font-bold\">풀스택 시너지</span>를 누릴 것이다."
+    ],
+    "data_points": [
+      "AI 데이터 센터 전력 수요 전망: 2025년 기준 약 27,000W에서 2050년 52,000W로 2배 가까이 급증",
+      "미국 2030년까지 대형원전 10개 신규 건설 행정명령 서명 완료",
+      "이탈리아 체르노빌 사고 40년 만에 원전 법안 통과",
+      "지난 10년간 원전 건설 경험 보유 국가는 6개국에 불과",
+      "중동 정유 시설 타격 등으로 복구 재건 비용 최대 580억 달러 전망",
+      "현대건설 목표 주가 21만 3,000원, 삼성 E&A 목표 주가 7만 원",
+      "무라타 제작소 데이터 센터 MLCC 매출 올해 84% 성장 전망, 공장 가동률 90~95%",
+      "삼성전기 목표 주가 280만 원 유지, LG이노텍 목표 주가 140만 원",
+      "디램 제조사 나냐(Nanya)의 3조원 규모 제3자 배정 유증에 랜드 제조 3사(키옥시아, 샌디스크, 솔리다임) 참여",
+      "삼성전자 올해 영업이익 395조 원(39.5조원), 내년 529조 원(52.9조원) 전망 - 395조원/529조원",
+      "삼성전자 목표 주가 55만 원 유지"
+    ],
+    "signal": "bullish",
+    "signal_confidence": "high",
+    "signal_reason": "AI 인프라 확장이 유발한 <span class=\"text-cyan-300 font-semibold\">전력원 확보(원전)</span> 이슈와 하드웨어 기판/부품의 구조적 공급 부족은 장기적이고 강력한 실적 성장을 보장합니다.",
+    "key_companies": [
+      "삼성전기(009150)",
+      "삼성전자(005930)",
+      "현대건설(000720)",
+      "삼성E&A(028050)",
+      "LG이노텍(011070)"
+    ],
+    "insight": "AI 생태계 투자의 축이 반도체 연산 칩 자체에서 이를 지원하는 기반 인프라인 전력(원전)과 시스템 보드용 부품(<span class=\"text-cyan-300 font-semibold\">FC-BGA</span>, <span class=\"text-cyan-300 font-semibold\">MLCC</span>)의 '이중 병목 해소' 영역으로 넘어가고 있습니다. 이는 단순한 테마가 아닌 중장기 실적 성장이 수반되는 확실한 <span class=\"text-amber-300 font-bold\">수혜 영역 확장</span>을 의미합니다.",
+    "action_point": "이중 병목의 최대 수혜주이자 B2B 빅테크들의 선수금 수주가 예상되는 <span class=\"text-cyan-300 font-semibold\">삼성전기</span>를 중심으로 적극적인 비중 확대 전략을 가져가고, 해외 원전 건설 프로젝트의 실질적인 시공 역량을 갖춘 <span class=\"text-cyan-300 font-semibold\">현대건설</span>과 저평가된 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>를 포트폴리오에 편입하십시오."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "energy",
+      "stock"
+    ],
+    "tags": [
+      "원전",
+      "재건수요",
+      "FCBGA",
+      "MLCC",
+      "삼성전기",
+      "삼성전자"
+    ]
+  }
+}

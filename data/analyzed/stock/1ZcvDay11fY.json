@@ -1,0 +1,63 @@
+{
+  "video": {
+    "id": "1ZcvDay11fY",
+    "title": "[LIVE] 하루 만에 뒤집힌 시장, 주인공은 반도체 | 이나연 특파원",
+    "published": "2026-06-19T09:44:52+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=1ZcvDay11fY",
+    "thumbnail": "https://img.youtube.com/vi/1ZcvDay11fY/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "어제 하락했던 미국 증시는 <span class=\"text-cyan-300 font-semibold\">반도체 섹터</span>의 강력한 강세에 힘입어 하루 만에 반등했습니다. 마이크론은 애플의 메모리 쇼티지 언급과 목표주가 상향으로 52주 신고가를 경신했고, 인텔은 애플과의 파운드리 협력 합의 소식에 급등했습니다. 반면 상장 초기 급등했던 <span class=\"text-rose-400 font-medium\">스페이스X</span>는 무리한 AI 투자 및 밸류에이션 논란으로 차익 실현 매물이 출회되며 조정세를 보였습니다.",
+    "key_claims": [
+      "애플 팀 쿡 CEO의 메모리 및 스토리지 부족 언급으로 인해 메모리 반도체 기업들의 성장주 밸류에이션 평가가 정당화되고 있다.",
+      "인텔은 미국 정부의 지분 참여와 트럼프의 지지 아래 국가 안보 성격의 정책주이자 파운드리 경쟁사로 급부상했다.",
+      "스페이스X의 무리한 AI 기업(Cursor) 인수 및 대규모 채권 발행은 기업가치 2.5조 달러 밸류에이션에 대한 <span class=\"text-rose-400 font-medium\">의구심</span>을 낳고 있다."
+    ],
+    "data_points": [
+      "다우 0.14%, S&P 500 1.08%, 나스닥 1.91% 상승",
+      "마이크론 장중에 52주 신고가 1149달러",
+      "TD코엔 마이크론 목표가 660달러에서 1500달러 상향",
+      "알레시아 캐피탈 650달러에서 1600달러 상향",
+      "도이치 뱅크 1500달러, 시티 1200달러",
+      "메모리 가격 3분기 분기 대비 30~40% 상승 전망",
+      "HBM 가격 2027년까지 2배 이상 상승 전망",
+      "인텔 주가 10.64% 상승",
+      "미국 정부 작년 인텔 지분 10% 사들여 최대 주주... 미국 정부 지분 가치 60억 달러 이상 (인텔 시총 1천억 달러 -> 6천억 달러 이상 성장)",
+      "아마존 AI 칩 트레이니엄 누적 매출 약정 2250억 달러",
+      "지난주 미국 원유 재고 830만 배럴 감소, 유가 WTI 76달러대 마감",
+      "CME 페드워치 기준 9월 25bp 금리 인상 확률 50%",
+      "스페이스X 주가 3% 이상 하락하여 184달러대 마감... AI 코딩 회사(Cursor)를 600억 달러에 인수 추진, 200억 달러 규모 채권 발행 준비 중"
+    ],
+    "signal": "bullish",
+    "signal_confidence": "medium",
+    "signal_reason": "메모리 쇼티지가 IT 세트 고객사인 애플을 통해 직접 확인되었고, 클라우드 빅테크의 자체 <span class=\"text-cyan-300 font-semibold\">AI 가속기</span> 수요 확대 및 미국 정책적 제조업 육성 수혜가 이어지고 있습니다.",
+    "key_companies": [
+      "Micron(MU)",
+      "Intel(INTC)",
+      "Apple(AAPL)",
+      "Amazon(AMZN)",
+      "SpaceX"
+    ],
+    "insight": "AI 인프라 투자의 지속성에 대한 우려 속에서도, 애플의 메모리 단가 상승 수용과 아마존/구글의 자체 AI 가속기 외부 판매 시도는 반도체 슈퍼사이클의 지속 가능성을 보여줍니다. 반면, AI 버블 논란은 <span class=\"text-rose-400 font-medium\">스페이스X</span>의 사례처럼 AI와 무관한 산업군이 과도한 프리미엄을 유지하려 무리하게 AI 투자를 선언할 때 시장이 <span class=\"text-rose-400 font-medium\">차갑게 냉각</span>되는 차별화 장세로 흐르고 있습니다.",
+    "action_point": "마이크론은 호실적 기대감이 이미 선반영된 만큼 6월 24일 실적 발표 이후 조정을 받을 때 분할 매수 기회로 잡고, 파운드리 육성의 정책 수혜주인 <span class=\"text-cyan-300 font-semibold\">Intel</span>과 HBM 강세의 주도주인 국내 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>의 동반 상승 흐름에 올라타는 전략을 권장합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy",
+      "space"
+    ],
+    "tags": [
+      "미국증시",
+      "반도체",
+      "마이크론",
+      "인텔",
+      "아마존",
+      "유가",
+      "금리",
+      "스페이스X"
+    ]
+  }
+}

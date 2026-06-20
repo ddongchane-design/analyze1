@@ -1,0 +1,59 @@
+{
+  "video": {
+    "id": "wCY_jXWJxhk",
+    "title": "'위기의 세일러' 비트코인, STRC. MSTR 셋 중 하나를 포기해야 살 수 있다 | 서동주, 김동환, 박상혁 디지털애셋 편집장  [크립토 PLUS]",
+    "published": "2026-06-19T03:06:50+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=wCY_jXWJxhk",
+    "thumbnail": "https://img.youtube.com/vi/wCY_jXWJxhk/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "비트코인을 대량 보유한 <span class=\"text-cyan-300 font-semibold\">마이크로스트래티지(MSTR)</span>의 영구우선주인 <span class=\"text-cyan-300 font-semibold\">STRC</span> 가격이 100달러 액면가 밑으로 급락하며 환매 불가 우려와 함께 비트코인 시장 전체에 공포(MSTR발 리스크)를 확산시킴.\nMSTR은 비트코인, STRC, MSTR 보통주 중 하나를 희생해야 하는 <span class=\"text-rose-400 font-medium\">'트릴레마(진태양난)'</span>에 직면해 있으며, 자금 조달 손익분기점인 MNAV 비율 하락으로 신주 발행(ATM)을 중단한 상태임.\n한편, 대표적 디파이 거래소인 <span class=\"text-cyan-300 font-semibold\">하이퍼리퀴드</span>는 24개 노드의 중앙화 리스크와 <span class=\"text-violet-300 font-medium\">CME·ICE 등 전통 금융 기관의 규제 소송 촉구</span>로 규제 리스크가 부각되며 가격이 동반락함.",
+    "key_claims": [
+      "MSTR의 영구우선주 <span class=\"text-cyan-300 font-semibold\">STRC</span>는 배당률을 13% 수준까지 높이고 격주 지급으로 변경했음에도, 파산 외에는 100달러 액면가로 환매할 경로가 없어 주가 하락세가 멈추지 않고 있다.",
+      "MSTR의 자금 조달 선순환 척도인 MNAV 지표가 손익분기점인 1.2~1.3 미만(현재 1.1 수준)으로 떨어짐에 따라 신주 발행을 통한 비트코인 추가 매입 전략이 중단되었다.",
+      "<span class=\"text-cyan-300 font-semibold\">하이퍼리퀴드</span>는 온체인 거래소이지만 단 24개의 노드로 운영되어 탈중앙화 요건을 충족하지 못하며, 전통 금융 거래소(CME 등)의 CFTC 제소로 인해 무기한 선물 규제 리스크가 매우 높은 상황이다."
+    ],
+    "data_points": [
+      "STRC 주가 추위를 보니까이 89달러였었죠. 이틀 전에 근데 어제 하루 전에 어 83달러 선까지 떨어졌거든요.",
+      "배당률도 한 번 더 높혔고 13% 수준까지 올렸죠",
+      "1.2 정도가 우리 손익 분기점입니다. M나브 손익 분기점이 1.2이다.",
+      "지금 1.1 정도의 수준으로 지금 머물러 있거든요. 스트레티지 M나브가.",
+      "83달러에서 88까지 올라왔다",
+      "노드가 24개밖에 안 된다라는 거예요.",
+      "비트코인이 노드가 2만 개 정도 됩니다. 이더리움이 만 개 정도. 솔라나는 1천개에서 2,000개 사이",
+      "74달러 정도 수준에서 66달러 수준까지 확 떨어졌거든요. 네. 10% 이상 떨어졌습니다."
+    ],
+    "signal": "bearish",
+    "signal_confidence": "high",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">마이크로스트래티지</span>의 자금 조달 불능 리스크와 비트코인 매각 가능성, 그리고 디파이 대장격인 <span class=\"text-cyan-300 font-semibold\">하이퍼리퀴드</span>의 사법 규제 직면이 가상자산 시장 전반의 강력한 하락 압력으로 작용 중임.",
+    "key_companies": [
+      "마이크로스트래티지(MSTR)",
+      "그레이스케일",
+      "코인베이스(COIN)",
+      "크라켄",
+      "CME 그룹(CME)",
+      "ICE"
+    ],
+    "insight": "가상자산을 매입해 주가를 띄우는 이른바 DAT(Digital Asset Treasury) 기업들의 레버리지 선순환 구조가 비트코인 가격 정체 시 급속히 붕괴될 수 있음을 지적함. 또한, 제도권 금융기관이 규제를 무기로 디파이 시장의 파이를 회수하려는 소송전이 본격화됨에 따라 암호화폐 판도가 바뀔 수 있음.",
+    "action_point": "MSTR 주가와 우선주 STRC의 디패깅 지속 여부를 면밀히 모니터링해야 하며, 규제 리스크가 부각된 디파이 관련 자산 및 가상자산 포트폴리오의 비중을 축소하고 보수적 관점을 유지해야 함."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "stock",
+      "economy",
+      "tech"
+    ],
+    "tags": [
+      "비트코인",
+      "마이크로스트래티지",
+      "MSTR",
+      "STRC",
+      "하이퍼리퀴드",
+      "CME",
+      "디파이규제",
+      "MNAV"
+    ]
+  }
+}
