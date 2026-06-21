@@ -1,17 +1,15 @@
 {
   "consensus": "bullish",
-  "cross_insight": "The robotics sector is undergoing a rapid transition from lab research to real-world industrial deployment, driven by severe labor shortages and <span class=\"text-amber-300 font-bold\">cost reduction pressures</span>. Key players are establishing proprietary physical AI data collection centers, such as LG Electronics' 양재 <span class=\"text-cyan-300 font-semibold\">로봇 데이터 팩토리</span>, to train foundation models. Major automotive and electronics conglomerates are vertically integrating core hardware supply chains, particularly high-performance <span class=\"text-cyan-300 font-semibold\">액추에이터</span> and sensors, to secure margins before the commercial humanoid market scale-up.",
-  "divergence": "There is a notable strategic split: Western tech giants focus on high-fidelity simulation, digital twins, and premium industrial humanoids, whereas Chinese competitors like Unitree and Newvitry are aggressively pushing for rapid commoditization using ultra-low-cost, sub-$20,000 hardware designs.",
+  "cross_insight": "The robot and Physical AI industry is transitioning from purely mechanical automation to advanced <span class=\"text-cyan-300 font-semibold\">humanoid robots</span> integrated with emotional AI and digital twin verification. Major corporations like Hyundai Motor Group (taking 100% control of Boston Dynamics for upcoming IPO) and LG Electronics (constructing a massive robot data factory in Yangjae and automating 60% of its Tennessee factory) are aggressively localizing key components such as <span class=\"text-cyan-300 font-semibold\">actuators</span> and motors. Meanwhile, Chinese competitors like Unitree and Newvitry are leveraging extreme cost-effectiveness to accelerate global mass-market commercialization, posing both a threat and a catalyst for the global <span class=\"text-violet-300 font-medium\">supply chain</span>.",
+  "divergence": "While Western companies (like Tesla, Boston Dynamics, Figure) prioritize industrial utility, physical coordination, and structural separation from humans, Chinese firms focus on rapid cost reduction and extreme human mimicry (silicone skin, emotional bonding) to lower psychological barriers. There is also a debate on whether single-entity control (Hyundai's 100% buyout) is superior to building a multi-firm tech alliance (Samsung, Google, Nvidia) for ecosystem dominance.",
   "key_themes": [
-    "Transition from research to real-world factory deployment",
-    "Establishment of physical AI training centers (Data Factories)",
-    "Vertical integration of core components (actuators, sensors, motors)",
-    "Disruption from ultra-low-cost Chinese humanoid platforms"
+    "Corporate restructuring and strategic IP consolidation (e.g., Boston Dynamics 100% buyout)",
+    "Expansion of Physical AI and robot training centers (LG's Robot Data Factory)",
+    "Disruption by ultra-low-cost Chinese humanoid platforms (Unitree, Newvitry)"
   ],
   "watch_list": [
-    "현대자동차 (Boston Dynamics IPO and Atlas production)",
-    "LG전자 (Yangjae R&D Robot Data Factory)",
-    "삼성전자 (Investment and foundry partnership for robotics chips)",
-    "Unitree / Newvitry (Low-cost humanoid platforms)"
+    "Hyundai Motor Group (Boston Dynamics IPO value chain)",
+    "LG Electronics (smart factory solutions & actuator business)",
+    "KOID ETF (Physical AI and humanoid value chain)"
   ]
 }

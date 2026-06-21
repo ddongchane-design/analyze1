@@ -1,0 +1,40 @@
+{
+  "video": {
+    "id": "LtfKrMA-L_c",
+    "title": "미국 소프트파워가 흔들리는 진짜 이유 / 교양이를 부탁해",
+    "published": "2026-06-20T05:00:26+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=LtfKrMA-L_c",
+    "thumbnail": "https://img.youtube.com/vi/LtfKrMA-L_c/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국의 자국 우선주의적 관세 정책 및 글로벌 지정학적 중재 역할 축소로 인해 <span class=\"text-rose-400 font-medium\">평판 리스크</span>가 커지고 있음.\n미국의 일방주의적 태도가 장기적인 소프트파워 약화와 <span class=\"text-violet-300 font-medium\">지정학적 헤게모니 흔들림</span>으로 이어질 수 있음을 경고함.\n이에 따라 미국 시장 일극 집중 투자 전략에서 벗어나 글로벌 포트폴리오를 다변화해야 하는 <span class=\"text-amber-300 font-bold\">투자 갈림길</span>에 직면해 있음.",
+    "key_claims": [
+      "트럼프 정부의 관세 부과 및 대외 방임 정책은 미국의 글로벌 <span class=\"text-rose-400 font-medium\">평판 리스크</span>를 증대시킴.",
+      "장기적 관점에서 미국의 독점적인 소프트파워가 약화되면 <span class=\"text-violet-300 font-medium\">미국 일극 체제</span>의 투자 매력도가 낮아질 수 있음."
+    ],
+    "data_points": [
+      "다섯 가지 갈림길"
+    ],
+    "signal": "neutral",
+    "signal_confidence": "low",
+    "signal_reason": "미국의 대외 정책 변화가 소프트파워 약화와 <span class=\"text-rose-400 font-medium\">평판 리스크</span>를 유발하며 미국 중심 일극 투자 전략의 타당성에 의문을 제기함.",
+    "key_companies": [],
+    "insight": "지정학적 중재자 역할을 포기하고 <span class=\"text-amber-300 font-bold\">보호무역주의</span>를 강화하는 미국의 정책 변화는 장기적으로 달러 패권과 자산 매력도를 약화시킬 수 있으므로, 다변화된 자산 배분이 필수가 되고 있음.",
+    "action_point": "미국 주식 시장에 과도하게 편중된 포트폴리오를 재점검하고, <span class=\"text-violet-300 font-medium\">지정학적 리스크</span> 분산과 대체 투자 자산의 비중 확대를 점진적으로 고려해야 함."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "소프트파워",
+      "미국패권",
+      "평판리스크",
+      "트럼프관세",
+      "포트폴리오다변화",
+      "지정학적리스크"
+    ]
+  }
+}

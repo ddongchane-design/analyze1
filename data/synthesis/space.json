@@ -1,17 +1,15 @@
 {
   "consensus": "bullish",
-  "cross_insight": "The space sector is being redefined from a speculative frontier into a critical infrastructure layer for the global AI race. With land and power constraints limiting ground-based computing, tech giants are planning <span class=\"text-cyan-300 font-semibold\">우주 데이터 센터</span> utilizing abundant solar energy and natural cooling, which will drive a high-margin market for radiation-resistant semiconductors. SpaceX's reuse technology has crushed launch costs, securing a virtual monopoly on orbital transport, while its massive lease agreements with hyperscalers for GPU clusters provide immediate, non-space cash flows.",
-  "divergence": "Valuation is the primary point of contention. Bulls point to the Nasdaq 100 inclusion, Starship's 100-ton transport capability, and AGI vertical integration as justifications for premium pricing. In contrast, bears like Michael Burry highlight the extreme 70x PSR, looming August <span class=\"text-rose-400 font-medium\">lockup expirations</span>, and the financial impracticality of Musk's in-house semiconductor manufacturing goals (Terafab).",
+  "cross_insight": "SpaceX has successfully redefined itself from a rocket company into a premier AI infrastructure provider, generating $26 billion in annual lease revenue by hosting GPU clusters like <span class=\"text-cyan-300 font-semibold\">Colossus</span> for Google and Anthropic. To bypass ground-level grid and regulatory limitations, the firm is pioneering <span class=\"text-cyan-300 font-semibold\">space-based AI data centers</span> powered by orbital solar energy. This creates a lucrative new market for semiconductor manufacturers, as the extreme radiation environment requires specialized packaging that commands a <span class=\"text-amber-300 font-bold\">5x price premium</span> over consumer silicon. However, this aggressive expansion has pushed SpaceX's PSR to 70x, inviting skepticism from prominent short-sellers who warn of a valuation bubble ahead of the lock-up expiration.",
+  "divergence": "A major debate exists between visionaries who buy into Musk's vertically integrated 'civilization engine' (linking Starlink, xAI, and Tesla Optimus) and value-oriented critics (like Michael Burry) who argue that orbital data centers and the 'Terafab' chip factory are economically unfeasible fantasies requiring trillions in capital that will dilute current shareholders.",
   "key_themes": [
-    "Space-based data centers as a solution to ground-based power bottlenecks",
-    "Drastic launch cost reduction through rocket reuse (35% of traditional cost)",
-    "Vertical integration of communication, AI compute, and robotics",
-    "Valuation debates and lockup release risks in public markets"
+    "Commercialization of space-based AI data centers and radiation-hardened chips",
+    "SpaceX's dual-revenue engine: Starlink telecom and Colossus GPU leasing",
+    "Extreme valuation debate (PSR 70x) and passive index inclusion flows"
   ],
   "watch_list": [
-    "SpaceX lockup release timeline (August/September)",
-    "Starship orbital refueling and heavy transport test results",
-    "Space radiation-tolerant memory research by Samsung and SK Hynix",
-    "U.S. defense and NASA contract award announcements"
+    "SpaceX (August lock-up expiration and July Nasdaq 100 inclusion)",
+    "SK Hynix & Samsung Electronics (Radiation-tolerant HBM/memory packaging)",
+    "ACE US Space Tech Active ETF / KODEX Space Tech ETF"
   ]
 }

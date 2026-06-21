@@ -1,17 +1,15 @@
 {
   "consensus": "bullish",
-  "cross_insight": "The equity markets are displaying a historic polarization, where index gains are heavily concentrated in the semiconductor and power infrastructure sectors, leaving the broader market <span class=\"text-rose-400 font-medium\">severely neglected</span>. While macro headwinds like high interest rates and FTSE index rebalancing trigger short-term corrections, the structural earnings growth in the AI value chain remains robust. Global capital continues to flow into cash-rich tech giants, whereas high-debt growth sectors like biotech and secondary batteries face continued pressure from delayed rate cut expectations.",
-  "divergence": "Market participants are divided between chasing the high-flying semiconductor leaders and preparing for a <span class=\"text-amber-300 font-bold\">sector rotation</span> into undervalued value stocks. Some warn that any earnings miss by key bellwethers like Micron could trigger a broader market liquidation, while others argue that the valuation of Korean memory leaders remains attractive when adjusted for HBM-led margins, suggesting that any pullback is a buying opportunity.",
+  "cross_insight": "The equity markets are experiencing extreme polarization, where capital is concentrated heavily in a narrow group of AI hardware leaders, pushing indices like the KOSPI (which touched historical highs driven by SK Hynix and Samsung Electronics) and Nasdaq upward. Despite short-term volatility from macroeconomic events like PCE inflation data and pension fund rebalancing, the core driver remains the persistent <span class=\"text-cyan-300 font-semibold\">DRAM shortage</span> and HBM ASP hikes, which are boosting semiconductor earnings to record levels. However, this narrow market breadth exposes investors to <span class=\"text-rose-400 font-medium\">customer concentration risk</span>, as demonstrated by the sudden crash of specialized infrastructure providers upon the loss of key accounts.",
+  "divergence": "While some analysts argue that the Korean market is plagued by structural deficiencies (14-year underperformance, corporate governance issues) prompting capital flight to US ETFs like QQQM, others argue that KOSPI's recent tech-led run represents a fundamental valuation rerating (PER 6-7x) that will eventually rotate into domestic infrastructure, defense, and power grid stocks.",
   "key_themes": [
-    "Semiconductor-led index growth and extreme market polarization",
-    "Short-term volatility driven by passive ETF rebalancing",
-    "Underperformance of rate-sensitive sectors (biotech, secondary batteries)",
-    "Use of safety margins for tactical buying of memory leaders"
+    "Extreme polarization and tech-led index rerating (KOSPI & Nasdaq)",
+    "Structural growth in memory value chain (DRAM/HBM ASP hikes)",
+    "De-risking via diversification and seeking safety margins in large caps"
   ],
   "watch_list": [
-    "Samsung Electronics & SK Hynix (earnings guidance and HBM supply)",
-    "Micron Technology (quarterly earnings and forward guidance)",
-    "Global passive index rebalancing schedules",
-    "U.S. Federal Reserve PCE inflation releases"
+    "SK Hynix (US ADR listing and HBM production yield)",
+    "Samsung Electronics (HBM4 foundry integration and valuation recovery)",
+    "QQQM/QQQ (US Nasdaq passive inflows)"
   ]
 }

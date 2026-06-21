@@ -1,17 +1,15 @@
 {
   "consensus": "neutral",
-  "cross_insight": "The global economy is transitioning into a <span class=\"text-amber-300 font-bold\">post-modern cycle</span> characterized by higher terminal rates, regionalization, and heavy government intervention, such as the US government's direct stake in Intel. Under the new Federal Reserve Chair Kevin Warsh, the abandonment of forward guidance has heightened <span class=\"text-rose-400 font-medium\">macro uncertainty</span>, forcing markets to price in a higher risk premium. Simultaneously, the resolution of geopolitical conflicts in the Middle East has triggered a structural decline in crude prices, offering a disinflationary offset to persistent fiscal deficits.",
-  "divergence": "There is a clear debate regarding monetary policy trajectory. While the hawkish dot plot at the FOMC suggests that rates may stay higher for longer or even see hikes, some market strategists point to AI-driven productivity gains and falling energy prices as catalysts that could allow the Fed to cut rates as early as late autumn.",
+  "cross_insight": "The global economy is facing structural headwinds due to a shift towards high-cost <span class=\"text-violet-300 font-medium\">supply chains</span>, particularly in the energy sector where reliance on US-sourced fuels is replacing cheaper alternatives. Central banks are maintaining a hawkish posture, with the Fed prioritizing <span class=\"text-rose-400 font-medium\">inflation control</span> over growth projections, employing 'cost-effective tightening' via verbal guidance to keep financial markets restricted without immediate rate hikes. Meanwhile, rising asset inflation is exacerbating inequality, and potential political interventions into the Federal Reserve's independence under upcoming leadership changes pose a threat to long-term macroeconomic stability.",
+  "divergence": "While some analysts warn that the US-led unilateral tariffs and protectionism will cause a decay in dollar hegemony and require immediate global diversification, others emphasize the enduring strength of the US labor market and the resilience of its corporate earnings relative to peer nations (e.g., EU, Japan).",
   "key_themes": [
-    "Transition to a post-modern macro cycle with higher terminal rates",
-    "Elimination of Federal Reserve forward guidance and increased uncertainty",
-    "Disinflationary pressure from falling crude oil prices",
-    "U.S. government intervention in domestic semiconductor manufacturing"
+    "Higher-for-longer interest rate regime and verbal monetary tightening",
+    "De-globalization and structural energy inflation from supply chain re-routing",
+    "Geo-economic containment strategies (e.g., Japan's naval defense diplomacy)"
   ],
   "watch_list": [
-    "U.S. 2-Year and 10-Year Treasury Yields",
-    "WTI and Brent Crude Oil Prices",
-    "Semiconductor manufacturing policy (Intel 10% government stake)",
-    "PCE inflation and employment data"
+    "US Core PCE and Federal Reserve monetary policy announcements",
+    "Big Oil (ExxonMobil, Chevron) as inflation hedges",
+    "Singapore-style real estate tax policies in other jurisdictions"
   ]
 }

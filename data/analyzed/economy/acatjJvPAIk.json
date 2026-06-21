@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "acatjJvPAIk",
+    "title": "국가 마케팅의 위력",
+    "published": "2026-06-20T14:15:05+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=acatjJvPAIk",
+    "thumbnail": "https://img.youtube.com/vi/acatjJvPAIk/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "일본은 조기 태역한 해군 함정을 동남아 국가에 무상 기증하며 장기적인 <span class=\"text-violet-300 font-medium\">방산 락인(Lock-in) 효과</span>를 창출해 왔습니다.\n이러한 익숙함 덕분에 동남아 국가들은 차기 함정 도입 시 가격이 비싸더라도 <span class=\"text-cyan-300 font-semibold\">일본 조선소</span> 제품을 선택할 가능성이 높습니다.\n단기적인 수주 경쟁을 넘어 오랜 기간 축적된 국가 차원의 마케팅과 지정학적 영향력 확보가 <span class=\"text-amber-300 font-bold\">방산 프로젝트</span> 성패의 핵심 요인입니다.",
+    "key_claims": [
+      "고임금 국가에서는 유지보수 비용 때문에 함정을 조기 태역시켜 신조선으로 교체하는 것이 경제적이다.",
+      "일본은 퇴역 함정 기증을 통해 동남아 해군을 자국 장비에 길들임으로써 방산 프로젝트 최종 후보군에서 경쟁국을 배제하는 전략을 취하고 있다."
+    ],
+    "data_points": [
+      "한 300년 쓰면",
+      "한 30년 됐어요"
+    ],
+    "signal": "neutral",
+    "signal_confidence": "medium",
+    "signal_reason": "한국 방산 기업의 글로벌 경쟁력은 우수하나, 장기적인 국가 마케팅 측면의 장벽에 부딪힐 수 있어 <span class=\"text-rose-400 font-medium\">수주 경쟁의 한계</span>가 존재함을 시사합니다.",
+    "key_companies": [
+      "Japanese Shipyards"
+    ],
+    "insight": "방산 및 조선 산업은 단순 제품의 가격이나 스펙 경쟁이 아닌, 군사적 동맹 관계와 장기적 유지보수 생태계에 종속되는 <span class=\"text-violet-300 font-medium\">국가 마케팅 전략</span>의 결과물이라는 점을 인지해야 합니다.",
+    "action_point": "국내 방산·조선 섹터인 <span class=\"text-cyan-300 font-semibold\">한화오션(042660)</span>, <span class=\"text-cyan-300 font-semibold\">HD현대중공업(329180)</span> 투자 시 단기 수주 실적 외에 정부 차원의 방산 수출 협력 패키지 및 ODA 연계 전략을 주시해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "방위산업",
+      "국가마케팅",
+      "조선업",
+      "함정수출",
+      "락인효과"
+    ]
+  }
+}

@@ -1,17 +1,15 @@
 {
   "consensus": "neutral",
-  "cross_insight": "The energy sector is facing dual pressures from structural geopolitical risks and physical climate anomalies, which are permanently raising the floor for commodity prices. The weaponization of maritime choke points like the <span class=\"text-violet-300 font-medium\">호르무즈 해협</span> has introduced permanent insurance and transport premiums, preventing crude prices from retreating to pre-war levels. Concurrently, major nations are aggressively funding <span class=\"text-cyan-300 font-semibold\">SMR</span> (Small Modular Reactor) technologies to resolve the massive power deficit caused by AI data centers, shifting the energy transition from a purely green initiative to a national security imperative.",
-  "divergence": "A major debate centers around the near-term path of oil prices; some analysts forecast a supply-glut induced correction as non-OPEC+ production rises and Middle East tensions cool, while others warn that the physical depletion of the U.S. Strategic Petroleum Reserve and long rebuilding times for damaged infrastructure will sustain a tight market through the end of the year.",
+  "cross_insight": "The energy sector is entering an era of structural tightness and de-globalization, where resource-rich states are weaponizing chokepoints like the Hormuz Strait. Even if physical conflicts cease, the extensive <span class=\"text-rose-400 font-medium\">infrastructure damage</span> to Middle Eastern oil and gas facilities, coupled with rising marine insurance rates, will prevent oil prices from returning to pre-war levels. In response, global powers are racing to secure alternative energy architectures; Japan is investing 100 trillion Yen into US-led SMR (Small Modular Reactor) partnerships, while trading houses like POSCO International are transforming into energy orchestrators by acquiring direct stakes in Australian gas (<span class=\"text-cyan-300 font-semibold\">Senex Energy</span>) and securing international food supply chains.",
+  "divergence": "There is a division between those who view SMRs and nuclear power as an immediate, investable solution to the AI power bottleneck, and those who emphasize the long lead times, massive CapEx, and the competitive threat Japanese-backed SMR consortia pose to established heavy industries like Doosan Enerbility.",
   "key_themes": [
-    "Structural elevation of transport costs and insurance premiums",
-    "Acceleration of SMR investments for AI power demands",
-    "Global warming and AMOC weakening as systemic risk factors",
-    "Depletion of strategic energy reserves in the West"
+    "Permanent geopolitical risk premiums on oil, gas, and maritime logistics",
+    "Government-backed SMR standard wars (US-Japan alliance vs. Korea)",
+    "Transition of trading firms to resource ownership ('Orchestrators')"
   ],
   "watch_list": [
-    "WTI/Brent Crude Oil Prices and OPEC+ production levels",
-    "U.S. Strategic Petroleum Reserve (SPR) inventory levels",
-    "Global SMR partnership developments (NuScale, GE-Hitachi)",
-    "AMOC and oceanic temperature indicators"
+    "POSCO International (Australian Senex Energy production & EV motor core sales)",
+    "Doosan Enerbility (SMR equipment orders)",
+    "US Crude Oil Inventories (Q3 depletion trends)"
   ]
 }

@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "TXQPPuZdUGg",
+    "title": "국장 탈출은 지능순? 일본 주식 8배 뛴 비결 / 교양이를 부탁해",
+    "published": "2026-06-20T05:30:25+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=TXQPPuZdUGg",
+    "thumbnail": "https://img.youtube.com/vi/TXQPPuZdUGg/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "14년 동안 누적 수익률이 약 4%에 그친 한국 주식시장(국장)의 <span class=\"text-rose-400 font-medium\">장기 박스권 정체</span>를 꼬집습니다.\n배당 등을 고려하더라도 실질적인 연간 수익률은 극히 미미하여 투자 매력도가 현저히 떨어집니다.\n이러한 저성과로 인해 국내 주식 비중을 줄이고 해외로 자산을 배분하는 <span class=\"text-amber-300 font-bold\">국장 탈출</span> 흐름이 정당성을 얻고 있습니다.",
+    "key_claims": [
+      "한국 주식시장은 지난 14년 동안 지수 상승률이 누적으로 단 4% 수준에 머무는 <span class=\"text-rose-400 font-medium\">극심한 정체</span>를 보였습니다.",
+      "미미한 배당 수익을 감안하더라도, 국내 시장에 장기 투자하는 것은 기회비용 측면에서 매우 <span class=\"text-rose-400 font-medium\">비효율적</span>입니다."
+    ],
+    "data_points": [
+      "14년간 몇 포인트 올랐죠? ... 100포인트 가까이 올랐죠.",
+      "몇 퍼센트죠? 그러면 한 4% ... 매년 4를 준게 아니죠. 누적으로 사죠.",
+      "4를 14년으로 나눠야지 연간 수익률이 나오는 거 아니에요."
+    ],
+    "signal": "bearish",
+    "signal_confidence": "medium",
+    "signal_reason": "국내 주식시장의 14년 누적 4%라는 <span class=\"text-rose-400 font-medium\">극도의 저성과</span>는 국내 주식 비중 축소 및 해외 자산 배분의 필요성을 경고합니다.",
+    "key_companies": [],
+    "insight": "국내 증시의 장기 성과 부진은 단순한 일시적 조정이 아닌 구조적 문제일 수 있으며, 글로벌 포트폴리오 다변화와 <span class=\"text-cyan-300 font-semibold\">해외 자산 배분</span>은 투자 생존을 위한 필수 전략입니다.",
+    "action_point": "한국 주식의 포트폴리오 비중을 낮추고, 우량 기술주 중심의 미국 시장(<span class=\"text-cyan-300 font-semibold\">나스닥</span>, S&P 500)으로의 <span class=\"text-amber-300 font-bold\">자산 이전</span>을 고려하십시오."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "국내주식",
+      "국장탈출",
+      "코스피",
+      "박스피",
+      "장기투자",
+      "해외주식"
+    ]
+  }
+}

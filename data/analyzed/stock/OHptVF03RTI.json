@@ -1,0 +1,58 @@
+{
+  "video": {
+    "id": "OHptVF03RTI",
+    "title": "[어바웃 뉴욕] 서울-부산보다 비싼 뉴욕 다리, 뒤에서 돈 벌던 회사는 왜 70% 급락했나 | 이나연 특파원",
+    "published": "2026-06-20T03:00:30+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=OHptVF03RTI",
+    "thumbnail": "https://img.youtube.com/vi/OHptVF03RTI/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "뉴욕 맨해튼의 살인적인 통행료 체계와 새롭게 도입된 <span class=\"text-rose-400 font-medium\">혼잡통행료 제도</span>로 인한 갈등을 설명하고, 무인 전자 징수 시스템의 비즈니스 모델을 해부합니다.\n통행료 정산 및 단속 카메라 솔루션 시장을 독점하며 안정적 성장을 보여주던 <span class=\"text-cyan-300 font-semibold\">베라 모빌리티</span>가 주요 고객사의 계약 해지 한 번으로 주가가 70% 폭락한 원인을 분석합니다.\n아무리 뛰어난 인프라적 비즈니스 모델이라도 <span class=\"text-rose-400 font-medium\">고객 집중도(Customer Concentration)</span>가 높으면 치명적인 리스크에 노출될 수 있음을 경고합니다.",
+    "key_claims": [
+      "맨해튼의 통행 정체 문제를 해결하기 위해 도입된 <span class=\"text-rose-400 font-medium\">혼잡통행료</span>는 뉴저지주와의 이중 과금 갈등을 유발하고 있다.",
+      "<span class=\"text-cyan-300 font-semibold\">베라 모빌리티</span>는 도로 위의 비자 카드처럼 보였으나, 실제로는 소수 대형 고객에게 의존하는 서비스 대행사에 불과했다.",
+      "투자 전 기업의 사업보고서 내 <span class=\"text-rose-400 font-medium\">고객 집중 리스크</span> 항목을 반드시 확인하여 단일 계약 해지가 불러올 재무적 충격을 대비해야 한다."
+    ],
+    "data_points": [
+      "조지 워싱턴 브릿지는 하루 30만 대, 1년에 1억대 이상이 지나갑니다.",
+      "단말기 없이 건너면 23달러 30 우리 돈으로 3만 원이 넘습니다.",
+      "이지패스가 붙어 있으면 피크 시간에 16달러 79c 한가한 시간엔 14달러 79c",
+      "매일 출퇴근 하는 사람 기준으로 1년이면 최대 4,400달러가 차이가 나는 거죠",
+      "MTA 뉴욕 교통공사 소유 요금은 뉴욕 이지패스 기준 7달러 46, 우편 청구로 가면 12달러 3까지",
+      "승용차 기준 피크 9달러, 심야엔 2달러 25cents",
+      "뉴욕시 교통국과 5년짜리 세 계약을 맺었습니다. 규모가 9억 9,800만 달러 1조 4,억 원이 넘습니다.",
+      "렌터카 회사 에이비스(Avis)가 계약 종료를 통보",
+      "ABS 한 곳이 이 회사 전체 매출의 10%가 넘었습니다.",
+      "연매출 1억 4천만 달러 안팎히 날아가게 생겼고",
+      "주가는 하루 만에 70% 안팎 폭락했습니다. 13달러 대였던 주가가 4달러 선으로"
+    ],
+    "signal": "bearish",
+    "signal_confidence": "high",
+    "signal_reason": "독점적인 플랫폼 비즈니스로 오인받던 기업이 <span class=\"text-rose-400 font-medium\">대형 고객 이탈</span>로 하루아침에 매출의 상당 부문을 상실하며 신뢰성과 수익성이 훼손되었습니다.",
+    "key_companies": [
+      "Verra Mobility(VRRM)",
+      "Avis"
+    ],
+    "insight": "뉴욕시의 통행료 인상 및 무인 단속 카메라 확대라는 거시적 흐름은 유리하지만, 개별 기업 관점에서는 단일 바이어에 대한 <span class=\"text-rose-400 font-medium\">매출 의존도</span>가 높은 구조의 한계가 명확히 드러났습니다. <span class=\"text-cyan-300 font-semibold\">베라 모빌리티</span>의 사례는 인프라 성격의 사업 모델을 가졌더라도 분산된 고객군(예: 비자 카드의 가맹점들)을 확보하지 못한 경우, 플랫폼이 아닌 단순 용역 대행사로 재평가받으며 주가가 <span class=\"text-rose-400 font-medium\">영구적 가치 손실</span>을 입을 수 있음을 시사합니다.",
+    "action_point": [
+      "포트폴리오 내 보유 기업의 사업보고서(10-K)에서 <span class=\"text-rose-400 font-medium\">고객 집중(Customer Concentration) 리스크</span>를 전수 조사하여 비중 10% 이상인 대형 고객의 이탈 가능성을 점검.",
+      "<span class=\"text-cyan-300 font-semibold\">베라 모빌리티</span>는 경영진 교체와 주주 소송 등 법적 리스크가 해소되고 새로운 대형 렌터카 계약을 수주하기 전까지 보수적인 접근 유지."
+    ]
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy",
+      "tech"
+    ],
+    "tags": [
+      "베라모빌리티",
+      "에이비스",
+      "뉴욕통행료",
+      "혼잡통행료",
+      "고객집중도",
+      "플랫폼비즈니스"
+    ]
+  }
+}

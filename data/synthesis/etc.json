@@ -1,17 +1,15 @@
 {
-  "consensus": "neutral",
-  "cross_insight": "The miscellaneous and geopolitical analysis highlights structural shifts in global security, defense procurement, and infrastructure stability. A prominent example is Canada's 60-trillion KRW submarine project (CPSP), which showcases how rising <span class=\"text-violet-300 font-medium\">지정학적 안보 긴장</span> under U.S. pressure is forcing allied nations to rapidly expand defense budgets, directly benefiting advanced shipbuilders. Meanwhile, in non-defense sectors, efforts to commercialize low-cost consumer robotics in retail environments are dismissed as mere marketing toys, emphasizing that true physical AI requires extensive data factories and high-precision components.",
-  "divergence": "While geopolitical tension in East Asia (such as the North-China-Russia alliance) is reinforcing supply chain bloc formation, opinion is divided on whether these alignments will trigger immediate <span class=\"text-rose-400 font-medium\">trade disruptions</span> or remain a long-term, slow-moving structural headwind for global markets.",
+  "consensus": "na",
+  "cross_insight": "This segment covers diverse cultural, geopolitical, and structural domestic developments. A key economic highlight is the structural shortage in the Seoul real estate market, where redevelopment constraints and an 80% drop in villa construction have triggered a rapid shift toward rental inflation. In the geopolitical defense sector, the 60-trillion Won Canadian Patrol Submarine Project (<span class=\"text-cyan-300 font-semibold\">CPSP</span>) represents a major long-term opportunity for Korean shipbuilders (Hanwha Ocean, HD Hyundai Heavy), driven by US pressure on Canada to bolster Arctic defense. Other topics focus on sports safety regulations (the <span class=\"text-rose-400 font-medium\">Clear Bag Policy</span> at the 2026 World Cup) and public science engagement.",
+  "divergence": "While Canadian defense procurement represents a massive multi-decade revenue pipeline, the final selection remains highly dependent on bilateral defense diplomacy and securing US Navy compatibility approval, making the outcome speculative compared to commercial ship orders.",
   "key_themes": [
-    "Allied defense budget expansion and large-scale procurement programs",
-    "Skepticism toward low-end consumer robotics (marketing toys vs. physical AI)",
-    "Geopolitical alliance consolidation (North-China-Russia) and supply chain fragmentation",
-    "Infrastructure resilience and seismic safety regulations"
+    "Geopolitical defense expansion in the Arctic (CPSP submarine tender)",
+    "Housing supply polarization and accelerating rental inflation in Seoul",
+    "Security-driven cost inflation in major global sporting events"
   ],
   "watch_list": [
-    "Canada CPSP Submarine Project shortlist and bidding updates",
-    "North-China-Russia diplomatic and military cooperation indicators",
-    "Seismic building code regulations in industrial hubs",
-    "Domestic shipyard order backlogs and defense export pipelines"
+    "Hanwha Ocean & HD Hyundai Heavy Industries (Canada CPSP bidder shortlist)",
+    "Seoul housing monthly rent index",
+    "Clear Bag manufacturer stocks / Event logistics services"
   ]
 }

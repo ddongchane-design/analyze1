@@ -1,17 +1,15 @@
 {
   "consensus": "bullish",
-  "cross_insight": "The technological landscape is experiencing a massive wave of innovation, shifting from pure training models to real-world deployment of <span class=\"text-cyan-300 font-semibold\">온디바이스 AI</span> and autonomous agents. This transition is causing severe hardware bottlenecks, which are moving beyond GPUs to high-bandwidth memory, advanced packaging substrates like <span class=\"text-cyan-300 font-semibold\">FC-BGA</span>, and power delivery infrastructure. The high capital expenditure from hyperscalers is driving a surge in electricity demand, highlighting power efficiency technologies like S-RAM and SMRs as critical bottlenecks.",
-  "divergence": "While the core infrastructure players enjoy massive backlogs and sold-out capacities, there is emerging skepticism regarding the consumer-facing monetization of software. While on-device AI tools (e.g., Apple's iOS 27) are seen as near-term catalysts for device replacement cycles, domestic restaurant tech platforms and pure software tools face high customer acquisition costs and slow adoption rates, leading to a stark valuation divergence.",
+  "cross_insight": "The AI revolution is rapidly moving from model training to large-scale inference, causing a massive shortage of high-capacity <span class=\"text-cyan-300 font-semibold\">HBM</span> and shifting the hardware bottleneck from raw compute to power grids, advanced packaging, and network bandwidth. Tech companies are actively building out infrastructure, with Cisco expanding into cloud control via the Splunk acquisition and LG Innotek achieving a 93% yield on <span class=\"text-cyan-300 font-semibold\">FC-BGA</span> substrate lines while planning next-gen glass substrates. To address the severe <span class=\"text-rose-400 font-medium\">electricity bottleneck</span>, tech giants are increasingly focusing on power-efficient designs, such as on-chip S-RAM, optical communications (CPO), and securing long-term nuclear energy sources.",
+  "divergence": "A key debate centers on whether the current AI buildout is approaching a short-term bubble burst due to white-collar job displacement and rising electricity costs, or if the massive capital allocation by cloud hyperscalers will continue uninterrupted, supported by a transition from 'token maxing' (brute-force computing) to 'outcome maxing' (efficient, specialized agents).",
   "key_themes": [
-    "Shift from AI model training to inference and AI agents",
-    "Bottleneck migration to advanced packaging (FC-BGA, glass substrates) and MLCCs",
-    "On-device AI integration as a device upgrade catalyst",
-    "Energy efficiency and on-chip memory (S-RAM) as computing bottlenecks"
+    "AI inference bottleneck shifting to power grids, FC-BGA, and MLCCs",
+    "Transition to outcome-focused, cost-efficient AI routing and 'Vibe Coding'",
+    "Advanced packaging innovation (glass substrates, CPO, and OSAT partnerships)"
   ],
   "watch_list": [
-    "Apple Intelligence (iOS 27 adoption and consumer feedback)",
-    "LG Innotek / Samsung Electro-Mechanics (FC-BGA and glass substrates)",
-    "High-Bandwidth Memory (HBM4 development and supply constraints)",
-    "AI energy infrastructure (SMRs and power grid equipment)"
+    "Samsung Electro-Mechanics & LG Innotek (advanced substrates and MLCC)",
+    "Marvell Technology (optical connection / CPO solutions)",
+    "Google (TPU ecosystem and Google Flow adoption)"
   ]
 }

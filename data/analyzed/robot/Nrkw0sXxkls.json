@@ -1,0 +1,80 @@
+{
+  "video": {
+    "id": "Nrkw0sXxkls",
+    "title": "나스닥 반등 vs 금값 -17% 다음 AI는 이겁니다.",
+    "published": "2026-06-20T10:00:20+00:00",
+    "channel_name": "수페TV",
+    "url": "https://www.youtube.com/watch?v=Nrkw0sXxkls",
+    "thumbnail": "https://img.youtube.com/vi/Nrkw0sXxkls/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 증시는 <span class=\"text-cyan-300 font-semibold\">반도체</span> 및 <span class=\"text-cyan-300 font-semibold\">AI 인프라</span>(전력, 데이터센터) 주도로 강력하게 반등한 반면, <span class=\"text-rose-400 font-medium\">금 가격</span>과 유가는 하락 조정을 겪고 있습니다.\n신임 연준 의장의 매파적 발언에 따른 <span class=\"text-rose-400 font-medium\">금리 인상 우려</span>와 스페이스X의 대규모 회사채 발행 등 자금 조달 리스크가 시장의 새로운 변수로 부각되었습니다.\n피지컬 AI 시장의 개화로 <span class=\"text-cyan-300 font-semibold\">휴머노이드 로봇</span> 관련 공급망과 해자 기업에 투자하는 ETF(KOID 등)가 두각을 나타내고 있습니다.",
+    "key_claims": [
+      "<span class=\"text-cyan-300 font-semibold\">반도체</span> 수요는 여전히 강력하며, AI 수혜는 전력 인프라와 데이터 센터 등 실물 설비로 확장되고 있다.",
+      "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>는 성장성은 높지만 아직 이익 미검증 상태이며, 대규모 채권 발행에 따른 <span class=\"text-rose-400 font-medium\">재무 부담</span>을 경계해야 한다.",
+      "피지컬 AI의 핵심인 <span class=\"text-cyan-300 font-semibold\">휴머노이드 로봇</span> 시장은 스마트폰과 자동차를 넘어설 초대형 시장이 될 것이며, 핵심 부품 해자를 가진 기업에 주목해야 한다.",
+      "<span class=\"text-rose-400 font-medium\">금값 하락</span>은 연준의 매파적 기조에 따른 단기 조정일 뿐, 중앙은행들의 매수세와 지정학적 통화 불안으로 장기 우상향 추세는 유효하다."
+    ],
+    "data_points": [
+      "다우존스는 1.2% 상승했고 SP 500은 1.3% 나스닥은 3.3% 올랐습니다.",
+      "인텔은 15% 마이크론은 14% 상승했습니다.",
+      "G번노버가 22% 버티브가 12% 상승했습니다.",
+      "X모빌과 셰브론이 6% 하락했습니다.",
+      "로키드 마틴의 수주 장고는 1940억 달러에 달하고 신규 방상 계약도 약 100억 달러 규모",
+      "대만 GDP의 22%가 반도체 섹터",
+      "스페이스X는 200억 달러의 자금 조달 계획을 발표",
+      "유니트리 R1 로봇 가격은 4,900달러(원화 약 750만 원)",
+      "예상 시장 규모만 30조 달러",
+      "피규어 로봇이 현재 200시간 가까이 작업 중이고 처리한 택배는 24만9,000건",
+      "KOID YTD 수익률 32%",
+      "금값 한 돈 111만 원에서 92만 원까지 하락",
+      "IAUM 총 보수가 0.07%"
+    ],
+    "signal": "neutral",
+    "signal_confidence": "medium",
+    "signal_reason": "AI와 로봇 산업의 강력한 성장 모멘텀이 유지되는 한편, 연준의 <span class=\"text-rose-400 font-medium\">매파적 금리 우려</span>와 성장 기업들의 <span class=\"text-rose-400 font-medium\">자금 조달 부담</span>이 상존하여 혼조세를 보입니다.",
+    "key_companies": [
+      "Intel(INTC)",
+      "Micron Technology(MU)",
+      "GE Vernova(GEV)",
+      "Vertiv Holdings(VRT)",
+      "Exxon Mobil(XOM)",
+      "Chevron(CVX)",
+      "Broadcom(AVGO)",
+      "Lockheed Martin(LMT)",
+      "TSMC(TSM)",
+      "SpaceX",
+      "Unitree",
+      "NVIDIA(NVDA)",
+      "Doosan",
+      "UBTECH",
+      "Tesla(TSLA)"
+    ],
+    "insight": "AI 기술의 발전이 소프트웨어를 넘어 전력망 인프라와 <span class=\"text-cyan-300 font-semibold\">휴머노이드 로봇</span>이라는 물리적 실체(Physical AI)로 빠르게 전이되고 있습니다. 특히 중국의 저가 로봇 물량 공세와 일본/한국의 핵심 부품 공급망 경쟁은 로봇 대중화 시기를 앞당기는 기폭제 역할을 하고 있으므로, 하드웨어 공급망 내 <span class=\"text-violet-300 font-medium\">해자 기업</span> 중심의 포트폴리오 다변화가 필요합니다.",
+    "action_point": [
+      "AI 인프라 수혜주(전력, 냉각 시스템) 및 핵심 로봇 부품 공급망을 고루 담은 <span class=\"text-cyan-300 font-semibold\">KOID ETF</span>나 국내 로봇 ETF를 통한 분할 매수 진입.",
+      "대규모 자금 조달로 변동성이 커진 <span class=\"text-cyan-300 font-semibold\">스페이스X</span> 및 신규 IPO 종목은 상장 초기 최대 50%의 <span class=\"text-rose-400 font-medium\">가격 조정 리스크</span>를 감안하여 분할 매수로 대응.",
+      "금값 하락세를 활용해 보수가 저렴한 <span class=\"text-cyan-300 font-semibold\">IAUM ETF</span> 등을 활용한 실물 자산 헤지 비중 확보."
+    ]
+  },
+  "classification": {
+    "primary_topic": "robot",
+    "secondary_topics": [
+      "stock",
+      "tech",
+      "economy",
+      "space",
+      "energy"
+    ],
+    "tags": [
+      "나스닥",
+      "금값",
+      "휴머노이드",
+      "로봇ETF",
+      "KOID",
+      "스페이스X",
+      "TSMC",
+      "테슬라옵티머스"
+    ]
+  }
+}
