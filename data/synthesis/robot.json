@@ -1,15 +1,15 @@
 {
   "consensus": "bullish",
-  "cross_insight": "The robot and Physical AI industry is transitioning from purely mechanical automation to advanced <span class=\"text-cyan-300 font-semibold\">humanoid robots</span> integrated with emotional AI and digital twin verification. Major corporations like Hyundai Motor Group (taking 100% control of Boston Dynamics for upcoming IPO) and LG Electronics (constructing a massive robot data factory in Yangjae and automating 60% of its Tennessee factory) are aggressively localizing key components such as <span class=\"text-cyan-300 font-semibold\">actuators</span> and motors. Meanwhile, Chinese competitors like Unitree and Newvitry are leveraging extreme cost-effectiveness to accelerate global mass-market commercialization, posing both a threat and a catalyst for the global <span class=\"text-violet-300 font-medium\">supply chain</span>.",
-  "divergence": "While Western companies (like Tesla, Boston Dynamics, Figure) prioritize industrial utility, physical coordination, and structural separation from humans, Chinese firms focus on rapid cost reduction and extreme human mimicry (silicone skin, emotional bonding) to lower psychological barriers. There is also a debate on whether single-entity control (Hyundai's 100% buyout) is superior to building a multi-firm tech alliance (Samsung, Google, Nvidia) for ecosystem dominance.",
+  "cross_insight": "최근 로봇 산업은 가상 세계의 LLM을 넘어 실세계와 상호작용하는 <span class=\"text-cyan-300 font-semibold\">물리적 AI(Physical AI)</span> 및 휴머노이드 로봇 생태계로 급격히 확장되고 있습니다. 특히 엔비디아의 에이전트형 로봇 데모와 OpenAI의 풀스택 로보틱스 대규모 채용에서 볼 수 있듯이 빅테크의 하드웨어/소프트웨어 통합 움직임이 빨라지고 있으며, 현대차그룹의 <span class=\"text-cyan-300 font-semibold\">보스턴 다이내믹스</span> 100% 지분 확보와 삼성전자의 지분 투자 검토설 등 글로벌 테크 동맹이 구축되고 있습니다. 또한 <span class=\"text-violet-300 font-medium\">중국 로봇 생태계</span>가 G1 및 U1 등 압도적 저가격을 무기로 대량 양산 체제를 갖추며 상용화 타임라인을 대폭 앞당기고 있습니다. 한편, 제조업 분야에서는 LG전자가 테네시 스마트 팩토리의 자동화율을 60%까지 끌어올리며 공정 자동화 솔루션 자체를 B2B 상품으로 판매하는 등 <span class=\"text-amber-300 font-bold\">체질 개선</span>에 성공하는 양상이 나타나고 있습니다.",
+  "divergence": "서구권 기업들은 물류 및 현장 작업의 생산성 극대화와 실용성을 중시하며 행동 알고리즘 양산에 집중하는 반면, 중국 기업들은 실리콘 피부와 표정 제어를 통해 인간과의 감정적 교감을 극대화하는 극사실적 인간 모사에 주력하는 등 개발 철학의 차이를 보입니다. 또한 현대차그룹이 선행 연구 중심의 RAI 연구소를 정리하고 보스턴 다이내믹스 아틀라스의 양산 및 공장 실전 배치에 집중하는 실용주의적 노선 전환이 관찰됩니다.",
   "key_themes": [
-    "Corporate restructuring and strategic IP consolidation (e.g., Boston Dynamics 100% buyout)",
-    "Expansion of Physical AI and robot training centers (LG's Robot Data Factory)",
-    "Disruption by ultra-low-cost Chinese humanoid platforms (Unitree, Newvitry)"
+    "피지컬 AI 기반 범용 휴머노이드 로봇의 가격 파괴와 대량 양산 체제 진입",
+    "글로벌 빅테크 간의 로봇/AI 반도체 동맹 및 지배구조(IPO/인수합병) 강화",
+    "전통 제조업의 스마트 팩토리 자동화 솔루션 B2B 상품화 전환"
   ],
   "watch_list": [
-    "Hyundai Motor Group (Boston Dynamics IPO value chain)",
-    "LG Electronics (smart factory solutions & actuator business)",
-    "KOID ETF (Physical AI and humanoid value chain)"
+    "보스턴 다이내믹스의 아틀라스 로봇 양산 및 나스닥 IPO 추진 일정",
+    "LG전자의 스마트 팩토리 B2B 솔루션 매출 추이 및 LG CNS-제네시스 AI 협력",
+    "유니트리 G1 및 뉴비트리 U1의 글로벌 시장 침투율과 구동 부품 공급망"
   ]
 }

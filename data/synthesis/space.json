@@ -1,15 +1,15 @@
 {
   "consensus": "bullish",
-  "cross_insight": "SpaceX has successfully redefined itself from a rocket company into a premier AI infrastructure provider, generating $26 billion in annual lease revenue by hosting GPU clusters like <span class=\"text-cyan-300 font-semibold\">Colossus</span> for Google and Anthropic. To bypass ground-level grid and regulatory limitations, the firm is pioneering <span class=\"text-cyan-300 font-semibold\">space-based AI data centers</span> powered by orbital solar energy. This creates a lucrative new market for semiconductor manufacturers, as the extreme radiation environment requires specialized packaging that commands a <span class=\"text-amber-300 font-bold\">5x price premium</span> over consumer silicon. However, this aggressive expansion has pushed SpaceX's PSR to 70x, inviting skepticism from prominent short-sellers who warn of a valuation bubble ahead of the lock-up expiration.",
-  "divergence": "A major debate exists between visionaries who buy into Musk's vertically integrated 'civilization engine' (linking Starlink, xAI, and Tesla Optimus) and value-oriented critics (like Michael Burry) who argue that orbital data centers and the 'Terafab' chip factory are economically unfeasible fantasies requiring trillions in capital that will dilute current shareholders.",
+  "cross_insight": "최근 우주 산업은 단순한 위성/발사체 영역을 넘어, 지상의 송전망 건설 지연과 규제 한계를 극복하기 위한 <span class=\"text-cyan-300 font-semibold\">우주 AI 데이터 센터</span> 및 클라우드 인프라 제공업으로 체질을 개선하고 있습니다. 특히 나스닥 상장 흥행으로 기업가치 2조 달러를 돌파한 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>는 구글과 앤트로픽에 콜로서스(Colossus) GPU 클러스터를 대여하여 연간 260억 달러의 신규 매출을 내는 독보적 캐시카우를 구축했습니다. 기술적으로는 팰컨 9의 재사용 발사체 비용 파괴(원가 35% 수준으로 절감)와 경쟁사인 블루 오리진의 뉴글렌 발사장 폭발 지연으로 NASA <span class=\"text-cyan-300 font-semibold\">아르테미스 프로젝트</span> 내 스타십의 독점적 수송 의존도가 더욱 고조되었습니다. 아울러 우주 혹독한 방사능 환경을 견디기 위한 특수 반도체 패키징 시장이 열리며, 국내 메모리 반도체 기업들에 일반 실리콘 대비 5배 비싼 초고부가 가치 신성장 동력을 제공하고 있습니다.",
+  "divergence": "일론 머스크의 1인 지배 구조(초의결권 클래스 B 주식으로 의결권 80% 이상 독점)와 수직계열화(스타링크-xAI-테슬라 옵티머스)에 대해 미래 문명 인프라의 독점이라는 낙관론이 지배적인 반면, 마이클 버리를 필두로 한 가치 투자 진영은 스페이스X의 높은 부채 비율과 막대한 설비투자(CapEx) 부담을 들어 부채 기반으로 연명하는 '코어위브의 아류'일 뿐이며 8월 락업 해제 시점에 수급 붕괴가 올 것이라는 거품 붕괴론을 제기하고 있습니다. 또한 초단기 옵션 투기 과열에 따른 <span class=\"text-rose-400 font-medium\">단기 변동성 리스크</span>와 스페이스X-테슬라 간의 합병 시나리오에 대해서도 의견이 분분합니다.",
   "key_themes": [
-    "Commercialization of space-based AI data centers and radiation-hardened chips",
-    "SpaceX's dual-revenue engine: Starlink telecom and Colossus GPU leasing",
-    "Extreme valuation debate (PSR 70x) and passive index inclusion flows"
+    "지상 전력망 한계를 돌파하기 위한 우주 데이터 센터 및 고부가 차폐 반도체 공급망 개화",
+    "재사용 로켓을 통한 발사 원가 절감(소모성 대비 35% 수준) 및 민간 우주 수송 독점화",
+    "상장 패시브 수급 랠리와 8월 락업 해제 및 고평가 논란(PSR 90배 이상)의 대립"
   ],
   "watch_list": [
-    "SpaceX (August lock-up expiration and July Nasdaq 100 inclusion)",
-    "SK Hynix & Samsung Electronics (Radiation-tolerant HBM/memory packaging)",
-    "ACE US Space Tech Active ETF / KODEX Space Tech ETF"
+    "스페이스X의 8월 말 보호예수(락업) 해제 물량 출회 규모 및 주가 변동성",
+    "국내 메모리 업계(삼성전자, SK하이닉스)의 우주 방사능 차폐 패키징 개발 일정",
+    "블루 오리진의 뉴글렌 발사장 복구 속도 및 아르테미스 달 착륙선 대체 설계 추이"
   ]
 }

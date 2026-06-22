@@ -1,15 +1,15 @@
 {
   "consensus": "neutral",
-  "cross_insight": "The global economy is facing structural headwinds due to a shift towards high-cost <span class=\"text-violet-300 font-medium\">supply chains</span>, particularly in the energy sector where reliance on US-sourced fuels is replacing cheaper alternatives. Central banks are maintaining a hawkish posture, with the Fed prioritizing <span class=\"text-rose-400 font-medium\">inflation control</span> over growth projections, employing 'cost-effective tightening' via verbal guidance to keep financial markets restricted without immediate rate hikes. Meanwhile, rising asset inflation is exacerbating inequality, and potential political interventions into the Federal Reserve's independence under upcoming leadership changes pose a threat to long-term macroeconomic stability.",
-  "divergence": "While some analysts warn that the US-led unilateral tariffs and protectionism will cause a decay in dollar hegemony and require immediate global diversification, others emphasize the enduring strength of the US labor market and the resilience of its corporate earnings relative to peer nations (e.g., EU, Japan).",
+  "cross_insight": "미국과 이란의 60일 임시 휴전 합의 이후 21일 스위스 대면 실무 협상이 파행을 겪으며 지정학적 리스크가 재발하였습니다. 특히 이란은 페르시아만 해협 관리청(PGSA)을 통해 통행 선박에 대해 의무 전쟁 보험 가입을 요구하며 <span class=\"text-violet-300 font-medium\">호르무즈 해협 통행 수수료 자릿세 징수</span> 음모를 공식화했고, 트럼프 대통령은 해협 봉쇄 시 국가 소멸 수준의 폭격을 경고하며 60일 유예 이후 <span class=\"text-rose-400 font-medium\">유가 재급등 위험</span>을 촉발하고 있습니다. 미국의 전략비축유(SPR) 재고가 최저 수준에 도달해 공급망 완충력이 결여된 가운데, 글로벌 자금은 거시 긴축 우려에도 불구하고 인플레 헤지 성격을 지닌 K-방산 및 기술 인프라로 유입되고 있습니다.",
+  "divergence": "지정학적 타결로 단기 유가와 물가가 안정화될 것이라는 낙관론이 존재하나, 60일 실무 협상의 난항과 이스라엘의 레바논 주권 무시 기조로 언제든 합의가 파기되어 스태그플레이션형 원자재 상승이 재발할 수 있다는 경계론이 팽팽합니다.",
   "key_themes": [
-    "Higher-for-longer interest rate regime and verbal monetary tightening",
-    "De-globalization and structural energy inflation from supply chain re-routing",
-    "Geo-economic containment strategies (e.g., Japan's naval defense diplomacy)"
+    "미·이란 60일 휴전 합의 파행 및 레바논 철군 국경 조항의 이행 불가능성",
+    "이란 PGSA 전쟁보험 의무화에 따른 해협 통제권 획득 시도",
+    "전략비축유 고갈 국면에서의 유가 상방 압력 및 인플레 헤지 자금 쏠림"
   ],
   "watch_list": [
-    "US Core PCE and Federal Reserve monetary policy announcements",
-    "Big Oil (ExxonMobil, Chevron) as inflation hedges",
-    "Singapore-style real estate tax policies in other jurisdictions"
+    "스위스 사자 회담 복구 여부 및 6월 말 글로벌 원유 비축 한계 시점",
+    "미국 5월 PCE 물가 지표의 월가 예상치 상회 및 연준 기준금리 노이즈",
+    "한국 조선 3사의 친환경 선가 상승에 따른 어닝 서프라이즈 장기 지속 여부"
   ]
 }

@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "zTtyaXMDEHI",
+    "title": "급락 후 또 급등...이렇게 걷잡을 수 없을 때 봐야할 것 | 이지은 이지스탁 대표 [더블 체크]",
+    "published": "2026-06-22T02:09:25+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=zTtyaXMDEHI",
+    "thumbnail": "https://img.youtube.com/vi/zTtyaXMDEHI/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "국민연금의 55조 원 규모 국내 주식 리밸런싱 계획 발표가 코스피 지수에 <span class=\"text-rose-400 font-medium\">단기 수급 오버행</span> 심리를 자극했으나, 3분기 소부장 투자 재개와 개별 첨단 기판 호재로 지수 하방이 지지됨.\nJNTC가 유리기판 기술의 최대 난제로 꼽히는 2mm 두께 구현(TGV)에 성공했고, LG그룹 사장단 30여 명이 엔비디아 본사를 전격 방문해 <span class=\"text-cyan-300 font-semibold\">피지컬 AI 로보틱스</span> 동맹을 구체화함.\n골드만삭스는 하이퍼스케일러 중 설비투자 속도를 선제 조율하는 기업이 효율성 개선으로 주가 알파를 누릴 것이라는 <span class=\"text-rose-400 font-medium\">자본 지출 속도 경고</span>를 제기함.",
+    "key_claims": [
+      "국민연금 매도 물량은 수십조 원에 달하나 시장 지배력을 고려해 분산 출회되므로, 단기 수급 자극 후 <span class=\"text-cyan-300 font-semibold\">지주사 수급 대체재</span>(SK스퀘어, 삼성물산) 상승의 계기가 됨.",
+      "7월 1일 코스닥 30주년 활성화 대책과 동전주 상장폐지 규정 시행이 임박해 한계기업 퇴출 및 <span class=\"text-cyan-300 font-semibold\">코스닥 150 소부장 우량주</span>로의 수급 쏠림이 가속화될 것임.",
+      "지정학적 리스크의 영구적 해소 불가능 분위기에 따라 LIG넥스원 및 한화에어로스페이스 등 <span class=\"text-cyan-300 font-semibold\">K-방산 밸류체인</span>의 시공 계약 전환 랠리가 지속됨."
+    ],
+    "data_points": [
+      "국민연금 국내 주식 리밸런싱 예상 출회 규모: 최대 55조 원 수준 추정",
+      "SK스퀘어 NH투자증권 제시 목표주가: 270만 원 (기존 110만 원 대비 대폭 상향)",
+      "LG그룹 사장단 엔비디아 방문단 규모: 약 30여 명"
+    ],
+    "signal": "neutral",
+    "signal_reason": "연기금 오버행 공포와 빅테크 CapEx 속도 조절 경고가 단기 변동성을 자극하나, 유리기판 상용화 성공 및 방산 쏠림 수급, 7월 코스닥 30주년 대책 기대감이 지수 하단을 강하게 지탱합니다.",
+    "key_companies": [
+      "SK스퀘어",
+      "JNTC",
+      "LG전자",
+      "삼성물산"
+    ],
+    "insight": "기관 펀드들의 단일 종목 보유 한도 규정으로 인해 SK하이닉스를 더 사지 못하는 수급의 병목이 지주사인 <span class=\"text-cyan-300 font-semibold\">SK스퀘어의 270만 원 밸류 상향</span>과 삼성물산의 SMR/지분 밸류 부각으로 대체 분출되고 있습니다.",
+    "action_point": "하이닉스 본주의 매수 대안으로 밸류체인 지주사인 <span class=\"text-cyan-300 font-semibold\">SK스퀘어와 삼성물산</span> 비중을 확대하고, 유리기판 대장주 JNTC 및 K-방산 선두 종목으로 포트폴리오를 리밸런싱해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy",
+      "tech"
+    ],
+    "tags": [
+      "국민연금오버행",
+      "유리기판JNTC",
+      "LGCNS엔비디아",
+      "SK스퀘어목표가",
+      "방산주상승"
+    ]
+  }
+}

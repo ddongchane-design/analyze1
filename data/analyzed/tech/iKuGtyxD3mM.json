@@ -1,0 +1,53 @@
+{
+  "video": {
+    "id": "iKuGtyxD3mM",
+    "title": "세기의 대결, 궤소리 vs 딸깍",
+    "published": "2026-06-21T06:00:39+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=iKuGtyxD3mM",
+    "thumbnail": "https://img.youtube.com/vi/iKuGtyxD3mM/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "과학 유튜브 채널 <span class=\"text-cyan-300 font-semibold\">안될과학</span>에서 걸그룹 <span class=\"text-cyan-300 font-semibold\">NMIXX(엔믹스)</span>와 함께 신곡 'Heavy Serenade'의 뮤직비디오 콘셉트를 과학적 이론으로 유쾌하게 풀어냈습니다. 나사의 유인 조종 장치(<span class=\"text-cyan-300 font-semibold\">MMU</span>), 단식 로켓 및 시간 지연 이론, 아카펠라 화음의 파동 역학적 중첩, 스트레스 호르몬인 코르티솔의 작용 등이 흥미롭게 다루어졌습니다. 엔믹스의 뛰어난 라이브 역량과 독특한 자성(Magnetite) 기반 세계관이 과학 대중화의 소재로 활용된 사례입니다.",
+    "key_claims": [
+      "나사의 MMU는 질소 가스로 작동하는 반면, 엔믹스의 MMU는 자유 의지와 감정(사랑, 분노 등)을 원료로 삼는 고유의 SF적 설정을 가지고 있습니다.",
+      "눈물은 스트레스 호르몬인 <span class=\"text-cyan-300 font-semibold\">코르티솔</span>을 배출하므로, 억지로 참지 않고 우는 행위는 생리학적인 해소 과정입니다.",
+      "엔믹스의 강점인 아카펠라 화음은 서로 다른 목소리의 파형에서 빈 진폭을 정밀하게 채워 전체 음량을 증폭시키는 <span class=\"text-amber-300 font-bold\">파동 역학적 시너지</span>의 결정체입니다."
+    ],
+    "data_points": [
+      "3년 전 (해원 출연 이후 경과 시간)",
+      "24개 (나사 MMU의 소형 질소 가스 추진기 개수)",
+      "23년 (인터스텔라 밀러 행성 탐사 후 모선 기준 흐른 시간)",
+      "5년 차 (엔믹스 데뷔 연차)",
+      "3년 8개월 (데뷔 후 음원 1위까지 걸린 기간)",
+      "2388시간 (이전 골든 1위 곡의 연속 1위 기록 시간)",
+      "3년째 (릴리의 북앤무비 클럽 운영 기간)"
+    ],
+    "signal": "na",
+    "signal_confidence": "low",
+    "signal_reason": "대중문화 및 <span class=\"text-cyan-300 font-semibold\">과학 예능 콘텐츠</span>로서 직접적인 주식 시장 관련 매크로 지표나 기업 실적 가이던스를 포함하고 있지 않습니다.",
+    "key_companies": [
+      "JYP Entertainment(035900)",
+      "NASA"
+    ],
+    "insight": "엔터테인먼트 IP(K-pop)에 과학적 메타포를 적용하여 대중의 지적 호기심을 유도하는 콘텐츠 협업이 빛을 발했습니다. 독창적인 아티스트의 음악성과 팬덤 커뮤니티 활동을 지속 가능하게 만드는 기반이 세계관과 기획력에 있음을 보여줍니다.",
+    "action_point": "엔터테인먼트 기업 투자 시 단순 음반 판매량을 넘어, 소속 아티스트의 탄탄한 라이브 역량과 글로벌 <span class=\"text-cyan-300 font-semibold\">IP 확장성</span>, 그리고 독창적인 팬덤 락인(Lock-in) 장치를 다각도로 검토해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "space",
+      "etc"
+    ],
+    "tags": [
+      "안될과학",
+      "궤도",
+      "엔믹스",
+      "MMU",
+      "자철석",
+      "아카펠라",
+      "파동역학",
+      "헤비세레나데"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "video": {
+    "id": "EEKl2MU7kes",
+    "title": "[지식뉴스] \"그런데 지금 너무 늦어요\"…애타는 트럼프, 막대한 돈 빨아들인 'AI 생산성'에 숨겨진 함정 (ft.오건영 신한 프리미어 패스파인더 단장) / 교양이를 부탁해",
+    "published": "2026-06-21T01:00:36+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=EEKl2MU7kes",
+    "thumbnail": "https://img.youtube.com/vi/EEKl2MU7kes/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "트럼프 행정부의 저금리/고성장 요구와 연준의 인플레이션 우려 간 대립이 심화되는 가운데, 미국 부채 탈출구로서 <span class=\"text-cyan-300 font-semibold\">AI 생산성 혁명</span>이 주목받고 있습니다. 그린스펀 시기의 IT 생산성 혁명처럼 경제는 고성장하되 물가는 낮추는 효과를 노리고 있으나, 연준 내부에서는 단기 비용 상승과 거품 붕괴 리스크 등 숨겨진 함정을 경고하고 있습니다. 부채를 축소하는 대신 <span class=\"text-amber-300 font-bold\">성장을 통한 부채 비율 감소</span>를 추진할 수밖에 없는 미국의 지정학적 한계가 깔려 있습니다.",
+    "key_claims": [
+      "미국 부채는 긴축(일본식 30년 장기침체 리스크)보다 <span class=\"text-amber-300 font-bold\">성장률을 부채 증가 속도 이상으로 끌어올리는 방식</span>으로만 해결 가능합니다.",
+      "단기적으로 AI 인프라 구축을 위한 막대한 <span class=\"text-rose-400 font-medium\">설비투자(CapEx)</span>는 반도체 가격(Chip-flation)과 원자재 가격을 밀어 올려 금리 인하를 지연시킵니다.",
+      "그린스펀 시절과 달리 시장 참여자 모두가 생산성 혁명을 선반영하고 있어, 과도한 자산 가격 상승으로 인한 <span class=\"text-rose-400 font-medium\">거품 형성 및 금리 인상을 통한 붕괴 위험</span>(Goolsbee 경고)이 높습니다."
+    ],
+    "data_points": [
+      "40조 달러 (올해 도달할 것으로 보이는 미국 부채 규모)",
+      "2.5에서 6.0 (과거 일본 중앙은행이 1년 만에 올린 금리 범위)",
+      "5년 3개월 (연준의 물가 목표를 넘어선 인플레이션 지속 기간)",
+      "95년도, 96년도 (그린스펀이 생산성 개선을 감지하고 금리를 동결한 시점)",
+      "99년도 하반기 (그린스펀이 자산 버블 대응을 위해 금리를 인상한 시점)"
+    ],
+    "signal": "neutral",
+    "signal_confidence": "high",
+    "signal_reason": "장기적인 생산성 혁명 기대감은 높으나, 단기적인 설비 투자발 <span class=\"text-rose-400 font-medium\">인플레이션 압력</span>과 이미 선반영된 자산 시장의 <span class=\"text-rose-400 font-medium\">버블 붕괴 위험</span>이 공존합니다.",
+    "key_companies": [
+      "Federal Reserve"
+    ],
+    "insight": "미국의 $40T에 달하는 부채 구조 하에서 긴축은 불가능하며, 오직 생산성을 동반한 초고성장만이 유일한 해결책입니다. 그러나 이미 모두가 알고 있는 AI 생산성 내러티브는 그린스펀의 정보 비대칭 시기와 달리 금융 시장의 극단적 <span class=\"text-rose-400 font-medium\">버블과 변동성(Bumpy road)</span>을 초래할 수 있습니다.",
+    "action_point": "연준의 금리 인하 단행이 예상보다 지연되거나 제한적일 수 있음을 인지하고, 과열된 자산군의 비중을 관리하는 동시에 <span class=\"text-cyan-300 font-semibold\">실질적 현금흐름과 생산성</span>을 입증하는 기업으로 포트폴리오를 압축해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "tech",
+      "stock"
+    ],
+    "tags": [
+      "오건영",
+      "트럼프",
+      "미국부채",
+      "인플레이션",
+      "그린스폰",
+      "AI생산성",
+      "부채디플레이션"
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "video": {
+    "id": "TA1U6vnjBUE",
+    "title": "한국의 핵잠수함! 설계부터 제작까지 6년?! K-방산 역사상 가장 촉박하고 도전적인 타임라인!",
+    "published": "2026-06-21T11:00:29+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=TA1U6vnjBUE",
+    "thumbnail": "https://img.youtube.com/vi/TA1U6vnjBUE/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "정부가 장보고 N 기본 계획을 발표하며 2030년대 중반 1번함 진수와 2030년대 말 <span class=\"text-violet-300 font-medium\">핵추진 잠수함</span> 전력화를 추진하나, 약 6~7년이라는 설계 및 제작 기간은 매우 촉박한 타임라인입니다.\n잠수함용 원자로는 잦은 출력 변화 대응, 150~200기압의 가압수 컨트롤, 운용 중 점검 불가능한 <span class=\"text-rose-400 font-medium\">연료 관리 한계</span> 등 극도의 공학적 난제를 안고 있습니다.\n핵보유국이 아닌 한국은 고농축 우라늄 대신 20% 농축 우라늄을 해외 도입해 10년의 장주기 운전을 달성해야 하며, 이를 위해 <span class=\"text-violet-300 font-medium\">한미 협력과 제도적 합의</span>가 필수적입니다.",
+    "key_claims": [
+      "2030년대 초까지 실질적 건조를 완료해야 하는 장보고 N 타임라인은 다소 무리하며 <span class=\"text-rose-400 font-medium\">일정 지연의 리스크</span>가 존재한다.",
+      "핵잠수함 원자로는 육상 원전과 달리 급격한 출력 제어가 필요하고 점검 시 선체를 절단해야 해 초기 설계의 <span class=\"text-rose-400 font-medium\">완벽성</span>이 요구된다.",
+      "지정학적 우려와 무기화 의심을 해소하기 위해 저농축(20% 이하) 우라늄의 해외 농축분 도입이 현실적인 대안이다.",
+      "군사적 운용 효율을 위해 최소 3척에서 최대 6척의 <span class=\"text-rose-400 font-medium\">잠수함대 구성 예산</span> 확보가 관건이다."
+    ],
+    "data_points": [
+      "10월",
+      "2026년 5월",
+      "2030년도 중반",
+      "1번함",
+      "2030년 말",
+      "10수년",
+      "2030년대 초",
+      "6, 7년",
+      "150기압",
+      "200기압",
+      "90%",
+      "30년",
+      "40년",
+      "20%",
+      "10년",
+      "다섯 척",
+      "0.7%",
+      "세 척",
+      "한 척",
+      "여섯 척"
+    ],
+    "signal": "bullish",
+    "signal_confidence": "medium",
+    "signal_reason": "정부 주도의 대규모 국산 핵잠수함 건조 계획은 <span class=\"text-cyan-300 font-semibold\">특수선 제조 대기업</span> 및 소형모듈원자로(SMR) 설계 역량을 보유한 국내 원자력 엔지니어링 기업들에게 장기 수주 모멘텀이 될 것입니다.",
+    "key_companies": [
+      "한화오션(042660)",
+      "HD현대중공업(329180)",
+      "두산에너빌리티(034020)"
+    ],
+    "insight": "핵추진 잠수함 사업은 단순한 전력 증강을 넘어, 한국의 <span class=\"text-cyan-300 font-semibold\">SMR 원자로 기술</span>과 첨단 방산 공학 기술을 한 단계 업그레이드하는 국가적 기술 도약대의 역할을 할 것입니다.",
+    "action_point": "장기적인 관점에서 특수선 건조 및 잠수함 원천 설계 역량을 보유한 <span class=\"text-cyan-300 font-semibold\">조선 및 방산주</span>, 그리고 원자로 계통 설계·제작 능력을 지닌 원자력 핵심 기자재 주식에 대한 중장기 분할 매수 기회로 활용할 수 있습니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "핵잠수함",
+      "장보고N",
+      "K방산",
+      "원자로",
+      "SMR",
+      "조선업",
+      "한미원자력협정"
+    ]
+  }
+}

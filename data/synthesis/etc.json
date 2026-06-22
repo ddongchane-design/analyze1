@@ -1,15 +1,15 @@
 {
-  "consensus": "na",
-  "cross_insight": "This segment covers diverse cultural, geopolitical, and structural domestic developments. A key economic highlight is the structural shortage in the Seoul real estate market, where redevelopment constraints and an 80% drop in villa construction have triggered a rapid shift toward rental inflation. In the geopolitical defense sector, the 60-trillion Won Canadian Patrol Submarine Project (<span class=\"text-cyan-300 font-semibold\">CPSP</span>) represents a major long-term opportunity for Korean shipbuilders (Hanwha Ocean, HD Hyundai Heavy), driven by US pressure on Canada to bolster Arctic defense. Other topics focus on sports safety regulations (the <span class=\"text-rose-400 font-medium\">Clear Bag Policy</span> at the 2026 World Cup) and public science engagement.",
-  "divergence": "While Canadian defense procurement represents a massive multi-decade revenue pipeline, the final selection remains highly dependent on bilateral defense diplomacy and securing US Navy compatibility approval, making the outcome speculative compared to commercial ship orders.",
+  "consensus": "neutral",
+  "cross_insight": "기타 시사 분야에서는 서울 수도권의 부동산 전월세 공급난, 미국 경기장 및 월드컵의 보안 강화 규정, 그리고 금융권의 감성 마케팅 쇼츠 등이 주요 이슈로 다뤄졌습니다. 서울 아파트 시장은 신규 택지 부족 및 빌라 전세사기 후폭풍으로 공급이 과거 대비 5분의 1로 급감하며 <span class=\"text-rose-400 font-medium\">임차 주택 쇼티지</span>와 빠른 월세화가 전개되고 있으며, 직주근접성이 뛰어난 <span class=\"text-cyan-300 font-semibold\">강남 권역</span>의 가치는 더욱 공고해지고 있습니다. 사회 안전 부문에서는 2026 월드컵에 도입된 <span class=\"text-rose-400 font-medium\">투명 가방 정책(Clear Bag Policy)</span>에서 볼 수 있듯이, 총기/테러 예방을 위한 방재 및 검색 검색대기 검색대기 시간 단축 등 효율화 비용이 소비자 부담으로 전가되는 추세입니다. 자연과학 분야에서는 필리핀 7.8 강진 분석을 통해 아무리 고도화된 <span class=\"text-cyan-300 font-semibold\">AI 지진 예측 모델</span>을 도입하더라도 지진의 정확한 예측은 현재 불가하며, 실질적인 방재 인프라와 내진 설계 강화가 시급함이 지목되었습니다.",
+  "divergence": "정부의 전세 대출 억제 정책이 부동산 가격 안정화 효과를 낼 것이라는 기대와 달리, 실질적으로는 임차인들을 고비용 월세 시장으로 내몰아 주거 불안정성을 가중시키는 부작용을 유발한다는 비판이 제기되고 있습니다. 또한 금융사들의 브랜드 예능/웹드라마(미래에셋 등) 콘텐츠 마케팅은 젊은 층과의 정서적 연대감을 높이는 마케팅 성과를 거두고 있으나, 주가나 재무에 미치는 직접적인 정량 데이터가 없어 투자 판단에서는 완전히 배제해야 한다는 시각이 확고합니다.",
   "key_themes": [
-    "Geopolitical defense expansion in the Arctic (CPSP submarine tender)",
-    "Housing supply polarization and accelerating rental inflation in Seoul",
-    "Security-driven cost inflation in major global sporting events"
+    "다세대 빌라 공급 위축으로 인한 서울 아파트 전월세 가격 폭등 및 주거 양극화 심화",
+    "미국의 만성적 총기/테러 리스크에 따른 사회적 안전 비용의 소비자 전가(Clear Bag 규정)",
+    "인공지능(AI) 지진 예측의 한계와 실질적 방재/내진 설계 인프라 의무화의 중요성"
   ],
   "watch_list": [
-    "Hanwha Ocean & HD Hyundai Heavy Industries (Canada CPSP bidder shortlist)",
-    "Seoul housing monthly rent index",
-    "Clear Bag manufacturer stocks / Event logistics services"
+    "서울 강남 권역 및 인접 배후 수도권 핵심 아파트의 전세 및 월세 지수 변동",
+    "정부의 가상자산 과세 가이드라인 및 부동산 규제 완화 관련 대책 발표 추이",
+    "글로벌 대형 스포츠/공연 이벤트의 보안 검색 효율화 장비 공급사 매출 변화"
   ]
 }

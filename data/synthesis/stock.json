@@ -1,15 +1,15 @@
 {
   "consensus": "bullish",
-  "cross_insight": "The equity markets are experiencing extreme polarization, where capital is concentrated heavily in a narrow group of AI hardware leaders, pushing indices like the KOSPI (which touched historical highs driven by SK Hynix and Samsung Electronics) and Nasdaq upward. Despite short-term volatility from macroeconomic events like PCE inflation data and pension fund rebalancing, the core driver remains the persistent <span class=\"text-cyan-300 font-semibold\">DRAM shortage</span> and HBM ASP hikes, which are boosting semiconductor earnings to record levels. However, this narrow market breadth exposes investors to <span class=\"text-rose-400 font-medium\">customer concentration risk</span>, as demonstrated by the sudden crash of specialized infrastructure providers upon the loss of key accounts.",
-  "divergence": "While some analysts argue that the Korean market is plagued by structural deficiencies (14-year underperformance, corporate governance issues) prompting capital flight to US ETFs like QQQM, others argue that KOSPI's recent tech-led run represents a fundamental valuation rerating (PER 6-7x) that will eventually rotate into domestic infrastructure, defense, and power grid stocks.",
+  "cross_insight": "글로벌 테크 기업들의 천문학적인 CapEx 투자 지속과 메모리 반도체의 LTA 기반 성장 산업화 흐름이 코스피 9,000선 돌파 등 국내 증시 주도주 랠리를 강력하게 지지하고 있습니다. 반기 말 리밸런싱 수급 및 국민연금의 오버행(약 55조 원 규모) 공포로 코스닥이 급락하고 양극화가 극대화되는 변동성 장세가 연출되었으나, 이는 다주택자 매물 매각 잔금 등 <span class=\"text-cyan-300 font-semibold\">부동산 환류 자금(머니 무브)</span>의 주식 예탁금 및 ETF 유입세로 인해 시장 하방이 지탱되고 있습니다. 또한 하이닉스의 시총 1위 쟁탈전에 의한 매기 효과와 함께, 이격도 조정 후 수급 대체제인 지주사(<span class=\"text-cyan-300 font-semibold\">SK스퀘어</span> 등)와 차세대 기판 기술 수혜주로의 자금 낙수가 확인됩니다.",
+  "divergence": "지수의 급격한 과열과 연기금의 기계적 오버행 매도 우려로 코스닥 중소형주 기기 현상과 K자형 양극화 소외감이 심화되는 우려가 제기되는 한편, 반도체 및 지배 구조 관련 대형주로의 압축 투자만이 유일한 초과 수익의 대안이라는 쏠림 지지론이 대립하고 있습니다.",
   "key_themes": [
-    "Extreme polarization and tech-led index rerating (KOSPI & Nasdaq)",
-    "Structural growth in memory value chain (DRAM/HBM ASP hikes)",
-    "De-risking via diversification and seeking safety margins in large caps"
+    "빅테크 CapEx 연계 반도체 투톱의 12개년 선행 P/E 5~6배 저평가 매력",
+    "국민연금 오버행 우려를 상쇄하는 다주택자 부동산 매각 자금의 주식 시장 머니무브",
+    "코스피 1위 쟁탈전 수급 병목에 따른 지주사(SK스퀘어 등) 대체 수혜"
   ],
   "watch_list": [
-    "SK Hynix (US ADR listing and HBM production yield)",
-    "Samsung Electronics (HBM4 foundry integration and valuation recovery)",
-    "QQQM/QQQ (US Nasdaq passive inflows)"
+    "SK하이닉스 미국 ADR 상장 일정 및 주주환원 가시성",
+    "마이크론 실적 발표 가이던스 상회율 및 반도체 소부장 3분기 낙수 효과",
+    "7월 1일 상장폐지 개정안 시행 전후 동전주(219개) 퇴출 및 코스닥 150 소부장 수급 이동"
   ]
 }

@@ -1,15 +1,15 @@
 {
   "consensus": "bullish",
-  "cross_insight": "The AI revolution is rapidly moving from model training to large-scale inference, causing a massive shortage of high-capacity <span class=\"text-cyan-300 font-semibold\">HBM</span> and shifting the hardware bottleneck from raw compute to power grids, advanced packaging, and network bandwidth. Tech companies are actively building out infrastructure, with Cisco expanding into cloud control via the Splunk acquisition and LG Innotek achieving a 93% yield on <span class=\"text-cyan-300 font-semibold\">FC-BGA</span> substrate lines while planning next-gen glass substrates. To address the severe <span class=\"text-rose-400 font-medium\">electricity bottleneck</span>, tech giants are increasingly focusing on power-efficient designs, such as on-chip S-RAM, optical communications (CPO), and securing long-term nuclear energy sources.",
-  "divergence": "A key debate centers on whether the current AI buildout is approaching a short-term bubble burst due to white-collar job displacement and rising electricity costs, or if the massive capital allocation by cloud hyperscalers will continue uninterrupted, supported by a transition from 'token maxing' (brute-force computing) to 'outcome maxing' (efficient, specialized agents).",
+  "cross_insight": "AI 인프라 병목 현상은 단일 부품 쇼티지를 넘어 후공정 기판, 패키징, CPU 및 아날로그 전력 반도체에 이르기까지 <span class=\"text-cyan-300 font-semibold\">공급망 전반의 복합 다단형 병목</span>으로 확산되며 반도체 장기 랠리를 보장하고 있습니다. 에이전틱 AI 고도화에 대응한 연산 지연 최소화 목적으로 데이터 캐싱이 D램 및 HBM에서 초고용량 eSSD(낸드 플래시)까지 확대되고 있으며, 기지국 당 CPU 필요량이 4배 급증하는 등 <span class=\"text-cyan-300 font-semibold\">CPU 및 하이엔드 패키징 기판</span>의 쇼티지가 연쇄 발생하고 있습니다. 엔비디아는 AI 캐즘 리스크 완화를 위해 소버린 AI 및 AI 팩토리 기업들에 대규모 지분 투자를 단행해 케팩스 수요 기반을 직접 통제하고 있습니다.",
+  "divergence": "글로벌 장비 및 핵심 부품 부족으로 반도체 증설이 2028년까지 불가능해 고점 도달 시점이 지연될 것이라는 낙관론이 지배적인 가운데, 하이퍼스케일러들의 과도한 조달 금리와 자본 지출 과열로 인한 일시적 속도 조절(AI 캐즘) 우려도 잔존합니다.",
   "key_themes": [
-    "AI inference bottleneck shifting to power grids, FC-BGA, and MLCCs",
-    "Transition to outcome-focused, cost-efficient AI routing and 'Vibe Coding'",
-    "Advanced packaging innovation (glass substrates, CPO, and OSAT partnerships)"
+    "생산 장비(도쿄일렉트론 등) 및 기판(이비덴) 바틀렉으로 인한 반도체 팹 증설 지체",
+    "에이전틱 AI의 필수 조건인 지연 시간 단축을 위한 CPU 및 eSSD 낸드 수요 폭증",
+    "엔비디아의 생태계 지분 투자를 통한 AI 캐즘 완화 및 수요 방어 메커니즘"
   ],
   "watch_list": [
-    "Samsung Electro-Mechanics & LG Innotek (advanced substrates and MLCC)",
-    "Marvell Technology (optical connection / CPO solutions)",
-    "Google (TPU ecosystem and Google Flow adoption)"
+    "TSMC CoWoS 패키징 생산 능력 확대 및 유리기판(TGV) 2mm 구현 기업(JNTC 등) 상용화 일정",
+    "엔비디아 루빈 및 구글 TPU 버전 8 등 차세대 가속기 양산 및 출하 속도",
+    "이비덴, 삼성전기 등 하이엔드 FC-BGA 기판의 월별 공급 단가 추이"
   ]
 }
