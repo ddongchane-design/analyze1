@@ -1,0 +1,36 @@
+{
+  "video": {
+    "id": "LSjcb8fhsLU",
+    "title": "수십억 아파트 짓는데 건설 산업은 왜 위기일까 #교양이를부탁해",
+    "published": "2026-06-22T11:15:36+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=LSjcb8fhsLU",
+    "thumbnail": "https://img.youtube.com/vi/LSjcb8fhsLU/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "서울의 높은 아파트 가격과 대조적으로, 대한민국 건설 산업은 <span class=\"text-rose-400 font-medium\">디지털화 지연</span>과 인력 중심 시공 방식으로 인해 농업보다 낮은 생산성 위기에 직면해 있음. 최근 이를 타개하기 위해 정보통신 기술과 AI를 접목한 <span class=\"text-cyan-300 font-semibold\">스마트 건설</span> 기법 도입이 본격화되고 있으나, 산업 전반의 질적 혁신은 여전히 초기 단계임.",
+    "key_claims": [
+      "부동산 자산 가치는 폭등했으나 시공을 담당하는 건설업 생산성은 디지털 기술 혁신 부재로 정체됨.",
+      "스마트폰 도입 이후 타 산업은 급격한 효율화를 달성했으나 건설업의 디지털 적용 수준은 전 산업 최저 수준임.",
+      "최근 5년간 급속히 발전한 ICT를 건설 공정에 수혈하는 스마트 건설이 위기 타개의 핵심 방안으로 대두됨."
+    ],
+    "data_points": [],
+    "signal": "bearish",
+    "signal_reason": "생산 비용 통제 능력 상실과 고질적인 디지털 도입 지연으로 전통 건설사들의 이익 훼손 위기가 당분간 이어질 것으로 전망되기 때문임.",
+    "key_companies": [],
+    "insight": "건설 자재 및 인건비 상승을 극복하려면 단순 시공을 넘어 설계-시공 전 과정의 데이터화와 스마트 공법 전환이 필수적임.",
+    "action_point": "전통적 단순 도급 건설사에 대한 투자 비중은 축소하고, 스마트 건설 엔지니어링 기술이나 BIM(건설정보모델링) 솔루션을 보유한 혁신 기술사에 집중할 것."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "건설생산성",
+      "디지털화지연",
+      "스마트건설",
+      "원가상승위기"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "tldciDQLYRQ",
+    "title": "SpaceX의 새로운 야심찬 프로젝트 Starfall의 모든 것! 우주 로켓 배송 드디어 현실화 되나?! [항성의 우주속으로]",
+    "published": "2026-06-23T00:46:56+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=tldciDQLYRQ",
+    "thumbnail": "https://img.youtube.com/vi/tldciDQLYRQ/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "스페이스X의 신규 프로젝트 스타폴(Starfall)은 우주의 미세 중력 환경을 활용하는 <span class=\"text-cyan-300 font-semibold\">우주 제조(In-Space Manufacturing)</span> 제품을 안전하게 지구로 회수하기 위한 무인 캡슐 기술임. 스타링크 네트워크를 활용해 대기권 재진입 시 발생하는 <span class=\"text-rose-400 font-medium\">통신 블랙아웃</span>을 극복하며, 궁극적으로 1시간 내 지구 반대편으로 화물을 배송하는 우주 물류 혁신을 목표로 함.",
+    "key_claims": [
+      "미세 중력의 우주 공간은 지상과 달리 대류와 침강이 없어 신약 단백질 결정, 고순도 반도체 웨이퍼 제조에 최적임.",
+      "스타폴 무인 캡슐은 스페이스X의 저궤도 스타링크 위성을 경유해 재진입 중에도 블랙아웃 없이 실시간 교신을 수행함.",
+      "해당 기술은 우주 공장 물량 회수를 넘어 미 군사 및 상업용 초고속 지구 포인트 투 포인트 화물 운송으로 진화할 수 있음."
+    ],
+    "data_points": [
+      "머크사 항암제 키트루다 우주 정거장 실험: 지상 대비 입자 크기 균일성 대폭 향상 (지상 불규칙 크기 -> 우주 39마이크로미터로 일정화)"
+    ],
+    "signal": "bullish",
+    "signal_reason": "우주가 단순 탐사 영역을 넘어 의약 및 반도체 소재의 실질적인 제조 거점으로 진화하고 있으며, 스페이스X가 독보적인 스타링크 통신 및 발사체 회수 기술로 시장을 독점하고 있기 때문임.",
+    "key_companies": [
+      "스페이스X",
+      "머크(MRK)"
+    ],
+    "insight": "스타링크를 통한 재진입 통신 차단 해결은 우주선 제어 신뢰성을 비약적으로 높여 우주 제조 물류 상용화의 핵심 이정표가 될 것임.",
+    "action_point": "우주 의약품 제조 솔루션, 소형 캡슐 회수 기술 및 우주 안테나/통신 장비와 연관된 위성 부품 기술을 보유한 우주 밸류체인 수혜 기업에 투자할 것."
+  },
+  "classification": {
+    "primary_topic": "space",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "SpaceX",
+      "Starfall",
+      "우주제조",
+      "블랙아웃해결",
+      "로켓배송"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "hFfUAy43pkE",
+    "title": "\"저커버그의 초대형 베팅\"... 현재 미국과 중국을 뒤흔든 AI에이전트 ㄷㄷ",
+    "published": "2026-06-22T09:00:07+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=hFfUAy43pkE",
+    "thumbnail": "https://img.youtube.com/vi/hFfUAy43pkE/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "글로벌 테크 업계(마크 저커버그, 젠슨 황 등)의 핵심 격전지로 <span class=\"text-cyan-300 font-semibold\">AI 에이전트</span>가 부상하고 있으나, 높은 연산 비용(토큰 소모)과 어려운 구축 장벽이 한계였음. 최근에는 코딩 없이 프롬프트만으로 쉽게 구축하여 매일 업무 자동화(뉴스 요약, SNS 발행 등)를 수행할 수 있는 고편의성 에이전트 서비스가 출시되며 대중화를 이끌고 있음.",
+    "key_claims": [
+      "현재의 AI 에이전트는 복잡한 환경 구축 과정과 과도한 토큰 소모량이 최대 걸림돌임.",
+      "엔비디아와 메타 등 글로벌 빅테크들은 미래 AI의 핵심 도구로 AI 에이전트 생태계를 낙점하고 대규모 투자를 진행 중임.",
+      "일반 사용자가 코딩 없이 실무 워크플로우를 자동화하는 로우코드/노코드 에이전트 플랫폼이 빠르게 시장을 점유하고 있음."
+    ],
+    "data_points": [
+      "에이전트 도입 비율: 2024년 기준 1% 미만 수준에서 급성장 추세"
+    ],
+    "signal": "bullish",
+    "signal_reason": "비싼 토큰 요금과 복잡한 기술적 장벽이 해소되면서 기업과 개인 비즈니스의 AI 비서 및 자동화 생태계가 실질적인 비즈니스 가치를 내기 시작했기 때문임.",
+    "key_companies": [
+      "엔비디아(NVDA)",
+      "메타(META)",
+      "오픈AI"
+    ],
+    "insight": "프롬프트 입력만으로 구동되는 가벼운 AI 에이전트의 확산은 개별 기업의 백오피스 업무 자동화 비용을 획기적으로 낮춰줄 것임.",
+    "action_point": "개발 지식 없이도 비즈니스 워크플로우를 자동화해 주는 노코드 AI 에이전트 솔루션사 및 이를 지원하는 고성능 API 기업을 발굴함."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "etc"
+    ],
+    "tags": [
+      "AI에이전트",
+      "업무자동화",
+      "노코드플랫폼",
+      "저커버그베팅",
+      "젠슨황"
+    ]
+  }
+}

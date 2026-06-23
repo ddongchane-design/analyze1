@@ -1,0 +1,40 @@
+{
+  "video": {
+    "id": "HoGuxrAJ7DE",
+    "title": "밤에도 일하는 로봇 현장 스마트 건설의 3대 핵심 #교양이를부탁해",
+    "published": "2026-06-22T11:30:25+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=HoGuxrAJ7DE",
+    "thumbnail": "https://img.youtube.com/vi/HoGuxrAJ7DE/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "건설 현장의 고령화와 구인난을 극복하기 위해 AI와 <span class=\"text-cyan-300 font-semibold\">피지컬 AI</span> 기술이 융합된 <span class=\"text-cyan-300 font-semibold\">스마트 건설</span> 기술 도입이 촉진되고 있음. 디지털 데이터 축적 및 디지털 트윈 제어를 기반으로 무인 로봇 시공 및 원격 관제 시스템이 구축되면, 건설업은 고부가 가치 산업으로 탈바꿈하고 해외 스마트 시티 시장으로 수출 모델을 확장할 수 있음.",
+    "key_claims": [
+      "스마트 건설은 건설 현장의 데이터를 수집하고 AI와 로봇을 결합해 무인화 및 고부가가치화를 달성하는 기술임.",
+      "위험한 환경은 모듈형 로봇과 AI 중장비가 대체하고, 인간 작업자는 원격 통제 센터에서 디지털 트윈으로 관리함.",
+      "국토부와 산업부는 동남아(베트남 등)에 K-스마트 시티 수출을 추진하고 있어 원천 스마트 건설 기술 확보가 절실함."
+    ],
+    "data_points": [],
+    "signal": "bullish",
+    "signal_reason": "구조적인 현장 노동력 공백을 피지컬 AI 및 자동화 솔루션이 완벽히 보완하며, 단순 건설업에서 데이터 기반의 고부가 엔지니어링 플랫폼 산업으로 체질이 전면 개선되기 때문임.",
+    "key_companies": [
+      "현대자동차",
+      "보스턴 다이내믹스"
+    ],
+    "insight": "전통 인프라 건설이 인력난으로 한계에 부딪힌 상황에서, 디지털 트윈과 자율주행 건설 중장비 등 스마트 기술의 이식이 산업 생존의 유일한 돌파구임.",
+    "action_point": "디지털 트윈 제어 소프트웨어, 원격 로봇 제어 솔루션 및 무인 중장비 구동 핵심 모듈을 보유한 기업의 가치에 장기 투자할 것."
+  },
+  "classification": {
+    "primary_topic": "robot",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "스마트건설",
+      "피지컬AI",
+      "무인현장",
+      "디지털트윈",
+      "K스마트시티"
+    ]
+  }
+}

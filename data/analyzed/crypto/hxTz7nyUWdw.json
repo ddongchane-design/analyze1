@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "hxTz7nyUWdw",
+    "title": "'세일러만 무너지면 비트코인이 오른다?' 착각 속 스트래티지 마녀사냥의 진실 | 서동주, 김동환, 백훈종 스매시파이 대표 [크립토 PLUS]",
+    "published": "2026-06-22T03:57:05+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=hxTz7nyUWdw",
+    "thumbnail": "https://img.youtube.com/vi/hxTz7nyUWdw/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "비트코인 최대 보유 기업인 마이크로스트레티지(MSTR)의 자금 조달 구조와 관련해, <span class=\"text-rose-400 font-medium\">BPS(주당 비트코인 가치) 희석 우려</span>와 비트코인 매도 가능성에 대한 시장의 왜곡된 불안감을 진단함. 회사 경영진은 BPS 성장에 부합할 때만 조율을 시행할 것임을 확언했고, 대안적 기업형 비트코인 구매 트레저리(BSTR, 카돈 캐피털 등) 및 신규 채굴 자본의 유입이 대기 중이어서 하방 지지가 견고함.",
+    "key_claims": [
+      "MSTR의 주식 발행(ATM) 방식 자금 조달은 BPS를 증가시키는 한도 내에서 정교하게 집행됨.",
+      "비트코인 보유 가치 상승 및 자사주 밸류에이션 차이를 활용한 차익 거래 메커니즘이 원활히 작동 중임.",
+      "MSTR 외에도 대형 트레저리 펀드(BSTR 등)가 수만 개의 비트코인 매수를 대기하고 있어 기관 자금 유입선이 다변화됨."
+    ],
+    "data_points": [
+      "MSTR 전환우선주 할인 가격대: 장중 82달러에서 89달러선 회복 흐름",
+      "BSTR 비트코인 추가 매수 패키지 한도 승인 규모: 1,500억 달러 상당"
+    ],
+    "signal": "bullish",
+    "signal_reason": "마이클 세일러 중심의 비트코인 축적 매커니즘 붕괴 우려는 기우이며, 신규 기업용 트레저리 컴퍼니와 우량 채굴 자본의 진입 대기 수요가 탄탄한 매수벽을 이루고 있기 때문임.",
+    "key_companies": [
+      "마이크로스트레티지(MSTR)",
+      "ABTC"
+    ],
+    "insight": "단일 기업 MSTR에 대한 비트코인 의존도가 점차 분산되며, 글로벌 기업들이 비트코인을 기업 현금 자산(Treasury)으로 편입하는 인프라가 규격화되고 있음.",
+    "action_point": "시장의 막연한 MSTR 발 청산 불안감으로 인한 크립토 가격 단기 조정 국면을 중장기 비트코인 매수 적기로 삼을 것."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "마이크로스트레티지",
+      "BPS희석우려",
+      "비트코인매도",
+      "트레저리컴퍼니",
+      "ABTC"
+    ]
+  }
+}

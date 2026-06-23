@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "3QdksMhdA6g",
+    "title": "삼성전자 턱 밑까지 쫓아가는 하이닉스, 제가 생각하는 매도 타점은 '이때' 입니다 [Z1뉴스]",
+    "published": "2026-06-22T08:00:39+00:00",
+    "channel_name": "이효석아카데미",
+    "url": "https://www.youtube.com/watch?v=3QdksMhdA6g",
+    "thumbnail": "https://img.youtube.com/vi/3QdksMhdA6g/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "빅테크 기업들의 공격적인 AI 설비 투자 확대로 관련 기업들의 실적이 주가를 강하게 견인하는 <span class=\"text-cyan-300 font-semibold\">실적 기반 2차 상승</span>에 돌입했다고 분석함. 특히 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>는 마이크론 대비 밸류에이션 저평가 매력이 크고 향후 ADR 상장 시 글로벌 패시브 자금의 유입에 따른 멀티플 재평가(TSMC 사례)가 기대됨.",
+    "key_claims": [
+      "AI 랠리가 거품이 아닌 실적(Earnings)에 의해 뒷받침되고 있으며, 3~4월 매크로 악재 조정 후 눈높이를 맞추어 회복함.",
+      "SK하이닉스의 본격적인 매도 타점은 미국 마이크론과의 PER 멀티플 갭이 완전히 해소되거나 메모리 시장이 초고평가를 받는 시점임.",
+      "해외 ADR이 발행되면 그동안 반도체 ETF 등에서 제외되었던 SK하이닉스 주식에 엄청난 해외 자금 유입이 가능함."
+    ],
+    "data_points": [
+      "마이크론 12개월 선행 PER: 약 11~12배 수준",
+      "SK하이닉스 12개월 선행 PER: 약 7배 내외",
+      "월가 예상 내년 AI 인프라 투자 규모: 연간 4,000억 달러 ~ 7,000억 달러 상회 전망"
+    ],
+    "signal": "bullish",
+    "signal_reason": "글로벌 빅테크의 AI 투자 가속화와 메모리 3사(삼성, 하이닉스, 마이크론)의 이익 급증이 이어지고 있으며, SK하이닉스의 멀티플 갭 극복 및 ADR 상장 기대감이 뚜렷한 상승 동력임.",
+    "key_companies": [
+      "SK하이닉스(000660)",
+      "마이크론(MU)",
+      "TSMC(TSM)"
+    ],
+    "insight": "단순한 기대감의 1차 랠리와 달리, 지금은 실제 AI 인프라 확장이 실적 통장에 찍히는 구간으로, 하이닉스와 마이크론의 밸류에이션 갭이 축소될 여력이 충분함.",
+    "action_point": "마이크론 대비 SK하이닉스의 저평가 수준이 상당하므로, 단기 잡음이나 조정 시 적극적인 매수 기회로 활용하고 장기 보유 관점을 고수함."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "SK하이닉스",
+      "마이크론",
+      "PER멀티플",
+      "ADR상장",
+      "AI실적장세"
+    ]
+  }
+}
