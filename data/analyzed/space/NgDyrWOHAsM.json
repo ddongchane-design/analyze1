@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "NgDyrWOHAsM",
+    "title": "SpaceX 우주 배송 시험! Starfall 발사 생중계!  [항성의 우주속으로]",
+    "published": "2026-06-23T11:10:35+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=NgDyrWOHAsM",
+    "thumbnail": "https://img.youtube.com/vi/NgDyrWOHAsM/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "스페이스X가 우주의 미세 중력 환경을 상업적 용도로 활용해 신약이나 고순도 소재를 제조하는 <span class=\"text-cyan-300 font-semibold\">우주 제조(In-Space Manufacturing)</span> 제품을 회수하는 스타폴(Starfall) 프로젝트 발사 시험을 시작함. 저궤도 <span class=\"text-cyan-300 font-semibold\">스타링크 위성 네트워크</span>를 경유해 지구 재진입 시 대기 마찰 플라즈마로 인한 통신 단절(블랙아웃)을 사상 최초로 제거하는 기술 실증이 핵심임.",
+    "key_claims": [
+      "미세 중력의 우주 공간은 지상과 달리 밀도 침강이 발생하지 않아 알츠하이머 신약 단백질 등 균일한 결정을 대량으로 배양할 수 있음.",
+      "플라즈마 장막을 뚫고 상부 저궤도 스타링크를 이용해 교신함으로써 지구 재진입 중 통신 두절 시간 없이 기체를 완벽히 원격 모니터링함.",
+      "스타폴 프로젝트는 단순한 우주 공장 물류 회수를 넘어, 로켓을 이용해 지구 반대편까지 1시간 만에 화물을 보내는 군사/상업용 특송 수송망으로 진화할 수 있음."
+    ],
+    "data_points": [
+      "머크 키트루다 우주 정거장 실험 결과: 지상 13~102마이크로미터의 불균일 크기 대비 우주 배양 시 39마이크로미터로 고르게 형성",
+      "부스터 재사용 횟수: 이번 팰컨9 발사는 우주 역사상 최초로 단일 부스터 29회 재사용 성공 달성"
+    ],
+    "signal": "bullish",
+    "signal_reason": "스페이스X가 독점적인 팰컨9 재사용 수송 인프라와 스타링크 저궤도 통신망 결합을 통해, 개화되는 상업용 우주 제조 및 고부가가치 로켓 배송 시장 장벽을 압도적으로 구축하고 있기 때문임.",
+    "key_companies": [
+      "스페이스X",
+      "머크(MRK)"
+    ],
+    "insight": "스타링크를 활용해 대기권 재진입 통신 블랙아웃을 해결하는 것은 우주 물동량 회수 신뢰성을 지상 수준으로 높이는 중대한 물류 혁신임.",
+    "action_point": "우주 의약품 배양 플랫폼 및 소형 무인 캡슐 기계 부품 개발사, 그리고 스페이스X 밸류체인 내의 핵심 위성 안테나 부품 공급 기업에 주목할 것."
+  },
+  "classification": {
+    "primary_topic": "space",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "SpaceX",
+      "Starfall",
+      "우주제조",
+      "스타링크",
+      "재진입블랙아웃"
+    ]
+  }
+}

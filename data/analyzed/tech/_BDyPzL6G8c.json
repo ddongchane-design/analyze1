@@ -1,0 +1,41 @@
+{
+  "video": {
+    "id": "_BDyPzL6G8c",
+    "title": "차원이 다른 AI실시간 번역 기술.. 이제 언어의 벽이 완전히 무너집니다",
+    "published": "2026-06-23T09:49:54+00:00",
+    "channel_name": "월텍남",
+    "url": "https://www.youtube.com/watch?v=_BDyPzL6G8c",
+    "thumbnail": "https://img.youtube.com/vi/_BDyPzL6G8c/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "구글 AI 스튜디오 및 클로드 코딩 도구의 고도화로 비전공자도 단 30분 만에 지연 없는 고품질 실시간 번역 웹 서비스를 구축하는 <span class=\"text-cyan-300 font-semibold\">AI 에이전트 개발 대중화</span>가 실현됨. 퀄컴의 전력 효율칩을 필두로 핸드폰 및 스마트 글래스가 눈을 가지고 작동하는 <span class=\"text-cyan-300 font-semibold\">온디바이스 AI 시대</span>로 전장이 이동하며 하드웨어 선도 플랫폼의 소장 가치가 부각됨.",
+    "key_claims": [
+      "AI 응용 코딩 도구의 폭발적 발전으로 대형 투자 유치 수준의 번역/자동화 서비스를 개인이 신속하게 개발하는 로우코드 생태계가 정착됨.",
+      "AI 에이전트가 카메라 스캔을 결합해 시각 정보를 인식하고 대응하는 방향으로 진화하며 온디바이스 엣지 연산이 필수 요소가 됨.",
+      "퀄컴의 모바일 전력 칩셋 독주와 메타의 스마트 글래스 유통망 장악이 하드웨어 디바이스 시장의 핵심 수혜 경로임."
+    ],
+    "data_points": [],
+    "signal": "bullish",
+    "signal_reason": "노코드 개발의 확산으로 AI 응용 서비스 진입 장벽이 낮아지는 한편, 이를 구현할 온디바이스 하드웨어 및 고효율 AP 칩 공급사의 장기적 가치가 강화되기 때문임.",
+    "key_companies": [
+      "퀄컴(QCOM)",
+      "메타(META)",
+      "구글(GOOGL)"
+    ],
+    "insight": "AI 응용 개발 비용이 제로에 수렴하게 됨에 따라 B2C 서비스 우위보다는 고성능 엣지 칩을 쥔 디바이스 하드웨어 플랫폼 및 인프라의 독점력이 더욱 귀해지고 있음.",
+    "action_point": "모바일 AP 칩 독점력을 확보한 퀄컴 및 스마트 글래스/디바이스 시장의 1등 기업 메타 등의 지분을 모아가는 전략이 유효함."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "AI번역기술",
+      "노코드개발대중화",
+      "온디바이스AI",
+      "퀄컴AP칩",
+      "스마트글래스"
+    ]
+  }
+}

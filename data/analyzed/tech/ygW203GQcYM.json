@@ -1,0 +1,39 @@
+{
+  "video": {
+    "id": "ygW203GQcYM",
+    "title": "젠슨이 투자한 차세대 반도체",
+    "published": "2026-06-23T11:00:15+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=ygW203GQcYM",
+    "thumbnail": "https://img.youtube.com/vi/ygW203GQcYM/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "젠슨 황 엔비디아 CEO가 생명공학을 인류의 최대 혁명이자 차세대 반도체 분야로 선언하고 바이오 시장 진출을 강화함. <span class=\"text-cyan-300 font-semibold\">데이터 기반 바이오 연구실</span>에서 신약 배양 및 유전자 해독을 위해 GPU 클라우드 연산을 대규모로 결합하며, 바이오가 AI 하드웨어를 흡수할 미래 블루오션으로 부상함.",
+    "key_claims": [
+      "엔비디아는 AI의 다음 대규모 수요처(GPU 소비 거점)로 바이오 및 헬스케어 부문을 선정해 전략적으로 투자 중임.",
+      "데이터 및 시뮬레이션 기반 바이오 연구소들의 GPU 클라우드 결제 규모가 핵심 비용 청구소로 급부상함.",
+      "생명공학 연구의 데이터화가 신약 탐색 기간을 극적으로 낮추며 하드웨어 성능을 가장 빠르게 활용하는 시장이 됨."
+    ],
+    "data_points": [],
+    "signal": "bullish",
+    "signal_reason": "AI 연산 칩의 용처가 단순 검색/챗봇을 넘어 바이오 시뮬레이션 및 유전자 코딩이라는 실물 바이오 산업으로 확장되며 새로운 장기 시장을 창출하기 때문임.",
+    "key_companies": [
+      "엔비디아(NVDA)"
+    ],
+    "insight": "바이오 연구가 실험실 기반에서 디지털 연산 및 데이터 시뮬레이션 기반으로 전향함에 따라 AI 하드웨어 수요의 또 다른 장기 성장선이 마련되고 있음.",
+    "action_point": "엔비디아 바이오 생태계와 연동된 신약 후보 물질 발굴 AI 소프트웨어 선도사 및 바이오 시뮬레이션 인프라 수혜주에 집중할 것."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "엔비디아바이오",
+      "젠슨황혁명",
+      "바이오컴퓨팅",
+      "신약개발AI",
+      "GPU바이오"
+    ]
+  }
+}

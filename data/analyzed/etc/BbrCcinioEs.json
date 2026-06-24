@@ -1,0 +1,38 @@
+{
+  "video": {
+    "id": "BbrCcinioEs",
+    "title": "“땡볕 측량은 옛말” 드론이 건설업에 가져온 신세계 #교양이를부탁해",
+    "published": "2026-06-23T10:00:09+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=BbrCcinioEs",
+    "thumbnail": "https://img.youtube.com/vi/BbrCcinioEs/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "사람이 도구를 들고 수동으로 계측하던 전통적 측량 방식을 대체하여, 드론과 <span class=\"text-cyan-300 font-semibold\">라이다(LiDAR) 센서</span> 및 3D 데이터 플랫폼을 융합한 스마트 측량이 본격화됨. 축적된 데이터를 활용해 정확한 토공량을 산출하고 AI와 로봇을 수혈하여 <span class=\"text-cyan-300 font-semibold\">스마트 건설</span> 생태계를 구축하면, 건설업은 고부가 설계 엔지니어링 산업으로 진화할 수 있음.",
+    "key_claims": [
+      "드론 측량 및 라이더 센서 보정 작업을 통해 지형의 정밀 3차원 XYZ 좌표를 자동으로 산출함.",
+      "설계 도면과 실시간 측량 데이터를 데이터 플랫폼에서 비교해 깎아내거나 메워야 할 토공량을 즉시 파악함.",
+      "정부는 스마트 건설 2단계 사업 추진 및 AI/로봇 투자를 통해 건설업의 고부가가치 해외 수출화를 도모함."
+    ],
+    "data_points": [],
+    "signal": "bullish",
+    "signal_reason": "인력 중심의 비효율적 시공 현장에 드론 센서와 AI 플랫폼 등 디지털 정밀 기술이 접목되어 생산성과 비용 효율성이 비약적으로 증가하기 때문임.",
+    "key_companies": [],
+    "insight": "단순 시공을 넘어 전 토목 지형을 정밀 3D 데이터화하여 다루는 데이터 플랫폼 역량이 미래 해외 수주전의 핵심 차별화 요소가 됨.",
+    "action_point": "BIM(건설정보모델링) 및 3D 공간 스캔 데이터 처리 소프트웨어 플랫폼 선도 기업이나 라이더 장비 부품사의 수혜를 눈여겨볼 것."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "robot",
+      "tech"
+    ],
+    "tags": [
+      "드론측량",
+      "라이더센서",
+      "스마트건설",
+      "국토교통진흥원",
+      "토공량산출"
+    ]
+  }
+}

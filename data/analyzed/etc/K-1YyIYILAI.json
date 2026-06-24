@@ -1,0 +1,38 @@
+{
+  "video": {
+    "id": "K-1YyIYILAI",
+    "title": "\"일단 짓고 부수던 시대는 끝났다\" 시뮬레이션 하나로 수백억 아끼는 법 #교양이를부탁해",
+    "published": "2026-06-23T09:45:19+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=K-1YyIYILAI",
+    "thumbnail": "https://img.youtube.com/vi/K-1YyIYILAI/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "건설 현장의 구조적 노동 생산성 한계를 돌파하기 위해 정보통신 기술과 AI를 접목한 <span class=\"text-cyan-300 font-semibold\">스마트 건설</span> 기술 도입이 촉진됨. 특히 공장에서 부재를 사전 조립해 현장으로 가져와 로봇으로 조립하는 <span class=\"text-cyan-300 font-semibold\">프리패브(Prefab)</span> 기법과 가상현실(VR) 시뮬레이션 활용이 시공 기일 단축과 리스크 예방에 크게 기여함.",
+    "key_claims": [
+      "현장 시공 과정을 공장식 모듈화 및 로봇 조립으로 전환해 현장 위험성과 공사 기간을 획기적으로 낮춤.",
+      "디지털 모델과 VR 스캔 장비를 활용해 가상으로 설계 리스크와 현장 동작을 검증하여 오시공 비용을 제거함.",
+      "건설 현장의 급격한 고령화와 구인난 속에서 스마트 공정 및 로봇 도입이 건설사 수익 방어의 핵심 변수로 부상함."
+    ],
+    "data_points": [],
+    "signal": "bullish",
+    "signal_reason": "인력난과 비용 폭증으로 위축된 건설 시공 현장에 정밀 데이터 시뮬레이션과 모듈러 프리패브 공법이 접목되며 장기 생산성 가치 사슬을 복구하기 때문임.",
+    "key_companies": [],
+    "insight": "전통 토목 시공에서 탈피하여, 공정을 사전에 가상 시뮬레이션하고 표준 조립 부재를 로봇화하여 시공하는 소프트웨어 중심 가치 창출이 차세대 건설업의 핵심 경쟁력임.",
+    "action_point": "모듈러 시공, 건설 자동화 및 디지털 시뮬레이션 소프트웨어 플랫폼 기술을 보유한 혁신 중소기업을 선별 발굴할 것."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "tech",
+      "robot"
+    ],
+    "tags": [
+      "스마트건설",
+      "프리패브",
+      "공기단축",
+      "VR시뮬레이션",
+      "안전관리"
+    ]
+  }
+}
