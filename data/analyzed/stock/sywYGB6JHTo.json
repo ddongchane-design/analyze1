@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "sywYGB6JHTo",
+    "title": "[Breaking] The reason for the global stock market plunge is KOSPI. I'll give you my candid thoughts.",
+    "published": "2026-06-25T06:23:34+00:00",
+    "channel_name": "이효석아카데미",
+    "url": "https://www.youtube.com/watch?v=sywYGB6JHTo",
+    "thumbnail": "https://img.youtube.com/vi/sywYGB6JHTo/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "코스피의 변동성 지수인 <span class=\"text-rose-400 font-medium\">V코스피</span>가 과거 글로벌 금융위기 수준(89선 부근)에 근접하게 폭증하며 글로벌 시장 대비 유별난 변동성을 보였습니다. 이례적인 것은 주가 폭락이 아니라 반도체 중심의 사상 최대 이익(컨센서스 과열)과 5월 이후 대형 <span class=\"text-rose-400 font-medium\">레버리지 ETF 수급 노이즈</span>가 겹쳐 발생했다는 점입니다. 마이크론 실적 직전 옵션 시장에서는 풋 옵션 비중이 2배 이상 몰리며 하방 공포가 극대화되었습니다.",
+    "key_claims": [
+      "V코스피가 역대급 변동성을 나타냈으나, 이는 금융위기처럼 펀더멘탈 붕괴가 아닌 레버리지 파생 수급이 부추긴 단기적 바람(노이즈)에 불깝하다.",
+      "현재 코스피는 기업 이익 컨센서스가 전례 없는 수치로 폭증하는 이례적인 '이익 과열' 및 펀더멘탈 강세 상태를 보이고 있다.",
+      "옵션 시장 내 마이크론의 풋콜 비율(풋옵션이 콜옵션의 2배)이 극대화되면서 실적 발표 직전까지 공포성 눈치싸움 매물이 출하되었다."
+    ],
+    "data_points": [
+      "V코스피 변동성 지수: 금융위기 수준 근접 급증",
+      "마이크론 실적 전 옵션 풋콜 비중: 풋옵션 비중이 콜옵션 대비 약 2배 우세"
+    ],
+    "signal": "neutral",
+    "signal_confidence": "medium",
+    "signal_reason": "V코스피 수치만 보면 공포 시그널이나, 기업 이익(펀더멘탈) 성장세는 사상 최대 수준을 지속하고 있고 파생상품 발 수급 왜곡이 원인이므로 변동성이 지속되되 추세 붕괴로 이어지지 않기 때문입니다.",
+    "key_companies": [
+      "마이크론",
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "insight": "역사적으로 변동성 지수의 폭증은 항상 실적 급감과 주가 폭락을 동반했으나, 현재 코스피는 사상 최대의 기업 실적(반도체 중심)을 배경으로 변동성이 치솟는 이례적인 '펀더멘탈 과열' 상태입니다. 레버리지 수급 요인으로 등락 폭이 극대화된 상태이므로 주가의 일시적 등락에 투매하거나 추격하기보다는, 기업 이익의 훼손 여부를 냉정히 체크해야 합니다.",
+    "action_point": "수급 노이즈로 빚어진 변동성을 역이용하여 투매에 동참하기보다, <span class=\"text-cyan-300 font-semibold\">반도체 투톱(삼성전자, SK하이닉스)</span>의 <span class=\"text-amber-300 font-bold\">실적 턴어라운드 흐름</span>을 믿고 변동성을 버텨내거나 조정 시 분할 매수 기회로 활용해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "V코스피",
+      "코스피변동성",
+      "마이크론실적",
+      "풋콜레이시오",
+      "레버리지ETF"
+    ]
+  }
+}

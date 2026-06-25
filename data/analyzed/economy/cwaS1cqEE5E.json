@@ -1,0 +1,50 @@
+{
+  "video": {
+    "id": "cwaS1cqEE5E",
+    "title": "[Knowledge News] \"I'm most afraid of 'this' right now\".. Why the anxiety despite Micron's record-...",
+    "published": "2026-06-25T06:30:25+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=cwaS1cqEE5E",
+    "thumbnail": "https://img.youtube.com/vi/cwaS1cqEE5E/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "마이크론의 기록적인 호실적 뒤에는 급격히 늘어나는 <span class=\"text-rose-400 font-medium\">자본비용(WACC)</span> 및 AI 구동 방식의 근본적 비효율성이라는 거대한 그림자가 숨어 있습니다. 하이퍼스케일러들은 저렴한 채권 대신 고비용의 주식 발행과 희석(구글의 850억 달러 발행, 오픈AI의 재파이낸싱/IPO 압박 등)을 통해 무한 경쟁을 이어가고 있습니다. 연준의 금리 인상 리스크와 전력망 과부하가 맞물려, 향후 예상치 못한 <span class=\"text-rose-400 font-medium\">우발적 리스크</span>가 발발할 가능성에 대비해야 합니다.",
+    "key_claims": [
+      "AI 기업들이 높은 요구 수익률을 가진 주주 자본에 과도하게 의존하면서 전체적인 자본비용(WACC) 부담이 가중되고 있다.",
+      "현재의 대용량 메모리 기반 실시간 구동 방식은 극심한 전력 과부하를 초래하므로 기술의 파기적 혁신 없이는 인프라가 감당하기 어렵다.",
+      "역사적 금융 위기들은 언제나 예상치 못한 우발성에서 출발했으므로, AI 투자 쏠림 속에서 주변부 자산의 이탈과 인프라 지연을 주시해야 한다."
+    ],
+    "data_points": [
+      "구글의 주식 발행 규모: 850억 달러 (포워드 PER 25배 수준)",
+      "삼성전자 반도체 부문 마진율: 약 83% 수준 (공급망의 극단적 독식 구조를 시사)"
+    ],
+    "signal": "bearish",
+    "signal_confidence": "medium",
+    "signal_reason": "기술 혁신으로 생산성 개선 속도가 비용 상승을 압도하지 못하고 있으며, 자본비용 급등과 전력 부족 등 AI 생태계 내부의 병목 요인들이 누적되어 자산 가격 조정 리스크를 높이고 있기 때문입니다.",
+    "key_companies": [
+      "구글",
+      "오픈AI",
+      "애플",
+      "엔비디아",
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "insight": "AI 골디락스 네러티브 이면에 있는 고비용 구조를 파헤쳐야 합니다. 특히 애플이 현재의 고비용 메모리 독식 생태계(마진 83%에 달하는 반도체 가격)에 대한 반대 의사를 표명한 것은, 대형 플랫폼사들이 비용 통제를 위해 자체 반도체 개발이나 알고리즘 경량화에 혈안이 될 것임을 예고합니다. 자본비용이 올라가는 중금리 환경에서 단순 테마주는 소외되고, 명확한 현금 흐름을 창출하는 기업 위주로의 자금 쏠림이 한층 심화될 것입니다.",
+    "action_point": "성장 테마에 지나치게 편중된 포트폴리오를 조정하여 확실한 <span class=\"text-cyan-300 font-semibold\">하드웨어 공급사</span> 및 <span class=\"text-cyan-300 font-semibold\">전력망 수혜주</span>로 포트를 좁히고, 자산의 20~30%는 <span class=\"text-amber-300 font-bold\">현금 비중</span>으로 보유하여 우발적 변동성에 대비하는 방어적 전략이 적절합니다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "tech",
+      "stock"
+    ],
+    "tags": [
+      "우발성",
+      "자본비용",
+      "WACC",
+      "AI인프라",
+      "전력과부하",
+      "마이크론실적"
+    ]
+  }
+}

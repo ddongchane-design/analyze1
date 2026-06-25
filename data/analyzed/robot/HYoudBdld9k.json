@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "HYoudBdld9k",
+    "title": "Humanoid Performance Revolution: Memory Technology, Samsung Electronics, SK Hynix",
+    "published": "2026-06-25T06:21:15+00:00",
+    "channel_name": "엔지니어TV",
+    "url": "https://www.youtube.com/watch?v=HYoudBdld9k",
+    "thumbnail": "https://img.youtube.com/vi/HYoudBdld9k/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "휴머노이드 로봇의 본격적인 양산과 진화를 위해 고성능, 초저전력, 고내구성을 결합한 **로봇 전용 메모리 시장**이 2028년경 활짝 열릴 것으로 전망됩니다. 한정된 배터리와 공간을 극복하기 위해 휴머노이드는 생존과 반사신경을 담당하는 <span class=\"text-cyan-300 font-semibold\">온보드(On-board) 메모리</span>와 대규모 연산을 처리하는 <span class=\"text-amber-300 font-bold\">클라우드 서버</span>로 신경망 역할을 완벽히 분리하고 있습니다. 차세대 메모리 기술로는 전력 소모를 극적으로 줄일 수 있는 <span class=\"text-cyan-300 font-semibold\">낸드 기반 HBF(High Bandwidth Flash)</span> 등이 필수 기술로 부상하고 있습니다.",
+    "key_claims": [
+      "휴머노이드의 정밀 촉각 센싱과 즉각적인 위험 회피(반사 신경)를 위해서는 인터넷 끊김 시 안전사고 방지를 위해 강력한 온보드 연산 및 초저지연 메모리 처리가 필수적이다.",
+      "로봇 본체에 탑재할 수 있는 컴퓨팅 사양과 배터리 용량의 물리적 한계로 인해, 불필요한 기억은 신속히 망각하거나 고속 통신(10Gbps)으로 서버에 전달하는 데이터 최적화 설계가 동반되어야 한다.",
+      "DRAM의 지속적인 대기 전력 소모를 방지하기 위해 낸드(NAND)를 적층하여 전력 소모를 최소화하는 HBF(Memory Town) 기술 등이 AI 휴머노이드의 게임 체인저가 될 것이다."
+    ],
+    "data_points": [
+      "주요 로봇 탑재 메모리 용량: 유니트리 64~128GB, 테슬라 옵티머스 32~64GB, 피규어AI 128GB 이상, 아틀라스 32~64GB",
+      "피규어 03 무선 통신 속도: 10Gbps (실시간 서버 전송 및 메모리 리셋용)",
+      "미래 휴머노이드 탑재 예상 메모리 용량: 대당 평균 64~128GB (향후 256~512GB 및 TB 단위 확장 전망)",
+      "로봇 전용 메모리 상용화 예상 시점: 2028년경"
+    ],
+    "signal": "bullish",
+    "signal_confidence": "high",
+    "signal_reason": "휴머노이드 로봇 시장이 단순한 기계 제어를 넘어 피지컬 AI 및 실시간 온보드 추론으로 전환됨에 따라, 모바일과 서버를 넘어서는 새로운 고부가가치 반도체(LPDDR5, GDDR, HBM, HBF) 시장의 성장이 확실시되기 때문입니다.",
+    "key_companies": [
+      "테슬라(TSLA)",
+      "삼성전자(005930)",
+      "SK하이닉스(000660)"
+    ],
+    "insight": "휴머노이드 로봇의 실질적인 '일머리'는 움직임 자체뿐만 아니라 이를 실시간으로 제어하고 망각/기억하는 메모리 최적화 능력에 달려 있습니다. 특히 DRAM의 고전력 소모 문제를 해결하기 위한 비휘발성 적층 메모리인 <span class=\"text-cyan-300 font-semibold\">HBF(High Bandwidth Flash)</span> 등은 휴머노이드 양산 가격(가정용 보급가) 달성을 위한 메모리 밸류체인의 핵심 수혜 분야가 될 것입니다.",
+    "action_point": "휴머노이드 시장 개화에 맞춰 향후 대형 메모리 규격 변화와 신규 칩셋 설계의 수혜를 입을 <span class=\"text-cyan-300 font-semibold\">삼성전자, SK하이닉스 및 관련 패키징 소부장 기업</span>들의 장기 성장 동력에 지속 주목해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "robot",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "휴머노이드",
+      "로봇메모리",
+      "피지컬AI",
+      "온보드D램",
+      "HBF"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "video": {
+    "id": "q8K1kbL3T4Y",
+    "title": "[M-STOCK 이용가이드]  담보대출 약정",
+    "published": "2026-06-24T01:34:30+00:00",
+    "channel_name": "Smart Money by MiraeAsset ",
+    "url": "https://www.youtube.com/watch?v=q8K1kbL3T4Y",
+    "thumbnail": "https://img.youtube.com/vi/q8K1kbL3T4Y/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미래에셋증권 모바일 앱 M-STOCK을 통해 보유 주식을 담보로 활용하여 일반 대출 및 매도 대출 약정을 맺는 실무 프로세스 가이드입니다. 약정 과정에서 투자 성향 및 신용공여 정보 확인서를 제출하고, 5천만 원 초과 시에는 인지세가 차등 부과되며 <span class=\"text-amber-300 font-bold\">5천만 원 이하 시 인지세가 면제</span>됩니다. 대출 시 추가 담보 납부(마진콜) 및 만기 안내 등 알림 설정이 가능합니다.",
+    "key_claims": [
+      "보유 중인 주식을 담보로 대출받는 일반 담보대출과 매도 완료 후 즉시 인출 가능한 매도 담보대출을 모바일 앱에서 간편히 약정할 수 있다.",
+      "대출 금액 합산 기준 5천만 원 이하의 소액 대출 건에 대해서는 인지세가 전액 발생하지 않는다.",
+      "해외 주식을 담보로 포함할 수 있으나, 담보 비율 하락에 따른 추가 담보 미납 시 반대매매가 진행될 수 있으므로 유의해야 한다."
+    ],
+    "data_points": [
+      "인지세 면제 기준: 대출 약정 총합산 금액 5,000만 원 이하"
+    ],
+    "signal": "neutral",
+    "signal_confidence": "high",
+    "signal_reason": "증권사의 신용 담보대출 가이드로서 시장 전반의 호재나 악재 시그널보다는, 투자자 본인의 담보 자금 관리와 레버리지 위험 통제 영역을 다룬 실무적인 내용이기 때문입니다.",
+    "key_companies": [
+      "미래에셋증권"
+    ],
+    "insight": "개인 투자자들이 주식 담보대출 기능을 활용할 때의 복잡한 절차와 인지세 면제 기준(5천만 원 이하)을 설명하는 실무적인 가이드입니다. 증권사 입장에서는 이와 같은 담보대출 서비스 활성화를 통해 안정적인 이자 마진(신용공여 수익)을 추가로 확보하는 비즈니스 구조를 구축하고 있습니다.",
+    "action_point": "대출 금액 합산 5천만 원 이하에서 <span class=\"text-amber-300 font-bold\">인지세 면제 혜택</span>을 활용하고, 담보 비율 하락에 따른 추가 담보 납부 통보 등 <span class=\"text-rose-400 font-medium\">반대매매 리스크</span>에 상시 대비하는 약정 통보 서비스를 반드시 신청해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "미래에셋증권",
+      "담보대출",
+      "이용가이드",
+      "M-STOCK"
+    ]
+  }
+}

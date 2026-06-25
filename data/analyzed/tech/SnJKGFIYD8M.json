@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "SnJKGFIYD8M",
+    "title": "한국 AI 붕괴 조짐",
+    "published": "2026-06-24T11:00:37+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=SnJKGFIYD8M",
+    "thumbnail": "https://img.youtube.com/vi/SnJKGFIYD8M/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "대부분의 국내 AI 스타트업들이 빅테크의 강력한 글로벌 독점력에 밀려 고사할 위험에 처해 있으며, 정부 세금으로 매칭된 <span class=\"text-rose-400 font-medium\">VC(벤처캐피탈) 펀드</span> 상당수가 공중 분해될 것이라는 전문가들의 경고가 나왔습니다. 차별화된 핵심 기술 없이 빅테크의 API를 활용해 외형만 포장한 국내 AI 서비스들은 냉정한 <span class=\"text-rose-400 font-medium\">거품 붕괴</span>를 피하기 어렵습니다.",
+    "key_claims": [
+      "대부분의 국내 AI 스타트업들은 빅테크의 완성형 AI 프로덕트와의 경쟁력에서 완전히 뒤처져 생존이 극히 어렵다.",
+      "정부 재원으로 조성되어 AI 꼬리표를 달고 무분별하게 집행된 VC 투자 펀드들이 대거 손실(부도) 처리될 리스크가 매우 크다.",
+      "변방의 작은 로컬 AI 서비스는 글로벌 거인들의 기술 장벽과 사용자 쏠림 현상을 극복할 실질적인 유인이 없다."
+    ],
+    "data_points": [
+      "국내 AI 스타트업 VC 투자: 국가 세금 기반 매칭 펀드 위주 집행 (공중 분해 가능성 경고)"
+    ],
+    "signal": "bearish",
+    "signal_confidence": "high",
+    "signal_reason": "독자적인 원천 기술이나 비즈니스 장벽 없이 거대 언어 모델(LLM) API에 의존하는 로컬 AI 서비스들의 시장 퇴출이 시작되어, 관련 투자 자금의 급격한 회수 및 밸류에이션 붕괴가 불가피하기 때문입니다.",
+    "key_companies": [
+      "네이버",
+      "카카오"
+    ],
+    "insight": "모든 기술 혁신 주기마다 반복되는 '닷컴 버블'의 형태가 AI 생태계에서도 고개를 들고 있습니다. 빅테크가 장악한 AI 기본 인프라와 플랫폼 생태계 위에서 단순 래퍼(Wrapper) 역할만 하는 국내 스타트업들은 실질적인 사용자 고착(Lock-in) 효과를 내지 못합니다. 이는 세금으로 조성된 모태펀드와 VC 생태계 전반의 <span class=\"text-rose-400 font-medium\">부실화 악순환</span>으로 연결될 우려가 큽니다.",
+    "action_point": "실체적인 매출과 독점 기술이 부재한 AI 스타트업에 대한 투자를 극도로 경계하고, 자체 인프라와 강력한 자본력 및 생태계를 장악한 <span class=\"text-cyan-300 font-semibold\">글로벌 빅테크 플랫폼</span> 및 확실한 반도체 파트너십을 맺은 기업으로 압축하여 대응해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock",
+      "economy"
+    ],
+    "tags": [
+      "한국AI",
+      "AI스타트업",
+      "VC투자",
+      "빅테크독점",
+      "거품론"
+    ]
+  }
+}
