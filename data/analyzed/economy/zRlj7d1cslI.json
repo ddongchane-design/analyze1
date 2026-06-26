@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "zRlj7d1cslI",
+    "title": "5월 PCE 예상치 부합ㅣWTI유 $69까지 하락, 2월 가격으로 복귀ㅣIBM, 0.7나노 초정밀공정 기술 공개ㅣ홍키자의 매일뉴욕",
+    "published": "2026-06-25T14:24:25+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=zRlj7d1cslI",
+    "thumbnail": "https://img.youtube.com/vi/zRlj7d1cslI/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 5월 PCE 물가 상승률이 예상치(근원 0.3%)에 부합하고, 중동 리스크 소멸 및 오펙 탈퇴 우려로 <span class=\"text-amber-300 font-bold\">WTI 유가가 배럴당 69달러대</span>로 주저앉으며 인플레이션 공포가 완화됨. 한편 테크 분야에서는 IBM이 세계 최초로 0.7나노 초정밀 반도체 공정 기술 로드맵을 깜짝 공개하며 미세공정 주도권 선점을 선언함.",
+    "key_claims": [
+      "에너지 가격 하락(69달러대 안착)이 전체 물가 압박을 하향 안정화시켜, 연준의 추가 긴축 압박을 크게 누그러뜨림.",
+      "IBM이 공개한 0.7나노 탄소나노튜브 및 차세대 수직 트랜지스터(VTFET) 공정은 실리콘 한계를 넘는 혁신 기술임."
+    ],
+    "data_points": [
+      "5월 근원 PCE 물가 상승률: 전월비 0.3% 상승 (시장 예상 부합)",
+      "국제 유가 지표: WTI 기준 배럴당 69.6달러 기록 (전쟁 후 최저치 회귀)",
+      "IBM 공개 차세대 공정 규격: 세계 최초 0.7나노미터(nm)급 트랜지스터 어레이 설계 시연"
+    ],
+    "signal": "bullish",
+    "signal_confidence": "high",
+    "signal_reason": "매크로 최대 아킬레스건인 유가가 69달러까지 폭락해 물가 안정과 국채 금리 하락을 지지하고 있으며, 차세대 반도체 미세 공정(0.7nm) 기술 혁신이 결합되어 장기 성장 신뢰도를 높이기 때문임.",
+    "key_companies": [
+      "IBM",
+      "삼성전자",
+      "TSMC"
+    ],
+    "insight": "유가 폭락은 글로벌 경제의 실질 구매력을 늘려주는 강력한 보이지 않는 보조금임. 이와 함께 IBM이 0.7나노를 제시한 것은, 실리콘 한계 돌파를 위해 파운드리 강자(삼성, TSMC)들과의 공동 R&D 생태계가 더욱 정밀화될 것임을 예고함.",
+    "action_point": "유가 안도감에 따른 매크로 랠리 국면이므로 단기 낙폭이 컸던 <span class=\"text-cyan-300 font-semibold\">반도체 파운드리 및 미세공정 소부장</span> 핵심주 비중을 과감하게 확대하는 전략이 유리함."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock",
+      "tech"
+    ],
+    "tags": [
+      "5월PCE부합",
+      "WTI유가폭락",
+      "인플레이션진정",
+      "IBM0.7나노",
+      "미세공정경쟁"
+    ]
+  }
+}

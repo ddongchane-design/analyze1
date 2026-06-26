@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "nByMjzO7Bds",
+    "title": "[김현석의 브레이킹 뉴스] 5월 PCE(개인소비지출) 물가 발표! 6월 25일 오후 9시30분 L.I.V.E",
+    "published": "2026-06-25T12:43:19+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=nByMjzO7Bds",
+    "thumbnail": "https://img.youtube.com/vi/nByMjzO7Bds/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "5월 PCE 물가 발표를 앞둔 시점에 연준 위원들의 매파적 성향(18명 중 9명이 추가 금리 인상 투표)이 강해지며 나스닥 선물이 요동침. 헤드라인 PCE 4.1% 및 근원 PCE 3.4% 상승 전망으로 고금리 장기화 우려가 크나, 다행히 지정학 리스크 완화로 <span class=\"text-amber-300 font-bold\">WTI 유가가 69달러대</span>로 하향 안정화되어 5월 물가가 정점을 찍고 하향할 것이라는 안도감이 교차함.",
+    "key_claims": [
+      "연준의 물가 목표치(2.0%) 대비 5월 PCE(3.4%)는 여전히 높아 연내 조기 금리 인하는 물 건너갔다는 평가임.",
+      "원자재 및 칩플레이션의 여파가 서비스 물가로 번져 3분기까지는 인플레 정점 부근 횡보가 불가피함."
+    ],
+    "data_points": [
+      "예상 5월 헤드라인 PCE 물가 상승률: 전년 대비 4.1% (전월비 0.48% 상승 전망)",
+      "예상 5월 근원 PCE 물가 상승률: 전년 대비 3.4% (전월비 0.35% 상승 전망)",
+      "국제 유가 지표: WTI 기준 배럴당 69달러선으로 급락 안착 (전쟁 리스크 완화 반영)"
+    ],
+    "signal": "neutral",
+    "signal_confidence": "high",
+    "signal_reason": "근원 물가의 상방 압력과 연준의 긴축 기조는 시장에 하방 압력을 주지만, 유가 하락 안정과 GDP 견조 지표가 시장의 급격한 무너짐을 방어하며 매크로 줄다리기가 팽팽하기 때문임.",
+    "key_companies": [
+      "마이크론",
+      "골드만삭스"
+    ],
+    "insight": "원자재발 인플레 충격은 유가 급락으로 임시 소강상태이나, 메모리 칩과 데이터센터 인프라 장비 가격 상승이 이끄는 치플레이션이 새로운 근원 물가 끈적임(Stickiness) 요인으로 지적되고 있음.",
+    "action_point": "연준의 금리 가이드가 완전히 확인될 때까지 고금리 조달 비용 영향이 큰 부채 과다 기업은 피하고, 유가 하락의 수혜를 보는 <span class=\"text-cyan-300 font-semibold\">항공 및 경기 소비재</span> 대장주와 밸류에이션이 저평가된 IT 대형주 중심 구성을 유지할 것."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "5월PCE",
+      "연준매파전환",
+      "유가하락완화",
+      "인플레이션지표",
+      "김현석"
+    ]
+  }
+}

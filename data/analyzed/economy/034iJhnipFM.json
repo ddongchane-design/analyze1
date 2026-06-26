@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "034iJhnipFM",
+    "title": "반도체 돈이 부동산으로? 하반기 부동산 전망_26.06.26. | 정보현, 김지연, 여도은, 허재무 [아침N투자]",
+    "published": "2026-06-26T03:07:20+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=034iJhnipFM",
+    "thumbnail": "https://img.youtube.com/vi/034iJhnipFM/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "정부는 <span class=\"text-cyan-300 font-semibold\">반도체</span>에서 이룬 경제적 부와 과실이 부동산으로 흘러가는 <span class=\"text-amber-300 font-bold\">머니 무브</span>를 막기 위해 세제 개편 해법을 추진하고 있음. 한편, 서울 및 수도권의 실거주 의무로 인해 전세 매물이 극히 희소해지며 <span class=\"text-rose-400 font-medium\">전세 가격 급등세</span>(도봉구 7년만 최대 상승, 동탄 11% 상승)가 지속되고 있어 하반기에는 자금 조달 여건을 감안한 보수적 관망이 유효함.",
+    "key_claims": [
+      "정부는 반도체 호황의 부가 부동산으로 쏠리지 않도록 <span class=\"text-amber-300 font-bold\">머니 무브 차단</span> 세제를 검토 중임.",
+      "2년 실거주 규제로 인해 대단지 아파트의 전세 매물 씨가 마르고 임차료가 오르는 <span class=\"text-rose-400 font-medium\">전세난 부작용</span>이 심화됨.",
+      "하반기 대출 규제와 금리 상황에 맞춰 매수보다는 전월세 주거비 비교를 통한 보수적 관망을 권장함."
+    ],
+    "data_points": [
+      "도봉구 주간 아파트값 상승률: 0.4% 기록 (2018년 이후 7년 만의 최대 상승폭)",
+      "동탄 지역 아파트 평균 상승률: 올해 기준 11% 이상 기록",
+      "강북구 미아동 대단지 전세 매물: 약 6,000세대 단지 중 전세 매물 10개 미만 수준"
+    ],
+    "signal": "neutral",
+    "signal_confidence": "high",
+    "signal_reason": "세제 및 대출 규제로 매수 수요는 위축되고 있으나, 실거주 의무로 인한 전세가 상승 압박이 팽팽히 맞서 하반기 부동산 시장의 급격한 방향성 배팅은 유보할 필요가 있기 때문임.",
+    "key_companies": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "insight": "다주택자 규제 정책이 똘똘한 한 채 선호를 키워 한강벨트 집중을 자극한 것처럼, 무주택자 우대 정책의 실거주 요건이 오히려 대단지 전세 매물을 잠가 임차료를 밀어 올리는 규제의 역설을 낳고 있음.",
+    "action_point": "하반기 정부의 세제 및 주택 대출 규제 강도를 확인하기 전까지는 무리한 레버리지 매수를 자제하고, 주거 비용 부담과 대출 이자를 비교 검토하며 <span class=\"text-amber-300 font-bold\">관망세 유지</span>를 제안함."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "부동산전망",
+      "머니무브",
+      "세제개편",
+      "전세매물부족",
+      "닭공"
+    ]
+  }
+}

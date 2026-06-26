@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "6uKk8bK_tYI",
+    "title": "우주에서 만든 물건, 이제 대량 회수까지 노린다",
+    "published": "2026-06-26T02:00:17+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=6uKk8bK_tYI",
+    "thumbnail": "https://img.youtube.com/vi/6uKk8bK_tYI/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>는 우주 무중력 환경에서 제조한 고부가가치 물질을 지구로 대량 회수하기 위한 무인 캡슐 <span class=\"text-cyan-300 font-semibold\">스타폴(Starfall)</span>을 도입함. 지름 3.1m, 무게 2.1톤에 최대 1톤의 화물을 실어올 수 있어, 기존 바르다(Varda) 등 틈새 경쟁사 대비 30배 이상의 용량을 자랑하며 <span class=\"text-amber-300 font-bold\">우주 배송 단가</span>를 획기적으로 낮출 예정임.",
+    "key_claims": [
+      "스타폴 캡슐은 1톤에 달하는 화물을 회수하여 기존 캡슐의 한계(수십kg)를 비약적으로 돌파함.",
+      "발사부터 제조, 지구 회수까지 밸류체인을 수직 계열화하여 <span class=\"text-amber-300 font-bold\">우주 물류 독점</span>을 강화함."
+    ],
+    "data_points": [
+      "스타폴 캡슐 규격: 지름 약 3.1m, 높이 0.75m, 무게 2.1톤",
+      "스타폴 최대 회수 화물 중량: 1.0톤 수준 (바르다 캡슐 대비 약 30배 이상 용량)"
+    ],
+    "signal": "bullish",
+    "signal_confidence": "high",
+    "signal_reason": "우주 제조(바이오, 신소재 등)의 최대 병목이었던 지구 회수 비용을 30분의 1 수준으로 절감할 수 있는 인프라가 실체화되어 우주 상업화 매출을 빠르게 견인할 것이기 때문임.",
+    "key_companies": [
+      "스페이스X",
+      "Varda Space Industries"
+    ],
+    "insight": "스페이스X의 진짜 무서움은 로켓 발사 비용 절감에 그치지 않고, 우주 내 공장에서 만든 의약품 및 정밀 부품을 대량으로 회수하는 '우주 물류 배송망' 독점력까지 일체화하고 있다는 점에 있음.",
+    "action_point": "우주 제조 단가 하락의 수혜를 직접 입는 정밀 신소재 및 제약/바이오 위성 제조 파트너십 기업의 움직임에 장기적 관점으로 관심을 가질 필요가 있음."
+  },
+  "classification": {
+    "primary_topic": "space",
+    "secondary_topics": [
+      "tech",
+      "stock"
+    ],
+    "tags": [
+      "우주제조",
+      "회수캡슐",
+      "스타폴",
+      "스타링크",
+      "바르다"
+    ]
+  }
+}

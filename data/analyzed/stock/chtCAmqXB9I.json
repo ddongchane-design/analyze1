@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "chtCAmqXB9I",
+    "title": "반도체는 강세지만 방심 금물…진짜 변수는? | 목대균 KGCI 자산운용 대표 [더블 업]",
+    "published": "2026-06-26T02:18:12+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=chtCAmqXB9I",
+    "thumbnail": "https://img.youtube.com/vi/chtCAmqXB9I/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "국내 증시의 17년 만의 급락과 급등 반복은 신용 융자 잔고의 사상 최고치(38조원)에 기인한 개인들의 <span class=\"text-rose-400 font-medium\">B2T 반대매매 리스크</span>와, 하락 시 매도 물량을 강제 증폭시키는 고배율 레버리지 ETF의 롤오버/추종 왜곡 수급 때문임. 펀더멘탈은 견조하나 금융 시장이 연준 및 주요국의 금리 인상 장기화를 프라이싱하고 있어 철저한 현금 비중 및 리스크 제어가 필요함.",
+    "key_claims": [
+      "개인 투자자들의 단기 레버리지(비투) 잔고가 과다하여, 지수 조정 시 투매를 부르는 <span class=\"text-rose-400 font-medium\">반대매매 뇌관</span>이 됨.",
+      "레버리지 ETF(35조 규모)의 일일 배율 추종 리밸런싱이 지수 하락 폭을 강제로 키우는 피드백 루프를 작동시킴."
+    ],
+    "data_points": [
+      "국내 신용 융자 잔고 규모: 사상 최고치인 약 38조 원 돌파",
+      "레버리지 ETF 순자산 규모: 약 35조 원 수준 (하락 시 기계적 선물/현물 투매 매도 자극)"
+    ],
+    "signal": "neutral",
+    "signal_confidence": "high",
+    "signal_reason": "반도체와 IT 기업들의 2028년까지의 실적 펀더멘탈은 견고하나, 국내 증시 내 신용 반대매매 대기 물량과 매크로 금리 상방 압력에 따른 파생 수급 왜곡 위험이 상단을 제약하고 있기 때문임.",
+    "key_companies": [
+      "삼성전자",
+      "SK하이닉스",
+      "삼성전기"
+    ],
+    "insight": "지수가 하루에 3~4%씩 등락하는 것은 펀더멘탈의 훼손이 아닌, 단기 레버리지 자금의 청산 스퀴즈와 이를 맞추기 위한 운용사들의 파생 상품 기계적 거래가 빚어낸 인위적 왜곡 현상임.",
+    "action_point": "신용 및 고배율 레버리지 추격 매수는 절대 피하고, 오히려 수급성 급락 시점에 펀더멘탈이 확실하고 대기업 수주가 보장된 <span class=\"text-cyan-300 font-semibold\">반도체 기판 및 소부장 대장주</span>를 차분히 모아갈 것."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "신용잔고사상최대",
+      "B2T반대매매",
+      "레버리지ETF",
+      "금리인상프라이싱",
+      "목대균"
+    ]
+  }
+}

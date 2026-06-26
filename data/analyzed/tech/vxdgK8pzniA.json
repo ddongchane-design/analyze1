@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "vxdgK8pzniA",
+    "title": "\"엔비디아·애플도 꼼짝 못해\" 세상에서 가장 강한 '을' TSMC | 매일뉴욕 스페셜 | 홍성용 특파원",
+    "published": "2026-06-26T03:00:10+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=vxdgK8pzniA",
+    "thumbnail": "https://img.youtube.com/vi/vxdgK8pzniA/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">TSMC</span>는 세계 유일의 미세공정(3nm/2nm) 기술력과 첨단 CoWoS 패키징 독점력을 무기로, 발주처인 애플과 엔비디아가 고개를 숙이고 생산 물량을 구걸하는 '가장 강력한 을'의 지위를 유지함. 대만 지정학적 리스크로 인한 밸류에이션 할인이 존재하나, 5월 매출 30% 성장이 보여주듯 AI 인프라 수요의 절대적 리트머스 시험지 역할을 하고 있음.",
+    "key_claims": [
+      "모리스 창의 '설계하지 않고 제조만 전담한다'는 비즈니스 혁신이 40년 반도체 권력을 파운드리 독점으로 가져옴.",
+      "엔비디아 칩 공급의 진짜 병목인 CoWoS 패키징을 사실상 독점하여 빅테크의 단가 인상 수용을 강제함.",
+      "삼성전자의 파운드리 추격 실패(점유율 7.2%로 하락)로 인해 TSMC의 첨단 공정 지배력이 더 공고해짐."
+    ],
+    "data_points": [
+      "TSMC 2026년 5월 매출 성장률: 전년 대비 30% 급증 (누적으로도 30%대 강력 성장 증명)",
+      "삼성전자 파운드리 시장 점유율 추이: 2024년 초 13% 수준에서 최근 7.2% 수준까지 하락 조정",
+      "TSMC 첨단 파운드리 시장 점유율: 약 70% 독점 체제 유지"
+    ],
+    "signal": "bullish",
+    "signal_confidence": "high",
+    "signal_reason": "전 세계 빅테크들의 독점적 수주와 CoWoS 캐파 연평균 80% 증설 계획이 실제 확인되고 있으며, 파운드리 단가 인상(애플/엔비디아가 수용함)으로 영업이익률 마진 방어가 확실하기 때문임.",
+    "key_companies": [
+      "TSMC",
+      "NVIDIA",
+      "삼성전자",
+      "인텔"
+    ],
+    "insight": "아무리 뛰어난 AI 설계도가 있어도 TSMC가 찍어주지 않으면 고철에 불과함. 대만 해협의 지정학적 리스크가 밸류에이션의 상단을 막고 있으나, 실질 펀더멘탈은 AI 시대의 최고 수혜를 온전히 받고 있음.",
+    "action_point": "대만 디스카운트 조정을 틈타 <span class=\"text-cyan-300 font-semibold\">TSMC</span> ADR을 분할 매수하고, 이와 연동된 국내 후공정 OSAT 파트너십 소부장 기업들의 동반 성장을 장기적으로 향유할 것."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "TSMC",
+      "을의반란",
+      "CoWoS패키징",
+      "대만디스카운트",
+      "모리스창"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "xui5zZ2FWEM",
+    "title": "다음 '텐배거'도 삼전닉스에 있다? 반도체의 진짜 아킬레스건ㅣ여도은, 민재기 KB증권 PRIME CLUB 팀장 [여의도 인사이트]",
+    "published": "2026-06-25T11:30:14+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=xui5zZ2FWEM",
+    "thumbnail": "https://img.youtube.com/vi/xui5zZ2FWEM/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "HBM3e 및 차세대 HBM4 시장의 지배권을 쥔 삼성전자와 SK하이닉스의 진짜 아킬레스건은 첨단 패키징(Advanced Packaging)과 특수 웨이퍼 가공 병목에 있음. 이 병목(아킬레스건)을 해결할 수 있는 독보적 기술력을 갖춘 국내 <span class=\"text-cyan-300 font-semibold\">반도체 소부장(소재·부품·장비)</span> 강소기업들이 향후 시장을 주도하며 10배 수익률(텐배거)을 줄 핵심 타깃이 될 것임.",
+    "key_claims": [
+      "HBM의 성능 한계는 단순 칩 미세화가 아닌, 칩을 수직으로 쌓고 열을 방출하는 패키징 공정에서 결정됨.",
+      "TSMC와 공동 개발하는 HBM4 베이스 다이 공정에서 국내 장비사들의 식각/접합 정밀 장비 탑재율이 급증할 것임."
+    ],
+    "data_points": [],
+    "signal": "bullish",
+    "signal_confidence": "high",
+    "signal_reason": "HBM4 규격 표준이 베이스 다이 파운드리 협력으로 확정됨에 따라, 초정밀 적층/테스트 장비를 납품하는 국내 후공정 핵심 소부장 기업들의 가이던스가 급격히 상향 조정되고 있기 때문임.",
+    "key_companies": [
+      "삼성전자",
+      "SK하이닉스",
+      "한미반도체",
+      "HPSP"
+    ],
+    "insight": "엔비디아가 GPU를 늘려도 패키징 병목이 막히면 무용지물인 것처럼, 삼전닉스의 HBM 양산성 역시 후공정 소부장의 기술 지원 없이는 불가능함. 진짜 알짜 수익은 이 독점적 장비사들이 챙기게 됨.",
+    "action_point": "이미 주가가 선반영된 대형 메모리사 외에, HBM 적층 두께 제한 및 정밀 리플로우 장비를 독점 납품하는 <span class=\"text-cyan-300 font-semibold\">후공정 기술 소부장 1등 기업</span>을 선별해 장기 포트폴리오에 편입할 것."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "삼전닉스",
+      "반도체아킬레스건",
+      "패키징병목",
+      "텐배거소부장",
+      "HBM4"
+    ]
+  }
+}

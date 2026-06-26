@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "UNhh4SxifwI",
+    "title": "은행 외환 결제를 둘러싼 리플과 체인링크의 경쟁, 한국과 유럽을 첫 무대로 택한 이유 | 서동주, 김동환, 최윤영 한화투자증권 팀장 [크립토 PLUS]",
+    "published": "2026-06-26T04:49:27+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=UNhh4SxifwI",
+    "thumbnail": "https://img.youtube.com/vi/UNhh4SxifwI/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "전통 은행권의 외환 결제 인프라(Swift)를 분산원장 기술로 선점하기 위한 리플(XRP)과 체인링크(LINK)의 파트너십 경쟁이 한국과 유럽을 첫 타깃으로 본격화됨. 비트코인 옵션 시장 내 하방 압력(5만 달러 지지선 테스트) 콜이 증가하는 경계 장세 속에서, 실물자산 토큰화(RWA) 및 메타의 포인트 기반 예측 시장 '아레나(Arena)' 진출 등 규제 준수형 플랫폼의 등장이 가시화되고 있음.",
+    "key_claims": [
+      "리플은 대기업 간 외환 정산에, 체인링크는 Swift 망의 상호운용성 표준(CCIP)에 특화되어 금융망 이식 경쟁을 벌임.",
+      "크립토 하우스들의 단기 하방(50k~45k달러선) 전망이 출현한 것은 시장 참여자들의 과도한 포모(FOMO) 청산 단계임을 시사함."
+    ],
+    "data_points": [
+      "비트코인 단기 기술적 데드라인: 심리적 및 기술적 바닥선 50,000달러선 지지 여부 부각"
+    ],
+    "signal": "neutral",
+    "signal_confidence": "high",
+    "signal_reason": "제도권 금융(RWA, 은행 정산 인프라)으로의 크립토 침투는 장기 호재이나, 단기적으로 비트코인 현물 ETF 자금 유출과 선물 청산 물량 압박으로 가격 하향 조정기가 진행되고 있기 때문임.",
+    "key_companies": [
+      "Ripple",
+      "Chainlink",
+      "메타(META)"
+    ],
+    "insight": "크립토 시장의 하방 뷰가 공식적으로 등장한 것은 오히려 악재 소멸의 신호로 해석할 여지가 있음. 리플과 체인링크는 단순 밈 코인이 아니라 전통 Swift 망을 대체하는 금융 유틸리티 자산으로 진화하고 있음.",
+    "action_point": "비트코인 5만 달러 테스트 가능성을 열어두고 단기 고배율 베팅은 절대 자제하며, 실체적인 <span class=\"text-cyan-300 font-semibold\">RWA(실물자산 토큰화) 기술 표준</span>을 장악하는 핵심 프로토콜 위주로 장기 분할 매수할 것."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "외환결제망",
+      "리플",
+      "체인링크",
+      "RWA시장",
+      "비트코인하방"
+    ]
+  }
+}

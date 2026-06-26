@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "viaxyqnWU80",
+    "title": "도시 전체 머스크 맘대로 텍사스에 왕국 세웠다 (언더스탠딩 김상훈 기자)",
+    "published": "2026-06-25T07:55:10+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=viaxyqnWU80",
+    "thumbnail": "https://img.youtube.com/vi/viaxyqnWU80/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>는 100톤 이상의 적재 중량을 가진 '스타십(Starship)' 12차 발사 성공과 나스닥 상장을 계기로, 텍사스 보카치카에 직접 행정/사법/입법권을 행사하는 자치시 <span class=\"text-cyan-300 font-semibold\">스타베이스(Starbase)</span>를 구축함. 이는 미래 화성 이주 및 우주 데이터센터 자산 운영을 위한 머스크의 독자적 기업 제국 실험실로 활용되고 있음.",
+    "key_claims": [
+      "스페이스X는 4배 청약이 몰려 시총 1.8조 달러로 나스닥에 등극한 후, 주정부 승인을 받아 독자 자치시를 통제함.",
+      "스타베이스는 머스크가 화성 헌법 및 직접 민주주의, 우주 연산 노드 시스템을 사전 테스트하는 핵심 테스트베드임."
+    ],
+    "data_points": [
+      "스타십 추진체 적재 중량: 100톤 이상 수송 가능 (한국 누리오 2.2톤 대비 압도적 격차)",
+      "스페이스X 김상훈 기자 매입 평단가: 주당 175달러 수준 (단기 고점 조정 구간)"
+    ],
+    "signal": "bullish",
+    "signal_confidence": "high",
+    "signal_reason": "초대형 스타십의 성능 검증 완료와 독자 자치시 통제를 통한 법적/제도적 제약 우회는, 우주 발사 단가를 독점적으로 낮추고 xAI 데이터센터와의 물리적 결합 가치를 증대시키기 때문임.",
+    "key_companies": [
+      "스페이스X",
+      "테슬라"
+    ],
+    "insight": "스페이스X의 스타베이스 구축은 단순 근로자 숙소를 넘어, 국가 권력의 간섭을 피해 우주 데이터센터와 피지컬 플랫폼을 연계하려는 일론 머스크의 장기 자치 왕국 건설 프로젝트임.",
+    "action_point": "스타십 성공으로 저궤도 인프라 선점이 가속화되는 흐름이므로, 지분 가치 수혜를 직접 입는 지주사 <span class=\"text-cyan-300 font-semibold\">SK스퀘어</span> 및 글로벌 우주 발사체 관련 국내 강소 장비사에 선제 진입할 것."
+  },
+  "classification": {
+    "primary_topic": "space",
+    "secondary_topics": [
+      "etc",
+      "tech"
+    ],
+    "tags": [
+      "스타베이스",
+      "기업자치시",
+      "일론머스크",
+      "스타십발사",
+      "우주데이터센터"
+    ]
+  }
+}

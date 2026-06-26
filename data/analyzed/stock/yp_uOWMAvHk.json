@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "yp_uOWMAvHk",
+    "title": "7월, 삼성전자 실적이 시장을 살릴까?_26.06.26. | 이혁진, 여도은, 허재무 [아침N투자]",
+    "published": "2026-06-26T02:30:45+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=yp_uOWMAvHk",
+    "thumbnail": "https://img.youtube.com/vi/yp_uOWMAvHk/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "7월 초 발표 예정인 <span class=\"text-cyan-300 font-semibold\">삼성전자</span> 2분기 잠정 실적이 최근 극단적 변동성으로 얼어붙은 국내 코스피 시장의 강력한 반등 기폭제가 될 것으로 전망됨. 마이크론 실적으로 검증된 메모리 단가 폭등 수혜가 삼성전자 영업이익(컨센서스 상향)에 반영되고, 엔비디아향 HBM3e 12단 퀄테스트 승인 여부가 핵심 주가 모멘텀이 될 것임.",
+    "key_claims": [
+      "레거시 DRAM 가격 상승으로 삼성전자의 2분기 영업이익이 시장 컨센서스를 대폭 상회할 가능성이 유력함.",
+      "엔비디아 HBM3e 공식 승인 공시 발표 시, 그간 쌓여 있던 국내 반도체 밸류체인의 수급 정체가 단숨에 해소될 수 있음."
+    ],
+    "data_points": [
+      "삼성전자 2분기 영업이익 예상 컨센서스: 최근 기조 반영 시 약 8조 원 후반대에서 최대 10조 원 돌파 가능성 제시"
+    ],
+    "signal": "bullish",
+    "signal_confidence": "high",
+    "signal_reason": "하반기 메모리/HBM 쇼티지는 상수이며, 삼성전자의 퀄테스트 완료가 가시화되면 밸류에이션 매력(PER 10배 미만)이 부각되어 글로벌 패시브 자금의 강력한 유입이 확실시되기 때문임.",
+    "key_companies": [
+      "삼성전자",
+      "SK하이닉스",
+      "NVIDIA"
+    ],
+    "insight": "SK하이닉스가 300만 원(ADR 기준 상향)을 돌파하며 오버러닝할 때 삼성전자는 퀄테스트 지연 우려로 철저히 억눌려 있었음. 2분기 잠정 실적 숫자가 이 우려를 깨뜨리는 순간, 지수 전체의 리레이팅이 동반될 것임.",
+    "action_point": "7월 초 실적 발표 전까지의 단기 변동성 눌림목을 활용해 <span class=\"text-cyan-300 font-semibold\">삼성전자</span> 비중을 적극적으로 확대하고, 관련 전공정/후공정 핵심 소부장 체인의 비중을 완성해 둘 것."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "삼성전자실적",
+      "2분기잠정실적",
+      "영업이익컨센서스",
+      "HBM3e승인",
+      "반등기폭제"
+    ]
+  }
+}

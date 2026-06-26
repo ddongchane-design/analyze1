@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "cKTMhFXeIWk",
+    "title": "애플 너마저…\"반도체엔 아무도 NO 못해\" | 뒤집힌 갑을관계, AI 시대 빅테크 재평가 | 빈난새의 빈틈없이월가",
+    "published": "2026-06-26T01:00:22+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=cKTMhFXeIWk",
+    "thumbnail": "https://img.youtube.com/vi/cKTMhFXeIWk/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "스타 운용역 제임스 앤더슨은 빅테크 기업들의 무제한적인 AI CapEx 투자가 자신들의 <span class=\"text-rose-400 font-medium\">풍부한 현금 흐름 해자</span>를 갉아먹고 있다고 진단함. 반면 이 막대한 투자를 온전히 수주로 챙기는 엔비디아와 메모리 반도체(디램 ETF 3달 만에 176% 폭등) 기업들은 빅테크를 상대로 절대적 '갑'의 지위를 확보하며 구조적 재평가를 누리고 있음.",
+    "key_claims": [
+      "빅테크 플랫폼의 고평가를 지탱하던 '낮은 설비투자, 풍부한 현금' 법칙이 AI 인프라 투자 부담으로 깨짐.",
+      "인프라의 필수 병목 자산이 된 메모리 반도체(삼성, 하이닉스)에 대한 시장의 멀티플 재평가(12~15배)가 진행 중임."
+    ],
+    "data_points": [
+      "디램 특화 반도체 ETF 수익률: 4월 출시 이후 약 3달 만에 176% 상승 기록",
+      "맥세븐(M7) 빅테크 전용 ETF 성과: 동기간 대비 약 12% 수준의 상대적 부진 기록"
+    ],
+    "signal": "bullish",
+    "signal_confidence": "high",
+    "signal_reason": "빅테크의 천문학적인 CapEx 비용 지출이 고스란히 엔비디아와 메모리 반도체 소부장의 확정 매출로 전이되고 있으며, 메모리가 단순 범용재에서 AI 필수 인프라 자산으로 격상되었기 때문임.",
+    "key_companies": [
+      "NVIDIA",
+      "SK하이닉스",
+      "삼성전자",
+      "테슬라"
+    ],
+    "insight": "아무리 강력한 빅테크라도 칩과 고대역폭 메모리가 없으면 AI 서비스를 개시할 수 없음. 이로 인해 IT 생태계의 패권이 소프트웨어에서 하드웨어 실물 독점 기업으로 완전히 이전되고 있음.",
+    "action_point": "고금리 환경에서 대규모 자본 지출 부담을 가진 소프트웨어 빅테크 비중을 일부 조절하고, 이 투자의 낙수를 100% 흡수하는 <span class=\"text-cyan-300 font-semibold\">메모리 반도체 및 광 연결(Optical) 부품 기술사</span>에 집중 배정할 것."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock",
+      "economy"
+    ],
+    "tags": [
+      "제임스앤더슨",
+      "베일리포드",
+      "빅테크CapEx",
+      "디램ETF",
+      "갑을관계역전"
+    ]
+  }
+}

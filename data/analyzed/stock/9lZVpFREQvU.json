@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "9lZVpFREQvU",
+    "title": "반도체 독주가 계속될수록 더 조심해야 하는 이유 | 박병창 MP파트너스 대표 [마켓 인사이드]",
+    "published": "2026-06-26T00:32:51+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=9lZVpFREQvU",
+    "thumbnail": "https://img.youtube.com/vi/9lZVpFREQvU/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">마이크론</span> 실적 호조 및 목표주가 2,000달러 제시로 반도체 쏠림이 가중되는 한편, 국내 증시는 <span class=\"text-rose-400 font-medium\">국민연금의 기계적 리밸런싱 매도</span>(반도체 대장주 매도, 지주사 매수)와 ETF 괴리율 보정을 위한 장 마감 직전 기계적 매매로 인해 극심한 종가 변동성 리스크가 노출되고 있어 방심은 금물임.",
+    "key_claims": [
+      "반도체 펀더멘탈은 장기 성장 중이나, 지수 급등에 따른 연기금의 비중 한도 조절(기계적 매도)이 상단을 제한함.",
+      "ETF 운용사의 일일 배율 추종을 위한 종가 직전 수급 집중(괴리율 매매)이 시장의 일중 변동성을 인위적으로 증폭시킴."
+    ],
+    "data_points": [
+      "마이크론 최고 목표주가 제시 레벨: 주당 2,000달러 돌파 (기존 컨센서스 상회)",
+      "연기금 국내 주식 보유 목표 한도: 6월 기준 약 31% 수준 유지에 따른 초과분 매도 발생"
+    ],
+    "signal": "neutral",
+    "signal_confidence": "high",
+    "signal_reason": "메모리 반도체의 실적 개선 모멘텀은 무적에 가까우나, 연기금의 포트폴리오 한도 관리용 대량 매도 및 파생 상품 발 종가 왜곡 수급이 단기 상승 탄력을 억누르고 있기 때문임.",
+    "key_companies": [
+      "삼성전자",
+      "SK하이닉스",
+      "마이크론",
+      "현대차"
+    ],
+    "insight": "반도체 이익 전망이 급증해도 패시브 펀드 및 대형 연기금은 자산 배분 룰에 갇혀 기계적으로 매도 포지션을 취함. 이로 인해 생기는 주가 이격은 펀더멘탈 훼손이 아닌 순수 수급성 기회 요인임.",
+    "action_point": "연기금 리밸런싱 및 ETF 장 막판 수급 노이즈로 주가가 과도하게 밀리는 시점을 우량 반도체와 핵심 부품사의 장기 매집 기회로 활용할 것을 권장함."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "반도체독주",
+      "국민연금리밸런싱",
+      "ETF괴리율",
+      "수급변동성",
+      "마이크론"
+    ]
+  }
+}
