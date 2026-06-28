@@ -1,0 +1,48 @@
+{
+  "video": {
+    "id": "tgAKdQ87jaQ",
+    "title": "왜 갑자기 70세이상 버스 공짜? 노림수는 지하철 공짜 70세로 올리려는 겁니다(백종훈 기자)",
+    "published": "2026-06-26T12:25:02+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=tgAKdQ87jaQ",
+    "thumbnail": "https://img.youtube.com/vi/tgAKdQ87jaQ/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "서울시가 만 70세 이상에게 월 14회 버스 무임승차를 지원하는 조례를 통과시켰으며, 이는 궁극적으로 <span class=\"text-cyan-300 font-semibold\">지하철 무임승차 연령</span>을 만 65세에서 70세로 올리기 위한 패키지 딜입니다.\n지하철 무임 연령 상향으로 얻는 추가 운임 수입(연간 약 600억 원)을 통해 <span class=\"text-rose-400 font-medium\">버스 무임 지원 비용</span>(연간 약 520억 원)을 보전하고 시 재정을 남기겠다는 구조를 취하고 있습니다.\n하지만 <span class=\"text-amber-300 font-bold\">인구 고령화 속도</span>에 따라 장기적으로는 재정 부담이 다시 가중될 위험이 있으며, 이해관계자 설득을 위해 혜택을 바꾸어 주는 나쁜 선례를 만들었다는 우려도 제기됩니다.",
+    "key_claims": [
+      "노인 무임승차 연령의 절대적 기준인 65세를 깨고 실질적인 <span class=\"text-cyan-300 font-semibold\">노인 기준 연령을 70세로 상향</span>하는 신호탄이다.",
+      "지하철 적자 보전을 위해 65~69세 무임승차를 유료화하되, 노인회의 반발을 무마하기 위해 버스 무료 카드를 제시하는 <span class=\"text-amber-300 font-bold\">주고받기식 정책(패키지 딜)</span>을 펼쳤다.",
+      "장기적으로 <span class=\"text-amber-300 font-bold\">고령 인구 급증</span>으로 인해 버스 무임 비용은 계속 늘고 지하철 유료화로 인한 추가 수입은 줄어들어 재정 적자가 심화될 수 있다."
+    ],
+    "data_points": [
+      "서울시 버스 준공영제 보전금은 2023년 기준 약 8,900억 원(2024년은 4,000억 원대 수준으로 축소 전망).",
+      "만 70세 이상 버스 월 14회 무료화 시 연간 소요 예산은 약 520억 원(연간 290만 회 이용 추산).",
+      "서울교통공사의 65세 이상 무임 손실액은 연간 약 3,800억 원이며, 이 중 65~69세 비중은 약 27%(카드 가치 기준 1,026억 원 상당).",
+      "65~69세 무임승차를 유료로 전환 시, 실제 유료 이용 전환율을 60%로 가정하면 연간 약 600억 원의 신규 수입 발생 추산.",
+      "현재 서울시의 70세 이상 인구는 약 127만 명."
+    ],
+    "signal": "neutral",
+    "signal_confidence": "medium",
+    "signal_reason": "대중교통 요금 체계 개편과 <span class=\"text-rose-400 font-medium\">지자체 재정 부담</span> 완화 시도는 긍정적이나, 급격한 <span class=\"text-amber-300 font-bold\">인구 고령화</span>로 인해 중장기 재정 효과는 불확실합니다.",
+    "key_companies": [
+      "서울교통공사"
+    ],
+    "insight": "고령화 사회 진입에 따라 <span class=\"text-amber-300 font-bold\">복지 혜택의 연령 기준 상향</span> 논의가 불가피함을 보여주며, 복지 축소를 위해 다른 복지 혜택을 얹어주는 방식의 <span class=\"text-rose-400 font-medium\">이해관계적 합의 방식</span>은 향후 연금 및 타 복지 개혁에서도 유사하게 적용될 가능성이 큽니다.",
+    "action_point": "고령화 대응을 위해 국가 및 지자체가 지출을 통제하고 정년을 연장하는 흐름은 불가피하므로, 실버 케어 산업이나 관련 내수 시장보다는 공공 재정의 압박을 줄이는 <span class=\"text-cyan-300 font-semibold\">정부 중심의 인프라 효율화 및 자동화 기술 기업</span>에 주목하는 것이 장기적으로 유리합니다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock",
+      "etc"
+    ],
+    "tags": [
+      "노인무임승차",
+      "서울시",
+      "지하철적자",
+      "대중교통",
+      "고령화사회",
+      "재정적자"
+    ]
+  }
+}

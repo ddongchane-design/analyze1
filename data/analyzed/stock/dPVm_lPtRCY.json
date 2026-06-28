@@ -1,0 +1,59 @@
+{
+  "video": {
+    "id": "dPVm_lPtRCY",
+    "title": "2,000만원 가진 초보 투자자라면, S&P500 투자 '이렇게' 하시면 끝입니다",
+    "published": "2026-06-27T00:00:26+00:00",
+    "channel_name": "이효석아카데미",
+    "url": "https://www.youtube.com/watch?v=dPVm_lPtRCY",
+    "thumbnail": "https://img.youtube.com/vi/dPVm_lPtRCY/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "2천만 원 이하의 소액 초보 투자자를 대상으로 자산 재생 기능이 있는 <span class=\"text-cyan-300 font-semibold\">S&P 500 지수</span> 투자 전략을 알기 쉽게 정리함.\n연 2천만 원 납입 한도 내에서 손익 통산과 배당 소득세 인하(9.9%) 혜택을 주는 비과세 <span class=\"text-amber-300 font-bold\">ISA 계좌 활용</span>이 필수적임을 강조함.\n국내 상장 S&P 500 ETF(Kodex, Tiger, Ace, Rise 등) 간의 수수료 차이는 미미하므로, 이미 보유 중이라면 유지하고 신규라면 <span class=\"text-cyan-300 font-semibold\">자산규모(AUM)나 수수료율</span>을 고려해 선택할 것을 제안함.",
+    "key_claims": [
+      "S&P 500은 시어즈가 빠지고 아마존이 들어오듯 스스로 재생하는 구조를 가져 <span class=\"text-amber-300 font-bold\">장기 우상향 믿음</span>을 주는 지수이다.",
+      "여유 자금이고 1~2년 내 출금할 돈이 아니며 단기 변동성을 견딜 수 있는 투자자만 <span class=\"text-amber-300 font-bold\">거치식(일시불) 투자</span>를 선택해야 한다.",
+      "정부가 세제 혜택을 제공하는 <span class=\"text-cyan-300 font-semibold\">ISA 계좌</span>를 사용하지 않고 일반 계좌로 투자하는 것은 불필요한 세금을 지불하는 손해다."
+    ],
+    "data_points": [
+      "투자 금액 예시: 20,000,000 KRW",
+      "ISA 계좌 연간 납입 한도: 20,000,000 KRW",
+      "ISA 일반형 비과세 한도: 2,000,000 KRW",
+      "ISA 비과세 초과분 배당 소득세율: 9.9% (일반 배당 소득세율 15.4% 대비 인하)",
+      "국내 ETF 실비용 비교: 코덱스 0.10%, 타이거 0.096%, 에이스 0.0935%, 라이즈 0.093%",
+      "타이거 S&P 500 ETF 순자산총액(AUM): 약 20조 원",
+      "코덱스 S&P 500 ETF 순자산총액(AUM): 약 9.9조 원",
+      "에이스 S&P 500 ETF 순자산총액(AUM): 약 4조 원"
+    ],
+    "signal": "bullish",
+    "signal_confidence": "high",
+    "signal_reason": "미국 시장의 구조적 성장과 지수 자체의 재생 메커니즘을 기반으로 한 <span class=\"text-cyan-300 font-semibold\">S&P 500 장기 적립식 투자</span>는 매우 높은 신뢰도를 지님.",
+    "key_companies": [
+      "Amazon(AMZN)",
+      "Sears",
+      "Netflix(NFLX)",
+      "Google(GOOGL)",
+      "NVIDIA(NVDA)",
+      "Samsung Asset Management",
+      "Mirae Asset Global Investments",
+      "Korea Investment Value Asset Management",
+      "KB Asset Management",
+      "SPLG"
+    ],
+    "insight": "세제 혜택 계좌(ISA)의 최적 활용과 극도의 수수료 통제(실비용 비교)가 장기 복리 효과를 극대화하는 <span class=\"text-amber-300 font-bold\">재테크의 기본 공식</span>임을 보여줌.",
+    "action_point": "연 2천만 원 한도의 <span class=\"text-cyan-300 font-semibold\">ISA 계좌를 개설</span>하여 국내 상장 S&P 500 ETF에 적립식으로 투자하고, 연금저축이나 미국 직접 투자 시에는 <span class=\"text-cyan-300 font-semibold\">SPLG</span> 같은 초저비용 ETF를 활용해 비용을 최소화해야 함."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "S&P500",
+      "ISA계좌",
+      "ETF수수료",
+      "재테크",
+      "적립식투자",
+      "거치식투자"
+    ]
+  }
+}

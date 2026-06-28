@@ -1,0 +1,49 @@
+{
+  "video": {
+    "id": "S6-jii-aQ30",
+    "title": "미사일은 억대인데 단돈 천 원?! K-방산이 칼을 갈고 만든 천광의 모든 것",
+    "published": "2026-06-27T06:00:28+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=S6-jii-aQ30",
+    "thumbnail": "https://img.youtube.com/vi/S6-jii-aQ30/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">K-방산</span>의 차세대 레이저 대공 무기 <span class=\"text-cyan-300 font-semibold\">천광</span>의 핵심 부품인 <span class=\"text-cyan-300 font-semibold\">발진기</span> 국산화 성공과 구체적 작동 메커니즘을 규명함.\n1회 발사 비용이 단돈 몇 천원에 불과해 기존 기관포탄(수백~천만 원) 및 유도 미사일(수억 원) 대비 압도적인 가성비를 자랑함.\n최첨단 <span class=\"text-cyan-300 font-semibold\">광섬유 레이저</span> 기술 도입으로 열 효율을 30~50%까지 극대화하여 무기의 소형화와 모듈화를 실현함.",
+    "key_claims": [
+      "핵심 기술인 레이저 발진기의 국산화 성공으로 해외 부품 의존도를 낮추고 독자적 무기 체계 구축이 가능해짐.",
+      "레이저는 빛의 속도로 날아가므로 복잡한 탄도 계산 없이 정밀 추적 조준이 가능함.",
+      "안개나 습기 등 기후 제약이 존재하여, 레이저 무기는 원거리 요격 미사일망을 뚫고 온 드론을 잡는 최종 단계 방어 수단으로 유효함."
+    ],
+    "data_points": [
+      "천광 레이저 대공 무기 출력: 20kW급",
+      "이스라엘 아이언 빔 출력: 30~40kW급 (드론 요격에 약 5초 소요)",
+      "레이저 대공 무기 1회 발사 비용: 수천 원 수준",
+      "20mm 기관포탄 1발 가격: 약 5만 원 (2~3초 사격 시 100~200발 소모로 500만~1000만 원)",
+      "기존 대공 유도 미사일 가격: 억대 이상",
+      "광섬유 레이저 에너지 전환 효율: 최첨단 제품 기준 30% ~ 최대 50% 수준 (과거 레이저 효율은 10% 수준)"
+    ],
+    "signal": "bullish",
+    "signal_confidence": "high",
+    "signal_reason": "핵심 부품 국산화 성공과 고가 무기를 위협하는 <span class=\"text-rose-400 font-medium\">저가 드론 공격</span>에 대응할 가성비 높은 <span class=\"text-amber-300 font-bold\">대드론 방어체계</span>로서 글로벌 시장 경쟁력이 매우 높음.",
+    "key_companies": [
+      "LIG넥스원(079550)",
+      "한화에어로스페이스(012450)"
+    ],
+    "insight": "현대 전장에서 헐값의 드론이 수억~수십억 원 상당의 장비를 파괴하는 비대칭 전술이 늘어남에 따라, 레이저 무기는 방공 인프라의 경제성을 지키는 <span class=\"text-amber-300 font-bold\">게임 체인저</span> 역할을 할 것임.",
+    "action_point": "유도무기(천궁)에 이어 레이저 대공무기(<span class=\"text-cyan-300 font-semibold\">천광</span>) 국산화 패키지 수출 모멘텀을 보유한 국내 방산 핵심 부품/시스템 제조사들에 대한 장기 투자가 유망함."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "K방산",
+      "레이저무기",
+      "천광",
+      "드론요격",
+      "광섬유레이저",
+      "방위산업"
+    ]
+  }
+}

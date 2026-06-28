@@ -1,0 +1,49 @@
+{
+  "video": {
+    "id": "Ujp7Z1CinMU",
+    "title": "[지식뉴스] \"일본이 진짜 두려워하는 건 따로 있습니다\"...금리인상에도 '엔캐리 청산' 없는 진짜 이유 (ft.서은숙 상명대 경제금융학부 교수) / 교양이를 부탁해",
+    "published": "2026-06-27T12:01:33+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=Ujp7Z1CinMU",
+    "thumbnail": "https://img.youtube.com/vi/Ujp7Z1CinMU/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "일본은행(BOJ)이 정책금리를 1.0%로 인상했으나, 시장 예측 부합 및 <span class=\"text-amber-300 font-bold\">점진적 자산 매입 축소(QT)</span> 조치 덕분에 과거와 같은 엔캐리 청산 발(發) 글로벌 증시 폭락 충격은 없었습니다.\nBOJ는 국채 시장 마비 방지, <span class=\"text-rose-400 font-medium\">일본 정부의 막대한 국가 부채 이자 부담</span>, 그리고 30년 만에 탈출한 임금-물가 선순환 고리의 훼손 우려 때문에 금리 인상 속도를 신속하게 올릴 수 없는 딜레마에 처해 있습니다.\n한편 미 연준(Fed)은 AI 투자를 통한 <span class=\"text-cyan-300 font-semibold\">생산성 향상</span>으로 고금리 상황에서도 물가를 잡고 성장을 유지하려는 전략적 움직임을 보이고 있습니다.",
+    "key_claims": [
+      "이번 BOJ의 1% 금리 인상은 사전 예고를 거쳐 시장에 선반영되었고, 급격한 긴축을 배제하여 <span class=\"text-amber-300 font-bold\">엔캐리 청산 리스크</span>가 제한적이었다.",
+      "일본은 GDP 대비 200%가 넘는 국가 부채로 인해 금리가 1%p 오르면 정부의 이자 지출이 GDP의 2%p만큼 급증하므로 <span class=\"text-rose-400 font-medium\">금리를 가파르게 올릴 수 없다</span>.",
+      "미 연준은 AI 태스크포스를 통해 <span class=\"text-cyan-300 font-semibold\">AI 생산성 향상</span>이 물가를 안정시키는 메커니즘을 규명하고 있으며, 이는 금리 정책 영향력을 우회하는 핵심 동력으로 작용한다."
+    ],
+    "data_points": [
+      "BOJ는 2026년 6월 16일 금리를 25bp 인상(0.75% -> 1.0%)하여 31년 만에 1%대 금리 진입.",
+      "UBS 발표 기준, 엔캐리 트레이드 누적 잔액은 기존 5,000억 달러에서 상당 부분 청산되어 현재 약 2,000억 달러 규모로 축소된 것으로 추산.",
+      "2024년 8월 5일 블랙 먼데이 당시 엔캐리 청산 트리거: BOJ의 기습 25bp 인상(7월 31일), 미국 금리 동결 및 9월 인하 시사(8월 1일), 미국 7월 실업률 4.3%로 삼 법칙(Sahm Rule) 진입(8월 2일).",
+      "일본의 정부 부채 규모는 GDP 대비 200% 초중반 수준으로 선진국 중 압도적 1위.",
+      "일본의 최근 임금 인상률은 33년 만에 최고치를 기록 중."
+    ],
+    "signal": "neutral",
+    "signal_confidence": "medium",
+    "signal_reason": "급격한 <span class=\"text-rose-400 font-medium\">엔캐리 청산 리스크</span>는 소멸되었으나, 일본의 점진적 금리 인상 기조와 미국의 데이터 의존적 고금리 장기화 우려로 글로벌 거시경제 변동성은 연말까지 지속될 전망입니다.",
+    "key_companies": [
+      "Samsung Electronics(005930)",
+      "SK Hynix(000660)"
+    ],
+    "insight": "금리 변동성에 취약한 매크로 환경 하에서도 중앙은행과 시장이 공통적으로 지지하는 <span class=\"text-cyan-300 font-semibold\">AI 인프라 및 반도체 분야</span>는 매크로 압박을 상쇄하는 독자적인 성장 궤도를 달성하고 있습니다.",
+    "action_point": "거시경제 불확실성이 지속되는 연말까지 자산을 한 바구니에 담지 않는 분산 투자를 유지하되, 금리 변동성에 흔들리지 않는 <span class=\"text-cyan-300 font-semibold\">AI 반도체 대형주(삼성전자, SK하이닉스 등)</span>와 달러 자산에 대한 분할 매수 전략을 가져가야 합니다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock",
+      "etc"
+    ],
+    "tags": [
+      "엔캐리청산",
+      "일본은행금리인상",
+      "국가부채",
+      "연준금리정책",
+      "AI생산성",
+      "분산투자"
+    ]
+  }
+}

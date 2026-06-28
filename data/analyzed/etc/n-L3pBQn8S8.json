@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "n-L3pBQn8S8",
+    "title": "평생 이런 건 본 적 없었을 겁니다.",
+    "published": "2026-06-26T11:00:11+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=n-L3pBQn8S8",
+    "thumbnail": "https://img.youtube.com/vi/n-L3pBQn8S8/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "이공계 석박사 53명으로 구성된 미디어 스타트업 <span class=\"text-cyan-300 font-semibold\">Softdragon SOD</span>의 초고속 성장 성과를 알리는 홍보 콘텐츠임.\n기존 언론의 단순 보도자료 복사를 지양하고 독자적인 <span class=\"text-cyan-300 font-semibold\">통찰 중심의 고품질 분석 콘텐츠</span> 제공을 지향함.\n유료 독자 대상의 가치 환원을 강조하며 미디어 지식 산업 시장에서의 혁신을 선언함.",
+    "key_claims": [
+      "단순 뉴스 보도가 아닌 깊이 있는 <span class=\"text-cyan-300 font-semibold\">통찰 경쟁</span>을 통해 구독자에게 실질적인 정보 가치를 제공함.",
+      "이공계 전문 인력풀을 활용한 <span class=\"text-cyan-300 font-semibold\">기술 중심 분석력</span>이 채널의 독보적인 경쟁력 원천임."
+    ],
+    "data_points": [
+      "조직 인원: 이공계 석박사 53명",
+      "성장률: 6개월 만에 1340% 성장 기록",
+      "유료 멤버십 비용 언급: 5만 원"
+    ],
+    "signal": "na",
+    "signal_confidence": "low",
+    "signal_reason": "특정 개별 주식에 대한 투자 의견이 아닌 미디어 스타트업의 <span class=\"text-cyan-300 font-semibold\">채널 홍보 및 마케팅 영상</span>임.",
+    "key_companies": [
+      "Softdragon SOD"
+    ],
+    "insight": "정보기술과 매체의 범람 속에서 단순 팩트 전달을 넘어선 <span class=\"text-cyan-300 font-semibold\">고전문 통찰 미디어</span>에 대한 수요와 성장 잠재력이 확인됨.",
+    "action_point": "투자용 직접 제안은 없으나 기술과 금융 분석 미디어 시장의 트렌드 변화를 관망하며 고품질 정보 인프라로 활용을 고려할 수 있음."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "Softdragon",
+      "통찰미디어",
+      "석박사",
+      "스타트업",
+      "콘텐츠혁신"
+    ]
+  }
+}

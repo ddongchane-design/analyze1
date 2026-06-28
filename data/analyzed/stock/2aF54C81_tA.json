@@ -1,0 +1,61 @@
+{
+  "video": {
+    "id": "2aF54C81_tA",
+    "title": "[26.06.26 오후 방송 전체보기] 외국인의 거센 매도세...반복되는 폭등-폭락, 코스닥은 4거래일째 연저점",
+    "published": "2026-06-26T11:08:37+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=2aF54C81_tA",
+    "thumbnail": "https://img.youtube.com/vi/2aF54C81_tA/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "반도체 가격 상승으로 인한 <span class=\"text-cyan-300 font-semibold\">치플레이션(Chipflation)</span> 경계감과 애플의 가격 전가 선언이 기술주 동반 하락을 유발했습니다.\n여기에 6월 말 <span class=\"text-amber-300 font-bold\">분기·반기 리밸런싱</span> 최종 거래일이 겹치며 외국인과 기관의 매도세가 극대화되었습니다.\n코스피와 코스닥 지수 모두 폭락하며 사이드카 및 <span class=\"text-rose-400 font-medium\">서킷 브레이커가 발동</span>하는 변동성 장세가 연출되었습니다.",
+    "key_claims": [
+      "애플의 반도체 비용 상승에 따른 제품 가격 인상은 전방 빅테크의 <span class=\"text-rose-400 font-medium\">인프라 투자 비용 부담 우려</span>로 번졌다.",
+      "이번 급락은 펀더멘탈의 훼손이 아닌 분기말 결제를 위한 <span class=\"text-amber-300 font-bold\">수급적 리밸런싱 요인</span>이 강하게 작용했다.",
+      "반도체 가격 강세가 유지되는 한 공급사인 국내 기업들의 <span class=\"text-cyan-300 font-semibold\">실적 업사이드</span>는 여전히 유효하다."
+    ],
+    "data_points": [
+      "코스피 종가: 8411 (5.8% 하락)",
+      "코스닥 종가: 851 (4.1% 하락)",
+      "외국인 순매도: 코스피 5.4조 원 이상",
+      "기관 순매도: 코스피 4.4조 원 이상",
+      "개인 순매수: 코스피 9.5조 원 순매수",
+      "달러원 환율: 장중 1540원대 후반 기록 후 1533원 마감",
+      "애플 주가 하락률: 6% 급락",
+      "마이크론 프리마켓 상승률: 최고 20% 상승 후 본장에서 15% 상승 마감"
+    ],
+    "signal": "neutral",
+    "signal_confidence": "medium",
+    "signal_reason": "단기적으로는 반기말 수급 변동성과 <span class=\"text-rose-400 font-medium\">신용 반대매매 우려</span>가 존재하나, 반도체 업황의 <span class=\"text-cyan-300 font-semibold\">실적 펀더멘탈</span>은 훼손되지 않았습니다.",
+    "key_companies": [
+      "Apple(AAPL)",
+      "Samsung Electronics(005930)",
+      "SK Hynix(000660)",
+      "Micron(MU)",
+      "Lenovo",
+      "KT(030200)",
+      "Hyundai Motor(005380)",
+      "Daol Investment(030210)",
+      "KB Securities"
+    ],
+    "insight": "메모리 가격 급등이 기기 제조사의 마진을 갉아먹는 <span class=\"text-rose-400 font-medium\">치플레이션(Chipflation)</span> 리스크로 부각되었으나, 이는 역설적으로 공급망 상단의 <span class=\"text-cyan-300 font-semibold\">메모리 제조사</span>들의 강력한 가격 협상력과 호실적 지속성을 방증합니다.",
+    "action_point": "수급 꼬임에 따른 단기 폭락은 장기 실적주를 <span class=\"text-cyan-300 font-semibold\">저가 매수할 기회</span>이나, 월요일/화요일 예정된 <span class=\"text-rose-400 font-medium\">신용 반대매매 물량 출회</span> 여부를 확인하며 분할 매수로 대응하십시오."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy",
+      "tech"
+    ],
+    "tags": [
+      "사이드카",
+      "서킷브레이커",
+      "리밸런싱",
+      "치플레이션",
+      "삼성전자",
+      "SK하이닉스",
+      "애플",
+      "마이크론"
+    ]
+  }
+}

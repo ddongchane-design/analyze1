@@ -1,0 +1,49 @@
+{
+  "video": {
+    "id": "TKzLZEKOwWc",
+    "title": "전쟁 완전히 바꾼 '팔란티어', 뿔난 러시아...핵전쟁?! | 이문영 서울대학교 통일평화연구원 교수 [신과대화]",
+    "published": "2026-06-27T04:00:14+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=TKzLZEKOwWc",
+    "thumbnail": "https://img.youtube.com/vi/TKzLZEKOwWc/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "러시아-우크라이나 전쟁에서 <span class=\"text-cyan-300 font-semibold\">팔란티어(PLTR)</span>의 AI 군사 소프트웨어(프리스마, 고담 등)가 게임 체인저로 활약하며 전황을 교착 또는 역전시키는 핵심 역할을 하고 있습니다.\n팔란티어의 CEO 알렉스 카프는 <span class=\"text-amber-300 font-bold\">하드 파워와 기술적 우위</span>를 통해 서방 문명을 수호해야 한다는 철학 아래 우크라이나에 무상으로 최첨단 기술을 제공하며 실전 데이터를 축적하고 있습니다.\nAI 드론 및 디지털 동맹의 등장은 기존의 핵 억제력 패러다임을 흔들고 있으며, 이는 <span class=\"text-rose-400 font-medium\">핵전쟁 위협 및 지정학적 리스크</span>를 고조시키는 요인이 되고 있습니다.",
+    "key_claims": [
+      "현대 전쟁은 단순한 병력 싸움이 아닌, AI와 빅데이터가 실시간으로 결정을 내리는 <span class=\"text-cyan-300 font-semibold\">인류 최초의 AI 전쟁</span>이다.",
+      "서방의 패권은 자유나 인권 등 소프트 파워가 아니라 폭력을 조직화하는 <span class=\"text-amber-300 font-bold\">하드 파워(전쟁 수행 능력)</span>에서 나온다.",
+      "러시아의 핵 억제력은 AI 기술을 결합한 디지털 제국(서방 빅테크 동맹)에 의해 도전을 받고 있으며, 이는 러시아의 <span class=\"text-rose-400 font-medium\">유럽 핵공격 위협</span> 등 극단적 반발을 부르고 있다."
+    ],
+    "data_points": [
+      "러시아는 2025년 한 해 동안 약 5,600 km²의 우크라이나 영토(우크라이나 전체 영토의 약 1%)를 추가 점령함.",
+      "우크라이나 국방부 장관 페도로는 28세에 최연소 디지털전환부 장관이 되었고, 현재 34세의 나이로 국방부 장관을 맡고 있음.",
+      "우크라이나가 작년에 연간 생산한 드론은 약 450만 대에 달하며, 이 중 96%는 우크라이나 내부에서 자체 조립됨.",
+      "전쟁 초기인 2022년 2월 26일 페도로 장관의 트윗 직후 일론 머스크가 우크라이나에 스타링크를 개방함."
+    ],
+    "signal": "bullish",
+    "signal_confidence": "high",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">팔란티어</span>는 우크라이나 전쟁이라는 실전 테스트베드를 독점하여 독보적인 AI 군사 소프트웨어 기술 경쟁력과 데이터를 확보하고 있으며, 이는 미국 정부 및 전 세계 나토 동맹국으로의 방산 매출 급증으로 이어질 가능성이 큽니다.",
+    "key_companies": [
+      "Palantir Technologies(PLTR)",
+      "Tesla(TSLA)",
+      "Anthropic"
+    ],
+    "insight": "AI 소프트웨어가 전장의 의사결정을 실시간으로 지원하여 수십억 달러짜리 하드웨어(탱크, 전투기)를 무력화하는 시대가 도래하였으며, 이는 <span class=\"text-cyan-300 font-semibold\">방위산업의 패러다임이 하드웨어 제조에서 소프트웨어/AI</span>로 완전히 전환되었음을 시사합니다.",
+    "action_point": "방산 투자의 관점을 전통적인 중장비 제조업체에서 <span class=\"text-cyan-300 font-semibold\">팔란티어(PLTR)</span>와 같이 군사 AI 솔루션을 제공하는 소프트웨어 기업으로 확장해야 하며, 기술적 해자와 독점적 실전 데이터를 지닌 기업에 대한 장기 매수 관점을 유지하는 것이 유효합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock",
+      "economy"
+    ],
+    "tags": [
+      "팔란티어",
+      "AI전쟁",
+      "드론전쟁",
+      "방산테크",
+      "알렉스카프",
+      "러우전쟁"
+    ]
+  }
+}

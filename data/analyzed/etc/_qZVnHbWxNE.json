@@ -1,0 +1,39 @@
+{
+  "video": {
+    "id": "_qZVnHbWxNE",
+    "title": "태풍이 비껴가도 폭우가 위험한 이유",
+    "published": "2026-06-27T11:00:30+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=_qZVnHbWxNE",
+    "thumbnail": "https://img.youtube.com/vi/_qZVnHbWxNE/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "지구 온난화와 엘니뇨 현상으로 인해 바다가 따뜻해지면서 <span class=\"text-amber-300 font-bold\">대기 중 수증기 증발량</span>이 급증하고 있습니다.\n기온이 1도 오를 때마다 공기가 먹금을 수 있는 수증기 양이 약 7%씩 늘어나는 <span class=\"text-cyan-300 font-semibold\">클라우지우스-클라페이론 관계</span>를 설명합니다.\n이로 인해 태풍이 직접 한반도를 강타하지 않아도 주변부의 강력한 수증기 유입으로 <span class=\"text-rose-400 font-medium\">기습적인 폭우 피해</span>가 일어날 수 있어 경각심이 필요합니다.",
+    "key_claims": [
+      "엘니뇨와 온난화로 바다 온도가 높아지면 대기 중으로 방출되는 <span class=\"text-amber-300 font-bold\">수증기량</span>이 크게 증가한다.",
+      "기온이 1도 상승할 때마다 수증기 함유량은 <span class=\"text-amber-300 font-bold\">약 7%씩 증가</span>(클라우지우스-클라페이론 법칙)하여 비구름의 파괴력을 키운다.",
+      "태풍의 눈이 직접 한반도를 강타하지 않아도 주변부의 강력한 수증기 유입으로 <span class=\"text-rose-400 font-medium\">기습적인 폭우 피해</span>가 일어날 수 있다."
+    ],
+    "data_points": [
+      "기온 1도 상승 시 대기 수증기 함유량 증가율: 약 7%"
+    ],
+    "signal": "na",
+    "signal_confidence": "low",
+    "signal_reason": "순수 과학 상식 및 기후 변화 문제를 다루는 콘텐츠로, 금융 시장에 대한 직접적인 <span class=\"text-rose-400 font-medium\">투자 시그널은 없습니다</span>.",
+    "key_companies": [],
+    "insight": "기후 변화로 인한 극단적 기상 현상의 일상화는 장기적으로 손해 보험사 손해율 상승이나 재난 방재, 인프라 현대화 수요 등 <span class=\"text-violet-300 font-medium\">공급망 및 공공 인프라 투자</span>에 영향을 미칠 수 있습니다.",
+    "action_point": "단기 주식 투자 전략과는 무관하므로 ESG 투자 관점의 장기 <span class=\"text-cyan-300 font-semibold\">친환경/인프라 업종 모니터링</span>용으로 활용하십시오."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [],
+    "tags": [
+      "안될과학",
+      "기후변화",
+      "지구온난화",
+      "태풍",
+      "집중호우",
+      "과학상식"
+    ]
+  }
+}

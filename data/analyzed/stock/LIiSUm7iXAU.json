@@ -1,0 +1,52 @@
+{
+  "video": {
+    "id": "LIiSUm7iXAU",
+    "title": "'끝 없는 급등락 장세' 이 때 끝날 것 | 박명석 큐레이터 [주말인터뷰]",
+    "published": "2026-06-27T02:00:33+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=LIiSUm7iXAU",
+    "thumbnail": "https://img.youtube.com/vi/LIiSUm7iXAU/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "매크로 우려인 <span class=\"text-rose-400 font-medium\">금리 인상 가능성</span> 및 강달러 압력과 AI 반도체 실적 기대감이 충돌하며 한국 증시의 변동성이 극대화되고 있음.\n마이크론의 어메이징한 실적에도 불구하고 애플 등 완제품 업체의 <span class=\"text-rose-400 font-medium\">원가 상승 불만</span> 및 빅테크의 차입 투자에 따른 재무 부담 우려가 혼재함.\n시장의 변동성을 해소하기 위해선 7월 말 <span class=\"text-cyan-300 font-semibold\">빅테크들의 AI 수익성 증명</span> 및 물가 안정에 따른 금리 부담 완화가 필수적임.",
+    "key_claims": [
+      "금리 인상 가능성(BOA 3회 인상 시나리오) 등 <span class=\"text-rose-400 font-medium\">매크로 압박</span>을 이겨내려면 압도적인 실적 성장이 입증되어야 함.",
+      "빅테크가 채권 발행 등 차입을 통해 <span class=\"text-amber-300 font-bold\">AI 설비투자(CAPEX)</span>를 유지하는 상황에서 금리 인상은 치명적인 리스크가 됨.",
+      "빅테크들이 AI 인프라 투자(CAPEX)의 <span class=\"text-cyan-300 font-semibold\">수익성 모델</span>을 숫자로 보여주거나 구체적인 청사진을 제시해야 반도체 랠리가 재개될 수 있음."
+    ],
+    "data_points": [
+      "WTI 유가 배럴당 69달러 수준 하락",
+      "미국 분기말 리밸런싱 규모 약 1,650억 달러 추산 (JP모건)",
+      "알리안츠 설문 조사에서 현재 투자 적기라고 답변한 비율 25% (전분기 35% 대비 하락)",
+      "마이크론 메모리 반도체 판매량은 일정하나 매출이 4.5배 증가함 (영업이익률/마진율 85% 수준 확인)"
+    ],
+    "signal": "neutral",
+    "signal_confidence": "medium",
+    "signal_reason": "<span class=\"text-rose-400 font-medium\">금리 우려와 강달러</span> 등 매크로 불안이 지속되는 와중에, 차기 상승 동력을 얻기 위해선 <span class=\"text-cyan-300 font-semibold\">빅테크 실적 증명</span>이라는 관문을 통과해야 함.",
+    "key_companies": [
+      "Micron Technology(MU)",
+      "Apple(AAPL)",
+      "Google(GOOGL)",
+      "Microsoft(MSFT)",
+      "Samsung Electronics(005930)",
+      "SK Hynix(000660)"
+    ],
+    "insight": "반도체 공급 부족에 따른 슈퍼 을(乙) 지위는 공고하나 완제품 업체들의 저항과 <span class=\"text-rose-400 font-medium\">AI 예산 소진 리스크</span>가 커지고 있어 빅테크의 실적 확인이 증시 향방의 핵심 열쇠임.",
+    "action_point": "공격적인 레버리지 투자를 지양하고 <span class=\"text-amber-300 font-bold\">현금 비중을 확보</span>한 상태에서, 7월 실적 시즌 이전의 변동성을 활용해 코스닥의 실적 기반 소부장주나 바이오 등 틈새 섹터에 관심을 가질 필요가 있음."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy",
+      "tech"
+    ],
+    "tags": [
+      "변동성",
+      "금리전망",
+      "빅테크실적",
+      "반도체",
+      "강달러",
+      "수급"
+    ]
+  }
+}

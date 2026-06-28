@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "mPkvK-3CSGI",
+    "title": "하늘에 뿌린 인공가루로 과연 지구 온난화를 해결할 수 있을까?",
+    "published": "2026-06-26T10:00:10+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=mPkvK-3CSGI",
+    "thumbnail": "https://img.youtube.com/vi/mPkvK-3CSGI/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "이스라엘 핵물리학자들이 설립한 스타트업 <span class=\"text-cyan-300 font-semibold\">스타더스트 솔루션즈</span>가 성층권에 비정질 실리카를 살포해 햇빛을 차단하는 태양 지구 공학 기술을 공개함.\n이에 대해 학계의 권위자 데이비드 키스 교수 등은 검증되지 않은 신물질 살포의 흡입 위험성과 <span class=\"text-rose-400 font-medium\">기만적 안전성 주장</span>을 강력 비판함.\n이 기술은 중단 시 온난화 재앙이 급격히 덮치는 <span class=\"text-rose-400 font-medium\">종료 충격(Termination Shock)</span>과 기상 패턴 변화(가뭄) 등 심각한 부작용 위험을 안고 있음.",
+    "key_claims": [
+      "성층권 에어로졸 주입(SAI) 기술은 지구의 반사율을 높여 온도를 빠르게 낮출 수 있으나 <span class=\"text-rose-400 font-medium\">기후 교란 리스크</span>가 존재함.",
+      "스타더스트가 제안한 <span class=\"text-cyan-300 font-semibold\">비정질 실리카</span>는 먹는 안전성과 달리 미세 입자로 흡입 시 폐 손상 등 치명적 위험이 있어 철저한 검증이 필요함.",
+      "지구 온난화 제어를 사기업의 기술에 의존하는 것은 <span class=\"text-violet-300 font-medium\">국제적 의사결정 권한 및 법적 규제 부재</span> 상태에서 매우 위험함."
+    ],
+    "data_points": [
+      "스타더스트 솔루션즈 유치 투자금: 7,500만 달러 (약 1,000억 원)",
+      "1991년 필리핀 피나토보 화산 폭발로 이산화황 2,000만 톤 성층권 방출, 평균 기온 약 0.5도 하락(2년간)",
+      "스타더스트 목표 생산량: 연간 100톤에서 시작해 7년 내 100만 톤, 최종 연간 1,000만 톤 규모로 확대",
+      "SAI 반대 서명 참여 과학자: 600명 이상"
+    ],
+    "signal": "na",
+    "signal_confidence": "medium",
+    "signal_reason": "기후 위기 해결책으로 주목받으나 심각한 <span class=\"text-rose-400 font-medium\">부작용과 규제 불확실성</span>으로 인해 상용화 및 투자 관점에서의 불확실성이 극도로 높음.",
+    "key_companies": [
+      "Stardust Solutions"
+    ],
+    "insight": "태양 지구 공학(SAI)은 탄소 감축의 지연 속에 유일한 온도 하강 카드로 부각되지만, <span class=\"text-rose-400 font-medium\">종료 충격</span> 등 통제 불가능한 글로벌 기후 재앙의 방아쇠가 될 수 있음.",
+    "action_point": "기후 테크 투자자는 단기 기후 조절 솔루션 기업보다는 탄소 포집(CCUS)이나 재생에너지 등 <span class=\"text-cyan-300 font-semibold\">제도적 합의가 완료된 기후 완화 기술</span> 분야에 보수적으로 접근해야 함."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "etc"
+    ],
+    "tags": [
+      "지구공학",
+      "지구온난화",
+      "성층권에어로졸",
+      "기후변화",
+      "환경위험"
+    ]
+  }
+}

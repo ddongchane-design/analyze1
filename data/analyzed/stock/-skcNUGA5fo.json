@@ -1,0 +1,51 @@
+{
+  "video": {
+    "id": "-skcNUGA5fo",
+    "title": "건강 소다 열풍에도 코카콜라가 강한 이유..펩시코는 왜 항상 2인자일까 | 바이아메리카 in 뉴욕",
+    "published": "2026-06-27T00:00:30+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=-skcNUGA5fo",
+    "thumbnail": "https://img.youtube.com/vi/-skcNUGA5fo/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "웰빙 소다와 기능성 탄산음료 시장의 급성장 속에서도 <span class=\"text-cyan-300 font-semibold\">코카콜라(KO)</span>가 강력한 해자와 고수익성 모델을 통해 시장 지배력을 유지하는 이유를 분석합니다. 코카콜라는 보틀링 자산을 분할 매각하는 <span class=\"text-amber-300 font-bold\">자산 경량화(Asset-light) 프랜차이즈 모델</span>을 도입해 영업이익률 약 35%를 유지하고 있습니다. 반면, 건강 음료에 공격적으로 투자한 <span class=\"text-cyan-300 font-semibold\">펩시코(PEP)</span>는 유통망 다각화와 인수 비용 부담으로 주가 정체를 겪고 있으며, 닥터페퍼 등 틈새 브랜드의 거센 추격을 받고 있습니다.",
+    "key_claims": [
+      "코카콜라는 원액 농축액을 판매하고 유통 및 재고는 보틀링 회사에 위임하는 <span class=\"text-amber-300 font-bold\">독창적인 보틀링 시스템</span>으로 60%대의 매출총이익률을 확보하고 있습니다.",
+      "소비자들이 건강에 민감해지면서 프리바이오틱스와 식이섬유를 더한 <span class=\"text-cyan-300 font-semibold\">웰빙 소다 시장(파피, 올리팝 등)</span>이 기존 탄산 시장을 뒤흔들고 있습니다.",
+      "펩시코는 신규 브랜드를 대거 인수하고 셀시어스를 유통하는 등 발 빠르게 대처했으나, <span class=\"text-rose-400 font-medium\">인수 비용 부담과 유통 마진 압박</span>으로 수익성이 정체되고 있습니다."
+    ],
+    "data_points": [
+      "펩시코가 웰빙 탄산음료 스타트업 파피(Poppi)를 19억 5,000만 달러(약 3조 원)에 인수",
+      "코카콜라의 1분기 매출은 124억 7,000만 달러로 전년 대비 12% 증가, 영업 이익률은 약 35% 기록",
+      "코카콜라 주가는 고인플레이션 우려 속에서도 연초 대비 15% 상승",
+      "코카콜라가 보유한 브랜드는 200개 이상이며, 그중 연 매출 10억 달러가 넘는 브랜드가 30개임",
+      "에너지 드링크 강자 몬스터 비버리지의 1분기 매출은 27% 성장"
+    ],
+    "signal": "bullish",
+    "signal_confidence": "high",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">코카콜라(KO)</span>는 자산 경량화 구조와 미니캔 출시 등의 유연한 대처로 <span class=\"text-amber-300 font-bold\">인플레이션 방어 능력</span>과 높은 수익성을 확실히 증명하고 있습니다.",
+    "key_companies": [
+      "Coca-Cola(KO)",
+      "PepsiCo(PEP)",
+      "Keurig Dr Pepper(KDP)",
+      "Monster Beverage(MNST)",
+      "Celsius Holdings(CELH)"
+    ],
+    "insight": "음료 시장의 경쟁 본질이 제품 종류에서 소비자의 세분화된 행동 방식(TPO) 공략으로 변화하는 가운데, <span class=\"text-amber-300 font-bold\">브랜드 파워 및 현금 유동성</span>을 보유한 선두 기업의 해자가 더욱 강화되고 있습니다.",
+    "action_point": "투자자들은 변동성이 큰 기능성 음료 성장주보다 인플레이션 방어력이 우수하고 높은 자기자본이익률을 내는 <span class=\"text-cyan-300 font-semibold\">코카콜라(KO)</span>를 선호하되, 기능성 음료에서는 소송 및 당국 조사 리스크가 있는 <span class=\"text-rose-400 font-medium\">셀시어스(CELH)</span>의 변동성에 유의해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "코카콜라",
+      "펩시코",
+      "셀시어스",
+      "웰빙소다",
+      "인플레이션수혜주",
+      "미국주식"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "video": {
+    "id": "u8Ki0v84gwI",
+    "title": "미국 정부가 양자컴퓨터 기업에게 요구한 단 하나의 조건｜양자택일ㅣ2026.6.26(금)",
+    "published": "2026-06-26T07:53:07+00:00",
+    "channel_name": "Smart Money by MiraeAsset ",
+    "url": "https://www.youtube.com/watch?v=u8Ki0v84gwI",
+    "thumbnail": "https://img.youtube.com/vi/u8Ki0v84gwI/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 정부(상무부)가 칩스법(Chips R&D)을 통해 9개 <span class=\"text-cyan-300 font-semibold\">양자컴퓨터 기업</span>에 총 20억 달러를 투자하는 의향서를 체결하며 양자 공급망 자국화에 착수했습니다.\n최근 상장한 컨티뉴엄(Quantinuum)의 공시를 통해 드러난 정부 지원금의 핵심 마일스톤은 시스템 성능이 아닌 <span class=\"text-cyan-300 font-semibold\">핵심 광학 부품 및 양자 전용 ASIC 반도체 칩의 제조 능력</span> 입증입니다.\n이는 양자컴퓨터 경쟁이 단순히 연구실 단계의 기술 가능성을 넘어, <span class=\"text-amber-300 font-bold\">대량 생산(양산) 및 부품 공급망 자국화</span>라는 제조업의 영역으로 전환되고 있음을 보여줍니다.",
+    "key_claims": [
+      "정부는 특정 큐비트 방식(초전도, 이온트랩, 광자 등)을 낙점하지 않고 다각도로 분산 투자하며 아직 <span class=\"text-amber-300 font-bold\">단일 기술 승자</span>가 없음을 입증했다.",
+      "미국 정부 투자의 핵심 마일스톤 조건은 성능 지표가 아닌 자외선(UV) 배제 공정용 <span class=\"text-cyan-300 font-semibold\">광학 부품 제조 및 맞춤형 칩 양산 능력</span>이다.",
+      "양자컴퓨터의 경쟁 우위 축이 단순 QPU(양자처리장치) 성능에서 칩 위로 부품을 집적하는 <span class=\"text-amber-300 font-bold\">아키텍처 및 제조 공급망 확보</span>로 급속히 이동하고 있다."
+    ],
+    "data_points": [
+      "미국 상무부는 칩스 R&D 트랙을 통해 양자컴퓨터 관련 9개 기업에 총 약 20억 달러 규모의 투자 의향서(LOI)를 체결함.",
+      "개별 기업 투자 규모: IBM 10억 달러, 글로벌파운드리스 3억 7,500만 달러, 기타 컴퓨팅 기업(디웨이브, 리게티, 컨티뉴엄 등) 약 1억 달러 내외.",
+      "컨티뉴엄은 2026년 6월 4일 나스닥에 상장하여 약 16억 8,000만 달러를 조달함(양자 산업 역사상 최대 규모 IPO).",
+      "컨티뉴엄의 마일스톤에 명시된 422nm 파장은 자외선이 아닌 청색 영역(가시광선)에 속하며, 스트론튬 원소 제어용으로 사용됨."
+    ],
+    "signal": "bullish",
+    "signal_confidence": "high",
+    "signal_reason": "미국 정부가 양자컴퓨터를 단순 연구 과제가 아닌 <span class=\"text-violet-300 font-medium\">자국 내 반도체 및 양산 공급망</span>에 포섭시키기 위해 막대한 자금을 투입하기 시작했으며, 이는 양자 하드웨어 및 부품 장비 산업의 본격적인 상업화와 성장을 가속화할 것입니다.",
+    "key_companies": [
+      "Quantinuum",
+      "IBM(IBM)",
+      "GlobalFoundries(GFS)",
+      "D-Wave Quantum(QBTS)",
+      "Rigetti Computing(RGTI)"
+    ],
+    "insight": "이온트랩 양자컴퓨터에서 광도파로를 손상시키는 자외선(369nm)을 배제하고 가시광선 영역(422nm, 493nm)을 활용하여 <span class=\"text-cyan-300 font-semibold\">빛을 칩 위에 완전히 집적(On-chip integration)</span>하는 방향이 양산성 확보의 핵심 열쇠로 부각되고 있습니다.",
+    "action_point": "순수 양자컴퓨터 플랫폼 기업뿐만 아니라, 이온트랩 등에서 필수적인 <span class=\"text-cyan-300 font-semibold\">실리콘 포토닉스(광반도체) 및 전용 ASIC 반도체 설계/제조 기술</span>을 보유한 기업들의 밸류체인 진입 기회를 포착하여 선제적으로 투자 비중을 확대해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock",
+      "economy"
+    ],
+    "tags": [
+      "양자컴퓨터",
+      "컨티뉴엄",
+      "칩스법",
+      "이온트랩",
+      "광반도체",
+      "양자컴퓨터IPO"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "video": {
+    "id": "Uv_vwCo_9LY",
+    "title": "이스라엘이 또 공격해도 미국은 못 본 척한다? (알파고)",
+    "published": "2026-06-26T14:15:34+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=Uv_vwCo_9LY",
+    "thumbnail": "https://img.youtube.com/vi/Uv_vwCo_9LY/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "이스라엘과 헤즈볼라 간의 군사적 긴장 고조와 이에 따른 이란의 개입 가능성을 다룹니다.\n미국이 예멘 후티 반군과의 홍해 해상전에서 지상군 투입 배제로 통제 한계를 겪고 물러선 전례를 소개합니다.\n중동 분쟁 심화 시 미국이 직접적 군사 개입을 피하고 방관할 가능성이 높음을 경고하며, 이에 따른 지정학적 불확실성을 시사합니다.",
+    "key_claims": [
+      "이스라엘이 조만간 헤즈볼라를 본격 공격할 가능성이 높으며, 이에 대한 이란의 군사적 개입 가능성 제기",
+      "미국은 예멘 후티 반군과의 분쟁에서 군사적 해결 한계를 느끼고 사실상 개입 수위를 낮추거나 이탈함",
+      "미국이 중동 전면전에 직접 군사 개입하는 것을 꺼리며 당사자 간 대결로 방관할 가능성이 큼"
+    ],
+    "data_points": [],
+    "signal": "bearish",
+    "signal_confidence": "medium",
+    "signal_reason": "미국의 중동 내 군사 통제력 약화는 중동 정세의 상시 불안정성을 유발하고, <span class=\"text-rose-400 font-medium\">해상 공급망 리스크</span> 및 원유 가격 불안을 초래하는 매크로 위협 요인입니다.",
+    "key_companies": [],
+    "insight": "미국이 지상군 투입을 꺼리는 한 중동 내 반미 무장 세력에 대한 억제력이 상실되며, 이는 <span class=\"text-violet-300 font-medium\">글로벌 해상 무역로 및 원유 공급망</span>이 상시적 인질로 잡히는 장기 위험 요인입니다.",
+    "action_point": "중동 발 해상 운임 인상 및 에너지 쇼크 가능성에 대비하여 포트폴리오 내 방산 및 <span class=\"text-cyan-300 font-semibold\">천연가스/원유 상장지수펀드(ETF)</span> 비중을 확대하는 방안을 고려하십시오."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "etc"
+    ],
+    "tags": [
+      "중동분쟁",
+      "미국외교",
+      "지정학리스크",
+      "후티반군",
+      "유가영향"
+    ]
+  }
+}
