@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "FsvPWbV0yp0",
+    "title": "\"하이닉스에게 최고의 모멘텀\" 과연 어떻게 될까? | 이건규 르네상스자산운용 대표 [더블 업]",
+    "published": "2026-06-29T01:53:19+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=FsvPWbV0yp0",
+    "thumbnail": "https://img.youtube.com/vi/FsvPWbV0yp0/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "중국 창신메모리(CXMT)의 메모리 수율이 50%대에 정체되면서 애플 등 빅테크의 중국산 DRAM 전격 도입 로드가 차단되어 국내 반도체 투톱의 지배력이 수호됨. 특히 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>는 동등 시총인 미국 마이크론 대비 1.8배에 달하는 압도적 영업이익 체력을 확보하여 강력한 밸류에이션 우위를 점함. 또한 7월 나스닥 상장을 목표로 추진 중인 미국 <span class=\"text-cyan-300 font-semibold\">ADR 상장</span>은 글로벌 패시브 자금을 대규모로 흡수할 촉매가 될 전망임.",
+    "key_claims": [
+      "창신메모리(CXMT)의 수율 정체와 미국의 제재 강화로 인해 중국산 저가 메모리의 전방 공급망 교란 위험은 사실상 해소됨.",
+      "SK하이닉스는 마이크론과 시총은 유사하나 이익 규모는 약 1.8배에 달해, 향후 미국 ADR 상장 시 직접 비교(Peer Valuation)에 의한 <span class=\"text-cyan-300 font-semibold\">리레이팅(Re-rating)</span> 강도가 매우 강할 것임.",
+      "메모리 업황 고점 논란은 글로벌 HBM 및 인프라 투자 수요의 지속 증가세로 인해 2026년에도 이어지지 않을 확률이 큼."
+    ],
+    "data_points": [
+      "중국 창신메모리(CXMT) DRAM 수율 수준: 약 50% 안팎에 정체",
+      "SK하이닉스 및 마이크론 실적 비교: 동일 시총 수준이나 SK하이닉스 영업이익이 마이크론의 약 1.8배 상회"
+    ],
+    "signal": "bullish",
+    "signal_reason": "중국의 메모리 시장 교란 리스크가 당분간 무력화되었고, 마이크론 대비 뛰어난 SK하이닉스의 실적과 미국 ADR 상장을 통한 수급 모멘텀이 기업가치를 재평가할 것이 확실하기 때문입니다.",
+    "key_companies": [
+      "SK하이닉스(000660)",
+      "마이크론(MU)",
+      "창신메모리(CXMT)"
+    ],
+    "insight": "중국 CXMT의 수율 한계는 국내 D램 제조사들에 강력한 방어벽 역할을 하고 있습니다. 마이크론이 미국 현지 보조금 호재로 주가를 부풀린 반면, 실제 HBM3E 공급 경쟁력과 절대 이익 체력은 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>가 우위에 있어 나스닥 ADR 상장을 계기로 미국 자본이 하이닉스로 머니무브할 개연성이 큽니다.",
+    "action_point": "마이크론 및 엔비디아 주가 조정 시 흔들리지 말고 미국 ADR 상장 모멘텀을 지닌 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 비중을 강력하게 유지 및 확대하는 전략이 여전히 유효합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "SK하이닉스",
+      "마이크론",
+      "창신메모리",
+      "수율정체",
+      "ADR상장"
+    ]
+  }
+}

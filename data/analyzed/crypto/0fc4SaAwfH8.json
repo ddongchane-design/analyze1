@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "0fc4SaAwfH8",
+    "title": "'주춤한 AI, 유동성은 어디로?' 힘 못 쓰는 비트코인, MSTR은 8거래일 연속 하락 | 서동주, 김동환, 오진석 미디어 에디터 [크립토 PLUS]",
+    "published": "2026-06-29T04:31:52+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=0fc4SaAwfH8",
+    "thumbnail": "https://img.youtube.com/vi/0fc4SaAwfH8/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "AI 랠리가 일시적으로 주춤하면서 유동성이 <span class=\"text-cyan-300 font-semibold\">러셀 2000</span> 및 가치주/헬스케어 섹터로 분산되는 순환매가 관찰됨. 반면 <span class=\"text-rose-400 font-medium\">비트코인(BTC)</span>은 6만 달러 지지선이 붕괴되며 약세를 지속하고 있고, 대형 채굴 기업들은 AI 데이터센터 공급 파워로의 피봇을 가속화하고 있음. 비트코인 ETF 자금 역시 역대급 순유출세를 기록하며 단기 수급 부담이 가중됨.",
+    "key_claims": [
+      "AI 픽아웃 우려 속에서 기관 자금이 이탈하여 <span class=\"text-cyan-300 font-semibold\">헬스케어</span> 및 배당주 중심의 방어주 섹터로 유동성 순환매가 발생함.",
+      "비트코인은 가격 상승 모멘텀의 부재로 인해 투자 매력도가 하락하는 <span class=\"text-rose-400 font-medium\">노잼 장세</span>에 진입하며 6만 달러선 아래로 밀림.",
+      "<span class=\"text-cyan-300 font-semibold\">마이크로스트레티지(MSTR)</span>는 보통주 추가 증자 부담과 우선주(STRC) 프리미엄 붕괴 리스크로 인해 8거래일 연속 급락함."
+    ],
+    "data_points": [
+      "비트코인 가격: 6만 달러선 하회 및 YTD 대비 30% 이상 하락 기록",
+      "ETF 및 크립토 펀드 자금: 최근 30일간 금 및 비트코인에서 120억 달러 유출, 반도체 ETF로 200억 달러 이상 유입",
+      "마이크로스트레티지(MSTR) 주가: 8거래일 연속 하락하며 2년 반 만에 최저치 경신"
+    ],
+    "signal": "neutral",
+    "signal_reason": "비트코인 ETF의 대규모 순유출세 가속화와 주가 하락은 악재이나, 장기적 가치 보존 처로서의 입지는 유지되고 있어 단기 횡보 우려를 반영해 중립으로 판단함.",
+    "key_companies": [
+      "마이크로스트레티지(MSTR)",
+      "코인베이스(COIN)",
+      "테슬라(TSLA)"
+    ],
+    "insight": "크립토 시장은 높은 변동성 대비 실질적이고 가시적인 ROI를 즉각 입증하는 AI 테크 기업들에 비해 자금 흡수력이 떨어져 노잼 장세를 겪고 있음. MSTR처럼 무리한 레버리지를 활용하는 기업의 주당 가치(BPS) 희석 우려와 채굴사들의 <span class=\"text-cyan-300 font-semibold\">AI 데이터센터 인프라</span> 전환 속도가 향후 크립토 시장 재편의 핵심 쟁점이 될 것임.",
+    "action_point": "비트코인 ETF 유출 흐름과 6만 달러선 탈환 여부를 보수적으로 모니터링하며, MSTR 보통주 등 레버리지 주식보다는 AI 인프라 기업으로 성공적인 체질 개선을 선언한 <span class=\"text-cyan-300 font-semibold\">비트팜(킬 인프라스트럭처)</span> 등에 선별적으로 관심을 가질 필요가 있음."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "stock",
+      "economy"
+    ],
+    "tags": [
+      "비트코인유출",
+      "마이크로스트레티지",
+      "순환매장세",
+      "AI데이터센터",
+      "러셀2000"
+    ]
+  }
+}
