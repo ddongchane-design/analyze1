@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "_Ds243MMWhI",
+    "title": "Key Pharma & Bio Issues to Watch in the Second Half (f. Company Analysis) | Analyst Report | 06/3...",
+    "published": "2026-06-30T03:52:54+00:00",
+    "channel_name": "Smart Money by MiraeAsset ",
+    "url": "https://www.youtube.com/watch?v=_Ds243MMWhI",
+    "thumbnail": "https://img.youtube.com/vi/_Ds243MMWhI/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "하반기 국내 제약·바이오 섹터의 핵심 성장 축과 글로벌 법적 규제 수혜를 총정리함. 미국의 **바이오보안법(Biosecure Act)** 입법 가시화로 중국 Wuxi(우시) 계열사의 공백을 메울 국내 CDMO(위탁개발생산) 기업의 반사이익과 차세대 ADC(항체-약물 접합체) 기술 수출 모멘텀, 스텔라라 등 블록버스터 바이오시밀러의 미국 특허 만료에 따른 점유율 확대를 해설함.",
+    "key_claims": [
+      "미국 하원을 통과한 바이오보안법은 중국 바이오 제조사와의 거래를 금지하여, 삼성바이오로직스 등 국내 CDMO 대기업들의 장기 수주 파이프라인을 비약적으로 확장시킴.",
+      "2025~2026년 스텔라라, 아일리아 등 특허 만료 시가 총액 200억 달러 규모의 오리지널 바이오의약품 시장이 개방되어 셀트리온 등 국내 시밀러 사의 미국 점유율 침투가 가시화됨.",
+      "리가켐바이오 등 검증된 ADC 플랫폼을 지닌 신약사들의 지속적인 글로벌 대형 기술 이전(L/O) 계약이 하반기 바이오 섹터의 벨류에이션 상승을 견인할 것임."
+    ],
+    "data_points": [
+      "바이오보안법 타깃 중국 기업: Wuxi AppTec, Wuxi Biologics 등 중국 메이저 CDMO 기업들의 미국 시장 내 신규 계약 원천 제한 및 유예 기한 설정",
+      "특허 만료 바이오의약품 시장 파이: 스텔라라(건선), 아일리아(황반변성) 등 연매출 약 200억 달러 상당의 초대형 블록버스터 약품 특허 순차 만료 개시"
+    ],
+    "signal": "bullish",
+    "signal_reason": "미국 바이오보안법에 의한 중국 기업의 배제 반사이익이 국내 CDMO 업계에 직접 유입되고 있으며, 대형 바이오시밀러의 특허 만료 시장 개방 및 ADC 플랫폼의 확장성이 뚜렷하기 때문입니다.",
+    "key_companies": [
+      "삼성바이오로직스(207940)",
+      "셀트리온(068270)",
+      "리가켐바이오(141080)"
+    ],
+    "insight": "미국의 대중국 바이오 제재는 반도체 법(CHIPS Act)과 궤를 같이 하는 미국 헬스케어 안보 공급망 재편의 핵심입니다. 중국 우시바이오의 위탁 물량이 한국의 <span class=\"text-cyan-300 font-semibold\">삼성바이오로직스</span> 등으로 유입될 수밖에 없으며, 기술 경쟁력을 지닌 신약사의 ADC 링커/페이로드 원천 기술 가치는 빅파마들의 파이프라인 보충 수요와 얽혀 하반기 지수를 이끌 대안 주도 주로 자리매김하게 만들 것입니다.",
+    "action_point": "미국 시장 직접 유통으로 마진 상승률이 돋보일 <span class=\"text-cyan-300 font-semibold\">셀트리온</span>과 바이오보안법 최대 수혜주인 <span class=\"text-cyan-300 font-semibold\">삼성바이오로직스</span>를 장기 포트폴리오의 필수 헬스케어 주식으로 편입하고, ADC 신약사에 대한 비중을 유지하는 전략이 좋습니다."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "바이오보안법",
+      "ADC플랫폼",
+      "바이오시밀러특허",
+      "CDMO수혜",
+      "미래에셋"
+    ]
+  }
+}

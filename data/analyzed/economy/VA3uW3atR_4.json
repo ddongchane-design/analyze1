@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "VA3uW3atR_4",
+    "title": "[빈난새의 개장전요것만-6월29일] 미 소비자, 메모리3사 담합 소송 | \"메모리 상승 28년까지\" | \"2분기도 실적 폭발\" | 마이크론 샌디스크 웨스턴디지털 로켓랩 애플 구글",
+    "published": "2026-06-29T15:29:51+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=VA3uW3atR_4",
+    "thumbnail": "https://img.youtube.com/vi/VA3uW3atR_4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "글로벌 테크 수급 이벤트와 주요 기업 분할/인수 소식을 종합함. 컴캐스트의 NBC유니버설 분리 상장 계획으로 21% 폭등, 로켓랩의 이리디움(적해도 위성) 80억 달러 인수 합의에 따른 10% 급등을 다루며, 라쿠텐의 AST스페이스모바일 10억 달러 규모 위성 파트너 선정 유력 소식 및 차터와 스페이스X 간의 지상-위성 트래픽 처리 협상 소식 등 우주·통신 인프라 가치 재평가를 정리함.",
+    "key_claims": [
+      "컴캐스트는 현금 창출력 중심의 통신 존속 법인과 테마파크·영화 등 고성장 미디어 법인(NBC유니버설)으로 인적 분할하여 기업 가치를 극대화할 예정임.",
+      "로켓랩의 이리디움 인수는 단순 로켓 발사체 기업에서 스타링크에 필적할 255만 명 규모의 가입자를 보유한 저궤도 위성 통신/IoT 풀스택 우주 기업으로의 진화를 뜻함.",
+      "AI 데이터센터 전력난 속에서 전력 인프라 개발사인 테라울프(Terrawolf)에 대해 시티가 목표가 36달러 매수 커버리지를 시작하며 '에너지 병목 플레이'가 부각됨."
+    ],
+    "data_points": [
+      "주요 인수 규모: 로켓랩의 이리디움 인수 총 대금 약 80억 달러 규모 (주당 27달러 현금+주식 교환)",
+      "국채 금리 및 유가: 미 10년물 금리 4.37%대 유지, 이란 전쟁 노이즈 완화로 WTI 70달러선 소폭 지지"
+    ],
+    "signal": "bullish",
+    "signal_reason": "M&A 활성화(로켓랩-이리디움) 및 통신/미디어 기업 분할을 통한 현금 흐름 투명성 제고, 위성 인터넷(ASTS 라쿠텐 수혜) 시장의 개화가 전방위적 인프라 매출 상승을 이끌어내기 때문입니다.",
+    "key_companies": [
+      "Comcast(CMCSA)",
+      "Rocket Lab(RKLB)",
+      "AST SpaceMobile(ASTS)",
+      "Charter Communications(CHTR)",
+      "Terrawolf(WULF)"
+    ],
+    "insight": "스타링크의 독주에 맞서 전통 미디어(컴캐스트)와 위성 후발대(로켓랩, ASTS, 차터)들이 합종연횡을 펼치며 통신 인프라 단가 파괴 및 서비스 융합을 꾀하고 있습니다. 또한 데이터센터 전력원을 쥐고 있는 <span class=\"text-cyan-300 font-semibold\">테라울프(Terrawolf)</span>와 CXL IP 선도자인 <span class=\"text-cyan-300 font-semibold\">마벨(Marvell)</span>의 가치 제고는 AI 전방 투자가 하드웨어를 넘어 인프라 유틸리티로 깊게 침투하고 있음을 보여줍니다.",
+    "action_point": "저궤도 위성 통신 시장의 핵심 수혜주인 <span class=\"text-cyan-300 font-semibold\">AST스페이스모바일(ASTS)</span> 및 데이터센터 전력 확보 장벽을 보유한 원자력/에너지 기업들을 선제적으로 포트폴리오에 분산 편입합니다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock",
+      "space"
+    ],
+    "tags": [
+      "우주인프라인수",
+      "컴캐스트분할",
+      "ASTS라쿠텐",
+      "차터스페이스X",
+      "빈난새"
+    ]
+  }
+}
