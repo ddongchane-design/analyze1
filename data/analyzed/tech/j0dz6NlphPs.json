@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "j0dz6NlphPs",
+    "title": "여기에 사용된 증류 기술은 무엇? 테슬라 FSD Lite",
+    "published": "2026-06-30T10:18:31+00:00",
+    "channel_name": "엔지니어TV",
+    "url": "https://www.youtube.com/watch?v=j0dz6NlphPs",
+    "thumbnail": "https://img.youtube.com/vi/j0dz6NlphPs/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "테슬라가 최신 HW4 버전의 자율주행 FSD V14 모델을 구형 HW3 차량에 맞춰 압축 이식한 **FSD Lite(지식 증류)** 기술의 공학적 본질을 분석함. 거대 AI 모델의 지능을 저사양 온디바이스 하드웨어에 최적화하여 탑재하는 '증류(Distillation)' 기술을 물리 제어(Physical AI) 영역에 성공적으로 적용해 400만 대의 기존 유저 이탈을 방지하고 주가 반등 동력을 마련한 경로를 해설함.",
+    "key_claims": [
+      "지식 증류(Distillation)는 대형 AI 교사 모델의 판단 매커니즘을 소형 학생 모델에 압축 전수하여, 연산 전력과 메모리가 제약된 엣지 디바이스에서 최상급 성능을 내게 만드는 필수 AI 공학 기술임.",
+      "텍스트 기반 LLM과 달리 공간 깊이, 제동 조향, 가속 등 3차원 물리 조건이 복잡하게 얽힌 피지컬 AI의 증류는 기술적 난이도가 극악이나 테슬라가 자율주행 실증을 통해 이를 선제 돌파함.",
+      "구형 하드웨어 교체 비용(수조 원 상당) 없이 단순 소프트웨어 OTA(Over-The-Air)만으로 구형 HW3 차량의 자율주행 부드러움과 신뢰성을 차세대 수준으로 대폭 개선시키는 데 성공함."
+    ],
+    "data_points": [
+      "FSD Lite 타깃 규모: 구형 HW3 보드 탑재 테슬라 차량 글로벌 약 400만 대 유저 대상 배포",
+      "실무 사용 지표: 기존 FSD 실제 상시 유동 유저는 전체 가입자의 약 3~4% 선에 불과하나 업데이트로 가입 전환율 제고 가이드 확보"
+    ],
+    "signal": "bullish",
+    "signal_reason": "하드웨어 전면 교체 비용을 들이지 않고 최신 지능을 구현하는 증류 기술의 성공으로 테슬라 FSD의 보급률이 급증하고, 이 모델 압축 노하우가 향후 휴머노이드 로봇(옵티머스)의 온보드 컴퓨터 최적화에 직결되기 때문입니다.",
+    "key_companies": [
+      "Tesla(TSLA)"
+    ],
+    "insight": "피지컬 AI의 대중화를 가로막는 것은 고가의 온보드 GPU 가격과 그로 인한 차량/로봇 판가 상승입니다. 테슬라의 FSD Lite 성공은 데이터센터의 거대 초지능 모델을 엣지 로봇의 저사양 칩셋으로 <span class=\"text-cyan-300 font-semibold\">증류(Distillation)</span>하여 저비용으로 로봇을 대량 가동하는 비즈니스 표준이 될 것입니다.",
+    "action_point": "구형 칩 한계를 압축 기술로 타파하며 주가 회복을 꾀하는 <span class=\"text-cyan-300 font-semibold\">테슬라(TSLA)</span>의 비중을 포트폴리오의 피지컬 AI 및 모빌리티 핵심 몫으로 분할 매수합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "robot",
+      "stock"
+    ],
+    "tags": [
+      "FSDLite증류",
+      "지식증류기술",
+      "엣지AI로봇",
+      "테슬라하드웨어3",
+      "엔지니어TV"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "LGf6jWKC8oc",
+    "title": "남는 컴퓨팅 파워 빌려주는 '이 섹터' AI 수요 타고 매출이 터졌다 | 서동주, 김동환, 조동현 언디파인드랩스 대표 디파이농부 조선생 [크립토 PLUS]",
+    "published": "2026-06-30T04:30:35+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=LGf6jWKC8oc",
+    "thumbnail": "https://img.youtube.com/vi/LGf6jWKC8oc/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "AI 연산용 GPU 대란 속에서 남는 컴퓨팅 파워를 공유하고 보상을 받는 **디핀(DePIN, 분산형 물리 인프라 네트워크)** 섹터의 부상과 비즈니스 모델 변화를 규명함. 과거 토큰 인플레이션에만 의존하던 모델에서 탈피하여 실제 AI 연산 수요를 흡수해 실질 매출을 올리기 시작한 현 상황과 미국 재무부(OFAC)의 이더리움 검열 규제 우회 필요성이 부각한 핵심 족보를 정리함.",
+    "key_claims": [
+      "DePIN은 전 세계 개인들의 남는 스토리지, GPU, 통신망을 블록체인 기반 토큰 보상으로 묶어 탈중앙화된 형태로 클라우드 인프라를 공급하는 혁신적 개념임.",
+      "미 상무부/재무부가 북한 해커(라자루스) 연루 혐의로 이더리움 인프라 노드들에 가한 거래 규제(OFAC 제재)는 검열 저항성이 보장된 탈중앙 인프라 구축 수요를 촉발함.",
+      "아카시 네트워크(AKT) 및 렌더 네트워크(RNDR) 등은 대형 클라우드 대비 50~70% 저렴한 비용으로 유휴 GPU(H100 등)를 확보해 전 세계 소형 AI 개발사에 임대해 주는 실질적 ROI 사업 모델로 정착 중임."
+    ],
+    "data_points": [
+      "시장 성장성: AI 클라우드 렌탈을 중심축으로 한 2026년 2분기 기준 DePIN 섹터 실질 총 유치 자산 및 네트워크 매출 성장률 가파른 개선세",
+      "비용 비교 지표: 빅테크 클라우드 호스팅 서비스 이용료 대비 탈중앙 GPU 네트워크 사용 시 평균 50% 이상 절감 유도 가능"
+    ],
+    "signal": "bullish",
+    "signal_reason": "전 세계적인 GPU 병목 현상 덕에 DePIN의 유휴 연산 자원 임대 비즈니스가 단순 토큰 보상을 넘어 실물 AI 개발사들의 유료 달러 결제 매출(Real Yield)을 창출하고 있기 때문입니다.",
+    "key_companies": [
+      "Akash Network(AKT)",
+      "Render Network(RNDR)"
+    ],
+    "insight": "DePIN이 과거의 뜬구름 잡는 토큰 모델에서 살아남은 이유는 '실질적 컴퓨팅 공급 부족' 덕분입니다. 기업들이 대형 클라우드에서 GPU를 할당받으려면 수개월을 대기해야 하는 상황에서, <span class=\"text-cyan-300 font-semibold\">아카시나 렌더 네트워크</span> 같은 분산형 대안 플랫폼은 유연성과 가격 매력도를 무기로 크립토를 넘어 레거시 테크 시장의 필수 보완재로 안착하고 있습니다.",
+    "action_point": "가치 증명이 미비한 단순 IoT 통신 위주 DePIN은 피하고, 실질 실적이 우수하며 이익 모델을 검증받은 <span class=\"text-cyan-300 font-semibold\">GPU 렌탈형 DePIN 대장 프로토콜</span>을 장기 가치 자산 포트폴리오의 크립토 몫으로 소량 편입합니다."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "디핀DePIN",
+      "분산컴퓨팅파워",
+      "아카시렌더네트워크",
+      "이더리움검열저항",
+      "삼프로TV"
+    ]
+  }
+}

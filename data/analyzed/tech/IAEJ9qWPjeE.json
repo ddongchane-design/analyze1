@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "IAEJ9qWPjeE",
+    "title": "팔란티어 CEO가 OpenAI를 비난한 진짜 이유",
+    "published": "2026-06-30T11:30:26+00:00",
+    "channel_name": "안될공학 - IT 테크 신기술",
+    "url": "https://www.youtube.com/watch?v=IAEJ9qWPjeE",
+    "thumbnail": "https://img.youtube.com/vi/IAEJ9qWPjeE/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "팔란티어(Palantir) CEO 알렉스 카프(Alex Karp)가 오픈AI와 앤드로픽 등 AI 파운데이션 모델 개발사들을 향해 날선 비판을 쏟아낸 제품 철학적 배경을 조망함. 모델 회사들은 단순히 막대한 토큰(Token)을 태워 쓸모없는 리포트를 작성할 뿐 기업의 실질적 프로세스 혁신을 유도하지 못한다는 점을 짚어내고, 팔란티어의 **AIP 플랫폼**이 기업 데이터 연결과 권한 관리를 통해 행동 가능한 실익(ROI)을 제공함을 비교 해설함.",
+    "key_claims": [
+      "거대 파운데이션 모델(LLM)이 아무리 똑똑해도 보안 권한 관리, 감사 추적(Audit Trail), 레거시 데이터와의 연결이 차단되면 실제 기업 실무 적용은 원천 불가능함.",
+      "오픈AI의 토큰 단가 인하 경쟁이 격화될수록 모델 자체는 범용재(Commodity)로 몰락하며, 오히려 이 가벼워진 토큰들을 묶어 비즈니스 수익으로 변환하는 미들 레이어(Middle Layer)가 독식함.",
+      "알렉스 카프의 비판은 모델 고도화 자체에 함몰된 시장의 시각을 실질적인 AI 수익 모델(ROI) 검증 및 팔란티어 AIP 도입의 시급성으로 전환시키기 위한 정교한 마케팅 프레임임."
+    ],
+    "data_points": [
+      "AI 프로젝트 ROI 성공률: 가트너 조사 기준 기업 인프라 운영 내 AI 실증 도입 사례 중 투자 수익률 충족 비율 단 28% 도달",
+      "팔란티어 기업용 포지션: AIP 출시 이후 미 육군 및 대형 금융 기관 대상 데이터 의사결정 권한 제어 모듈 수주 급증"
+    ],
+    "signal": "bullish",
+    "signal_reason": "단순 LLM API 단가 인하 경쟁의 최종 승자는 모델을 결합해 비즈니스 업무 처리를 자동화해 주는 미들레이어 장악사인 팔란티어 등의 기업용 플랫폼이 될 것이기 때문입니다.",
+    "key_companies": [
+      "Palantir Technologies(PLTR)",
+      "OpenAI",
+      "Anthropic"
+    ],
+    "insight": "알렉스 카프의 말처럼 모델 자체는 인프라 비용 부담 때문에 빠르게 마진이 압착되고 있습니다. 핵심 데이터와 권한 관리라는 철옹성 장벽을 쥐고 <span class=\"text-cyan-300 font-semibold\">실행 가능한 액션</span>으로 변환해 주는 <span class=\"text-cyan-300 font-semibold\">팔란티어 AIP</span> 같은 통합 소프트웨어 솔루션만이 기업용 AI 예산의 대부분을 최종 수거하게 될 것입니다.",
+    "action_point": "가치 하락이 예상되는 소형 모델 호스팅 업체는 회피하고, 확고한 엔터프라이즈 해자를 쥐고 실적 성장이 증명되고 있는 <span class=\"text-cyan-300 font-semibold\">팔란티어(PLTR)</span>의 장기 비중 확대를 제안합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "팔란티어AIP",
+      "알렉스카프비판",
+      "오픈AI토큰소모",
+      "기업용AI동작",
+      "안될공학"
+    ]
+  }
+}
