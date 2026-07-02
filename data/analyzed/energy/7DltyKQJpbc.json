@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "7DltyKQJpbc",
+    "title": "GPU 있어도 에너지가 없다... SemiAnalysis AI 인프라 전격 진단 | AI 데이터센터가 발전소를 짓는 이유 | 전력 병목의 모든 것",
+    "published": "2026-07-01T09:21:19+00:00",
+    "channel_name": "안될공학 - IT 테크 신기술",
+    "url": "https://www.youtube.com/watch?v=7DltyKQJpbc",
+    "thumbnail": "https://img.youtube.com/vi/7DltyKQJpbc/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "글로벌 AI 데이터센터 인프라 경쟁의 병목이 GPU 보급률에서 전력을 조달 및 연결하는 속도인 **'스피드 투 파워(Speed-to-Power)'**로 완전히 이동하였음을 SemiAnalysis 보고서를 바탕으로 분석함. 미국의 송배전 그리드 여유분이 2027년부터 마이너스로 돌아섬에 따라, 계량기 안쪽에서 현장 자체 발전을 결합하는 **BTM(Behind-The-Meter)** 솔루션의 폭발적 성장과 가스터빈/연료전지 수혜 구조를 규명함.",
+    "key_claims": [
+      "미국의 신규 데이터센터 전력 수요는 2030년 단일 연도 증설액만 84GW에 육박하는 반면, 미국 그리드가 감당 가능한 연간 유효 공급력(ELCC)은 15GW에 불과해 극심한 전력 부족에 직면함.",
+      "송전선 건설 대기(4~6년 소요)를 견디지 못하는 하이퍼스케일러들은 2028년 이후 절반 이상이 전력망 의존을 벗어난 자체 분산형 발전망(BTM)을 필수로 채택하게 됨.",
+      "이에 따라 GE버노바(GE Vernova)의 대형 가스터빈 수주 백로그가 100GW를 돌파하고, 핀란드 바르질라(Wartsila)가 텍사스 데이터센터에 790MW 규모 천연가스 엔진 42대를 공급 확정하는 등 현장 발전설비가 폭증하고 있음."
+    ],
+    "data_points": [
+      "미국 신규 데이터센터 단일 연도 증설 전력 가이드: 2026년 21GW에서 2030년 84GW로 기하급수적 성장 전망",
+      "GE버노바 백로그 예약: 2026년 1분기 기준 확정 백로그 및 장비 슬롯 선점 계약 규모 누적 100GW 기록"
+    ],
+    "signal": "bullish",
+    "signal_reason": "미국의 만성적 전력망 부족으로 인해 하이퍼스케일러들이 자체 발전(BTM) 시설 구축에 막대한 자금을 무조건 쏟아붓고 있어 전력 장비 및 발전기 사의 마진이 사상 최고 수준을 경신하고 있기 때문입니다.",
+    "key_companies": [
+      "GE Vernova(GEV)",
+      "Wartsila",
+      "Bloom Energy(BE)",
+      "Vertiv(VRT)"
+    ],
+    "insight": "이제 AI 대장주는 엔비디아가 아니라 전기를 꽂아줄 발전기 제조사입니다. <span class=\"text-cyan-300 font-semibold\">BTM(Behind-The-Meter)</span> 흐름은 데이터센터 옆에 소형 독립 발전소를 짓는 것과 같으며, 공기가 짧고 효율이 즉각적인 <span class=\"text-cyan-300 font-semibold\">이동형 가스터빈(GE버노바) 및 분산 가스 엔진(바르질라, 블룸에너지)</span>의 판가 협상력을 극대화하는 초강력 동인입니다.",
+    "action_point": "미국 전력 독립 그리드 및 BTM 핵심 기재를 독점 공급하는 <span class=\"text-cyan-300 font-semibold\">GE버노바(GEV)</span> 및 수냉식 배전설비 강자들의 비중을 해외 포트폴리오의 중추로 적극 편입해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "energy",
+    "secondary_topics": [
+      "tech",
+      "stock"
+    ],
+    "tags": [
+      "스피드투파워",
+      "비하인드더미터",
+      "세미아날리시스",
+      "가스터빈수요",
+      "바르질라텍사스"
+    ]
+  }
+}
