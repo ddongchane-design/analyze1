@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "QEeI63Xu2RQ",
+    "title": "AI, 화면 밖으로 나온다 | 실리콘밸리뷰 | 원호섭 특파원",
+    "published": "2026-07-04T23:00:24+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=QEeI63Xu2RQ",
+    "thumbnail": "https://img.youtube.com/vi/QEeI63Xu2RQ/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "생성형 AI가 모니터 화면을 벗어나 공장, 물류창고 등 현실 공간의 생산성을 바꾸는 '피지컬 AI'로 진화하고 있으며, 제조업 강국인 한국이 보유한 풍부한 산업 데이터의 가치와 한미 연대 기회를 규명함.",
+    "key_claims": [
+      "AI의 최전선은 챗봇(Chatbot) 중심의 디지털 세상을 지나 자율 로봇, 드론, 스마트 제어 장치가 직접 돈을 벌어주는 현실 세계(Physical AI)로 완전히 전환되고 있음.",
+      "미국은 대형 언어 모델과 AI 알고리즘 설계를 주도하고, GDP의 27%를 제조 공장에 둔 한국은 하드웨어 조립 생산력 및 독보적 제조 현장 데이터베이스(Data)를 공급하는 최적의 한미 삼각 동맹이 부각됨.",
+      "미국 물류 로봇 선도사 넥스터리티(Dexterity)의 매논 CEO는 크기가 다른 박스를 스스로 판독해 적재하는 물리 AI의 최초 시장으로 공급망 초입인 '물류 센터'를 지목하며 실전 수주 현황을 공유함."
+    ],
+    "data_points": [
+      "제조업 GDP 비중: 대한민국 국가 경제 내 순수 제조업 부가가치 기여 비중 약 27% 도달"
+    ],
+    "signal": "bullish",
+    "signal_reason": "AI 소프트웨어 단일 경쟁 구도에서 기계 자동화 및 로봇 제어를 아우르는 피지컬 하드웨어 시장으로 헤게모니가 이동하여, 한국의 조립 소부장 공급사들의 전략적 납품 파이가 확장되기 때문입니다.",
+    "key_companies": [
+      "Dexterity",
+      "현대자동차(005380)",
+      "삼성전자(005930)"
+    ],
+    "insight": "<span class=\"text-cyan-300 font-semibold\">피지컬 AI(Physical AI)</span> 시대의 핵심 병목은 알고리즘 소스 코드가 아닌 현장 정제 데이터의 확보력입니다. 한국의 대기업 팹과 조선소, 차 조립 라인에서 매초 생성되는 <span class=\"text-cyan-300 font-semibold\">제조 공정 데이터</span>는 한미 AI 협상에서 막강한 지분 카드로 작동할 것이며, 물류 현장용 3D 비전 센서 및 자율 매니퓰레이터 기어 제조 사의 성장이 기대됩니다.",
+    "action_point": "단순 지능형 챗봇 소프트웨어 테마는 처분하고, 로봇용 3D 라이다(LiDAR) 센서, 고정밀 다축 구동 모터, 실시간 기계 상태 관제 진단 장비 기술력을 쥔 실질적 기계 로봇 소부장을 선점합니다."
+  },
+  "classification": {
+    "primary_topic": "robot",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "피지컬AI슈퍼커넥트",
+      "제조업AI전환",
+      "넥스터리티",
+      "한국제조데이터"
+    ]
+  }
+}

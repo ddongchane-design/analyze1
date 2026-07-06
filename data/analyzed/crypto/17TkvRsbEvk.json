@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "17TkvRsbEvk",
+    "title": "반도체 오르면 비트코인 하락? 4년 주기설로 보는 '진짜 바닥'",
+    "published": "2026-07-05T04:59:36+00:00",
+    "channel_name": "디파이 농부 조선생 | Professor Jo",
+    "url": "https://www.youtube.com/watch?v=17TkvRsbEvk",
+    "thumbnail": "https://img.youtube.com/vi/17TkvRsbEvk/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "비트코인 반감기 기반의 4년 주기설과 유럽의 암호자산 규제안(MiCA) 전면 시행에 따른 스테이블코인 시장의 판도 변화를 분석함. 고점 대비 40% 조정을 겪는 비트코인의 바닥 시점을 2026년 11월 전후로 지목하는 한편, 규제 준수 의무화로 인해 1위 테더(USDT)가 유럽 시장에서 철수 조짐을 보이고 규제 취득사인 서클(USDC)의 시장 장악력이 강화되는 구조적 변화를 설명함.",
+    "key_claims": [
+      "역사적 반감기 패턴(초록색 반감기, 빨간색 고점, 하얀색 바닥)에 대입할 시, 2025년 10월 고점 이후 진행되는 하락세는 2026년 11월 전후에 비트코인의 진바닥을 형성할 확률이 통계적으로 매우 높음.",
+      "유럽 미카(MiCA)의 전면 시행으로 라이선스를 획득하지 못한 바이낸스(Binance)와 테더(USDT)가 유럽 현지에서 거래 제한 및 퇴출 수순을 밟고 있으며, 핀테크 레볼루트 역시 테더 지원을 중단함.",
+      "미 정부 승인을 획득한 규제 준수형 스테이블코인인 USDC(Circle)는 유럽 내 지배적 점유율을 독식하기 시작하여 크립토 제도권화의 최종 승자로 입지 굳히기에 돌입함."
+    ],
+    "data_points": [
+      "비트코인 조정률: 25년 10월 최고점 대비 현재 구간 누적 40% 안팎 조정 기록",
+      "비트코인 ETF 수급: 7월 2일 거래일 기준 미국 상장 비트코인 현물 ETF로 총 2억 2,000만 달러 순유입 복귀"
+    ],
+    "signal": "neutral",
+    "signal_reason": "4년 주기설에 따른 바닥 탐색 과정이 진행되는 횡보 국면이나, 유럽 MiCA 규제 도입으로 규제 취득 자산(USDC)으로의 질서 있는 수급 이동과 MSTR 우선주 반등이 하방 지지력을 다지고 있기 때문입니다.",
+    "key_companies": [
+      "MicroStrategy(MSTR)",
+      "Circle"
+    ],
+    "insight": "ETF와 기관 자금의 유입도 결국 <span class=\"text-cyan-300 font-semibold\">비트코인 반감기 4년 주기설</span>의 소매 심리 궤도를 크게 이탈시키지 못했습니다. 그러나 유럽 <span class=\"text-cyan-300 font-semibold\">미카(MiCA) 규제 전면화</span>는 무법지대였던 크립토 시장을 서클(USDC) 중심의 제도권 달러 통화망으로 편입시켜, 향후 가상자산 인프라 사들의 제도적 리레이팅을 가속화할 것입니다.",
+    "action_point": "규제 리스크에 노출된 비상장 거래소 코인은 회피하고, 미카 규제 통과 및 제도권 결제망 연계성이 굳건한 <span class=\"text-cyan-300 font-semibold\">USDC 연관 수혜 인프라사</span> 및 MSTR의 우선주(STRC) 반등 모멘텀을 추적합니다."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "비트코인4년주기",
+      "유럽미카규제시행",
+      "USDC점유율상승",
+      "레볼루트테더중단"
+    ]
+  }
+}
