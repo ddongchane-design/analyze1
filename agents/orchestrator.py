@@ -64,7 +64,12 @@ def collect_pending():
     print(f"\n[완료] 총 {new_count}개 신규 영상 임시 수집 완료")
 
 
+from agents.etf_processor import process_etf_flows
+
 def render_dashboard():
+    # Process ETF flows (supports fallback if delayed or missing)
+    etf_summary = process_etf_flows()
+
     channels = json.loads(Path("config/channels.json").read_text(encoding="utf-8"))["channels"]
     topics   = json.loads(Path("config/topics.json").read_text(encoding="utf-8"))["topics"]
 
@@ -93,6 +98,9 @@ def render_dashboard():
         analyses = []
         last_update = "1970-01-01T00:00:00+00:00"
 
+        # Get ETF flows for this topic
+        topic_etf_flows = etf_summary.get("etf_flows_by_category", {}).get(topic_id, [])
+
         if analyzed_dir.exists():
             entries = []
             for json_file in analyzed_dir.glob("*.json"):
@@ -107,7 +115,7 @@ def render_dashboard():
                 last_update = entries[0]["video"].get("published", last_update)
 
             for data in entries:
-                all_cards.append(render_card(data["video"], data["analysis"], data["classification"]))
+                all_cards.append(render_card(data["video"], data["analysis"], data["classification"], etf_flow=topic_etf_flows))
                 analyses.append((data["video"].get("published", ""), data["analysis"]))
 
         topic_last_updates[topic_id] = last_update
@@ -149,10 +157,10 @@ def render_dashboard():
                 print(f"  [info] {topic_id} - 최근 {synthesis_days}일치 {len(recent_analyses)}개 존재하나 API 키나 캐시가 없어 종합을 생략합니다.")
 
         render_topic_page(topic_map[topic_id], "\n".join(all_cards), output_dir,
-                          channels=active_channels, synthesis=synthesis)
+                          channels=active_channels, synthesis=synthesis, etf_flow=topic_etf_flows)
         topic_card_counts[topic_id] = len(all_cards)
 
-    render_index(topics, topic_card_counts, topic_last_updates, output_dir)
+    render_index(topics, topic_card_counts, topic_last_updates, output_dir, etf_summary=etf_summary)
     print("\n[HTML 생성 완료]")
 
 

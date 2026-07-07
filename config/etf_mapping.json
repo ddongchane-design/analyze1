@@ -1,0 +1,37 @@
+{
+  "robot": [
+    { "ticker": "445290", "market": "kr", "label": "KODEX 로봇액티브" },
+    { "ticker": "BOTZ", "market": "us", "label": "Global X Robotics & AI" }
+  ],
+  "economy": [
+    { "ticker": "SPY", "market": "us", "label": "SPDR S&P 500" },
+    { "ticker": "QQQ", "market": "us", "label": "Invesco QQQ" },
+    { "ticker": "EWY", "market": "us", "label": "iShares MSCI South Korea" }
+  ],
+  "tech": [
+    { "ticker": "SMH", "market": "us", "label": "VanEck Semiconductor" },
+    { "ticker": "395160", "market": "kr", "label": "KODEX AI반도체핵심공정" }
+  ],
+  "stock": [
+    { "ticker": "SPY", "market": "us", "label": "SPDR S&P 500" },
+    { "ticker": "EWY", "market": "us", "label": "iShares MSCI South Korea" }
+  ],
+  "energy": [
+    { "ticker": "XLU", "market": "us", "label": "Utilities Select Sector" },
+    { "ticker": "0101N0", "market": "kr", "label": "KB RISE AI전력인프라" }
+  ],
+  "crypto": [
+    { "ticker": "IBIT", "market": "us", "label": "iShares Bitcoin Trust" },
+    { "ticker": "FBTC", "market": "us", "label": "Fidelity Bitcoin Trust" }
+  ],
+  "space": [
+    { "ticker": "463250", "market": "kr", "label": "TIGER K-방산&우주" }
+  ],
+  "shipbuilding": [
+    { "ticker": "0115D0", "market": "kr", "label": "KODEX 조선TOP10" },
+    { "ticker": "0141S0", "market": "kr", "label": "SOL 조선소부장" }
+  ],
+  "etc": [
+    { "ticker": "XBI", "market": "us", "label": "SPDR S&P Biotech" }
+  ]
+}

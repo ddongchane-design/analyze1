@@ -102,6 +102,8 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
       </p>
     </div>
 
+    {etf_thermometer}
+
     <!-- Topic Grid -->
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 gap-5 w-full mb-6">
       {topic_cards}
@@ -232,6 +234,7 @@ TOPIC_TEMPLATE = """<!DOCTYPE html>
   </header>
 
   <main class="relative z-10 max-w-[1400px] mx-auto px-8 py-10">
+    {etf_panel}
     {synthesis}
     <div id="cardGrid" class="grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-5">
       {cards}
@@ -305,6 +308,7 @@ CARD_TEMPLATE = """
       <div class="flex items-center gap-2 mt-1.5 flex-wrap">
         <span class="px-2 py-0.5 rounded-full text-[10px] font-semibold bg-{color}-500/15 text-{color}-300 border border-{color}-400/30">{channel}</span>
         <span class="text-[11px] text-slate-500">{date}</span>
+        {etf_badge}
       </div>
     </div>
     <div class="flex-shrink-0">
@@ -347,11 +351,24 @@ CLAIM_HTML = '<div class="flex items-start gap-2 text-[12px] text-slate-400"><sp
 TAG_HTML   = '<span class="px-2 py-0.5 rounded-md text-[10px] bg-slate-800/80 border border-slate-700/60 text-slate-500">{}</span>'
 
 
-def render_card(video: dict, analysis: dict, classification: dict) -> str:
+def render_card(video: dict, analysis: dict, classification: dict, etf_flow: list = None) -> str:
     topic_id = classification.get("primary_topic", "tech")
     pal  = TOPIC_PALETTE.get(topic_id, TOPIC_PALETTE["tech"])
     color = pal["color"]
     shadow = TOPIC_SHADOW.get(topic_id, "rgba(129,140,248,0.15)")
+
+    etf_badge = ""
+    if etf_flow:
+        # Find turnaround or inflow states
+        turnaround_etfs = [x for x in etf_flow if x.get("status") == "OK" and x.get("turnaround")]
+        inflow_etfs = [x for x in etf_flow if x.get("status") == "OK" and x.get("w1_amount", 0) > 0]
+        
+        if turnaround_etfs:
+            etf_badge = '<span class="px-2 py-0.5 rounded-full text-[10px] font-semibold bg-amber-500/15 text-amber-300 border border-amber-400/30">🔄 수급 턴어라운드</span>'
+        elif inflow_etfs:
+            etf_badge = '<span class="px-2 py-0.5 rounded-full text-[10px] font-semibold bg-emerald-500/15 text-emerald-300 border border-emerald-400/30">🟢 자금 유입</span>'
+        else:
+            etf_badge = '<span class="px-2 py-0.5 rounded-full text-[10px] font-semibold bg-rose-500/15 text-rose-300 border border-rose-400/30">🔴 자금 유출</span>'
 
     sig  = analysis.get("signal", "neutral")
     ss   = SIGNAL_STYLE.get(sig, SIGNAL_STYLE["neutral"])
@@ -389,6 +406,7 @@ def render_card(video: dict, analysis: dict, classification: dict) -> str:
         action_point=analysis.get("action_point", ""),
         tags_html=tags_html,
         opacity_class=opacity_class,
+        etf_badge=etf_badge,
     )
 
 
@@ -452,11 +470,65 @@ def _render_synthesis_banner(synthesis: dict, color: str, updated_at: str = "") 
     )
 
 
-def render_topic_page(topic: dict, cards_html: str, output_dir: Path, channels: list = None, synthesis: dict = None):
+def render_topic_page(topic: dict, cards_html: str, output_dir: Path, channels: list = None, synthesis: dict = None, etf_flow: list = None):
     tid   = topic["id"]
     pal   = TOPIC_PALETTE.get(tid, TOPIC_PALETTE["tech"])
     color = pal["color"]
     emoji = pal["emoji"]
+
+    etf_panel_html = ""
+    if etf_flow:
+        etf_rows = ""
+        for etf in etf_flow:
+            if etf.get("status") == "No Data":
+                continue
+            
+            w1 = etf.get("w1_amount", 0)
+            flow_acc = etf.get("flow_accel", 0)
+            
+            w1_formatted = f"+{w1:,.1f}" if w1 > 0 else f"{w1:,.1f}"
+            flow_acc_formatted = f"+{flow_acc:,.1f}" if flow_acc > 0 else f"{flow_acc:,.1f}"
+            
+            flow_acc_color = "text-emerald-400" if flow_acc > 0 else "text-rose-400" if flow_acc < 0 else "text-slate-400"
+            w1_color = "text-emerald-400" if w1 > 0 else "text-rose-400" if w1 < 0 else "text-slate-400"
+            
+            turnaround_badge = ""
+            if etf.get("turnaround"):
+                turnaround_badge = f'<span class="ml-2 text-[9px] px-1.5 py-0.5 rounded bg-amber-500/20 text-amber-300 border border-amber-500/30">{etf["turnaround"]}</span>'
+                
+            aum_change = etf.get("aum_change_rate", 0)
+            aum_change_formatted = f"+{aum_change:.2f}%" if aum_change > 0 else f"{aum_change:.2f}%"
+            aum_change_color = "text-emerald-400" if aum_change > 0 else "text-rose-400" if aum_change < 0 else "text-slate-400"
+            
+            etf_rows += f"""
+            <div class="flex items-center justify-between py-2 border-b border-slate-700/40 text-xs">
+              <div class="flex items-center gap-2">
+                <span class="font-bold text-slate-200">{etf['label']}</span>
+                <span class="text-slate-500 font-manrope">{etf['ticker']}</span>
+                {turnaround_badge}
+              </div>
+              <div class="flex gap-6 font-manrope">
+                <div>AUM: <span class="text-slate-300">{etf['aum']:,.1f}</span> <span class="{aum_change_color} text-[10px]">({aum_change_formatted})</span></div>
+                <div>주간 유입: <span class="{w1_color} font-bold">{w1_formatted}</span></div>
+                <div>수급 가속도: <span class="{flow_acc_color}">{flow_acc_formatted}</span></div>
+              </div>
+            </div>
+            """
+        
+        if etf_rows:
+            etf_panel_html = f"""
+            <div class="mb-6 bg-slate-900/40 border border-slate-700/60 rounded-2xl p-5">
+              <div class="flex items-center justify-between mb-3">
+                <h4 class="text-xs font-bold tracking-widest text-{color}-400 uppercase flex items-center gap-1.5">
+                  <span class="material-symbols-outlined text-[16px]">show_chart</span> 주간 ETF 수급 동향 (Akros 제공)
+                </h4>
+                <span class="text-[10px] text-slate-500">지표: AUM 및 주간 순유입 변화량</span>
+              </div>
+              <div class="flex flex-col gap-1">
+                {etf_rows}
+              </div>
+            </div>
+            """
 
     if not cards_html.strip():
         cards_html = ""
@@ -490,6 +562,7 @@ def render_topic_page(topic: dict, cards_html: str, output_dir: Path, channels: 
         topic_id=tid,
         color=color,
         emoji=emoji,
+        etf_panel=etf_panel_html,
         synthesis=synthesis_html,
         cards=cards_html,
         channel_btns=ch_btns,
@@ -500,7 +573,90 @@ def render_topic_page(topic: dict, cards_html: str, output_dir: Path, channels: 
     print(f"  [html] {out}")
 
 
-def render_index(topics: list, topic_card_counts: dict, topic_last_updates: dict, output_dir: Path):
+def render_index(topics: list, topic_card_counts: dict, topic_last_updates: dict, output_dir: Path, etf_summary: dict = None):
+    etf_thermometer = ""
+    if etf_summary and etf_summary.get("status") == "OK":
+        latest_date = etf_summary.get("latest_date", "")
+        prev_date = etf_summary.get("prev_date", "")
+        
+        # 1. Accelerations
+        acc_items = ""
+        for idx, item in enumerate(etf_summary.get("top_accelerations", [])):
+            acc_items += f"""
+            <div class="flex items-center justify-between text-xs py-1.5 border-b border-slate-700/40">
+              <span class="text-slate-300 font-semibold">{item['label']}</span>
+              <span class="text-emerald-400 font-manrope font-bold">+{item['flow_accel']:,.1f} 가속</span>
+            </div>
+            """
+            
+        # 2. Turnarounds
+        turn_items = ""
+        for idx, item in enumerate(etf_summary.get("turnarounds", [])[:3]):
+            color_class = "text-emerald-400" if "Golden" in item['turnaround'] else "text-rose-400"
+            symbol = "🔄" if "Golden" in item['turnaround'] else "⚠️"
+            turn_items += f"""
+            <div class="flex items-center justify-between text-xs py-1.5 border-b border-slate-700/40">
+              <span class="text-slate-300 font-semibold">{item['label']}</span>
+              <span class="{color_class} font-bold">{symbol} {item['turnaround'].split(' (')[0]}</span>
+            </div>
+            """
+            
+        if not acc_items:
+            acc_items = '<div class="text-xs text-slate-500 py-4 text-center">가속 테마 없음</div>'
+        if not turn_items:
+            turn_items = '<div class="text-xs text-slate-500 py-4 text-center">전환 시그널 없음</div>'
+            
+        date_str = f"({latest_date} vs {prev_date})" if prev_date else f"({latest_date})"
+        
+        etf_thermometer = f"""
+        <!-- ETF Flow Thermometer -->
+        <div class="w-full mb-10 bg-gradient-to-br from-slate-900/60 to-slate-950/40 border border-slate-800 rounded-[2rem] p-6 backdrop-blur-xl">
+          <div class="flex items-center justify-between mb-4 pb-3 border-b border-slate-800">
+            <div class="flex items-center gap-2">
+              <span class="material-symbols-outlined text-purple-400">query_stats</span>
+              <h2 class="text-base font-bold text-slate-100">주간 글로벌 자금 온도계</h2>
+              <span class="text-[10px] text-slate-500 font-manrope">{date_str}</span>
+            </div>
+            <span class="text-[10px] bg-slate-800 text-slate-400 px-2.5 py-0.5 rounded-full">Akros Flow Engine</span>
+          </div>
+          
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+            <!-- Section 1: Inflow Acceleration -->
+            <div>
+              <div class="flex items-center gap-1.5 mb-2.5">
+                <span class="w-1.5 h-1.5 rounded-full bg-emerald-400"></span>
+                <h3 class="text-xs font-bold uppercase tracking-wider text-slate-400">수급 모멘텀 가속 (Top 3)</h3>
+              </div>
+              <div class="flex flex-col">
+                {acc_items}
+              </div>
+            </div>
+            
+            <!-- Section 2: Trend Turnarounds -->
+            <div>
+              <div class="flex items-center gap-1.5 mb-2.5">
+                <span class="w-1.5 h-1.5 rounded-full bg-amber-400"></span>
+                <h3 class="text-xs font-bold uppercase tracking-wider text-slate-400">주요 수급 턴어라운드 (Turnarounds)</h3>
+              </div>
+              <div class="flex flex-col">
+                {turn_items}
+              </div>
+            </div>
+          </div>
+        </div>
+        """
+    else:
+        msg = etf_summary.get('message', '') if etf_summary else "데이터 준비 중"
+        etf_thermometer = f"""
+        <!-- ETF Flow Thermometer (Fallback) -->
+        <div class="w-full mb-10 bg-slate-900/30 border border-slate-800/80 rounded-[2rem] p-6 text-center">
+          <div class="flex items-center justify-center gap-2 text-slate-500 text-xs">
+            <span class="material-symbols-outlined text-base animate-pulse">hourglass_empty</span>
+            <span>주간 ETF 자금 흐름 데이터 업데이트 대기 중 ({msg})</span>
+          </div>
+        </div>
+        """
+
     # 가장 최근에 업데이트된 영상 날짜가 있는 순서로 정렬
     sorted_topics = sorted(
         topics,
@@ -528,6 +684,7 @@ def render_index(topics: list, topic_card_counts: dict, topic_last_updates: dict
 
     html = INDEX_TEMPLATE.format(
         head=SHARED_HEAD,
+        etf_thermometer=etf_thermometer,
         topic_cards=cards_html,
         updated=datetime.now(KST).strftime("%Y.%m.%d %H:%M"),
     )

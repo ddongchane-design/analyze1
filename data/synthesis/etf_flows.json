@@ -1,0 +1,402 @@
+{
+  "status": "OK",
+  "latest_date": "26.07.06",
+  "prev_date": "26.6.16",
+  "etf_flows_by_category": {
+    "robot": [
+      {
+        "ticker": "445290",
+        "label": "KODEX 로봇액티브",
+        "market": "kr",
+        "status": "OK",
+        "aum": 1170923,
+        "w1_amount": -16422.7565033271,
+        "m1_amount": 59119.9291089541,
+        "ytd_amount": 538656.8125023787,
+        "aum_change": -405899,
+        "aum_change_rate": -25.741586558279884,
+        "flow_accel": -84980.2821200253,
+        "turnaround": "Dead Cross (Outflow)"
+      },
+      {
+        "ticker": "BOTZ",
+        "label": "Global X Robotics & AI",
+        "market": "us",
+        "status": "OK",
+        "aum": 3482.8785,
+        "w1_amount": 5.6085,
+        "m1_amount": -3.3651,
+        "ytd_amount": 217.6098,
+        "aum_change": -54.86400000000003,
+        "aum_change_rate": -1.5508194844593701,
+        "flow_accel": 47.301,
+        "turnaround": "Golden Cross (Inflow)"
+      }
+    ],
+    "economy": [
+      {
+        "ticker": "SPY",
+        "label": "SPDR S&P 500",
+        "market": "us",
+        "status": "OK",
+        "aum": 781298.05296,
+        "w1_amount": -3277.032,
+        "m1_amount": 8602.209,
+        "ytd_amount": 3723.8999999999,
+        "aum_change": -13901.76509999996,
+        "aum_change_rate": -1.7482102968679296,
+        "flow_accel": -2635.4265000001,
+        "turnaround": null
+      },
+      {
+        "ticker": "QQQ",
+        "label": "Invesco QQQ",
+        "market": "us",
+        "status": "OK",
+        "aum": 480470.55,
+        "w1_amount": -890.75,
+        "m1_amount": 8479.94,
+        "ytd_amount": 7446.67,
+        "aum_change": -16781.850000000035,
+        "aum_change_rate": -3.3749158375102937,
+        "flow_accel": -4499.15,
+        "turnaround": "Dead Cross (Outflow)"
+      },
+      {
+        "ticker": "EWY",
+        "label": "iShares MSCI South Korea",
+        "market": "us",
+        "status": "OK",
+        "aum": 21733.891,
+        "w1_amount": -18.014,
+        "m1_amount": 585.455,
+        "ytd_amount": 6701.208,
+        "aum_change": -3291.2164999999986,
+        "aum_change_rate": -13.151657790081417,
+        "flow_accel": -197.7465,
+        "turnaround": "Dead Cross (Outflow)"
+      }
+    ],
+    "tech": [
+      {
+        "ticker": "SMH",
+        "label": "VanEck Semiconductor",
+        "market": "us",
+        "status": "OK",
+        "aum": 70003.93968,
+        "w1_amount": 1569.5685,
+        "m1_amount": 2517.2325,
+        "ytd_amount": 8706.663,
+        "aum_change": -5119.193520000001,
+        "aum_change_rate": -6.814403635656667,
+        "flow_accel": 307.72350000000006,
+        "turnaround": null
+      },
+      {
+        "ticker": "395160",
+        "label": "KODEX AI반도체핵심공정",
+        "market": "kr",
+        "status": "OK",
+        "aum": 4972615,
+        "w1_amount": 463187.9340350879,
+        "m1_amount": 681472.0521739136,
+        "ytd_amount": 2592788.188061367,
+        "aum_change": 974513,
+        "aum_change_rate": 24.37439064836265,
+        "flow_accel": 780917.2572573101,
+        "turnaround": "Golden Cross (Inflow)"
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "SPY",
+        "label": "SPDR S&P 500",
+        "market": "us",
+        "status": "OK",
+        "aum": 781298.05296,
+        "w1_amount": -3277.032,
+        "m1_amount": 8602.209,
+        "ytd_amount": 3723.8999999999,
+        "aum_change": -13901.76509999996,
+        "aum_change_rate": -1.7482102968679296,
+        "flow_accel": -2635.4265000001,
+        "turnaround": null
+      },
+      {
+        "ticker": "EWY",
+        "label": "iShares MSCI South Korea",
+        "market": "us",
+        "status": "OK",
+        "aum": 21733.891,
+        "w1_amount": -18.014,
+        "m1_amount": 585.455,
+        "ytd_amount": 6701.208,
+        "aum_change": -3291.2164999999986,
+        "aum_change_rate": -13.151657790081417,
+        "flow_accel": -197.7465,
+        "turnaround": "Dead Cross (Outflow)"
+      }
+    ],
+    "energy": [
+      {
+        "ticker": "XLU",
+        "label": "Utilities Select Sector",
+        "market": "us",
+        "status": "OK",
+        "aum": 23687.57248,
+        "w1_amount": 286,
+        "m1_amount": 636.064,
+        "ytd_amount": 466.752,
+        "aum_change": 796.4409599999999,
+        "aum_change_rate": 3.47925553310525,
+        "flow_accel": 37.69300000000001,
+        "turnaround": null
+      },
+      {
+        "ticker": "0101N0",
+        "label": "KB RISE AI전력인프라",
+        "market": "kr",
+        "status": "OK",
+        "aum": 688297.1,
+        "w1_amount": -3341.5317047266,
+        "m1_amount": -47891.5522168569,
+        "ytd_amount": 588059.6181836735,
+        "aum_change": -64284.90000000002,
+        "aum_change_rate": -8.541913040705202,
+        "flow_accel": 2421.3536756811,
+        "turnaround": null
+      }
+    ],
+    "crypto": [
+      {
+        "ticker": "IBIT",
+        "label": "iShares Bitcoin Trust",
+        "market": "us",
+        "status": "OK",
+        "aum": 45192.9148,
+        "w1_amount": -1510.5684,
+        "m1_amount": -3484.2104,
+        "ytd_amount": -2253.9968,
+        "aum_change": -5718.345200000003,
+        "aum_change_rate": -11.23198522291533,
+        "flow_accel": -832.7580000000002,
+        "turnaround": null
+      },
+      {
+        "ticker": "FBTC",
+        "label": "Fidelity Bitcoin Trust",
+        "market": "us",
+        "status": "OK",
+        "aum": 10721.55456,
+        "w1_amount": -424.146,
+        "m1_amount": -474.99,
+        "ytd_amount": -1709.964,
+        "aum_change": -1235.767319999999,
+        "aum_change_rate": -10.334816879580389,
+        "flow_accel": -396.615,
+        "turnaround": null
+      }
+    ],
+    "space": [
+      {
+        "ticker": "463250",
+        "label": "TIGER K-방산&우주",
+        "market": "kr",
+        "status": "OK",
+        "aum": 673464.9,
+        "w1_amount": -11954.9880460739,
+        "m1_amount": -83684.6945567849,
+        "ytd_amount": 334740.0337248322,
+        "aum_change": -87195.0,
+        "aum_change_rate": -11.463073050123977,
+        "flow_accel": 2632.9954317007996,
+        "turnaround": null
+      }
+    ],
+    "shipbuilding": [
+      {
+        "ticker": "0115D0",
+        "label": "KODEX 조선TOP10",
+        "market": "kr",
+        "status": "OK",
+        "aum": 206321.4,
+        "w1_amount": 2213.7550415184,
+        "m1_amount": 12839.7402650357,
+        "ytd_amount": 115557.7094960806,
+        "aum_change": -32028.5,
+        "aum_change_rate": -13.437597414557336,
+        "flow_accel": -8286.260724744001,
+        "turnaround": null
+      },
+      {
+        "ticker": "0141S0",
+        "label": "SOL 조선소부장",
+        "market": "kr",
+        "status": "OK",
+        "aum": 69203.94,
+        "w1_amount": 947.9827749577,
+        "m1_amount": 9479.993991457,
+        "ytd_amount": 54983.94,
+        "aum_change": -9861.75,
+        "aum_change_rate": -12.472856431152374,
+        "flow_accel": -8024.004002935901,
+        "turnaround": null
+      }
+    ],
+    "etc": [
+      {
+        "ticker": "XBI",
+        "label": "SPDR S&P Biotech",
+        "market": "us",
+        "status": "OK",
+        "aum": 10927.326,
+        "w1_amount": 76.2185,
+        "m1_amount": 1159.3235,
+        "ytd_amount": 581.6675,
+        "aum_change": 2415.9659999999985,
+        "aum_change_rate": 28.38519343559664,
+        "flow_accel": -107.92149999999998,
+        "turnaround": null
+      }
+    ]
+  },
+  "top_accelerations": [
+    {
+      "ticker": "395160",
+      "label": "KODEX AI반도체핵심공정",
+      "category": "tech",
+      "market": "kr",
+      "status": "OK",
+      "aum": 4972615,
+      "w1_amount": 463187.9340350879,
+      "m1_amount": 681472.0521739136,
+      "ytd_amount": 2592788.188061367,
+      "aum_change": 974513,
+      "aum_change_rate": 24.37439064836265,
+      "flow_accel": 780917.2572573101,
+      "turnaround": "Golden Cross (Inflow)"
+    },
+    {
+      "ticker": "463250",
+      "label": "TIGER K-방산&우주",
+      "category": "space",
+      "market": "kr",
+      "status": "OK",
+      "aum": 673464.9,
+      "w1_amount": -11954.9880460739,
+      "m1_amount": -83684.6945567849,
+      "ytd_amount": 334740.0337248322,
+      "aum_change": -87195.0,
+      "aum_change_rate": -11.463073050123977,
+      "flow_accel": 2632.9954317007996,
+      "turnaround": null
+    },
+    {
+      "ticker": "0101N0",
+      "label": "KB RISE AI전력인프라",
+      "category": "energy",
+      "market": "kr",
+      "status": "OK",
+      "aum": 688297.1,
+      "w1_amount": -3341.5317047266,
+      "m1_amount": -47891.5522168569,
+      "ytd_amount": 588059.6181836735,
+      "aum_change": -64284.90000000002,
+      "aum_change_rate": -8.541913040705202,
+      "flow_accel": 2421.3536756811,
+      "turnaround": null
+    }
+  ],
+  "turnarounds": [
+    {
+      "ticker": "445290",
+      "label": "KODEX 로봇액티브",
+      "category": "robot",
+      "market": "kr",
+      "status": "OK",
+      "aum": 1170923,
+      "w1_amount": -16422.7565033271,
+      "m1_amount": 59119.9291089541,
+      "ytd_amount": 538656.8125023787,
+      "aum_change": -405899,
+      "aum_change_rate": -25.741586558279884,
+      "flow_accel": -84980.2821200253,
+      "turnaround": "Dead Cross (Outflow)"
+    },
+    {
+      "ticker": "BOTZ",
+      "label": "Global X Robotics & AI",
+      "category": "robot",
+      "market": "us",
+      "status": "OK",
+      "aum": 3482.8785,
+      "w1_amount": 5.6085,
+      "m1_amount": -3.3651,
+      "ytd_amount": 217.6098,
+      "aum_change": -54.86400000000003,
+      "aum_change_rate": -1.5508194844593701,
+      "flow_accel": 47.301,
+      "turnaround": "Golden Cross (Inflow)"
+    },
+    {
+      "ticker": "QQQ",
+      "label": "Invesco QQQ",
+      "category": "economy",
+      "market": "us",
+      "status": "OK",
+      "aum": 480470.55,
+      "w1_amount": -890.75,
+      "m1_amount": 8479.94,
+      "ytd_amount": 7446.67,
+      "aum_change": -16781.850000000035,
+      "aum_change_rate": -3.3749158375102937,
+      "flow_accel": -4499.15,
+      "turnaround": "Dead Cross (Outflow)"
+    },
+    {
+      "ticker": "EWY",
+      "label": "iShares MSCI South Korea",
+      "category": "economy",
+      "market": "us",
+      "status": "OK",
+      "aum": 21733.891,
+      "w1_amount": -18.014,
+      "m1_amount": 585.455,
+      "ytd_amount": 6701.208,
+      "aum_change": -3291.2164999999986,
+      "aum_change_rate": -13.151657790081417,
+      "flow_accel": -197.7465,
+      "turnaround": "Dead Cross (Outflow)"
+    },
+    {
+      "ticker": "395160",
+      "label": "KODEX AI반도체핵심공정",
+      "category": "tech",
+      "market": "kr",
+      "status": "OK",
+      "aum": 4972615,
+      "w1_amount": 463187.9340350879,
+      "m1_amount": 681472.0521739136,
+      "ytd_amount": 2592788.188061367,
+      "aum_change": 974513,
+      "aum_change_rate": 24.37439064836265,
+      "flow_accel": 780917.2572573101,
+      "turnaround": "Golden Cross (Inflow)"
+    },
+    {
+      "ticker": "EWY",
+      "label": "iShares MSCI South Korea",
+      "category": "stock",
+      "market": "us",
+      "status": "OK",
+      "aum": 21733.891,
+      "w1_amount": -18.014,
+      "m1_amount": 585.455,
+      "ytd_amount": 6701.208,
+      "aum_change": -3291.2164999999986,
+      "aum_change_rate": -13.151657790081417,
+      "flow_accel": -197.7465,
+      "turnaround": "Dead Cross (Outflow)"
+    }
+  ]
+}
