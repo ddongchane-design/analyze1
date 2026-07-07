@@ -31,9 +31,10 @@
     "action_point": "단기적인 기간 조정을 겪은 <span class=\"text-cyan-300 font-semibold\">대형 조선주(삼성중공업 등)</span>와 핵심 기자재 밸류체인에 대해 중장기적 관점의 비중 확대를 제안합니다."
   },
   "classification": {
-    "primary_topic": "stock",
+    "primary_topic": "shipbuilding",
     "secondary_topics": [
-      "economy"
+      "economy",
+      "stock"
     ],
     "tags": [
       "조선주",

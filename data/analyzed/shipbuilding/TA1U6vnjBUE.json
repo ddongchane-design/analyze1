@@ -49,9 +49,10 @@
     "action_point": "장기적인 관점에서 특수선 건조 및 잠수함 원천 설계 역량을 보유한 <span class=\"text-cyan-300 font-semibold\">조선 및 방산주</span>, 그리고 원자로 계통 설계·제작 능력을 지닌 원자력 핵심 기자재 주식에 대한 중장기 분할 매수 기회로 활용할 수 있습니다."
   },
   "classification": {
-    "primary_topic": "tech",
+    "primary_topic": "shipbuilding",
     "secondary_topics": [
-      "economy"
+      "economy",
+      "tech"
     ],
     "tags": [
       "핵잠수함",

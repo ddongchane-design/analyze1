@@ -30,10 +30,11 @@
     "action_point": "단기 주가 횡보를 매집 기회로 삼아, 엔진 독점 기술과 플로팅 설비 설계 능력을 보유한 1티어 조선 대장주 지분을 늘려야 합니다."
   },
   "classification": {
-    "primary_topic": "stock",
+    "primary_topic": "shipbuilding",
     "secondary_topics": [
       "energy",
-      "tech"
+      "tech",
+      "stock"
     ],
     "tags": [
       "조선주",

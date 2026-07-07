@@ -30,10 +30,11 @@
     "action_point": "조정 레벨에 있는 조선주들을 비중 확대 기회로 삼되, 자체 엔진 제작 능력과 강력한 자회사 가치를 지닌 업계 탑픽 <span class=\"text-cyan-300 font-semibold\">HD한국조선해양</span>과 실적 모멘텀이 뚜렷한 <span class=\"text-cyan-300 font-semibold\">HD현대중공업</span>으로 압축 대응하는 것이 정석입니다."
   },
   "classification": {
-    "primary_topic": "stock",
+    "primary_topic": "shipbuilding",
     "secondary_topics": [
       "economy",
-      "tech"
+      "tech",
+      "stock"
     ],
     "tags": [
       "조선주",

@@ -28,10 +28,11 @@
     "action_point": "전통 디젤엔진 부품 중심에서 친환경 메탄올·암모니아 기자재 및 무탄소 선박 기자재(예: 보냉재, 고압 밸브, 극저온 가스 밸브사) 특화 기업들로 포트폴리오를 전환하고, 한국조선해양 지분을 점진적으로 분할 매집해야 합니다."
   },
   "classification": {
-    "primary_topic": "stock",
+    "primary_topic": "shipbuilding",
     "secondary_topics": [
       "energy",
-      "tech"
+      "tech",
+      "stock"
     ],
     "tags": [
       "조선업사이클",

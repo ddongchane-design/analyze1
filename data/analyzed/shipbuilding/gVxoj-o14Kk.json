@@ -31,9 +31,10 @@
     "action_point": "실적 피크아웃 우려로 인해 주가 조정을 받을 시 이를 강력한 매수 기회로 삼아 한국 <span class=\"text-cyan-300 font-semibold\">조선 대장주</span>들의 포트폴리오 비중을 늘려갈 것을 권장함."
   },
   "classification": {
-    "primary_topic": "economy",
+    "primary_topic": "shipbuilding",
     "secondary_topics": [
-      "stock"
+      "stock",
+      "economy"
     ],
     "tags": [
       "조선3사",

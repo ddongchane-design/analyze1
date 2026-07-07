@@ -27,9 +27,10 @@
     "action_point": "저궤도 위성 발사 빈도와 수신 안테나 양산 강도가 증가하고 있으므로, 우주용 RF 안테나 및 위성 통신용 화합물 반도체 부품을 납품하는 글로벌 강소 소부장사에 주목함."
   },
   "classification": {
-    "primary_topic": "etc",
+    "primary_topic": "shipbuilding",
     "secondary_topics": [
-      "space"
+      "space",
+      "etc"
     ],
     "tags": [
       "해양인터넷",

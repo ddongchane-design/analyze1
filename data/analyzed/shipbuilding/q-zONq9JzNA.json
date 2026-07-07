@@ -31,10 +31,11 @@
     "action_point": "반도체 핵심 포지션을 유지한 채, 슈퍼사이클 어닝 서프라이즈가 기대되는 <span class=\"text-cyan-300 font-semibold\">HD현대중공업/한화오션</span>과 소송 승소로 규제 족쇄가 풀린 <span class=\"text-cyan-300 font-semibold\">CS윈드</span>를 포트폴리오에 적극 분산 편입하는 로테이션 전략이 바람직함."
   },
   "classification": {
-    "primary_topic": "stock",
+    "primary_topic": "shipbuilding",
     "secondary_topics": [
       "economy",
-      "energy"
+      "energy",
+      "stock"
     ],
     "tags": [
       "조선슈퍼사이클",

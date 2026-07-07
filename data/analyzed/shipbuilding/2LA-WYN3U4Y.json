@@ -29,9 +29,10 @@
     "action_point": "한화오션의 단기 수주 실패 실망감에 따른 주가 조정을 면밀히 모니터링하며 예비 협상 대상 자격 유지에 따른 반등 가능성을 저울질합니다."
   },
   "classification": {
-    "primary_topic": "etc",
+    "primary_topic": "shipbuilding",
     "secondary_topics": [
-      "stock"
+      "stock",
+      "etc"
     ],
     "tags": [
       "캐나다잠수함수주",

@@ -14,14 +14,15 @@ def _to_kst_date(pub_str: str) -> str:
 
 # 토픽별 컬러 팔레트 (kinetic-oracle-hub 스타일)
 TOPIC_PALETTE = {
-    "robot":   {"color": "cyan",   "hex": "#22d3ee", "emoji": "🤖"},
-    "economy": {"color": "amber",  "hex": "#fbbf24", "emoji": "📊"},
-    "tech":    {"color": "indigo", "hex": "#818cf8", "emoji": "💻"},
-    "stock":   {"color": "emerald","hex": "#34d399", "emoji": "📈"},
-    "energy":  {"color": "orange", "hex": "#fb923c", "emoji": "⚡"},
-    "crypto":  {"color": "fuchsia", "hex": "#d946ef", "emoji": "🪙"},
-    "space":   {"color": "violet",  "hex": "#a78bfa", "emoji": "🚀"},
-    "etc":     {"color": "slate",   "hex": "#94a3b8", "emoji": "📰"},
+    "robot":        {"color": "cyan",      "hex": "#22d3ee", "emoji": "🤖"},
+    "economy":      {"color": "amber",     "hex": "#fbbf24", "emoji": "📊"},
+    "tech":         {"color": "indigo",    "hex": "#818cf8", "emoji": "💻"},
+    "stock":        {"color": "emerald",   "hex": "#34d399", "emoji": "📈"},
+    "energy":       {"color": "orange",    "hex": "#fb923c", "emoji": "⚡"},
+    "crypto":       {"color": "fuchsia",   "hex": "#d946ef", "emoji": "🪙"},
+    "space":        {"color": "violet",    "hex": "#a78bfa", "emoji": "🚀"},
+    "shipbuilding": {"color": "sky",       "hex": "#38bdf8", "emoji": "🚢"},
+    "etc":          {"color": "slate",     "hex": "#94a3b8", "emoji": "📰"},
 }
 
 SIGNAL_STYLE = {
@@ -102,7 +103,7 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
     </div>
 
     <!-- Topic Grid -->
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-5 w-full mb-6">
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 gap-5 w-full mb-6">
       {topic_cards}
     </div>
 
@@ -132,18 +133,20 @@ TOPIC_ICON = {
     "energy": "bolt",
     "crypto": "currency_exchange",
     "space": "rocket_launch",
+    "shipbuilding": "directions_boat",
     "etc": "newspaper",
 }
 
 TOPIC_SHADOW = {
-    "robot":   "rgba(34,211,238,0.15)",
-    "economy": "rgba(251,191,36,0.15)",
-    "tech":    "rgba(129,140,248,0.15)",
-    "stock":   "rgba(52,211,153,0.15)",
-    "energy":  "rgba(251,146,60,0.15)",
-    "crypto":  "rgba(217,70,239,0.15)",
-    "space":   "rgba(167,139,250,0.15)",
-    "etc":     "rgba(148,163,184,0.15)",
+    "robot":        "rgba(34,211,238,0.15)",
+    "economy":      "rgba(251,191,36,0.15)",
+    "tech":         "rgba(129,140,248,0.15)",
+    "stock":        "rgba(52,211,153,0.15)",
+    "energy":       "rgba(251,146,60,0.15)",
+    "crypto":       "rgba(217,70,239,0.15)",
+    "space":        "rgba(167,139,250,0.15)",
+    "shipbuilding": "rgba(56,189,248,0.15)",
+    "etc":          "rgba(148,163,184,0.15)",
 }
 
 # ───────────────────────── TOPIC PAGE ─────────────────────────
