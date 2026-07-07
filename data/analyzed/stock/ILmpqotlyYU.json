@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "ILmpqotlyYU",
+    "title": "[26.07.06 오전 방송 전체보기] 반도체 '빅이벤트 주간', 뉴욕증시 이번주 방향은? 기술주 변동성 잦아들까?",
+    "published": "2026-07-06T03:20:33+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=ILmpqotlyYU",
+    "thumbnail": "https://img.youtube.com/vi/ILmpqotlyYU/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "메타의 AI 효율성 추구에 따른 반도체 투자 속도 조절 노이즈가 유발한 시장 과잉 반응을 점검하고, 오픈AI와 엔트로픽 등 LLM 기업들의 기하급수적인 매출 성장과 스케일AI의 데이터 플랫폼 가치 상승을 진단함.",
+    "key_claims": [
+      "메타의 자금 지출 조절 소식은 투자 철회가 아니며, 기존 구형 GPU 인프라 대신 H200 및 블랙웰(Blackwell) 신형 칩셋 배치를 최적화하기 위한 자연스러운 전환 공백기임.",
+      "앤트로픽(Anthropic)은 올해 기업용 API 매출 급성장으로 창사 이래 최초 흑자 전환이 가시화되고 있어, 소프트웨어 실질 비즈니스 ROI 입증 단계로 연착륙 중임.",
+      "알렉산더 왕이 이끄는 데이터 라벨링 전문 기업 스케일AI(Scale AI)의 가치 상승은 고품질 학습 데이터의 희소성을 입증하며 빅테크 인프라 소비가 꺾이지 않았음을 증명함."
+    ],
+    "data_points": [
+      "스케일AI(Scale AI) 최근 밸류에이션: 글로벌 자금 유치 과정에서 기업 가치 140억 달러(약 19조 원) 도달"
+    ],
+    "signal": "bullish",
+    "signal_reason": "오픈AI 및 앤트로픽의 실질 매출 성장이 증명되고 있고, 고품질 데이터 인프라(Scale AI) 가치가 치솟아 AI 생태계 전반의 설비 투자가 계속될 동력이 충분하기 때문입니다.",
+    "key_companies": [
+      "Meta",
+      "Anthropic",
+      "Scale AI",
+      "OpenAI"
+    ],
+    "insight": "메타가 H100 위주 구매에서 차세대 칩셋으로 구매 구조를 바꾼 공백을 시장이 'CapEx 철수'로 오인했습니다. <span class=\"text-cyan-300 font-semibold\">오픈AI 계열의 API 매출 폭증</span>은 AI 전방 산업의 수요가 완벽히 살아있음을 보증합니다.",
+    "action_point": "단기 노이즈로 낙폭이 컸던 패키징 장비 및 HBM 핵심 부품사들에 대해 저가 포지션 확대로 선제 대응합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "메타발우려반박",
+      "ScaleAI알렉산더왕",
+      "LLM매출서프라이즈",
+      "주간이벤트"
+    ]
+  }
+}

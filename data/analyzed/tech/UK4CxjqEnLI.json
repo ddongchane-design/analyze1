@@ -1,0 +1,41 @@
+{
+  "video": {
+    "id": "UK4CxjqEnLI",
+    "title": "세계에서 난리난 삼성 신기술",
+    "published": "2026-07-06T11:00:30+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=UK4CxjqEnLI",
+    "thumbnail": "https://img.youtube.com/vi/UK4CxjqEnLI/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "삼성전자가 co-author 논문 발표 및 특허 확보를 마친 '메탈렌즈(Meta-Lens)' 기술을 해부하고, 표면 나노 구조 설계로 빛의 굴절을 조율해 모바일 카메라 두께를 1/1,000 수준으로 낮춰 카툭튀를 소멸시킬 혁신을 소개함.",
+    "key_claims": [
+      "메탈렌즈는 빛의 반도체라 불리며, 유리 굴절 렌즈 대신 평면 기판 위에 머리카락 수천분의 1 두께의 초미세 나노 패턴을 인쇄해 빛의 방향을 정밀 제어하는 메타물질 기술임.",
+      "모바일 폰의 카메라 모듈 두께를 획기적으로 줄여 디자인 제한(카툭튀)을 해소할 수 있으며, VR/AR 글래스의 무겁고 두꺼운 렌즈를 안경 렌즈 두께로 경량화하는 게임 체인저임.",
+      "삼성이 네이처에 발표한 롤투롤 인쇄 공정 메타표면 기술은 양산 단가를 획기적으로 낮출 수 있어, 향후 디바이스 광학 모듈 시장 독점 장벽을 칠 것임."
+    ],
+    "data_points": [
+      "메탈렌즈 두께 감소율: 기존 굴절 유리 렌즈 대비 두께 약 1,000분의 1 수준 단축 실현"
+    ],
+    "signal": "bullish",
+    "signal_reason": "모바일 및 차세대 공간 컴퓨터(VR/AR) 하드웨어의 가장 큰 물리 장벽(무게와 렌즈 두께)을 근본적으로 극복할 수 있는 특허와 공정(Roll-to-roll)을 삼성이 선점했기 때문입니다.",
+    "key_companies": [
+      "삼성전자",
+      "ASML"
+    ],
+    "insight": "메탈렌즈는 광학 하드웨어 패러다임을 바꿉니다. 삼성이 <span class=\"text-cyan-300 font-semibold\">네이처 metasurface 특허</span>와 대량 롤투롤 인쇄 공정을 보유함에 따라, 향후 애플과 오큘러스 등 빅테크 기기 내 광학 모듈 납품권의 강력한 해자를 쥐게 될 것입니다.",
+    "action_point": "삼성이 주도하는 나노 메타 렌즈 소부장 파트너 및 패턴 인쇄 나노 임프린팅 기술 보유사에 대해 중장기 편입 기회를 추적합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "메탈렌즈",
+      "나노구조설계",
+      "빛의반도체",
+      "카툭튀제거"
+    ]
+  }
+}

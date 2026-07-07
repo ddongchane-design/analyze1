@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "B2bW3R2ET4o",
+    "title": "클로드는 좌파 그록은 우파?",
+    "published": "2026-07-06T14:15:38+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=B2bW3R2ET4o",
+    "thumbnail": "https://img.youtube.com/vi/B2bW3R2ET4o/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "글로벌 대표 초거대 언어 모델(Claude, Grok, GPT 등)이 학습 데이터 소스와 개발사의 검수 정렬(Alignment) 규칙에 따라 상이한 정치적 성향 및 편향성을 나타내는 현상과 사회적 파장을 해부함.",
+    "key_claims": [
+      "앤트로픽의 클로드(Claude)는 높은 윤리 기준과 안전 가이드 정렬(RLHF)의 영향으로 다소 진보적(좌파) 가치관을 대변하는 답변 성향을 자주 노출함.",
+      "일론 머스크 산하의 그록(Grok)은 철저히 검열 완화와 자유주의적 훈련을 거쳐 보수적(우파) 시각에 친화적인 유머러스한 답변 성향을 보여줌.",
+      "AI 모델의 정치적 성향 배치는 단순히 알고리즘의 우연이 아니며, 국가 규제 준수율과 글로벌 테크 패권 기업들의 가치 정렬이 대리 충돌하는 새로운 이데올로기 장벽임."
+    ],
+    "data_points": [
+      "LLM 포지셔닝 성향 매핑: 앤트로픽 클로드(진보/우파 방어 지향), xAI 그록(반PC/우파 자유주의 지향), OpenAI GPT(중도 진보 성향 매핑)"
+    ],
+    "signal": "neutral",
+    "signal_reason": "AI 기술의 성능 차이보다는 모델 통제 과정에서 발생하는 문화적/사회적 편향 시비가 국가별 규제 장벽을 높이고 비즈니스 로컬화 비용을 증가시킬 수 있기 때문입니다.",
+    "key_companies": [
+      "Anthropic",
+      "xAI",
+      "OpenAI"
+    ],
+    "insight": "인공지능 모델이 고도화될수록 <span class=\"text-cyan-300 font-semibold\">학습 데이터 편향과 기업 필터링 가이드</span>는 필연적으로 정치 논쟁을 유발합니다. 기업용 AI 도입 시에는 중립적인 온프레미스 파인튜닝 구축 수요가 급증할 것입니다.",
+    "action_point": "특정 빅테크의 독점 LLM보다는 하드웨어 독립성과 중립형 오픈소스 미세조정(Fine-Tuning) 기술을 확보한 국내 AI 솔루션 제공 기업에 장기 관심을 둡니다."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "LLM정치성향",
+      "클로드그록",
+      "AI알고리즘선호",
+      "데이터편향"
+    ]
+  }
+}

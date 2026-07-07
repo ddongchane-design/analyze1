@@ -1,0 +1,41 @@
+{
+  "video": {
+    "id": "iSFK5bmTq-c",
+    "title": "\"버블 시절 집값 가볍게 넘어섰다?\" 도쿄 부동산 최고가 경신의 원인 #교양이를부탁해",
+    "published": "2026-07-06T09:00:32+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=iSFK5bmTq-c",
+    "thumbnail": "https://img.youtube.com/vi/iSFK5bmTq-c/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "도쿄 핵심 도심 아파트 및 상업용 부동산 가격이 1980년대 버블 전성기 명목 가격을 돌파했음에도 불구하고, 신용 비율(Credit-to-GDP) 관점에서 본질적인 건전성을 증명함.",
+    "key_claims": [
+      "도쿄 아파트 매매가가 역사적 전고점을 경신했으나, GDP 대비 신용 비율은 약 140%대로 버블 전성기(200% 육박)와 비교해 대출 거품이 극도로 통제된 건강한 유동성 유입 상태임.",
+      "미국은 상업용 부동산 공실률 상승으로 위기를 겪는 것과 대조적으로, 일본은 엔화 가치 약세에 기반한 외국인 펀드 유입으로 상업용(Commercial)과 주거용(Residential) 부동산이 동반 우상향함.",
+      "실물 경제 전반의 임금 상승율이 반영되면서 내수 실물 가격이 정상화되는 과정의 일환으로 해석해야 하며, 단순 폭락 시나리오는 성급함."
+    ],
+    "data_points": [
+      "GDP 대비 총 신용(Credit) 비율: 버블 최고조기 약 200% vs 현재 약 140~150% 수준으로 통제 중"
+    ],
+    "signal": "neutral",
+    "signal_reason": "실물 경기 정상화에 따른 건전한 상승이나, 엔화 약세가 장기화되면서 국내 자산 가격만 폭등해 서민 실수요자들의 실질 주거 비용 부담은 가중되는 역효과가 상존하기 때문입니다.",
+    "key_companies": [
+      "Mitsui Fudosan",
+      "Mitsubishi Estate"
+    ],
+    "insight": "일본 도쿄 부동산 상승은 버블 붕괴 공포보다는 <span class=\"text-cyan-300 font-semibold\">글로벌 유동성의 피난처</span>이자 엔저 메리트를 누리는 금융 자산화 과정으로 접근해야 합니다. 레버리지 건전성은 견고합니다.",
+    "action_point": "일본 엔화 자산 회복 수혜를 입는 현지 도심 상업용 리츠(REITs) 및 자산운용 지분을 중장기 포트폴리오 헤지 수단으로 검토합니다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "도쿄부동산폭등",
+      "신용비율안정성",
+      "실물자산선호",
+      "일본경기회복"
+    ]
+  }
+}

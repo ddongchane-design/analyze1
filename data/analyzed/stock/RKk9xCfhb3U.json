@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "RKk9xCfhb3U",
+    "title": "하반기 인도 시장, 단기 변동성 vs. 구조적 성장 #인도투자전략｜애널리스트리포트｜2026.7.7(화)",
+    "published": "2026-07-07T00:00:30+00:00",
+    "channel_name": "Smart Money by MiraeAsset ",
+    "url": "https://www.youtube.com/watch?v=RKk9xCfhb3U",
+    "thumbnail": "https://img.youtube.com/vi/RKk9xCfhb3U/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "하반기 인도 주식 시장의 매크로 변수(고유가에 따른 루피화 약세, 인플레이션)와 모디 총리의 서행골 주 선거 승리로 확보된 정책 추진 연속성을 바탕으로 인도 포트폴리오 비중 확대 의견을 제시함.",
+    "key_claims": [
+      "인도 증시는 상반기 중동 분쟁발 유가 급등으로 경상수지 적자와 루피화 약세 압박을 겪었으나 외환보유고와 은행 시스템 건전성으로 관리 가능한 불확실성 영역에 머물러 있음.",
+      "모디 총리가 이끄는 BJP당이 역사상 최초로 취약 지역이었던 서행골(West Bengal) 주 의회 선거에서 승리해 인프라 대투자 및 정책 추진 동력이 한층 강력해짐.",
+      "글로벌 IT 투자 둔화로 IT 아웃소싱 업종은 조정을 겪는 반면 정부의 내수 진작책에 수혜를 받는 소비재, 자동차, 금융 세터는 견고한 펀더멘털을 유지함."
+    ],
+    "data_points": [
+      "인도 니프티50 12개월 선행 PER: 약 18.5배로 하향 조정되어 역사적 평균치 이하의 가격 매리트 확보",
+      "니프티50 지수 상반기 조정률: 최고점 대비 약 8.6% 하락 마감"
+    ],
+    "signal": "bullish",
+    "signal_reason": "정치적 리스크가 해소되어 모디 정부의 3차 임기 인프라 드라이브가 가속화되고 있으며, 니프티50의 밸류에이션이 역사적 평균 이하로 내려와 매력적인 진입 가격을 제공하기 때문입니다.",
+    "key_companies": [
+      "Reliance Industries",
+      "Tata Motors"
+    ],
+    "insight": "인도는 단기 유가 노이즈로 억눌려 있으나 <span class=\"text-cyan-300 font-semibold\">서행골 선거 대승</span>으로 정치적 불확실성이 완전 종식되었습니다. 정부 주도의 소비 진작 정책이 하반기 내수 랠리를 주도할 것입니다.",
+    "action_point": "유가 안정 진입 시 강력한 내수 소비 폭발이 기대되는 인도 내수 소비재 및 인프라 ETF(TIGER 인도 빌리언 컨슈머 등) 비중을 포트폴리오에 적극 확대 배치합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "인도하반기전망",
+      "모디BJP승리",
+      "고유가리스크",
+      "소비재자동차"
+    ]
+  }
+}
