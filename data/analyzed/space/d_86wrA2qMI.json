@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "d_86wrA2qMI",
+    "title": "South Korea's Next-Generation Medium Satellite 4 Successfully Launched into Space",
+    "published": "2026-07-08T09:00:00+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=d_86wrA2qMI",
+    "thumbnail": "https://img.youtube.com/vi/d_86wrA2qMI/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "한국의 독자 기술로 개발된 정밀 지상 관측용 '차세대 중형 위성 4호'의 성공적인 우주 궤도 진입 과정과 이로 인한 국내 우주 인프라 자립화 성과를 상세히 다룹니다. 농업 지형 모니터링, 해양 수질 감시, 산불 방제 등 국토 전반의 실시간 고해상도 영상을 독자 획득함으로써 수입 위성 이미지 의존도를 획기적으로 낮추었습니다.",
+    "key_claims": [
+      "차세대 중형 위성 4호는 국내 독자적인 탑재체 설계와 본체 조립 기술을 100% 적용하여 국산화율을 극대화함.",
+      "지상 500m 해상도의 고화질 광학 분석 성능을 보유하여 재해 예측 및 해양 안보 통제력을 대폭 향상시킴.",
+      "한국항공우주연구원과 민간 대기업(KAI 등)의 우주 파트너십 구축이 실전 위성 궤도 배치로 입증됨."
+    ],
+    "data_points": [
+      "위성 탑재 지상 해상도: 50cm급 초정밀 광학 센서 탑재",
+      "우주 궤도 고도: 약 497.8km 원궤도 안착 완료"
+    ],
+    "signal": "bullish",
+    "signal_reason": "정부 주도의 대규모 국산 위성 발사 성공은 지상 수신국 및 정밀 소부장, 탑재체 조립을 맡은 국내 항공우주 기자재 기업들의 수주 안정성을 보장하기 때문입니다.",
+    "key_companies": [
+      "KAI",
+      "한화시스템",
+      "한국항공우주연구원"
+    ],
+    "insight": "한국의 독자 위성 발사 연속 성공은 단순 과학 기술 연구를 넘어 상업용 민간 위성 건조 대행 비즈니스로 확장할 수 있는 신뢰성의 궤도(Track Record)를 완성했음을 뜻합니다. K-방산의 안보 자주화 기치와 결합하여 정밀 우주 탑재체 밸류체인의 낙수 효과가 기대됩니다.",
+    "action_point": "항공우주 정밀 탑재체 부품사 및 위성 본체 건조 시스템 주도 기업들을 대상으로 중장기적 분할 적립 투자를 검토합니다."
+  },
+  "classification": {
+    "primary_topic": "space",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "차세대중형위성4호",
+      "정밀지상관측",
+      "우주발사체",
+      "위성국산화"
+    ]
+  }
+}

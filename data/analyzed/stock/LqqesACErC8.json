@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "LqqesACErC8",
+    "title": "Stay Invested. Stay Liquid.#July2026ClientAssetAllocationGuide",
+    "published": "2026-07-08T11:00:00+00:00",
+    "channel_name": "Smart Money by MiraeAsset ",
+    "url": "https://www.youtube.com/watch?v=LqqesACErC8",
+    "thumbnail": "https://img.youtube.com/vi/LqqesACErC8/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "7월 미 대선 가시화 및 금리 경로 불확실성 국면에서 미래에셋 글로벌 자산배분 본부가 제안하는 자산 배분 핵심 원칙(Stay Invested. Stay Liquid)을 요약합니다. 주식 자산의 비중을 완전히 줄이기보다, 투자 상태를 유지(Stay Invested)하되 높은 금리를 주는 CD/파킹형 자산 및 고배당 커버드콜 상품을 결합하여 고도의 유동성(Stay Liquid)을 확보해 기회비용을 방어하는 다중 자산 구조 전략입니다.",
+    "key_claims": [
+      "변동성 장세에서 성급하게 현금으로 도피할 경우 주가 반등기의 복리 효과를 완전히 놓치는 포모(FOMO) 리스크를 겪게 됨.",
+      "따라서 미국 단기 채권, CD 금리 연동 ETF, 그리고 미국 빅테크 기반의 10~15%대 고배당 커버드콜을 결합하는 포트폴리오를 주축으로 삼아야 함.",
+      "대선 정책 수혜주(인프라, 에너지, 조선)의 로테이션 장세를 대비해 20% 수준의 상시 가용 투자 유동성을 쥐어야 함."
+    ],
+    "data_points": [
+      "미래에셋 추천 안전/파킹 자산 권장 비중: 전체 포트폴리오의 30% 이상 유지",
+      "미국 국채 2년물 금리 배분 매력도 밴드: 4.3% 초과 구간에서 매집 매력 상존"
+    ],
+    "signal": "neutral",
+    "signal_reason": "전반적인 증시 낙관론은 우호적이나 변동성 지수(VIX)가 바닥을 딛고 상승 국면을 보여 단기적인 방어 포지션을 취할 타이밍이기 때문입니다.",
+    "key_companies": [
+      "미래에셋자산운용",
+      "BlackRock"
+    ],
+    "insight": "상승장 끝자락에서 레버리지 투자를 고집하기보다 배당 인컴 수익률을 확보하고 현금 비중을 유지하는 지루하지만 확실한 투자가 이기는 구간입니다. 자금 회전률을 높여 기회 수급을 노려야 합니다.",
+    "action_point": "미국 테크 단일 투자를 일부 매도하여 주간 수급 유입이 안정적인 단기 CD 금리 ETF 및 고배당 월배당 상품 비중으로 이동 배치합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "미래에셋자산배분",
+      "현금유동성확보",
+      "고배당커버드콜",
+      "7월자산가이드"
+    ]
+  }
+}

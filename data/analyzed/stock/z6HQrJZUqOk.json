@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "z6HQrJZUqOk",
+    "title": "How to Earn $3,000 in Monthly Dividends with $100,000 (High-Dividend Stocks, Financial Stocks, Co...",
+    "published": "2026-07-08T13:30:00+00:00",
+    "channel_name": "수페TV",
+    "url": "https://www.youtube.com/watch?v=z6HQrJZUqOk",
+    "thumbnail": "https://img.youtube.com/vi/z6HQrJZUqOk/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "10만 달러(약 1.3억 원)의 가용 자산으로 매월 3,000달러(약 400만 원, 연 배당률 36% 수준)의 안정적인 현금 흐름을 설계하는 포트폴리오 기법을 분석합니다. 초고배당 커버드콜 상품의 함정(원금 갉아먹기, 제자리걸음 등)을 방지하기 위해 금융 우선주, 빅테크 성장 배당주, 고정 금리 우선 채권을 3:3:4 비율로 배분하는 리스크 분산형 웰스 케어 전략입니다.",
+    "key_claims": [
+      "연 30%를 초과하는 고배당 커버드콜 단일 종목 몰빵은 기초자산 하락 시 원금 갉아먹기(NAV Erosion) 장기 피해를 초래함.",
+      "따라서 성장률을 방어하는 빅테크 커버드콜(예: `TSLY` 우회), 금리 안정기 수혜를 입는 금융 우선주, 단기 CD 고정 금리를 믹스해야 함.",
+      "복리 효과 극대화를 위해 매월 받은 3,000달러 배당 인컴의 50%는 반드시 배당 성장형 지수 ETF(SCHD 등)로 재투자해야 수명이 유지됨."
+    ],
+    "data_points": [
+      "초고배당 커버드콜의 NAV 갉아먹기 확률: 3년 보유 시 원금의 약 25% 하락 리스크 존재",
+      "분산 배분 포트폴리오의 실질 기대 배당수익률: 연 12% ~ 15% 안정적 수렴대 지향"
+    ],
+    "signal": "neutral",
+    "signal_reason": "안정적인 현금 흐름 확보법이나, 단기적인 지수 상승 랠리 국면에서는 성장주 직접 투자 대비 초과 수익률이 제한될 수 있기 때문입니다.",
+    "key_companies": [
+      "JPMorgan Chase",
+      "Schwab"
+    ],
+    "insight": "커버드콜은 변동성이 횡보하는 구간에서 가장 강력한 인컴 효율을 냅니다. 미 대선 가시화 및 금리 인하 대기 국면처럼 지수가 박스권 횡보를 보여줄 때 포트폴리오의 방어적 현금 흐름 쿠션 역할을 톡톡히 해낼 것입니다.",
+    "action_point": "전체 주식 포트폴리오의 20% 이내에서 고배당 인컴 연동형 수급이 강한 커버드콜 및 고배당 채권 분산 비중을 점진 확보합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "고배당주추천",
+      "커버드콜ETF",
+      "월인컴300만원",
+      "자산포트폴리오"
+    ]
+  }
+}

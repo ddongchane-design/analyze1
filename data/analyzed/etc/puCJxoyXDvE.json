@@ -1,0 +1,41 @@
+{
+  "video": {
+    "id": "puCJxoyXDvE",
+    "title": "Stagnant Soccer Association: At this rate, they'll just pick Hong Myung-bo again",
+    "published": "2026-07-08T12:00:00+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=puCJxoyXDvE",
+    "thumbnail": "https://img.youtube.com/vi/puCJxoyXDvE/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "한국 축구협회(KFA)의 국가대표 감독 선임 과정에서 드러난 무능한 행정 시스템과 불투명한 인재 영입 의사결정의 문제점을 사회 공학 및 지배구조 측면에서 날카롭게 비판합니다. 합리적 절차와 데이터 분석 기반의 선발이 아닌, 학연/인맥 위주의 소모적인 결정이 반복되는 원인을 파헤칩니다.",
+    "key_claims": [
+      "해외 명장급 감독 검증 데이터를 방치한 채 행정 비용 지불을 꺼려 국내 중심의 폐쇄적 인선 구도로 귀결됨.",
+      "대한체육회 및 국가 안보 지원 체육 보조금이 협회의 불투명한 회계 및 독점적 행정에 장벽으로 기능함.",
+      "대중의 비판 여론에도 불구하고 협회 수뇌부의 지배구조 개편이 전혀 작동하지 않는 조직적 고착화가 지속됨."
+    ],
+    "data_points": [
+      "협회 연간 예산 중 보조금 비중: 약 300억 원대 수준 규모 조달",
+      "차기 국가대표 감독 선임 대기 소요 기간: 5개월 이상 장기 행정 공백"
+    ],
+    "signal": "na",
+    "signal_reason": "스포츠 협회 지배구조 분석 및 시사 비판 뉴스이므로, 경제/금융 투자 시장에 미치는 유의미한 영향은 없습니다.",
+    "key_companies": [
+      "대한축구협회"
+    ],
+    "insight": "이 비판은 공공 보조금을 투입받는 준공공 협회들의 전형적인 지배구조 리스크(Agency Problem)를 전형적으로 보여줍니다. 투명한 감시 장치가 없는 독점 단체는 결국 비효율의 극치로 수렴한다는 공공 선택 이론의 실제 사례입니다.",
+    "action_point": "투자 대상과는 무관하므로 시사 상식 획득 차원에서 청취를 마치고 추가 대응은 생략합니다."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "축구협회행정",
+      "홍명보감독",
+      "체육회이슈",
+      "기타시사"
+    ]
+  }
+}
