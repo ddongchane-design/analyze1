@@ -63,11 +63,69 @@
     </div>
 
     
-        <!-- ETF Flow Thermometer (Fallback) -->
-        <div class="w-full mb-10 bg-slate-900/30 border border-slate-800/80 rounded-[2rem] p-6 text-center">
-          <div class="flex items-center justify-center gap-2 text-slate-500 text-xs">
-            <span class="material-symbols-outlined text-base animate-pulse">hourglass_empty</span>
-            <span>주간 ETF 자금 흐름 데이터 업데이트 대기 중 (akros 폴더 없음)</span>
+        <!-- ETF Flow Thermometer -->
+        <div class="w-full mb-10 bg-gradient-to-br from-slate-900/60 to-slate-950/40 border border-slate-800 rounded-[2rem] p-6 backdrop-blur-xl">
+          <div class="flex items-center justify-between mb-4 pb-3 border-b border-slate-800">
+            <div class="flex items-center gap-2">
+              <span class="material-symbols-outlined text-purple-400">query_stats</span>
+              <h2 class="text-base font-bold text-slate-100">주간 글로벌 자금 온도계</h2>
+              <span class="text-[10px] text-slate-500 font-manrope">(26.07.06 vs 26.6.16)</span>
+            </div>
+            <span class="text-[10px] bg-slate-800 text-slate-400 px-2.5 py-0.5 rounded-full">Akros Flow Engine</span>
+          </div>
+          
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+            <!-- Section 1: Inflow Acceleration -->
+            <div>
+              <div class="flex items-center gap-1.5 mb-2.5">
+                <span class="w-1.5 h-1.5 rounded-full bg-emerald-400"></span>
+                <h3 class="text-xs font-bold uppercase tracking-wider text-slate-400">수급 모멘텀 가속 (Top 3)</h3>
+              </div>
+              <div class="flex flex-col">
+                
+            <div class="flex items-center justify-between text-xs py-1.5 border-b border-slate-700/40">
+              <span class="text-slate-300 font-semibold">KODEX AI반도체핵심공정</span>
+              <span class="text-emerald-400 font-manrope font-bold">+780,917.3 가속</span>
+            </div>
+            
+            <div class="flex items-center justify-between text-xs py-1.5 border-b border-slate-700/40">
+              <span class="text-slate-300 font-semibold">TIGER K-방산&우주</span>
+              <span class="text-emerald-400 font-manrope font-bold">+2,633.0 가속</span>
+            </div>
+            
+            <div class="flex items-center justify-between text-xs py-1.5 border-b border-slate-700/40">
+              <span class="text-slate-300 font-semibold">KB RISE AI전력인프라</span>
+              <span class="text-emerald-400 font-manrope font-bold">+2,421.4 가속</span>
+            </div>
+            
+              </div>
+            </div>
+            
+            <!-- Section 2: Trend Turnarounds -->
+            <div>
+              <div class="flex items-center gap-1.5 mb-2.5">
+                <span class="w-1.5 h-1.5 rounded-full bg-amber-400"></span>
+                <h3 class="text-xs font-bold uppercase tracking-wider text-slate-400">주요 수급 턴어라운드 (Turnarounds)</h3>
+              </div>
+              <div class="flex flex-col">
+                
+            <div class="flex items-center justify-between text-xs py-1.5 border-b border-slate-700/40">
+              <span class="text-slate-300 font-semibold">KODEX 로봇액티브</span>
+              <span class="text-rose-400 font-bold">⚠️ Dead Cross</span>
+            </div>
+            
+            <div class="flex items-center justify-between text-xs py-1.5 border-b border-slate-700/40">
+              <span class="text-slate-300 font-semibold">Global X Robotics & AI</span>
+              <span class="text-emerald-400 font-bold">🔄 Golden Cross</span>
+            </div>
+            
+            <div class="flex items-center justify-between text-xs py-1.5 border-b border-slate-700/40">
+              <span class="text-slate-300 font-semibold">Invesco QQQ</span>
+              <span class="text-rose-400 font-bold">⚠️ Dead Cross</span>
+            </div>
+            
+              </div>
+            </div>
           </div>
         </div>
         
@@ -176,7 +234,7 @@
  </a>
     </div>
 
-    <p class="text-xs text-slate-600 mt-2">마지막 업데이트: 2026.07.07 15:35</p>
+    <p class="text-xs text-slate-600 mt-2">마지막 업데이트: 2026.07.08 09:30</p>
   </main>
 </body>
 </html>
