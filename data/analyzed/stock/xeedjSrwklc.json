@@ -1,0 +1,41 @@
+{
+  "video": {
+    "id": "xeedjSrwklc",
+    "title": "톰리 “삼성전자 하락, 겁 먹지 마라”…엔비디아, 중국 H200 허가 기대감 [월가 뉴스레터]",
+    "published": "2026-07-09T09:40:00+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=xeedjSrwklc",
+    "thumbnail": "https://img.youtube.com/vi/xeedjSrwklc/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "월가의 대표 강세론자인 톰 리(Tom Lee)가 한국 삼성전자 급락 사태를 두고 '수급 꼬임에 불과하니 절대 겁먹지 말고 매수하라'고 조언한 배경과, 엔비디아의 차세대 H200 AI 가속기 중국 수출 승인 임박 뉴스를 요약합니다.",
+    "key_claims": [
+      "톰 리는 전 세계 AI 반도체 쇼티지 수혜가 결국 2인자 삼성전자 퀄 테스트 통과로 번져 하반기 랠리를 장담함.",
+      "엔비디아의 대중 H200 우회 수출 칩 허가는 칩 부족 압박을 겪는 중국 텐센트/바이두향 장기 오더로 이어짐."
+    ],
+    "data_points": [
+      "톰 리 제시 코스피 하반기 반등 타겟: 현 지점 대비 +18% 이상 강세 회복 전망",
+      "엔비디아 중국향 신규 허가 대기 칩 계약고 규모: 약 80억 달러 이상 추정"
+    ],
+    "signal": "bullish",
+    "signal_reason": "전방 빅테크들의 수요가 여전히 견고하며, 미중 긴장 속에서도 실리적인 칩 유통 승인 조치가 가시화되고 있기 때문입니다.",
+    "key_companies": [
+      "Nvidia",
+      "Samsung Electronics"
+    ],
+    "insight": "톰 리의 말대로 실적 성장이 보장된 1등 반도체의 일시적 수급 급락은 공포가 아닌 축복입니다. 대중 규제 완화 기류는 추가 랠리를 지탱합니다.",
+    "action_point": "외인 이탈 노이즈로 약세를 보인 반도체 대형주 중심의 분할 매수 한도를 복원하여 공격적 적립을 지속합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "톰리전망",
+      "삼성전자매수",
+      "엔비디아H200",
+      "월가뉴스"
+    ]
+  }
+}

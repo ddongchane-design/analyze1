@@ -1,0 +1,41 @@
+{
+  "video": {
+    "id": "OM_jet5VyFE",
+    "title": "AI인프라 판매설 나온 메타, 그 이유는? | 김인엽의 실리콘밸리나우",
+    "published": "2026-07-09T07:00:00+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=OM_jet5VyFE",
+    "thumbnail": "https://img.youtube.com/vi/OM_jet5VyFE/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "메타(Meta)가 독자 구축한 수만 대의 엔비디아 H100/B200 GPU 데이터센터 컴퓨팅 용량을 클라우드 형태로 외부 엔터프라이즈 기업들에 임대 혹은 판매하는 비즈니스를 개시하려 한다는 소문과, 그 이면에 깔린 천문학적인 CapEx 감가상각 및 메타 커뮤니티의 비용 헤징 전략을 규명합니다.",
+    "key_claims": [
+      "메타가 광고 매출 외에 Llama 기반 개발자 생태계를 장악한 뒤 컴퓨팅 인프라 재판매로 실적 방어를 꾀함.",
+      "막대한 AI 투자를 감행한 빅테크들이 감가상각비용 압박을 덜기 위해 클라우드 서비스 제공업체(CSP)로의 변신을 시도함."
+    ],
+    "data_points": [
+      "메타 보유 연산용 GPU 보유 대수 추정치: 연말 기준 60만 대 돌파 전망",
+      "메타 2분기 기준 AI 전력망 연계 누적 부채 감가상각비: 전년 동기 대비 28% 급증"
+    ],
+    "signal": "bullish",
+    "signal_reason": "AI 투자금이 단순 소모성 지출이 아닌 외부 재임대를 통한 실질 매출(Cash Inflow) 파이프라인으로 전환되어 마진 훼손 우려를 상쇄하기 때문입니다.",
+    "key_companies": [
+      "Meta",
+      "Nvidia"
+    ],
+    "insight": "자체 AI 개발 용량을 넘는 잉여 인프라를 상업용 클라우드로 수익화(Commercialization)하려는 빅테크의 움직임은 주주들의 AI 거품론 의구심을 잠재우는 영리한 전술입니다.",
+    "action_point": "메타의 AI 상업화 전략 진행에 따라 추가 비중 확보를 검토하며, 빅테크의 비용 절감 밸류체인을 추적합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "메타Llama4",
+      "AI인프라판매",
+      "CapEx분산",
+      "비용효율화"
+    ]
+  }
+}

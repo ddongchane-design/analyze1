@@ -1,0 +1,41 @@
+{
+  "video": {
+    "id": "fyXAt012xCU",
+    "title": "\"하이닉스가 삼전을 역전한다?\" 강세장 끝장내는 과열의 시그널 #교양이를부탁해",
+    "published": "2026-07-09T06:30:00+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=fyXAt012xCU",
+    "thumbnail": "https://img.youtube.com/vi/fyXAt012xCU/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "HBM(고대역폭메모리) 시장 선점으로 사상 초유의 영업이익 추월 시나리오를 쓰고 있는 SK하이닉스의 주가가 전통 제왕인 삼성전자의 위상을 위협하는 현상과, 이것이 강세장 과열을 뜻하는 자금 왜곡 지표인지 진단합니다.",
+    "key_claims": [
+      "하이닉스의 HBM3E 독점 구도가 하반기에도 견고하여 삼성의 진입 지연에 따른 반사이익을 최대화함.",
+      "시총 격차 축소는 사이클 과열이 아닌 메모리 질적 패러다임 변화의 투표 결과임."
+    ],
+    "data_points": [
+      "2026년 상반기 HBM 글로벌 점유율: SK하이닉스 약 55%, 삼성전자 약 35%",
+      "양사 시가총액 비율 추이: 과거 5:1 수준에서 현재 2.2:1 수준으로 급격히 축소"
+    ],
+    "signal": "neutral",
+    "signal_reason": "하이닉스의 독주는 실질 팩트이나, 과도한 기대감이 주가에 선반영된 측면이 있어 삼전의 퀄 테스트 통과 시 급격한 롱숏 청산 변동성이 유발될 수 있습니다.",
+    "key_companies": [
+      "SK Hynix",
+      "Samsung Electronics"
+    ],
+    "insight": "메모리가 범용재에서 맞춤형 스페셜티 칩으로 변화하면서 발생한 현상입니다. 삼전의 HBM 퀄 통과 시점 전후가 포트폴리오 재배정의 변곡점이 될 것입니다.",
+    "action_point": "하이닉스 독식에 쏠린 비중 중 일부를, 퀄 테스트 돌파 기대로 가격 메리트가 높은 삼성전자로 분할 이전해 둡니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "SK하이닉스",
+      "삼성전자역전",
+      "HBM지배력",
+      "시총경쟁"
+    ]
+  }
+}

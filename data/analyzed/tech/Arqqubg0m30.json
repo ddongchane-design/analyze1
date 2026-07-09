@@ -1,0 +1,41 @@
+{
+  "video": {
+    "id": "Arqqubg0m30",
+    "title": "\"떨어질 순 있어요, 그런데...\" 반도체 실적 시나리오의 숨은 비밀 #교양이를부탁해",
+    "published": "2026-07-09T06:10:00+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=Arqqubg0m30",
+    "thumbnail": "https://img.youtube.com/vi/Arqqubg0m30/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "반도체 기업들의 단기 실적 변동 및 주가 조정 시나리오 속에서도, 중장기적인 HBM4 수요 및 전방 서버 빅테크들의 인프라 증설 경로가 훼손되지 않는 구조적 성장의 본질을 해부합니다.",
+    "key_claims": [
+      "DRAM 고정 거래가의 일시적 상승률 정체는 공급 부족이 풀리는 것이 아닌 고정가 계약의 일환임.",
+      "장기 메모리 쇼티지 추세는 최소 2027년까지 구조적으로 이어질 전망임."
+    ],
+    "data_points": [
+      "3분기 글로벌 HBM3E 수급 충족률: 수요 대비 공급이 15% 부족",
+      "빅테크향 LPDDR5X 하이엔드 모바일 메모리 고정가 인상률: +12%"
+    ],
+    "signal": "bullish",
+    "signal_reason": "DRAM 가격 피크아웃 우려는 과도하며, 공급 부족이 지속되어 고마진 제품 위주의 이익 성장이 확보되기 때문입니다.",
+    "key_companies": [
+      "SK Hynix",
+      "Samsung Electronics"
+    ],
+    "insight": "단기 노이즈에 주가가 흔들릴 수는 있으나, HBM 공급 부족과 하이엔드 메모리 전환 수요는 구조적입니다. 저가 매수가 기회입니다.",
+    "action_point": "조정 시 전공정/후공정 핵심 장비사 밸류체인 위주로 점진적인 분할 매수를 집행합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "반도체실적",
+      "DRAM가격",
+      "HBM수요",
+      "공급망분석"
+    ]
+  }
+}

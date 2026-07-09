@@ -1,0 +1,41 @@
+{
+  "video": {
+    "id": "K6J-od3ybdk",
+    "title": "데이터센터 2,500개 더 짓는데 공실률이 1% 미만? #교양이를부탁해",
+    "published": "2026-07-09T06:50:00+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=K6J-od3ybdk",
+    "thumbnail": "https://img.youtube.com/vi/K6J-od3ybdk/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "전 세계적인 AI 하드웨어 칩 증설 경쟁 속에서 데이터센터의 엄청난 건설 물량에도 불구하고 북미 상업용 데이터센터 공실률이 1% 미만의 역사적 바닥을 기록하는 '초강세 수급 공급 병목 현상'의 핵심 원인인 전력망 부족을 파헤칩니다.",
+    "key_claims": [
+      "전력망 공급 속도가 데이터센터 빌딩 준공 속도를 따라가지 못해 완공 즉시 임차 완료되는 구도임.",
+      "데이터센터의 핵심 경쟁력은 칩이 아닌 발전소 송배전망을 선점했는가로 수렴함."
+    ],
+    "data_points": [
+      "북미 주요 상업용 데이터센터 평균 공실률: 사상 최저치인 0.8% 도달",
+      "신규 전력망 연결 대기 기간(Interconnection Queue): 평균 5년에서 7.5년으로 지연"
+    ],
+    "signal": "bullish",
+    "signal_reason": "전력 병목으로 인해 기존 데이터센터 보유 기업들의 임대료 협상 지배력(Pricing Power)이 계속해서 급등하고 있기 때문입니다.",
+    "key_companies": [
+      "Digital Realty",
+      "Equinix"
+    ],
+    "insight": "AI 투자의 최종 병목은 전력입니다. 부동산 리츠 중 전력 인프라가 미연결된 자산은 가치 상승 둔화에 직면할 것이며, 송전망을 확보한 기업이 진정한 지배자입니다.",
+    "action_point": "데이터센터 전력 인프라 연동이 확보된 대형 전문 리츠 및 송배전 기기(변압기 등) 제조 기업의 장기 적립식 투자를 적극 유지합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "데이터센터공실률",
+      "AI인프라",
+      "미국전력망",
+      "전력인프라"
+    ]
+  }
+}

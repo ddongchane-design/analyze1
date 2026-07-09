@@ -1,0 +1,41 @@
+{
+  "video": {
+    "id": "1LuazKHZa_k",
+    "title": "SK하이닉스 ADR 상장, 주가 재평가냐 변동성 확대냐...기대감보다 조심해야 할 이유ㅣ명민준, 강아랑, 최창규 [주린이 구조대]",
+    "published": "2026-07-09T07:30:00+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=1LuazKHZa_k",
+    "thumbnail": "https://img.youtube.com/vi/1LuazKHZa_k/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "SK하이닉스의 미국 ADR(주식예탁증서) 2차 상장 검토 뉴스가 기업 가치 리레이팅 호재인지, 혹은 해외 자본의 차익거래(Arbitrage) 표적이 되어 국내 본주 주가의 변동성을 되레 키울 리스크 요인인지 상세 진단합니다.",
+    "key_claims": [
+      "ADR 발행은 글로벌 펀드 수급 유입에 긍정적이나, 원달러 환율과 연계된 롱숏 차익 매물이 대량 출회될 수 있음.",
+      "상장 대기 시점 전후로 공매도 타겟팅 및 파생 상품 꼬임 현상을 각별히 경계해야 함."
+    ],
+    "data_points": [
+      "검토 중인 ADR 발행 규모: 전체 지분의 약 3% 수준으로 추정",
+      "유사 사례인 대만 TSMC 본주와 미국 ADR 간 프리미엄 격차 변동률: 평균 4%~8% 괴리율 발생"
+    ],
+    "signal": "neutral",
+    "signal_reason": "장기적으로 해외 판로가 넓어지나 단기적으로 국내 거래소 본주 주가는 파생 연동 및 환차익 매물 출회로 변동성이 극대화될 수 있기 때문입니다.",
+    "key_companies": [
+      "SK Hynix",
+      "Samsung Electronics"
+    ],
+    "insight": "ADR 상장은 대형 자금의 환금성을 높여주지만, 국내 주주들에게는 변동성 지옥을 선물할 수 있습니다. 환율 모니터링이 필수적입니다.",
+    "action_point": "ADR 이슈로 주가 변동이 커지는 구간에서 성급하게 불타기 매수를 자제하고, 확실한 2분기 최종 영업이익 가이드를 확인한 뒤 대응합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "SK하이닉스ADR",
+      "해외상장",
+      "차익거래",
+      "변동성분석"
+    ]
+  }
+}
