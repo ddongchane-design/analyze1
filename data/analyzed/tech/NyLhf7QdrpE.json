@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "NyLhf7QdrpE",
+    "title": "[LIVE] AI에 200조 쓰는 메타, 왜 ‘반값 AI’를 팔기 시작했나 | 이나연 특파원",
+    "published": "2026-07-10T06:40:00+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=NyLhf7QdrpE",
+    "thumbnail": "https://img.youtube.com/vi/NyLhf7QdrpE/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "누적 200조 원의 천문학적인 AI CapEx를 집행 중인 메타가 자사 Llama 모델의 사용 단가를 파괴적으로 낮춘 '반값 API/오픈소스' 공세를 펼쳐 오픈AI와 구글의 유료 AI 가격 독점을 무너뜨리는 생태계 장악 전술을 분석합니다.",
+    "key_claims": [
+      "메타는 오픈소스를 활용해 AI 인프라 장벽을 허물어 자사 플랫폼 내의 AI 광고 단가를 최종 높이는 전략을 전개함.",
+      "오픈AI의 유료 폐쇄형 생태계를 약화시킴으로써 하드웨어 원가 부담을 경쟁사들에게 가중시키는 제로섬 게임을 유도함."
+    ],
+    "data_points": [
+      "메타의 AI 인프라 누적 CapEx 목표액: 약 1,500억~2,000억 달러 범위 집행",
+      "Llama 오픈소스 무료 배포에 따른 빅테크 클라우드 호스팅 건수 성장률: 전년 대비 4배 증가"
+    ],
+    "signal": "bullish",
+    "signal_reason": "메타의 오픈소스 공세가 성공적으로 생태계를 장악하여 플랫폼 이용률 및 광고 매출 우상향 효과를 가시화하기 때문입니다.",
+    "key_companies": [
+      "Meta",
+      "OpenAI",
+      "Microsoft"
+    ],
+    "insight": "AI의 핵심 경쟁이 '유료 모델 판매'에서 '누구나 쓰는 플랫폼 인프라 선점'으로 전격 전개되고 있습니다. 오픈소스 생태계를 이끄는 메타의 마케팅 해자는 더욱 강력해집니다.",
+    "action_point": "메타(Meta) 지분의 추가 매수를 저울질하며, 경쟁 구도 꼬임이 예상되는 개별 중소형 AI 소프트웨어사 지분은 배제합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock",
+      "economy"
+    ],
+    "tags": [
+      "메타Llama3",
+      "반값AI",
+      "오픈소스동맹",
+      "CapEx투자"
+    ]
+  }
+}

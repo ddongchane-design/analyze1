@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "rmdYvncBR-s",
+    "title": "메타, 내년까지 컴퓨팅 파워 2배 확대…AMAT CEO \"향후 수년간 반도체 호황\" [월가 뉴스레터]",
+    "published": "2026-07-10T06:50:00+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=rmdYvncBR-s",
+    "thumbnail": "https://img.youtube.com/vi/rmdYvncBR-s/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "메타의 내년도 자체 AI 서버 연산 용량(Computers) 2배 증설 로드맵 발표와, 글로벌 1위 반도체 전공정 장비사인 어플라이드 머티어리얼즈(AMAT)의 게리 디커슨 CEO가 '미세 공정 한계 도달로 향후 수년간 반도체 장비 호황이 구조적으로 지속된다'고 밝힌 실적 낙관론을 대조합니다.",
+    "key_claims": [
+      "메타의 연산 파워 2배 확대 오더는 엔비디아 가속기 및 고성능 메모리 반도체의 하반기 강력한 추가 오더를 보장함.",
+      "AMAT CEO는 웨이퍼 미세화 기술 난제로 단위 공정당 장비 대수와 판가가 우상향하는 '장비 고단화 수혜'를 확신함."
+    ],
+    "data_points": [
+      "메타의 내년도 목표 AI 컴퓨팅 인프라 전력 용량: 기존 2.4GW에서 4.8GW로 확장",
+      "AMAT의 2나노 전공정 하이엔드 장비 수주 잔고 성장률: 전년 대비 +34% 급증"
+    ],
+    "signal": "bullish",
+    "signal_reason": "전방 빅테크의 전폭적인 연산력 증설 수요와 반도체 미세화 한계에 따른 전공정 장비사의 구조적 낙수 효과가 명확하기 때문입니다.",
+    "key_companies": [
+      "Applied Materials",
+      "Meta",
+      "Samsung Electronics"
+    ],
+    "insight": "반도체 업황 피크아웃 논리는 장비 미세화 한계에 따른 대당 판가 상승(P의 상승)과 빅테크 증설(Q의 상승)을 과소평가하고 있습니다. 글로벌 장비 대장주들의 해자는 확고합니다.",
+    "action_point": "미세 전공정 밸류체인(AMAT 등) 및 국내 전공정 원천 기술을 확보한 소재/부품/장비 강소기업 지분을 포트폴리오 상단에 재배치합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "컴퓨팅파워2배",
+      "어플라이드머티어리얼즈",
+      "반도체호황",
+      "CapEx증액"
+    ]
+  }
+}

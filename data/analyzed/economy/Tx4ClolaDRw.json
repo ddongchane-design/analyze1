@@ -1,0 +1,41 @@
+{
+  "video": {
+    "id": "Tx4ClolaDRw",
+    "title": "번스타인, 올해말 금 가격 $4533 전망ㅣ펩시코, 북미 판매량 감소에 실적 혼조세ㅣ홍키자의 매일뉴욕",
+    "published": "2026-07-10T10:20:00+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=Tx4ClolaDRw",
+    "thumbnail": "https://img.youtube.com/vi/Tx4ClolaDRw/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "번스타인(Bernstein)의 올해 말 국제 금 시세의 온스당 4,533달러 폭등 낙관론과, 미국 실물 소비 둔화를 가리키는 펩시코(PepsiCo)의 북미 유통 판매량 하락 소식을 통해 매크로 스태그플레이션 리스크를 조명합니다.",
+    "key_claims": [
+      "번스타인은 글로벌 중앙은행들의 탈달러(De-dollarization) 자산 다변화 및 실물 화폐 가치 하락으로 금의 초강세를 예상함.",
+      "펩시코의 북미 스낵/음료 판매량 감소는 미국 서민층의 가용 소득 한계 도달 및 불황형 소비 축소를 시사함."
+    ],
+    "data_points": [
+      "번스타인 제시 연말 금 가격 타겟: 온스당 4,533달러 (역사적 최고 수준 낙관안)",
+      "펩시코 북미 식음료 판매량(Q) 등락률: 전년 동기 대비 -3.8% 감소"
+    ],
+    "signal": "bearish",
+    "signal_reason": "실물 소비재의 판매량 감소와 실물 원자재(금 등) 강세 전망은 경기 둔화 속 고물가가 지속되는 거시경제적 부담을 뜻하기 때문입니다.",
+    "key_companies": [
+      "PepsiCo",
+      "SPDR Gold Shares"
+    ],
+    "insight": "소비재 판가 인상(P)의 한계가 다해 판매량(Q)이 줄어드는 현상은 미국 실물 소비 엔진에 균열이 생기고 있음을 보여줍니다. 금과 같은 안전 헷지 자산의 비중 증설이 유효합니다.",
+    "action_point": "포트폴리오의 10% 내외에서 실물 금 ETF(GLD) 또는 원자재 연동 파킹형 자산을 안착시켜 실물 소비 둔화 리스크를 방어합니다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "금가격전망",
+      "번스타인보고서",
+      "인플레이션헷지",
+      "펩시코실적"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "video": {
+    "id": "MWcTGU8f1Xg",
+    "title": "하이닉스 미국 상장으로 대박? 국장 주주들이 꼭 알아야 할 덫 #교양이를부탁해",
+    "published": "2026-07-10T08:40:00+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=MWcTGU8f1Xg",
+    "thumbnail": "https://img.youtube.com/vi/MWcTGU8f1Xg/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "SK하이닉스의 미 ADR 상장이 미국 헤지펀드들에게 국내 본주 매도(숏)와 미국 ADR 매수(롱)를 활용한 차역 무위험 거래(Arbitrage) 기회를 제공하여, 결국 국내 소액 주주들이 주가 하락 변동성의 피해자가 될 수 있는 제도적 함정을 고발합니다.",
+    "key_claims": [
+      "ADR 프리미엄이 상승하면 외국인은 국내 주식을 공매도하고 미국 ADR을 사는 아비트라지 프로그램을 풀 가동함.",
+      "결국 국장 본주 주가는 외인의 현선물 롱숏 장난감으로 전락해 단기 탄력성이 교란될 위험이 큼."
+    ],
+    "data_points": [
+      "과거 대만 TSMC 본주 대비 ADR 괴리율 변동 밴드: 수급 불안기에 최대 12%까지 괴리 확대",
+      "국내 하이닉스 공매도 잔고 증가율: ADR 발행 공식 발표 이후 2주일 만에 18.5% 급증"
+    ],
+    "signal": "neutral",
+    "signal_reason": "제도적 수급 꼬임 우려가 단기 하방 압력으로 작용하겠지만, HBM 공급 실적이라는 본질 가치는 전혀 변하지 않기 때문입니다.",
+    "key_companies": [
+      "SK Hynix",
+      "Samsung Electronics"
+    ],
+    "insight": "해외 자금 유입이라는 장점 뒤에 숨겨진 차익거래 숏 포지션 덫입니다. 환율 변동과 ADR 프리미엄 괴리율을 추적하며 수급 충격을 이겨내야 합니다.",
+    "action_point": "ADR 상장 시점 전후로 발생하는 국내 본주 주가의 기계적 하락 조정을 뇌동 매도하지 않고 가치 영역의 지지선을 보며 지키는 포지션을 고수합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "SK하이닉스ADR",
+      "국장차별",
+      "차익거래",
+      "공매도리스크"
+    ]
+  }
+}

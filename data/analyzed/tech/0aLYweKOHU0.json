@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "0aLYweKOHU0",
+    "title": "[LIVE] 엔비디아 1조 달러 증발…AI 돈은 왜 메모리로 갔나 | 이나연 특파원",
+    "published": "2026-07-10T06:00:00+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=0aLYweKOHU0",
+    "thumbnail": "https://img.youtube.com/vi/0aLYweKOHU0/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "엔비디아의 시가총액이 단기적으로 급조정을 겪는 동안, 글로벌 AI 반도체 투자 자금이 실제 공급 쇼티지가 가장 극심한 메모리 반도체(HBM 및 고용량 DRAM) 제조사인 한국의 삼성전자와 SK하이닉스 밸류체인으로 유입되는 자본의 대이동 흐름을 짚어봅니다.",
+    "key_claims": [
+      "엔비디아의 단기 밸류에이션 부담이 차익 실현을 촉발하여 메모리 대장주로 자금 이동 유도.",
+      "HBM 생산 한계에 따른 가격 프리미엄 지속이 국내 양사 이익 마진 확장을 담보함."
+    ],
+    "data_points": [
+      "엔비디아 최고점 대비 시가총액 감소액: 약 1조 달러 이상 조정",
+      "SK하이닉스/삼성전자의 하반기 HBM 계약 고정가 인상율: 전분기 대비 평균 +15%"
+    ],
+    "signal": "bullish",
+    "signal_reason": "전방 칩셋 조정에도 불구하고 핵심 하드웨어인 메모리 반도체의 쇼티지는 하반기 내내 확고하기 때문입니다.",
+    "key_companies": [
+      "Nvidia",
+      "SK Hynix",
+      "Samsung Electronics"
+    ],
+    "insight": "엔비디아의 단기 조정은 시장 파멸이 아닌 주도주 간 바스켓 조절입니다. 실물 메모리 쇼티지 데이터는 여전히 최적의 펀더멘털을 나타냅니다.",
+    "action_point": "엔비디아 단기 추가 추격은 유보하되, 가격 매력이 생겨난 국내 메모리 및 소부장 밸류체인을 추가 매집합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "엔비디아조정",
+      "메모리반등",
+      "HBM수요",
+      "자금대이동"
+    ]
+  }
+}

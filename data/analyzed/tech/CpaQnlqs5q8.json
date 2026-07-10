@@ -1,0 +1,41 @@
+{
+  "video": {
+    "id": "CpaQnlqs5q8",
+    "title": "\"빅테크가 돈을 회수하기 시작했다?\" 월가가 던진 폭락 신호의 진실 #교양이를부탁해",
+    "published": "2026-07-10T06:10:00+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=CpaQnlqs5q8",
+    "thumbnail": "https://img.youtube.com/vi/CpaQnlqs5q8/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "월가 투자 은행들이 제기한 '빅테크의 AI 투자 수익성 부재 및 회수 지연 경고'의 숨은 맥락을 짚고, 이것이 증시 폭락의 시작이 아닌 B2B 유료 솔루션 가입자 증대를 위한 건전한 가치 검증 구간의 시작임을 설명합니다.",
+    "key_claims": [
+      "인프라 구축 완료 후 B2B 온프레미스 AI 매출 기여도가 본격적으로 오르고 있어 거품론은 과장됨.",
+      "다만 실제 솔루션 마진을 증명하지 못하는 하위 테크 기업들의 도태 현상은 지속될 것임."
+    ],
+    "data_points": [
+      "미국 주요 B2B 기업들의 생성형 AI 활용 생산성 향상률: 평균 +15%로 관찰",
+      "AI 소프트웨어 도입 기업들의 월평균 IT 라이선스 지출 증가율: 전년 동월 대비 +28.4%"
+    ],
+    "signal": "neutral",
+    "signal_reason": "무차별적인 AI 기대감 상승은 끝나고 철저한 실적 차별화 장세로 돌입하여 변동성이 지속될 수 있기 때문입니다.",
+    "key_companies": [
+      "Microsoft",
+      "Salesforce"
+    ],
+    "insight": "인프라 구축이 끝나면 당연히 비용 효용성 검증 단계로 갑니다. 이 과정에서 탈락하는 가짜 AI 기업을 걸러내는 선별 투자가 필수적입니다.",
+    "action_point": "AI 사업을 비즈니스 모델(구독, 라이선스)로 실제 현금흐름을 증명하고 있는 대형 플랫폼 기업에 압축 홀딩합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "빅테크수익화",
+      "투자회수론",
+      "월가경고",
+      "밸류에이션"
+    ]
+  }
+}

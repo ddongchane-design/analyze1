@@ -1,0 +1,41 @@
+{
+  "video": {
+    "id": "fKwiYdz5CFo",
+    "title": "AI 시대, 데이터를 왜 비행기로 이동할까? | 대역폭과 지연시간의 역설",
+    "published": "2026-07-10T06:20:00+00:00",
+    "channel_name": "안될공학 - IT 테크 신기술",
+    "url": "https://www.youtube.com/watch?v=fKwiYdz5CFo",
+    "thumbnail": "https://img.youtube.com/vi/fKwiYdz5CFo/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "초대형 AI 파라미터 학습 데이터(수십 Petabyte 규모)를 네트워크 광케이블망으로 전송하는 것보다, SSD 물리 드라이브에 복사하여 비행기로 이송하는 것이 시간과 비용 면에서 압도적으로 유리한 '대역폭의 물리학적 역설'을 설명합니다.",
+    "key_claims": [
+      "인터넷 백본망의 대역폭 한계로 인해 페타바이트급 데이터 전송 시 수개월이 소요되나 물리 이송은 반나절에 끝남.",
+      "AWS Snowmobile처럼 초고화질 데이터 물리 저장/이송 비즈니스가 AI 훈련 비용 최적화의 필수 인프라가 됨."
+    ],
+    "data_points": [
+      "100Gbps 전용망 기준 10PB 데이터 전송 소요 시간: 약 9.2일 논스톱 전송 필요 (망 혼잡 고려 시 실제 20일 이상)",
+      "비행기 물리 이송 시 소요 시간: SSD 탈착 및 퀵배송 합산 36시간 이내 완료"
+    ],
+    "signal": "na",
+    "signal_reason": "네트워크 엔지니어링의 대역폭 한계와 물리 전송 역설을 다룬 지식교양 영상이므로 개별 증시 단기 영향은 없습니다.",
+    "key_companies": [
+      "Amazon",
+      "Western Digital"
+    ],
+    "insight": "AI 훈련 규모가 거대해질수록 스토리지 스펙과 고신뢰성 고용량 SSD 부품의 단기 수요는 더욱 팽창합니다. 낸드 플래시 밸류체인에 긍정적입니다.",
+    "action_point": "낸드플래시(SSD) 고정 거래 단가 회복의 수혜를 누리는 삼성전자와 솔리다임(SK하이닉스)의 실적 방어력을 긍정적으로 바라봅니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "etc"
+    ],
+    "tags": [
+      "데이터이동",
+      "지연시간",
+      "물리전송",
+      "대역폭역설"
+    ]
+  }
+}

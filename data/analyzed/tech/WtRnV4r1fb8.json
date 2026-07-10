@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "WtRnV4r1fb8",
+    "title": "[전격공개] ※중국 AI 반도체 산업 탐방기※ \"D램 절대 뺏기면 안 됩니다\"..빗장 풀리는 중국, 곧 반도체 시장에 닥칠 일 (ft.권석준 성균관대 교수) / 교양이를 부탁해",
+    "published": "2026-07-10T07:10:00+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=WtRnV4r1fb8",
+    "thumbnail": "https://img.youtube.com/vi/WtRnV4r1fb8/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "성균관대 권석준 교수의 중국 심천/상해 현지 반도체 기업(CXMT, SMIC 등) 밀착 탐방 결과를 공개합니다. 미국의 극심한 장비 통제 속에서도 중국이 레거시 DRAM 및 구형 공정 장비의 70% 이상을 자체 국산화하여 공급 과잉 리스크를 유발하고 있는 생태계 현황을 다룹니다.",
+    "key_claims": [
+      "중국 CXMT는 2세대(1y나노) 및 3세대(1z나노) DRAM 양산 수율을 80% 확보하여 중저가 IT 기기 시장을 빠르게 잠식함.",
+      "한국 메모리 반도체사들이 중국 레거시 DRAM 공급 과잉에 따른 판가 훼손 리스크에 대비해야 함."
+    ],
+    "data_points": [
+      "중국 CXMT의 레거시 DRAM 글로벌 시장 점유율: 단기 11.5% 돌파 기록",
+      "중국 내 반도체 세정/노광 장비 자급화 비중: 범용 라인 기준 68% 도달"
+    ],
+    "signal": "neutral",
+    "signal_reason": "중국의 레거시 침투가 한국 반도체의 저가 범용재 마진을 침해할 수 있으나, 한국은 고부가가치 HBM 및 선단 3나노 DDR5 시장 지배력을 공고히 유지하고 있기 때문입니다.",
+    "key_companies": [
+      "Samsung Electronics",
+      "SK Hynix",
+      "CXMT"
+    ],
+    "insight": "중국이 돈의 힘으로 레거시 DRAM의 빗장을 열었습니다. 이는 범용 메모리 시장의 제로섬 치킨게임을 암시하므로, 한국 반도체는 철저히 기술 장벽이 높은 HBM과 DDR5 스페셜티 제품군에 포커싱해야 생존할 수 있습니다.",
+    "action_point": "국내 반도체 노출 비중 중 범용 레거시 부품에만 매달리는 장비사 비중을 조절하고, HBM 정밀 후공정 및 선단 패키징에 독점 수주를 내는 기업 위주로 압축합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock",
+      "economy"
+    ],
+    "tags": [
+      "중국반도체",
+      "DRAM자립화",
+      "CXMT",
+      "장비국산화"
+    ]
+  }
+}

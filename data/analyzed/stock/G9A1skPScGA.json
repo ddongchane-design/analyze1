@@ -1,0 +1,41 @@
+{
+  "video": {
+    "id": "G9A1skPScGA",
+    "title": "세계에서 LG를 주목하는 이유",
+    "published": "2026-07-10T08:10:00+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=G9A1skPScGA",
+    "thumbnail": "https://img.youtube.com/vi/G9A1skPScGA/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "글로벌 2차전지 캐즘(Chasm) 국면 속에서도 LG에너지솔루션과 LG화학이 보유한 압도적인 하이니켈/LFP 특허 포트폴리오와, 유럽/북미 내의 합작공장(JV) 선점 해자가 글로벌 완성차 OEM사들의 유일한 대안으로 작용하는 경쟁 우위를 해설합니다.",
+    "key_claims": [
+      "LG는 특허 소송 장벽을 강화해 중국산 저가 배터리의 우회 진입을 차단하는 미국 정책 수혜를 입고 있음.",
+      "유럽 내 공장 가동률 안정화 시점에 따른 하반기 영업이익 흑자 턴어라운드 경로가 뚜렷함."
+    ],
+    "data_points": [
+      "LG에너지솔루션의 글로벌 배터리 누적 특허 보유 수: 약 24,000건 이상 (업계 1위)",
+      "미국 3분기 AMPC(첨단제조세액공제) 수령 예상 규모: 전분기 대비 18% 증가한 5,200억 원 전망"
+    ],
+    "signal": "bullish",
+    "signal_reason": "캐즘 우려로 주가가 역사적 저점 부근까지 밀린 상태에서, 미국의 관세 보조금 수혜 지표가 숫자로 증명되며 턴어라운드를 시작했기 때문입니다.",
+    "key_companies": [
+      "LG에너지솔루션",
+      "LG화학"
+    ],
+    "insight": "배터리 업황 둔화는 일시적 현상입니다. 압도적 특허 해자와 북미 현지 공장망을 가진 LG의 독점력은 하반기 미국 전기차 침투율 반등 시 가장 빠르게 이익 서프라이즈로 연결됩니다.",
+    "action_point": "역사적 하단 밸류에이션 구간에 진입한 LG에너지솔루션을 분할 적립식 매수로 대응하며 중장기 투자를 고수합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "LG화학",
+      "LG에너지솔루션",
+      "배터리반등",
+      "특허소송"
+    ]
+  }
+}
