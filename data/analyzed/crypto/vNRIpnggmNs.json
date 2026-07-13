@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "vNRIpnggmNs",
+    "title": "클래리티 멈추자 SEC가 나섰다? 비트코인 이더리움 시장전망",
+    "published": "2026-07-12T04:00:28+00:00",
+    "channel_name": "디파이 농부 조선생 | Professor Jo",
+    "url": "https://www.youtube.com/watch?v=vNRIpnggmNs",
+    "thumbnail": "https://img.youtube.com/vi/vNRIpnggmNs/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 의회 상원에서 공직자 코인 보유 윤리성 및 이자 조항 쟁점으로 클레리티 법안(Clarity Act)의 연내 통과 확률이 35%로 주저앉자, SEC가 기다리지 않고 <span class=\"text-cyan-300 font-semibold\">토큰 분류 체계 선제 시행 및 3대 면제 규칙(세이프 하버)</span>을 도입하며 시장의 불확실성을 빠르게 해소하고 있습니다. 비트코인은 전통적으로 7월 강세 계절성(최근 10년 중 8회 상승)을 보이며 ETF 순유입에 힘입어 64,000달러선으로 회복했습니다. 이더리움 진영은 로빈후드가 출시한 아비트럼 기반 레이어 2(L2) 체인의 대흥행과 민코인 트레이딩 자금 쏠림 수혜로 <span class=\"text-cyan-300 font-semibold\">유니스왑과 아비트럼의 거래량 급증</span>을 유도하고 있습니다.",
+    "key_claims": [
+      "SEC는 클레리티 법안의 프레임워크를 차용해 비트코인, NFT/유틸리티, 스테이블코인 등 4대 자산을 <span class=\"text-cyan-300 font-semibold\">비증권 자산으로 확정</span>하고, 7,500만 달러 규모 조달 면제 등 세이프 하버를 제공합니다.",
+      "비트코인은 수급적으로 현물 매도 압력이 7월 중순 이후 최저치로 완화되며 과매도 구간을 통과했으나, 불스코 지수가 20에 머물러 <span class=\"text-rose-400 font-medium\">본격적 강세장 전환 확언은 미지수</span>입니다.",
+      "로빈후드 L2 출시에 따른 수혜 배분 계약으로 인해 <span class=\"text-cyan-300 font-semibold\">아비트럼(ARB)</span>과 덱스 거래 수수료가 집중되는 <span class=\"text-cyan-300 font-semibold\">유니스왑(UNI)</span>으로 스마트 머니가 빠르게 이동 중입니다."
+    ],
+    "data_points": [
+      "폴리마켓 기준 클레리티 법안 연내 상원 통과 확률: 기존 60%에서 35%로 하락",
+      "비트코인 ETF 자금 유입 데이터: 금주 1억 9,000만 달러 순유입 기록 (IBIT 중심 확대)",
+      "7월 비트코인 10개년 계절성 성공 확률: 10년 중 8개 연도 상승 마감 (평균 수익률 7.7%, 중간값 8.0%)",
+      "로빈후드 L2 체인 출시에 따른 자금 유출입: 메가이더(MegaETH) 체인에서 2억 달러 이상 자금 이탈 후 로빈후드 L2로 유입"
+    ],
+    "signal": "neutral",
+    "signal_reason": "로빈후드 L2 흥행에 따른 아비트럼/유니스왑의 부분적 수혜가 돋보이나, 거시적으로 연준 의사록의 AI 매파 발언 및 TGA 잔고 급증에 따른 유동성 압박이 실질금리 상승을 이끌어 상방을 제한하기 때문입니다.",
+    "key_companies": [
+      "Uniswap",
+      "Arbitrum"
+    ],
+    "insight": "규제 기관(SEC)이 법안 지연을 우회해 가이드라인(토큰 분류법)을 선제 가동한 것은 크립토 업계 전반의 제도화 비용을 대폭 축소하는 획기적 모멘텀입니다. 단, 매크로 측면에서 AI 투자가 물가 상승 요인으로 재정의되어 <span class=\"text-rose-400 font-medium\">연준의 금리 인하 기대가 후퇴</span>하고 있어 암호화폐 전반의 상방 압력이 존재합니다.",
+    "action_point": "비트코인 신규 매수는 7월 말 재무부 유동성 회수 구간과 실질금리 상승 추이를 보며 분할 집행하되, 로빈후드 L2 런칭 수혜가 집중되는 <span class=\"text-cyan-300 font-semibold\">아비트럼(ARB) 및 유니스왑(UNI)</span>의 지분 확보 기회로 활용해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "클레리티법안",
+      "로빈후드L2",
+      "아비트럼",
+      "실질금리비트코인",
+      "AI인플레이션논쟁"
+    ]
+  }
+}

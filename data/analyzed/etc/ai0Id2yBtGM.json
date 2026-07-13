@@ -1,0 +1,38 @@
+{
+  "video": {
+    "id": "ai0Id2yBtGM",
+    "title": "도파민은 쾌락 아니다. 희망의 물질이다 (서울대병원 이승훈 교수)",
+    "published": "2026-07-12T11:55:35+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=ai0Id2yBtGM",
+    "thumbnail": "https://img.youtube.com/vi/ai0Id2yBtGM/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "도파민(Dopamine)은 단순한 쾌락의 신경 물질이 아닌, 미래의 원대한 목표를 추구하고 실행력을 지탱하는 <span class=\"text-amber-300 font-bold\">희망의 메신저</span>입니다. 뇌의 860억 개 신경 세포 중 중뇌에서 뿜어져 나오는 도파민은 뇌의 전체적인 무드(행간의 뉘앙스)를 조정하며, 반복 학습된 운동을 담당하는 선조체와 동기 유발을 이끄는 전두엽에 작용합니다. 예상보다 큰 예측 오차나 새로운 장기 계획을 세울 때 분비되며, 도파민 결핍 시 파킨슨병이나 중증 우울증으로 직결됩니다.",
+    "key_claims": [
+      "도파민은 0과 1의 전기적 자극을 전달하는 글루탐산/가바와 달리, 향수처럼 뇌 전체에 분사되어 행동을 유도하는 <span class=\"text-amber-300 font-bold\">신경 조절 물질</span>입니다.",
+      "중뇌 흑질에서 선조체로 가는 도파민 회로가 노화 등으로 망가지면 자동으로 저장된 운동 조절이 불가능해져 몸이 얼어붙는 <span class=\"text-rose-400 font-medium\">파킨슨병</span>에 걸립니다.",
+      "도파민의 본질은 눈앞의 쾌락을 느낄 때보다, 이상적인 가치나 목표를 달성할 수 있다는 '희망'을 품고 행동을 <span class=\"text-amber-300 font-bold\">지속적으로 추구할 때</span> 왕성하게 분비됩니다."
+    ],
+    "data_points": [
+      "인간 대뇌 전체 신경 세포 수: 약 860억 개 수준",
+      "신경 세포 간 시냅스 연결 수: 약 100조 개 수준 (하나의 신경 세포가 약 1,000개 이상의 시냅스 담당)"
+    ],
+    "signal": "na",
+    "signal_reason": "도파민의 의학적 성격과 인류의 생리학적/의학적 뇌 과학 원리를 다루는 순수 학술·의학 강연 콘텐츠이기 때문입니다.",
+    "key_companies": [],
+    "insight": "인간의 동기 부여와 혁신적 실행력은 도파민이라는 생화학적 인센티브 체계(스톡옵션)를 통해 제어됩니다. 낭만이란 이상을 향해 자신을 갈아 넣을 때 분비되는 도파민의 작용이며, 이를 건강하게 활성화하는 루틴 조성이 <span class=\"text-amber-300 font-bold\">생산성 향상</span>의 열쇠입니다.",
+    "action_point": "만성 피로나 인지기능 저하(ADHD 등)를 예방하기 위해 약물성 일시적 도파민 쾌락을 멀리하고, <span class=\"text-amber-300 font-bold\">규칙적인 신체 활동</span>과 명확한 장기 목표 수립을 통해 체내 자연 도파민 활성화를 도모해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [],
+    "tags": [
+      "도파민",
+      "신경조절물질",
+      "파킨슨병",
+      "동기부여",
+      "이승훈교수"
+    ]
+  }
+}

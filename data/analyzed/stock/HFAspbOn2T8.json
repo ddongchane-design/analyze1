@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "HFAspbOn2T8",
+    "title": "답변 도중 전광판에 찍힌 170달러…최태원 회장의 반응은? (SK하이닉스 상장 기자회견)",
+    "published": "2026-07-11T00:38:12+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=HFAspbOn2T8",
+    "thumbnail": "https://img.youtube.com/vi/HFAspbOn2T8/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "최태원 SK그룹 회장은 미국 ADR 성공적 상장에 대해 반도체 강세 사이드카 속에서도 149달러 이상의 가치를 굳건히 지키겠다는 의지를 밝혔습니다. 미국 중심의 공급망 재편 및 리쇼어링 요구에는 전력, 용수 등 조건이 맞을 때 투자하겠다는 <span class=\"text-violet-300 font-medium\">철저한 고객 수요 기반 전략</span>을 고수하고 있습니다. AI 반도체는 이제 시작 단계이며 저장할 메모리 요구량은 무한히 늘어나 기존의 패턴과는 다른 구조적 장기 상승 사이드카에 있음을 재확인했습니다.",
+    "key_claims": [
+      "인공지능(AI) 시장은 여전히 유아기(4~5세) 수준으로, 본격적인 성년기로 성장할 때까지 <span class=\"text-amber-300 font-bold\">기하급수적인 메모리 수요 확장</span>이 필연적입니다.",
+      "중국 메모리 업체들의 흑자 전환과 대규모 IPO는 국내 반도체 산업에 대한 <span class=\"text-rose-400 font-medium\">기술 캐치업 위협</span>을 높이고 있어 고유의 속도전이 필요합니다.",
+      "액면 분할이나 키옥시아 지분 활용과 같은 주주가치 극대화 정책은 시장 흐름과 재무 상황에 맞춰 유연하게 검토 중입니다."
+    ],
+    "data_points": [
+      "최태원 회장이 제시한 ADR 안정 마지노선 주가: 149달러선 이상 유지 목표",
+      "메모리 반도체 공급 능력 한계 요인: 신규 공장 건설 시 대규모 전력, 용수, 장비 리드타임이 큰 병목으로 작용"
+    ],
+    "signal": "bullish",
+    "signal_reason": "AI 로드맵의 초입성 및 공급자 지배력이 강한 구조적 병목이 굳건하며, 주가 방어 및 글로벌 밸류에이션 리레이팅 의지가 확고하기 때문입니다.",
+    "key_companies": [
+      "SK하이닉스(000660)"
+    ],
+    "insight": "최태원 회장이 언급한 'AI 유아기론'은 현재의 반도체 과열 논란을 정면으로 반박하며 장기 메모리 소요를 설명합니다. 지정학적 리스크 속에서도 공장 이전 압박에 섣불리 굴하지 않고 <span class=\"text-violet-300 font-medium\">공급 안전성(Supply Security)</span>을 전략 카드로 사용하는 영리한 경영을 보여줍니다.",
+    "action_point": "SK하이닉스의 <span class=\"text-cyan-300 font-semibold\">글로벌 ADR 상장 효과</span>에 힘입어 해외 자금 유입 수혜를 받을 수 있는 반도체 장비 및 부품 공급사들의 밸류에이션 재평가 국면에 주목해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "최태원회장",
+      "SK하이닉스",
+      "ADR상장",
+      "반도체사이클",
+      "액면분할"
+    ]
+  }
+}

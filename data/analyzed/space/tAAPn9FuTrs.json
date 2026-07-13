@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "tAAPn9FuTrs",
+    "title": "중국 재사용 발사와 팰컨 9의 성능 차이",
+    "published": "2026-07-12T11:00:15+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=tAAPn9FuTrs",
+    "thumbnail": "https://img.youtube.com/vi/tAAPn9FuTrs/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "중국이 개발 중인 재사용 로켓 창정 10B(Changzheng 10B)와 스페이스X의 팰컨 9(Falcon 9)의 성능 지표를 분석한 결과, 이륙 추력 면에서는 창정이 우세하나 <span class=\"text-cyan-300 font-semibold\">실질 탑재 중량(Payload) 성능</span>은 매우 유사한 수준인 것으로 나타났습니다. 팰컨 9은 15년간 다듬어진 압도적인 연소 효율성을 지녔으며, 1단 부스터 회수를 위한 예비 연료를 감안한 실제 재사용 모드 시 두 발사체 모두 저궤도 기준 15~16톤 안팎을 쏘아 올릴 수 있습니다. 이는 중국의 재사용 발사체 역량이 글로벌 선두 수준에 바짝 추격했음을 보여줍니다.",
+    "key_claims": [
+      "창정 10B는 이륙 순간의 지면 추력이 890톤으로 팰컨 9(770~780톤) 대비 <span class=\"text-cyan-300 font-semibold\">100톤 이상 강력한 힘</span>을 지니고 있습니다.",
+      "일회용 버리기 모드 시 팰컨 9은 최대 22.8톤을 올릴 수 있지만, 1단 재사용 회수 연료를 탑재하면 실제 LEO 페이로드는 <span class=\"text-cyan-300 font-semibold\">15~16톤 수준으로 감소</span>합니다.",
+      "두 발사체 모두 1단 부스터 재사용 회수를 전제로 할 경우, 실질 탑재 체급은 15~16톤 선에서 팽팽한 기술적 균형을 이룹니다."
+    ],
+    "data_points": [
+      "창정 10B 이륙 추력 스펙: 약 890톤 (팰컨 9의 770~780톤 대비 우세)",
+      "창정 10B LEO 재사용 모드 탑재 용량: 최대 16톤 수준",
+      "팰컨 9 LEO 최대 일회용 탑재 용량: 약 22.8톤 (재사용 회수 모드 시 15~16톤 수준으로 감소 추정)"
+    ],
+    "signal": "neutral",
+    "signal_reason": "미국과 중국의 대표 재사용 발사체 성능 지표를 기술적으로 객관 비교 분석하는 콘텐츠로, 시장 밸류에이션의 급격한 변동을 동반하는 투자 시그널은 아니기 때문입니다.",
+    "key_companies": [
+      "SpaceX"
+    ],
+    "insight": "단순한 이륙 추력의 크기보다 중요한 것은 대기권 진입 연소 효율 및 재사용 모드에서의 페이로드 페널티를 최소화하는 <span class=\"text-cyan-300 font-semibold\">설계 최적화 역량</span>입니다. 창정 10B의 성능 확보는 글로벌 위성 발사 대행 시장의 중장기 단가 인하 경쟁을 가속화할 전망입니다.",
+    "action_point": "저궤도 우주 인터넷 군집위성 발사 단가 하락 수혜를 입을 수 있는 글로벌 위성 제조사 및 <span class=\"text-cyan-300 font-semibold\">지상국 안테나/통신 장비 기업</span>들의 장기 수주 파이프라인을 모니터링해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "space",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "창정10B",
+      "팰컨9",
+      "이륙추력",
+      "탑재체용량",
+      "재사용로켓효율"
+    ]
+  }
+}

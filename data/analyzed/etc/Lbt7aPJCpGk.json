@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "Lbt7aPJCpGk",
+    "title": "삼성에서 메타 이직하는게 이익인 이유",
+    "published": "2026-07-12T11:00:19+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=Lbt7aPJCpGk",
+    "thumbnail": "https://img.youtube.com/vi/Lbt7aPJCpGk/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "최근 삼성전자 노사 갈등 심화와 신뢰 관계 훼손으로 인해 국내 반도체 핵심 천재 인력들이 <span class=\"text-rose-400 font-medium\">메타 등 미국 빅테크</span>로 이탈하는 현상이 가속화되고 있습니다. AI 시대에는 다수의 범재보다 극소수의 천재 한 명이 지니는 기술적 파급력이 압도적으로 거세지고 있습니다. 이직 시 급여 상승은 물론 글로벌 최전선 커리어 확보 측면에서 삼성전자가 인재 락인을 위해 풀어야 할 조직 문화적 숙제가 큽니다.",
+    "key_claims": [
+      "삼성전자의 경쟁력 약화 원인은 단순히 기술의 부재가 아닌, <span class=\"text-rose-400 font-medium\">핵심 천재 인재들의 락인 실패</span>와 인사/보상 체계의 경직성에 있습니다.",
+      "미국 빅테크로의 이직은 개발자 입장에서 급여 상승 및 압도적인 <span class=\"text-cyan-300 font-semibold\">AI 개발 인프라 경험</span>을 제공합니다.",
+      "조직의 노사 갈등과 내부 신뢰 붕괴는 장기 연구 과제 연속성에 악영향을 주어 기술 초격차 유지를 저해합니다."
+    ],
+    "data_points": [
+      "이직 대상 빅테크: 메타(Meta), 구글(Google) 등 실리콘밸리 선두 기업들 선호"
+    ],
+    "signal": "na",
+    "signal_reason": "대기업의 노사 갈등 및 인재 유출이라는 내부 기업 문화를 분석하는 인사이드 성격의 영상으로, 직접적인 투자 기회를 담고 있지 않기 때문입니다.",
+    "key_companies": [
+      "삼성전자(005930)",
+      "메타(META)"
+    ],
+    "insight": "AI와 반도체 패권 경쟁의 본질은 돈이나 공장 부지 이전에 <span class=\"text-cyan-300 font-semibold\">최정상급 엔지니어 확보</span>에 달려 있습니다. 삼성이 관료주의와 보상 갈등을 빠르게 해결하지 못한다면, 보유한 지식 자산이 실리콘밸리로 급속히 누출되는 구조적 난관에 직면할 것입니다.",
+    "action_point": "삼성전자의 경쟁력 지표를 추적할 때 단순히 분기 실적 수치뿐 아니라, <span class=\"text-rose-400 font-medium\">핵심 연구 인력의 이탈 동향</span> 및 성과 보상 체계 개선 여부를 주요 내부 리스크 요인으로 상시 점검해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "삼성전자",
+      "인재유출",
+      "조직문화",
+      "노사갈등",
+      "메타"
+    ]
+  }
+}

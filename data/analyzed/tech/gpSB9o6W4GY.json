@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "gpSB9o6W4GY",
+    "title": "전국민이 삼성을 존경하는 이유",
+    "published": "2026-07-11T11:00:34+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=gpSB9o6W4GY",
+    "thumbnail": "https://img.youtube.com/vi/gpSB9o6W4GY/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "대한민국 대기업들, 특히 삼성전자가 매년 대규모 자금을 미래 과학기술과 기초 연구에 장기 투자하며 국내 과학 인프라 발전을 주도하고 있습니다. 10년 뒤의 장기적 성과를 내다보는 끈기 있는 투자 기조와 실패를 용인하는 연구 문화가 뒷받침될 때 비로소 국가적인 <span class=\"text-cyan-300 font-semibold\">초격차 기술 확보</span>가 가능합니다. 대기업들의 선도적인 기술 재투자는 한국 과학 기술계 전반에 우수 인재 육성과 지식 축적이라는 <span class=\"text-amber-300 font-bold\">선순환 생태계</span>를 정착시키는 원동력입니다.",
+    "key_claims": [
+      "당장의 단기 이익 창출에 연연하지 않고 기초 과학과 핵심 공학에 수조 원 규모의 <span class=\"text-cyan-300 font-semibold\">장기 R&D 투자</span>를 단행하는 문화가 필수적입니다.",
+      "삼성, SK, LG, 현대차 등 대기업들의 상생형 미래 연구 지원 사업이 국내 대학 및 연구원들의 원천 기술 경쟁력을 한 단계 레벨업하고 있습니다.",
+      "실패를 단순한 손실이 아닌 미래 지적 자산의 축적 과정으로 인정하는 유연한 기업 문화가 혁신적 성과의 기반이 됩니다."
+    ],
+    "data_points": [
+      "삼성전자의 연간 기초 및 원천 기술 연구 투자 규모: 미래기술육성사업 등을 통해 지속적인 재원 투입"
+    ],
+    "signal": "neutral",
+    "signal_reason": "대기업들의 기초 과학 투자 의의와 긍정적 파급 효과를 설명하는 거시적 관점의 콘텐츠로, 개별 기업의 단기 주가 흐름을 직접적으로 움직이는 요소는 아니기 때문입니다.",
+    "key_companies": [
+      "삼성전자(005930)",
+      "SK하이닉스(000660)",
+      "LG화학(051910)"
+    ],
+    "insight": "글로벌 공급망 재편 속에서 하드웨어와 소재 원천 기술 확보는 국가 안보와도 직결됩니다. 기업들이 단기 분기 실적에만 매몰되지 않고 <span class=\"text-cyan-300 font-semibold\">원천 기술 포트폴리오</span>를 넓혀갈 수 있도록 유인하는 세제 혜택 등 정책적 뒷받침이 더욱 중요해지고 있습니다.",
+    "action_point": "자체적인 원천 기술 R&D 역량을 지니고 연구 개발비 비중을 지속적으로 늘려가는 국내 대기업들을 <span class=\"text-amber-300 font-bold\">중장기 자산 가치주</span> 관점에서 연금 포트폴리오에 편입하는 전략이 유효합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "삼성기초연구",
+      "대기업R&D",
+      "장기투자",
+      "과학기술선순환",
+      "실패용인문화"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "jVTQyKVHg4Q",
+    "title": "중국의 재사용 발사체 회수 방식이 다른 이유",
+    "published": "2026-07-11T11:00:01+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=jVTQyKVHg4Q",
+    "thumbnail": "https://img.youtube.com/vi/jVTQyKVHg4Q/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "중국이 해상 바지선에 설치된 강철 그물과 로켓의 금속 걸이를 활용하여 재사용 로켓(창정 시리즈)의 1단 부스터를 회수하는 독특한 우주 기술 테스트에 성공했습니다. 이 방식은 스페이스X가 사용하는 무거운 착륙 다리를 로켓 본체에 장착하지 않아도 되므로 <span class=\"text-cyan-300 font-semibold\">탑재하중(Payload) 효율성</span>을 극대화할 수 있는 장점이 있습니다. 다만 한 치의 오차도 없이 지정된 속도로 그물망에 걸려야 하므로, 초고난도 자세 제어 및 <span class=\"text-cyan-300 font-semibold\">실시간 정밀 유도 시스템</span>의 신뢰성 검증이 핵심 조건입니다.",
+    "key_claims": [
+      "착륙 다리를 포기하는 대신 발사체의 무게를 줄여 위성 탑재 용량을 확보하는 <span class=\"text-cyan-300 font-semibold\">구조적 경량화 설계</span>를 실현했습니다.",
+      "1단 부스터 하강 과정에서 대기권 재진입 열 하중을 견디며 여러 차례 엔진을 껐다 켜는 '제점화 및 자세 제어 기술'을 완전히 입증했습니다.",
+      "중국의 이번 강철 그물 회수 성공은 스페이스X의 독점에 대응하는 중국 우주 기구의 재사용 발사체 기술이 임계점을 넘었음을 증명합니다."
+    ],
+    "data_points": [
+      "로켓 회수 테스트 거리: 발사장에서 해상 바지선 회수 지점까지 약 430km 이격",
+      "재사용 필수 검증 3대 요소: 엔진 다중 제점화 기술, 고속 자세 제어 능력, 정밀 목표물 포획 시스템"
+    ],
+    "signal": "neutral",
+    "signal_reason": "중국의 우주 발사체 기술적 진보를 객관적으로 다룬 정보성 콘텐츠로, 국내외 민간 우주 기업의 단기 밸류에이션에 즉각적인 상하방 영향을 주진 않기 때문입니다.",
+    "key_companies": [
+      "SpaceX"
+    ],
+    "insight": "우주 인터넷망 구축을 위한 위성 발사 수요가 폭발하는 가운데, 발사체 회수를 통한 단가 절감 경쟁이 미국과 중국의 <span class=\"text-cyan-300 font-semibold\">우주 패권 레이스</span>로 번지고 있습니다. 착륙 다리 방식과 그물 회수 방식의 효율성 비교는 향후 민간 우주 기업들의 표준 아키텍처 수립에 나침반이 될 것입니다.",
+    "action_point": "재사용 발사체의 필수인 엔진 제점화 밸브 및 <span class=\"text-cyan-300 font-semibold\">우주용 자세 제어 센서 부품</span>을 제작하는 글로벌 공급망 및 방산·우주 밸류체인 내 강소기업들을 선별 관찰할 필요가 있습니다."
+  },
+  "classification": {
+    "primary_topic": "space",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "재사용로켓",
+      "창정로켓",
+      "그물회수방식",
+      "자세제어기술",
+      "중국우주개발"
+    ]
+  }
+}
