@@ -25,6 +25,8 @@
   },
   "classification": {
     "primary_topic": "etc",
-    "relevance_score": 3.0
+    "relevance_score": 3.0,
+    "secondary_topics": [],
+    "tags": []
   }
 }

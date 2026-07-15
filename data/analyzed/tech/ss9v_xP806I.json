@@ -30,6 +30,8 @@
   },
   "classification": {
     "primary_topic": "tech",
-    "relevance_score": 9.5
+    "relevance_score": 9.5,
+    "secondary_topics": [],
+    "tags": []
   }
 }

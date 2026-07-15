@@ -30,6 +30,8 @@
   },
   "classification": {
     "primary_topic": "space",
-    "relevance_score": 7.5
+    "relevance_score": 7.5,
+    "secondary_topics": [],
+    "tags": []
   }
 }

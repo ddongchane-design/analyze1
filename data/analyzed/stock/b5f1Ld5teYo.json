@@ -34,6 +34,8 @@
   },
   "classification": {
     "primary_topic": "stock",
-    "relevance_score": 9.6
+    "relevance_score": 9.6,
+    "secondary_topics": [],
+    "tags": []
   }
 }

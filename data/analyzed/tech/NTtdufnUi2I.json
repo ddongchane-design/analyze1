@@ -24,10 +24,7 @@
       "NVIDIA(NVDA)"
     ],
     "insight": "글로벌 AI 반도체 공급망에서 엔비디아가 한국의 메모리 반도체(HBM 등)뿐만 아니라 일부 소비자용 GPU 칩의 <span class=\"text-cyan-300 font-semibold\">후공정 패키징</span> 단계에서도 한국 업체를 활용하고 있음을 알 수 있습니다. 이는 국내 <span class=\"text-cyan-300 font-semibold\">반도체 후공정(OSAT)</span> 생태계의 기술적 신뢰도를 입증하는 단서가 될 수 있습니다.",
-    "action_point": [
-      "엔비디아의 패키징 협력사로 추정되는 국내 후공정(OSAT) 업체들에 대한 추적 및 공급망 변화 모니터링.",
-      "온디바이스 AI 시장 성장에 따른 로컬 <span class=\"text-cyan-300 font-semibold\">LLM</span> 구동 칩 탑재 노트북의 수요 변화 주시."
-    ]
+    "action_point": "엔비디아의 패키징 협력사로 추정되는 국내 후공정(OSAT) 업체들에 대한 추적 및 공급망 변화 모니터링. 온디바이스 AI 시장 성장에 따른 로컬 <span class=\"text-cyan-300 font-semibold\">LLM</span> 구동 칩 탑재 노트북의 수요 변화 주시."
   },
   "classification": {
     "primary_topic": "tech",

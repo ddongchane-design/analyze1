@@ -1,0 +1,39 @@
+{
+  "video": {
+    "id": "BLvI5dBN8Ws",
+    "title": "대통령도 낚였다... 한국 과학기술 이래선 안 된다",
+    "published": "2026-07-13T11:00:08+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=BLvI5dBN8Ws",
+    "thumbnail": "https://img.youtube.com/vi/BLvI5dBN8Ws/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "대한민국 과학기술계 및 스타트업계에 성과를 부풀려 과장 홍보하는 문화가 만연해 있습니다. 극단적으로 제약된 특정 실험 조건이나 벤치마크 성과를 바탕으로 <span class=\"text-cyan-300 font-semibold\">엔비디아</span>나 구글을 뛰어넘었다고 포장하여 이를 <span class=\"text-rose-400 font-medium\">정치적 슬로건</span>으로 소비하는 행태는 국가 R&D 생태계의 정직한 성장을 저해합니다.",
+    "key_claims": [
+      "국내 다수의 기술 기업과 초기 스타트업들이 정부 행사나 투자 유치 시 제한된 벤치마크 우위를 근거로 '글로벌 빅테크 초월'이라는 문구를 남발합니다.",
+      "이를 실제 범용적 상용 성과가 아닌 정치적 업적 및 전시성 홍보로 소비함으로써 기술에 대한 대중과 의사결정권자의 왜곡된 인식을 낳습니다."
+    ],
+    "data_points": [],
+    "signal": "neutral",
+    "signal_reason": "한국 기술 생태계의 과장 홍보 관행을 꼬집는 비판적 시사 정보로, 단기적인 주식 시장 시그널을 유도하지는 않습니다.",
+    "key_companies": [
+      "엔비디아(NVDA)",
+      "구글(GOOGL)"
+    ],
+    "insight": "단일 벤치마크 1위 달성과 전 세계에 배포된 상용 인프라 장악력은 천양지차입니다. 데모 수준의 성과에 속지 않고, 글로벌 하드웨어 및 소프트웨어 연동 경쟁력(생태계 락인)을 갖추었는지를 선별하는 투자자의 안목이 필수적입니다.",
+    "action_point": "국내 테크 및 로봇 테마주 투자 시 '엔비디아 제쳤다'식의 언론 보도에 현혹되지 말고, 실제 납품 계약 및 상용화 지표를 철저히 검증해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "etc"
+    ],
+    "tags": [
+      "한국과학기술",
+      "과장광고",
+      "벤치마크왜곡",
+      "로봇스타트업",
+      "엔비디아"
+    ]
+  }
+}

@@ -28,6 +28,8 @@
   },
   "classification": {
     "primary_topic": "economy",
-    "relevance_score": 9.0
+    "relevance_score": 9.0,
+    "secondary_topics": [],
+    "tags": []
   }
 }

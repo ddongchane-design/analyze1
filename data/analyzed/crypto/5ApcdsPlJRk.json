@@ -32,6 +32,8 @@
   },
   "classification": {
     "primary_topic": "crypto",
-    "relevance_score": 9.3
+    "relevance_score": 9.3,
+    "secondary_topics": [],
+    "tags": []
   }
 }

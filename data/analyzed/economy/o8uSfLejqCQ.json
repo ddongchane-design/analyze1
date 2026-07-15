@@ -34,6 +34,8 @@
   },
   "classification": {
     "primary_topic": "economy",
-    "relevance_score": 9.4
+    "relevance_score": 9.4,
+    "secondary_topics": [],
+    "tags": []
   }
 }

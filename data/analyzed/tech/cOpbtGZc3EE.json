@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "cOpbtGZc3EE",
+    "title": "결국 이용료는 우리가 낸다 AI가 비싸질 수밖에 없는 이유 #교양이를부탁해",
+    "published": "2026-07-14T11:00:25+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=cOpbtGZc3EE",
+    "thumbnail": "https://img.youtube.com/vi/cOpbtGZc3EE/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "생성형 AI 서비스 사용료와 API 단가가 중장기적으로 비싸게 유지될 수밖에 없는 구조적 원인(추론 비용의 기하급수적 증가 및 하드웨어 가격)을 설명합니다. 서비스 제공 기업들의 이익 회수를 위한 과금 장벽 강화 트렌드를 분석합니다.",
+    "key_claims": [
+      "단순 검색 대비 AI의 다단계 프롬프트 처리 및 추론 연산은 수십 배 이상의 컴퓨팅 파워와 전력을 소모합니다.",
+      "엔비디아의 차세대 칩(Rubin/Blackwell) 및 액체냉각 서버 구축 비용이 고스란히 서비스 운영 비용(OPEX)에 전가됩니다.",
+      "무료 AI 서비스 경쟁은 종료 국면에 도달했으며, 기업용(B2B) 과금 모델의 단가 인상과 타이트한 제한 조치가 불가피합니다."
+    ],
+    "data_points": [
+      "AI 1회 검색당 비용: 전통 구글 텍스트 검색 대비 약 10배 내외 고가 소요"
+    ],
+    "signal": "neutral",
+    "signal_reason": "AI 인프라 부품사에는 안정적인 판가 유지(Q)의 호재이나, 소프트웨어 응용 애플리케이션 및 스타트업에는 마진 압박 요인으로 작동해 수혜가 엇갈리기 때문입니다.",
+    "key_companies": [
+      "오픈AI",
+      "구글",
+      "엔비디아"
+    ],
+    "insight": "AI 경제는 결국 공짜 점심이 없습니다. 빅테크들이 막대하게 쏟아부은 Capex는 고단가 B2B 과금 시스템을 통해 일반 기업과 유료 소비자들에게 전가될 것입니다. 이는 수익모델이 확실한 AI 플랫폼의 중요성을 더해줍니다.",
+    "action_point": "단순 AI API 재가공 업체보다는 독자적인 고객 락인(Lock-in) 장벽과 가격 결정력을 확보한 거대 테크 플랫폼 위주의 투자 관점이 유효합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "AI추론비용",
+      "인프라Capex",
+      "서비스단가",
+      "수익모델"
+    ]
+  }
+}

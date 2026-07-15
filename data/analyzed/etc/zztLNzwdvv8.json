@@ -29,6 +29,8 @@
   },
   "classification": {
     "primary_topic": "etc",
-    "relevance_score": 8.2
+    "relevance_score": 8.2,
+    "secondary_topics": [],
+    "tags": []
   }
 }
