@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "caP-N91YjLY",
+    "title": "중국 AI 베끼기 미국은 알고도 놔둔다? 문샷 kimi K3 빅테크 반도체 메모리 전략",
+    "published": "2026-07-18T11:19:51+00:00",
+    "channel_name": "엔지니어TV",
+    "url": "https://www.youtube.com/watch?v=caP-N91YjLY",
+    "thumbnail": "https://img.youtube.com/vi/caP-N91YjLY/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "중국 <span class=\"text-cyan-300 font-semibold\">문샷 AI</span>가 오픈소스 모델 Kimi K3를 발표하며 미국의 차세대 AI 모델에 필적하는 가성비 성능을 과시했습니다. 미·중 AI 패권 전쟁이 치열해지는 가운데, 미국 빅테크와 정부는 소프트웨어 오픈소스 확산을 통해 AI 에이전트 시장 개화와 GPU·메모리 하드웨어 수요 폭발을 유도하는 동시에 하드웨어 핵심 공급망의 목줄을 죄어 패권을 유지하려는 복합적 전략을 실행하고 있습니다.",
+    "key_claims": [
+      "중국 문샷 AI의 양즈린 CEO(미국 실리콘밸리 출신 천재)는 지식 증류(Distillation) 및 알고리즘 최적화 기술을 활용해 Kimi K3를 단기 최고의 가성비 모델로 끌어올렸다.",
+      "오픈소스 기반 가성비 토큰의 등장은 AI 소프트웨어 가격 파괴를 유발하여, 단순 챗봇을 넘어 24시간 자율 가동되는 B2B AI 에이전트(Agentic AI) 시대의 개막을 가속화한다.",
+      "미국은 중국의 소프트웨어 추격을 우주/군사/산업 생산성 안보 차원에서 경계하는 한편, AI의 최종 하방 지지선인 핵심 하드웨어(GPU, 장비, HBM 메모리 공급망)를 철저히 장악하여 지배력을 통제하고 있다."
+    ],
+    "data_points": [
+      "문샷 AI 설립: 2023년 3월 (양즈린 CEO 주도, 알리바바 및 메이투안 투자 유치)",
+      "Kimi K3 파라미터 규모: 약 2.8조(혹은 2,800억) 및 백만 토큰 컨텍스트 지원",
+      "양즈린 CEO 이력: 칭화대 학사 → CMU 박사(제프리 힌튼계열) → 구글 브레인 및 메타 AI 연구원"
+    ],
+    "signal": "bullish",
+    "signal_reason": "미·중 패권 경쟁과 국가 안보 논리가 개입되면서 빅테크의 AI 설비투자(CAPEX)는 단순한 시장 논리(ROI)를 넘어선 필수 안보 투자가 되었으며, 이는 GPU 및 고대역폭 메모리(HBM) 생태계의 하방 지지선 역할을 하여 장기적인 성장을 지지하기 때문입니다.",
+    "key_companies": [
+      "문샷AI",
+      "알리바바(BABA)",
+      "엔비디아(NVDA)",
+      "SK하이닉스(000660)"
+    ],
+    "insight": "소프트웨어와 알고리즘의 최적화(지식 증류)는 국경 없는 복제가 가능하여 단기 성과를 낼 수 있지만, 미·중 패권 전쟁의 최종 지배력은 복제가 불가능한 반도체 파운드리, HBM 메모리, 제조 및 로보틱스 등의 '하드웨어 병목(Physical Bottleneck)'에서 결정될 것입니다.",
+    "action_point": "단기 밸류에이션 논란에도 불구하고 미·중 패권 전쟁의 하방 지지롤 받는 글로벌 하드웨어 독점 기업(<span class=\"text-cyan-300 font-semibold\">엔비디아</span>, <span class=\"text-cyan-300 font-semibold\">TSMC</span>, <span class=\"text-cyan-300 font-semibold\">ASML</span> 및 국내 메모리 대표사)에 대한 중장기 투자 비중을 확고히 유지해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock",
+      "economy"
+    ],
+    "tags": [
+      "문샷AI",
+      "양즈린",
+      "지식증류",
+      "패권경쟁",
+      "안보투자"
+    ]
+  }
+}
