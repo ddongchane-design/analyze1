@@ -8,7 +8,7 @@
     "thumbnail": "https://img.youtube.com/vi/0IfDAwi9hoM/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "AI 에이전트가 물리적 실체를 갖는 <span class=\"text-cyan-300 font-semibold\">피지컬 AI</span>(휴머노이드) 시대의 도래와 이에 따른 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span>의 중요성을 설명함. 휴머노이드 로봇이 실시간으로 동작을 판단하고 실행하려면 고성능 메모리 성능이 필수적이며, 메모리 병목 현상이 해결되어야 진정한 인공지능 로봇이 가능함.",
+    "summary": "AI 에이전트가 물리적 실체를 갖는 피지컬 AI(휴머노이드) 시대의 도래와 이에 따른 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span>의 중요성을 설명함. 휴머노이드 로봇이 실시간으로 동작을 판단하고 실행하려면 고성능 메모리 성능이 필수적이며, 메모리 병목 현상이 해결되어야 진정한 인공지능 로봇이 가능함.",
     "key_claims": [
       "에이전트 AI가 물리적 몸을 가질 때 피지컬 AI(휴머노이드)가 구현됨.",
       "로봇이 실시간으로 명령을 처리할 때 메모리 성능이 부족하면 시스템이 지연되어 비효율이 발생함.",
@@ -16,13 +16,13 @@
     ],
     "data_points": [],
     "signal": "bullish",
-    "signal_reason": "휴머노이드 로봇(피지컬 AI) 시장의 개화로 차세대 고대역폭/고성능 메모리 반도체 수요가 더욱 강력하게 확장될 것임을 시사함.",
+    "signal_reason": "휴머노이드 로봇(피지컬 AI) 시장의 개화로 차세대 고대역폭/고성능 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span> 수요가 더욱 강력하게 확장될 것임을 시사함.",
     "key_companies": [
       "삼성전자",
       "SK하이닉스"
     ],
     "insight": "로봇의 동작 제어는 실시간 피드백 루프가 핵심이므로, 연산 장치뿐 아니라 LPDDR5X 등 저전력·고성능 메모리가 핵심 부품으로 부상하고 있음.",
-    "action_point": "로봇 및 자율주행 등 피지컬 AI 인프라 확장의 직접적 수혜를 누리는 메모리 반도체 대표 기업에 장기적인 관심을 유지함."
+    "action_point": "로봇 및 자율주행 등 피지컬 AI 인프라 확장의 직접적 수혜를 누리는 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span> 대표 기업에 장기적인 관심을 유지함."
   },
   "classification": {
     "primary_topic": "tech",

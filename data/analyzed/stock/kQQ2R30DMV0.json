@@ -8,26 +8,26 @@
     "thumbnail": "https://img.youtube.com/vi/kQQ2R30DMV0/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "외국계 증권사 CLSA의 파격적인 글로벌 반도체 호황 연장(2028~2029년까지 지속) 보고서의 핵심 논리와 시사점을 다룸. 추론 연산 수요의 15배 폭발적 증가로 인한 심각한 '토큰 쇼티지(Token Shortage)'가 반도체 공급 병목을 이전 전망보다 1년 이상 더 길게 끌어갈 것이며, 그 액션의 증거로 TSMC의 CapEx 투자 가이드가 15~20% 상향 조정될 것임을 분석함.",
+    "summary": "외국계 증권사 CLSA의 파격적인 글로벌 <span class=\"text-cyan-300 font-semibold\">반도체</span> 호황 연장(2028~2029년까지 지속) 보고서의 핵심 논리와 시사점을 다룸. 추론 연산 수요의 15배 폭발적 증가로 인한 심각한 '토큰 쇼티지(Token Shortage)'가 <span class=\"text-cyan-300 font-semibold\">반도체</span> 공급 병목을 이전 전망보다 1년 이상 더 길게 끌어갈 것이며, 그 액션의 증거로 <span class=\"text-cyan-300 font-semibold\">TSMC</span>의 CapEx 투자 가이드가 15~20% 상향 <span class=\"text-rose-400 font-medium\">조정</span>될 것임을 분석함.",
     "key_claims": [
-      "시장 일각의 2026년 반도체 피크아웃 우려와 달리, 인공지능이 생성해 내야 하는 '토큰 생산 케파'가 극심한 쇼티지 상태여서 업황 다운사이클 진입 시점이 최소 2028년 이후로 이연됨.",
+      "시장 일각의 2026년 <span class=\"text-cyan-300 font-semibold\">반도체</span> 피크아웃 우려와 달리, 인공지능이 생성해 내야 하는 '토큰 생산 케파'가 극심한 쇼티지 상태여서 업황 다운사이클 진입 시점이 최소 2028년 이후로 이연됨.",
       "글로벌 AI CapEx 투자액은 자금 조달 여력만 갖춰진다면 시장의 기본 전망치인 1.2조 달러를 훨씬 초과해 2조~2.5조 달러선까지 폭증하여 전방 칩 소요량을 지탱할 가능성이 농후함.",
-      "GPU 및 가속기 출하량은 2025년 대비 2030년까지 5년 만에 5배 이상 폭발하여, 한국의 고밀도 HBM 및 범용 DDR5 판가의 장기 지지력(Pricing Power)을 강화할 것임."
+      "GPU 및 가속기 출하량은 2025년 대비 2030년까지 5년 만에 5배 이상 폭발하여, 한국의 고밀도 <span class=\"text-cyan-300 font-semibold\">HBM</span> 및 범용 DDR5 판가의 장기 지지력(Pricing Power)을 강화할 것임."
     ],
     "data_points": [
       "AI CapEx 성장 범위: 글로벌 연간 인프라 설비 투자 컨센서스 기준 기본 1.2조 달러에서 최대 2.5조 달러 포캐스트 달성 대기",
       "반도체 가속기 출하 증가율: 2025년 기준점 대비 향후 5년 내 합산 AI 가속기(GPU/TPU 등) 출하량 500% 급증 전망"
     ],
     "signal": "bullish",
-    "signal_reason": "CLSA의 토큰 쇼티지 보고서가 반도체 다운사이클 시작점을 2028~29년으로 대폭 밀어냈고, TSMC의 20% CapEx 가이드 증액이 글로벌 메모리/소부장 오더 증가에 직결되기 때문입니다.",
+    "signal_reason": "CLSA의 토큰 쇼티지 보고서가 <span class=\"text-cyan-300 font-semibold\">반도체</span> 다운사이클 시작점을 2028~29년으로 대폭 밀어냈고, <span class=\"text-cyan-300 font-semibold\">TSMC</span>의 20% CapEx 가이드 증액이 글로벌 메모리/소부장 오더 증가에 직결되기 때문입니다.",
     "key_companies": [
       "TSMC",
       "삼성전자(005930)",
       "SK하이닉스(000660)",
       "NVIDIA"
     ],
-    "insight": "반도체 사이클의 본질은 '수요가 공급을 따라가지 못하는 기간의 길이'입니다. CLSA의 지적처럼 기업용 추론량(Inference Volume)이 15배 이상 늘어나는 국면에서 <span class=\"text-cyan-300 font-semibold\">토큰 공급 Capa 부족</span>은 전 세계 파운드리(TSMC)와 메모리 3사의 가치(PER)를 이전 역사적 평균(10배) 대비 15~20배 수준으로 리레이팅하게 만드는 핵심 원동력입니다.",
-    "action_point": "피크아웃 루머에 흔들리지 말고 포트폴리오 내 반도체 소부장(CXL IP, 세정/테스트 소켓) 및 <span class=\"text-cyan-300 font-semibold\">SK하이닉스, 삼성전자 보통주</span>의 비중을 하반기에도 적극적으로 유지하는 홀딩 전략을 고수합니다."
+    "insight": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 사이클의 본질은 '수요가 공급을 따라가지 못하는 기간의 길이'입니다. CLSA의 지적처럼 기업용 추론량(Inference Volume)이 15배 이상 늘어나는 국면에서 토큰 공급 Capa 부족은 전 세계 파운드리(<span class=\"text-cyan-300 font-semibold\">TSMC</span>)와 메모리 3사의 가치(PER)를 이전 역사적 평균(10배) 대비 15~20배 수준으로 리레이팅하게 만드는 핵심 원동력입니다.",
+    "action_point": "피크아웃 루머에 흔들리지 말고 포트폴리오 내 <span class=\"text-cyan-300 font-semibold\">반도체</span> 소부장(CXL IP, 세정/테스트 소켓) 및 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>, <span class=\"text-cyan-300 font-semibold\">삼성전자</span> 보통주의 비중을 하반기에도 적극적으로 유지하는 홀딩 전략을 고수합니다."
   },
   "classification": {
     "primary_topic": "stock",

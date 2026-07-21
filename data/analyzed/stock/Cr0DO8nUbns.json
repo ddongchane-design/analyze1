@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/Cr0DO8nUbns/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "기술주 급락 이후 미 증시 선물은 강한 반등을 시작했으며, 지정학적 완화에도 유가 및 금리가 고공행진하는 가운데 골드만삭스는 '매수 기회'를 제시했고, <span class=\"text-cyan-300 font-semibold\">마벨 테크놀로지</span>의 S&P500 편입 소식이 이어졌습니다.",
+    "summary": "기술주 <span class=\"text-rose-400 font-medium\">급락</span> 이후 미 증시 선물은 강한 반등을 시작했으며, 지정학적 완화에도 <span class=\"text-amber-300 font-bold\">유가</span> 및 금리가 고공행진하는 가운데 골드만삭스는 '매수 기회'를 제시했고, <span class=\"text-cyan-300 font-semibold\">마벨</span> 테크놀로지의 S&P500 편입 소식이 이어졌습니다.",
     "key_claims": [
-      "이란과 이스라엘의 교전 중단 표명으로 지정학적 최악의 고비는 넘겼으나 에너지 공급망 경계는 유지되고 있다.",
-      "국민연금의 대규모 선물환 매도로 원달러 환율이 1,530원선 하방으로 방어되는 수급 효과가 나타났다.",
+      "<span class=\"text-violet-300 font-medium\">이란</span>과 이스라엘의 교전 중단 표명으로 지정학적 최악의 고비는 넘겼으나 에너지 공급망 경계는 유지되고 있다.",
+      "국민연금의 대규모 선물환 매도로 <span class=\"text-amber-300 font-bold\">원달러 환율</span>이 1,530원선 하방으로 방어되는 수급 효과가 나타났다.",
       "유럽중앙은행(ECB)의 매파적 금리 결정 가능성으로 유로화 강세 및 상대적 달러 약세 조짐이 관측되었다."
     ],
     "data_points": [
@@ -19,14 +19,14 @@
       "국채 금리: 10년물 4.53%대, 30년물 5.0% 상회 유지"
     ],
     "signal": "neutral",
-    "signal_reason": "선물 시장 반등 및 지정학 리스크 완화는 긍정적이나, 금리 및 유가가 고점에 머물러 있고 주요국 통화 긴축 경계감이 남아 조심스러운 순환매 양상이 지속될 것입니다.",
+    "signal_reason": "선물 시장 반등 및 지정학 <span class=\"text-rose-400 font-medium\">리스크</span> 완화는 긍정적이나, 금리 및 <span class=\"text-amber-300 font-bold\">유가</span>가 고점에 머물러 있고 주요국 통화 긴축 경계감이 남아 조심스러운 순환매 양상이 지속될 것입니다.",
     "key_companies": [
       "Marvell",
       "MicroStrategy",
       "Apple"
     ],
     "insight": "지정학 노이즈가 안정화되고 대형 기관(골드만)의 진입 신호가 나오는 등 시장 바닥 다지기 징후가 보이지만, 절대적인 차입 비용(금리) 저항선이 여전해 변동성에 유의해야 합니다.",
-    "action_point": "마벨과 같이 대형 지수 편입 및 AI 인프라 수혜성이 입증된 종목 위주로 포트폴리오를 재편하고, 고금리 방어력이 높은 수출 우량주를 확보해두어야 합니다."
+    "action_point": "<span class=\"text-cyan-300 font-semibold\">마벨</span>과 같이 대형 지수 편입 및 AI 인프라 수혜성이 입증된 종목 위주로 포트폴리오를 재편하고, <span class=\"text-amber-300 font-bold\">고금리</span> 방어력이 높은 수출 우량주를 확보해두어야 합니다."
   },
   "classification": {
     "primary_topic": "stock",

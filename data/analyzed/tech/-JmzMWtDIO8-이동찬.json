@@ -8,18 +8,18 @@
     "thumbnail": "https://img.youtube.com/vi/-JmzMWtDIO8/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "미국의 고강도 제재 속에서 <span class=\"text-violet-300 font-medium\">중국</span> 반도체 생태계가 <span class=\"text-cyan-300 font-semibold\">화웨이</span>, 바이런 등을 필두로 저성능 칩을 대규모로 엮는 '초물량 공세' 방식으로 독자 생존로를 모색하고 있음을 분석함. 화웨이는 팡구 울트라 모델에 자체 어센드 910 MPU를 수십만 장 연결해 하드웨어 열세를 극복하고 있으며, 삼성·하이닉스 주도의 HBM 제재에 맞서 LPDDR을 대량 결합해 대역폭을 늘리는 기술과 CXMT·YMTC의 3D 패키징 및 HBM2 양산 체계를 추진 중임.",
+    "summary": "미국의 고강도 제재 속에서 <span class=\"text-violet-300 font-medium\">중국</span> <span class=\"text-cyan-300 font-semibold\">반도체</span> 생태계가 <span class=\"text-cyan-300 font-semibold\">화웨이</span>, 바이런 등을 필두로 저성능 칩을 대규모로 엮는 '초물량 공세' 방식으로 독자 생존로를 모색하고 있음을 분석함. <span class=\"text-cyan-300 font-semibold\">화웨이</span>는 팡구 울트라 모델에 자체 어센드 910 MPU를 수십만 장 연결해 하드웨어 열세를 극복하고 있으며, 삼성·하이닉스 주도의 <span class=\"text-cyan-300 font-semibold\">HBM</span> 제재에 맞서 LPDDR을 대량 결합해 대역폭을 늘리는 기술과 CXMT·YMTC의 3D 패키징 및 <span class=\"text-cyan-300 font-semibold\">HBM</span>2 양산 체계를 추진 중임.",
     "key_claims": [
       "<span class=\"text-violet-300 font-medium\">중국</span>은 엔비디아의 절대적 대안이 없는 상황에서도 성능이 떨어지는 자체 MPU/GPU를 대량 병렬 연결하여 인프라 부족을 메우는 생존 모델을 가동 중임.",
-      "HBM 수급 제재를 극복하기 위해 삼성/하이닉스 부품 대신 LPDDR 메모리 연결 기술 및 YMTC·CXMT의 자체 HBM 개발(HBM2 양산 및 3D 적층 기술 공동개발) 협력을 본격화함.",
-      "이러한 자국 내 반도체 내재화 기반 덕분에 미중 정상회담 등 지정학적 협상에서 <span class=\"text-violet-300 font-medium\">중국</span>이 완강한 거절 의사를 나타낼 수 있었던 기술적 자신감이 형성됨."
+      "<span class=\"text-cyan-300 font-semibold\">HBM</span> 수급 제재를 극복하기 위해 삼성/하이닉스 부품 대신 LPDDR 메모리 연결 기술 및 YMTC·CXMT의 자체 <span class=\"text-cyan-300 font-semibold\">HBM</span> 개발(<span class=\"text-cyan-300 font-semibold\">HBM</span>2 양산 및 3D 적층 기술 공동개발) 협력을 본격화함.",
+      "이러한 자국 내 <span class=\"text-cyan-300 font-semibold\">반도체</span> 내재화 기반 덕분에 미중 정상회담 등 지정학적 협상에서 <span class=\"text-violet-300 font-medium\">중국</span>이 완강한 거절 의사를 나타낼 수 있었던 기술적 자신감이 형성됨."
     ],
     "data_points": [
       "화웨이 어센드 910 MPU 수십만 장 연결 체계 구축 및 팡구 울트라 모델 활용.",
       "중국 메모리 연합(YMTC의 낸드/HBF + CXMT의 D램)을 통한 HBM2 자체 양산 및 3D 적층 기술 공동 개발."
     ],
     "signal": "neutral",
-    "signal_reason": "<span class=\"text-violet-300 font-medium\">중국의 반도체 자급화</span> 시도는 단기적 성능 한계와 높은 비용 구조로 비효율적이나, 제재를 뚫고 독자 메모리·연산 생태계를 견고히 구축해가고 있어 글로벌 반도체 공급망에 장기적인 변수로 부상함.",
+    "signal_reason": "<span class=\"text-violet-300 font-medium\">중국</span>의 <span class=\"text-cyan-300 font-semibold\">반도체</span> 자급화 시도는 단기적 성능 한계와 높은 비용 구조로 비효율적이나, 제재를 뚫고 독자 메모리·연산 생태계를 견고히 구축해가고 있어 글로벌 <span class=\"text-cyan-300 font-semibold\">반도체</span> 공급망에 장기적인 변수로 부상함.",
     "key_companies": [
       "화웨이",
       "YMTC",
@@ -28,8 +28,8 @@
       "삼성전자",
       "SK하이닉스"
     ],
-    "insight": "<span class=\"text-rose-400 font-medium\">미국의 제재 압박</span>이 오히려 중국 내 반도체(YMTC, CXMT, 화웨이 등) 이종 연합체 결성을 자극해 독자 우회 기술(LPDDR 병렬화 및 3D 적층)을 정착시키는 역설을 낳고 있음.",
-    "action_point": "중국의 구공정 및 HBM2 자국산 대체 흐름은 국내 반도체 기업들의 대중국 메모리 수출 장기 감소 요인이 될 수 있으므로, 미세공정 격차 유지 및 서구권 AI 인프라 공급망 점유율 확대에 주력해야 함."
+    "insight": "미국의 제재 압박이 오히려 <span class=\"text-violet-300 font-medium\">중국</span> 내 <span class=\"text-cyan-300 font-semibold\">반도체</span>(YMTC, CXMT, <span class=\"text-cyan-300 font-semibold\">화웨이</span> 등) 이종 연합체 결성을 자극해 독자 우회 기술(LPDDR 병렬화 및 3D 적층)을 정착시키는 역설을 낳고 있음.",
+    "action_point": "<span class=\"text-violet-300 font-medium\">중국</span>의 구공정 및 <span class=\"text-cyan-300 font-semibold\">HBM</span>2 자국산 대체 흐름은 국내 <span class=\"text-cyan-300 font-semibold\">반도체</span> 기업들의 대<span class=\"text-violet-300 font-medium\">중국</span> 메모리 수출 장기 감소 요인이 될 수 있으므로, 미세공정 격차 유지 및 서구권 AI 인프라 공급망 점유율 확대에 주력해야 함."
   },
   "classification": {
     "primary_topic": "tech",

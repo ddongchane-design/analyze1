@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/7AunPqD4WSU/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "<span class=\"text-cyan-300 font-semibold\">마이크론(MU)</span>이 시장 예상을 압도하는 3분기 실적과 강력한 다음 분기 가이던스($500억)를 발표하며 AI 반도체 랠리를 주도하고 있습니다. 특히 고객 매출의 50%를 가격 하한선이 보장된 <span class=\"text-amber-300 font-bold\">장기 전략 계약</span>으로 묶으며 메모리의 고질적인 사이클 산업 리스크를 극복해 나가는 모습을 보였습니다. 또한 호르무즈 해협 통행료 우려 완화로 <span class=\"text-amber-300 font-bold\">유가 하락</span> 및 금리 안정세가 더해져 증시 전반에 우호적인 환경이 조성되었습니다.",
+    "summary": "마이크론(MU)이 시장 예상을 압도하는 3분기 실적과 강력한 다음 분기 가이던스($500억)를 발표하며 <span class=\"text-cyan-300 font-semibold\">AI 반도체</span> 랠리를 주도하고 있습니다. 특히 고객 매출의 50%를 가격 하한선이 보장된 장기 전략 계약으로 묶으며 메모리의 고질적인 사이클 산업 <span class=\"text-rose-400 font-medium\">리스크</span>를 극복해 나가는 모습을 보였습니다. 또한 <span class=\"text-violet-300 font-medium\">호르무즈 해협</span> 통행료 우려 완화로 <span class=\"text-amber-300 font-bold\">유가</span> 하락 및 금리 안정세가 더해져 증시 전반에 우호적인 환경이 조성되었습니다.",
     "key_claims": [
-      "<span class=\"text-cyan-300 font-semibold\">마이크론</span>의 실적 서프라이즈와 공격적인 다음 분기 가이던스는 AI 사이클의 강력한 수요가 유지되고 있음을 방증한다.",
-      "전체 매출의 50%를 가격 하한선(Floor Price)이 보장된 <span class=\"text-amber-300 font-bold\">장기 계약</span>으로 전환하면서, 메모리 산업의 급격한 사이클 진폭을 완화하고 안정적인 수익 구조를 구축했다.",
-      "미국 연준의 <span class=\"text-amber-300 font-bold\">스트레스 테스트</span> 결과 가혹한 가상 침체 시나리오에서도 32개 대형 은행 모두 자본 요건을 통과해 금융권 체력이 견고함을 입증했다."
+      "마이크론의 실적 서프라이즈와 공격적인 다음 분기 가이던스는 AI 사이클의 강력한 수요가 유지되고 있음을 방증한다.",
+      "전체 매출의 50%를 가격 하한선(Floor Price)이 보장된 장기 계약으로 전환하면서, 메모리 산업의 급격한 사이클 진폭을 완화하고 안정적인 수익 구조를 구축했다.",
+      "미국 연준의 스트레스 테스트 결과 가혹한 가상 침체 시나리오에서도 32개 대형 은행 모두 자본 요건을 통과해 금융권 체력이 견고함을 입증했다."
     ],
     "data_points": [
       "마이크론 3분기 매출: 실제 415억 달러 (예상 358억 4천만 달러)",
@@ -24,13 +24,13 @@
     ],
     "signal": "bullish",
     "signal_confidence": "high",
-    "signal_reason": "마이크론의 강력한 실적 확인으로 AI 인프라 성장 궤도가 건재함이 증명되었고, 국제 유가 하락 및 금리 안정세가 매크로 밸류에이션 압박을 완화하는 강력한 훈풍으로 작용하기 때문입니다.",
+    "signal_reason": "마이크론의 강력한 실적 확인으로 AI 인프라 성장 궤도가 건재함이 증명되었고, 국제 <span class=\"text-amber-300 font-bold\">유가</span> 하락 및 금리 안정세가 매크로 밸류에이션 압박을 완화하는 강력한 훈풍으로 작용하기 때문입니다.",
     "key_companies": [
       "마이크론(MU)",
       "엔비디아(NVDA)"
     ],
-    "insight": "메모리 반도체를 전형적인 시클리컬(Cyclical) 업종으로 취급해 온 기존 시장의 고정관념이 흔들리고 있습니다. 고객사들과 맺은 <span class=\"text-amber-300 font-bold\">장기 전략적 계약</span>의 가격 하한선이 현재 시장가 수준에서 설정되었다는 사실은 향후 반도체 가격이 급락하더라도 안정적인 마진을 방어할 수 있음을 의미합니다. 이는 단순한 분기 어닝 서프라이즈를 넘어 <span class=\"text-cyan-300 font-semibold\">메모리 반도체 밸류체인</span> 전체의 멀티플을 재평가(Re-rating)할 수 있는 중대한 질적 변화입니다.",
-    "action_point": "반도체 주가 급락 시 과도한 공포에 휩쓸리기보다는, 실적과 장기 계약을 통해 하방이 단단히 다져진 <span class=\"text-cyan-300 font-semibold\">메모리 반도체 대형주</span> 및 핵심 AI 하드웨어 장비주를 분할 매수 기회로 삼는 것이 현명합니다."
+    "insight": "<span class=\"text-cyan-300 font-semibold\">메모리 반도체</span>를 전형적인 시클리컬(Cyclical) 업종으로 취급해 온 기존 시장의 고정관념이 흔들리고 있습니다. 고객사들과 맺은 장기 전략적 계약의 가격 하한선이 현재 시장가 수준에서 설정되었다는 사실은 향후 <span class=\"text-cyan-300 font-semibold\">반도체</span> 가격이 <span class=\"text-rose-400 font-medium\">급락</span>하더라도 안정적인 마진을 방어할 수 있음을 의미합니다. 이는 단순한 분기 어닝 서프라이즈를 넘어 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span> 밸류체인 전체의 멀티플을 재평가(Re-rating)할 수 있는 중대한 질적 변화입니다.",
+    "action_point": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 주가 <span class=\"text-rose-400 font-medium\">급락</span> 시 과도한 공포에 휩쓸리기보다는, 실적과 장기 계약을 통해 하방이 단단히 다져진 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span> 대형주 및 핵심 AI 하드웨어 장비주를 분할 매수 기회로 삼는 것이 현명합니다."
   },
   "classification": {
     "primary_topic": "stock",

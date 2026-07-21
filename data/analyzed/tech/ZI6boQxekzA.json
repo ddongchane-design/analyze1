@@ -8,24 +8,24 @@
     "thumbnail": "https://img.youtube.com/vi/ZI6boQxekzA/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "엔비디아 베라루빈 칩의 메모리 용량 50% 감축 낭설에 대해 Semianalysis의 <span class=\"text-cyan-300 font-semibold\">딜런 파텔의 직접 해명</span>을 알리고, 오히려 메모리 수요는 견조함을 역설합니다.",
+    "summary": "엔비디아 베라루빈 칩의 메모리 용량 50% 감축 낭설에 대해 Semianalysis의 딜런 파텔의 직접 해명을 알리고, 오히려 메모리 수요는 견조함을 역설합니다.",
     "key_claims": [
       "Semianalysis 보고서의 과장 인용으로 인해 베라루빈 렉당 메모리 용량이 절반 삭감된다는 무서운 소문이 돌았으나 이는 사실이 아니다.",
       "보고서 발행자 딜런 파텔이 직접 '너무 자극적인 제목으로 와전된 낭설'이라며 소문을 직접 반박했다.",
-      "중국 CXMT/YMTC의 저가 증설 및 스마트폰 피크아웃 우려는 고부가가치 AI 독점 메모리(HBM/LPDDR5X) 시장에는 아무런 타격을 주지 못한다."
+      "<span class=\"text-violet-300 font-medium\">중국</span> CXMT/YMTC의 저가 증설 및 스마트폰 피크아웃 우려는 고부가가치 AI 독점 메모리(<span class=\"text-cyan-300 font-semibold\">HBM</span>/LPDDR5X) 시장에는 아무런 타격을 주지 못한다."
     ],
     "data_points": [
       "베라루빈 메모리 설계 변경 오보: 기존 55TB에서 28TB 삭감 소문은 사실 무근으로 규명"
     ],
     "signal": "bullish",
-    "signal_reason": "보고서 와전으로 인한 메모리 피크아웃 공포는 과도한 시장 오해이며, HBM 독점력을 지닌 국내 반도체 투톱의 펀더멘탈은 견고합니다.",
+    "signal_reason": "보고서 와전으로 인한 메모리 피크아웃 공포는 과도한 시장 오해이며, <span class=\"text-cyan-300 font-semibold\">HBM</span> 독점력을 지닌 국내 <span class=\"text-cyan-300 font-semibold\">반도체</span> 투톱의 펀더멘탈은 견고합니다.",
     "key_companies": [
       "SK하이닉스",
       "삼성전자",
       "NVIDIA"
     ],
     "insight": "주가 고점 부근에서 시장의 공포 심리는 와전된 뉴스 하나에도 크게 반응하지만, 팩트를 검증해 보면 여전히 공급 과잉과는 거리가 멉니다.",
-    "action_point": "와전된 뉴스에 따른 반도체 과도한 폭락은 적극적인 대장주 매수 기회로 활용해야 합니다."
+    "action_point": "와전된 뉴스에 따른 <span class=\"text-cyan-300 font-semibold\">반도체</span> 과도한 폭락은 적극적인 대장주 매수 기회로 활용해야 합니다."
   },
   "classification": {
     "primary_topic": "tech",

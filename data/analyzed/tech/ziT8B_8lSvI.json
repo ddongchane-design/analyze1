@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/ziT8B_8lSvI/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "구글의 <span class=\"text-cyan-300 font-semibold\">Gemini Playground</span> 체험기를 통해 업무 생산성(Productivity) 및 예술 창작(Creativity) 영역에서의 실질적 활용 사례를 소개했습니다. 사진 한 장으로 아바타 광고 시안을 즉석 제작하고, 미디어 아트 및 예술가들과의 가상 대화를 조각으로 구체화하는 등 AI가 인간의 아이디어를 빠르게 시험하고 현실화해주는 강력한 '매개체'로 자리 잡고 있음을 확인했습니다.",
+    "summary": "<span class=\"text-cyan-300 font-semibold\">구글</span>의 Gemini Playground 체험기를 통해 업무 생산성(Productivity) 및 예술 창작(Creativity) 영역에서의 실질적 활용 사례를 소개했습니다. 사진 한 장으로 아바타 광고 시안을 즉석 제작하고, 미디어 아트 및 예술가들과의 가상 대화를 조각으로 구체화하는 등 AI가 인간의 아이디어를 빠르게 시험하고 현실화해주는 강력한 '매개체'로 자리 잡고 있음을 확인했습니다.",
     "key_claims": [
-      "구글 제미나이는 단순한 대화형 AI를 넘어 광고 모델 아바타 자동 생성, 룩북 추천, 정밀 모션 코칭 등 실무형 솔루션(Gemini for Productivity)으로 고도화되었다.",
-      "미디어 아티스트(이이남) 및 조각가(고요손)의 설치 예술과 음악인(코드쿤스트)의 사운드트랙 제작(구글 딥마인드 'Lyria' 모델 활용) 등 창작 영역(Gemini for Creativity)에서 인간의 개념 기획을 시각·청각화하는 훌륭한 파트너가 되었다.",
+      "<span class=\"text-cyan-300 font-semibold\">구글</span> 제미나이는 단순한 대화형 AI를 넘어 광고 모델 아바타 자동 생성, 룩북 추천, 정밀 모션 코칭 등 실무형 솔루션(Gemini for Productivity)으로 고도화되었다.",
+      "미디어 아티스트(이이남) 및 조각가(고요손)의 설치 예술과 음악인(코드쿤스트)의 사운드트랙 제작(<span class=\"text-cyan-300 font-semibold\">구글</span> 딥마인드 'Lyria' 모델 활용) 등 창작 영역(Gemini for Creativity)에서 인간의 개념 기획을 시각·청각화하는 훌륭한 파트너가 되었다.",
       "이미지 생성 AI의 문자 뭉개짐 등 한계점이 일부 관찰되어 AI가 완제품을 납품하는 주체가 아닌, 인간이 선택하고 다듬을 수 있는 '초안 작성 및 가속 장치'로 이해해야 한다."
     ],
     "data_points": [
@@ -19,12 +19,12 @@
       "제미나이 활용 예술 대화 데이터 축적 기간: 약 60일간의 예술적 관점 가상 대화 진행"
     ],
     "signal": "bullish",
-    "signal_reason": "구글 제미나이의 실질적인 산업군 적용 및 예술/엔터인먼트/마케팅 실무 활용 모델이 속속 가시화되면서, 클라우드 및 생성형 AI 유료 에코시스템 확장에 따른 글로벌 빅테크의 매출 다변화가 증명되고 있기 때문입니다.",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">구글</span> 제미나이의 실질적인 산업군 적용 및 예술/엔터인먼트/마케팅 실무 활용 모델이 속속 가시화되면서, 클라우드 및 생성형 AI 유료 에코시스템 확장에 따른 글로벌 빅테크의 매출 다변화가 증명되고 있기 때문입니다.",
     "key_companies": [
       "구글(GOOGL)"
     ],
     "insight": "AI의 본질은 인간의 창의성을 대체하는 것이 아니라, 머릿속 초안을 눈앞에 보이도록 10초 만에 시각화하여 '아이디어 검증 비용과 리드타임'을 극적으로 낮추는 데 있습니다. 실무와 예술 영역의 통합적 도구로서 제미나이의 가치가 상승하고 있습니다.",
-    "action_point": "구글 제미나이의 B2B 에이전트 및 멀티모달 서비스 상용화 속도와 실적 기여도를 추적하고, B2B AI 서비스 모델 보급의 수혜를 입을 클라우드 및 생성형 AI 인프라 대장주의 중장기 투자를 지속할 것을 제안합니다."
+    "action_point": "<span class=\"text-cyan-300 font-semibold\">구글</span> 제미나이의 B2B 에이전트 및 멀티모달 서비스 상용화 속도와 실적 기여도를 추적하고, B2B AI 서비스 모델 보급의 수혜를 입을 클라우드 및 생성형 AI 인프라 대장주의 중장기 투자를 지속할 것을 제안합니다."
   },
   "classification": {
     "primary_topic": "tech",

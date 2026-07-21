@@ -8,7 +8,7 @@
     "thumbnail": "https://img.youtube.com/vi/rwg8yC96vJA/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "우주에 작용하는 <span class=\"text-amber-300 font-bold\">중력(Gravity)</span>의 물리적 성질과 보편성을 대중의 입장에서 알기 쉽게 설명한 대중 과학 예능 콘텐츠임. 명왕성의 위성 및 무중력 상태의 과학적 오해(실제로는 미세 중력이 존재함)를 다루며, 영화 인터스텔라와 그래비티 등을 매개로 우주에 대한 관심을 환기함.",
+    "summary": "우주에 작용하는 중력(Gravity)의 물리적 성질과 보편성을 <span class=\"text-violet-300 font-medium\">대중</span>의 입장에서 알기 쉽게 설명한 <span class=\"text-violet-300 font-medium\">대중</span> 과학 예능 콘텐츠임. 명왕성의 위성 및 무중력 상태의 과학적 오해(실제로는 미세 중력이 존재함)를 다루며, 영화 인터스텔라와 그래비티 등을 매개로 우주에 대한 관심을 환기함.",
     "key_claims": [
       "우주 공간에 절대적인 무중력 상태는 존재하지 않으며, 미세하지만 중력이 우주 전체에 가득 차 있음.",
       "중력은 매우 약한 힘이지만 작용 거리가 무한하여 우주의 거시적 구조를 규정하는 지배적 힘임.",
@@ -18,7 +18,7 @@
     "signal": "neutral",
     "signal_reason": "투자 및 산업적 변화 정보보다는 우주 과학적 흥미와 물리 법칙을 쉽게 해설하는 기초 교양 콘텐츠이기 때문임.",
     "key_companies": [],
-    "insight": "대중 과학 콘텐츠의 확산은 일반인들의 우주 산업 및 기초 과학에 대한 진입 장벽을 낮춰 장기적인 인재 유입에 기여할 수 있음.",
+    "insight": "<span class=\"text-violet-300 font-medium\">대중</span> 과학 콘텐츠의 확산은 일반인들의 우주 산업 및 기초 과학에 대한 진입 장벽을 낮춰 장기적인 인재 유입에 기여할 수 있음.",
     "action_point": "우주 과학적 호기심 유발 수준의 내용이므로, 투자 관점에서는 개별 산업 지표나 기업 정보 위주로 필터링하여 접근할 것."
   },
   "classification": {

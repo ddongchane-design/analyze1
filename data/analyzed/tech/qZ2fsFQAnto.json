@@ -8,9 +8,9 @@
     "thumbnail": "https://img.youtube.com/vi/qZ2fsFQAnto/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "일론 머스크의 <span class=\"text-cyan-300 font-semibold\">뉴럴링크</span>가 임상 단계에 머물러 있는 사이, 신생 기업 <span class=\"text-cyan-300 font-semibold\">유라클</span>이 세계 최초로 BCI 기기 시판 승인을 받음.\n<span class=\"text-cyan-300 font-semibold\">뇌-컴퓨터 인터페이스</span>(BCI)는 생각만으로 전자기기나 신체 보조 기기를 직접 제어할 수 있는 차세대 핵심 기술임.\n안전성 우려로 난항을 겪던 BCI 분야에서 첫 판매 허가가 떨어짐에 따라 인간-기계 연결 시장이 본격적으로 열릴 전망임.",
+    "summary": "일론 머스크의 뉴럴링크가 임상 단계에 머물러 있는 사이, 신생 기업 유라클이 세계 최초로 BCI 기기 시판 승인을 받음.\n뇌-컴퓨터 인터페이스(BCI)는 생각만으로 전자기기나 신체 보조 기기를 직접 제어할 수 있는 차세대 핵심 기술임.\n안전성 우려로 난항을 겪던 BCI 분야에서 첫 판매 허가가 떨어짐에 따라 인간-기계 연결 시장이 본격적으로 열릴 전망임.",
     "key_claims": [
-      "유라클이 뉴럴링크를 제치고 침습형 <span class=\"text-cyan-300 font-semibold\">뇌-컴퓨터 인터페이스</span>(BCI) 기기의 세계 최초 판매 승인을 획득함.",
+      "유라클이 뉴럴링크를 제치고 침습형 뇌-컴퓨터 인터페이스(BCI) 기기의 세계 최초 판매 승인을 획득함.",
       "키보드나 눈동자 같은 중간 장치 없이 뇌 신호 분석만으로 기계 제어가 가능해짐.",
       "BCI 기술의 상용화로 뇌 신경 의학 및 재활 로봇 산업의 거대한 패러다임 변화가 시작됨."
     ],
@@ -24,8 +24,8 @@
       "유라클",
       "뉴럴링크"
     ],
-    "insight": "승인 규제의 장벽을 먼저 돌파한 <span class=\"text-cyan-300 font-semibold\">유라클</span>의 선점 효과가 기대되며, 이는 기술력뿐 아니라 인허가 대응 속도가 바이오-테크 산업의 핵심 승부처임을 증명함.",
-    "action_point": "세계 최초 BCI 판매 승인을 획득한 <span class=\"text-cyan-300 font-semibold\">유라클</span> 및 관련 BCI 하드웨어/소프트웨어 원천 기술 보유사들에 대한 선제적 투자 검토가 필요함."
+    "insight": "승인 규제의 장벽을 먼저 돌파한 유라클의 선점 효과가 기대되며, 이는 기술력뿐 아니라 인허가 대응 속도가 바이오-테크 산업의 핵심 승부처임을 증명함.",
+    "action_point": "세계 최초 BCI 판매 승인을 획득한 유라클 및 관련 BCI 하드웨어/소프트웨어 원천 기술 보유사들에 대한 선제적 투자 검토가 필요함."
   },
   "classification": {
     "primary_topic": "tech",

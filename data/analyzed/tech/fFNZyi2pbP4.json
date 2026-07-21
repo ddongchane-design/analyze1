@@ -8,9 +8,9 @@
     "thumbnail": "https://img.youtube.com/vi/fFNZyi2pbP4/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "<span class=\"text-cyan-300 font-semibold\">Apple Intelligence</span>가 탑재된 <span class=\"text-cyan-300 font-semibold\">iOS 27</span>에서 새롭게 선보인 사진 <span class=\"text-cyan-300 font-semibold\">아웃페인팅</span> 기능의 유용성을 소개합니다.\n사진 프레임 바깥의 잘려 나간 영역을 AI가 자동으로 인식해 조명, 색감, 구도를 원본과 구별할 수 없을 정도로 자연스럽게 생성해 줍니다.\n이로 인해 사용자가 좁게 찍은 사진도 간편하게 고해상도로 확장할 수 있게 되어 일상적인 사진 편집 편의성이 극대화되었습니다.",
+    "summary": "Apple Intelligence가 탑재된 iOS 27에서 새롭게 선보인 사진 아웃페인팅 기능의 유용성을 소개합니다.\n사진 프레임 바깥의 잘려 나간 영역을 AI가 자동으로 인식해 조명, 색감, 구도를 원본과 구별할 수 없을 정도로 자연스럽게 생성해 줍니다.\n이로 인해 사용자가 좁게 찍은 사진도 간편하게 고해상도로 확장할 수 있게 되어 일상적인 사진 편집 편의성이 극대화되었습니다.",
     "key_claims": [
-      "<span class=\"text-cyan-300 font-semibold\">iOS 27</span>의 애플 인텔리전스는 프레임 바깥 공간을 자연스럽게 유추해 그려내는 <span class=\"text-cyan-300 font-semibold\">아웃페인팅</span> 능력을 제공한다.",
+      "iOS 27의 애플 <span class=\"text-cyan-300 font-semibold\">인텔</span>리전스는 프레임 바깥 공간을 자연스럽게 유추해 그려내는 아웃페인팅 능력을 제공한다.",
       "원본 사진의 빛, 색감, 질감을 그대로 계승해 새로 생성된 영역과의 경계선을 시각적으로 거의 완전히 구분하기 어렵게 만든다."
     ],
     "data_points": [
@@ -18,12 +18,12 @@
     ],
     "signal": "bullish",
     "signal_confidence": "medium",
-    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">Apple(AAPL)</span>이 온디바이스 AI 기능인 애플 인텔리전스를 스마트폰 실사용 시나리오에 완벽히 통합하며 디바이스 교체 주기를 촉진할 매력적인 킬러 기능을 선보였습니다.",
+    "signal_reason": "Apple(AAPL)이 온디바이스 AI 기능인 애플 <span class=\"text-cyan-300 font-semibold\">인텔</span>리전스를 스마트폰 실사용 시나리오에 완벽히 통합하며 디바이스 교체 주기를 촉진할 매력적인 킬러 기능을 선보였습니다.",
     "key_companies": [
       "Apple(AAPL)"
     ],
-    "insight": "애플의 아웃페인팅 도입은 복잡한 편집 프로그램을 거치지 않고도 일반 모바일 기기 내에서 직관적인 편집을 가능하게 만들어, 사용자 경험 중심의 <span class=\"text-cyan-300 font-semibold\">온디바이스 AI 서비스</span> 경쟁에서 독보적인 가치를 발휘합니다.",
-    "action_point": "애플의 AI 업그레이드로 인한 모바일 기기 수요 회복과 <span class=\"text-cyan-300 font-semibold\">Apple(AAPL)</span> 주가의 긍정적인 모멘텀을 주시하며, 온디바이스 AI 칩셋 및 메모리 공급망 내 주요 반도체 파트너들의 동반 성장에 투자 기회를 고려할 수 있습니다."
+    "insight": "애플의 아웃페인팅 도입은 복잡한 편집 프로그램을 거치지 않고도 일반 모바일 기기 내에서 직관적인 편집을 가능하게 만들어, 사용자 경험 중심의 온디바이스 AI 서비스 경쟁에서 독보적인 가치를 발휘합니다.",
+    "action_point": "애플의 AI 업그레이드로 인한 모바일 기기 수요 회복과 Apple(AAPL) 주가의 긍정적인 모멘텀을 주시하며, 온디바이스 AI 칩셋 및 메모리 공급망 내 주요 <span class=\"text-cyan-300 font-semibold\">반도체</span> 파트너들의 동반 성장에 투자 기회를 고려할 수 있습니다."
   },
   "classification": {
     "primary_topic": "tech",

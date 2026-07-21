@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/PXcjJV4HcfE/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "윤정식 상무는 전일 마이크론 호조로 미국 반도체는 버텼으나, 애플 등 세트 메이커 하락과 <span class=\"text-rose-400 font-medium\">달러 인덱스 101선 돌파</span>(원달러 1,540원선 돌파) 등 환율 압박이 겹치며 국내 증시의 외국인 매수 자금이 단기 위축되었다고 분석함. 대기업들의 대미 투자용 환전 수요 등으로 환율 하향 안정화가 지연되면서 당분간 지수의 강한 V자 반등은 어렵고 박스권 횡보를 보일 전망임.",
+    "summary": "윤정식 상무는 전일 마이크론 호조로 미국 <span class=\"text-cyan-300 font-semibold\">반도체</span>는 버텼으나, 애플 등 세트 메이커 하락과 달러 인덱스 101선 돌파(원달러 1,540원선 돌파) 등 <span class=\"text-amber-300 font-bold\">환율</span> 압박이 겹치며 국내 증시의 외국인 매수 자금이 단기 위축되었다고 분석함. 대기업들의 대미 투자용 환전 수요 등으로 <span class=\"text-amber-300 font-bold\">환율</span> 하향 안정화가 지연되면서 당분간 지수의 강한 V자 반등은 어렵고 박스권 횡보를 보일 전망임.",
     "key_claims": [
       "실적이 양호함에도 주가가 밀리는 것은, 달러 강세에 따른 환차손 우려로 외국인의 신규 매수 수급이 부재하기 때문임.",
-      "미국 주식 결제 주기 단축(T+1) 및 대기업들의 달러 유보 기조가 시장에 달러 유출 압력을 영구화함."
+      "미국 주식 결제 주기 단축(T+1) 및 대기업들의 달러 유보 기조가 시장에 달러 <span class=\"text-rose-400 font-medium\">유출</span> 압력을 영구화함."
     ],
     "data_points": [
       "원달러 환율 수준: 금융위기 이후 최고 구간인 1,540원선 돌파 및 안착 시도",
@@ -19,13 +19,13 @@
     ],
     "signal": "neutral",
     "signal_confidence": "high",
-    "signal_reason": "기업들의 2분기 잠정 실적 펀더멘탈은 서프라이즈가 예상되나, 1,540원을 뚫고 올라간 달러 강세 환율 변수가 외국인 수급 복귀를 단기 차단하여 박스권 횡보가 불가피하기 때문임.",
+    "signal_reason": "기업들의 2분기 잠정 실적 펀더멘탈은 서프라이즈가 예상되나, 1,540원을 뚫고 올라간 달러 강세 <span class=\"text-amber-300 font-bold\">환율</span> 변수가 외국인 수급 복귀를 단기 차단하여 박스권 횡보가 불가피하기 때문임.",
     "key_companies": [
       "삼성전자",
       "SK하이닉스"
     ],
-    "insight": "환율이 1,540원대라는 것은 리만 사태 같은 외환위기가 아니라, 국내 대기업들이 미국 내 공장 증설을 위해 달러를 내놓지 않고 유보하면서 생긴 수급 불균형임. 환율 하락 지연은 외국인 입장에서 국장 진입 장벽이 됨.",
-    "action_point": "환율 상방 압력이 진정되는 시점까지 무리한 추격 매수를 중단하고, 높은 환율에도 수출 마진 훼손 우려가 없는 원자재 국산화 완료형 반도체 소부장과 필수 소비재 위주로 포트폴리오를 압축할 것."
+    "insight": "<span class=\"text-amber-300 font-bold\">환율</span>이 1,540원대라는 것은 리만 사태 같은 외환위기가 아니라, 국내 대기업들이 미국 내 공장 증설을 위해 달러를 내놓지 않고 유보하면서 생긴 수급 불균형임. <span class=\"text-amber-300 font-bold\">환율</span> 하락 지연은 외국인 입장에서 국장 진입 장벽이 됨.",
+    "action_point": "<span class=\"text-amber-300 font-bold\">환율</span> 상방 압력이 진정되는 시점까지 무리한 추격 매수를 중단하고, 높은 <span class=\"text-amber-300 font-bold\">환율</span>에도 수출 마진 훼손 우려가 없는 원자재 국산화 완료형 <span class=\"text-cyan-300 font-semibold\">반도체</span> 소부장과 필수 소비재 위주로 포트폴리오를 압축할 것."
   },
   "classification": {
     "primary_topic": "stock",

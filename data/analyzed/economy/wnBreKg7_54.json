@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/wnBreKg7_54/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "트럼프 전 대통령이 이란 공습을 번복하고 <span class=\"text-violet-300 font-medium\">미·이란 외교적 합의안 대부분이 확정</span>되었다고 발표하면서 호르무즈 해협 긴장이 크게 풀렸습니다. 5월 PPI 헤드라인은 에너지 급등으로 전월 대비 1.1% 상승했으나 <span class=\"text-amber-300 font-bold\">근원 PPI는 0.4% 상승</span>에 그치며 물가 부담이 낮아졌습니다. 이란의 최종 승인 여부에 관심이 쏠리며 <span class=\"text-cyan-300 font-semibold\">마이크론 12% 급등</span> 등 반도체 중심의 강세장이 연출되었습니다.",
+    "summary": "트럼프 전 대통령이 <span class=\"text-violet-300 font-medium\">이란</span> 공습을 번복하고 미·<span class=\"text-violet-300 font-medium\">이란</span> 외교적 합의안 대부분이 확정되었다고 발표하면서 <span class=\"text-violet-300 font-medium\">호르무즈 해협</span> 긴장이 크게 풀렸습니다. 5월 PPI 헤드라인은 에너지 급등으로 전월 대비 1.1% 상승했으나 근원 PPI는 0.4% 상승에 그치며 물가 부담이 낮아졌습니다. <span class=\"text-violet-300 font-medium\">이란</span>의 최종 승인 여부에 관심이 쏠리며 마이크론 12% 급등 등 <span class=\"text-cyan-300 font-semibold\">반도체</span> 중심의 강세장이 연출되었습니다.",
     "key_claims": [
-      "트럼프의 긴장 고조 후 즉각적인 취소 제스처로 <span class=\"text-amber-300 font-bold\">지정학적 위험 완화 효과</span>가 극대화되었습니다.",
-      "생산자물가 급등의 80%는 휘발유 가격 폭등(24%) 등 <span class=\"text-rose-400 font-medium\">일시적 공급망 충격</span>에 기인하며 근원 수요는 여전히 견조합니다.",
-      "합의 서명 시 <span class=\"text-cyan-300 font-semibold\">호르무즈 해협 해상 봉쇄가 해제</span>되어 유가 안정의 결정적 계기가 될 것입니다."
+      "트럼프의 긴장 고조 후 즉각적인 취소 제스처로 지정학적 <span class=\"text-rose-400 font-medium\">위험</span> 완화 효과가 극대화되었습니다.",
+      "생산자물가 급등의 80%는 휘발유 가격 폭등(24%) 등 일시적 공급망 충격에 기인하며 근원 수요는 여전히 견조합니다.",
+      "합의 서명 시 <span class=\"text-violet-300 font-medium\">호르무즈 해협</span> 해상 봉쇄가 해제되어 <span class=\"text-amber-300 font-bold\">유가</span> 안정의 결정적 계기가 될 것입니다."
     ],
     "data_points": [
       "나스닥 2.54%, S&P 500 1.75%, 다우 1.86%, 러셀2000 3% 초과 상승",
@@ -22,12 +22,12 @@
       "WTI 유가 배럴당 90달러선 하회"
     ],
     "signal": "bullish",
-    "signal_reason": "핵심 인플레 요인인 국제 유가와 금리가 하락 기조로 돌아섰으며, 미·이란 외교 타결이 가시권에 들어와 투자 심리가 회복되고 있어 <span class=\"text-cyan-300 font-semibold\">긍정적(Bullish)</span>입니다.",
+    "signal_reason": "핵심 인플레 요인인 국제 <span class=\"text-amber-300 font-bold\">유가</span>와 금리가 하락 기조로 돌아섰으며, 미·<span class=\"text-violet-300 font-medium\">이란</span> 외교 타결이 가시권에 들어와 투자 심리가 회복되고 있어 긍정적(Bullish)입니다.",
     "key_companies": [
       "마이크론 테크놀로지"
     ],
-    "insight": "시장은 지루했던 이란 리스크의 종식을 앞두고 있습니다. 물가의 최대 변수였던 국제 유가(WTI <span class=\"text-cyan-300 font-semibold\">90달러 붕괴</span>)와 장기 금리가 안정을 되찾음으로써 기술주의 <span class=\"text-amber-300 font-bold\">밸류에이션 디레이팅 리스크</span>가 급격히 완화되었습니다.",
-    "action_point": "에너지 및 원자재 관련 자산의 비중을 축소하고, 지정학적 완화와 금리 하락의 직접적 수혜주인 <span class=\"text-cyan-300 font-semibold\">반도체 및 나스닥 대형주</span>로 포트폴리오를 집중해야 합니다."
+    "insight": "시장은 지루했던 <span class=\"text-violet-300 font-medium\">이란</span> <span class=\"text-rose-400 font-medium\">리스크</span>의 종식을 앞두고 있습니다. 물가의 최대 변수였던 국제 <span class=\"text-amber-300 font-bold\">유가</span>(WTI 90달러 붕괴)와 장기 금리가 안정을 되찾음으로써 기술주의 밸류에이션 디레이팅 <span class=\"text-rose-400 font-medium\">리스크</span>가 급격히 완화되었습니다.",
+    "action_point": "에너지 및 원자재 관련 자산의 비중을 축소하고, 지정학적 완화와 금리 하락의 직접적 수혜주인 <span class=\"text-cyan-300 font-semibold\">반도체</span> 및 나스닥 대형주로 포트폴리오를 집중해야 합니다."
   },
   "classification": {
     "primary_topic": "economy",

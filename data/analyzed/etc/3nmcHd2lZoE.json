@@ -8,21 +8,21 @@
     "thumbnail": "https://img.youtube.com/vi/3nmcHd2lZoE/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "결혼과 미래에 대한 이야기 없이 3년간 지속된 오래된 관계에서 겪는 갈등을 보여주는 <span class=\"text-cyan-300 font-semibold\">숏폼 드라마</span>입니다. 미래에 대한 가치관 차이와 소통 부재로 인해 결국 <span class=\"text-rose-400 font-medium\">관계의 단절</span>을 맞이하게 되는 남녀의 상황을 묘사합니다. 해당 콘텐츠는 금융 플랫폼의 브랜드 마케팅 일환으로 제작된 영상입니다.",
+    "summary": "결혼과 미래에 대한 이야기 없이 3년간 지속된 오래된 관계에서 겪는 갈등을 보여주는 숏폼 드라마입니다. 미래에 대한 가치관 차이와 소통 부재로 인해 결국 관계의 단절을 맞이하게 되는 남녀의 상황을 묘사합니다. 해당 콘텐츠는 금융 플랫폼의 브랜드 마케팅 일환으로 제작된 영상입니다.",
     "key_claims": [
-      "결혼과 미래 설계에 대한 구체적인 언급 회피가 <span class=\"text-rose-400 font-medium\">연인 관계 종말의 핵심 원인</span>이 됨",
-      "일방적인 대화 기피 태도가 쌓이면서 서로 간의 <span class=\"text-rose-400 font-medium\">신뢰가 훼손</span>되고 갈등이 심화됨"
+      "결혼과 미래 설계에 대한 구체적인 언급 회피가 연인 관계 종말의 핵심 원인이 됨",
+      "일방적인 대화 기피 태도가 쌓이면서 서로 간의 신뢰가 훼손되고 갈등이 심화됨"
     ],
     "data_points": [
       "연애 기간 3년째"
     ],
     "signal": "neutral",
-    "signal_reason": "미래에셋 채널에서 발행한 브랜디드 드라마 콘텐츠로 직접적인 시장 분석이나 투자 지침이 아닌 <span class=\"text-cyan-300 font-semibold\">브랜드 친밀도 제고</span> 목적의 영상임",
+    "signal_reason": "미래에셋 채널에서 발행한 브랜디드 드라마 콘텐츠로 직접적인 시장 분석이나 투자 지침이 아닌 브랜드 친밀도 제고 목적의 영상임",
     "key_companies": [
       "미래에셋증권"
     ],
-    "insight": "과거의 단순 정보 제공형 금융 마케팅에서 탈피하여, 청년층이 겪는 결혼 및 연애 갈등을 통해 대중의 공감을 얻고 자연스럽게 자사 브랜드의 이미지인 <span class=\"text-cyan-300 font-semibold\">'미래 설계'</span> 프레임을 주입하는 새로운 <span class=\"text-amber-300 font-bold\">미디어 브랜딩 전략</span>의 흐름을 보여줍니다.",
-    "action_point": "브랜드 마케팅 목적의 콘텐츠이므로 개별 금융 자산 투자보다는 대형 금융사의 <span class=\"text-cyan-300 font-semibold\">비금융 콘텐츠 다변화 비즈니스 모델</span>과 그에 따른 고객 유입 및 마케팅 효과의 지속성을 추적할 필요가 있습니다."
+    "insight": "과거의 단순 정보 제공형 금융 마케팅에서 탈피하여, 청년층이 겪는 결혼 및 연애 갈등을 통해 <span class=\"text-violet-300 font-medium\">대중</span>의 공감을 얻고 자연스럽게 자사 브랜드의 이미지인 '미래 설계' 프레임을 주입하는 새로운 미디어 브랜딩 전략의 흐름을 보여줍니다.",
+    "action_point": "브랜드 마케팅 목적의 콘텐츠이므로 개별 금융 자산 투자보다는 대형 금융사의 비금융 콘텐츠 다변화 비즈니스 모델과 그에 따른 고객 유입 및 마케팅 효과의 지속성을 추적할 필요가 있습니다."
   },
   "classification": {
     "primary_topic": "etc",

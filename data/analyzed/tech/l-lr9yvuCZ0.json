@@ -19,13 +19,13 @@
       "재활용 대상 구형 메모리 모듈 수: 메타 서버 팜 내 누적 약 1,500만 개 이상의 DDR4 모듈 타겟 설정"
     ],
     "signal": "neutral",
-    "signal_reason": "메타 등 하이퍼스케일러의 인프라 효율성 극대화에는 큰 호재이나, 삼성전자·SK하이닉스 등 메모리 제조사 입장에서는 신형 DDR5/LPDDR5 서버용 대량 초도 계약의 지연 요인으로 작용할 수 있기 때문입니다.",
+    "signal_reason": "메타 등 하이퍼스케일러의 인프라 효율성 극대화에는 큰 호재이나, <span class=\"text-cyan-300 font-semibold\">삼성전자</span>·<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 등 메모리 제조사 입장에서는 신형 DDR5/LPDDR5 서버용 대량 초도 계약의 지연 요인으로 작용할 수 있기 때문입니다.",
     "key_companies": [
       "Meta",
       "삼성전자",
       "SK하이닉스"
     ],
-    "insight": "메타의 CXL 기반 <span class=\"text-cyan-300 font-semibold\">DDR4 재활용 칩 개발</span>은 빅테크가 메모리 가격 통제권을 순순히 제조사에 주지 않겠다는 전략적 방어책입니다. 메모리 제조사는 HBM 외에 일반 D-RAM의 단가 방어 대책을 강구해야 합니다.",
+    "insight": "메타의 CXL 기반 DDR4 재활용 칩 개발은 빅테크가 메모리 가격 통제권을 순순히 제조사에 주지 않겠다는 전략적 방어책입니다. 메모리 제조사는 <span class=\"text-cyan-300 font-semibold\">HBM</span> 외에 일반 D-RAM의 단가 방어 대책을 강구해야 합니다.",
     "action_point": "차세대 CXL 컨트롤러 IP 및 칩을 설계·제작하는 디자인하우스와 팹리스 기업들의 수주 변화를 체크하며 일반 메모리 단가 추이를 추적합니다."
   },
   "classification": {

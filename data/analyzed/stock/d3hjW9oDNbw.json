@@ -8,18 +8,18 @@
     "thumbnail": "https://img.youtube.com/vi/d3hjW9oDNbw/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "AI 학습 연산량 폭증에 따른 HBM(고대역폭 메모리) 및 파운드리 밸류체인의 흐름을 분석하고, 삼성전자의 반등 기회를 해설함. 차세대 칩셋(Blackwell, Rubyn)부터 전력과 발열을 잡기 위해 **수냉식 쿨링 도입**이 일반화됨에 따라 삼성의 HBM 열 리스크 허들이 낮아졌으며, 메모리와 파운드리를 통합 공급하는 **턴키(Turnkey) 솔루션** 경쟁력이 부각되고 있음을 전함.",
+    "summary": "AI 학습 연산량 폭증에 따른 <span class=\"text-cyan-300 font-semibold\">HBM</span>(고대역폭 메모리) 및 파운드리 밸류체인의 흐름을 분석하고, <span class=\"text-cyan-300 font-semibold\">삼성전자</span>의 반등 기회를 해설함. 차세대 칩셋(Blackwell, Rubyn)부터 전력과 발열을 잡기 위해 **수냉식 쿨링 도입**이 일반화됨에 따라 삼성의 <span class=\"text-cyan-300 font-semibold\">HBM</span> 열 <span class=\"text-rose-400 font-medium\">리스크</span> 허들이 낮아졌으며, 메모리와 파운드리를 통합 공급하는 **턴키(Turnkey) 솔루션** 경쟁력이 부각되고 있음을 전함.",
     "key_claims": [
-      "AI 성능 한계는 연산(CPU/GPU) 속도가 아닌 메모리 대역폭에서 유발되며, 12차선 고속도로 역할을 수행하는 HBM이 독점적 부가가치를 향유함.",
+      "AI 성능 한계는 연산(CPU/GPU) 속도가 아닌 메모리 대역폭에서 유발되며, 12차선 고속도로 역할을 수행하는 <span class=\"text-cyan-300 font-semibold\">HBM</span>이 독점적 부가가치를 향유함.",
       "차세대 AI 아키텍처(루빈 등)부터는 바람으로 식히는 공냉식의 한계로 인해 물을 통과시키는 수냉식 설계가 강제되어, 삼성 D램의 고질적 단점인 발열 기준이 우회적으로 완화됨.",
-      "삼성은 HBM 제조, 컨트롤러 IP, 파운드리 공정, 패키징을 수직 계열화하여 독자적 턴키 솔루션을 제공할 수 있어 TSMC-엔비디아 동맹의 대안으로 부각될 수 있음."
+      "삼성은 <span class=\"text-cyan-300 font-semibold\">HBM</span> 제조, 컨트롤러 IP, 파운드리 공정, 패키징을 수직 계열화하여 독자적 턴키 솔루션을 제공할 수 있어 <span class=\"text-cyan-300 font-semibold\">TSMC</span>-엔비디아 동맹의 대안으로 부각될 수 있음."
     ],
     "data_points": [
       "삼성전자 2분기 잠정 영업이익 전망: 노조 파업 충당금 적립 등 조율 시 약 7조~8조 원선 안착 대기",
       "SK스퀘어의 SK하이닉스 지분 비중: 20.1% 보유를 통해 하이닉스 이익 성장의 직접적 지배주주 혜택 향유"
     ],
     "signal": "bullish",
-    "signal_reason": "HBM 가격 협상력이 공급사에 유리한 구조로 재편되는 가운데, 수냉식 그리드 대전환으로 삼성전자의 HBM 진입 장벽이 낮아지고 파운드리 수직 계열화 턴키 수혜가 장기 가속화되기 때문입니다.",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">HBM</span> 가격 협상력이 공급사에 유리한 구조로 재편되는 가운데, 수냉식 그리드 대전환으로 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>의 <span class=\"text-cyan-300 font-semibold\">HBM</span> 진입 장벽이 낮아지고 파운드리 수직 계열화 턴키 수혜가 장기 가속화되기 때문입니다.",
     "key_companies": [
       "삼성전자(005930)",
       "SK하이닉스(000660)",
@@ -27,8 +27,8 @@
       "NVIDIA",
       "AMD"
     ],
-    "insight": "엔비디아가 독점 마진을 영위하는 것에 대응해 빅테크 및 AMD가 독자 칩 개발(커스텀 ASIC)을 강화하면서, TSMC의 제한된 파운드리 용량 대안으로 삼성을 채택할 유인이 강화되고 있습니다. 특히 차세대 AI 데이터센터의 <span class=\"text-cyan-300 font-semibold\">수냉식 쿨링 인프라</span> 도입은 단순 반도체 기술을 넘어 서버실 자체의 냉각 하드웨어 설비와 그리드 재편을 요구하므로 대기업 턴키 솔루션 가치는 더 높아질 것입니다.",
-    "action_point": "엔비디아 HBM3e 공식 검증 완료 타이밍에 따른 단기 변동성을 흔들림 없이 매수 기회로 활용하고, 삼성이 제공하는 <span class=\"text-cyan-300 font-semibold\">메모리-파운드리 턴키 라인</span> 수혜주 및 데이터센터 수냉식 냉각 부품 공급망에 주목할 필요가 있습니다."
+    "insight": "엔비디아가 독점 마진을 영위하는 것에 대응해 빅테크 및 AMD가 독자 칩 개발(커스텀 ASIC)을 강화하면서, <span class=\"text-cyan-300 font-semibold\">TSMC</span>의 제한된 파운드리 용량 대안으로 삼성을 채택할 유인이 강화되고 있습니다. 특히 차세대 AI 데이터센터의 수냉식 쿨링 인프라 도입은 단순 <span class=\"text-cyan-300 font-semibold\">반도체</span> 기술을 넘어 서버실 자체의 냉각 하드웨어 설비와 그리드 재편을 요구하므로 대기업 턴키 솔루션 가치는 더 높아질 것입니다.",
+    "action_point": "엔비디아 <span class=\"text-cyan-300 font-semibold\">HBM</span>3e 공식 검증 완료 타이밍에 따른 단기 변동성을 흔들림 없이 매수 기회로 활용하고, 삼성이 제공하는 메모리-파운드리 턴키 라인 수혜주 및 데이터센터 수냉식 냉각 부품 공급망에 주목할 필요가 있습니다."
   },
   "classification": {
     "primary_topic": "stock",

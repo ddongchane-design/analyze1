@@ -8,26 +8,26 @@
     "thumbnail": "https://img.youtube.com/vi/CMtXSWu-LqY/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "애플의 반도체 원가 상승에 따른 칩플레이션과 SpaceX의 상장 후 변동성 학습 효과, GPT 기술 규제 지연 등이 맞물려 <span class=\"text-cyan-300 font-semibold\">오픈AI의 IPO</span>가 2027년 이후로 연기됨. 이는 오픈AI의 독주를 경계하던 소프트웨어 서비스(SaaS) 진영에는 경쟁 완화 호재로 작용해 <span class=\"text-cyan-300 font-semibold\">세일즈포스(Salesforce)</span> 등 소프트웨어주 급반등을 유도함. 반면, 하드웨어 쏠림 현상이 완화되며 그간 급등했던 반도체 섹터는 단기 차익 실현 매물로 하락세를 겪음.",
+    "summary": "애플의 <span class=\"text-cyan-300 font-semibold\">반도체</span> 원가 상승에 따른 칩플레이션과 SpaceX의 상장 후 변동성 학습 효과, GPT 기술 규제 지연 등이 맞물려 오픈AI의 IPO가 2027년 이후로 연기됨. 이는 오픈AI의 독주를 경계하던 소프트웨어 서비스(SaaS) 진영에는 경쟁 완화 호재로 작용해 세일즈포스(Salesforce) 등 소프트웨어주 급반등을 유도함. 반면, 하드웨어 쏠림 현상이 완화되며 그간 급등했던 <span class=\"text-cyan-300 font-semibold\">반도체</span> 섹터는 단기 차익 실현 매물로 하락세를 겪음.",
     "key_claims": [
-      "오픈AI의 기업공개(IPO) 연기는 최근 스페이스X 상장 후 주가 흔들림과 대형 AI 기술 규제 합의 지연이 결정적 원인으로 작용함.",
-      "빅테크의 AI 서비스 독점 위협이 늦춰지면서 고전하던 기존 B2B SaaS 대기업들의 주가가 <span class=\"text-cyan-300 font-semibold\">소프트웨어 업종 숏커버링</span> 수혜를 입으며 강하게 반등함.",
-      "애플 등 빅테크의 단가 인상으로 촉발된 <span class=\"text-rose-400 font-medium\">칩플레이션(Chiplaytion)</span>은 소비자 구매력을 압박해 거시 물가 인플레이션 부담을 가중시키고 있음."
+      "오픈AI의 기업공개(IPO) 연기는 최근 <span class=\"text-cyan-300 font-semibold\">스페이스X</span> 상장 후 주가 흔들림과 대형 AI 기술 규제 합의 지연이 결정적 원인으로 작용함.",
+      "빅테크의 AI 서비스 독점 위협이 늦춰지면서 고전하던 기존 B2B SaaS 대기업들의 주가가 소프트웨어 업종 숏커버링 수혜를 입으며 강하게 반등함.",
+      "애플 등 빅테크의 단가 인상으로 촉발된 칩플레이션(Chiplaytion)은 소비자 구매력을 압박해 거시 물가 <span class=\"text-amber-300 font-bold\">인플레이션</span> 부담을 가중시키고 있음."
     ],
     "data_points": [
       "오픈AI 예상 상장 시점: 기존 2026년 하반기에서 2027년 이후로 연기",
       "미국 소프트웨어(SaaS) 지수 반등폭: 당일 약 4.5% 급반등 기록"
     ],
     "signal": "neutral",
-    "signal_reason": "반도체 하드웨어의 급격한 독주가 진정되는 대신 그간 소외되었던 소프트웨어 업종의 저평가 매력이 부각되는 순환매 장세이므로 전반적 시장 분위기는 중립으로 판단합니다.",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 하드웨어의 급격한 독주가 진정되는 대신 그간 소외되었던 소프트웨어 업종의 저평가 매력이 부각되는 순환매 장세이므로 전반적 시장 분위기는 중립으로 판단합니다.",
     "key_companies": [
       "오픈AI",
       "애플(AAPL)",
       "세일즈포스(CRM)",
       "엔비디아(NVDA)"
     ],
-    "insight": "오픈AI의 독주가 제도적 규제와 자본 시장 안정화를 이유로 속도 조절에 들어가면서, 시장은 하드웨어 편중에서 탈피해 기존 B2B 기업들의 AI 도입 및 소프트웨어 부가가치 창출력에 눈을 돌리고 있습니다. 특히 애플 주도의 칩 단가 인상은 단기 마진 방어용 카드로 유효하나, 장기적으로는 전방 소비 위축을 유발하는 <span class=\"text-rose-400 font-medium\">인플레이션 리스크</span>로 연결될 수 있습니다.",
-    "action_point": "반도체 섹터의 비중은 유지하되 추가 추격 매수는 자제하고, 그간 장기 낙폭이 과대했던 실적 우량 소프트웨어주(<span class=\"text-cyan-300 font-semibold\">세일즈포스, 팔란티어</span> 등)로 포트폴리오를 일부 분산하여 순환매 수익 기회를 포착해야 합니다."
+    "insight": "오픈AI의 독주가 제도적 규제와 자본 시장 안정화를 이유로 속도 조절에 들어가면서, 시장은 하드웨어 편중에서 탈피해 기존 B2B 기업들의 AI 도입 및 소프트웨어 부가가치 창출력에 눈을 돌리고 있습니다. 특히 애플 주도의 칩 단가 인상은 단기 마진 방어용 카드로 유효하나, 장기적으로는 전방 소비 위축을 유발하는 <span class=\"text-amber-300 font-bold\">인플레이션</span> <span class=\"text-rose-400 font-medium\">리스크</span>로 연결될 수 있습니다.",
+    "action_point": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 섹터의 비중은 유지하되 추가 추격 매수는 자제하고, 그간 장기 낙폭이 과대했던 실적 우량 소프트웨어주(세일즈포스, 팔란티어 등)로 포트폴리오를 일부 분산하여 순환매 수익 기회를 포착해야 합니다."
   },
   "classification": {
     "primary_topic": "tech",

@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/lmJtJFOu6qc/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "신임 연준 의장 <span class=\"text-cyan-300 font-semibold\">케빈 워시</span>는 기준 금리는 낮게 유지하되 비대해진 <span class=\"text-amber-300 font-bold\">대차대조표(자산 규모) 축소</span>(QT)에 집중하는 독특한 통화 정책을 펼칠 것임. 연준 자산 1조 달러 축소는 금리 25bp 인상과 유사한 효과를 내며 장기 금리 상승 요인으로 작용하나, 워시는 AI가 가져올 생산성 혁신과 디플레이션 효과를 신뢰하고 있음. 한국 증시는 <span class=\"text-cyan-300 font-semibold\">AI 메모리 병목</span>(HBM 등) 독점력과 이미 저평가된 밸류에이션 덕분에 고금리 압박에도 상대적으로 높은 버팀목(내성)을 지니고 있음.",
+    "summary": "신임 연준 의장 케빈 워시는 기준 금리는 낮게 유지하되 비대해진 대차대조표(자산 규모) 축소(QT)에 집중하는 독특한 통화 정책을 펼칠 것임. 연준 자산 1조 달러 축소는 금리 25bp 인상과 유사한 효과를 내며 장기 금리 상승 요인으로 작용하나, 워시는 AI가 가져올 생산성 혁신과 디플레이션 효과를 신뢰하고 있음. 한국 증시는 AI 메모리 병목(<span class=\"text-cyan-300 font-semibold\">HBM</span> 등) 독점력과 이미 저평가된 밸류에이션 덕분에 <span class=\"text-amber-300 font-bold\">고금리</span> 압박에도 상대적으로 높은 버팀목(내성)을 지니고 있음.",
     "key_claims": [
       "케빈 워시 의장은 2008년 이후 배가 된 6.5조 달러 규모의 비대한 연준 자산을 축소하는 데 최우선 순위를 둘 것임.",
       "워시의 성향은 기준 금리 수준에 대해서는 낮게 가져가려 하나(비둘기), 대차대조표 축소에는 완강하여(매) 시장이 일방적으로 매파/비둘기파로 해석하기 어려움.",
-      "연준 자산 축소는 장기 국채 금리 상승을 유발해 주가 할인율 부담을 키우지만, 한국 증시는 글로벌 AI 반도체 벨류체인 중심의 수출 성장세와 저평가 매력으로 매크로 민감도가 낮아짐."
+      "연준 자산 축소는 장기 국채 금리 상승을 유발해 주가 할인율 부담을 키우지만, 한국 증시는 글로벌 <span class=\"text-cyan-300 font-semibold\">AI 반도체</span> 벨류체인 중심의 수출 성장세와 저평가 매력으로 매크로 민감도가 낮아짐."
     ],
     "data_points": [
       "2008년 금융위기 이전 연준 자산 규모: 약 1조 달러 수준",
@@ -22,10 +22,10 @@
     ],
     "signal": "neutral",
     "signal_confidence": "high",
-    "signal_reason": "유가 하락과 이란 종전은 긍정적이나, 연준의 <span class=\"text-rose-400 font-medium\">대차대조표 축소(QT) 본격화</span>에 따른 장기 금리 상승 우려가 밸류에이션 부담을 주기 때문에 종합적인 효과는 중립적임.",
+    "signal_reason": "<span class=\"text-amber-300 font-bold\">유가</span> 하락과 <span class=\"text-violet-300 font-medium\">이란</span> 종전은 긍정적이나, 연준의 대차대조표 축소(QT) 본격화에 따른 장기 금리 상승 우려가 밸류에이션 부담을 주기 때문에 종합적인 효과는 중립적임.",
     "key_companies": [],
-    "insight": "워시의 통화 정책은 단기 금리(기준 금리)는 낮게 묶어 경기 침체 우려를 덜어주는 대신, 장기 금리(대차대조표 축소)를 자극하여 자본 시장의 유동성을 서서히 말리는 '페인트가 마르는 식의(Slow but persistent)' 통제임. 이러한 환경에서는 고평가된 자산보다 실질적인 실적 턴어라운드를 보여주고 저평가 메리트가 있는 한국의 <span class=\"text-cyan-300 font-semibold\">반도체 소부장 주도주</span>가 유용한 피난처가 될 수 있음.",
-    "action_point": "연준의 QT 가이드라인 발표에 맞춰 장기 금리 상승에 취약한 고부채 중소형주 비중은 조절하고, AI 메모리 핵심 밸류체인(<span class=\"text-cyan-300 font-semibold\">SK하이닉스, 삼성전자</span>) 및 하반기 실적 가시성이 높은 저PBR 우량주 중심의 투자 포지션을 강화해야 함."
+    "insight": "워시의 통화 정책은 단기 금리(기준 금리)는 낮게 묶어 경기 침체 우려를 덜어주는 대신, 장기 금리(대차대조표 축소)를 자극하여 자본 시장의 유동성을 서서히 말리는 '페인트가 마르는 식의(Slow but persistent)' 통제임. 이러한 환경에서는 고평가된 자산보다 실질적인 실적 턴어라운드를 보여주고 저평가 메리트가 있는 한국의 <span class=\"text-cyan-300 font-semibold\">반도체</span> 소부장 주도주가 유용한 피난처가 될 수 있음.",
+    "action_point": "연준의 QT 가이드라인 발표에 맞춰 장기 금리 상승에 취약한 고부채 중소형주 비중은 조절하고, AI 메모리 핵심 밸류체인(<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>, <span class=\"text-cyan-300 font-semibold\">삼성전자</span>) 및 하반기 실적 가시성이 높은 저PBR 우량주 중심의 투자 포지션을 강화해야 함."
   },
   "classification": {
     "primary_topic": "economy",

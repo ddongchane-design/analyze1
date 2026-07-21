@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/QiLSOVPK2DY/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "1. 애플은 자사의 차세대 파운데이션 모델 학습 및 연산을 위해 <span class=\"text-cyan-300 font-semibold\">구글 제미나이(Gemini)와 구글 클라우드</span> 기술을 공식 채택하기로 발표했습니다.\n2. 사용자가 경험하는 앞단의 인터페이스는 여전히 애플 고유의 시리(Siri)와 <span class=\"text-cyan-300 font-semibold\">애플 인텔리전스</span>로 구동되며, 뒷단의 고성능 연산 시 구글 클라우드를 빌려 쓰는 방식입니다.\n3. 온디바이스에서 처리하기 어려운 데이터가 유출되는 것을 막기 위해 자체 실리콘 기반 서버에서 사용자 데이터를 무보존 처리하는 <span class=\"text-cyan-300 font-semibold\">프라이빗 클라우드 컴퓨트(PCC)</span> 환경을 접목했습니다.",
+    "summary": "1. 애플은 자사의 차세대 파운데이션 모델 학습 및 연산을 위해 <span class=\"text-cyan-300 font-semibold\">구글</span> 제미나이(Gemini)와 <span class=\"text-cyan-300 font-semibold\">구글</span> 클라우드 기술을 공식 채택하기로 발표했습니다.\n2. 사용자가 경험하는 앞단의 인터페이스는 여전히 애플 고유의 시리(Siri)와 애플 <span class=\"text-cyan-300 font-semibold\">인텔</span>리전스로 구동되며, 뒷단의 고성능 연산 시 <span class=\"text-cyan-300 font-semibold\">구글</span> 클라우드를 빌려 쓰는 방식입니다.\n3. 온디바이스에서 처리하기 어려운 데이터가 <span class=\"text-rose-400 font-medium\">유출</span>되는 것을 막기 위해 자체 실리콘 기반 서버에서 사용자 데이터를 무보존 처리하는 프라이빗 클라우드 컴퓨트(PCC) 환경을 접목했습니다.",
     "key_claims": [
-      "애플은 AI 파운데이션 모델 개발 속도의 격차를 메우기 위해 독자 개발을 고집하지 않고 구글과의 <span class=\"text-cyan-300 font-semibold\">기술 동맹</span>을 선택했습니다.",
-      "사용자의 개인정보 보안을 최우선으로 지키기 위해 클라우드 연산 구간에 하드웨어 레벨의 <span class=\"text-rose-400 font-medium\">프라이버시 통제(PCC)</span>를 강화하고 있습니다.",
-      "구글과 애플의 연합은 마이크로소프트-OpenAI 연합의 독점적 온디바이스 및 서비스 지배력을 강력하게 견제하려는 <span class=\"text-cyan-300 font-semibold\">빅테크 합종연횡</span>의 결과물입니다."
+      "애플은 AI 파운데이션 모델 개발 속도의 격차를 메우기 위해 독자 개발을 고집하지 않고 <span class=\"text-cyan-300 font-semibold\">구글</span>과의 기술 동맹을 선택했습니다.",
+      "사용자의 개인정보 보안을 최우선으로 지키기 위해 클라우드 연산 구간에 하드웨어 레벨의 프라이버시 통제(PCC)를 강화하고 있습니다.",
+      "<span class=\"text-cyan-300 font-semibold\">구글</span>과 애플의 연합은 마이크로소프트-OpenAI 연합의 독점적 온디바이스 및 서비스 지배력을 강력하게 견제하려는 빅테크 합종연횡의 결과물입니다."
     ],
     "data_points": [
       "애플 파운데이션 모델 백엔드에 구글 제미나이 모델 공식 연동",
@@ -21,13 +21,13 @@
     ],
     "signal": "bullish",
     "signal_confidence": "high",
-    "signal_reason": "애플의 사용자 기반(iOS)과 구글의 압도적인 LLM 파워가 결합되면서, AI 대중화 및 모바일 기기 교체 수요(Supercycle)를 유의미하게 자극할 생태계가 마련되었습니다.",
+    "signal_reason": "애플의 사용자 기반(iOS)과 <span class=\"text-cyan-300 font-semibold\">구글</span>의 압도적인 LLM 파워가 결합되면서, AI <span class=\"text-violet-300 font-medium\">대중</span>화 및 모바일 기기 교체 수요(Supercycle)를 유의미하게 자극할 생태계가 마련되었습니다.",
     "key_companies": [
       "애플(AAPL)",
       "구글(GOOGL)"
     ],
     "insight": "애플의 제미나이 채택은 온디바이스 AI 시장의 표준 장악을 위한 전략적 굴복이자 협력입니다. 기기 내 연산(On-device)과 프라이빗 서버(PCC)의 이중 레이어 아키텍처는 향후 스마트폰 제조사들이 지향해야 할 개인정보 보호 기반 AI 에이전트의 완성형 모델이 될 것입니다.",
-    "action_point": "애플과 구글 클라우드 동맹의 최대 수혜를 입는 모바일 부품 및 전방 메모리 패키징 기업, 그리고 고성능 NPU 가속기 생태계에 편입된 관련 기업들에 주목해야 합니다."
+    "action_point": "애플과 <span class=\"text-cyan-300 font-semibold\">구글</span> 클라우드 동맹의 최대 수혜를 입는 모바일 부품 및 전방 메모리 패키징 기업, 그리고 고성능 NPU 가속기 생태계에 편입된 관련 기업들에 주목해야 합니다."
   },
   "classification": {
     "primary_topic": "tech",

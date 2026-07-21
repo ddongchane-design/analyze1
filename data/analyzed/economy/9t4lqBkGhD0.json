@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/9t4lqBkGhD0/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "미국의 차고 DIY 문화는 더 이상 취미/낭만이 아닌 <span class=\"text-rose-400 font-medium\">살인적인 인건비</span>로 인한 생존의 문제인 <span class=\"text-amber-300 font-bold\">강제 DIY</span> 사회로 변모했습니다. 미국 내 전기, 배관 등 <span class=\"text-amber-300 font-bold\">숙련 기술직 인력 부족</span>과 고령화로 인해 유지보수 비용이 폭등하고 있습니다. 이에 따라 대학 진학 대신 실익이 높은 <span class=\"text-cyan-300 font-semibold\">직업기술학교</span>로 향하는 청년들이 증가하고 있습니다.",
+    "summary": "미국의 차고 DIY 문화는 더 이상 취미/낭만이 아닌 살인적인 인건비로 인한 생존의 문제인 강제 DIY 사회로 변모했습니다. 미국 내 전기, 배관 등 숙련 기술직 인력 부족과 고령화로 인해 유지보수 비용이 폭등하고 있습니다. 이에 따라 대학 진학 대신 실익이 높은 직업기술학교로 향하는 청년들이 증가하고 있습니다.",
     "key_claims": [
-      "미국의 높은 공임비와 출장비 구조로 인해 가계의 수리비 및 <span class=\"text-rose-400 font-medium\">유지관리 비용 부담</span>이 급증하고 있다.",
-      "고령화와 은퇴 가속화로 인해 2030년까지 약 210만 명에 달하는 심각한 <span class=\"text-rose-400 font-medium\">기술직 구인난</span>이 예상된다.",
-      "고연봉과 안정성이 보장되는 <span class=\"text-cyan-300 font-semibold\">직업기술학교</span>로 미국 청년층이 몰리며 일자리 선호도가 개편되고 있다."
+      "미국의 높은 공임비와 출장비 구조로 인해 가계의 수리비 및 유지관리 비용 부담이 급증하고 있다.",
+      "고령화와 은퇴 가속화로 인해 2030년까지 약 210만 명에 달하는 심각한 기술직 구인난이 예상된다.",
+      "고연봉과 안정성이 보장되는 직업기술학교로 미국 청년층이 몰리며 일자리 선호도가 개편되고 있다."
     ],
     "data_points": [
       "배관공 기본 출장비 50~200달러(대도시 150달러), 시간당 인건비 100~200달러",
@@ -20,13 +20,13 @@
       "마스터 기술직 및 자영업 전환 시 연봉 15~25만 달러 가능"
     ],
     "signal": "neutral",
-    "signal_reason": "인력 부족으로 인한 <span class=\"text-rose-400 font-medium\">임금 인플레이션</span> 리스크가 상존하나, 청년층의 기술직 선호로 고용 체질이 개선되는 과도기적 양상을 보입니다.",
+    "signal_reason": "인력 부족으로 인한 임금 <span class=\"text-amber-300 font-bold\">인플레이션</span> <span class=\"text-rose-400 font-medium\">리스크</span>가 상존하나, 청년층의 기술직 선호로 고용 체질이 개선되는 과도기적 양상을 보입니다.",
     "key_companies": [
       "Home Depot",
       "Lowe's"
     ],
-    "insight": "미국의 인건비 폭등은 고령화에 따른 <span class=\"text-amber-300 font-bold\">인구 구조 변화</span>와 기술 숙련직 부족이 결합된 만성적인 현상입니다. 이는 가계의 <span class=\"text-rose-400 font-medium\">가계 부담</span>을 가중시키는 한편, 인프라 및 데이터센터 건설 비용 상승으로 이어져 산업 전반의 비용 압박 요인으로 작용합니다.",
-    "action_point": "인건비 폭등 국면에서 반사이익을 얻는 DIY 유통 기업인 <span class=\"text-cyan-300 font-semibold\">홈디포</span>와 <span class=\"text-cyan-300 font-semibold\">로우스</span>, 그리고 노동력 부족을 메울 자동화 및 로보틱스 관련 기술 기업에 장기적인 관점에서 주목할 필요가 있습니다."
+    "insight": "미국의 인건비 폭등은 고령화에 따른 인구 구조 변화와 기술 숙련직 부족이 결합된 만성적인 현상입니다. 이는 가계의 가계 부담을 가중시키는 한편, 인프라 및 데이터센터 건설 비용 상승으로 이어져 산업 전반의 비용 압박 요인으로 작용합니다.",
+    "action_point": "인건비 폭등 국면에서 반사이익을 얻는 DIY 유통 기업인 홈디포와 로우스, 그리고 노동력 부족을 메울 자동화 및 로보틱스 관련 기술 기업에 장기적인 관점에서 주목할 필요가 있습니다."
   },
   "classification": {
     "primary_topic": "economy",

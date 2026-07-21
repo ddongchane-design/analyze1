@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/mB2AVGKMJAw/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "뉴욕 증시에서 FOMC 금리 결정을 앞두고 성장주에서 가치주로의 <span class=\"text-amber-300 font-bold\">자금 순환매</span>가 일어남. 이 과정에서 나스닥에 상장된 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>가 주당 225~230달러선까지 폭등하며 아마존을 제치고 장중 시총 4위(2.9조 달러)를 달성하는 기염을 토함. 스페이스X의 단기 오버슈팅은 <span class=\"text-rose-400 font-medium\">유통 주식수 부족(4.9%)</span>과 기관들의 기계적 패시브 자금 매수가 결합된 수급 효과에 기인함.",
+    "summary": "뉴욕 증시에서 FOMC 금리 결정을 앞두고 성장주에서 가치주로의 자금 순환매가 일어남. 이 과정에서 나스닥에 상장된 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>가 주당 225~230달러선까지 폭등하며 아마존을 제치고 장중 시총 4위(2.9조 달러)를 달성하는 기염을 토함. <span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 단기 오버슈팅은 유통 주식수 부족(4.9%)과 기관들의 기계적 패시브 자금 매수가 결합된 수급 효과에 기인함.",
     "key_claims": [
-      "미 연준의 FOMC 회의를 앞둔 관망세 속에 빅테크와 마이크론 등 성장 반도체주에서 가치주 영역으로의 매도/순환이 나타남.",
-      "스페이스X는 상장 후 3일 연속 폭등하여 시총 2.9조 달러를 기록, 전 세계 시총 4위까지 도약하는 역대급 흥행을 보임.",
+      "미 연준의 FOMC 회의를 앞둔 관망세 속에 빅테크와 마이크론 등 성장 <span class=\"text-cyan-300 font-semibold\">반도체</span>주에서 가치주 영역으로의 매도/순환이 나타남.",
+      "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>는 상장 후 3일 연속 폭등하여 시총 2.9조 달러를 기록, 전 세계 시총 4위까지 도약하는 역대급 흥행을 보임.",
       "극도로 적은 유통 물량과 인덱스 편입(나스닥 100 등)을 노린 기관의 무조건적인 매수가 주가 폭등의 도파민을 자극함."
     ],
     "data_points": [
@@ -21,15 +21,15 @@
     ],
     "signal": "neutral",
     "signal_confidence": "medium",
-    "signal_reason": "스페이스X의 상장 흥행은 우주 산업 전반의 가치를 올리는 호재이나, 반도체 및 기존 빅테크의 <span class=\"text-rose-400 font-medium\">수급 이탈 및 포모(FOMO) 현상</span>으로 단기 변동성이 극대화되고 있기 때문임.",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 상장 흥행은 우주 산업 전반의 가치를 올리는 호재이나, <span class=\"text-cyan-300 font-semibold\">반도체</span> 및 기존 빅테크의 수급 이탈 및 포모(FOMO) 현상으로 단기 변동성이 극대화되고 있기 때문임.",
     "key_companies": [
       "스페이스X",
       "아마존(AMZN)",
       "마이크로소프트(MSFT)",
       "마이크론(MU)"
     ],
-    "insight": "유통 물량이 4.9%에 불과한 상황에서 불붙은 상장 열기는 정량적 가치 평가를 벗어난 수급 쏠림의 전형임. 스페이스X가 불러온 포모로 인해 마이크론 등 기존 AI 메모리 주도주가 일시적 수급 공백을 겪는 기현상이 발생하고 있음.",
-    "action_point": "스페이스X의 추가 오버슈팅에 휘둘려 <span class=\"text-rose-400 font-medium\">추격 매수</span>하기보다, 자금 이탈로 일시 조정을 겪는 반도체/AI 메모리 주도주의 저가 매수 기회로 삼는 것이 현명함."
+    "insight": "유통 물량이 4.9%에 불과한 상황에서 불붙은 상장 열기는 정량적 가치 평가를 벗어난 수급 쏠림의 전형임. <span class=\"text-cyan-300 font-semibold\">스페이스X</span>가 불러온 포모로 인해 마이크론 등 기존 AI 메모리 주도주가 일시적 수급 공백을 겪는 기현상이 발생하고 있음.",
+    "action_point": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 추가 오버슈팅에 휘둘려 추격 매수하기보다, 자금 이탈로 일시 <span class=\"text-rose-400 font-medium\">조정</span>을 겪는 <span class=\"text-cyan-300 font-semibold\">반도체</span>/AI 메모리 주도주의 저가 매수 기회로 삼는 것이 현명함."
   },
   "classification": {
     "primary_topic": "stock",

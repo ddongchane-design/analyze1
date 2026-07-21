@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/mEHI19HUJeY/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "6월 FOMC 발표를 앞두고 시장의 동향과 당일 발표된 소비 지표, 지정학적 완화 조짐, 반도체 설계 자산 강세 요인을 분석한 라이브 방송입니다. 미국 5월 소매 판매가 전월 대비 0.9% 증가해 서프라이즈를 기록하며 미국의 견조한 <span class=\"text-amber-300 font-bold\">소비 모멘텀</span>을 재증명해 연준의 조기 금리 인하 어려움을 뒷받침했습니다.\n정치적으로는 트럼프 대통령이 19일로 예정된 <span class=\"text-violet-300 font-medium\">미-이란 종전 합의</span>를 '단순 양해각서(MOU)'로 규정하며 긴장을 유지했으나 유가는 70달러 중반으로 안정화되었습니다.\n번스타인의 리포트 상향 조정으로 전력 효율이 극대화된 <span class=\"text-cyan-300 font-semibold\">ARM 아키텍처</span>가 AI 에이전트 시대의 숨은 지배자로 꼽히며 반도체 랠리를 견인했습니다.",
+    "summary": "6월 FOMC 발표를 앞두고 시장의 동향과 당일 발표된 소비 지표, 지정학적 완화 조짐, <span class=\"text-cyan-300 font-semibold\">반도체</span> 설계 자산 강세 요인을 분석한 라이브 방송입니다. 미국 5월 소매 판매가 전월 대비 0.9% 증가해 서프라이즈를 기록하며 미국의 견조한 소비 모멘텀을 재증명해 연준의 조기 <span class=\"text-amber-300 font-bold\">금리 인하</span> 어려움을 뒷받침했습니다.\n정치적으로는 트럼프 대통령이 19일로 예정된 미-<span class=\"text-violet-300 font-medium\">이란</span> 종전 합의를 '단순 양해각서(MOU)'로 규정하며 긴장을 유지했으나 <span class=\"text-amber-300 font-bold\">유가</span>는 70달러 중반으로 안정화되었습니다.\n번스타인의 리포트 상향 <span class=\"text-rose-400 font-medium\">조정</span>으로 전력 효율이 극대화된 ARM 아키텍처가 AI 에이전트 시대의 숨은 지배자로 꼽히며 <span class=\"text-cyan-300 font-semibold\">반도체</span> 랠리를 견인했습니다.",
     "key_claims": [
-      "미국의 강력한 근원 소매 판매 지표는 연준이 성급하게 금리를 인하할 명분을 없애 고금리 긴장을 장기화시킵니다.",
-      "트럼프의 이란에 대한 강경 구두 압박은 유리한 협상 타결을 유도하기 위한 전술이며, 시장은 이미 19일 평화 서명식을 기점으로 <span class=\"text-violet-300 font-medium\">지정학적 위험 완화</span>를 유가에 선반영 중입니다.",
-      "AI 모델이 능동적으로 비서 역할을 수행하는 AI 에이전트로 진화하면서 전력 소모와 발열을 통제할 수 있는 <span class=\"text-cyan-300 font-semibold\">저전력 반도체 IP(ARM)</span>의 가치가 폭등하고 있습니다."
+      "미국의 강력한 근원 소매 판매 지표는 연준이 성급하게 금리를 인하할 명분을 없애 <span class=\"text-amber-300 font-bold\">고금리</span> 긴장을 장기화시킵니다.",
+      "트럼프의 <span class=\"text-violet-300 font-medium\">이란</span>에 대한 강경 구두 압박은 유리한 협상 타결을 유도하기 위한 전술이며, 시장은 이미 19일 평화 서명식을 기점으로 지정학적 <span class=\"text-rose-400 font-medium\">위험</span> 완화를 <span class=\"text-amber-300 font-bold\">유가</span>에 선반영 중입니다.",
+      "AI 모델이 능동적으로 비서 역할을 수행하는 AI 에이전트로 진화하면서 전력 소모와 발열을 통제할 수 있는 저전력 <span class=\"text-cyan-300 font-semibold\">반도체</span> IP(ARM)의 가치가 폭등하고 있습니다."
     ],
     "data_points": [
       "미국 5월 소매 판매 전월 대비 0.9% 증가 (예상치 0.5%의 약 2배 상회)",
@@ -20,15 +20,15 @@
       "번스타인의 ARM 목표 주가: 300달러에서 500달러로 상향 조정하며 주가 당일 7.39% 급등"
     ],
     "signal": "neutral",
-    "signal_reason": "소비 호조에 따른 고금리 고착 우려가 작용하는 동시에 AI 에이전트발 전방 반도체 설계 수요 급증 및 지정학적 리스크 해소 기대가 엇갈려 증시는 방향성을 모색하는 과도기입니다.",
+    "signal_reason": "소비 호조에 따른 <span class=\"text-amber-300 font-bold\">고금리</span> 고착 우려가 작용하는 동시에 AI 에이전트발 전방 <span class=\"text-cyan-300 font-semibold\">반도체</span> 설계 수요 급증 및 지정학적 <span class=\"text-rose-400 font-medium\">리스크</span> 해소 기대가 엇갈려 증시는 방향성을 모색하는 과도기입니다.",
     "key_companies": [
       "ARM",
       "NVIDIA",
       "마이크론",
       "브로드컴"
     ],
-    "insight": "고물가에도 미국 소비자들이 지갑을 닫지 않는 복원력을 보이고 있어 금리 인하 기대는 단기적으로 미뤄질 수밖에 없습니다. AI 시장은 개별 칩 조립에서 핵심 저전력 IP와 종합 플랫폼의 가치가 배가되는 국면입니다.",
-    "action_point": "금리 압박 속에서도 실적 독점이 보장되는 반도체 IP 기업(ARM) 및 데이터 센터 관련 액체 냉각/종합 전력 안보주로의 포트폴리오 다변화가 필요합니다."
+    "insight": "고물가에도 미국 소비자들이 지갑을 닫지 않는 복원력을 보이고 있어 <span class=\"text-amber-300 font-bold\">금리 인하</span> 기대는 단기적으로 미뤄질 수밖에 없습니다. AI 시장은 개별 칩 조립에서 핵심 저전력 IP와 종합 플랫폼의 가치가 배가되는 국면입니다.",
+    "action_point": "금리 압박 속에서도 실적 독점이 보장되는 <span class=\"text-cyan-300 font-semibold\">반도체</span> IP 기업(ARM) 및 데이터 센터 관련 액체 냉각/종합 전력 안보주로의 포트폴리오 다변화가 필요합니다."
   },
   "classification": {
     "primary_topic": "economy",

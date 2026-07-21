@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/JMAjoOff_TY/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "1. 캐나다 대도시(토론토, 벤쿠버 등) 부동산 시장은 과거 2년 만에 60% 급등하는 버블 형성 후 최근 <span class=\"text-amber-300 font-bold\">고금리와 공급 과잉</span>으로 <span class=\"text-rose-400 font-medium\">30~50% 급락</span> 중입니다.\n2. 코로나 시절 유입된 이민자를 타깃으로 한 투자용 소형 콘도 공급이 급증했으나, <span class=\"text-amber-300 font-bold\">이민 제한 및 고금리</span>로 수요가 끊기며 <span class=\"text-rose-400 font-medium\">대규모 미분양이 발생</span>했습니다.\n3. 실수요가 원하는 다인 가구 주택과 시장에 풀린 소형 콘도 간의 <span class=\"text-amber-300 font-bold\">공급 미스매치</span> 및 가격 하락에 따른 관망세로 <span class=\"text-rose-400 font-medium\">부동산 침체가 장기화</span>되고 있습니다.",
+    "summary": "1. 캐나다 대도시(토론토, 벤쿠버 등) 부동산 시장은 과거 2년 만에 60% 급등하는 버블 형성 후 최근 <span class=\"text-amber-300 font-bold\">고금리</span>와 공급 과잉으로 30~50% <span class=\"text-rose-400 font-medium\">급락</span> 중입니다.\n2. 코로나 시절 유입된 이민자를 타깃으로 한 투자용 소형 콘도 공급이 급증했으나, 이민 제한 및 <span class=\"text-amber-300 font-bold\">고금리</span>로 수요가 끊기며 대규모 미분양이 발생했습니다.\n3. 실수요가 원하는 다인 가구 주택과 시장에 풀린 소형 콘도 간의 공급 미스매치 및 가격 하락에 따른 관망세로 부동산 침체가 장기화되고 있습니다.",
     "key_claims": [
-      "과거 지나치게 까다로운 <span class=\"text-amber-300 font-bold\">건축 규제와 님비 현상</span>이 주택 공급을 제한하여 장기적인 집값 급등의 원인이 됨",
-      "코로나 이후 정부의 <span class=\"text-amber-300 font-bold\">급격한 이민자 유입 정책과 저금리</span>가 맞물려 <span class=\"text-cyan-300 font-semibold\">소형 콘도</span> 중심의 투기적 과잉 공급을 유발",
-      "<span class=\"text-amber-300 font-bold\">이민자 규제 강화와 기준금리 인상(5%)</span>으로 인해 소형 주택 수요는 소멸했으나 완공 물량이 쏟아지며 <span class=\"text-rose-400 font-medium\">미분양 사태 발생</span>"
+      "과거 지나치게 까다로운 건축 규제와 님비 현상이 주택 공급을 제한하여 장기적인 집값 급등의 원인이 됨",
+      "코로나 이후 정부의 급격한 이민자 유입 정책과 저금리가 맞물려 소형 콘도 중심의 투기적 과잉 공급을 유발",
+      "이민자 규제 강화와 기준금리 인상(5%)으로 인해 소형 주택 수요는 소멸했으나 완공 물량이 쏟아지며 미분양 사태 발생"
     ],
     "data_points": [
       "2020년부터 2022년까지 캐나다 주택 가격 대략 60% 급등",
@@ -21,12 +21,12 @@
       "2023년 3분기 캐나다 인구 전분기 대비 1% 증가 (41만 명 증가, 1957년 이후 최대치)"
     ],
     "signal": "bearish",
-    "signal_reason": "캐나다 부동산 시장은 <span class=\"text-amber-300 font-bold\">고금리와 소형 주택 과잉 공급</span>, 수요 미스매치로 인해 장기 침체 국면이며, 이는 <span class=\"text-rose-400 font-medium\">소비 둔화와 내수 경제 위축</span>으로 이어지고 있습니다.",
+    "signal_reason": "캐나다 부동산 시장은 <span class=\"text-amber-300 font-bold\">고금리</span>와 소형 주택 과잉 공급, 수요 미스매치로 인해 장기 침체 국면이며, 이는 소비 둔화와 내수 경제 위축으로 이어지고 있습니다.",
     "key_companies": [
       "없음"
     ],
-    "insight": "캐나다 사례는 <span class=\"text-amber-300 font-bold\">인구 정책(이민)과 통화 정책(금리)</span>, 그리고 주택 공급 규제 완화 시점의 미스매치가 어떻게 부동산 시장의 치명적인 버블과 <span class=\"text-rose-400 font-medium\">미분양 붕괴</span>로 이어질 수 있는지 보여줍니다. 특히 실수요(가족형)와 투자수요(소형)의 <span class=\"text-amber-300 font-bold\">수급 불일치</span>는 가격 하락기에도 거래 절벽을 심화시킵니다.",
-    "action_point": "해외 부동산 및 건설 관련 자산에 투자하는 투자자는 단기 유학생/이민 수요 중심의 소형 콘도 및 상업용 자산의 <span class=\"text-rose-400 font-medium\">부실화 리스크</span>를 경계하고, 실수요가 든든한 <span class=\"text-cyan-300 font-semibold\">중대형 주택 시장</span>과의 양극화 흐름에 주목해야 합니다."
+    "insight": "캐나다 사례는 인구 정책(이민)과 통화 정책(금리), 그리고 주택 공급 규제 완화 시점의 미스매치가 어떻게 부동산 시장의 치명적인 버블과 미분양 붕괴로 이어질 수 있는지 보여줍니다. 특히 실수요(가족형)와 투자수요(소형)의 수급 불일치는 가격 하락기에도 거래 절벽을 심화시킵니다.",
+    "action_point": "해외 부동산 및 건설 관련 자산에 투자하는 투자자는 단기 유학생/이민 수요 중심의 소형 콘도 및 상업용 자산의 <span class=\"text-rose-400 font-medium\">부실</span>화 <span class=\"text-rose-400 font-medium\">리스크</span>를 경계하고, 실수요가 든든한 중대형 주택 시장과의 양극화 흐름에 주목해야 합니다."
   },
   "classification": {
     "primary_topic": "economy",

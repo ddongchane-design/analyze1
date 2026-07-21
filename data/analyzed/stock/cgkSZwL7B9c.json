@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/cgkSZwL7B9c/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "박병창 MP파트너스 대표는 최근 국내 증시의 변동성이 글로벌 금융위기 및 외환위기를 넘어서는 역사적 최고 수준(7월 일평균 6.7%)을 기록했다고 밝혔습니다. 반도체주의 급락은 펀더멘탈의 문제가 아닌 신용 레버리지 강제 청산에 기인하며, 단기적으로 알파벳 실적 및 중국 <span class=\"text-cyan-300 font-semibold\">창신메모리(CXMT)</span>의 과창판 상장(7월 27일) 흥행 여부가 주요 변수입니다.",
+    "summary": "박병창 MP파트너스 대표는 최근 국내 증시의 변동성이 글로벌 금융위기 및 외환위기를 넘어서는 역사적 최고 수준(7월 일평균 6.7%)을 기록했다고 밝혔습니다. <span class=\"text-cyan-300 font-semibold\">반도체</span>주의 <span class=\"text-rose-400 font-medium\">급락</span>은 펀더멘탈의 문제가 아닌 신용 레버리지 강제 <span class=\"text-rose-400 font-medium\">청산</span>에 기인하며, 단기적으로 알파벳 실적 및 <span class=\"text-violet-300 font-medium\">중국</span> 창신메모리(CXMT)의 과창판 상장(7월 27일) 흥행 여부가 주요 변수입니다.",
     "key_claims": [
-      "최근 KOSPI 반도체 폭락은 본질적인 업황 훼손이 아닌, 단일 종목 레버리지 ETF 등 과도한 신용 레버리지의 강제 청산(디레버리징)이 유발한 수급 붕괴이다.",
+      "최근 KOSPI <span class=\"text-cyan-300 font-semibold\">반도체</span> 폭락은 본질적인 업황 훼손이 아닌, 단일 종목 레버리지 ETF 등 과도한 신용 레버리지의 강제 <span class=\"text-rose-400 font-medium\">청산</span>(디레버리징)이 유발한 수급 붕괴이다.",
       "금융당국의 단일 종목 레버리지 규제안(기본예탁금 3천만 원, 20주 거래 단위 상향 등) 시행으로 투기성 레버리지 수급 유입은 점차 진정될 것이다.",
-      "7월 27일 중국 과창판에 상장하는 CXMT는 자국 수요(글로벌 25% 비중) 대체와 저평가 매력을 무기로 흥행할 가능성이 높으며, 이는 장기적으로 한국 메모리 업계의 잠재적 경쟁 리스크로 부상하고 있다."
+      "7월 27일 <span class=\"text-violet-300 font-medium\">중국</span> 과창판에 상장하는 CXMT는 자국 수요(글로벌 25% 비중) 대체와 저평가 매력을 무기로 흥행할 가능성이 높으며, 이는 장기적으로 한국 메모리 업계의 잠재적 경쟁 <span class=\"text-rose-400 font-medium\">리스크</span>로 부상하고 있다."
     ],
     "data_points": [
       "2026년 7월 코스피 일중 평균 변동률: 6.7% (역사상 1위 기록, IMF 및 금융위기 상회)",
@@ -21,14 +21,14 @@
       "단일 종목 레버리지 ETF 규제: 현금 예탁금 3천만 원 의무화 (대용 불인정, 8월 시행)"
     ],
     "signal": "neutral",
-    "signal_reason": "반도체주의 과도한 하락폭에 따른 기술적 반등 가능성이 높고 업황 쇼티지는 견고하나, 강제 청산 수급의 후유증과 중국 반도체 경쟁사 상장 노이즈가 단기적으로 지수 상단을 제한할 수 있기 때문입니다.",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">반도체</span>주의 과도한 하락폭에 따른 기술적 반등 가능성이 높고 업황 쇼티지는 견고하나, 강제 <span class=\"text-rose-400 font-medium\">청산</span> 수급의 후유증과 <span class=\"text-violet-300 font-medium\">중국</span> <span class=\"text-cyan-300 font-semibold\">반도체</span> 경쟁사 상장 노이즈가 단기적으로 지수 상단을 제한할 수 있기 때문입니다.",
     "key_companies": [
       "삼성전자(005930)",
       "SK하이닉스(000660)",
       "창신메모리(CXMT)"
     ],
-    "insight": "시장의 공포 심리가 정점에 달해 강제 청산 물량이 쏟아지는 구간에서는 이성적인 펀더멘탈 분석이 작동하지 않습니다. 그러나 역사적 위기급 변동성 이후에는 항상 강력한 V자 반등이 뒤따랐으며, 이번 조정은 포트폴리오 내 소외주를 주도주(<span class=\"text-cyan-300 font-semibold\">반도체</span>, <span class=\"text-cyan-300 font-semibold\">자동차</span>, <span class=\"text-cyan-300 font-semibold\">방산</span> 등)로 교체하기에 적절한 타이밍입니다.",
-    "action_point": "투매에 동참하기보다 보유 물량을 지키는 것이 유리하며, 소외 업종의 잡주를 매도하고 대형 <span class=\"text-cyan-300 font-semibold\">반도체 주도주</span> 및 실적 매력이 높은 <span class=\"text-cyan-300 font-semibold\">방산주</span>로 압축하는 포트폴리오 재편을 추천합니다."
+    "insight": "시장의 공포 심리가 정점에 달해 강제 <span class=\"text-rose-400 font-medium\">청산</span> 물량이 쏟아지는 구간에서는 이성적인 펀더멘탈 분석이 작동하지 않습니다. 그러나 역사적 위기급 변동성 이후에는 항상 강력한 V자 반등이 뒤따랐으며, 이번 <span class=\"text-rose-400 font-medium\">조정</span>은 포트폴리오 내 소외주를 주도주(<span class=\"text-cyan-300 font-semibold\">반도체</span>, 자동차, 방산 등)로 교체하기에 적절한 타이밍입니다.",
+    "action_point": "투매에 동참하기보다 보유 물량을 지키는 것이 유리하며, 소외 업종의 잡주를 매도하고 대형 <span class=\"text-cyan-300 font-semibold\">반도체</span> 주도주 및 실적 매력이 높은 방산주로 압축하는 포트폴리오 재편을 추천합니다."
   },
   "classification": {
     "primary_topic": "stock",

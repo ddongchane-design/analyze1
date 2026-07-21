@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/h6s9hkhk6WA/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "나스닥 지수가 2% 넘게 폭락하고 반도체 및 전력 인프라 기기주(버티브 홀딩스 등)가 동반 급락했으나, 전문가들은 이를 펀더멘탈 손상이 아닌 포지션 쏠림에 기인한 일시적 조정으로 해석함. 한편 미국 정부는 적국 유출 시 치명적인 <span class=\"text-cyan-300 font-semibold\">양자 컴퓨팅(Quantum Computing)</span> 기술을 국가 안보 자산으로 승격시켜 대규모 조달 예산을 집행하기 시작했으며, 이는 5년 전 AI 초기 국면의 대대적 팽창 경로를 따르고 있음.",
+    "summary": "나스닥 지수가 2% 넘게 폭락하고 <span class=\"text-cyan-300 font-semibold\">반도체</span> 및 전력 인프라 기기주(버티브 홀딩스 등)가 동반 <span class=\"text-rose-400 font-medium\">급락</span>했으나, 전문가들은 이를 펀더멘탈 손상이 아닌 포지션 쏠림에 기인한 일시적 <span class=\"text-rose-400 font-medium\">조정</span>으로 해석함. 한편 미국 정부는 적국 <span class=\"text-rose-400 font-medium\">유출</span> 시 치명적인 양자 컴퓨팅(Quantum Computing) 기술을 국가 안보 자산으로 승격시켜 대규모 조달 예산을 집행하기 시작했으며, 이는 5년 전 AI 초기 국면의 대대적 팽창 경로를 따르고 있음.",
     "key_claims": [
-      "M7 및 반도체 위주의 압축 랠리가 이어져 온 만큼 단기 수급 불균형에 의한 기술주 차익 조정 압력이 뚜렷함.",
-      "연준의 금리 인상 공포가 장중 투심을 자극했으나, 반도체 및 전력 장비의 실물 병목 해소 수요는 상수로 유지됨.",
+      "M7 및 <span class=\"text-cyan-300 font-semibold\">반도체</span> 위주의 압축 랠리가 이어져 온 만큼 단기 수급 불균형에 의한 기술주 차익 <span class=\"text-rose-400 font-medium\">조정</span> 압력이 뚜렷함.",
+      "연준의 금리 인상 공포가 장중 투심을 자극했으나, <span class=\"text-cyan-300 font-semibold\">반도체</span> 및 전력 장비의 실물 병목 해소 수요는 상수로 유지됨.",
       "미 바이든 정부는 금융 및 암호 보안망을 뚫는 양자 기술 독점을 통제하기 위해 행정 명령 및 정부 조달 패키지를 가동함."
     ],
     "data_points": [
@@ -19,7 +19,7 @@
       "양자 암호 해독 기한: 미국 보안 안보국(NSA) 등은 2031년을 양자 암호 해독 시한폭탄 시점으로 상정하고 방어 인프라 예산 투입"
     ],
     "signal": "neutral",
-    "signal_reason": "단기적으로 반도체 쏠림 해소 및 수급 변동성 조정을 겪는 구간이지만, 차세대 양자 컴퓨팅 및 안보 예산 유입에 따른 중장기 테크 확장 동력은 견고하기 때문임.",
+    "signal_reason": "단기적으로 <span class=\"text-cyan-300 font-semibold\">반도체</span> 쏠림 해소 및 수급 변동성 <span class=\"text-rose-400 font-medium\">조정</span>을 겪는 구간이지만, 차세대 양자 컴퓨팅 및 안보 예산 유입에 따른 중장기 테크 확장 동력은 견고하기 때문임.",
     "key_companies": [
       "IBM",
       "구글(GOOGL)",
@@ -27,7 +27,7 @@
       "버티브홀딩스(VRT)"
     ],
     "insight": "생성형 AI의 인프라 구축 사이클이 돌고 있는 동시에, 양자 컴퓨팅이 '국가 전략 무기'로 부상하며 하드웨어 및 국가 조달 부품 공급망에 새로운 대규모 장기 자금선이 연결되고 있음.",
-    "action_point": "전전 장비 및 전력망 기기의 조정 시 비중 확대를 유지하고, 양자 안보 가이드라인 수혜가 예상되는 IBM 등 고신뢰성 테크 대장주를 선별 편입할 것."
+    "action_point": "전전 장비 및 전력망 기기의 <span class=\"text-rose-400 font-medium\">조정</span> 시 비중 확대를 유지하고, 양자 안보 가이드라인 수혜가 예상되는 IBM 등 고신뢰성 테크 대장주를 선별 편입할 것."
   },
   "classification": {
     "primary_topic": "stock",

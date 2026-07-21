@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/5Iq71prrSf0/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "신임 연준 의장인 <span class=\"text-cyan-300 font-semibold\">케빈 워시</span>의 첫 데뷔전에서 성명서가 극도로 단순화되고 <span class=\"text-rose-400 font-medium\">포워드 가이던스가 폐지</span>되면서 시장에 매파적인 충격을 주었습니다.\n연준은 기준금리를 동결했으나 점도표를 통해 위원들의 절반이 최고 <span class=\"text-rose-400 font-medium\">6%대 추가 금리 인상</span> 가능성을 제시하여 12월 인상 가능성을 시사했습니다.\n한편, <span class=\"text-cyan-300 font-semibold\">도널드 트럼프</span> 미국 대통령은 G7 기자회견에서 영구적 전쟁 종식과 원유 수출 재개를 골자로 한 <span class=\"text-violet-300 font-medium\">이란과의 평화 합의</span> 타결이 임박했음을 밝혔습니다.",
+    "summary": "신임 연준 의장인 케빈 워시의 첫 데뷔전에서 성명서가 극도로 단순화되고 포워드 가이던스가 폐지되면서 시장에 매파적인 충격을 주었습니다.\n연준은 기준금리를 동결했으나 점도표를 통해 위원들의 절반이 최고 6%대 추가 금리 인상 가능성을 제시하여 12월 인상 가능성을 시사했습니다.\n한편, 도널드 트럼프 미국 대통령은 G7 기자회견에서 영구적 전쟁 종식과 원유 수출 재개를 골자로 한 <span class=\"text-violet-300 font-medium\">이란</span>과의 평화 합의 타결이 임박했음을 밝혔습니다.",
     "key_claims": [
       "케빈 워시 연준 의장은 미래 금리 경로에 대한 포워드 가이던스를 폐지하여 연준의 재량권과 데이터 의존적 결정을 강화하려 함.",
-      "연준 점도표는 2026년 12월 추가 금리 인상 가능성을 높게 시사하여 시장의 조기 금리 인하 기대를 꺾어버림.",
-      "트럼프 대통령이 추진하는 <span class=\"text-violet-300 font-medium\">이란과의 평화 합의</span>가 공식 서명되면 지정학적 악재는 상당 부분 소멸될 것임."
+      "연준 점도표는 2026년 12월 추가 금리 인상 가능성을 높게 시사하여 시장의 조기 <span class=\"text-amber-300 font-bold\">금리 인하</span> 기대를 꺾어버림.",
+      "트럼프 대통령이 추진하는 <span class=\"text-violet-300 font-medium\">이란</span>과의 평화 합의가 공식 서명되면 지정학적 악재는 상당 부분 소멸될 것임."
     ],
     "data_points": [
       "뉴욕 3대 지수 하락률: S&P 500 -1.21%, 나스닥 -1.35%, 다우 -0.98%",
@@ -21,7 +21,7 @@
       "이란 합의안 규모: 이란 재건 지원 명분 최소 3,000억 달러 지원 및 원유 수출 재개 조건 포함"
     ],
     "signal": "bearish",
-    "signal_reason": "케빈 워시 의장의 매파적 데뷔전과 포워드 가이던스 폐지, 점도표상 추가 금리 인상 가능성 시사로 인해 시장의 금리 인하 기대감이 소멸하며 고금리 장기화 우려가 확산되고 있습니다.",
+    "signal_reason": "케빈 워시 의장의 매파적 데뷔전과 포워드 가이던스 폐지, 점도표상 추가 금리 인상 가능성 시사로 인해 시장의 <span class=\"text-amber-300 font-bold\">금리 인하</span> 기대감이 소멸하며 <span class=\"text-amber-300 font-bold\">고금리 장기화</span> 우려가 확산되고 있습니다.",
     "key_companies": [
       "NVIDIA",
       "Google",
@@ -31,8 +31,8 @@
       "브로드컴",
       "스페이스X"
     ],
-    "insight": "케빈 워시 연준 의장은 정보 제공을 최소화하고 재량에 기반한 통화 정책을 펼치는 '워시 주의'를 천명했습니다. 반면 트럼프의 이란과의 평화 합의 타결 임박은 유가 급등 리스크를 차단하여 인플레이션 안정화에는 긍정적 기여를 할 수 있습니다.",
-    "action_point": "고금리 긴장이 다시 부각된 만큼 밸류에이션이 높은 소프트웨어 대형주 비중을 조절하고, 장기 계약으로 실적이 담보되는 반도체 하드웨어 대장주나 에너지 관련 수혜주 위주로 방어적 포지션을 취해야 합니다."
+    "insight": "케빈 워시 연준 의장은 정보 제공을 최소화하고 재량에 기반한 통화 정책을 펼치는 '워시 주의'를 천명했습니다. 반면 트럼프의 <span class=\"text-violet-300 font-medium\">이란</span>과의 평화 합의 타결 임박은 <span class=\"text-amber-300 font-bold\">유가</span> 급등 <span class=\"text-rose-400 font-medium\">리스크</span>를 차단하여 <span class=\"text-amber-300 font-bold\">인플레이션</span> 안정화에는 긍정적 기여를 할 수 있습니다.",
+    "action_point": "<span class=\"text-amber-300 font-bold\">고금리</span> 긴장이 다시 부각된 만큼 밸류에이션이 높은 소프트웨어 대형주 비중을 조절하고, 장기 계약으로 실적이 담보되는 <span class=\"text-cyan-300 font-semibold\">반도체</span> 하드웨어 대장주나 에너지 관련 수혜주 위주로 방어적 포지션을 취해야 합니다."
   },
   "classification": {
     "primary_topic": "economy",

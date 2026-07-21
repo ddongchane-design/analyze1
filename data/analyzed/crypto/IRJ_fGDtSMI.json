@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/IRJ_fGDtSMI/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "MSTR(마이크로스트래티지)의 연구선주 STRC 계열을 담보로 한 스테이블코인 APX USD가 디패깅을 겪은 후 0.89달러선으로 회복했으나, <span class=\"text-rose-400 font-medium\">M-NAV 비율</span>이 손익분기점인 1.3 이하(1.13)에 머물러 미국 장 개장 시의 불안 요인이 상존함.\n이더리움 재단의 공동 이사 사퇴 릴레이 및 <span class=\"text-rose-400 font-medium\">인센티브 보상 재원 고갈</span> 우려로 코어 개발인력 이탈 리스크가 제기됨.\n일본의 소규모 퇴직연금 기금이 운용 자산의 1%를 디지털 자산에 할당하기로 결정해 <span class=\"text-cyan-300 font-semibold\">제도권 자금 유입</span> 흐름이 이행되고 있음.",
+    "summary": "MSTR(마이크로스트래티지)의 연구선주 STRC 계열을 담보로 한 스테이블코인 APX USD가 디패깅을 겪은 후 0.89달러선으로 회복했으나, M-NAV 비율이 손익분기점인 1.3 이하(1.13)에 머물러 미국 장 개장 시의 불안 요인이 상존함.\n이더리움 재단의 공동 이사 사퇴 릴레이 및 인센티브 보상 재원 고갈 우려로 코어 개발인력 이탈 <span class=\"text-rose-400 font-medium\">리스크</span>가 제기됨.\n일본의 소규모 <span class=\"text-amber-300 font-bold\">퇴직연금</span> 기금이 운용 자산의 1%를 디지털 자산에 할당하기로 결정해 제도권 자금 유입 흐름이 이행되고 있음.",
     "key_claims": [
-      "MSTR의 마이클 세일러 의장이 <span class=\"text-cyan-300 font-semibold\">AI와 협업</span>해 금융 상품을 설계했다고 밝혀 금융 구조의 신뢰성 우려가 확산됨.",
-      "이더리움 재단이 연간 3,000만 달러의 예산 긴축에 나서며 핵심 기여자 8명이 이탈하여 <span class=\"text-rose-400 font-medium\">업그레이드 지연 리스크</span>가 커짐.",
-      "악명 높은 샌드위치 MEV 봇이 가짜 유동성 풀 미끼에 낚여 <span class=\"text-rose-400 font-medium\">750만 달러 탈취</span>를 당하며 온체인 차익거래 보안 리스크가 부각됨."
+      "MSTR의 마이클 세일러 의장이 AI와 협업해 금융 상품을 설계했다고 밝혀 금융 구조의 신뢰성 우려가 확산됨.",
+      "이더리움 재단이 연간 3,000만 달러의 예산 긴축에 나서며 핵심 기여자 8명이 이탈하여 업그레이드 지연 <span class=\"text-rose-400 font-medium\">리스크</span>가 커짐.",
+      "악명 높은 샌드위치 MEV 봇이 가짜 유동성 풀 미끼에 낚여 750만 달러 탈취를 당하며 온체인 차익거래 보안 <span class=\"text-rose-400 font-medium\">리스크</span>가 부각됨."
     ],
     "data_points": [
       "MSTR 보유 비중 대비 가치 지표 M-NAV: 1.13 기록 (손익분기 기준은 1.3)",
@@ -22,13 +22,13 @@
       "MEV 봇 피해 금액: 750만 달러"
     ],
     "signal": "neutral",
-    "signal_reason": "미-이란 지정학적 완화 시도로 비트코인이 64k선을 회복했으나, 이더리움 재단의 인력 이탈 리스크와 MSTR 금융 공학 구조적 취약점이 하방 압력을 높이고 있습니다.",
+    "signal_reason": "미-<span class=\"text-violet-300 font-medium\">이란</span> 지정학적 완화 시도로 비트코인이 64k선을 회복했으나, 이더리움 재단의 인력 이탈 <span class=\"text-rose-400 font-medium\">리스크</span>와 MSTR 금융 공학 구조적 취약점이 하방 압력을 높이고 있습니다.",
     "key_companies": [
       "MicroStrategy",
       "Ethereum Foundation"
     ],
-    "insight": "암호화폐 시장은 매크로 완화에 반응해 단기 반등했으나, 생태계 코어인 이더리움 재단의 자원 한계 및 나스닥 MSTR 관련 구조적 레버리지 디패깅은 시장의 <span class=\"text-rose-400 font-medium\">장기 변동성</span>을 자극하는 근본적 아킬레스건입니다.",
-    "action_point": "비트코인 65k 회복세 속 추격 매수보다는, 나스닥 개장 후 MSTR 및 STRC 가격 추이와 이더리움 재단의 <span class=\"text-rose-400 font-medium\">예산 방안 공식 입장</span>을 확인 후 비중을 조율해야 합니다."
+    "insight": "암호화폐 시장은 매크로 완화에 반응해 단기 반등했으나, 생태계 코어인 이더리움 재단의 자원 한계 및 나스닥 MSTR 관련 구조적 레버리지 디패깅은 시장의 장기 변동성을 자극하는 근본적 아킬레스건입니다.",
+    "action_point": "비트코인 65k 회복세 속 추격 매수보다는, 나스닥 개장 후 MSTR 및 STRC 가격 추이와 이더리움 재단의 예산 방안 공식 입장을 확인 후 비중을 조율해야 합니다."
   },
   "classification": {
     "primary_topic": "crypto",

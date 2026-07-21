@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/0C7QE-mnMEQ/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "반도체 쏠림 현상과 ETF 거래 비중 급증으로 국내 증시의 <span class=\"text-rose-400 font-medium\">극심한 변동성</span>은 피할 수 없는 '뉴노멀'이 되었습니다. 마이크론의 실적 및 글로벌 반도체 밸류에이션을 기준으로 산출한 삼성전자와 SK하이닉스의 적정 맥스 주가는 각각 40만 원 중반과 350만 원 수준입니다. 다만 시장의 비합리성을 감안하여 0.8의 <span class=\"text-amber-300 font-bold\">안전마진</span>을 적용해 각각 36만 원과 280만 원 수준에서 매수를 고려하는 전략이 필요합니다.",
+    "summary": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 쏠림 현상과 ETF 거래 비중 급증으로 국내 증시의 극심한 변동성은 피할 수 없는 '뉴노멀'이 되었습니다. 마이크론의 실적 및 글로벌 <span class=\"text-cyan-300 font-semibold\">반도체</span> 밸류에이션을 기준으로 산출한 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>와 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>의 적정 맥스 주가는 각각 40만 원 중반과 350만 원 수준입니다. 다만 시장의 비합리성을 감안하여 0.8의 안전마진을 적용해 각각 36만 원과 280만 원 수준에서 매수를 고려하는 전략이 필요합니다.",
     "key_claims": [
-      "반도체 쏠림과 ETF 일일 정산 수급 때문에 하루에 지수와 종목이 5~10% 흔들리는 변동성은 일상으로 받아들여야 한다.",
-      "삼성전자는 파운드리 흑자 전환 지연과 HBM 비중의 일시적 하락으로 인해 SK하이닉스 대비 <span class=\"text-rose-400 font-medium\">디레이팅</span>을 겪고 있다.",
-      "포모(FOMO)에 휩싸여 급등할 때 추격 매수하지 말고, 공포에 질려 급락할 때 분할 매수하는 원칙을 철저히 지켜야 한다."
+      "<span class=\"text-cyan-300 font-semibold\">반도체</span> 쏠림과 ETF 일일 정산 수급 때문에 하루에 지수와 종목이 5~10% 흔들리는 변동성은 일상으로 받아들여야 한다.",
+      "<span class=\"text-cyan-300 font-semibold\">삼성전자</span>는 파운드리 흑자 전환 지연과 <span class=\"text-cyan-300 font-semibold\">HBM</span> 비중의 일시적 하락으로 인해 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 대비 디레이팅을 겪고 있다.",
+      "포모(FOMO)에 휩싸여 급등할 때 추격 매수하지 말고, 공포에 질려 <span class=\"text-rose-400 font-medium\">급락</span>할 때 분할 매수하는 원칙을 철저히 지켜야 한다."
     ],
     "data_points": [
       "거래 금액 중에서 ETF가 한 30% 차지합니다",
@@ -28,7 +28,7 @@
     ],
     "signal": "neutral",
     "signal_confidence": "medium",
-    "signal_reason": "반도체 업황의 <span class=\"text-cyan-300 font-semibold\">기초 체력</span>은 강화되고 있으나, 리밸런싱 수급 및 매크로 노이즈로 인한 <span class=\"text-rose-400 font-medium\">단기 변동성</span>이 매우 큰 구간이므로 신중한 대응이 필요합니다.",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 업황의 기초 체력은 강화되고 있으나, 리밸런싱 수급 및 매크로 노이즈로 인한 단기 변동성이 매우 큰 구간이므로 신중한 대응이 필요합니다.",
     "key_companies": [
       "삼성전자(005930)",
       "SK하이닉스(000660)",
@@ -36,8 +36,8 @@
       "Alphabet(GOOGL)",
       "ASML(ASML)"
     ],
-    "insight": "현재 시장은 반도체 이익 전망치가 급증함에도 불구하고 피크아웃 우려와 매크로 불안으로 인해 밸류에이션이 오르지 못하는 <span class=\"text-rose-400 font-medium\">디레이팅</span> 상태입니다. 수급적 요인(ETF 리밸런싱, 공매도 쇼트커버 등)이 만들어내는 비합리적 급락 구간을 <span class=\"text-cyan-300 font-semibold\">안전마진</span> 확보의 기회로 역이용해야 합니다.",
-    "action_point": "마이크론 실적 발표 전후의 변동성을 활용하여, 자체 계산한 <span class=\"text-amber-300 font-bold\">안전마진 가격대</span>(삼성전자 36만 원, SK하이닉스 280만 원 내외) 이하로 주가가 조정받을 때만 분할 매수로 대응하십시오."
+    "insight": "현재 시장은 <span class=\"text-cyan-300 font-semibold\">반도체</span> 이익 전망치가 급증함에도 불구하고 피크아웃 우려와 매크로 불안으로 인해 밸류에이션이 오르지 못하는 디레이팅 상태입니다. 수급적 요인(ETF 리밸런싱, 공매도 쇼트커버 등)이 만들어내는 비합리적 <span class=\"text-rose-400 font-medium\">급락</span> 구간을 안전마진 확보의 기회로 역이용해야 합니다.",
+    "action_point": "마이크론 실적 발표 전후의 변동성을 활용하여, 자체 계산한 안전마진 가격대(<span class=\"text-cyan-300 font-semibold\">삼성전자</span> 36만 원, <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 280만 원 내외) 이하로 주가가 <span class=\"text-rose-400 font-medium\">조정</span>받을 때만 분할 매수로 대응하십시오."
   },
   "classification": {
     "primary_topic": "stock",

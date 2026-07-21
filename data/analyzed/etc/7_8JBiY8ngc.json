@@ -8,9 +8,9 @@
     "thumbnail": "https://img.youtube.com/vi/7_8JBiY8ngc/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "엔비디아의 CEO <span class=\"text-cyan-300 font-semibold\">젠슨 황</span>의 촬영을 위해 무더운 야외 현장(체감 온도 33도)에서 오랜 시간 대기하는 스태프들의 생생한 현장 비하인드 반응을 담은 숏폼 콘텐츠입니다.",
+    "summary": "엔비디아의 CEO 젠슨 황의 촬영을 위해 무더운 야외 현장(체감 온도 33도)에서 오랜 시간 대기하는 스태프들의 생생한 현장 비하인드 반응을 담은 숏폼 콘텐츠입니다.",
     "key_claims": [
-      "체감 온도 33도의 열악한 현장 환경 속에서 <span class=\"text-cyan-300 font-semibold\">젠슨 황</span>의 등장을 3시간 이상 장기 대기함",
+      "체감 온도 33도의 열악한 현장 환경 속에서 젠슨 황의 등장을 3시간 이상 장기 대기함",
       "대기 시간이 길어지면서 현장 스태프 및 실시간 참여자들이 탈진 직전의 피로도를 호소함"
     ],
     "data_points": [
@@ -22,8 +22,8 @@
     "key_companies": [
       "NVIDIA"
     ],
-    "insight": "엔비디아와 <span class=\"text-cyan-300 font-semibold\">젠슨 황</span>에 대한 대중적 관심과 미디어의 주목도가 극도로 높아진 현상을 방증하지만, 투자 관점의 유의미한 <span class=\"text-amber-300 font-bold\">인프라 동향</span>이나 비즈니스 인사이트는 담겨 있지 않습니다.",
-    "action_point": "단순 비하인드성 일상 콘텐츠이므로 투자 의사 결정에 활용하기에는 부적절하며, 엔비디아 관련 <span class=\"text-rose-400 font-medium\">노이즈성 가십 정보</span>로 분류하여 모니터링 필터링 처리하는 것이 좋습니다."
+    "insight": "엔비디아와 젠슨 황에 대한 <span class=\"text-violet-300 font-medium\">대중</span>적 관심과 미디어의 주목도가 극도로 높아진 현상을 방증하지만, 투자 관점의 유의미한 인프라 동향이나 비즈니스 인사이트는 담겨 있지 않습니다.",
+    "action_point": "단순 비하인드성 일상 콘텐츠이므로 투자 의사 결정에 활용하기에는 부적절하며, 엔비디아 관련 노이즈성 가십 정보로 분류하여 모니터링 필터링 처리하는 것이 좋습니다."
   },
   "classification": {
     "primary_topic": "etc",

@@ -8,12 +8,12 @@
     "thumbnail": "https://img.youtube.com/vi/fOJQAuop5Dk/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "미국과 이란의 <span class=\"text-amber-300 font-bold\">종전 MOU 체결</span>로 호르무즈 해협이 재개방되고 유가가 70달러대로 폭락하며 지정학적 위험 요인이 완화되었습니다.\n연준의 매파적 점도표에도 불구하고 케빈 워시 의장의 생산성 TF 출범 및 시티그룹의 10월 <span class=\"text-amber-300 font-bold\">금리 인하 전망</span>은 반도체와 성장주 랠리의 기반이 되고 있습니다.\n트럼프 전 대통령은 애플, 엔비디아 등이 미국 내 <span class=\"text-cyan-300 font-semibold\">인텔 파운드리</span>를 이용할 것이라고 트루스 소셜을 통해 발표하며 반도체 자주권을 강조했습니다.",
+    "summary": "미국과 <span class=\"text-violet-300 font-medium\">이란</span>의 종전 MOU 체결로 <span class=\"text-violet-300 font-medium\">호르무즈 해협</span>이 재개방되고 <span class=\"text-amber-300 font-bold\">유가</span>가 70달러대로 폭락하며 지정학적 <span class=\"text-rose-400 font-medium\">위험</span> 요인이 완화되었습니다.\n연준의 매파적 점도표에도 불구하고 케빈 워시 의장의 생산성 TF 출범 및 시티그룹의 10월 <span class=\"text-amber-300 font-bold\">금리 인하</span> 전망은 <span class=\"text-cyan-300 font-semibold\">반도체</span>와 성장주 랠리의 기반이 되고 있습니다.\n트럼프 전 대통령은 애플, 엔비디아 등이 미국 내 <span class=\"text-cyan-300 font-semibold\">인텔</span> 파운드리를 이용할 것이라고 트루스 소셜을 통해 발표하며 <span class=\"text-cyan-300 font-semibold\">반도체</span> 자주권을 강조했습니다.",
     "key_claims": [
-      "미·이란 종전 합의와 유가 폭락은 지정학적 리스크 프리미엄을 제거하여 증시와 <span class=\"text-cyan-300 font-semibold\">성장주</span>에 우호적인 매크로 환경을 제공한다.",
-      "케빈 워시 연준 의장은 단순 CPI 지표보다 AI 도입에 따른 <span class=\"text-amber-300 font-bold\">생산성 혁신</span>을 중요시하며, 이는 구조적 금리 인하로 이어질 것이다.",
-      "트럼프의 인텔 띄우기는 단순 정치적 수사를 넘어 미국 반도체 제조 내재화를 위한 <span class=\"text-violet-300 font-medium\">강력한 정책적 의지</span>의 표현이다.",
-      "국내 반도체 대형주에 대한 블룸버그의 '밈 주식' 평가는 실적과 펀더멘탈을 무시한 과도한 폄하이다."
+      "미·<span class=\"text-violet-300 font-medium\">이란</span> 종전 합의와 <span class=\"text-amber-300 font-bold\">유가</span> 폭락은 지정학적 <span class=\"text-rose-400 font-medium\">리스크</span> 프리미엄을 제거하여 증시와 성장주에 우호적인 매크로 환경을 제공한다.",
+      "케빈 워시 연준 의장은 단순 CPI 지표보다 AI 도입에 따른 생산성 혁신을 중요시하며, 이는 구조적 <span class=\"text-amber-300 font-bold\">금리 인하</span>로 이어질 것이다.",
+      "트럼프의 <span class=\"text-cyan-300 font-semibold\">인텔</span> 띄우기는 단순 정치적 수사를 넘어 미국 <span class=\"text-cyan-300 font-semibold\">반도체</span> 제조 내재화를 위한 강력한 정책적 의지의 표현이다.",
+      "국내 <span class=\"text-cyan-300 font-semibold\">반도체</span> 대형주에 대한 블룸버그의 '밈 주식' 평가는 실적과 펀더멘탈을 무시한 과도한 폄하이다."
     ],
     "data_points": [
       "WTI가 3% 2.58% 내려와 74불. 브랜트도 78불.",
@@ -22,7 +22,7 @@
     ],
     "signal": "bullish",
     "signal_confidence": "high",
-    "signal_reason": "지정학적 종전 타결에 따른 유가 하락으로 인플레이션 압력이 낮아졌고, 미국 정부의 강력한 지원 하에 반도체 밸류체인과 <span class=\"text-cyan-300 font-semibold\">인텔(INTC)</span> 중심의 미국 내 제조업 부흥이 가시화되고 있기 때문입니다.",
+    "signal_reason": "지정학적 종전 타결에 따른 <span class=\"text-amber-300 font-bold\">유가</span> 하락으로 <span class=\"text-amber-300 font-bold\">인플레이션</span> 압력이 낮아졌고, 미국 정부의 강력한 지원 하에 <span class=\"text-cyan-300 font-semibold\">반도체</span> 밸류체인과 <span class=\"text-cyan-300 font-semibold\">인텔</span>(INTC) 중심의 미국 내 제조업 부흥이 가시화되고 있기 때문입니다.",
     "key_companies": [
       "Intel(INTC)",
       "Apple(AAPL)",
@@ -31,8 +31,8 @@
       "Samsung Electronics(005930)",
       "SK Hynix(000660)"
     ],
-    "insight": "미·이란 종전 MOU로 조성되는 3,000억 달러 규모의 재건 펀드는 단순한 중동의 평화를 넘어 월가의 <span class=\"text-cyan-300 font-semibold\">금융 자본</span>과 에너지 인프라 기업들에 새로운 메가 비즈니스 기회를 창출하는 촉매제가 될 것입니다.",
-    "action_point": "미국 내 파운드리 안보 자산으로 부상한 <span class=\"text-cyan-300 font-semibold\">인텔(INTC)</span>의 18A 공정 모멘텀과, 3,000억 달러 이란 재건 수혜를 입을 에너지 인프라 및 시추 서비스 섹터에 대한 선별적 투자가 유망합니다. 고환율 지속 환경 속에서 원화 약세에 강한 달러 자산 비중 확대도 필요합니다."
+    "insight": "미·<span class=\"text-violet-300 font-medium\">이란</span> 종전 MOU로 조성되는 3,000억 달러 규모의 재건 펀드는 단순한 <span class=\"text-violet-300 font-medium\">중동</span>의 평화를 넘어 월가의 금융 자본과 에너지 인프라 기업들에 새로운 메가 비즈니스 기회를 창출하는 촉매제가 될 것입니다.",
+    "action_point": "미국 내 파운드리 안보 자산으로 부상한 <span class=\"text-cyan-300 font-semibold\">인텔</span>(INTC)의 18A 공정 모멘텀과, 3,000억 달러 <span class=\"text-violet-300 font-medium\">이란</span> 재건 수혜를 입을 에너지 인프라 및 시추 서비스 섹터에 대한 선별적 투자가 유망합니다. 고<span class=\"text-amber-300 font-bold\">환율</span> 지속 환경 속에서 원화 약세에 강한 달러 자산 비중 확대도 필요합니다."
   },
   "classification": {
     "primary_topic": "economy",

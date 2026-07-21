@@ -8,22 +8,22 @@
     "thumbnail": "https://img.youtube.com/vi/pLFtiiEzTNk/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "미국 제재 속에서 화웨이가 내놓은 3D 패키징 돌파구인 <span class=\"text-cyan-300 font-semibold\">로직 폴딩</span>과 <span class=\"text-cyan-300 font-semibold\">웨이퍼 본딩</span> 기술을 분석합니다. 웨이퍼를 수직으로 접듯이 결합하여 신호 지연 시간을 12~15배 줄이고, 미세공정 한계를 설계 구조로 극복하려는 <span class=\"text-violet-300 font-medium\">중국의 반도체 자급화</span> 시도입니다.",
+    "summary": "미국 제재 속에서 <span class=\"text-cyan-300 font-semibold\">화웨이</span>가 내놓은 3D 패키징 돌파구인 로직 폴딩과 웨이퍼 본딩 기술을 분석합니다. 웨이퍼를 수직으로 접듯이 결합하여 신호 지연 시간을 12~15배 줄이고, 미세공정 한계를 설계 구조로 극복하려는 <span class=\"text-violet-300 font-medium\">중국</span>의 <span class=\"text-cyan-300 font-semibold\">반도체</span> 자급화 시도입니다.",
     "key_claims": [
-      "화웨이는 웨이퍼 두 장을 수직 접합하는 <span class=\"text-cyan-300 font-semibold\">웨이퍼 본딩</span> 기술을 도입했습니다.",
-      "신호 전송 경로를 접음으로써 구동 지연 시간을 최대 <span class=\"text-cyan-300 font-semibold\">12~15배 단축</span>하는 로직 폴딩을 구현했습니다.",
-      "물리적 미세공정 한계(미국 규제)를 아파트 적층과 같은 공간 집적 설계로 우회하는 <span class=\"text-violet-300 font-medium\">중국 독자 노선</span>의 구체화입니다."
+      "<span class=\"text-cyan-300 font-semibold\">화웨이</span>는 웨이퍼 두 장을 수직 접합하는 웨이퍼 본딩 기술을 도입했습니다.",
+      "신호 전송 경로를 접음으로써 구동 지연 시간을 최대 12~15배 단축하는 로직 폴딩을 구현했습니다.",
+      "물리적 미세공정 한계(미국 규제)를 아파트 적층과 같은 공간 집적 설계로 우회하는 <span class=\"text-violet-300 font-medium\">중국</span> 독자 노선의 구체화입니다."
     ],
     "data_points": [
       "로직 폴딩 기술 적용 시 신호 전송 지연 시간 최대 12배에서 15배 단축 효과"
     ],
     "signal": "bullish",
-    "signal_reason": "미국의 물리적 제재 환경에서 패키징 설계 구조 혁신을 통해 구동 속도를 획기적으로 개선하는 <span class=\"text-cyan-300 font-semibold\">3D 적층 반도체</span> 돌파구를 확보했기 때문입니다.",
+    "signal_reason": "미국의 물리적 제재 환경에서 패키징 설계 구조 혁신을 통해 구동 속도를 획기적으로 개선하는 3D 적층 <span class=\"text-cyan-300 font-semibold\">반도체</span> 돌파구를 확보했기 때문입니다.",
     "key_companies": [
       "화웨이"
     ],
-    "insight": "미국의 리소그래피 장비 수출 규제를 피하기 위해, <span class=\"text-violet-300 font-medium\">중국 측은 패키징 아키텍처 혁신</span>에 총력을 기울이고 있습니다. 이는 <span class=\"text-cyan-300 font-semibold\">하이브리드 본딩</span> 기술이 차세대 미세공정의 대체재로 급부상하고 있음을 증명합니다.",
-    "action_point": "화웨이의 우회 기술 성공은 <span class=\"text-cyan-300 font-semibold\">웨이퍼 본딩 장비 및 소재</span> 분야의 수요 팽창으로 연결되므로, 관련 3D 패키징 핵심 밸류체인 기업들에 선제적으로 주목해야 합니다."
+    "insight": "미국의 리소그래피 장비 수출 규제를 피하기 위해, <span class=\"text-violet-300 font-medium\">중국</span> 측은 패키징 아키텍처 혁신에 총력을 기울이고 있습니다. 이는 하이브리드 본딩 기술이 차세대 미세공정의 대체재로 급부상하고 있음을 증명합니다.",
+    "action_point": "<span class=\"text-cyan-300 font-semibold\">화웨이</span>의 우회 기술 성공은 웨이퍼 본딩 장비 및 소재 분야의 수요 팽창으로 연결되므로, 관련 3D 패키징 핵심 밸류체인 기업들에 선제적으로 주목해야 합니다."
   },
   "classification": {
     "primary_topic": "tech",

@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/xd60MxaPcTg/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "미국과 이란의 평화 협정 타결 소식에 힘입어 원달러 환율이 급격히 내려앉고, 코스피는 대형 반도체주 중심의 외국인 폭발적 수급(1.5조 원 순매수) 유입으로 5% 가까이 앙등했다. 반면 코스닥은 대형 바이오주와 차별화된 흐름을 보이며 0.3% 상승에 그쳤다. 전문가들은 단기 유가 급락에 따른 수혜가 대형 수출주에 먼저 작용하므로 삼성전자와 SK하이닉스의 비중을 굳건히 유지할 것을 당부했다.",
+    "summary": "미국과 <span class=\"text-violet-300 font-medium\">이란</span>의 평화 협정 타결 소식에 힘입어 <span class=\"text-amber-300 font-bold\">원달러 환율</span>이 급격히 내려앉고, 코스피는 대형 <span class=\"text-cyan-300 font-semibold\">반도체</span>주 중심의 외국인 폭발적 수급(1.5조 원 순매수) 유입으로 5% 가까이 앙등했다. 반면 코스닥은 대형 바이오주와 차별화된 흐름을 보이며 0.3% 상승에 그쳤다. 전문가들은 단기 <span class=\"text-amber-300 font-bold\">유가</span> <span class=\"text-rose-400 font-medium\">급락</span>에 따른 수혜가 대형 수출주에 먼저 작용하므로 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>와 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>의 비중을 굳건히 유지할 것을 당부했다.",
     "key_claims": [
-      "중동 지정학적 리스크 소멸로 환율 안정(1,510원대)과 코스피 대장주의 <span class=\"text-cyan-300 font-semibold\">외국인 수급 독식</span> 현상이 심화되고 있다.",
+      "<span class=\"text-violet-300 font-medium\">중동</span> 지정학적 <span class=\"text-rose-400 font-medium\">리스크</span> 소멸로 <span class=\"text-amber-300 font-bold\">환율</span> 안정(1,510원대)과 코스피 대장주의 외국인 수급 독식 현상이 심화되고 있다.",
       "코스피는 장중 8,600선을 터치하는 등 초강세이나 코스닥은 수급 분산 부족으로 상대적으로 상승률이 저조하다.",
-      "지정학 리스크가 사라져 유가가 안정된 만큼, 비용 하락 수혜와 이익 신뢰도가 가장 큰 <span class=\"text-cyan-300 font-semibold\">삼전/닉스 중심의 대응</span>이 유리하다."
+      "지정학 <span class=\"text-rose-400 font-medium\">리스크</span>가 사라져 <span class=\"text-amber-300 font-bold\">유가</span>가 안정된 만큼, 비용 하락 수혜와 이익 신뢰도가 가장 큰 삼전/닉스 중심의 대응이 유리하다."
     ],
     "data_points": [
       "코스피 4.95% 상승 마감, 코스닥 0.35% 마감 (장외 외국인 매수 1.5조 대폭 집중)",
@@ -20,15 +20,15 @@
       "환율 1,510원 수준으로의 하향 안정화 가속"
     ],
     "signal": "bullish",
-    "signal_reason": "대외 거시 악재의 급격한 해소로 환율 하락과 함께 대형 반도체 업종의 이익 추정치가 추가 상향되며 안정적인 랠리가 예상된다.",
+    "signal_reason": "대외 거시 악재의 급격한 해소로 <span class=\"text-amber-300 font-bold\">환율</span> 하락과 함께 대형 <span class=\"text-cyan-300 font-semibold\">반도체</span> 업종의 이익 추정치가 추가 상향되며 안정적인 랠리가 예상된다.",
     "key_companies": [
       "삼성전자",
       "SK하이닉스",
       "대한항공",
       "두산"
     ],
-    "insight": "한국 증시의 특성상 해외 유가/환율 매크로 호재가 발생하면 외국인 패시브 자금은 국내 코스닥 중소형주가 아닌 초대형 IT 지수주(삼성전자, SK하이닉스)를 가장 먼저 대량 매수한다.",
-    "action_point": "코스닥 소형주의 무리한 단기 물타기 대신 환율 하락의 직접적 수혜를 입고 외국인 패시브 자금이 집중되는 <span class=\"text-cyan-300 font-semibold\">삼성전자 및 SK하이닉스</span> 비중을 안정적으로 유지하라."
+    "insight": "한국 증시의 특성상 해외 <span class=\"text-amber-300 font-bold\">유가</span>/<span class=\"text-amber-300 font-bold\">환율</span> 매크로 호재가 발생하면 외국인 패시브 자금은 국내 코스닥 중소형주가 아닌 초대형 IT 지수주(<span class=\"text-cyan-300 font-semibold\">삼성전자</span>, <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>)를 가장 먼저 대량 매수한다.",
+    "action_point": "코스닥 소형주의 무리한 단기 물타기 대신 <span class=\"text-amber-300 font-bold\">환율</span> 하락의 직접적 수혜를 입고 외국인 패시브 자금이 집중되는 <span class=\"text-cyan-300 font-semibold\">삼성전자</span> 및 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 비중을 안정적으로 유지하라."
   },
   "classification": {
     "primary_topic": "stock",

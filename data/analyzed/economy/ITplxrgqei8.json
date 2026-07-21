@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/ITplxrgqei8/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "1. 미국 연준의 기준금리 방향이 인하에서 동결을 넘어 추가 <span class=\"text-amber-300 font-bold\">금리 인상</span> 가능성으로 급격히 기울어지며 시장 긴장감이 높아지고 있습니다.\n2. 소비, 고용, 인플레이션 등 미국의 주요 거시경제 지표들이 강세를 지속하면서 <span class=\"text-cyan-300 font-semibold\">CME 페드워치</span> 상 기준금리 추가 인상 확률이 72.3%까지 치솟았습니다.\n3. 이에 따라 미국 10년물 <span class=\"text-rose-400 font-medium\">국채 금리</span>가 4.5%, 30년물 금리가 5%를 각각 넘어서며 금융 시장 전반의 변동성을 자극하고 있습니다.",
+    "summary": "1. 미국 연준의 기준금리 방향이 인하에서 동결을 넘어 추가 금리 인상 가능성으로 급격히 기울어지며 시장 긴장감이 높아지고 있습니다.\n2. 소비, 고용, <span class=\"text-amber-300 font-bold\">인플레이션</span> 등 미국의 주요 거시경제 지표들이 강세를 지속하면서 CME 페드워치 상 기준금리 추가 인상 확률이 72.3%까지 치솟았습니다.\n3. 이에 따라 미국 10년물 국채 금리가 4.5%, 30년물 금리가 5%를 각각 넘어서며 금융 시장 전반의 변동성을 자극하고 있습니다.",
     "key_claims": [
-      "견조한 미국의 경기 소비 및 고용 지표가 장기 인플레이션을 압박하여 추가 <span class=\"text-amber-300 font-bold\">긴축 정책</span> 명분을 강화함",
-      "연준의 금리 인하 기대감이 소멸하고 시장 관심이 금리 인상 횟수와 시점으로 급선회하고 있음",
-      "국채 금리 급등이 고금리 장기화(<span class=\"text-rose-400 font-medium\">Higher for longer</span>) 우려를 자극해 자산 가격을 압박함"
+      "견조한 미국의 경기 소비 및 고용 지표가 장기 <span class=\"text-amber-300 font-bold\">인플레이션</span>을 압박하여 추가 긴축 정책 명분을 강화함",
+      "연준의 <span class=\"text-amber-300 font-bold\">금리 인하</span> 기대감이 소멸하고 시장 관심이 금리 인상 횟수와 시점으로 급선회하고 있음",
+      "국채 금리 급등이 <span class=\"text-amber-300 font-bold\">고금리 장기화</span>(Higher for longer) 우려를 자극해 자산 가격을 압박함"
     ],
     "data_points": [
       "CME 페드워치 기준 연내 금리 동결 확률 26.9%, 금리 인하 확률 0.8%",
@@ -21,13 +21,13 @@
       "미국 30년물 국채 금리 5% 상회"
     ],
     "signal": "bearish",
-    "signal_reason": "미국의 강력한 경기 모멘텀이 역설적으로 <span class=\"text-rose-400 font-medium\">추가 금리 인상</span> 리스크를 유발하여, <span class=\"text-rose-400 font-medium\">국채 금리 급등</span>과 주식 시장의 밸류에이션 부담을 높입니다.",
+    "signal_reason": "미국의 강력한 경기 모멘텀이 역설적으로 추가 금리 인상 <span class=\"text-rose-400 font-medium\">리스크</span>를 유발하여, 국채 금리 급등과 주식 시장의 밸류에이션 부담을 높입니다.",
     "key_companies": [
       "연준(Fed)",
       "CME"
     ],
-    "insight": "시장이 예상했던 금리 인하 사이클이 완전히 부정되고 추가 긴축 가능성이 가시화되고 있습니다. 이는 단순한 속도 조절이 아니라, 인플레이션의 끈적함(sticky)과 강한 고용이 결합되어 고금리가 장기화되는 <span class=\"text-rose-400 font-medium\">뉴 노멀</span> 시나리오로의 전환을 의미합니다.",
-    "action_point": "금리 인상 리스크가 지배하는 환경에서는 성장주에 대한 보수적 접근이 필요하며, <span class=\"text-rose-400 font-medium\">고금리 장기화</span> 수혜 섹터나 현금 흐름이 양호한 가치주 중심으로 포트폴리오 방어력을 높여야 합니다."
+    "insight": "시장이 예상했던 <span class=\"text-amber-300 font-bold\">금리 인하</span> 사이클이 완전히 부정되고 추가 긴축 가능성이 가시화되고 있습니다. 이는 단순한 속도 조절이 아니라, <span class=\"text-amber-300 font-bold\">인플레이션</span>의 끈적함(sticky)과 강한 고용이 결합되어 <span class=\"text-amber-300 font-bold\">고금리</span>가 장기화되는 뉴 노멀 시나리오로의 전환을 의미합니다.",
+    "action_point": "금리 인상 <span class=\"text-rose-400 font-medium\">리스크</span>가 지배하는 환경에서는 성장주에 대한 보수적 접근이 필요하며, <span class=\"text-amber-300 font-bold\">고금리 장기화</span> 수혜 섹터나 현금 흐름이 양호한 가치주 중심으로 포트폴리오 방어력을 높여야 합니다."
   },
   "classification": {
     "primary_topic": "economy",

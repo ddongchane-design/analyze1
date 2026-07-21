@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/q3lAL-GY2YY/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "메모리 빅3(SK하이닉스, 마이크론, 삼성)의 HBM 전용 패키징 집중으로 일반 범용 디램(DRAM) 전공정 웨이퍼 생산 능력이 3배 이상 잠식당하며 나타나는 공급 쇼티지의 구조적 필연성을 설명함.",
+    "summary": "메모리 빅3(<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>, 마이크론, 삼성)의 <span class=\"text-cyan-300 font-semibold\">HBM</span> 전용 패키징 집중으로 일반 범용 디램(DRAM) 전공정 웨이퍼 생산 능력이 3배 이상 잠식당하며 나타나는 공급 쇼티지의 구조적 필연성을 설명함.",
     "key_claims": [
-      "HBM은 웨이퍼당 유효 비트(Bit) 판매량이 DDR5 대비 3분의 1 수준에 불과하며, 적층 수율 손실과 실리콘 관통 전극(TSV) 면적 점유로 인해 HBM 올인 시 범용 디램 생산 라인은 자동 강제 축소됨.",
+      "<span class=\"text-cyan-300 font-semibold\">HBM</span>은 웨이퍼당 유효 비트(Bit) 판매량이 DDR5 대비 3분의 1 수준에 불과하며, 적층 <span class=\"text-rose-400 font-medium\">수율</span> 손실과 실리콘 관통 전극(TSV) 면적 점유로 인해 <span class=\"text-cyan-300 font-semibold\">HBM</span> 올인 시 범용 디램 생산 라인은 자동 강제 축소됨.",
       "마이크론 등이 설비 투자(CapEx) 예산을 대폭 상향했으나 증가분의 50% 이상이 즉시 칩을 뽑을 수 없는 클린룸 및 공장 골조 공사(Civil Engineering) 비용에 한정되어 실제 증설 효과는 2027년 이후에나 나타남.",
-      "이 틈새를 타 중국 CXMT가 구형/범용 디램 공급을 메우려 타진 중이며, 애플은 원가 방어 및 한국계 쏠림 해소를 위해 CXMT 인증 카드를 적극 저울질하는 협상 블러핑을 가동함."
+      "이 틈새를 타 <span class=\"text-violet-300 font-medium\">중국</span> CXMT가 구형/범용 디램 공급을 메우려 타진 중이며, 애플은 원가 방어 및 한국계 쏠림 해소를 위해 CXMT 인증 카드를 적극 저울질하는 협상 블러핑을 가동함."
     ],
     "data_points": [
       "HBM 웨이퍼 잠식 계수: 일반 DDR5 디램 대비 전공정 단계에서 동일 칩 용량 생성 시 물리 웨이퍼 소모량 약 3배 도달"
@@ -25,7 +25,7 @@
       "SK하이닉스(000660)",
       "Apple"
     ],
-    "insight": "빅테크가 HBM을 아무리 많이 확보해도 일반 서버 구동용 <span class=\"text-cyan-300 font-semibold\">범용 디램(DDR5/LPDDR5)</span>이 없으면 서버를 기동할 수 없습니다. <span class=\"text-cyan-300 font-semibold\">설비 투자의 선행 토목 공기 지연(클린룸 시공 2~3년 소요)</span>으로 인해 실질 범용 칩 부족 현상은 하반기에도 고착화되어 메모리 제조사의 판가 결정권이 유지될 것입니다.",
+    "insight": "빅테크가 <span class=\"text-cyan-300 font-semibold\">HBM</span>을 아무리 많이 확보해도 일반 서버 구동용 범용 디램(DDR5/LPDDR5)이 없으면 서버를 기동할 수 없습니다. 설비 투자의 선행 토목 공기 지연(클린룸 시공 2~3년 소요)으로 인해 실질 범용 칩 부족 현상은 하반기에도 고착화되어 메모리 제조사의 판가 결정권이 유지될 것입니다.",
     "action_point": "범용 디램 판가 상승 수혜를 고스란히 반영할 메모리 팹 소부장 및 세정/테스트 정밀 부품 공급 선두주의 비중을 유지하고, 애플의 CXMT 협상 노이즈로 인한 일시 하락을 추매 타이밍으로 활용합니다."
   },
   "classification": {

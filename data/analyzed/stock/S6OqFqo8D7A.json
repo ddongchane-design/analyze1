@@ -8,26 +8,26 @@
     "thumbnail": "https://img.youtube.com/vi/S6OqFqo8D7A/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "미국 상무부의 대중 수출 규제를 우회하는 엔비디아 H20/H200 중국 맞춤형 AI 가속기 승인 기대감, 애플과 브로드컴의 $300억 대형 안테나 칩 공급 동맹, 그리고 트럼프의 이란 군사 공습 가능성 시사 발언이 가져올 중동 리스크와 해상 운임에 미칠 충격을 고찰합니다.",
+    "summary": "미국 상무부의 <span class=\"text-violet-300 font-medium\">대중</span> 수출 규제를 우회하는 엔비디아 H20/H200 <span class=\"text-violet-300 font-medium\">중국</span> 맞춤형 AI 가속기 승인 기대감, 애플과 <span class=\"text-cyan-300 font-semibold\">브로드컴</span>의 $300억 대형 안테나 칩 공급 동맹, 그리고 트럼프의 <span class=\"text-violet-300 font-medium\">이란</span> 군사 공습 가능성 시사 발언이 가져올 <span class=\"text-violet-300 font-medium\">중동</span> <span class=\"text-rose-400 font-medium\">리스크</span>와 해상 운임에 미칠 충격을 고찰합니다.",
     "key_claims": [
-      "엔비디아는 중국 빅테크향 H20 칩 출하로 수조 원대 보류 매출의 실현 가능성이 제기되어 주가가 강하게 복구됨.",
-      "애플은 5G RF 필터 및 모뎀 자립 한계를 극복하기 위해 브로드컴과 장기 다년 공급 계약을 체결함.",
-      "트럼프의 중동 무력 개입 오락가락 발언은 호르무즈 해역의 실질 무력 충돌 불안감을 고조시켜 해운사들의 위험 할증 운임 체계를 고착화함."
+      "엔비디아는 <span class=\"text-violet-300 font-medium\">중국</span> 빅테크향 H20 칩 출하로 수조 원대 보류 매출의 실현 가능성이 제기되어 주가가 강하게 복구됨.",
+      "애플은 5G RF 필터 및 모뎀 자립 한계를 극복하기 위해 <span class=\"text-cyan-300 font-semibold\">브로드컴</span>과 장기 다년 공급 계약을 체결함.",
+      "트럼프의 <span class=\"text-violet-300 font-medium\">중동</span> 무력 개입 오락가락 발언은 <span class=\"text-violet-300 font-medium\">호르무즈</span> 해역의 실질 무력 충돌 불안감을 고조시켜 해운사들의 <span class=\"text-rose-400 font-medium\">위험</span> 할증 운임 체계를 고착화함."
     ],
     "data_points": [
       "엔비디아의 중국향 H20 칩 예상 매출액: 하반기 최대 120억 달러 추정",
       "애플-브로드컴 장기 무선 칩셋 공급 동맹 규모: 총 300억 달러"
     ],
     "signal": "neutral",
-    "signal_reason": "전방 칩셋 호재는 뚜렷하나, 트럼프발 지정학 노이즈가 원유 및 해상 운송 원가를 높여 인플레이션 장기 재발을 유도할 위험이 상존하기 때문입니다.",
+    "signal_reason": "전방 칩셋 호재는 뚜렷하나, 트럼프발 지정학 노이즈가 원유 및 해상 운송 원가를 높여 <span class=\"text-amber-300 font-bold\">인플레이션</span> 장기 재발을 유도할 <span class=\"text-rose-400 font-medium\">위험</span>이 상존하기 때문입니다.",
     "key_companies": [
       "Nvidia",
       "Broadcom",
       "Apple",
       "HMM"
     ],
-    "insight": "트럼프의 이란 자극 시나리오는 결국 **지정학적 통행 한계 $\rightarrow$ 아시아-유럽 선박 우회 $\rightarrow$ 해운 톤마일 상승 및 친환경 고부가가치 선박 신조 수요 가속**으로 흐르는 조선/해운 업계의 구조적 상방 압력을 지속 주입합니다.",
-    "action_point": "반도체 대장주의 지위를 확고히 쥐면서, 해역 안보 불안에 따른 톤마일 수혜를 입는 국적선사(HMM 등) 및 조선 소부장 핵심 지분을 헷징 포트폴리오로 가져갑니다."
+    "insight": "트럼프의 <span class=\"text-violet-300 font-medium\">이란</span> 자극 시나리오는 결국 **지정학적 통행 한계 $\rightarrow$ 아시아-유럽 선박 우회 $\rightarrow$ 해운 톤마일 상승 및 친환경 고부가가치 선박 신조 수요 가속**으로 흐르는 조선/해운 업계의 구조적 상방 압력을 지속 주입합니다.",
+    "action_point": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 대장주의 지위를 확고히 쥐면서, 해역 안보 불안에 따른 톤마일 수혜를 입는 국적선사(HMM 등) 및 조선 소부장 핵심 지분을 헷징 포트폴리오로 가져갑니다."
   },
   "classification": {
     "primary_topic": "stock",

@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/V3TwiLvfw14/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "<span class=\"text-violet-300 font-medium\">미국 제재</span>로 미세공정 도입이 막힌 <span class=\"text-cyan-300 font-semibold\">화웨이</span>가 7나노 공정 다이 두 장을 쌓는 <span class=\"text-cyan-300 font-semibold\">웨이퍼 본딩</span> 기술을 시현했으나, 적층으로 인한 심각한 <span class=\"text-rose-400 font-medium\">발열 문제</span>와 <span class=\"text-rose-400 font-medium\">수율 저하</span>라는 기술적 한계에 부딪혔다는 분석입니다.",
+    "summary": "미국 제재로 미세공정 도입이 막힌 <span class=\"text-cyan-300 font-semibold\">화웨이</span>가 7나노 공정 다이 두 장을 쌓는 웨이퍼 본딩 기술을 시현했으나, 적층으로 인한 심각한 발열 문제와 <span class=\"text-rose-400 font-medium\">수율 저하</span>라는 기술적 한계에 부딪혔다는 분석입니다.",
     "key_claims": [
-      "화웨이의 적층 기술은 10년 전부터 존재했으나 높은 비용과 불량률로 외면받던 기술로, <span class=\"text-violet-300 font-medium\">중국의 독자 노선</span>을 위한 고육지책입니다.",
-      "반도체를 위로 쌓으면서 수직(Z축)으로 발생하는 열이 수평(X, Y축)으로 빠져나가지 못하는 극심한 <span class=\"text-rose-400 font-medium\">발열 제어 실패</span>를 겪을 것입니다.",
-      "적층 다이가 늘어날수록 결함률이 곱하기로 증폭되어 완제품의 <span class=\"text-rose-400 font-medium\">상업적 양산 한계</span>가 명확합니다."
+      "<span class=\"text-cyan-300 font-semibold\">화웨이</span>의 적층 기술은 10년 전부터 존재했으나 높은 비용과 불량률로 외면받던 기술로, <span class=\"text-violet-300 font-medium\">중국</span>의 독자 노선을 위한 고육지책입니다.",
+      "<span class=\"text-cyan-300 font-semibold\">반도체</span>를 위로 쌓으면서 수직(Z축)으로 발생하는 열이 수평(X, Y축)으로 빠져나가지 못하는 극심한 발열 제어 실패를 겪을 것입니다.",
+      "적층 다이가 늘어날수록 결함률이 곱하기로 증폭되어 완제품의 상업적 양산 한계가 명확합니다."
     ],
     "data_points": [
       "화웨이가 적용한 기술은 베이스 다이가 SMIC 7나노 공정에 기반함",
@@ -20,15 +20,15 @@
       "적층 기술 연구의 역사는 약 10년 이상 됨"
     ],
     "signal": "bearish",
-    "signal_reason": "미세공정 한계를 패키징으로 우회하려는 시도는 극심한 <span class=\"text-rose-400 font-medium\">발열 및 생산성 저하</span>로 인해 화웨이 디바이스의 상용화 경쟁력을 떨어뜨릴 것입니다.",
+    "signal_reason": "미세공정 한계를 패키징으로 우회하려는 시도는 극심한 발열 및 생산성 저하로 인해 <span class=\"text-cyan-300 font-semibold\">화웨이</span> 디바이스의 상용화 경쟁력을 떨어뜨릴 것입니다.",
     "key_companies": [
       "화웨이",
       "SMIC",
       "TSMC",
       "삼성전자"
     ],
-    "insight": "화웨이의 시도는 단기적으로 미세 공정 경쟁에서 성능을 위장하려는 잇몸 때우기이지만, 무리한 <span class=\"text-cyan-300 font-semibold\">3D 패키징</span> 시도 과정에서 축적된 노하우가 향후 중국의 메모리(DRAM/HBM) 분야로 전이될 수 있어 <span class=\"text-violet-300 font-medium\">지정학적 리스크</span> 관점의 모니터링이 필수적입니다.",
-    "action_point": "중국이 패키징 우회 기술을 통해 장기적으로 메모리 기술 자립을 꾀하고 있으므로, 국내 메모리 반도체 기업들은 압도적인 선단 공정 격차 유지 및 차세대 <span class=\"text-cyan-300 font-semibold\">HBM4</span> 패키징 주도권 확보에 집중해야 합니다."
+    "insight": "<span class=\"text-cyan-300 font-semibold\">화웨이</span>의 시도는 단기적으로 미세 공정 경쟁에서 성능을 위장하려는 잇몸 때우기이지만, 무리한 3D 패키징 시도 과정에서 축적된 노하우가 향후 <span class=\"text-violet-300 font-medium\">중국</span>의 메모리(DRAM/<span class=\"text-cyan-300 font-semibold\">HBM</span>) 분야로 전이될 수 있어 지정학적 <span class=\"text-rose-400 font-medium\">리스크</span> 관점의 모니터링이 필수적입니다.",
+    "action_point": "<span class=\"text-violet-300 font-medium\">중국</span>이 패키징 우회 기술을 통해 장기적으로 메모리 기술 자립을 꾀하고 있으므로, 국내 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span> 기업들은 압도적인 선단 공정 격차 유지 및 차세대 <span class=\"text-cyan-300 font-semibold\">HBM</span>4 패키징 주도권 확보에 집중해야 합니다."
   },
   "classification": {
     "primary_topic": "tech",

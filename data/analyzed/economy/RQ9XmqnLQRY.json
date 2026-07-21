@@ -8,24 +8,24 @@
     "thumbnail": "https://img.youtube.com/vi/RQ9XmqnLQRY/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "미국의 제조업 <span class=\"text-amber-300 font-bold\">리쇼어링(제조업 본국 회귀)</span> 정책이 실제 성과를 거두지 못하고 IT/기술 분야에만 자금이 쏠리는 왜곡이 지속되고 있습니다.\n미국의 GDP 대비 제조업 비중은 오히려 감소하여 소비재의 해외 의존도와 관세 부담을 낮추지 못하고 있습니다.\n중국산 수입품에 <span class=\"text-rose-400 font-medium\">관세 폭탄</span>을 부과하더라도 대체할 국내 제조 기반이 없어 미국의 고물가 압력이 만성화되는 악순환이 이어집니다.",
+    "summary": "미국의 제조업 리쇼어링(제조업 본국 회귀) 정책이 실제 성과를 거두지 못하고 IT/기술 분야에만 자금이 쏠리는 왜곡이 지속되고 있습니다.\n미국의 GDP 대비 제조업 비중은 오히려 감소하여 소비재의 해외 의존도와 관세 부담을 낮추지 못하고 있습니다.\n<span class=\"text-violet-300 font-medium\">중국</span>산 수입품에 관세 폭탄을 부과하더라도 대체할 국내 제조 기반이 없어 미국의 고물가 압력이 만성화되는 악순환이 이어집니다.",
     "key_claims": [
-      "미국의 제조업 부활 명분은 실질적인 리쇼어링보다 <span class=\"text-cyan-300 font-semibold\">IT 기술 몰빵</span>과 유동성 공급의 명분으로만 사용되고 있음.",
-      "제조 케파 증설 지연으로 인해 코스트코, 월마트 등에서 판매되는 소비재의 <span class=\"text-rose-400 font-medium\">해외 수입 의존</span>은 피할 수 없는 현실임.",
-      "관세를 매겨도 수입을 대체할 수 없어 결국 최종 소비자가 비용을 부담하게 되며, 이는 미국 내 고물가와 <span class=\"text-rose-400 font-medium\">인플레이션 장기화</span>의 주요 원인임."
+      "미국의 제조업 부활 명분은 실질적인 리쇼어링보다 IT 기술 몰빵과 유동성 공급의 명분으로만 사용되고 있음.",
+      "제조 케파 증설 지연으로 인해 코스트코, 월마트 등에서 판매되는 소비재의 해외 수입 의존은 피할 수 없는 현실임.",
+      "관세를 매겨도 수입을 대체할 수 없어 결국 최종 소비자가 비용을 부담하게 되며, 이는 미국 내 고물가와 <span class=\"text-amber-300 font-bold\">인플레이션</span> 장기화의 주요 원인임."
     ],
     "data_points": [
       "미국 GDP 대비 제조업 비중: 2015년 이전 15% -> 현재 9.5%로 하락",
       "미국 내 소비재 상품 자체 생산 케파: 3조 달러 미만"
     ],
     "signal": "bearish",
-    "signal_reason": "미국 내 제조 기반이 없는 상태에서의 관세 부과는 공급망 비용 상승과 <span class=\"text-rose-400 font-medium\">스태그플레이션 위험</span>을 가중시키는 거시적 악재로 작용함.",
+    "signal_reason": "미국 내 제조 기반이 없는 상태에서의 관세 부과는 공급망 비용 상승과 스태그플레이션 <span class=\"text-rose-400 font-medium\">위험</span>을 가중시키는 거시적 악재로 작용함.",
     "key_companies": [
       "Costco",
       "Walmart"
     ],
-    "insight": "미국의 리쇼어링 정책은 제조업 부흥이라는 정치적 구호와 달리 실제로는 <span class=\"text-cyan-300 font-semibold\">IT 및 AI 핵심 기술 지분</span>만을 독점하고 소비재 인플레이션은 수입 관세를 통해 가계에 전가하는 '동상이몽'의 구조를 띠고 있습니다.",
-    "action_point": "관세 인상에 따른 미국 내 <span class=\"text-rose-400 font-medium\">수입 물가 상승</span>과 가계 소비 둔화 리스크에 대비하고, 공급망 다변화 수혜를 볼 수 있는 신흥국 대체 제조 기업에 주목해야 합니다."
+    "insight": "미국의 리쇼어링 정책은 제조업 부흥이라는 정치적 구호와 달리 실제로는 IT 및 AI 핵심 기술 지분만을 독점하고 소비재 <span class=\"text-amber-300 font-bold\">인플레이션</span>은 수입 관세를 통해 가계에 전가하는 '동상이몽'의 구조를 띠고 있습니다.",
+    "action_point": "관세 인상에 따른 미국 내 수입 물가 상승과 가계 소비 둔화 <span class=\"text-rose-400 font-medium\">리스크</span>에 대비하고, 공급망 다변화 수혜를 볼 수 있는 신흥국 대체 제조 기업에 주목해야 합니다."
   },
   "classification": {
     "primary_topic": "economy",

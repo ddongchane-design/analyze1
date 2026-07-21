@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/DnzY-P84Eqc/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>가 초거대 AI 슈퍼컴퓨터인 <span class=\"text-cyan-300 font-semibold\">콜로서스(Colossus)</span>를 임대한 행보는 AI 인프라 대여 사업을 통한 수익 다각화 전략으로 분석됩니다.\n일론 머스크는 소송이나 규제 리스크를 감수하고서라도 데이터 센터를 극도로 빠르게 구축하여 시장 선점에 집중하고 있습니다.\n이를 통해 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>는 우주 사업을 넘어 AI 데이터 센터 인프라 매출을 가속화할 전망입니다.",
+    "summary": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>가 초거대 AI 슈퍼컴퓨터인 콜로서스(Colossus)를 임대한 행보는 AI 인프라 대여 사업을 통한 수익 다각화 전략으로 분석됩니다.\n일론 머스크는 소송이나 규제 <span class=\"text-rose-400 font-medium\">리스크</span>를 감수하고서라도 데이터 센터를 극도로 빠르게 구축하여 시장 선점에 집중하고 있습니다.\n이를 통해 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>는 우주 사업을 넘어 AI 데이터 센터 인프라 매출을 가속화할 전망입니다.",
     "key_claims": [
-      "스페이스X의 콜로서스 임대는 단순 AI 모델 고도화를 넘어, 확실한 수입원인 <span class=\"text-cyan-300 font-semibold\">AI 인프라 대여 사업</span>에 본격적으로 진출했음을 시사한다.",
-      "일론 머스크는 규제와 행정 절차를 우회(칼치기식 인프라 구축)해서라도 <span class=\"text-rose-400 font-medium\">데이터 센터 인프라 확보 속도</span>를 극대화하고 있다.",
+      "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 콜로서스 임대는 단순 AI 모델 고도화를 넘어, 확실한 수입원인 AI 인프라 대여 사업에 본격적으로 진출했음을 시사한다.",
+      "일론 머스크는 규제와 행정 절차를 우회(칼치기식 인프라 구축)해서라도 데이터 센터 인프라 확보 속도를 극대화하고 있다.",
       "속도전을 통해 인프라를 우선 확보한 뒤 사후 규제나 벌금 등에 대응하는 초신속 구축 전략이 추가적인 매출 성장을 앞당길 것이다."
     ],
     "data_points": [
@@ -24,8 +24,8 @@
       "스페이스X(SpaceX)",
       "xAI"
     ],
-    "insight": "일론 머스크 계열사 간의 자원 공유 및 독자적인 인프라 속도전은 일반적인 빅테크 기업들이 규제와 승인 절차로 겪는 <span class=\"text-rose-400 font-medium\">구축 지연 리스크</span>를 우회하여 AI 연산 자원 시장에서 압도적인 선점 우위를 확보하게 만듭니다.",
-    "action_point": "머스크 생태계(스페이스X, xAI, 테슬라)의 AI 데이터 센터 인프라 속도전에 공급되는 <span class=\"text-cyan-300 font-semibold\">액체 냉각 시스템</span> 및 전력 공급 장치 공급망을 주목하십시오.\n규제 위반 및 소송 등 사후 법적 대응으로 인한 일시적인 <span class=\"text-rose-400 font-medium\">규제 리스크</span> 변동성을 모니터링하되, 인프라 매출 가속화라는 본질적 성장에 초점을 맞추십시오."
+    "insight": "일론 머스크 계열사 간의 자원 공유 및 독자적인 인프라 속도전은 일반적인 빅테크 기업들이 규제와 승인 절차로 겪는 구축 지연 <span class=\"text-rose-400 font-medium\">리스크</span>를 우회하여 AI 연산 자원 시장에서 압도적인 선점 우위를 확보하게 만듭니다.",
+    "action_point": "머스크 생태계(<span class=\"text-cyan-300 font-semibold\">스페이스X</span>, xAI, <span class=\"text-cyan-300 font-semibold\">테슬라</span>)의 AI 데이터 센터 인프라 속도전에 공급되는 액체 냉각 시스템 및 전력 공급 장치 공급망을 주목하십시오.\n규제 위반 및 소송 등 사후 법적 대응으로 인한 일시적인 규제 <span class=\"text-rose-400 font-medium\">리스크</span> 변동성을 모니터링하되, 인프라 매출 가속화라는 본질적 성장에 초점을 맞추십시오."
   },
   "classification": {
     "primary_topic": "space",

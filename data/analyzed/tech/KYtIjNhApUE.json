@@ -8,18 +8,18 @@
     "thumbnail": "https://img.youtube.com/vi/KYtIjNhApUE/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "1. 브로드컴 급락, 마이크론 피크아웃 우려, 엔비디아 루빈 메모리 축소 소식이 겹치며 국내 <span class=\"text-rose-400 font-medium\">반도체 대형주가 동반 하락</span>했습니다.\n2. 엔비디아의 <span class=\"text-cyan-300 font-semibold\">소캠 용량 반감</span>은 AI 수요 둔화가 아닌 메모리 쇼티지로 인한 서버 출하 <span class=\"text-amber-300 font-bold\">병목 해소 목적</span>의 패키징 변경 전략입니다.\n3. 반도체 매도 타이밍은 아직 오지 않았으며, 빅테크의 <span class=\"text-amber-300 font-bold\">설비투자(CAPEX) 성장 둔화</span>가 확인될 때가 진짜 매도 시점입니다.",
+    "summary": "1. <span class=\"text-cyan-300 font-semibold\">브로드컴</span> <span class=\"text-rose-400 font-medium\">급락</span>, 마이크론 피크아웃 우려, 엔비디아 루빈 메모리 축소 소식이 겹치며 국내 <span class=\"text-cyan-300 font-semibold\">반도체</span> 대형주가 동반 하락했습니다.\n2. 엔비디아의 소캠 용량 반감은 AI 수요 둔화가 아닌 메모리 쇼티지로 인한 서버 출하 병목 해소 목적의 패키징 변경 전략입니다.\n3. <span class=\"text-cyan-300 font-semibold\">반도체</span> 매도 타이밍은 아직 오지 않았으며, 빅테크의 설비투자(CAPEX) 성장 둔화가 확인될 때가 진짜 매도 시점입니다.",
     "key_claims": [
-      "엔비디아의 <span class=\"text-cyan-300 font-semibold\">베라 루빈 NVL72</span>에서 소캠 용량을 축소한 것은 렉의 출하 속도를 높이기 위한 <span class=\"text-amber-300 font-bold\">공급망 최적화</span>의 결과입니다.",
-      "마이크론의 주가 하락은 실질적 펀더멘탈 악화보다는 최근 급등에 따른 <span class=\"text-rose-400 font-medium\">피크아웃 우려</span>와 수급 불안이 얽힌 심리적 요인입니다.",
-      "하이퍼스케일러들의 <span class=\"text-amber-300 font-bold\">투자 규모가 내년에도 증가세</span>를 유지하고 있으므로, 반도체 업황의 근본적 상승 사이클은 유효합니다."
+      "엔비디아의 베라 루빈 NVL72에서 소캠 용량을 축소한 것은 렉의 출하 속도를 높이기 위한 공급망 최적화의 결과입니다.",
+      "마이크론의 주가 하락은 실질적 펀더멘탈 악화보다는 최근 급등에 따른 피크아웃 우려와 수급 불안이 얽힌 심리적 요인입니다.",
+      "하이퍼스케일러들의 투자 규모가 내년에도 증가세를 유지하고 있으므로, <span class=\"text-cyan-300 font-semibold\">반도체</span> 업황의 근본적 상승 사이클은 유효합니다."
     ],
     "data_points": [
       "SK하이닉스가 하루 만에 10% 급락하고, 삼성전자가 6% 하락하는 등 국내 대표 반도체주의 동반 급락 관측",
       "구글(알파벳)은 올해 1,900억 달러 규모의 투자를 발표하고 내년에도 투자를 대폭 늘릴 것임을 예고함"
     ],
     "signal": "bullish",
-    "signal_reason": "단기 수급 교란과 센티먼트 악화로 주가가 급락했으나, 빅테크의 <span class=\"text-amber-300 font-bold\">AI 투자 강도(CAPEX)</span>와 엔비디아의 시스템 출하 계획은 오히려 강해지고 있어 <span class=\"text-cyan-300 font-semibold\">매수 관점 유지</span>가 타당합니다.",
+    "signal_reason": "단기 수급 교란과 센티먼트 악화로 주가가 <span class=\"text-rose-400 font-medium\">급락</span>했으나, 빅테크의 AI 투자 강도(CAPEX)와 엔비디아의 시스템 출하 계획은 오히려 강해지고 있어 매수 관점 유지가 타당합니다.",
     "key_companies": [
       "삼성전자",
       "SK하이닉스",
@@ -28,8 +28,8 @@
       "브로드컴",
       "구글"
     ],
-    "insight": "시장은 소캠 메모리 축소 뉴스를 디램 수요 감소로 오독했으나, 본질은 병목 현상을 우회해 전체 서버 출하를 극대화하려는 전략입니다. 진짜 반도체 매도 타이밍은 가격의 일시적 변동이 아니라 빅테크의 <span class=\"text-amber-300 font-bold\">AI 투자 집행력(CAPEX)</span>이 꺾이는 지점을 보아야 합니다. 현재 구글의 <span class=\"text-cyan-300 font-semibold\">선제적 투자 증대</span> 등은 반도체 사이클이 여전히 성장 궤도에 있음을 반증합니다.",
-    "action_point": "최근의 반도체 급락은 밸류에이션 부담을 덜어주는 좋은 <span class=\"text-cyan-300 font-semibold\">매수 기회</span>이므로, <span class=\"text-rose-400 font-medium\">변동성을 감내</span>하고 분할 매수로 접근하되 빅테크의 분기 <span class=\"text-amber-300 font-bold\">설비투자 지표</span> 추이를 모니터링해야 합니다."
+    "insight": "시장은 소캠 메모리 축소 뉴스를 디램 수요 감소로 오독했으나, 본질은 병목 현상을 우회해 전체 서버 출하를 극대화하려는 전략입니다. 진짜 <span class=\"text-cyan-300 font-semibold\">반도체</span> 매도 타이밍은 가격의 일시적 변동이 아니라 빅테크의 AI 투자 집행력(CAPEX)이 꺾이는 지점을 보아야 합니다. 현재 <span class=\"text-cyan-300 font-semibold\">구글</span>의 선제적 투자 증대 등은 <span class=\"text-cyan-300 font-semibold\">반도체</span> 사이클이 여전히 성장 궤도에 있음을 반증합니다.",
+    "action_point": "최근의 <span class=\"text-cyan-300 font-semibold\">반도체</span> <span class=\"text-rose-400 font-medium\">급락</span>은 밸류에이션 부담을 덜어주는 좋은 매수 기회이므로, 변동성을 감내하고 분할 매수로 접근하되 빅테크의 분기 설비투자 지표 추이를 모니터링해야 합니다."
   },
   "classification": {
     "primary_topic": "tech",

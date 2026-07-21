@@ -8,18 +8,18 @@
     "thumbnail": "https://img.youtube.com/vi/suQ68ikbD0U/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "마이크론의 어닝 서프라이즈 발표로 반도체 모멘텀이 지지되는 가운데, 개별 종목 매수 외에 SK하이닉스 투자 비중을 극대화할 수 있는 ETF 팁을 제공함. 삼성전자 대비 SK하이닉스 비중이 높은 **SOL AI반도체소프트웨어 및 코덱스 AI반도체** 활용을 추천하며, 퇴직연금(DC/IRP) 내 30% 의무 채권 비중 속에서도 반도체 노출을 최대화하기 위한 **채권혼합형 상품** 연계 팁을 전함.",
+    "summary": "마이크론의 어닝 서프라이즈 발표로 <span class=\"text-cyan-300 font-semibold\">반도체</span> 모멘텀이 지지되는 가운데, 개별 종목 매수 외에 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 투자 비중을 극대화할 수 있는 ETF 팁을 제공함. <span class=\"text-cyan-300 font-semibold\">삼성전자</span> 대비 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 비중이 높은 **SOL AI<span class=\"text-cyan-300 font-semibold\">반도체</span>소프트웨어 및 코덱스 AI<span class=\"text-cyan-300 font-semibold\">반도체</span>** 활용을 추천하며, <span class=\"text-amber-300 font-bold\">퇴직연금</span>(DC/IRP) 내 30% 의무 채권 비중 속에서도 <span class=\"text-cyan-300 font-semibold\">반도체</span> 노출을 최대화하기 위한 **채권혼합형 상품** 연계 팁을 전함.",
     "key_claims": [
-      "마이크론 실적 서프라이즈가 국내 반도체 상승을 견인한 가운데, 애플과 MS의 가격 인상에 따른 수요 위축 우려는 서버용 비중이 높은 메모리 펀더멘탈상 과도한 걱정임.",
-      "국내 신규 반도체 레버리지 ETF 유입 등으로 단기 수급 변동성이 커졌으나, 반도체 업종의 이익 기여도는 여전히 높음.",
-      "퇴직연금 계좌 내에서 안전자산 30% 한도 규정을 충족하면서 반도체 비중을 높이려면 주식·채권 혼합형인 라이즈(RISE) 상품을 활용해야 함."
+      "마이크론 실적 서프라이즈가 국내 <span class=\"text-cyan-300 font-semibold\">반도체</span> 상승을 견인한 가운데, 애플과 MS의 가격 인상에 따른 수요 위축 우려는 서버용 비중이 높은 메모리 펀더멘탈상 과도한 걱정임.",
+      "국내 신규 <span class=\"text-cyan-300 font-semibold\">반도체</span> 레버리지 ETF 유입 등으로 단기 수급 변동성이 커졌으나, <span class=\"text-cyan-300 font-semibold\">반도체</span> 업종의 이익 기여도는 여전히 높음.",
+      "<span class=\"text-amber-300 font-bold\">퇴직연금</span> 계좌 내에서 안전자산 30% 한도 규정을 충족하면서 <span class=\"text-cyan-300 font-semibold\">반도체</span> 비중을 높이려면 주식·채권 혼합형인 라이즈(RISE) 상품을 활용해야 함."
     ],
     "data_points": [
       "마이크론 테크놀로지 실적 발표가 목요일 국내 반도체 시장 강세 촉발",
       "퇴직연금 안전자산 의무 편입 비중: 전체 자산의 30% 이상 채권형 등 의무화"
     ],
     "signal": "bullish",
-    "signal_reason": "애플의 제품 판가 인상에 따른 세론(Sell-on) 우려보다는 AI 데이터센터 향 수요가 굳건하며, 개인 투자자들의 퇴직연금 및 ISA 계좌를 통한 지속적인 반도체 포트폴리오 유입 동력이 뒷받침되기 때문입니다.",
+    "signal_reason": "애플의 제품 판가 인상에 따른 세론(Sell-on) 우려보다는 AI 데이터센터 향 수요가 굳건하며, 개인 투자자들의 <span class=\"text-amber-300 font-bold\">퇴직연금</span> 및 ISA 계좌를 통한 지속적인 <span class=\"text-cyan-300 font-semibold\">반도체</span> 포트폴리오 유입 동력이 뒷받침되기 때문입니다.",
     "key_companies": [
       "SK하이닉스(000660)",
       "삼성전자(005930)",
@@ -28,7 +28,7 @@
       "애플(AAPL)"
     ],
     "insight": "스마트폰과 PC 가격 인상에 따른 소비자 저항 우려는 IT 전반의 센티멘트를 일시적으로 약화시킬 수 있으나, 현재 메모리 시장의 구조적 수요는 디바이스 단독보다는 하이퍼스케일러 데이터 센터의 서버 인프라가 견인하고 있습니다. 따라서 수요 둔화 노이즈로 인한 주가 출렁임은 실적 가시성이 굳건한 독과점 공급망 기업들에 대해 좋은 저가 매수 진입 기회를 제공합니다.",
-    "action_point": "SK하이닉스 개별 매수가 부담스럽다면 SK스퀘어가 편입되어 간접 노출을 늘릴 수 있는 <span class=\"text-cyan-300 font-semibold\">SOL AI 반도체 Top 2+</span> 또는 <span class=\"text-cyan-300 font-semibold\">Kodex AI 반도체 Top 2+</span>를 편입하고, 퇴직연금 계좌에서는 <span class=\"text-cyan-300 font-semibold\">라이즈 삼성전자 SK하이닉스 채권혼합 50</span>을 활용해 자산 배분 규정을 우회하여 반도체 비중을 채우는 전술이 필요합니다."
+    "action_point": "<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 개별 매수가 부담스럽다면 SK스퀘어가 편입되어 간접 노출을 늘릴 수 있는 SOL <span class=\"text-cyan-300 font-semibold\">AI 반도체</span> Top 2+ 또는 Kodex <span class=\"text-cyan-300 font-semibold\">AI 반도체</span> Top 2+를 편입하고, <span class=\"text-amber-300 font-bold\">퇴직연금</span> 계좌에서는 라이즈 <span class=\"text-cyan-300 font-semibold\">삼성전자</span> <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 채권혼합 50을 활용해 자산 배분 규정을 우회하여 <span class=\"text-cyan-300 font-semibold\">반도체</span> 비중을 채우는 전술이 필요합니다."
   },
   "classification": {
     "primary_topic": "stock",

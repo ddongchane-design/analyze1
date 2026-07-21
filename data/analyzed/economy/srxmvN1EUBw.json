@@ -8,24 +8,24 @@
     "thumbnail": "https://img.youtube.com/vi/srxmvN1EUBw/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "앨런 그린스펀 전 연준 의장의 별세 소식과 함께 90년대 정보통신 투자에 따른 <span class=\"text-amber-300 font-bold\">생산성 혁명</span> 이론이 재조명되고 있으며, 백악관은 이를 근거로 AI 발 금리 인하 정당성을 옹호하고 있음. 그러나 헤지펀드들의 반도체 순 노출도가 역대 최고치인 22%에 달하는 등 극단적인 <span class=\"text-rose-400 font-medium\">반도체 포지션 쏠림</span>이 나타나고 있어, 미세한 악재에도 대규모 매물이 쏟아질 위험이 상존함.",
+    "summary": "앨런 그린스펀 전 연준 의장의 별세 소식과 함께 90년대 정보통신 투자에 따른 생산성 혁명 이론이 재조명되고 있으며, 백악관은 이를 근거로 AI 발 <span class=\"text-amber-300 font-bold\">금리 인하</span> 정당성을 옹호하고 있음. 그러나 헤지펀드들의 <span class=\"text-cyan-300 font-semibold\">반도체</span> 순 노출도가 역대 최고치인 22%에 달하는 등 극단적인 <span class=\"text-cyan-300 font-semibold\">반도체</span> 포지션 쏠림이 나타나고 있어, 미세한 악재에도 대규모 매물이 쏟아질 <span class=\"text-rose-400 font-medium\">위험</span>이 상존함.",
     "key_claims": [
-      "그린스펀의 이론처럼 기술 투자가 임금 상승 대비 생산성을 빠르게 높이면 고성장 속에서도 저인플레이션 유지가 가능함.",
+      "그린스펀의 이론처럼 기술 투자가 임금 상승 대비 생산성을 빠르게 높이면 고성장 속에서도 저<span class=\"text-amber-300 font-bold\">인플레이션</span> 유지가 가능함.",
       "과거 닷컴 버블과 달리 현재 AI 혁명은 하이퍼스케일러 및 솔루션 도입 기업들의 실질적인 이익 증가로 입증되고 있음.",
-      "헤지펀드들의 글로벌 반도체/장비 포지션 노출도가 역사적 최고점인 22%에 도달해 단기 차익 실현 욕구가 극도로 높아진 상태임."
+      "헤지펀드들의 글로벌 <span class=\"text-cyan-300 font-semibold\">반도체</span>/장비 포지션 노출도가 역사적 최고점인 22%에 도달해 단기 차익 실현 욕구가 극도로 높아진 상태임."
     ],
     "data_points": [
       "헤지펀드 글로벌 포트폴리오 내 반도체/장비 총 노출도: 역대 최고 수준인 22% 기록",
       "앨런 그린스펀 전 연준 의장: 향년 100세로 별세"
     ],
     "signal": "neutral",
-    "signal_reason": "AI 생산성 성장의 실체는 확실하나, 헤지펀드 수급이 극단적으로 반도체에 쏠려 있어 매크로 노이즈나 capex 의구심 발생 시 변동성이 커질 리스크가 존재하기 때문임.",
+    "signal_reason": "AI 생산성 성장의 실체는 확실하나, 헤지펀드 수급이 극단적으로 <span class=\"text-cyan-300 font-semibold\">반도체</span>에 쏠려 있어 매크로 노이즈나 capex 의구심 발생 시 변동성이 커질 <span class=\"text-rose-400 font-medium\">리스크</span>가 존재하기 때문임.",
     "key_companies": [
       "구글(GOOGL)",
       "마이크론(MU)"
     ],
-    "insight": "닷컴 시절과 달리 실적이 뒷받침되는 쏠림이나, 포지션 집중도가 사상 최대인 만큼 구글의 인재 유출 등 작은 균열에도 민감하게 반응하는 예민한 장세임.",
-    "action_point": "반도체 주도주 포지션을 유지하되, 단기 쏠림에 따른 차익 실현 매물 출회 가능성을 감안해 포트폴리오의 과도한 레버리지는 축소할 것."
+    "insight": "닷컴 시절과 달리 실적이 뒷받침되는 쏠림이나, 포지션 집중도가 사상 최대인 만큼 <span class=\"text-cyan-300 font-semibold\">구글</span>의 인재 <span class=\"text-rose-400 font-medium\">유출</span> 등 작은 균열에도 민감하게 반응하는 예민한 장세임.",
+    "action_point": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 주도주 포지션을 유지하되, 단기 쏠림에 따른 차익 실현 매물 출회 가능성을 감안해 포트폴리오의 과도한 레버리지는 축소할 것."
   },
   "classification": {
     "primary_topic": "economy",

@@ -8,20 +8,20 @@
     "thumbnail": "https://img.youtube.com/vi/k8ehjcbvszU/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "레이 달리오 설립자는 AI 열풍에 따른 시장 점유율 경쟁이 거품을 축적하고 있으며, 고금리와 같은 <span class=\"text-rose-400 font-medium\">통화 긴축 유동성 압박</span> 하에서 자산을 현금화하는 시점에 파국적 버블 터짐이 발생할 수 있다고 경고했습니다.",
+    "summary": "레이 달리오 설립자는 AI 열풍에 따른 시장 점유율 경쟁이 거품을 축적하고 있으며, <span class=\"text-amber-300 font-bold\">고금리</span>와 같은 통화 긴축 유동성 압박 하에서 자산을 현금화하는 시점에 파국적 버블 터짐이 발생할 수 있다고 경고했습니다.",
     "key_claims": [
       "경쟁 환경에서 기업들은 시장 점유율 확보를 위해 과잉 투자를 단행할 수밖에 없고 이는 비효율을 낳는다.",
-      "평가 가치인 '부(Wealth)'와 실제 쓸 수 있는 '돈(Money)'은 다르며, 부를 현금으로 전환하려는 압력이 생길 때 취약성이 부각된다.",
+      "평가 가치인 '부(Wealth)'와 실제 쓸 수 있는 '돈(Money)'은 다르며, 부를 현금으로 전환하려는 압력이 생길 때 <span class=\"text-rose-400 font-medium\">취약성</span>이 부각된다.",
       "역사적인 1929년 대공황, 일본 거품 붕괴, 2000년 닷컴 버블 모두 통화 긴축 정책이 거품 붕괴의 트리거로 작동했다."
     ],
     "data_points": [
       "과거 자산 시장 버블 붕괴 역사 지표 공통 분모 점검"
     ],
     "signal": "bearish",
-    "signal_reason": "고금리 상황이 장기화되는 가운데 기업들의 높은 멀티플을 충족하기 위한 유동성 회수 압력이 가중되어 자산 가치 재조정 리스크가 짙어지고 있습니다.",
+    "signal_reason": "<span class=\"text-amber-300 font-bold\">고금리</span> 상황이 장기화되는 가운데 기업들의 높은 멀티플을 충족하기 위한 유동성 회수 압력이 가중되어 자산 가치 재<span class=\"text-rose-400 font-medium\">조정</span> <span class=\"text-rose-400 font-medium\">리스크</span>가 짙어지고 있습니다.",
     "key_companies": [],
     "insight": "AI 기업의 자산 평가 가치 팽창이 실질 현금 가치를 압도할 때 발생하는 변동성(버블 붕괴)은 부의 화폐 전환 능력 결여에서 유발되며, 긴축 국면의 고점 타이밍 제어에 유의해야 합니다.",
-    "action_point": "무차별적인 레버리지 테크주 추종 매수는 전면 차단하고, 실제 이익과 영업 현금 흐름이 풍부하여 현금 전환 리스크가 없는 가치 방어주 포지션을 보강해야 합니다."
+    "action_point": "무차별적인 레버리지 테크주 추종 매수는 전면 차단하고, 실제 이익과 영업 현금 흐름이 풍부하여 현금 전환 <span class=\"text-rose-400 font-medium\">리스크</span>가 없는 가치 방어주 포지션을 보강해야 합니다."
   },
   "classification": {
     "primary_topic": "economy",

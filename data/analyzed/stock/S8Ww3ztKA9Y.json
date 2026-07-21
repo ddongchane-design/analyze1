@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "S8Ww3ztKA9Y",
+    "title": "[김종학의 뉴욕, 지금-7월21일] 미군 전사자 누적 17명..트럼프는 보복 예고 | 국제유가 지난주 16% 상승 | 알파벳, MSFT, 알리바바, AMD, 아이렌, 루멘텀, 메타",
+    "published": "2026-07-20T21:17:06+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=S8Ww3ztKA9Y",
+    "thumbnail": "https://img.youtube.com/vi/S8Ww3ztKA9Y/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "한경 글로벌마켓 김종학 특파원은 뉴욕 증시가 장중 상승세를 유지하다 장 후반 애플의 차익 실현(-2%)과 미군 전사자 증가에 따른 지정학적 긴장감으로 흘러내리며 마감했다고 보도했습니다. 기술주 단에서는 <span class=\"text-cyan-300 font-semibold\">구글</span>의 전력·연산 비용을 10배 절감하는 추론 전용 칩 '프로즌 버전2(Frozen 2)' 개발 소식과 코어위브에 클라우드 계약을 체결한 아이렌(IREN)의 20% 급등, 루멘텀의 투자의견 상향이 겹치며 실적 확인 전 하방 경직성을 시험하고 있습니다.",
+    "key_claims": [
+      "미군의 <span class=\"text-violet-300 font-medium\">이란</span> 공습 및 <span class=\"text-violet-300 font-medium\">이란</span>의 보복 공격으로 미군 누적 전사자가 17명에 달해 트럼프 전 대통령이 보복을 경고하는 등 <span class=\"text-violet-300 font-medium\">중동</span> <span class=\"text-rose-400 font-medium\">리스크</span>가 <span class=\"text-amber-300 font-bold\">유가</span>를 고공행진하게 만들고 있다.",
+      "<span class=\"text-cyan-300 font-semibold\">구글</span>이 제미나이의 기본 추론 능력을 칩 자체에 내장해 전력 효율과 처리 속도를 6~10배 개선하는 신형 커스텀 칩 '프로즌 버전2(Frozen 2)'를 개발 중이다.",
+      "클라우드 공급사인 아이렌(Iren)이 코어위브 등과 대형 클라우드 서비스 계약(28억 달러)을 체결해 연간 매출 목표를 조기 달성하며 20% 가까이 폭등했다."
+    ],
+    "data_points": [
+      "아이렌(IREN) 실적 성과: 28억 달러 규모 다년 계약 체결로 주가 20%대 급등",
+      "중동 군사 충돌 피해: 주말 미군 3명 사망, 1명 실종 (누적 17명 전사)"
+    ],
+    "signal": "neutral",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">구글</span>의 신규 AI 칩 개발 및 테크주(아이렌, 루멘텀)의 실적 호재 등 긍정적 개별 요인과, <span class=\"text-violet-300 font-medium\">중동</span> 전쟁의 사상자 발생 및 미 대선 주자들의 보복 경고 등 매크로 불안을 유발하는 부정적 요인이 상충하기 때문입니다.",
+    "key_companies": [
+      "Alphabet(GOOGL)",
+      "IREN(IREN)",
+      "Apple(AAPL)",
+      "SpaceX"
+    ],
+    "insight": "빅테크들은 천문학적 AI 투자 효율을 입증하기 위해 소프트웨어 최적화뿐 아니라 '추론 내장형 커스텀 실리콘(Frozen 2)' 등 전용 하드웨어 개발로 비용 구조를 획기적으로 낮추는 생존 전략을 펴고 있습니다. <span class=\"text-violet-300 font-medium\">중동</span> 지정학적 위협이 단기 노이즈를 만들고 있으나 빅테크의 AI 효율화 경쟁은 쉼 없이 지속되고 있습니다.",
+    "action_point": "<span class=\"text-amber-300 font-bold\">유가</span> 변동을 예의주시하되 AI 인프라 단가 인하 및 고효율화를 선도하는 빅테크(<span class=\"text-cyan-300 font-semibold\">구글</span>)와 이에 수혜를 받는 전용 인프라 공급사(아이렌, 루멘텀)의 비중을 긍정적으로 가져가는 것이 바람직합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "미군중동전사",
+      "구조적디젤쇼티지",
+      "구조적원유제고",
+      "구글프로즌2칩",
+      "아이렌대형계약"
+    ]
+  }
+}

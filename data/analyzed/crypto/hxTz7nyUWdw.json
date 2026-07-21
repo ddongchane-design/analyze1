@@ -8,7 +8,7 @@
     "thumbnail": "https://img.youtube.com/vi/hxTz7nyUWdw/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "비트코인 최대 보유 기업인 마이크로스트레티지(MSTR)의 자금 조달 구조와 관련해, <span class=\"text-rose-400 font-medium\">BPS(주당 비트코인 가치) 희석 우려</span>와 비트코인 매도 가능성에 대한 시장의 왜곡된 불안감을 진단함. 회사 경영진은 BPS 성장에 부합할 때만 조율을 시행할 것임을 확언했고, 대안적 기업형 비트코인 구매 트레저리(BSTR, 카돈 캐피털 등) 및 신규 채굴 자본의 유입이 대기 중이어서 하방 지지가 견고함.",
+    "summary": "비트코인 최대 보유 기업인 마이크로스트레티지(MSTR)의 자금 조달 구조와 관련해, BPS(주당 비트코인 가치) 희석 우려와 비트코인 매도 가능성에 대한 시장의 왜곡된 불안감을 진단함. 회사 경영진은 BPS 성장에 부합할 때만 조율을 시행할 것임을 확언했고, 대안적 기업형 비트코인 구매 트레저리(BSTR, 카돈 캐피털 등) 및 신규 채굴 자본의 유입이 대기 중이어서 하방 지지가 견고함.",
     "key_claims": [
       "MSTR의 주식 발행(ATM) 방식 자금 조달은 BPS를 증가시키는 한도 내에서 정교하게 집행됨.",
       "비트코인 보유 가치 상승 및 자사주 밸류에이션 차이를 활용한 차익 거래 메커니즘이 원활히 작동 중임.",
@@ -25,7 +25,7 @@
       "ABTC"
     ],
     "insight": "단일 기업 MSTR에 대한 비트코인 의존도가 점차 분산되며, 글로벌 기업들이 비트코인을 기업 현금 자산(Treasury)으로 편입하는 인프라가 규격화되고 있음.",
-    "action_point": "시장의 막연한 MSTR 발 청산 불안감으로 인한 크립토 가격 단기 조정 국면을 중장기 비트코인 매수 적기로 삼을 것."
+    "action_point": "시장의 막연한 MSTR 발 <span class=\"text-rose-400 font-medium\">청산</span> 불안감으로 인한 크립토 가격 단기 <span class=\"text-rose-400 font-medium\">조정</span> 국면을 중장기 비트코인 매수 적기로 삼을 것."
   },
   "classification": {
     "primary_topic": "crypto",

@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/C4fP-CkUo9o/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "앤트로픽의 최상위 AI 모델인 페이블(Fable)이 고성능 연산 및 장기 추론 능력에도 불구하고 <span class=\"text-rose-400 font-medium\">탈옥(Jailbreak) 및 해킹 위협</span> 이슈로 정부 규제와 사용 제한 논란에 직면함. AI 모델의 군사/보안 기술 유출 방지를 위한 미국 정부의 규제 도입 흐름 속에서, 온디바이스 및 고신뢰성 에이전트 시스템을 위한 안전성(Safety) 기준 확보와 시스템 프롬프트 제어가 핵심 과제로 부상함.",
+    "summary": "앤트로픽의 최상위 AI 모델인 페이블(Fable)이 고성능 연산 및 장기 추론 능력에도 불구하고 탈옥(Jailbreak) 및 해킹 위협 이슈로 정부 규제와 사용 제한 논란에 직면함. AI 모델의 군사/보안 기술 <span class=\"text-rose-400 font-medium\">유출</span> 방지를 위한 미국 정부의 규제 도입 흐름 속에서, 온디바이스 및 고신뢰성 에이전트 시스템을 위한 안전성(Safety) 기준 확보와 시스템 프롬프트 제어가 핵심 과제로 부상함.",
     "key_claims": [
       "앤트로픽 최상위 보안 모델 Fable이 해킹 및 탈옥 가능성 노출로 일부 서비스 중단 규제를 받음.",
-      "AI 기술 및 반도체 하드웨어가 국가 안보 자산화되면서 미국/유럽 등의 수출 및 기술 통제가 가속화되고 있음.",
+      "AI 기술 및 <span class=\"text-cyan-300 font-semibold\">반도체</span> 하드웨어가 국가 안보 자산화되면서 미국/유럽 등의 수출 및 기술 통제가 가속화되고 있음.",
       "의료나 국방 등 오작동이 치명적인 산업 현장일수록 환각 방지(Safety)와 루프 엔지니어링 신뢰도가 필수적임."
     ],
     "data_points": [
@@ -25,8 +25,8 @@
       "구글(GOOGL)",
       "애플(AAPL)"
     ],
-    "insight": "소프트웨어 AI 역시 하드웨어 반도체와 마찬가지로 '국방/안보 자산'으로 다뤄져 타국 유출 통제가 겹치고 있으며, 보안과 유연성의 적절한 균형점을 찾는 것이 엔터프라이즈 AI 시장 개화의 전제조건이 될 것임.",
-    "action_point": "보안 리스크 관리 및 환각 제어가 중요한 엔터프라이즈 AI 시장에서는 앤스로픽 등 보안 표준 모델 개발사의 규제 준수 수혜 기업에 장기적인 관심을 둠."
+    "insight": "소프트웨어 AI 역시 하드웨어 <span class=\"text-cyan-300 font-semibold\">반도체</span>와 마찬가지로 '국방/안보 자산'으로 다뤄져 타국 <span class=\"text-rose-400 font-medium\">유출</span> 통제가 겹치고 있으며, 보안과 유연성의 적절한 균형점을 찾는 것이 엔터프라이즈 AI 시장 개화의 전제조건이 될 것임.",
+    "action_point": "보안 <span class=\"text-rose-400 font-medium\">리스크</span> 관리 및 환각 제어가 중요한 엔터프라이즈 AI 시장에서는 앤스로픽 등 보안 표준 모델 개발사의 규제 준수 수혜 기업에 장기적인 관심을 둠."
   },
   "classification": {
     "primary_topic": "tech",

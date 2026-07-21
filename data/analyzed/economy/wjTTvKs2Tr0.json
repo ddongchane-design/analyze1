@@ -8,23 +8,23 @@
     "thumbnail": "https://img.youtube.com/vi/wjTTvKs2Tr0/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "이스라엘-이란 군사 갈등의 트럼프 중재로 단기 지정학 불안은 완화되었으나, CPI 발표 경계와 <span class=\"text-rose-400 font-medium\">호르무즈 해협 재개방 병목</span>, 월드컵 일시 고용 착시 현상으로 인해 고금리 고착화 우려가 상존하고 있습니다.",
+    "summary": "이스라엘-<span class=\"text-violet-300 font-medium\">이란</span> 군사 갈등의 트럼프 중재로 단기 지정학 불안은 완화되었으나, CPI 발표 경계와 <span class=\"text-violet-300 font-medium\">호르무즈 해협</span> 재개방 병목, 월드컵 일시 고용 착시 현상으로 인해 <span class=\"text-amber-300 font-bold\">고금리</span> 고착화 우려가 상존하고 있습니다.",
     "key_claims": [
-      "트럼프 대통령이 네타냐후 이스라엘 총리에게 '안 도우면 독자 생존해야 할 것'이라 경고하여 중동 직접 교전은 봉합되었으나, 헤즈볼라와의 국지전 불씨는 여전하다.",
-      "골드만삭스는 미국의 5월 고용 폭증을 월드컵 인프라 준비에 따른 4만 명 규모의 <span class=\"text-amber-300 font-bold\">단기 고용 착시</span>로 규정하며, 6월 이후 고용 둔화를 예측했다.",
-      "호르무즈 해협의 실질 통행 선박 수가 하루 1~2척 수준으로 바닥을 유지하여 하반기 유가 하방 경직성 및 인플레이션 압박이 지속될 전망이다."
+      "트럼프 대통령이 네타냐후 이스라엘 총리에게 '안 도우면 독자 생존해야 할 것'이라 경고하여 <span class=\"text-violet-300 font-medium\">중동</span> 직접 교전은 봉합되었으나, 헤즈볼라와의 국지전 불씨는 여전하다.",
+      "골드만삭스는 미국의 5월 고용 폭증을 월드컵 인프라 준비에 따른 4만 명 규모의 단기 고용 착시로 규정하며, 6월 이후 고용 둔화를 예측했다.",
+      "<span class=\"text-violet-300 font-medium\">호르무즈 해협</span>의 실질 통행 선박 수가 하루 1~2척 수준으로 바닥을 유지하여 하반기 <span class=\"text-amber-300 font-bold\">유가</span> 하방 경직성 및 <span class=\"text-amber-300 font-bold\">인플레이션</span> 압박이 지속될 전망이다."
     ],
     "data_points": [
       "연준의 금리 인상 반영 가능성이 2027년 전 시점 기준으로 50% 돌파",
       "뉴욕 연은의 주택 가격 상승 기대치가 3.5%로 최고치를 경신"
     ],
     "signal": "bearish",
-    "signal_reason": "지정학 직접 타격은 모면했으나 물류 병목 해소가 더디고, 기대 인플레이션의 하방 지탱과 금리 인상 확률 재유입은 주식 밸류에이션에 부담을 줍니다.",
+    "signal_reason": "지정학 직접 타격은 모면했으나 물류 병목 해소가 더디고, 기대 <span class=\"text-amber-300 font-bold\">인플레이션</span>의 하방 지탱과 금리 인상 확률 재유입은 주식 밸류에이션에 부담을 줍니다.",
     "key_companies": [
       "골드만삭스",
       "바클레이스"
     ],
-    "insight": "고용 데이터 내 월드컵 특수와 같은 <span class=\"text-amber-300 font-bold\">단기 구조 왜곡</span>이 해소되는 시차 동안, 4%대 기대 물가 지표와 호르무즈 물류비 폭등이 스태그플레이션 경로의 잠재 리스크를 자극합니다.",
+    "insight": "고용 데이터 내 월드컵 특수와 같은 단기 구조 왜곡이 해소되는 시차 동안, 4%대 기대 물가 지표와 <span class=\"text-violet-300 font-medium\">호르무즈</span> 물류비 폭등이 스태그플레이션 경로의 잠재 <span class=\"text-rose-400 font-medium\">리스크</span>를 자극합니다.",
     "action_point": "차주 CPI 지표 발표를 기점으로 금리 상방 압력이 일시 해소되기 전까지 무분별한 성장주의 고점 매수를 금하고, 가처분 소득 감소 직격탄을 피할 필수 소비재 등으로 헤지 포지션을 강화해야 합니다."
   },
   "classification": {

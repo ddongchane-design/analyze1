@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "bWxWET2_57g",
+    "title": "문샷 AI, Kimi K3 최대 수혜는 메모리?...지정학적 리스크에 지수는 소폭 약세 [월가 뉴스레터]",
+    "published": "2026-07-20T22:08:58+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=bWxWET2_57g",
+    "thumbnail": "https://img.youtube.com/vi/bWxWET2_57g/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "월가 뉴스레터는 뉴욕 증시가 지정학적 <span class=\"text-rose-400 font-medium\">리스크</span>와 알파벳 실적 대기 심리로 소폭 하락했으나 마이크론, <span class=\"text-cyan-300 font-semibold\">브로드컴</span> 등 AI 하드웨어 섹터는 저가 매수 유입으로 반등 마감했다고 전했습니다. 특히 JP모건이 2028년까지의 <span class=\"text-cyan-300 font-semibold\">반도체</span> 공급 부족을 근거로 비중 확대를 권고했고, <span class=\"text-violet-300 font-medium\">중국</span> Kimi K3의 급증하는 연산 부하가 결국 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span>(DDR5, <span class=\"text-cyan-300 font-semibold\">HBM</span>, SSD) 수요를 가속화하는 핵심 동력으로 작용할 것이라는 전망이 지지력을 형성했습니다.",
+    "key_claims": [
+      "뉴욕 증시 하락에도 마이크론(+1.95%), <span class=\"text-cyan-300 font-semibold\">마벨</span>(+3.3%), 루멘텀(+4.47%) 등 AI 하드웨어 및 광통신 섹터는 동반 상승하여 바닥 다지기를 시도했다.",
+      "<span class=\"text-violet-300 font-medium\">중국</span> 스타트업의 Kimi K3 서비스 폭주 및 컴퓨팅 한계 고백은 기술적으로 메모리 성능과 대역폭의 한계 극복을 위해 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span>의 정량적 투입을 대폭 늘려야 함을 뜻한다.",
+      "단, 국내 투자자들에게 아쉬운 점은 미 증시 내 <span class=\"text-cyan-300 font-semibold\">반도체</span> 반등에도 불구하고 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> ADR만 소폭 하락 마감하여 한국 시장의 수급 꼬임 여진이 남아있음을 시사했다."
+    ],
+    "data_points": [
+      "반도체 종목 등락: 마벨 +3.3%, 마이크론 +1.95%, 루멘텀 +4.47% 반등"
+    ],
+    "signal": "positive",
+    "signal_reason": "뉴욕 증시의 AI 하드웨어 밸류체인이 저점 반등 흐름에 안착했고, <span class=\"text-violet-300 font-medium\">중국</span> 초거대 AI 경쟁이 메모리 공급 부족을 장기화시킨다는 구조적 펀더멘탈의 신뢰성이 재확인되었기 때문입니다.",
+    "key_companies": [
+      "SK하이닉스(000660)",
+      "마이크론 테크놀로지(MU)",
+      "마벨 테크놀로지(MRVL)",
+      "Lumentum"
+    ],
+    "insight": "미 증시 <span class=\"text-cyan-300 font-semibold\">반도체</span> 상승에도 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> ADR이 하락한 것은 국내 파생상품(2배 레버리지 ETF) 규제 조치 및 리밸런싱 수급 불균형의 잔재 때문입니다. 이는 주가 펀더멘탈 요인이 아니므로 시간 경과에 따라 글로벌 마이크론 등 동종업계 주가와 동조화되며 해소될 것입니다.",
+    "action_point": "해외 <span class=\"text-cyan-300 font-semibold\">반도체</span> 및 광통신 소부장 섹터의 반등 온기가 국내로 확산될 것을 염두에 두고, 수급 왜곡으로 과<span class=\"text-rose-400 font-medium\">조정</span>된 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 및 <span class=\"text-cyan-300 font-semibold\">삼성전자</span> 본주의 보유 비율을 그대로 유지할 것을 권장합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "반도체저점반등",
+      "KimiK3부하량",
+      "하닉ADR하락",
+      "수급꼬임여진",
+      "반도체쇼티지"
+    ]
+  }
+}

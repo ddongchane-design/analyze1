@@ -8,9 +8,9 @@
     "thumbnail": "https://img.youtube.com/vi/DvHeDx6xYHU/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "1,000만 원이라는 제한된 가용 자산으로 최대의 기대수익률을 내기 위해, 덩치가 크고 HBM 엔비디아 퀄 테스트 완료 시점이 다소 늘어지고 있는 삼성전자 본주 대신, 하이닉스 공급망 내부에서 실질 수주 성과가 폭증하는 고마진 OSAT(후공정 패키징) 및 장비 강소기업에 타겟 투자를 취해야 하는 합리적 전략을 고찰합니다.",
+    "summary": "1,000만 원이라는 제한된 가용 자산으로 최대의 기대수익률을 내기 위해, 덩치가 크고 <span class=\"text-cyan-300 font-semibold\">HBM</span> 엔비디아 퀄 테스트 완료 시점이 다소 늘어지고 있는 <span class=\"text-cyan-300 font-semibold\">삼성전자</span> 본주 대신, 하이닉스 공급망 내부에서 실질 수주 성과가 폭증하는 고마진 OSAT(후공정 패키징) 및 장비 강소기업에 타겟 투자를 취해야 하는 합리적 전략을 고찰합니다.",
     "key_claims": [
-      "삼성전자는 종합 반도체 기업 특성상 파운드리 적자가 메모리 흑자를 희석하여 지수 대비 무거운 탄력성을 보임.",
+      "<span class=\"text-cyan-300 font-semibold\">삼성전자</span>는 종합 <span class=\"text-cyan-300 font-semibold\">반도체</span> 기업 특성상 파운드리 적자가 메모리 흑자를 희석하여 지수 대비 무거운 탄력성을 보임.",
       "반면 하이닉스향 독점 벤더들은 영업이익률 30%를 초과하는 고마진 장비 납품으로 주가 레버리지 효과가 월등함."
     ],
     "data_points": [
@@ -25,7 +25,7 @@
       "Samsung Electronics"
     ],
     "insight": "소액 투자의 핵심은 포트폴리오의 탄력성입니다. 무거운 대형주보다 전방 1등 메모리사의 핵심 병목을 메우는 후공정/OSAT 강소 핵심 벤더에 집중하는 것이 고수익 공식입니다.",
-    "action_point": "반도체 비중 중 삼성전자 단일 비중의 일부를 덜어, 하이닉스/마이크론 향 정밀 HBM TC본더 및 레이저 장비 공급사로 압축 이전합니다."
+    "action_point": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 비중 중 <span class=\"text-cyan-300 font-semibold\">삼성전자</span> 단일 비중의 일부를 덜어, 하이닉스/마이크론 향 정밀 <span class=\"text-cyan-300 font-semibold\">HBM</span> TC본더 및 레이저 장비 공급사로 압축 이전합니다."
   },
   "classification": {
     "primary_topic": "stock",

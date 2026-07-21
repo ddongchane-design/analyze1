@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/_XwrH35IIxM/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "스페이스X의 가치는 현재 PSR 70배 수준으로 AI 피어 그룹에 비해서도 과도하게 고평가되어 있어 <span class=\"text-rose-400 font-medium\">하방 리스크</span>가 큼.\n머스크가 추진하는 <span class=\"text-cyan-300 font-semibold\">우주 데이터 센터</span>는 지상 대비 4배 비싼 운영 단가와 발사 비용으로 인해 2040년경에야 지상 수준의 경제성을 도달할 전망임.\n또한, 월 100만 장 웨이퍼 생산을 목표로 하는 <span class=\"text-cyan-300 font-semibold\">테라팹(Terafab)</span> 반도체 내재화는 실현 불가능한 낙관적 목표에 가까움.",
+    "summary": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 가치는 현재 PSR 70배 수준으로 AI 피어 그룹에 비해서도 과도하게 고평가되어 있어 하방 <span class=\"text-rose-400 font-medium\">리스크</span>가 큼.\n머스크가 추진하는 우주 데이터 센터는 지상 대비 4배 비싼 운영 단가와 발사 비용으로 인해 2040년경에야 지상 수준의 경제성을 도달할 전망임.\n또한, 월 100만 장 웨이퍼 생산을 목표로 하는 테라팹(Terafab) <span class=\"text-cyan-300 font-semibold\">반도체</span> 내재화는 실현 불가능한 낙관적 목표에 가까움.",
     "key_claims": [
-      "스페이스X의 상대 밸류에이션(PSR 70배)은 코어위브(PSR 4배)나 오픈AI(PSR 30배) 등 주요 테크 기업 대비 과도한 <span class=\"text-rose-400 font-medium\">버블 위험</span>이 있음.",
-      "우주 데이터 센터는 높은 발사 단가로 인해 경제적 편익이 낮으며, 단가를 10배 낮춘다 해도 <span class=\"text-rose-400 font-medium\">대규모 자금 유출</span>이 지속될 것임.",
-      "테라팹 건설을 위해서는 ASML의 최신 EUV 장비가 375대 이상 필요한데, 이는 생산 및 예산 장벽상 현실성이 극도로 부족함."
+      "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 상대 밸류에이션(PSR 70배)은 코어위브(PSR 4배)나 오픈AI(PSR 30배) 등 주요 테크 기업 대비 과도한 버블 <span class=\"text-rose-400 font-medium\">위험</span>이 있음.",
+      "우주 데이터 센터는 높은 발사 단가로 인해 경제적 편익이 낮으며, 단가를 10배 낮춘다 해도 대규모 자금 <span class=\"text-rose-400 font-medium\">유출</span>이 지속될 것임.",
+      "테라팹 건설을 위해서는 <span class=\"text-cyan-300 font-semibold\">ASML</span>의 최신 EUV 장비가 375대 이상 필요한데, 이는 생산 및 예산 장벽상 현실성이 극도로 부족함."
     ],
     "data_points": [
       "스페이스X 시가총액 규모: 약 2.1조 달러 (TSMC와 유사)",
@@ -22,13 +22,13 @@
       "스페이스X 전체 타겟 시장(TAM) 내 우주 순수 시장 규모: 370억 달러 (1% 수준)"
     ],
     "signal": "bearish",
-    "signal_reason": "우주 데이터 센터 및 반도체 공장(테라팹) 프로젝트에 향후 수십년간 엄청난 규모의 설비 투자(CapEx)가 필요하며, 현재 밸류에이션이 지나치게 낙관 편향되어 있기 때문입니다.",
+    "signal_reason": "우주 데이터 센터 및 <span class=\"text-cyan-300 font-semibold\">반도체</span> 공장(테라팹) 프로젝트에 향후 수십년간 엄청난 규모의 설비 투자(CapEx)가 필요하며, 현재 밸류에이션이 지나치게 낙관 편향되어 있기 때문입니다.",
     "key_companies": [
       "스페이스X",
       "ASML",
       "TSMC"
     ],
-    "insight": "스페이스X가 진정 노리는 시장은 370억 달러의 우주 발사 시장이 아니라 30경원 규모의 AI 기업용 애플리케이션 시장임. 그러나 AGI 수직 계열화를 위해 시도하는 반도체 제조 및 우주 데이터 센터는 기술/재무적 난이도가 극에 달해 <span class=\"text-rose-400 font-medium\">장기 주주 희석 리스크</span>를 고려해야 함.",
+    "insight": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>가 진정 노리는 시장은 370억 달러의 우주 발사 시장이 아니라 30경원 규모의 AI 기업용 애플리케이션 시장임. 그러나 AGI 수직 계열화를 위해 시도하는 <span class=\"text-cyan-300 font-semibold\">반도체</span> 제조 및 우주 데이터 센터는 기술/재무적 난이도가 극에 달해 장기 주주 희석 <span class=\"text-rose-400 font-medium\">리스크</span>를 고려해야 함.",
     "action_point": "상장 초기 주가 광풍에 휩쓸려 과도한 PSR 구간에서 무리하게 추격 매수하기보다, 장기적인 투자 회수 기간과 설비 투자 부담을 감안하여 보수적 접근을 추천함."
   },
   "classification": {

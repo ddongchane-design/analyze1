@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/ejHArVAYc70/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "1. 뉴욕 증시는 다우 1.87%, 나스닥 1.98% 하락하며 기술주 위주의 급격한 차익 실현과 <span class=\"text-rose-400 font-medium\">스페이스X IPO 수급 분산 우려</span>로 한 달간의 상승분을 반납했습니다.\n2. 5월 미국 CPI는 에너지 상승으로 전년 대비 4.2% 올라 3년 만에 최고를 기록했으나, 변동성이 큰 에너지를 제외한 코어 CPI는 전월 대비 0.2%로 안도감을 주었습니다.\n3. 오라클, TSMC는 양호한 실적을 발표했으나, 슈퍼마이크로컴퓨터(SMCI)의 70억 달러 자금 조달 발표 및 오라클의 유상증자 우려로 주가가 폭락하며 투자 심리가 악화되었습니다.",
+    "summary": "1. 뉴욕 증시는 다우 1.87%, 나스닥 1.98% 하락하며 기술주 위주의 급격한 차익 실현과 <span class=\"text-cyan-300 font-semibold\">스페이스X</span> IPO 수급 분산 우려로 한 달간의 상승분을 반납했습니다.\n2. 5월 미국 CPI는 에너지 상승으로 전년 대비 4.2% 올라 3년 만에 최고를 기록했으나, 변동성이 큰 에너지를 제외한 코어 CPI는 전월 대비 0.2%로 안도감을 주었습니다.\n3. 오라클, <span class=\"text-cyan-300 font-semibold\">TSMC</span>는 양호한 실적을 발표했으나, 슈퍼마이크로컴퓨터(SMCI)의 70억 달러 자금 조달 발표 및 오라클의 유상증자 우려로 주가가 폭락하며 투자 심리가 악화되었습니다.",
     "key_claims": [
-      "이란 보복 공격 등으로 인한 <span class=\"text-amber-300 font-bold\">유가 상승세</span>가 미 CPI 헤드라인을 자극했으나, 속을 들여다보면 실질 구매력 저하에 따른 소비 둔화 조짐이 뚜렷합니다.",
-      "미국 연준(FOMC) 회의를 앞두고 연말 금리 인상론이 대두되는 등 <span class=\"text-rose-400 font-medium\">통화 긴축 우려</span>가 재점화되고 있습니다.",
-      "슈퍼마이크로(SMCI)와 오라클의 대규모 자금 조달(증자) 계획은 빅테크의 AI 설비투자 비용 부담과 <span class=\"text-rose-400 font-medium\">기존 주주가치 희석 우려</span>를 키우고 있습니다."
+      "<span class=\"text-violet-300 font-medium\">이란</span> 보복 공격 등으로 인한 <span class=\"text-amber-300 font-bold\">유가 상승</span>세가 미 CPI 헤드라인을 자극했으나, 속을 들여다보면 실질 구매력 저하에 따른 소비 둔화 조짐이 뚜렷합니다.",
+      "미국 연준(FOMC) 회의를 앞두고 연말 금리 인상론이 대두되는 등 통화 긴축 우려가 재점화되고 있습니다.",
+      "슈퍼마이크로(SMCI)와 오라클의 대규모 자금 조달(증자) 계획은 빅테크의 AI 설비투자 비용 부담과 기존 주주가치 희석 우려를 키우고 있습니다."
     ],
     "data_points": [
       "다우지수 1.87% 하락(49,918.78), 나스닥 1.98% 하락(25,169.05)",
@@ -26,7 +26,7 @@
     ],
     "signal": "bearish",
     "signal_confidence": "medium",
-    "signal_reason": "주요 기업들의 대규모 자금 조달에 따른 지분 희석 우려와 유가 불안에 따른 긴축 경계감이 작용해 기술주 전반에 강력한 매도 압력을 가하고 있습니다.",
+    "signal_reason": "주요 기업들의 대규모 자금 조달에 따른 지분 희석 우려와 <span class=\"text-amber-300 font-bold\">유가</span> 불안에 따른 긴축 경계감이 작용해 기술주 전반에 강력한 매도 압력을 가하고 있습니다.",
     "key_companies": [
       "슈퍼마이크로컴퓨터(SMCI)",
       "오라클(ORCL)",
@@ -34,8 +34,8 @@
       "아마존(AMZN)",
       "엔비디아(NVDA)"
     ],
-    "insight": "최근 기술주 조정의 이면에는 기업들의 AI 인프라 투자(CapEx) 확대에 따른 <span class=\"text-rose-400 font-medium\">자본 희석(유상증자) 리스크</span>와 스페이스X 초대형 IPO 청약을 위한 기관들의 반도체 현금화 압박이 존재합니다. 이는 단순한 펀더멘탈의 훼손보다 단기 수급 교란에 가깝습니다.",
-    "action_point": "유상증자 공시로 낙폭이 과도한 반도체 기기주(SMCI 등)는 당분간 보수적으로 관망하되, 실적 성장이 견고한 <span class=\"text-cyan-300 font-semibold\">대형 기술주 및 파운드리 대장주(TSMC)</span>의 차익 매물 소화 과정을 분할 매수 기회로 포착해야 합니다."
+    "insight": "최근 기술주 <span class=\"text-rose-400 font-medium\">조정</span>의 이면에는 기업들의 AI 인프라 투자(CapEx) 확대에 따른 자본 희석(유상증자) <span class=\"text-rose-400 font-medium\">리스크</span>와 <span class=\"text-cyan-300 font-semibold\">스페이스X</span> 초대형 IPO 청약을 위한 기관들의 <span class=\"text-cyan-300 font-semibold\">반도체</span> 현금화 압박이 존재합니다. 이는 단순한 펀더멘탈의 훼손보다 단기 수급 교란에 가깝습니다.",
+    "action_point": "유상증자 공시로 낙폭이 과도한 <span class=\"text-cyan-300 font-semibold\">반도체</span> 기기주(SMCI 등)는 당분간 보수적으로 관망하되, 실적 성장이 견고한 대형 기술주 및 파운드리 대장주(<span class=\"text-cyan-300 font-semibold\">TSMC</span>)의 차익 매물 소화 과정을 분할 매수 기회로 포착해야 합니다."
   },
   "classification": {
     "primary_topic": "economy",

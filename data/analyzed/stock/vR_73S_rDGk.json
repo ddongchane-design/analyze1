@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/vR_73S_rDGk/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "미국과 이란의 종전 타결로 <span class=\"text-violet-300 font-medium\">유가가 80달러선 아래로 급락</span>하며 금리 불안이 해소된 가운데, 모바일 AP 강자 <span class=\"text-cyan-300 font-semibold\">퀄컴</span>이 AI 칩 설계 스타트업 <span class=\"text-cyan-300 font-semibold\">텐스토렌트</span> 인수를 논의한다는 빅딜 소식이 전해짐. 또한 일본 BOJ의 긴축에도 불구하고 시장 개입 약속에 따라 엔화는 여전히 160엔대 약세를 기록함.",
+    "summary": "미국과 <span class=\"text-violet-300 font-medium\">이란</span>의 종전 타결로 <span class=\"text-amber-300 font-bold\">유가</span>가 80달러선 아래로 <span class=\"text-rose-400 font-medium\">급락</span>하며 금리 불안이 해소된 가운데, 모바일 AP 강자 퀄컴이 AI 칩 설계 스타트업 텐스토렌트 인수를 논의한다는 빅딜 소식이 전해짐. 또한 일본 BOJ의 긴축에도 불구하고 시장 개입 약속에 따라 엔화는 여전히 160엔대 약세를 기록함.",
     "key_claims": [
-      "미-이란 합의에 따른 호르무즈 해협 통행 재개로 에너지발 공급망 병목이 완화되어 국채 금리가 하락 안정화됨.",
+      "미-<span class=\"text-violet-300 font-medium\">이란</span> 합의에 따른 <span class=\"text-violet-300 font-medium\">호르무즈 해협</span> 통행 재개로 에너지발 공급망 병목이 완화되어 국채 금리가 하락 안정화됨.",
       "퀄컴의 텐스토렌트 인수 시도는 온디바이스 AI에서 클라우드/서버용 AI 가속기 시장으로 비즈니스를 리레이팅하겠다는 의도임.",
-      "스페이스X의 2.1조 달러 돌파는 대형 자금이 상장 유니콘의 AI 가치(xAI 연산력 결합)에 부여하는 강력한 기대 멀티플을 증명함."
+      "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 2.1조 달러 돌파는 대형 자금이 상장 유니콘의 AI 가치(xAI 연산력 결합)에 부여하는 강력한 기대 멀티플을 증명함."
     ],
     "data_points": [
       "WTI 및 브랜드유 가격: WTI 77.5달러 (브랜드유 80.5달러로 80달러선 붕괴 시도)",
@@ -21,15 +21,15 @@
     ],
     "signal": "bullish",
     "signal_confidence": "high",
-    "signal_reason": "<span class=\"text-violet-300 font-medium\">국제 유가 급락</span>이 물가 압력을 직접적으로 낮추어 매크로 금리 안정을 이끌고 있고, 퀄컴의 대형 M&A 추진 등 AI 시장의 생태계 확장 모멘텀이 견고하기 때문임.",
+    "signal_reason": "국제 <span class=\"text-amber-300 font-bold\">유가</span> <span class=\"text-rose-400 font-medium\">급락</span>이 물가 압력을 직접적으로 낮추어 매크로 금리 안정을 이끌고 있고, 퀄컴의 대형 M&A 추진 등 AI 시장의 생태계 확장 모멘텀이 견고하기 때문임.",
     "key_companies": [
       "퀄컴(QCOM)",
       "스페이스X",
       "GM",
       "텐스토렌트"
     ],
-    "insight": "퀄컴의 텐스토렌트 인수는 엔비디아가 독점하고 있는 데이터센터 칩 시장에 도전장을 던지는 행보로, 향후 NPU 설계 경쟁이 심화될 것임을 암시함. 지정학 완화로 인한 유가 하락은 제조업 및 IT 기업들의 비용 절감으로 이어져 증시 랠리의 탄탄한 기초가 됨.",
-    "action_point": "유가 하락으로 수혜를 입는 <span class=\"text-cyan-300 font-semibold\">IT 빅테크</span> 및 자사주 매입으로 체력을 다진 <span class=\"text-cyan-300 font-semibold\">GM</span> 등의 비중을 확대하고, 텐스토렌트 지분을 보유하거나 협력 관계에 있는 국내 반도체 디자인하우스 및 관련 소부장 기업들의 동향을 추적할 필요가 있음."
+    "insight": "퀄컴의 텐스토렌트 인수는 엔비디아가 독점하고 있는 데이터센터 칩 시장에 도전장을 던지는 행보로, 향후 NPU 설계 경쟁이 심화될 것임을 암시함. 지정학 완화로 인한 <span class=\"text-amber-300 font-bold\">유가</span> 하락은 제조업 및 IT 기업들의 비용 절감으로 이어져 증시 랠리의 탄탄한 기초가 됨.",
+    "action_point": "<span class=\"text-amber-300 font-bold\">유가</span> 하락으로 수혜를 입는 IT 빅테크 및 자사주 매입으로 체력을 다진 GM 등의 비중을 확대하고, 텐스토렌트 지분을 보유하거나 협력 관계에 있는 국내 <span class=\"text-cyan-300 font-semibold\">반도체</span> 디자인하우스 및 관련 소부장 기업들의 동향을 추적할 필요가 있음."
   },
   "classification": {
     "primary_topic": "stock",

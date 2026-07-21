@@ -1,0 +1,39 @@
+{
+  "video": {
+    "id": "9hVM6IMciLs",
+    "title": "반도체 몰빵 뒤 벌어진 일 AI 스타트업까지 말라간다 #교양이를부탁해",
+    "published": "2026-07-20T23:30:39+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=9hVM6IMciLs",
+    "thumbnail": "https://img.youtube.com/vi/9hVM6IMciLs/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "대한민국 주식 시장의 자금이 <span class=\"text-cyan-300 font-semibold\">반도체</span> 하드웨어(<span class=\"text-cyan-300 font-semibold\">삼성전자</span>·<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>) 대형주로만 극단적으로 몰빵 쏠림 현상을 보이면서, 국내 AI 스타트업과 소프트웨어 생태계가 자금 고사 위기에 직면했습니다. 정부의 코스닥 규제 조치(동전주 퇴출, 300억 원 미만 퇴출 등)가 혁신적인 미래 가치를 지닌 적자 상태의 AI 스타트업들의 신규 자금 조달 창구를 원천 차단하여 IT 생태계 전반의 경쟁력을 좀먹고 있다는 경고가 제기됩니다.",
+    "key_claims": [
+      "<span class=\"text-cyan-300 font-semibold\">반도체</span> 호황의 낙수효과가 아래단에 있는 국내 AI 소프트웨어, 플랫폼, 솔루션 스타트업으로 흘러가지 못하고 <span class=\"text-cyan-300 font-semibold\">반도체</span> 칩셋 제조사 한 축에 묶여 있다.",
+      "재무가 우량하고 영업이익이 나는 우량 기업마저 주가 폭락을 겪는 가운데, 적자 상태에서 기술 스케일업이 필요한 초기 AI 기업들의 투자 유치가 완전 차단되었다.",
+      "금융당국의 코스닥 <span class=\"text-rose-400 font-medium\">부실</span>사 강제 퇴출 규제가 자금 회수 기간이 긴 스타트업들의 시장 연착륙을 가로막아 코스닥 지수의 만성적 하락과 양극화를 유발한다."
+    ],
+    "data_points": [
+      "규제 기준: 시가총액 300억 원 미만 기업의 강제 퇴출 절차 검토 등 규제 강도 증가"
+    ],
+    "signal": "negative",
+    "signal_reason": "하드웨어 쏠림의 장기화로 소프트웨어 생태계의 자금 공급이 중단되었으며, 규제 중심의 금융 정책이 적자 상태의 기술 혁신 스타트업들의 자본 조달 기회를 빼앗아 한국 테크 전반의 기초 체력을 저하시키기 때문입니다.",
+    "key_companies": [],
+    "insight": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 칩만 만드는 나라에는 미래가 없습니다. 칩을 기반으로 작동할 AI 소프트웨어와 알고리즘 생태계가 함께 살아가야(공존) 낙수효과가 온전히 발현되는데, 현재 한국은 금융 규제와 수급 쏠림이 겹쳐 혁신 스타트업을 말라 죽이고 있습니다.",
+    "action_point": "코스닥 적자 기술 상장사나 소형 테크 스타트업들에 대한 투자를 지양하고, 현금 창출력이 확실한 <span class=\"text-cyan-300 font-semibold\">반도체</span> 대형주 중심의 하드웨어 포트폴리오를 주축으로 삼되 국내 소프트웨어 섹터는 보수적인 관점으로 접근해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "반도체과밀쏠림",
+      "소프트웨어고사",
+      "스타트업자금난",
+      "코스닥상장폐지규제",
+      "낙수효과부재"
+    ]
+  }
+}

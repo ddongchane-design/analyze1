@@ -8,25 +8,25 @@
     "thumbnail": "https://img.youtube.com/vi/kHXPohyKArU/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "아시아 국가들이 중동 지정학 리스크를 극복하기 위해 미국과 남미(브라질, 가이아나 등)로 <span class=\"text-amber-300 font-bold\">에너지 소싱 다변화</span>를 꾀하고 있어, 중동의 유가 지배력 약화와 장기 도입 단가 하향 등 정유/화학 원가 개선이 가시화되고 있습니다.",
+    "summary": "아시아 국가들이 <span class=\"text-violet-300 font-medium\">중동</span> 지정학 <span class=\"text-rose-400 font-medium\">리스크</span>를 극복하기 위해 미국과 남미(브라질, 가이아나 등)로 에너지 소싱 다변화를 꾀하고 있어, <span class=\"text-violet-300 font-medium\">중동</span>의 <span class=\"text-amber-300 font-bold\">유가</span> 지배력 약화와 장기 도입 단가 하향 등 정유/화학 원가 개선이 가시화되고 있습니다.",
     "key_claims": [
-      "중동 원유 수입 의존도를 과거 70%에서 50%대로 낮춰 원가 협상력을 확보하고 수급 안정화를 도모하고 있다.",
+      "<span class=\"text-violet-300 font-medium\">중동</span> 원유 수입 의존도를 과거 70%에서 50%대로 낮춰 원가 협상력을 확보하고 수급 안정화를 도모하고 있다.",
       "미국의 셰일 증산 붐이 마감되면서 메이저 오일사들은 남미 가이아나 및 브라질의 대규모 신규 광구 개발에 집중하고 있다.",
-      "종전 시 유가는 80달러선 하향 안정, 대치 장기화 시 150달러 상방 돌파 등 7~8월 중 급격한 유가 방향성 결정이 도래할 것이다."
+      "종전 시 <span class=\"text-amber-300 font-bold\">유가</span>는 80달러선 하향 안정, 대치 장기화 시 150달러 상방 돌파 등 7~8월 중 급격한 <span class=\"text-amber-300 font-bold\">유가</span> 방향성 결정이 도래할 것이다."
     ],
     "data_points": [
       "한국의 중동 원유 도입 비중 변화: 기존 70% -> 최근 50%대로 하락",
       "WTI-두바이유 간 가격 스프레드 역사적 왜곡 해소 징후 확인"
     ],
     "signal": "bullish",
-    "signal_reason": "전통적인 중동 의존 소싱 체제가 붕괴되고 다각화된 서방/남미 공급선이 안착되어 장기 원가 해자를 확보하려는 정유/화학업계에 매우 유리한 환경이 조성됩니다.",
+    "signal_reason": "전통적인 <span class=\"text-violet-300 font-medium\">중동</span> 의존 소싱 체제가 붕괴되고 다각화된 서방/남미 공급선이 안착되어 장기 원가 해자를 확보하려는 정유/화학업계에 매우 유리한 환경이 조성됩니다.",
     "key_companies": [
       "엑손모빌",
       "SK이노베이션",
       "S-Oil"
     ],
-    "insight": "지정학적 리스크가 유발한 소싱 변화는 단기 노이즈를 넘어 아시아 에너지 시장의 중동 독점 지배 구조를 해체하고 남미 신흥 광구(<span class=\"text-cyan-300 font-semibold\">남미 원유 밸류체인</span>)의 주도권을 복원하는 일대 전환점입니다.",
-    "action_point": "중동 불안 장기화에 따른 원가 전가력이 강하고 도입처 다변화 수혜를 직접 입는 대표 정유사와 남미 심해 시출 벨류체인 기업 지분을 장기 모아나가야 합니다."
+    "insight": "지정학적 <span class=\"text-rose-400 font-medium\">리스크</span>가 유발한 소싱 변화는 단기 노이즈를 넘어 아시아 에너지 시장의 <span class=\"text-violet-300 font-medium\">중동</span> 독점 지배 구조를 해체하고 남미 신흥 광구(남미 원유 밸류체인)의 주도권을 복원하는 일대 전환점입니다.",
+    "action_point": "<span class=\"text-violet-300 font-medium\">중동</span> 불안 장기화에 따른 원가 전가력이 강하고 도입처 다변화 수혜를 직접 입는 대표 정유사와 남미 심해 시출 벨류체인 기업 지분을 장기 모아나가야 합니다."
   },
   "classification": {
     "primary_topic": "energy",

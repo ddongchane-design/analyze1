@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/e_FF2UNkWCw/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "트럼프 전 대통령이 이란과의 <span class=\"text-amber-300 font-bold\">극적인 종전 합의</span> 가능성을 언급하면서 뉴욕증시가 급반등하고 코스피 야간선물이 약 8% 급등했습니다.\n미국 5월 근원 PPI가 예상치를 하회하고 실업 청구가 늘어나면서 인플레이션 압력이 일부 완화되었고, <span class=\"text-rose-400 font-medium\">유가와 국채 금리</span>는 하락 전환했습니다.\n<span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 대규모 IPO 청약 자금 환불 및 유동성 복귀도 기술주 전반의 강한 반등을 지지했습니다.",
+    "summary": "트럼프 전 대통령이 <span class=\"text-violet-300 font-medium\">이란</span>과의 극적인 종전 합의 가능성을 언급하면서 뉴욕증시가 급반등하고 코스피 야간선물이 약 8% 급등했습니다.\n미국 5월 근원 PPI가 예상치를 하회하고 실업 청구가 늘어나면서 <span class=\"text-amber-300 font-bold\">인플레이션</span> 압력이 일부 완화되었고, <span class=\"text-amber-300 font-bold\">유가</span>와 국채 금리는 하락 전환했습니다.\n<span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 대규모 IPO 청약 자금 환불 및 유동성 복귀도 기술주 전반의 강한 반등을 지지했습니다.",
     "key_claims": [
       "트럼프의 변덕스러운 지정학적 합의 언급이 시장의 불안을 급격히 해소하며 하락 베팅의 숏커버링을 유발했다.",
       "근원 PPI 둔화와 실업 지표 증가로 연준의 금리 동결 명분이 강화되어 매크로 안정성에 기여했다.",
-      "오라클의 주가 급락은 AI 데이터 센터 확장을 위한 <span class=\"text-rose-400 font-medium\">CAPEX(투자비용) 부담</span>을 부각시켰으나, 이는 시장이 여전히 하드웨어 주도 구조임을 반증한다."
+      "오라클의 주가 <span class=\"text-rose-400 font-medium\">급락</span>은 AI 데이터 센터 확장을 위한 CAPEX(투자비용) 부담을 부각시켰으나, 이는 시장이 여전히 하드웨어 주도 구조임을 반증한다."
     ],
     "data_points": [
       "미국 5월 근원 PPI 0.4% 기록 (예상치 0.5% 하회)",
@@ -21,15 +21,15 @@
       "유럽중앙은행(ECB) 기준금리 25bp 인상 단행"
     ],
     "signal": "bullish",
-    "signal_reason": "트럼프의 이란 타격 취소 및 종전 합의, 유가 및 금리 하락, 근원 PPI 둔화가 겹치며 시장의 <span class=\"text-cyan-300 font-semibold\">위험자산 선호 심리</span>를 강력히 회복시켰습니다.",
+    "signal_reason": "트럼프의 <span class=\"text-violet-300 font-medium\">이란</span> 타격 취소 및 종전 합의, <span class=\"text-amber-300 font-bold\">유가</span> 및 금리 하락, 근원 PPI 둔화가 겹치며 시장의 <span class=\"text-rose-400 font-medium\">위험</span>자산 선호 심리를 강력히 회복시켰습니다.",
     "key_companies": [
       "오라클(ORCL)",
       "스페이스X",
       "마이크론(MU)",
       "샌디스크"
     ],
-    "insight": "지정학적 갈등 봉합과 물가 지표 안정은 단기적으로 강력한 <span class=\"text-cyan-300 font-semibold\">유동성 랠리</span>를 촉발할 수 있습니다. 다만, 유럽중앙은행(ECB)의 물가 우려에 따른 추가 인상 시사와 오라클 사례에서 드러난 AI 투자 비용 부담은 장기적인 밸류에이션 부담 요인으로 잠재되어 있습니다.",
-    "action_point": "단기적인 지수 반등 국면에서 포모(FOMO)에 의한 추격 매수를 자제하고, 청약 환불로 복귀하는 자금이 쏠리는 <span class=\"text-cyan-300 font-semibold\">AI 하드웨어 및 반도체 대장주</span> 위주로 포트폴리오를 다변화해야 합니다."
+    "insight": "지정학적 갈등 봉합과 물가 지표 안정은 단기적으로 강력한 유동성 랠리를 촉발할 수 있습니다. 다만, 유럽중앙은행(ECB)의 물가 우려에 따른 추가 인상 시사와 오라클 사례에서 드러난 AI 투자 비용 부담은 장기적인 밸류에이션 부담 요인으로 잠재되어 있습니다.",
+    "action_point": "단기적인 지수 반등 국면에서 포모(FOMO)에 의한 추격 매수를 자제하고, 청약 환불로 복귀하는 자금이 쏠리는 AI 하드웨어 및 <span class=\"text-cyan-300 font-semibold\">반도체</span> 대장주 위주로 포트폴리오를 다변화해야 합니다."
   },
   "classification": {
     "primary_topic": "economy",

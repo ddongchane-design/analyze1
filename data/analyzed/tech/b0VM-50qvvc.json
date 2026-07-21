@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/b0VM-50qvvc/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "AI 투자 열기가 지속됨에 따라 하드웨어 병목 구간이 GPU/HBM에서 원자력 발전, 패키징 기판(<span class=\"text-cyan-300 font-semibold\">FC-BGA</span>), 그리고 적층 세라믹 커패시터(<span class=\"text-cyan-300 font-semibold\">MLCC</span>)로 확장되고 있습니다. 국내 대형 건설사들은 각국의 인프라 확대에 대응하여 원전 및 복구 재건 수혜를 입을 전망입니다. 또한 IT 부품 업계에서는 고성능 칩 패키징의 기술 난이도가 올라가고 서버당 부품 탑재량이 늘어나는 수혜를 독식하고 있습니다.",
+    "summary": "AI 투자 열기가 지속됨에 따라 하드웨어 병목 구간이 GPU/<span class=\"text-cyan-300 font-semibold\">HBM</span>에서 원자력 발전, 패키징 기판(FC-BGA), 그리고 적층 세라믹 커패시터(MLCC)로 확장되고 있습니다. 국내 대형 건설사들은 각국의 인프라 확대에 대응하여 원전 및 복구 재건 수혜를 입을 전망입니다. 또한 IT 부품 업계에서는 고성능 칩 패키징의 기술 난이도가 올라가고 서버당 부품 탑재량이 늘어나는 수혜를 독식하고 있습니다.",
     "key_claims": [
-      "AI 데이터 센터 전력 증가 문제를 해결하기 위해 미국, 이탈리아 등 글로벌 주요국이 <span class=\"text-cyan-300 font-semibold\">원전 건설 및 규제 법안</span>을 경쟁적으로 통과시키고 있다.",
+      "AI 데이터 센터 전력 증가 문제를 해결하기 위해 미국, 이탈리아 등 글로벌 주요국이 원전 건설 및 규제 법안을 경쟁적으로 통과시키고 있다.",
       "GPU 서버 한 대당 필요한 MLCC와 플립칩 기판(FC-BGA)의 수요가 폭발적으로 증가하면서 IT 부품 섹터에 구조적 병목이 나타나고 있다.",
-      "메모리 통합 경쟁력과 독자 파운드리 4나노 공정을 갖춘 삼성전자는 차세대 HBM4 시장에서 독보적인 <span class=\"text-amber-300 font-bold\">풀스택 시너지</span>를 누릴 것이다."
+      "메모리 통합 경쟁력과 독자 파운드리 4나노 공정을 갖춘 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>는 차세대 <span class=\"text-cyan-300 font-semibold\">HBM</span>4 시장에서 독보적인 풀스택 시너지를 누릴 것이다."
     ],
     "data_points": [
       "AI 데이터 센터 전력 수요 전망: 2025년 기준 약 27,000W에서 2050년 52,000W로 2배 가까이 급증",
@@ -29,7 +29,7 @@
     ],
     "signal": "bullish",
     "signal_confidence": "high",
-    "signal_reason": "AI 인프라 확장이 유발한 <span class=\"text-cyan-300 font-semibold\">전력원 확보(원전)</span> 이슈와 하드웨어 기판/부품의 구조적 공급 부족은 장기적이고 강력한 실적 성장을 보장합니다.",
+    "signal_reason": "AI 인프라 확장이 유발한 전력원 확보(원전) 이슈와 하드웨어 기판/부품의 구조적 공급 부족은 장기적이고 강력한 실적 성장을 보장합니다.",
     "key_companies": [
       "삼성전기(009150)",
       "삼성전자(005930)",
@@ -37,8 +37,8 @@
       "삼성E&A(028050)",
       "LG이노텍(011070)"
     ],
-    "insight": "AI 생태계 투자의 축이 반도체 연산 칩 자체에서 이를 지원하는 기반 인프라인 전력(원전)과 시스템 보드용 부품(<span class=\"text-cyan-300 font-semibold\">FC-BGA</span>, <span class=\"text-cyan-300 font-semibold\">MLCC</span>)의 '이중 병목 해소' 영역으로 넘어가고 있습니다. 이는 단순한 테마가 아닌 중장기 실적 성장이 수반되는 확실한 <span class=\"text-amber-300 font-bold\">수혜 영역 확장</span>을 의미합니다.",
-    "action_point": "이중 병목의 최대 수혜주이자 B2B 빅테크들의 선수금 수주가 예상되는 <span class=\"text-cyan-300 font-semibold\">삼성전기</span>를 중심으로 적극적인 비중 확대 전략을 가져가고, 해외 원전 건설 프로젝트의 실질적인 시공 역량을 갖춘 <span class=\"text-cyan-300 font-semibold\">현대건설</span>과 저평가된 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>를 포트폴리오에 편입하십시오."
+    "insight": "AI 생태계 투자의 축이 <span class=\"text-cyan-300 font-semibold\">반도체</span> 연산 칩 자체에서 이를 지원하는 기반 인프라인 전력(원전)과 시스템 보드용 부품(FC-BGA, MLCC)의 '이중 병목 해소' 영역으로 넘어가고 있습니다. 이는 단순한 테마가 아닌 중장기 실적 성장이 수반되는 확실한 수혜 영역 확장을 의미합니다.",
+    "action_point": "이중 병목의 최대 수혜주이자 B2B 빅테크들의 선수금 수주가 예상되는 삼성전기를 중심으로 적극적인 비중 확대 전략을 가져가고, 해외 원전 건설 프로젝트의 실질적인 시공 역량을 갖춘 현대건설과 저평가된 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>를 포트폴리오에 편입하십시오."
   },
   "classification": {
     "primary_topic": "tech",

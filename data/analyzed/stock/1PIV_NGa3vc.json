@@ -8,26 +8,26 @@
     "thumbnail": "https://img.youtube.com/vi/1PIV_NGa3vc/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "미국 주도의 AI·반도체 동맹 경제 체제인 **팍스 실리카(Pax Silica)**의 지배력(네덜란드 ASML 합류) 속에서도 단기적인 수급 과열 경고가 제기됨. 모건스탠리는 반도체 이익 컨센서스 과열이 과거 은(Silver) 버블 붕괴 직전과 유사한 궤적을 보인다고 경고했으며, 특히 한국 개인 투자자들의 반도체 레버리지 ETF 쏠림 현상이 향후 규제나 연기금 리밸런싱과 맞물릴 때 **글로벌 디레버리징(차익 청산)의 트리거**가 될 수 있음을 지적함.",
+    "summary": "미국 주도의 AI·<span class=\"text-cyan-300 font-semibold\">반도체</span> 동맹 경제 체제인 **팍스 실리카(Pax Silica)**의 지배력(네덜란드 <span class=\"text-cyan-300 font-semibold\">ASML</span> 합류) 속에서도 단기적인 수급 <span class=\"text-rose-400 font-medium\">과열</span> 경고가 제기됨. 모건스탠리는 <span class=\"text-cyan-300 font-semibold\">반도체</span> 이익 컨센서스 <span class=\"text-rose-400 font-medium\">과열</span>이 과거 은(Silver) 버블 붕괴 직전과 유사한 궤적을 보인다고 경고했으며, 특히 한국 개인 투자자들의 <span class=\"text-cyan-300 font-semibold\">반도체</span> 레버리지 ETF 쏠림 현상이 향후 규제나 연기금 리밸런싱과 맞물릴 때 **글로벌 디레버리징(차익 <span class=\"text-rose-400 font-medium\">청산</span>)의 트리거**가 될 수 있음을 지적함.",
     "key_claims": [
-      "미국이 주도하는 반도체 중심 경제 동맹(팍스 실리카)에 네덜란드 ASML과 독일, 벨기에 등이 추가 참여하며 중국 기술 봉쇄 프레임은 장기화되고 있음.",
-      "시장의 실적 눈높이(EPS 전망)가 너무 과도하게 높아진 탓에, 작은 실적 둔화나 매크로 둔화 신호에도 반도체주가 급격한 가격 조정을 겪을 모멘텀 정점 구간에 접근함.",
-      "금감원의 국내 단일 종목 레버리지 ETF 규제 가능성, 국민연금의 7월 국내 주식 리밸런싱 재개, 한국은행의 긴축 스탠스가 한국발 반도체 수급 청산 압력으로 작용할 우려가 있음."
+      "미국이 주도하는 <span class=\"text-cyan-300 font-semibold\">반도체</span> 중심 경제 동맹(팍스 실리카)에 네덜란드 <span class=\"text-cyan-300 font-semibold\">ASML</span>과 독일, 벨기에 등이 추가 참여하며 <span class=\"text-violet-300 font-medium\">중국</span> 기술 봉쇄 프레임은 장기화되고 있음.",
+      "시장의 실적 눈높이(EPS 전망)가 너무 과도하게 높아진 탓에, 작은 실적 둔화나 매크로 둔화 신호에도 <span class=\"text-cyan-300 font-semibold\">반도체</span>주가 급격한 가격 <span class=\"text-rose-400 font-medium\">조정</span>을 겪을 모멘텀 정점 구간에 접근함.",
+      "금감원의 국내 단일 종목 레버리지 ETF 규제 가능성, 국민연금의 7월 국내 주식 리밸런싱 재개, 한국은행의 긴축 스탠스가 한국발 <span class=\"text-cyan-300 font-semibold\">반도체</span> 수급 <span class=\"text-rose-400 font-medium\">청산</span> 압력으로 작용할 우려가 있음."
     ],
     "data_points": [
       "글로벌 반도체 지수 상승률 (올해): 반도체 ETF 2배 상승, 코스피 D램 레버리지 160% 상승",
       "비트코인 규제 선례: 2025년 중반 한국의 가상자산 레버리지 규제 강화 이후 한 달 뒤 글로벌 비트코인 고점 도출 및 급락 발생"
     ],
     "signal": "neutral",
-    "signal_reason": "팍스 실리카 동맹의 중장기 공급망 독점력은 굳건하지만, 극단적으로 과열된 국내 개인 레버리지 ETF의 규제 노이즈 및 연기금의 7월 리밸런싱 물량이 단기 가격 조정을 자극할 위험이 상존하기 때문입니다.",
+    "signal_reason": "팍스 실리카 동맹의 중장기 공급망 독점력은 굳건하지만, 극단적으로 <span class=\"text-rose-400 font-medium\">과열</span>된 국내 개인 레버리지 ETF의 규제 노이즈 및 연기금의 7월 리밸런싱 물량이 단기 가격 <span class=\"text-rose-400 font-medium\">조정</span>을 자극할 <span class=\"text-rose-400 font-medium\">위험</span>이 상존하기 때문입니다.",
     "key_companies": [
       "삼성전자(005930)",
       "SK하이닉스(000660)",
       "ASML",
       "NVIDIA"
     ],
-    "insight": "반도체가 단순 부품을 넘어 안보 자산화(Pax Silica)되는 구조적 가치 제고는 타당하지만, 현재 수급은 한국의 야수적 레버리지 ETF 쏠림으로 멀티플이 선반영된 측면이 큽니다. 금감원의 레버리지 한도 제한 조치 등 정책 노이즈가 발생할 경우 강제 디레버리징에 의해 글로벌 시장 전체로 매도세가 전이되는 나비 효과가 한국에서 촉발될 수 있음을 주의해야 합니다.",
-    "action_point": "구조적 반도체 성장 기조는 홀딩하되, 단기적으로 금융당국의 <span class=\"text-rose-400 font-medium\">레버리지 ETF 규제 조치</span> 및 국민연금의 리밸런싱 수급 변동에 대비하여 과도한 신용 거래는 청산하고 20~30% 수준의 전술적 현금 비중을 유지하는 방어적 스탠스가 필요합니다."
+    "insight": "<span class=\"text-cyan-300 font-semibold\">반도체</span>가 단순 부품을 넘어 안보 자산화(Pax Silica)되는 구조적 가치 제고는 타당하지만, 현재 수급은 한국의 야수적 레버리지 ETF 쏠림으로 멀티플이 선반영된 측면이 큽니다. 금감원의 레버리지 한도 제한 조치 등 정책 노이즈가 발생할 경우 강제 디레버리징에 의해 글로벌 시장 전체로 매도세가 전이되는 나비 효과가 한국에서 촉발될 수 있음을 주의해야 합니다.",
+    "action_point": "구조적 <span class=\"text-cyan-300 font-semibold\">반도체</span> 성장 기조는 홀딩하되, 단기적으로 금융당국의 레버리지 ETF 규제 조치 및 국민연금의 리밸런싱 수급 변동에 대비하여 과도한 신용 거래는 <span class=\"text-rose-400 font-medium\">청산</span>하고 20~30% 수준의 전술적 현금 비중을 유지하는 방어적 스탠스가 필요합니다."
   },
   "classification": {
     "primary_topic": "stock",

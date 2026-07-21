@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/lbsk2pUrqDI/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "6월 26일 한국 증시는 코스피 <span class=\"text-amber-300 font-bold\">5.8% 폭락</span>, 코스닥 4.1% 하락하며 서킷 브레이커와 매도 사이드카가 발동되는 극심한 변동성을 겪음.\n미국의 <span class=\"text-cyan-300 font-semibold\">메모리 반도체 공급 부족</span>에 따른 가격 급등이 애플 등 완제품 기업의 원가 부담과 가격 인상 발표로 이어지며 <span class=\"text-rose-400 font-medium\">칩플레이션 우려</span>가 빅테크 주가를 강타함.\n시장은 고밸류에이션 경계감 속에 <span class=\"text-amber-300 font-bold\">반기말 리밸런싱 수급 요인</span>과 원화 약세가 겹쳐 패닉 셀링이 유발됨.",
+    "summary": "6월 26일 한국 증시는 코스피 5.8% 폭락, 코스닥 4.1% 하락하며 서킷 브레이커와 매도 사이드카가 발동되는 극심한 변동성을 겪음.\n미국의 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span> 공급 부족에 따른 가격 급등이 애플 등 완제품 기업의 원가 부담과 가격 인상 발표로 이어지며 칩플레이션 우려가 빅테크 주가를 강타함.\n시장은 고밸류에이션 경계감 속에 반기말 리밸런싱 수급 요인과 원화 약세가 겹쳐 패닉 셀링이 유발됨.",
     "key_claims": [
-      "<span class=\"text-rose-400 font-medium\">칩플레이션(Chipflation)</span>이 현실화되면서 완제품 하드웨어 제조사(애플 등)의 마진 압박 및 가격 저항 리스크가 증가함.",
-      "반도체 공급 부족과 고단가 유지는 메모리 반도체 기업에는 단기 호재이나, 세트 업체의 <span class=\"text-amber-300 font-bold\">AI 인프라 투자 예산 한계</span>를 자극해 장기 수요 둔화 우려를 낳을 수 있음.",
-      "이번 폭락은 펀더멘탈의 근본적 훼손이라기보다는 <span class=\"text-amber-300 font-bold\">반기말 리밸런싱</span>과 ETF 청산 등이 맞물린 수급 요인이 큼."
+      "칩플레이션(Chipflation)이 현실화되면서 완제품 하드웨어 제조사(애플 등)의 마진 압박 및 가격 저항 <span class=\"text-rose-400 font-medium\">리스크</span>가 증가함.",
+      "<span class=\"text-cyan-300 font-semibold\">반도체</span> 공급 부족과 고단가 유지는 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span> 기업에는 단기 호재이나, 세트 업체의 AI 인프라 투자 예산 한계를 자극해 장기 수요 둔화 우려를 낳을 수 있음.",
+      "이번 폭락은 펀더멘탈의 근본적 훼손이라기보다는 반기말 리밸런싱과 ETF <span class=\"text-rose-400 font-medium\">청산</span> 등이 맞물린 수급 요인이 큼."
     ],
     "data_points": [
       "코스피 지수 5.8% 하락 (8,411선 마감)",
@@ -24,7 +24,7 @@
     ],
     "signal": "neutral",
     "signal_confidence": "medium",
-    "signal_reason": "단기적으로 <span class=\"text-rose-400 font-medium\">칩플레이션 경계감</span>과 리밸런싱 수급으로 지수 변동성이 심화되었으나, 반도체 업계의 <span class=\"text-cyan-300 font-semibold\">슈퍼 사이클 실적 펀더멘탈</span>은 여전히 유효함.",
+    "signal_reason": "단기적으로 칩플레이션 경계감과 리밸런싱 수급으로 지수 변동성이 심화되었으나, <span class=\"text-cyan-300 font-semibold\">반도체</span> 업계의 슈퍼 사이클 실적 펀더멘탈은 여전히 유효함.",
     "key_companies": [
       "Apple(AAPL)",
       "Samsung Electronics(005930)",
@@ -32,8 +32,8 @@
       "Micron Technology(MU)",
       "Microsoft(MSFT)"
     ],
-    "insight": "<span class=\"text-rose-400 font-medium\">칩플레이션</span> 이슈는 단순 반도체 단가 인상을 넘어 완제품 수요 감소 및 빅테크의 <span class=\"text-amber-300 font-bold\">AI 예산 압박</span>으로 이어져 시장 전체에 하방 압력을 가할 수 있음.",
-    "action_point": "단기 급락에 따른 공포 매도보다는 7월 말 예정된 <span class=\"text-cyan-300 font-semibold\">빅테크 실적 발표</span> 및 AI 수익성 증명 여부를 모니터링하며 저가 분할 매수 기회로 삼아야 함."
+    "insight": "칩플레이션 이슈는 단순 <span class=\"text-cyan-300 font-semibold\">반도체</span> 단가 인상을 넘어 완제품 수요 감소 및 빅테크의 AI 예산 압박으로 이어져 시장 전체에 하방 압력을 가할 수 있음.",
+    "action_point": "단기 <span class=\"text-rose-400 font-medium\">급락</span>에 따른 공포 매도보다는 7월 말 예정된 빅테크 실적 발표 및 AI 수익성 증명 여부를 모니터링하며 저가 분할 매수 기회로 삼아야 함."
   },
   "classification": {
     "primary_topic": "economy",

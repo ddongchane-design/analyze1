@@ -8,18 +8,18 @@
     "thumbnail": "https://img.youtube.com/vi/9iz_5OmedDI/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "최근 증시 급락의 핵심 본질은 고용 지표 쇼크가 아닌, AI 하드웨어 쏠림 피로감에 따른 <span class=\"text-amber-300 font-bold\">차익 실현 압력</span>이며, 때맞춰 등장한 초대형 기업 <span class=\"text-cyan-300 font-semibold\">스페이스X</span> 상장이 유동성 이동의 촉매 역할을 했습니다.",
+    "summary": "최근 증시 <span class=\"text-rose-400 font-medium\">급락</span>의 핵심 본질은 고용 지표 쇼크가 아닌, AI 하드웨어 쏠림 피로감에 따른 차익 실현 압력이며, 때맞춰 등장한 초대형 기업 <span class=\"text-cyan-300 font-semibold\">스페이스X</span> 상장이 유동성 이동의 촉매 역할을 했습니다.",
     "key_claims": [
       "고용 지표 세부 분석 시 임금 상승률 둔화 및 레저 업종 단기 고용 급증으로 매크로 기초 체력의 훼손으로 보기는 어렵다.",
-      "브로드컴의 급락은 구글 TPU 수주 호조에 따른 단기 마진 저하 가이던스를 차익 실현 핑계로 삼은 결과다.",
-      "빅테크(메타 등)의 추가 증자 가능성이 거론되면서 고금리 국면 하의 무차별적 AI 설비투자(CAPEX) 속도 조절 우려가 유입되고 있다."
+      "<span class=\"text-cyan-300 font-semibold\">브로드컴</span>의 <span class=\"text-rose-400 font-medium\">급락</span>은 <span class=\"text-cyan-300 font-semibold\">구글</span> TPU 수주 호조에 따른 단기 마진 저하 가이던스를 차익 실현 핑계로 삼은 결과다.",
+      "빅테크(메타 등)의 추가 증자 가능성이 거론되면서 <span class=\"text-amber-300 font-bold\">고금리</span> 국면 하의 무차별적 AI 설비투자(CAPEX) 속도 조절 우려가 유입되고 있다."
     ],
     "data_points": [
       "스페이스X 기업공개(IPO) 조달 목표액: 약 750억 달러",
       "알파벳 증자 규모: 약 850억 달러 (버크셔 매수 참여)"
     ],
     "signal": "bearish",
-    "signal_reason": "단기적인 AI 반도체 쏠림 해소와 함께 스페이스X IPO 등 대형 자금 흡수 블랙홀이 생성되어 반도체 위주 국내 증시의 단기 수급 조정이 불가피합니다.",
+    "signal_reason": "단기적인 <span class=\"text-cyan-300 font-semibold\">AI 반도체</span> 쏠림 해소와 함께 <span class=\"text-cyan-300 font-semibold\">스페이스X</span> IPO 등 대형 자금 흡수 블랙홀이 생성되어 <span class=\"text-cyan-300 font-semibold\">반도체</span> 위주 국내 증시의 단기 수급 <span class=\"text-rose-400 font-medium\">조정</span>이 불가피합니다.",
     "key_companies": [
       "SpaceX",
       "Broadcom",
@@ -27,7 +27,7 @@
       "Alphabet"
     ],
     "insight": "하이퍼스케일러들의 투자 지속에 대한 의구심이 대두되고 있으나, 이는 펀더멘탈의 균열이 아닌 고점 매물 소화 과정이며, 대형 IPO를 위한 시장 내 포트폴리오 비중 리밸런싱 성격이 짙습니다.",
-    "action_point": "일시적 수급 이탈로 과도하게 밀린 코스피 대형 반도체주는 저점 분할 매수하되, 메타 등의 가시적 CAPEX 리스크를 점검하며 보수적으로 포지션을 조율해야 합니다."
+    "action_point": "일시적 수급 이탈로 과도하게 밀린 코스피 대형 <span class=\"text-cyan-300 font-semibold\">반도체</span>주는 저점 분할 매수하되, 메타 등의 가시적 CAPEX <span class=\"text-rose-400 font-medium\">리스크</span>를 점검하며 보수적으로 포지션을 조율해야 합니다."
   },
   "classification": {
     "primary_topic": "stock",

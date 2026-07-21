@@ -8,24 +8,24 @@
     "thumbnail": "https://img.youtube.com/vi/L1EQH-iGkN8/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "국민연금의 국내 주식 비중 조절(오버행) 리스크는 코스피 상승을 제한하는 눌림목 요인이지만, 다주택자 매각 자금 등이 주식 시장으로 흘러드는 <span class=\"text-amber-300 font-bold\">부동산에서 주식으로의 머니 무브</span>가 수급을 지지하고 있음.\n이번 주 목요일 발표되는 <span class=\"text-cyan-300 font-semibold\">마이크론의 실적 가이던스</span>와 PC 지표 결과가 반도체 섹터 및 매크로 변동성의 최대 분수령이 될 것임.\nSK하이닉스의 시가총액 1위 등극 초읽기 국면에서 대형 반도체 쏠림이 가속화되며, 개인의 적극적인 ETF 자금 유입이 지속됨.",
+    "summary": "국민연금의 국내 주식 비중 조절(오버행) <span class=\"text-rose-400 font-medium\">리스크</span>는 코스피 상승을 제한하는 눌림목 요인이지만, 다주택자 매각 자금 등이 주식 시장으로 흘러드는 부동산에서 주식으로의 머니 무브가 수급을 지지하고 있음.\n이번 주 목요일 발표되는 마이크론의 실적 가이던스와 PC 지표 결과가 <span class=\"text-cyan-300 font-semibold\">반도체</span> 섹터 및 매크로 변동성의 최대 분수령이 될 것임.\n<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>의 시가총액 1위 등극 초읽기 국면에서 대형 <span class=\"text-cyan-300 font-semibold\">반도체</span> 쏠림이 가속화되며, 개인의 적극적인 ETF 자금 유입이 지속됨.",
     "key_claims": [
-      "국민연금 오버행 우려가 과장되어 있으나, 연기금은 시장 충격을 주지 않기 위해 장기 분산 매도를 진행하므로 <span class=\"text-rose-400 font-medium\">급락 트리거</span>로 작용하지 않음.",
-      "3~4월 다주택자 매물 매각 잔금이 5~6월에 주식 예탁금 및 ETF 수급으로 유입되는 <span class=\"text-cyan-300 font-semibold\">수급의 선순환 구조</span>가 개인 순매수의 원동력임.",
-      "마이크론 실적 발표에서 시장 전망 가이던스를 대폭 상회하지 못할 경우, 반도체 섹터 전반에 일시적인 <span class=\"text-rose-400 font-medium\">차익실현 수급 쇼크</span>가 나타날 수 있음."
+      "국민연금 오버행 우려가 과장되어 있으나, 연기금은 시장 충격을 주지 않기 위해 장기 분산 매도를 진행하므로 <span class=\"text-rose-400 font-medium\">급락</span> 트리거로 작용하지 않음.",
+      "3~4월 다주택자 매물 매각 잔금이 5~6월에 주식 예탁금 및 ETF 수급으로 유입되는 수급의 선순환 구조가 개인 순매수의 원동력임.",
+      "마이크론 실적 발표에서 시장 전망 가이던스를 대폭 상회하지 못할 경우, <span class=\"text-cyan-300 font-semibold\">반도체</span> 섹터 전반에 일시적인 차익실현 수급 쇼크가 나타날 수 있음."
     ],
     "data_points": [
       "국민연금 국내 주식 보유 목표 한도: 26.8% (현재 추정치 약 30% 수준으로 오버행 우려 잔존)",
       "부동산 시장 내 다주택자 매각 유예 매물 잔금 유입 주기: 거래 후 1~2개월 시차 발생"
     ],
     "signal": "bullish",
-    "signal_reason": "기관 및 연기금의 매도 공포를 상쇄하는 개인 부동산 회수 자금의 주식 시장 유입세가 탄탄하며, 반도체 이익 상향에 따른 펀더멘탈 상승 동력이 유효하기 때문입니다.",
+    "signal_reason": "기관 및 연기금의 매도 공포를 상쇄하는 개인 부동산 회수 자금의 주식 시장 유입세가 탄탄하며, <span class=\"text-cyan-300 font-semibold\">반도체</span> 이익 상향에 따른 펀더멘탈 상승 동력이 유효하기 때문입니다.",
     "key_companies": [
       "SK하이닉스",
       "마이크론"
     ],
-    "insight": "수급적으로 외인과 연기금의 추가 매수 여력이 고갈되었다는 비관론은 부동산 규제 및 세제 정책의 변화로 촉발된 <span class=\"text-cyan-300 font-semibold\">자산 간 유동성 이동</span> 속도를 간과한 것이며, 실적을 동반한 대형 반도체 중심의 포트폴리오 압축은 여전히 최적의 대안입니다.",
-    "action_point": "연기금 오버행 공포로 코스피 지수가 일시 조정받을 때, 부동산 환류 자금의 유입에 수혜를 받는 <span class=\"text-cyan-300 font-semibold\">SK하이닉스 등 반도체 주도주</span>를 저가 매수하고 마이크론 가이던스 발표 직후 비중을 재조정해야 합니다."
+    "insight": "수급적으로 외인과 연기금의 추가 매수 여력이 고갈되었다는 비관론은 부동산 규제 및 세제 정책의 변화로 촉발된 자산 간 유동성 이동 속도를 간과한 것이며, 실적을 동반한 대형 <span class=\"text-cyan-300 font-semibold\">반도체</span> 중심의 포트폴리오 압축은 여전히 최적의 대안입니다.",
+    "action_point": "연기금 오버행 공포로 코스피 지수가 일시 <span class=\"text-rose-400 font-medium\">조정</span>받을 때, 부동산 환류 자금의 유입에 수혜를 받는 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 등 <span class=\"text-cyan-300 font-semibold\">반도체</span> 주도주를 저가 매수하고 마이크론 가이던스 발표 직후 비중을 재<span class=\"text-rose-400 font-medium\">조정</span>해야 합니다."
   },
   "classification": {
     "primary_topic": "stock",

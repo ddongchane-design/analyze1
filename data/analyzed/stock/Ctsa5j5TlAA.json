@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/Ctsa5j5TlAA/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "SK하이닉스 최태원 회장은 AI 반도체 수요가 기하급수적으로 폭발하고 있으며 <span class=\"text-cyan-300 font-semibold\">공급 부족 현상</span>이 지속될 것이라고 밝혔습니다. 곽노정 사장은 2027년이 역사상 최악의 공급 부족 해가 될 것으로 전망했으며, 삼성전자는 용인 클러스터 첫 공장 가동을 2029년으로 앞당기기로 했습니다. 고객사들은 HBM 등 메모리를 5~6배 이상 원하고 있어 과거와 같은 공급 과잉 사이클은 쉽게 오지 않을 전망입니다.",
+    "summary": "<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 최태원 회장은 <span class=\"text-cyan-300 font-semibold\">AI 반도체</span> 수요가 기하급수적으로 폭발하고 있으며 공급 부족 현상이 지속될 것이라고 밝혔습니다. 곽노정 사장은 2027년이 역사상 최악의 공급 부족 해가 될 것으로 전망했으며, <span class=\"text-cyan-300 font-semibold\">삼성전자</span>는 용인 클러스터 첫 공장 가동을 2029년으로 앞당기기로 했습니다. 고객사들은 <span class=\"text-cyan-300 font-semibold\">HBM</span> 등 메모리를 5~6배 이상 원하고 있어 과거와 같은 공급 과잉 사이클은 쉽게 오지 않을 전망입니다.",
     "key_claims": [
-      "반도체 공급 부족은 일시적인 현상이 아니며, 고객사들의 주문량에 근거할 때 <span class=\"text-amber-300 font-bold\">2030년까지 지속될 가능성</span>이 있습니다.",
-      "삼성전자의 용인 1공장 가동이 2029년으로 앞당겨지는 등 국내 기업들이 <span class=\"text-cyan-300 font-semibold\">설비투자(CapEx) 속도전</span>에 진입했습니다.",
-      "SK하이닉스는 단순 제조를 넘어 필요한 만큼 빌려 쓰는 CXL 기반 <span class=\"text-cyan-300 font-semibold\">서비스형 메모리(MaaS)</span>로 비즈니스 모델을 다변화하고 있습니다."
+      "<span class=\"text-cyan-300 font-semibold\">반도체</span> 공급 부족은 일시적인 현상이 아니며, 고객사들의 주문량에 근거할 때 2030년까지 지속될 가능성이 있습니다.",
+      "<span class=\"text-cyan-300 font-semibold\">삼성전자</span>의 용인 1공장 가동이 2029년으로 앞당겨지는 등 국내 기업들이 설비투자(CapEx) 속도전에 진입했습니다.",
+      "<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>는 단순 제조를 넘어 필요한 만큼 빌려 쓰는 CXL 기반 서비스형 메모리(MaaS)로 비즈니스 모델을 다변화하고 있습니다."
     ],
     "data_points": [
       "SK하이닉스 ADR 종가: 공모가 대비 13% 상승한 168달러 마감",
@@ -21,12 +21,12 @@
       "고객사 요구 공급 규모: 현재 생산 능력 계획 대비 대여섯 배 수준의 공급을 희망"
     ],
     "signal": "bullish",
-    "signal_reason": "핵심 고객사의 대규모 장기 계약 체결 및 예상치를 상회하는 폭발적인 수요 데이터가 증명되어 반도체 업황의 장기 호황 가능성이 매우 높기 때문입니다.",
+    "signal_reason": "핵심 고객사의 대규모 장기 계약 체결 및 예상치를 상회하는 폭발적인 수요 데이터가 증명되어 <span class=\"text-cyan-300 font-semibold\">반도체</span> 업황의 장기 호황 가능성이 매우 높기 때문입니다.",
     "key_companies": [
       "SK하이닉스(000660)",
       "삼성전자(005930)"
     ],
-    "insight": "반도체 공급 과잉 사이클의 정석은 설비투자 증가에 따른 하락 전환이었으나, AI 학습량 폭증으로 인한 <span class=\"text-cyan-300 font-semibold\">메모리 부족 현상</span>이 이를 깨고 있습니다. 국내 대기업들이 설비 속도를 당기고 포트폴리오를 다변화하는 것은 시장 장악력을 극대화하기 위한 움직임입니다.",
+    "insight": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 공급 과잉 사이클의 정석은 설비투자 증가에 따른 하락 전환이었으나, AI 학습량 폭증으로 인한 메모리 부족 현상이 이를 깨고 있습니다. 국내 대기업들이 설비 속도를 당기고 포트폴리오를 다변화하는 것은 시장 장악력을 극대화하기 위한 움직임입니다.",
     "action_point": "과거의 공급 과잉 프레임에 갇혀 기술주 비중을 줄이기보다는, 장기 공급 계약 수혜가 확인되는 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 및 용인 가동 일정을 단축한 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>의 비중 확대를 최우선으로 검토해야 합니다."
   },
   "classification": {

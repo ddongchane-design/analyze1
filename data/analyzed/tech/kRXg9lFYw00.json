@@ -8,21 +8,21 @@
     "thumbnail": "https://img.youtube.com/vi/kRXg9lFYw00/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "젠슨 황 Nvidia CEO는 AI 산업의 본질이 토큰을 대량 생산하여 경제적 가치를 창출하는 것이라고 언급함.\n기업들이 자체적인 <span class=\"text-cyan-300 font-semibold\">AI 팩토리</span>를 구축하여 토큰을 생산하는 구조가 안착되고 있음.\n이를 통해 <span class=\"text-cyan-300 font-semibold\">GPU</span>는 단순한 비용 투입 요소가 아닌 지속적으로 수익을 창출하는 장치로 전환될 것임.",
+    "summary": "젠슨 황 Nvidia CEO는 AI 산업의 본질이 토큰을 대량 생산하여 경제적 가치를 창출하는 것이라고 언급함.\n기업들이 자체적인 AI 팩토리를 구축하여 토큰을 생산하는 구조가 안착되고 있음.\n이를 통해 GPU는 단순한 비용 투입 요소가 아닌 지속적으로 수익을 창출하는 장치로 전환될 것임.",
     "key_claims": [
       "토큰은 현대 비즈니스에서 가치와 수익을 측정하고 생성하는 가장 핵심적인 단위임.",
-      "<span class=\"text-cyan-300 font-semibold\">GPU</span> 기반 인프라는 단순 비용이 아니라 디지털 자산을 계속 인쇄해내는 장치로 이해해야 함.",
-      "기업들의 경쟁적인 <span class=\"text-cyan-300 font-semibold\">AI 팩토리</span> 확장이 장기적인 인프라 수요를 자극할 것임."
+      "GPU 기반 인프라는 단순 비용이 아니라 디지털 자산을 계속 인쇄해내는 장치로 이해해야 함.",
+      "기업들의 경쟁적인 AI 팩토리 확장이 장기적인 인프라 수요를 자극할 것임."
     ],
     "data_points": [],
     "signal": "bullish",
     "signal_confidence": "high",
-    "signal_reason": "AI 인프라가 단순 비용에서 고수익 가치 창출 장치로 변모하며 <span class=\"text-cyan-300 font-semibold\">Nvidia</span> 등 밸류체인 전반의 지속 성장을 뒷받침함.",
+    "signal_reason": "AI 인프라가 단순 비용에서 고수익 가치 창출 장치로 변모하며 Nvidia 등 밸류체인 전반의 지속 성장을 뒷받침함.",
     "key_companies": [
       "Nvidia(NVDA)"
     ],
-    "insight": "AI 시대의 컴퓨팅 인프라는 더 이상 단순한 서버나 연산 장치가 아니라, 디지털 자산인 토큰을 찍어내는 핵심 <span class=\"text-amber-300 font-bold\">생산 기지(AI Factory)</span> 역할을 수행하게 됨.",
-    "action_point": "AI 서버 수요 둔화에 대한 우려는 시기상조일 수 있으며, 실질적 수익 모델과 직결된 <span class=\"text-cyan-300 font-semibold\">GPU</span> 핵심 공급 기업에 장기 관점으로 접근해야 함."
+    "insight": "AI 시대의 컴퓨팅 인프라는 더 이상 단순한 서버나 연산 장치가 아니라, 디지털 자산인 토큰을 찍어내는 핵심 생산 기지(AI Factory) 역할을 수행하게 됨.",
+    "action_point": "AI 서버 수요 둔화에 대한 우려는 시기상조일 수 있으며, 실질적 수익 모델과 직결된 GPU 핵심 공급 기업에 장기 관점으로 접근해야 함."
   },
   "classification": {
     "primary_topic": "tech",

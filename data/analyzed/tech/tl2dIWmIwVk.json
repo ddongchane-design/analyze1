@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/tl2dIWmIwVk/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "일본과 대만 현지 밸류체인 실사 결과, 반도체 기판(이비덴) 및 핵심 장비(도쿄 일렉트론 등) 전반에 걸친 <span class=\"text-cyan-300 font-semibold\">거대한 공급 병목</span>이 발생하여 2028년까지 반도체 가격 인상 기조가 장기 연장될 전망임.\n에이전틱 AI 고도화로 인한 연산 지연 방지를 위해 HBM을 넘어 범용 DRAM 및 <span class=\"text-cyan-300 font-semibold\">초고용량 eSSD(낸드)</span>까지 데이터 캐싱 공간 수요가 다변화 폭발하고 있음.\n엔비디아는 AI 캐즘 리스크를 예방하고자 AI 팩토리 및 <span class=\"text-cyan-300 font-semibold\">소버린 AI 기업들</span>에 지분 투자를 집중해 케팩스 수요를 선제적으로 방어 중임.",
+    "summary": "일본과 대만 현지 밸류체인 실사 결과, <span class=\"text-cyan-300 font-semibold\">반도체</span> 기판(이비덴) 및 핵심 장비(도쿄 일렉트론 등) 전반에 걸친 거대한 공급 병목이 발생하여 2028년까지 <span class=\"text-cyan-300 font-semibold\">반도체</span> 가격 인상 기조가 장기 연장될 전망임.\n에이전틱 AI 고도화로 인한 연산 지연 방지를 위해 <span class=\"text-cyan-300 font-semibold\">HBM</span>을 넘어 범용 DRAM 및 초고용량 eSSD(낸드)까지 데이터 캐싱 공간 수요가 다변화 폭발하고 있음.\n엔비디아는 AI 캐즘 <span class=\"text-rose-400 font-medium\">리스크</span>를 예방하고자 AI 팩토리 및 소버린 AI 기업들에 지분 투자를 집중해 케팩스 수요를 선제적으로 방어 중임.",
     "key_claims": [
-      "생산 장비와 부품의 물리적 바틀렉 때문에 메모리 제조사의 팹 증설이 원천 차단되어, 기존의 2026년 반도체 <span class=\"text-rose-400 font-medium\">고점 우려는 기우</span>임이 입증됨.",
-      "에이전틱 AI 가동을 위해 기지국 당 CPU 필요 수량이 4배 증가하는 <span class=\"text-cyan-300 font-semibold\">CPU 전성시대</span>가 개막하며, 이는 서버 D램 수요를 추가 폭증시킴.",
+      "생산 장비와 부품의 물리적 바틀렉 때문에 메모리 제조사의 팹 증설이 원천 차단되어, 기존의 2026년 <span class=\"text-cyan-300 font-semibold\">반도체</span> 고점 우려는 기우임이 입증됨.",
+      "에이전틱 AI 가동을 위해 기지국 당 CPU 필요 수량이 4배 증가하는 CPU 전성시대가 개막하며, 이는 서버 D램 수요를 추가 폭증시킴.",
       "빅테크의 사상 최대 자본 조달(아마존 26조 달러 등) 자금이 모두 데이터센터 고도화에 쓰이므로 하드웨어 쇼티지가 2028년까지 지속됨."
     ],
     "data_points": [
@@ -19,15 +19,15 @@
       "아마존 최근 자금 조달 규모: 26조 달러"
     ],
     "signal": "bullish",
-    "signal_reason": "소부장 장비 및 부품의 극심한 병목으로 공급 과잉 국면 진입이 2028년까지 불가능한 반면, 빅테크의 사상 최대 조달 자금은 HBM/eSSD/기판/CPU 쇼티지를 지속시키기 때문입니다.",
+    "signal_reason": "소부장 장비 및 부품의 극심한 병목으로 공급 과잉 국면 진입이 2028년까지 불가능한 반면, 빅테크의 사상 최대 조달 자금은 <span class=\"text-cyan-300 font-semibold\">HBM</span>/eSSD/기판/CPU 쇼티지를 지속시키기 때문입니다.",
     "key_companies": [
       "TSMC",
       "SK하이닉스",
       "삼성전자",
       "Tokyo Electron"
     ],
-    "insight": "메모리 업종의 영업이익률이 70%를 상회함에도 반도체 장비 부족이 증설을 막아주어, 공급 과잉 사이클 자체가 생략되고 2028년까지 <span class=\"text-cyan-300 font-semibold\">초장기 랠리</span>가 지속되는 구조적 슈퍼사이클로 진화했습니다.",
-    "action_point": "고점 매도 타이밍을 저울질하기보다 2028년까지의 실적 성장을 신뢰하고, 패키징 기판 및 전력 반도체, 그리고 eSSD 공급망인 <span class=\"text-cyan-300 font-semibold\">반도체 후공정(OSAT) 및 소부장 대장주</span> 비중을 극대화해야 합니다."
+    "insight": "메모리 업종의 영업이익률이 70%를 상회함에도 <span class=\"text-cyan-300 font-semibold\">반도체</span> 장비 부족이 증설을 막아주어, 공급 과잉 사이클 자체가 생략되고 2028년까지 초장기 랠리가 지속되는 구조적 슈퍼사이클로 진화했습니다.",
+    "action_point": "고점 매도 타이밍을 저울질하기보다 2028년까지의 실적 성장을 신뢰하고, 패키징 기판 및 전력 <span class=\"text-cyan-300 font-semibold\">반도체</span>, 그리고 eSSD 공급망인 <span class=\"text-cyan-300 font-semibold\">반도체</span> 후공정(OSAT) 및 소부장 대장주 비중을 극대화해야 합니다."
   },
   "classification": {
     "primary_topic": "tech",

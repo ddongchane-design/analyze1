@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/BwprVrbt6Xg/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "중국 반도체 산업이 미 상무부의 장비 제재 속에서 <span class=\"text-cyan-300 font-semibold\">타우 스케일링(3D 패키징)</span> 기술을 통해 EUV 없이 직접도를 극대화하고 있으며, <span class=\"text-violet-300 font-medium\">레거시 공정의 내제화</span>를 가속화하고 있습니다. 또한 맞춤형 HBM 수요 증가에 따른 <span class=\"text-cyan-300 font-semibold\">메모리 파운드리화</span>로의 거대한 업계 변곡점과 이에 대응하는 한국 반도체 생태계의 공동 대응(한국형 IMEC 등) 필요성을 진단합니다.",
+    "summary": "<span class=\"text-violet-300 font-medium\">중국</span> <span class=\"text-cyan-300 font-semibold\">반도체</span> 산업이 미 상무부의 장비 제재 속에서 타우 스케일링(3D 패키징) 기술을 통해 EUV 없이 직접도를 극대화하고 있으며, 레거시 공정의 내제화를 가속화하고 있습니다. 또한 맞춤형 <span class=\"text-cyan-300 font-semibold\">HBM</span> 수요 증가에 따른 메모리 파운드리화로의 거대한 업계 변곡점과 이에 대응하는 한국 <span class=\"text-cyan-300 font-semibold\">반도체</span> 생태계의 공동 대응(한국형 IMEC 등) 필요성을 진단합니다.",
     "key_claims": [
-      "화웨이는 EUV 장비 없이 <span class=\"text-cyan-300 font-semibold\">웨이퍼 본딩(하이브리드 본딩)</span> 및 로직 폴딩 기술을 결합하여 1.4나노급 집적도를 구현하는 우회 전략을 구사하고 있음",
-      "<span class=\"text-violet-300 font-medium\">중국의 레거시 파운드리 시장 잠식</span>이 심화되어 2030년대 초반에는 성숙 공정 칩 시장의 40~50%를 중국이 지배할 가능성이 높으며, 이는 공급망 의존도 심화로 이어짐",
-      "AI 서버용 메모리 병목 현상과 커스텀 HBM 요구 조건 심화로 인해 메모리 반도체의 <span class=\"text-cyan-300 font-semibold\">메모리 파운드리 비즈니스 모델로의 패러다임 전환</span>이 필수적임"
+      "<span class=\"text-cyan-300 font-semibold\">화웨이</span>는 EUV 장비 없이 웨이퍼 본딩(하이브리드 본딩) 및 로직 폴딩 기술을 결합하여 1.4나노급 집적도를 구현하는 우회 전략을 구사하고 있음",
+      "<span class=\"text-violet-300 font-medium\">중국</span>의 레거시 파운드리 시장 잠식이 심화되어 2030년대 초반에는 성숙 공정 칩 시장의 40~50%를 <span class=\"text-violet-300 font-medium\">중국</span>이 지배할 가능성이 높으며, 이는 공급망 의존도 심화로 이어짐",
+      "AI 서버용 메모리 병목 현상과 커스텀 <span class=\"text-cyan-300 font-semibold\">HBM</span> 요구 조건 심화로 인해 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span>의 메모리 파운드리 비즈니스 모델로의 패러다임 전환이 필수적임"
     ],
     "data_points": [
       "중국 SMIC가 연간 파운드리 매출에서 삼성전자를 위협하며 글로벌 2위권 진입",
@@ -21,7 +21,7 @@
       "CXMT 등 중국 메모리 기업의 분기 매출 조 단위 상승에 따른 증설 기회"
     ],
     "signal": "neutral",
-    "signal_reason": "중국의 빠른 기술 추격과 레거시 장악 위협이라는 <span class=\"text-rose-400 font-medium\">장기적 경쟁 심화 우려</span>와 맞춤형 HBM 중심의 슈퍼사이클 수혜라는 <span class=\"text-cyan-300 font-semibold\">단기 호재</span>가 공존하고 있어 중립적 관점이 타당함",
+    "signal_reason": "<span class=\"text-violet-300 font-medium\">중국</span>의 빠른 기술 추격과 레거시 장악 위협이라는 장기적 경쟁 심화 우려와 맞춤형 <span class=\"text-cyan-300 font-semibold\">HBM</span> 중심의 슈퍼사이클 수혜라는 단기 호재가 공존하고 있어 중립적 관점이 타당함",
     "key_companies": [
       "Huawei",
       "SMIC",
@@ -29,8 +29,8 @@
       "Samsung Electronics",
       "SK Hynix"
     ],
-    "insight": "중국은 <span class=\"text-rose-400 font-medium\">미국의 규제</span>를 회피하기 위해 단기 수율 손해를 감수하는 '잇몸 기술(웨이퍼 본딩 등)'과 <span class=\"text-violet-300 font-medium\">레거시 노드 내재화</span>를 무기로 반도체 자립을 추구하고 있으며, 이는 한국의 기술 초격차 수명을 극도로 단축하는 위협 요인입니다.",
-    "action_point": "범용 메모리 시장에서의 <span class=\"text-rose-400 font-medium\">중국산 저가 물량 공세</span>에 대비하고, 마진이 높은 <span class=\"text-cyan-300 font-semibold\">맞춤형 HBM(메모리 파운드리)</span> 및 차세대 패키징 원천 기술을 선점한 대형 반도체 기업 중심으로 압축 투자해야 합니다."
+    "insight": "<span class=\"text-violet-300 font-medium\">중국</span>은 미국의 규제를 회피하기 위해 단기 <span class=\"text-rose-400 font-medium\">수율</span> 손해를 감수하는 '잇몸 기술(웨이퍼 본딩 등)'과 레거시 노드 내재화를 무기로 <span class=\"text-cyan-300 font-semibold\">반도체</span> 자립을 추구하고 있으며, 이는 한국의 기술 초격차 수명을 극도로 단축하는 위협 요인입니다.",
+    "action_point": "범용 메모리 시장에서의 <span class=\"text-violet-300 font-medium\">중국</span>산 저가 물량 공세에 대비하고, 마진이 높은 맞춤형 <span class=\"text-cyan-300 font-semibold\">HBM</span>(메모리 파운드리) 및 차세대 패키징 원천 기술을 선점한 대형 <span class=\"text-cyan-300 font-semibold\">반도체</span> 기업 중심으로 압축 투자해야 합니다."
   },
   "classification": {
     "primary_topic": "tech",

@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/CGEU5Aj6piQ/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "최근 <span class=\"text-cyan-300 font-semibold\">현대차</span> 주가의 일시 조정은 단기 실적 지연 우려와 반도체 ETF 쏠림(레버리지 ETF 수급 빨아들이기)에 따른 상대적 수급 소외에 기인함. 그러나 현대차는 세계 최고의 로봇 기술을 지닌 <span class=\"text-cyan-300 font-semibold\">보스턴 다이내믹스</span>를 보유하고 있어, AI 기술의 최종 집착지인 <span class=\"text-amber-300 font-bold\">피지컬 AI(휴머노이드 로봇)</span> 상용화 단계에서 압도적인 장기 성장 가치를 실현할 것으로 평가됨.",
+    "summary": "최근 <span class=\"text-cyan-300 font-semibold\">현대차</span> 주가의 일시 <span class=\"text-rose-400 font-medium\">조정</span>은 단기 실적 지연 우려와 <span class=\"text-cyan-300 font-semibold\">반도체</span> ETF 쏠림(레버리지 ETF 수급 빨아들이기)에 따른 상대적 수급 소외에 기인함. 그러나 <span class=\"text-cyan-300 font-semibold\">현대차</span>는 세계 최고의 로봇 기술을 지닌 보스턴 다이내믹스를 보유하고 있어, AI 기술의 최종 집착지인 피지컬 AI(휴머노이드 로봇) 상용화 단계에서 압도적인 장기 성장 가치를 실현할 것으로 평가됨.",
     "key_claims": [
-      "최근 주가 하락은 실적 둔화보다는 반도체/빅테크 2배 레버리지 쏠림에 의한 일시적 수급 왜곡(피해) 성격이 강함.",
-      "현대차의 보스턴 다이내믹스 인수는 노조 리스크를 넘어 인공지능과 물리 플랫폼을 결합한 장기 로봇 생태계 포석임."
+      "최근 주가 하락은 실적 둔화보다는 <span class=\"text-cyan-300 font-semibold\">반도체</span>/빅테크 2배 레버리지 쏠림에 의한 일시적 수급 왜곡(피해) 성격이 강함.",
+      "<span class=\"text-cyan-300 font-semibold\">현대차</span>의 보스턴 다이내믹스 인수는 노조 <span class=\"text-rose-400 font-medium\">리스크</span>를 넘어 인공지능과 물리 플랫폼을 결합한 장기 로봇 생태계 포석임."
     ],
     "data_points": [
       "현대차 주가 수준: 단기 전고점 대비 하방 지지선인 50~60선(만원 단위 조율) 부근 횡보"
@@ -23,8 +23,8 @@
       "현대자동차",
       "Boston Dynamics"
     ],
-    "insight": "반도체가 AI 인프라의 마중물이라면 휴머노이드는 AI가 활약할 궁극의 물리적 껍데기임. 보스턴 다이내믹스를 지배하는 현대차는 미래 자율 제조 플랫폼의 최강자로 거듭날 준비를 하고 있음.",
-    "action_point": "반도체 쏠림 장세로 인해 현대차가 동반 하락할 때를 좋은 저점 분할 매수 기회로 보고, 로봇 플랫폼과 <span class=\"text-cyan-300 font-semibold\">자율주행용 핵심 구동기</span> 부품 공급망을 지닌 밸류체인에 관심을 확대함."
+    "insight": "<span class=\"text-cyan-300 font-semibold\">반도체</span>가 AI 인프라의 마중물이라면 휴머노이드는 AI가 활약할 궁극의 물리적 껍데기임. 보스턴 다이내믹스를 지배하는 <span class=\"text-cyan-300 font-semibold\">현대차</span>는 미래 자율 제조 플랫폼의 최강자로 거듭날 준비를 하고 있음.",
+    "action_point": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 쏠림 장세로 인해 <span class=\"text-cyan-300 font-semibold\">현대차</span>가 동반 하락할 때를 좋은 저점 분할 매수 기회로 보고, 로봇 플랫폼과 자율주행용 핵심 구동기 부품 공급망을 지닌 밸류체인에 관심을 확대함."
   },
   "classification": {
     "primary_topic": "stock",

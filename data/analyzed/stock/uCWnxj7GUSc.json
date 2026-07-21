@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/uCWnxj7GUSc/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "삼성전자가 전력과 용수 인프라 및 신재생에너지가 풍부한 호남(광주)에 <span class=\"text-cyan-300 font-semibold\">첨단 반도체 후공정(패키징) 공장</span> 설립을 추진하며, 국내 반도체 밸류체인의 지정학적 다변화와 RE100 대응 속도를 높이고 있습니다.",
+    "summary": "<span class=\"text-cyan-300 font-semibold\">삼성전자</span>가 전력과 용수 인프라 및 신<span class=\"text-amber-300 font-bold\">재생에너지</span>가 풍부한 호남(광주)에 첨단 <span class=\"text-cyan-300 font-semibold\">반도체</span> 후공정(패키징) 공장 설립을 추진하며, 국내 <span class=\"text-cyan-300 font-semibold\">반도체</span> 밸류체인의 지정학적 다변화와 RE100 대응 속도를 높이고 있습니다.",
     "key_claims": [
-      "수도권에 집중된 전공정 라인과 달리, 전력 병목 리스크가 덜하고 풍력·태양광 등 <span class=\"text-amber-300 font-bold\">신재생에너지 인프라</span>가 풍부한 호남권이 차세대 HBM 패키징 공장의 적지로 낙점되었다.",
-      "SK하이닉스 또한 전남권 투자를 검토하고 있어, 용인-청주-호남을 잇는 국내 메모리 제조 <span class=\"text-cyan-300 font-semibold\">컨베이어 벨트 벨류체인</span>이 구축될 것으로 기대된다.",
+      "수도권에 집중된 전공정 라인과 달리, 전력 병목 <span class=\"text-rose-400 font-medium\">리스크</span>가 덜하고 풍력·태양광 등 신<span class=\"text-amber-300 font-bold\">재생에너지</span> 인프라가 풍부한 호남권이 차세대 <span class=\"text-cyan-300 font-semibold\">HBM</span> 패키징 공장의 적지로 낙점되었다.",
+      "<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 또한 전남권 투자를 검토하고 있어, 용인-청주-호남을 잇는 국내 메모리 제조 컨베이어 벨트 벨류체인이 구축될 것으로 기대된다.",
       "조선 업종은 LNG선 등 고부가가치 선박 수주 호조로 상반기 만에 연간 수주 목표의 60% 이상을 달성하며 강력한 실적 가시성을 뽐내고 있다."
     ],
     "data_points": [
@@ -19,15 +19,15 @@
       "HD한국조선해양 연간 수주 목표의 61.8% 달성, 삼성중공업 수주 목표의 70% 수준 달성"
     ],
     "signal": "bullish",
-    "signal_reason": "전력 수급 한계에 달한 수도권을 벗어나 신재생에너지 배후지를 확보하려는 반도체 대기업들의 투자가 국내 공급망의 고질적인 전력 병목을 해결하고 장기 지속가능성을 보장하는 호재입니다.",
+    "signal_reason": "전력 수급 한계에 달한 수도권을 벗어나 신<span class=\"text-amber-300 font-bold\">재생에너지</span> 배후지를 확보하려는 <span class=\"text-cyan-300 font-semibold\">반도체</span> 대기업들의 투자가 국내 공급망의 고질적인 전력 병목을 해결하고 장기 지속가능성을 보장하는 호재입니다.",
     "key_companies": [
       "삼성전자",
       "SK하이닉스",
       "HD한국조선해양",
       "삼성중공업"
     ],
-    "insight": "첨단 HBM 패키징 공장의 전력 소모량이 급증함에 따라 미래 반도체 패키징 경쟁력은 미세 공정뿐만 아니라 <span class=\"text-amber-300 font-bold\">친환경 에너지 및 전력 그리드 확보 능력</span>에서 갈리게 될 것입니다.",
-    "action_point": "광주·전남 지역 반도체 클러스터 가동 시 수혜를 입을 수 있는 지방 기반의 소부장 협력사와, 상반기 수주 잭팟으로 실적 턴어라운드가 보장된 조선 대장주에 분할 매수로 접근하기 적절합니다."
+    "insight": "첨단 <span class=\"text-cyan-300 font-semibold\">HBM</span> 패키징 공장의 전력 소모량이 급증함에 따라 미래 <span class=\"text-cyan-300 font-semibold\">반도체</span> 패키징 경쟁력은 미세 공정뿐만 아니라 친환경 에너지 및 전력 그리드 확보 능력에서 갈리게 될 것입니다.",
+    "action_point": "광주·전남 지역 <span class=\"text-cyan-300 font-semibold\">반도체</span> 클러스터 가동 시 수혜를 입을 수 있는 지방 기반의 소부장 협력사와, 상반기 수주 잭팟으로 실적 턴어라운드가 보장된 조선 대장주에 분할 매수로 접근하기 적절합니다."
   },
   "classification": {
     "primary_topic": "stock",

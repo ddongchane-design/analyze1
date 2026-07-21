@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/-LZk3YBX1wc/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "미국 가전 시장은 <span class=\"text-amber-300 font-bold\">고금리 지속</span>과 주택 거래 둔화로 가전 교체 수요가 얼어붙는 퍼펙트 스톰을 맞이하고 있습니다. 이에 대응해 <span class=\"text-cyan-300 font-semibold\">LG전자</span>는 테네시 스마트 팩토리의 자동화율을 60%까지 끌어올리며 생산 효율성을 극대화하고 있습니다. 나아가 단순 가전 제조를 넘어 자동화 공정 자체를 B2B 상품으로 판매하는 비즈니스 모델 다각화를 추진 중입니다.",
+    "summary": "미국 가전 시장은 <span class=\"text-amber-300 font-bold\">고금리</span> 지속과 주택 거래 둔화로 가전 교체 수요가 얼어붙는 퍼펙트 스톰을 맞이하고 있습니다. 이에 대응해 LG전자는 테네시 스마트 팩토리의 자동화율을 60%까지 끌어올리며 생산 효율성을 극대화하고 있습니다. 나아가 단순 가전 제조를 넘어 자동화 공정 자체를 B2B 상품으로 판매하는 비즈니스 모델 다각화를 추진 중입니다.",
     "key_claims": [
-      "미국 가전 시장의 불황은 단순한 일시적 현상이 아니며, <span class=\"text-rose-400 font-medium\">고금리 장기화</span>에 따른 부동산 시장 침체와 직결되어 있다.",
-      "높은 인건비와 숙련공 부족 문제를 극복하기 위해 <span class=\"text-cyan-300 font-semibold\">로봇</span> 및 <span class=\"text-cyan-300 font-semibold\">디지털 트윈</span> 기반의 스마트 팩토리 도입이 생존의 열쇠이다.",
+      "미국 가전 시장의 불황은 단순한 일시적 현상이 아니며, <span class=\"text-amber-300 font-bold\">고금리 장기화</span>에 따른 부동산 시장 침체와 직결되어 있다.",
+      "높은 인건비와 숙련공 부족 문제를 극복하기 위해 로봇 및 디지털 트윈 기반의 스마트 팩토리 도입이 생존의 열쇠이다.",
       "한국 기업들은 단순 하드웨어 제조에서 탈피하여 플랫폼(webOS) 및 B2B 제조 솔루션 판매 기업으로 체질을 개선하고 있다."
     ],
     "data_points": [
@@ -29,15 +29,15 @@
     ],
     "signal": "bullish",
     "signal_confidence": "high",
-    "signal_reason": "전체 미국 가전 시장의 침체 속에서도 <span class=\"text-cyan-300 font-semibold\">LG전자</span>는 압도적인 품질 경쟁력과 스마트 팩토리 기술을 무기로 프리미엄 점유율을 지키고 있으며, B2B 솔루션 및 플랫폼 기업으로의 <span class=\"text-amber-300 font-bold\">체질 개선</span>에 성공하여 신용등급 상향을 이끌어냈습니다.",
+    "signal_reason": "전체 미국 가전 시장의 침체 속에서도 LG전자는 압도적인 품질 경쟁력과 스마트 팩토리 기술을 무기로 프리미엄 점유율을 지키고 있으며, B2B 솔루션 및 플랫폼 기업으로의 체질 개선에 성공하여 신용등급 상향을 이끌어냈습니다.",
     "key_companies": [
       "LG전자",
       "Whirlpool",
       "GE Appliances",
       "Nvidia(NVDA)"
     ],
-    "insight": "가전 시장의 성장이 정체되고 <span class=\"text-rose-400 font-medium\">비용 상승 압박</span>이 거세지는 시기에, 공장 자동화 노하우 자체를 B2B 상품화하는 '스마트 팩토리 솔루션' 비즈니스는 전통 제조업의 한계를 극복하는 혁신적인 돌파구입니다. 이는 글로벌 제조 기업들이 직면한 <span class=\"text-violet-300 font-medium\">공급망 재편</span> 및 고임금 리스크를 해결하는 핵심 기술이 될 것입니다.",
-    "action_point": "가전 소비재 섹터 내에서 실적 악화가 지속되는 <span class=\"text-rose-400 font-medium\">Whirlpool</span> 등 전통 하드웨어 기업은 비중을 축소하고, 스마트 팩토리와 로봇/AI 솔루션 등 B2B 신사업 가치가 부각되는 <span class=\"text-cyan-300 font-semibold\">LG전자</span>에 대해 중장기 관점의 매수 접근이 유효합니다."
+    "insight": "가전 시장의 성장이 정체되고 비용 상승 압박이 거세지는 시기에, 공장 자동화 노하우 자체를 B2B 상품화하는 '스마트 팩토리 솔루션' 비즈니스는 전통 제조업의 한계를 극복하는 혁신적인 돌파구입니다. 이는 글로벌 제조 기업들이 직면한 공급망 재편 및 고임금 <span class=\"text-rose-400 font-medium\">리스크</span>를 해결하는 핵심 기술이 될 것입니다.",
+    "action_point": "가전 소비재 섹터 내에서 실적 악화가 지속되는 Whirlpool 등 전통 하드웨어 기업은 비중을 축소하고, 스마트 팩토리와 로봇/AI 솔루션 등 B2B 신사업 가치가 부각되는 LG전자에 대해 중장기 관점의 매수 접근이 유효합니다."
   },
   "classification": {
     "primary_topic": "robot",

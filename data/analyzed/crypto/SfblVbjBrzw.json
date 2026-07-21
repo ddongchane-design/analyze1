@@ -8,25 +8,25 @@
     "thumbnail": "https://img.youtube.com/vi/SfblVbjBrzw/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "마이크로스트레티지(MSTR)가 배당금 재원 확보를 위해 3,588개의 비트코인을 장내 매각했다는 소식이 크립토에 미치는 영향과, 스페이스X의 7월 7일 나스닥100 편입 및 마이클 버리의 마이크론 숏 포지션 공개 파장을 해부함.",
+    "summary": "마이크로스트레티지(MSTR)가 배당금 재원 확보를 위해 3,588개의 비트코인을 장내 매각했다는 소식이 크립토에 미치는 영향과, <span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 7월 7일 나스닥100 편입 및 마이클 버리의 마이크론 숏 포지션 공개 파장을 해부함.",
     "key_claims": [
       "MSTR의 대규모 비트코인 분할 매각 개시는 비트코인 시장 내 최대 고래(MSTR)마저 유동성 필요 시 매도자로 돌변할 수 있다는 심리적 붕괴(투매 우려)를 자극함.",
-      "스페이스X(SpaceX)가 비상장 자산 단계에서 7월 7일부로 나스닥100 지수에 사상 최초로 강제 편입되어 글로벌 메이저 패시브 자금의 직접적 지분 인수 붐이 일어날 것임.",
-      "빅쇼트의 마이클 버리가 마이크론(Micron)에 대해 인공지능 인프라 투자 과열을 근거로 대규모 숏 포지션을 구축하여 개인 투자자들의 추격 매수를 제어함."
+      "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>(SpaceX)가 비상장 자산 단계에서 7월 7일부로 나스닥100 지수에 사상 최초로 강제 편입되어 글로벌 메이저 패시브 자금의 직접적 지분 인수 붐이 일어날 것임.",
+      "빅쇼트의 마이클 버리가 마이크론(Micron)에 대해 인공지능 인프라 투자 <span class=\"text-rose-400 font-medium\">과열</span>을 근거로 대규모 숏 포지션을 구축하여 개인 투자자들의 추격 매수를 제어함."
     ],
     "data_points": [
       "MSTR 비트코인 매각량: 총 3,588 BTC 매각 실행",
       "스페이스X 편입 일정: 2026년 7월 7일 나스닥100 정식 편입 발효"
     ],
     "signal": "neutral",
-    "signal_reason": "스페이스X의 지수 편입 및 미 우주 패권 유동성 강화는 극도 호재이나, MSTR의 비트코인 매도 개시와 마이클 버리의 마이크론 숏 플레이가 단기 자산 단가 변동성을 극대화하기 때문입니다.",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 지수 편입 및 미 우주 패권 유동성 강화는 극도 호재이나, MSTR의 비트코인 매도 개시와 마이클 버리의 마이크론 숏 플레이가 단기 자산 단가 변동성을 극대화하기 때문입니다.",
     "key_companies": [
       "MicroStrategy",
       "SpaceX",
       "Micron Technology"
     ],
-    "insight": "MSTR의 비트코인 매각은 장기 청산이 아닌 <span class=\"text-cyan-300 font-semibold\">의무 배당금 유동성 확보</span> 목적의 일회성 블록딜 형태입니다. 한편, 스페이스X의 나스닥100 편입은 민간 우주 자본 규모를 획기적으로 팽창시키는 역사적 사건입니다.",
-    "action_point": "마이크론의 단기 숏 플레이에 동요하지 말고 지분을 수성하는 한편, 스페이스X 수혜를 직접 입는 국내 위성 체인 및 HBM 밸류체인 비중을 조율합니다."
+    "insight": "MSTR의 비트코인 매각은 장기 <span class=\"text-rose-400 font-medium\">청산</span>이 아닌 의무 배당금 유동성 확보 목적의 일회성 블록딜 형태입니다. 한편, <span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 나스닥100 편입은 민간 우주 자본 규모를 획기적으로 팽창시키는 역사적 사건입니다.",
+    "action_point": "마이크론의 단기 숏 플레이에 동요하지 말고 지분을 수성하는 한편, <span class=\"text-cyan-300 font-semibold\">스페이스X</span> 수혜를 직접 입는 국내 위성 체인 및 <span class=\"text-cyan-300 font-semibold\">HBM</span> 밸류체인 비중을 조율합니다."
   },
   "classification": {
     "primary_topic": "crypto",

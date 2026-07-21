@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/TsfT4KgxMP8/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "어제 폭락했던 국내 증시가 코스피 8%대, 코스닥 6%대 급등하며 <span class=\"text-amber-300 font-bold\">8천피 선을 단숨에 회복</span>했으나, 장 후반 외국인의 선물 매도 전환 등 <span class=\"text-rose-400 font-medium\">단기 수급 불안</span>이 남아 있어 CPI 발표를 앞둔 추격 매수에는 주의가 필요합니다.",
+    "summary": "어제 폭락했던 국내 증시가 코스피 8%대, 코스닥 6%대 급등하며 8천피 선을 단숨에 회복했으나, 장 후반 외국인의 선물 매도 전환 등 단기 수급 불안이 남아 있어 CPI 발표를 앞둔 추격 매수에는 주의가 필요합니다.",
     "key_claims": [
-      "전날의 과도한 중동 지정학적 우려와 투매에 따른 <span class=\"text-rose-400 font-medium\">낙폭 과대 해소</span> 국면으로 주식 시장이 제자리를 찾는 급반등이 연출되었다.",
-      "반도체 펀더멘탈은 대만 소부장 공급망 실적 호조에서 보듯 여전히 견조하며, 마이크론의 반등에 연동하여 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>가 15% 이상 폭등했다.",
-      "바이오 섹터도 펀더멘탈 문제보다는 수급 공백으로 급락했었기에 강한 기술적 반등을 보였으나, 젠슨 황 출국 이후 <span class=\"text-cyan-300 font-semibold\">LG전자</span>와 <span class=\"text-cyan-300 font-semibold\">네이버</span> 등은 하락하는 쏠림이 지속되었다."
+      "전날의 과도한 <span class=\"text-violet-300 font-medium\">중동</span> 지정학적 우려와 투매에 따른 낙폭 과대 해소 국면으로 주식 시장이 제자리를 찾는 급반등이 연출되었다.",
+      "<span class=\"text-cyan-300 font-semibold\">반도체</span> 펀더멘탈은 대만 소부장 공급망 실적 호조에서 보듯 여전히 견조하며, 마이크론의 반등에 연동하여 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>가 15% 이상 폭등했다.",
+      "바이오 섹터도 펀더멘탈 문제보다는 수급 공백으로 <span class=\"text-rose-400 font-medium\">급락</span>했었기에 강한 기술적 반등을 보였으나, 젠슨 황 출국 이후 LG전자와 네이버 등은 하락하는 쏠림이 지속되었다."
     ],
     "data_points": [
       "코스피 지수 8.18% 상승한 8,096선 마감, 코스닥 지수 6.19% 상승한 967선 마감",
@@ -28,8 +28,8 @@
       "네이버",
       "삼성전기"
     ],
-    "insight": "젠슨 황의 방한 효과 소멸과 바클레이즈의 <span class=\"text-rose-400 font-medium\">피지컬 AI 구현 지연 경고</span>로 인해 로봇 및 관련 IT 대형주들이 일시 조정을 겪는 등, 주도주 내에서도 수급과 단기 멀티플에 따른 차별화가 진행되고 있습니다.",
-    "action_point": "매크로 및 지정학 리스크가 완전히 해소된 것은 아니므로, 단기 급등 시 FOMO에 의한 추격 매수를 지양하고 실적이 검증된 반도체 소부장과 낙폭 과대 바이오 우량주로 압축하는 <span class=\"text-amber-300 font-bold\">포트폴리오 교체 전략</span>이 요구됩니다."
+    "insight": "젠슨 황의 방한 효과 소멸과 바클레이즈의 피지컬 AI 구현 지연 경고로 인해 로봇 및 관련 IT 대형주들이 일시 <span class=\"text-rose-400 font-medium\">조정</span>을 겪는 등, 주도주 내에서도 수급과 단기 멀티플에 따른 차별화가 진행되고 있습니다.",
+    "action_point": "매크로 및 지정학 <span class=\"text-rose-400 font-medium\">리스크</span>가 완전히 해소된 것은 아니므로, 단기 급등 시 FOMO에 의한 추격 매수를 지양하고 실적이 검증된 <span class=\"text-cyan-300 font-semibold\">반도체</span> 소부장과 낙폭 과대 바이오 우량주로 압축하는 포트폴리오 교체 전략이 요구됩니다."
   },
   "classification": {
     "primary_topic": "stock",

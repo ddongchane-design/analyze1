@@ -8,18 +8,18 @@
     "thumbnail": "https://img.youtube.com/vi/5GK-YDhUql8/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "오픈AI의 비공개 상장 서류 제출을 통한 2028년 AI의 자가 연구 시대(AIG 시대) 진입 로드맵 제시와, 미국 의회의 TSMC의 중국 우회 AI 칩 생산 차단 압박 및 초거대 데이터센터 가동을 위한 전력/냉각 난제(텍사스 스타게이트 전력 흔들림 결렬 등)를 심층 분석합니다.",
+    "summary": "오픈AI의 비공개 상장 서류 제출을 통한 2028년 AI의 자가 연구 시대(AIG 시대) 진입 로드맵 제시와, 미국 의회의 <span class=\"text-cyan-300 font-semibold\">TSMC</span>의 <span class=\"text-violet-300 font-medium\">중국</span> 우회 AI 칩 생산 차단 압박 및 초거대 데이터센터 가동을 위한 전력/냉각 난제(텍사스 스타게이트 전력 흔들림 결렬 등)를 심층 분석합니다.",
     "key_claims": [
       "오픈AI는 2028년 3월까지 AI 시스템이 스스로 후속 인공지능을 설계/연구하는 고도화 고리 완성을 목표로 설정하고 IPO 자금 유치에 나섰다.",
-      "미국 상원은 중국의 우회 접근을 통제하기 위해 TSMC가 중국 내 해외 자회사용 AI 반도체를 수탁 생산하지 못하도록 <span class=\"text-rose-400 font-medium\">동맹국 기술 유출 차단 압박</span>을 가하고 있다.",
-      "백조 원 규모의 스타게이트 프로젝트는 텍사스 아웃백 한파 시 액체 냉각 장치 오작동 및 <span class=\"text-rose-400 font-medium\">급격한 전력 주파수 왜곡 난제</span>로 오라클과의 확장 협상이 결렬되는 인프라 한계를 직면했다."
+      "미국 상원은 <span class=\"text-violet-300 font-medium\">중국</span>의 우회 접근을 통제하기 위해 <span class=\"text-cyan-300 font-semibold\">TSMC</span>가 <span class=\"text-violet-300 font-medium\">중국</span> 내 해외 자회사용 <span class=\"text-cyan-300 font-semibold\">AI 반도체</span>를 수탁 생산하지 못하도록 동맹국 기술 <span class=\"text-rose-400 font-medium\">유출</span> 차단 압박을 가하고 있다.",
+      "백조 원 규모의 스타게이트 프로젝트는 텍사스 아웃백 한파 시 액체 냉각 장치 오작동 및 급격한 전력 주파수 왜곡 난제로 오라클과의 확장 협상이 결렬되는 인프라 한계를 직면했다."
     ],
     "data_points": [
       "오픈AI의 자가 발전 AI 도달 목표 시점: 2028년 3월 선언",
       "미국 3대 지수가 실적 장세를 토대로 변동성 완화 및 상승 복원세 유지"
     ],
     "signal": "bullish",
-    "signal_reason": "전력 수급 및 지정학적 생산 기지 규제 등 단기적 마찰음이 크나, 오픈AI 및 엔트로픽의 상장 로드쇼 흥행과 빅테크들의 인프라 추가 투자는 반도체 하드웨어 업계의 성장 장기화를 강하게 신뢰하게 합니다.",
+    "signal_reason": "전력 수급 및 지정학적 생산 기지 규제 등 단기적 마찰음이 크나, 오픈AI 및 엔트로픽의 상장 로드쇼 흥행과 빅테크들의 인프라 추가 투자는 <span class=\"text-cyan-300 font-semibold\">반도체</span> 하드웨어 업계의 성장 장기화를 강하게 신뢰하게 합니다.",
     "key_companies": [
       "OpenAI",
       "TSMC",
@@ -27,8 +27,8 @@
       "Oracle",
       "ASML"
     ],
-    "insight": "AI의 핵심 병목은 이제 순수 알고리즘이 아니며, 초거대 연산 개시와 종료 시 발생하는 전력 주파수 흔들림을 상쇄하는 전원 공급 안정망과 <span class=\"text-cyan-300 font-semibold\">원자력 등 상시 인프라</span> 확보가 진정한 패권의 핵심 해자입니다.",
-    "action_point": "데이터센터 분산 가동과 관련하여 전력 주파수 변동 제어가 가능한 고스펙 전력 기기 부품사 및 비중국 밸류체인 장비 대장주의 비중 유지를 강력히 추천합니다."
+    "insight": "AI의 핵심 병목은 이제 순수 알고리즘이 아니며, 초거대 연산 개시와 종료 시 발생하는 전력 주파수 흔들림을 상쇄하는 전원 공급 안정망과 원자력 등 상시 인프라 확보가 진정한 패권의 핵심 해자입니다.",
+    "action_point": "데이터센터 분산 가동과 관련하여 전력 주파수 변동 제어가 가능한 고스펙 전력 기기 부품사 및 비<span class=\"text-violet-300 font-medium\">중국</span> 밸류체인 장비 대장주의 비중 유지를 강력히 추천합니다."
   },
   "classification": {
     "primary_topic": "stock",

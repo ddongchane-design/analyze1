@@ -1,0 +1,40 @@
+{
+  "video": {
+    "id": "dpK5W8XFat4",
+    "title": "미국 프로젝트는 1.7%인데... 한국은 GDP 2배를 태운다고? #교양이를부탁해",
+    "published": "2026-07-20T23:00:39+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=dpK5W8XFat4",
+    "thumbnail": "https://img.youtube.com/vi/dpK5W8XFat4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국의 초대형 AI 인프라 프로젝트인 '스타게이트(5,000억 달러)'는 미국 GDP의 1.7% 수준인 반면, 대한민국이 공표한 <span class=\"text-cyan-300 font-semibold\">반도체</span> 및 인프라 투자 계획(5,000조 원 상당)은 국가 GDP의 2배에 달해 무리한 과밀 투자가 실패할 경우 돌이킬 수 없는 국가적 <span class=\"text-rose-400 font-medium\">리스크</span>를 초래할 수 있습니다. 자본이 <span class=\"text-cyan-300 font-semibold\">반도체</span> 하드웨어에 비정상적으로 집중되면서 시장 유동성이 마르고 금리 상승 압력으로 작용해 저성장·<span class=\"text-amber-300 font-bold\">고금리</span> 고착화 우려를 가중시키고 있습니다.",
+    "key_claims": [
+      "미국의 스타게이트 프로젝트는 실패해도 체력이 유지되는 GDP 1.7% 수준의 지출이나, 한국의 5,000조 원대 장기 인프라 계획은 GDP의 2배를 초과하는 극단적 베팅이다.",
+      "자금이 <span class=\"text-cyan-300 font-semibold\">반도체</span> 하드웨어 한 축에만 독점 쏠림으로써 시중 자금 순환이 마르고, 화폐 및 신용 가치가 하락하며 결국 시중 금리를 자극해 올리는 원인이 되고 있다.",
+      "글로벌 거시 경제가 저성장·저금리 시대에서 <span class=\"text-cyan-300 font-semibold\">반도체</span> 투자 쏠림에 따른 고성장·고물가·<span class=\"text-amber-300 font-bold\">고금리</span> 구조로 변형되며 가계와 중소기업의 부채 부담을 가중시키고 있다."
+    ],
+    "data_points": [
+      "미국 스타게이트 프로젝트 투자액: 5,000억 달러 (미국 GDP의 약 1.7%)",
+      "한국 총 투자 계획액: 약 5,000조 원 누적 전망 (한국 GDP의 2배 상당)"
+    ],
+    "signal": "negative",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 하드웨어 집중 투자가 국내 자금 유동성을 고사시키고 금리 하락을 방해하는 매크로 왜곡을 야기하며, 글로벌 대비 국가 GDP 대비 투자 규모가 지나치게 과대해 장기적인 국가 신용 <span class=\"text-rose-400 font-medium\">리스크</span> 요인이기 때문입니다.",
+    "key_companies": [],
+    "insight": "스타게이트는 미국의 방대한 경제 규모 속에서 흡수 가능한 <span class=\"text-rose-400 font-medium\">리스크</span> 범위 내에 있으나, 한국의 대형 하드웨어 베팅은 국가의 명운을 건 외줄타기입니다. 자금이 지나치게 <span class=\"text-cyan-300 font-semibold\">반도체</span>로 흡수되면서 다른 내수 산업의 자금난과 <span class=\"text-amber-300 font-bold\">고금리</span> 압박이 심화되고 있습니다.",
+    "action_point": "장기 국채 금리의 상방 압력 지속에 대비하여 가계 채무 비율을 축소하고, <span class=\"text-cyan-300 font-semibold\">반도체</span> 외의 내수 산업(소비재, 금융 등)의 유동성 위축 여부를 보수적으로 관리해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "스타게이트프로젝트",
+      "한국투자과밀",
+      "GDP비교",
+      "유동성쏠림",
+      "금리인상요인"
+    ]
+  }
+}

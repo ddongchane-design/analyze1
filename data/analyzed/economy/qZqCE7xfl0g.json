@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/qZqCE7xfl0g/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "오건영 단장은 중동 전쟁이 종식되어도 지정학적 리스크의 상흔과 정유/가스 파괴 시설의 재건 문제로 유가가 급격히 전쟁 이전 레벨(60달러대)로 돌아가긴 어렵다고 분석했다. 배들의 용선료, 위험 지역 인건비, 보험료 급증 등 <span class=\"text-rose-400 font-medium\">운송 비용의 구조적 상승</span>이 지속되기 때문이다. 향후 자산 시장은 트럼프의 관세 정책, 연준의 친트럼프 수장(케빈 워시) 교체 변수, 그리고 AI 혁명의 성공 여부라는 다차원적 '부의 갈림길'에 직면하고 있다.",
+    "summary": "오건영 단장은 <span class=\"text-violet-300 font-medium\">중동</span> 전쟁이 종식되어도 지정학적 <span class=\"text-rose-400 font-medium\">리스크</span>의 상흔과 정유/가스 파괴 시설의 재건 문제로 <span class=\"text-amber-300 font-bold\">유가</span>가 급격히 전쟁 이전 레벨(60달러대)로 돌아가긴 어렵다고 분석했다. 배들의 용선료, <span class=\"text-rose-400 font-medium\">위험</span> 지역 인건비, 보험료 급증 등 운송 비용의 구조적 상승이 지속되기 때문이다. 향후 자산 시장은 트럼프의 관세 정책, 연준의 친트럼프 수장(케빈 워시) 교체 변수, 그리고 AI 혁명의 성공 여부라는 다차원적 '부의 갈림길'에 직면하고 있다.",
     "key_claims": [
-      "중동 에너지 재건 지연 및 호르무즈 해협 용선료/보험료 폭증으로 <span class=\"text-rose-400 font-medium\">구조적 고유가(80달러 내외)</span>가 장기화될 수 있다.",
-      "연준 의장이 케빈 워시로 교체되면서 연준의 독립성 약화 우려와 인플레이션 통제 리스크가 자극될 가능성이 있다.",
-      "향후 5년의 장기 투자를 가정하면 매크로 충격을 극복하고 살아남을 고부가가치 <span class=\"text-cyan-300 font-semibold\">AI 포트폴리오</span>의 완성도가 가장 중요하다."
+      "<span class=\"text-violet-300 font-medium\">중동</span> 에너지 재건 지연 및 <span class=\"text-violet-300 font-medium\">호르무즈 해협</span> 용선료/보험료 폭증으로 구조적 고<span class=\"text-amber-300 font-bold\">유가</span>(80달러 내외)가 장기화될 수 있다.",
+      "연준 의장이 케빈 워시로 교체되면서 연준의 독립성 약화 우려와 <span class=\"text-amber-300 font-bold\">인플레이션</span> 통제 <span class=\"text-rose-400 font-medium\">리스크</span>가 자극될 가능성이 있다.",
+      "향후 5년의 장기 투자를 가정하면 매크로 충격을 극복하고 살아남을 고부가가치 AI 포트폴리오의 완성도가 가장 중요하다."
     ],
     "data_points": [
       "전쟁 이전 국제 유가 배럴당 60달러대에서 전쟁 중 120달러 급등 후 현재 80달러 후반대 안착",
@@ -20,12 +20,12 @@
       "연준 6월 FMC 금리 가이드라인 및 캐빈워시 임명 절차 진행"
     ],
     "signal": "neutral",
-    "signal_reason": "전쟁 종식이라는 환희 이면에 높은 구조적 물가와 연준 독립성 훼손 리스크가 도사리고 있어 장기적 분산 포트폴리오 유지가 필수적이다.",
+    "signal_reason": "전쟁 종식이라는 환희 이면에 높은 구조적 물가와 연준 독립성 훼손 <span class=\"text-rose-400 font-medium\">리스크</span>가 도사리고 있어 장기적 분산 포트폴리오 유지가 필수적이다.",
     "key_companies": [
       "신한은행"
     ],
-    "insight": "시장들의 적응력은 대단하여 지정학이나 관세 악재에 익숙해지지만, 그 과정에서 나타나는 비용 증가(인플레이션) 체질은 쉽게 변하지 않으므로 자산 배분의 기조를 흐트러뜨려선 안 된다.",
-    "action_point": "유가 급락에 따른 일시적 안도감에 취해 가치주 비중을 과도하게 낮추지 말고, <span class=\"text-cyan-300 font-semibold\">에너지 다변화 수혜주</span> 및 확실한 독점력을 지닌 AI 인프라주를 고르게 분산 배치하라."
+    "insight": "시장들의 적응력은 대단하여 지정학이나 관세 악재에 익숙해지지만, 그 과정에서 나타나는 비용 증가(<span class=\"text-amber-300 font-bold\">인플레이션</span>) 체질은 쉽게 변하지 않으므로 자산 배분의 기조를 흐트러뜨려선 안 된다.",
+    "action_point": "<span class=\"text-amber-300 font-bold\">유가</span> <span class=\"text-rose-400 font-medium\">급락</span>에 따른 일시적 안도감에 취해 가치주 비중을 과도하게 낮추지 말고, 에너지 다변화 수혜주 및 확실한 독점력을 지닌 AI 인프라주를 고르게 분산 배치하라."
   },
   "classification": {
     "primary_topic": "economy",

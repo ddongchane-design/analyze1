@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/EI8kZy9ivOM/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "스마트폰 카메라 모듈에 치중되어 있던 LG이노텍이 AI 반도체 패키징용 <span class=\"text-cyan-300 font-semibold\">FC-BGA</span>와 RF-SiP 기판의 생산 확대를 통해 고수익 기판 기업으로 재편되고 있습니다.\n미세 공정의 한계로 첨단 패키징의 중요성이 커진 가운데, LG이노텍은 후발 주자임에도 3년 만에 <span class=\"text-cyan-300 font-semibold\">양산 수율 93%</span>를 달성하며 생산 기술의 엣지를 증명했습니다.\n향후 2029~2030년 양산을 목표로 그룹사인 LG디스플레이의 유리 공정 노하우와 결합한 차세대 <span class=\"text-cyan-300 font-semibold\">유리 기판</span> 및 광 패키징(CPO) 기술 개발을 본격화하고 있습니다.",
+    "summary": "스마트폰 카메라 모듈에 치중되어 있던 LG이노텍이 <span class=\"text-cyan-300 font-semibold\">AI 반도체</span> 패키징용 FC-BGA와 RF-SiP 기판의 생산 확대를 통해 고수익 기판 기업으로 재편되고 있습니다.\n미세 공정의 한계로 첨단 패키징의 중요성이 커진 가운데, LG이노텍은 후발 주자임에도 3년 만에 양산 <span class=\"text-rose-400 font-medium\">수율</span> 93%를 달성하며 생산 기술의 엣지를 증명했습니다.\n향후 2029~2030년 양산을 목표로 그룹사인 LG디스플레이의 유리 공정 노하우와 결합한 차세대 유리 기판 및 광 패키징(CPO) 기술 개발을 본격화하고 있습니다.",
     "key_claims": [
-      "미세 공정화가 노드 한계에 직면함에 따라, 칩의 물리적 크기 확대와 열 제어를 담당하는 고부가 <span class=\"text-cyan-300 font-semibold\">반도체 패키징 기판</span>이 반도체 성능 향상의 핵심 동력으로 작용하고 있습니다.",
-      "LG이노텍은 10년 연속 글로벌 1위를 수성한 <span class=\"text-cyan-300 font-semibold\">RF-SiP</span> 기술(시장 점유율 최대 80% 확대 목표)과 동박 포스트 공법 등을 통해 통신 및 전장 반도체 분야에서 강력한 기술적 해자를 보유하고 있습니다.",
-      "기존 구리 배선의 열 방출 한계를 극복하기 위해 LG디스플레이의 유리 가공 기술과 당사의 정밀 정렬 기술을 결합하여 <span class=\"text-cyan-300 font-semibold\">유리 기판 및 광학 기판</span>(CPO) 융합 시장을 선점할 계획입니다."
+      "미세 공정화가 노드 한계에 직면함에 따라, 칩의 물리적 크기 확대와 열 제어를 담당하는 고부가 <span class=\"text-cyan-300 font-semibold\">반도체</span> 패키징 기판이 <span class=\"text-cyan-300 font-semibold\">반도체</span> 성능 향상의 핵심 동력으로 작용하고 있습니다.",
+      "LG이노텍은 10년 연속 글로벌 1위를 수성한 RF-SiP 기술(시장 점유율 최대 80% 확대 목표)과 동박 포스트 공법 등을 통해 통신 및 전장 <span class=\"text-cyan-300 font-semibold\">반도체</span> 분야에서 강력한 기술적 해자를 보유하고 있습니다.",
+      "기존 구리 배선의 열 방출 한계를 극복하기 위해 LG디스플레이의 유리 가공 기술과 당사의 정밀 정렬 기술을 결합하여 유리 기판 및 광학 기판(CPO) 융합 시장을 선점할 계획입니다."
     ],
     "data_points": [
       "LG이노텍 주가 1년 만에 약 7배~10배 상승",
@@ -24,15 +24,15 @@
     ],
     "signal": "bullish",
     "signal_confidence": "high",
-    "signal_reason": "카메라 부문의 의존도를 낮추고 영업이익률 20~30%에 달하는 AI 패키징용 <span class=\"text-cyan-300 font-semibold\">고부가 기판 사업</span>이 본격 양산 궤도에 진입하며 이익이 폭발적으로 늘어날 것이기 때문입니다.",
+    "signal_reason": "카메라 부문의 의존도를 낮추고 영업이익률 20~30%에 달하는 AI 패키징용 고부가 기판 사업이 본격 양산 궤도에 진입하며 이익이 폭발적으로 늘어날 것이기 때문입니다.",
     "key_companies": [
       "LG이노텍(011070)",
       "LG디스플레이(034220)",
       "엔비디아(NVDA)",
       "IBM"
     ],
-    "insight": "LG이노텍의 성공 요인은 단순한 선발 주자 모방이 아닌, 그룹사 내 유리기판 가공 기술(LG디스플레이)과 초정밀 광학 정렬 기술(광학솔루션 사업부)을 결합하여 차세대 기술인 <span class=\"text-cyan-300 font-semibold\">유리 및 광 패키징 기판</span> 융합 생태계를 내부 시너지로 완성해 나가는 구조적 강점에 있습니다.",
-    "action_point": "스마트폰 시장 둔화 우려로 인한 카메라 모듈 할인 요인이 해소되고 고수익 <span class=\"text-cyan-300 font-semibold\">FC-BGA</span> 부문의 이익 기여도가 급증하고 있으므로 적극적인 비중 확대를 권장합니다.\n향후 반도체 패키징 대전환의 핵심이 될 <span class=\"text-cyan-300 font-semibold\">유리 기판</span> 상용화 타임라인(2029년)과 글로벌 빅테크와의 추가 공급 계약 여부를 핵심 마일스톤으로 삼아 모니터링해야 합니다."
+    "insight": "LG이노텍의 성공 요인은 단순한 선발 주자 모방이 아닌, 그룹사 내 유리기판 가공 기술(LG디스플레이)과 초정밀 광학 정렬 기술(광학솔루션 사업부)을 결합하여 차세대 기술인 유리 및 광 패키징 기판 융합 생태계를 내부 시너지로 완성해 나가는 구조적 강점에 있습니다.",
+    "action_point": "스마트폰 시장 둔화 우려로 인한 카메라 모듈 할인 요인이 해소되고 고수익 FC-BGA 부문의 이익 기여도가 급증하고 있으므로 적극적인 비중 확대를 권장합니다.\n향후 <span class=\"text-cyan-300 font-semibold\">반도체</span> 패키징 대전환의 핵심이 될 유리 기판 상용화 타임라인(2029년)과 글로벌 빅테크와의 추가 공급 계약 여부를 핵심 마일스톤으로 삼아 모니터링해야 합니다."
   },
   "classification": {
     "primary_topic": "tech",

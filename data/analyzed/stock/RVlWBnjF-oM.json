@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "RVlWBnjF-oM",
+    "title": "[문지웅의 빅머니 LIVE] 키미 K3 메모리 추가수요? | 美 PCE 물가 낮추기 착수",
+    "published": "2026-07-20T21:53:43+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=RVlWBnjF-oM",
+    "thumbnail": "https://img.youtube.com/vi/RVlWBnjF-oM/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "매경월가월부 문지웅 기자는 뉴욕 증시가 장 후반 하락 전환했으나 <span class=\"text-cyan-300 font-semibold\">반도체</span> 섹터의 펀더멘탈은 견조하다고 분석했습니다. JP모건은 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span>의 구조적 공급 부족이 2028년까지 지속될 것이라며 업종 비중확대 의견을 제시했고, <span class=\"text-violet-300 font-medium\">중국</span> Kimi K3의 컴퓨팅 한계로 인한 가입 중단 사태는 AI 고도화가 하드웨어 수요를 폭증시키는 '재번스의 역설'을 입증했으며, <span class=\"text-cyan-300 font-semibold\">구글</span>의 신형 AI 칩 '프로즌(Frozen)' 개발 소식도 비용 효율성 개선 기대를 높이고 있습니다.",
+    "key_claims": [
+      "JP모건은 필라델피아 <span class=\"text-cyan-300 font-semibold\">반도체</span> 지수의 하락과 <span class=\"text-cyan-300 font-semibold\">반도체</span> 기업들의 실적 우상향 간의 괴리(K자형 악어입 괴리)가 너무 심해졌다며, 2028년까지의 공급 부족을 근거로 비중 확대를 권고했다.",
+      "<span class=\"text-violet-300 font-medium\">중국</span> Kimi K3의 컴퓨팅 파워 한계 봉착은 AI 성능 고도화가 정량적으로 더 많은 GPU, <span class=\"text-cyan-300 font-semibold\">HBM</span>, SSD 탑재를 강제한다는 점을 실증하여 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span> 산업의 강력한 장기 호재이다.",
+      "아마존, <span class=\"text-cyan-300 font-semibold\">구글</span> 등 하이퍼스케일러들의 CAPEX 지출로 현금흐름이 말라가고 있으며, 특히 오라클(Oracle)은 현금 고갈로 CDS 스프레드가 200bp로 폭증하고 신용등급이 BBB-로 강등되어 재정적 한계를 드러내고 있다."
+    ],
+    "data_points": [
+      "오라클 CDS 스프레드: 200bp 돌파 (일반 테크 평균 80~90bp 대비 대폭 상회)",
+      "테슬라 프리 캐시플로우(FCF) 전망: 2분기 32억 달러 적자 전환 우려 (1분기 14.4억 달러 흑자 대비 급감 예상)"
+    ],
+    "signal": "positive",
+    "signal_reason": "JP모건의 구조적 <span class=\"text-cyan-300 font-semibold\">반도체</span> 쇼티지 진단과 <span class=\"text-violet-300 font-medium\">중국</span> AI 모델의 컴퓨팅 용량 한계 도달이 장기 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span> 수요(Q)를 강력하게 지지하며, 주가와 이익 간의 비이성적인 괴리가 조만간 좁혀질 가능성이 크기 때문입니다.",
+    "key_companies": [
+      "SK하이닉스(000660)",
+      "삼성전자(005930)",
+      "NVIDIA(NVDA)",
+      "오라클(ORCL)"
+    ],
+    "insight": "오라클의 신용등급 강등과 FCF 적자는 빅테크들의 자금력 차별화가 진행되고 있음을 뜻합니다. 자본력이 튼튼한 알파벳, 메타 등 최고 우량 하이퍼스케일러들은 투자를 유지하겠지만, 레버리지가 높은 하위 하이퍼스케일러들은 CAPEX <span class=\"text-rose-400 font-medium\">조정</span> 압박을 받을 것입니다. 그러나 <span class=\"text-cyan-300 font-semibold\">반도체</span> 기업들에게는 전 세계적 서버 메모리 공급 부족이라는 구조적 대세가 우세합니다.",
+    "action_point": "단기 밸류에이션 괴리가 심해진 국내 <span class=\"text-cyan-300 font-semibold\">반도체</span> 대형주(<span class=\"text-cyan-300 font-semibold\">삼성전자</span>, <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>)의 저가 분할 매수 기조를 견지하고, <span class=\"text-cyan-300 font-semibold\">테슬라</span>와 오라클 같이 FCF 현금 고갈 <span class=\"text-rose-400 font-medium\">리스크</span>가 있는 고부채 테크주에 대해서는 보수적인 포지션 관리를 추천합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "구조적공급부족",
+      "K자형주가괴리",
+      "재번스의역설",
+      "오라클신용강등",
+      "테슬라FCF전망"
+    ]
+  }
+}

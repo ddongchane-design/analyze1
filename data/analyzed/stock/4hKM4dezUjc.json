@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/4hKM4dezUjc/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "삼성전자와 SK하이닉스가 호남 반도체 클러스터, 영남 피지컬 AI, 충청 OLED 등 전국적 범주에 걸쳐 총 <span class=\"text-cyan-300 font-semibold\">2,000조 원 규모의 초대형 투자</span> 계획을 본격화함. 최태원 SK 회장은 HBM/AI 메모리 병목을 방지하기 위해 5년 내 전체 웨이퍼 생산 능력을 2배로 확장하여 단가를 점진적으로 인하하고 중국의 추격을 원천 봉쇄하기로 결단함. 한편, 애플은 부품 마진 방어를 위해 중국산 D램(CXMT) 사용 승인을 미국 상무부에 긴밀히 로비하고 있음.",
+    "summary": "<span class=\"text-cyan-300 font-semibold\">삼성전자</span>와 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>가 호남 <span class=\"text-cyan-300 font-semibold\">반도체</span> 클러스터, 영남 피지컬 AI, 충청 OLED 등 전국적 범주에 걸쳐 총 2,000조 원 규모의 초대형 투자 계획을 본격화함. 최태원 SK 회장은 <span class=\"text-cyan-300 font-semibold\">HBM</span>/AI 메모리 병목을 방지하기 위해 5년 내 전체 웨이퍼 생산 능력을 2배로 확장하여 단가를 점진적으로 인하하고 <span class=\"text-violet-300 font-medium\">중국</span>의 추격을 원천 봉쇄하기로 결단함. 한편, 애플은 부품 마진 방어를 위해 <span class=\"text-violet-300 font-medium\">중국</span>산 D램(CXMT) 사용 승인을 미국 상무부에 긴밀히 로비하고 있음.",
     "key_claims": [
-      "국내 반도체 대기업들의 2,000조 원 투자는 단기 이익 축소 리스크가 존재하나, 장기 AI 인프라 선점을 위한 대승적 차원의 <span class=\"text-cyan-300 font-semibold\">인프라 투자</span> 배팅임.",
-      "최태원 SK 회장은 AI 칩 공급 모델의 생존과 HBM 독점 비난 차단을 위해 2030년까지 <span class=\"text-cyan-300 font-semibold\">웨이퍼 CapEx 증설</span>을 대폭 가속화하겠다고 선언함.",
-      "애플은 메모리 가격 인상에 따른 자사 기기 가격 상승(20%) 압박을 줄이기 위해 중국 공급망 완화를 청원 중이나 미국 의회의 <span class=\"text-rose-400 font-medium\">국가 안보 규제</span> 장벽으로 무산될 공산이 큼."
+      "국내 <span class=\"text-cyan-300 font-semibold\">반도체</span> 대기업들의 2,000조 원 투자는 단기 이익 축소 <span class=\"text-rose-400 font-medium\">리스크</span>가 존재하나, 장기 AI 인프라 선점을 위한 대승적 차원의 인프라 투자 배팅임.",
+      "최태원 SK 회장은 AI 칩 공급 모델의 생존과 <span class=\"text-cyan-300 font-semibold\">HBM</span> 독점 비난 차단을 위해 2030년까지 웨이퍼 CapEx 증설을 대폭 가속화하겠다고 선언함.",
+      "애플은 메모리 가격 인상에 따른 자사 기기 가격 상승(20%) 압박을 줄이기 위해 <span class=\"text-violet-300 font-medium\">중국</span> 공급망 완화를 청원 중이나 미국 의회의 국가 안보 규제 장벽으로 무산될 공산이 큼."
     ],
     "data_points": [
       "삼성·SK 전국 클러스터 총 투자액: 약 2,000조 원 수준 돌파 추정",
@@ -29,8 +29,8 @@
       "LS일렉트릭(010120)",
       "삼성전기(009150)"
     ],
-    "insight": "AI 데이터센터 인프라와 배전반, 정밀 수동소자(MLCC)의 쇼티지가 2030년까지 장기화될 것이라는 확신에 기반하여 기업들이 사상 최대의 CapEx 경쟁을 시작함. SK하이닉스의 웨이퍼 생산량 2배 증설 결정은 HBM 단가를 현실화하는 동시에 싼값에 시장을 잠식하려는 <span class=\"text-cyan-300 font-semibold\">중국 CXMT 등 메모리사들의 진입 장벽</span>을 공고화하는 효과를 발휘할 것임.",
-    "action_point": "미국 현지 데이터센터 건설 증가에 맞추어 설비를 6배로 확충한 <span class=\"text-cyan-300 font-semibold\">LS일렉트릭</span> 및 단가 3배 고부가가치 서버용 MLCC 계약 가시성이 열린 <span class=\"text-cyan-300 font-semibold\">삼성전기</span>를 최우선 편입하고, 용인 및 호남 클러스터 확장에 따른 전공정 소부장 장비 수혜주를 점진적으로 확대해야 함."
+    "insight": "AI 데이터센터 인프라와 배전반, 정밀 수동소자(MLCC)의 쇼티지가 2030년까지 장기화될 것이라는 확신에 기반하여 기업들이 사상 최대의 CapEx 경쟁을 시작함. <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>의 웨이퍼 생산량 2배 증설 결정은 <span class=\"text-cyan-300 font-semibold\">HBM</span> 단가를 현실화하는 동시에 싼값에 시장을 잠식하려는 <span class=\"text-violet-300 font-medium\">중국</span> CXMT 등 메모리사들의 진입 장벽을 공고화하는 효과를 발휘할 것임.",
+    "action_point": "미국 현지 데이터센터 건설 증가에 맞추어 설비를 6배로 확충한 LS일렉트릭 및 단가 3배 고부가가치 서버용 MLCC 계약 가시성이 열린 삼성전기를 최우선 편입하고, 용인 및 호남 클러스터 확장에 따른 전공정 소부장 장비 수혜주를 점진적으로 확대해야 함."
   },
   "classification": {
     "primary_topic": "stock",

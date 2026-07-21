@@ -8,17 +8,17 @@
     "thumbnail": "https://img.youtube.com/vi/qeiUkOMtq30/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "중국 문샷 AI가 고성능 가성비 모델인 Kimi K3를 발표하며 AI 소프트웨어의 단가 하락을 유도하고 있습니다. 이는 미국 빅테크의 소프트웨어 해자를 위협할 수 있으나, 가성비 토큰으로 인한 AI 서비스(추론) 수요 폭발은 결과적으로 메모리 반도체, 고대역폭 메모리(<span class=\"text-cyan-300 font-semibold\">HBM</span>), 솔리드스테이트드라이브(<span class=\"text-cyan-300 font-semibold\">SSD</span>) 등 하드웨어 수요를 자극하는 강력한 호재로 작용합니다.",
+    "summary": "<span class=\"text-violet-300 font-medium\">중국</span> 문샷 AI가 고성능 가성비 모델인 Kimi K3를 발표하며 AI 소프트웨어의 단가 하락을 유도하고 있습니다. 이는 미국 빅테크의 소프트웨어 해자를 위협할 수 있으나, 가성비 토큰으로 인한 AI 서비스(추론) 수요 폭발은 결과적으로 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span>, 고대역폭 메모리(<span class=\"text-cyan-300 font-semibold\">HBM</span>), 솔리드스테이트드라이브(SSD) 등 하드웨어 수요를 자극하는 강력한 호재로 작용합니다.",
     "key_claims": [
-      "중국의 Kimi K3 등 오픈소스 가중치 모델의 등장은 토큰 가격 파괴를 유발하여 AI 에이전트 도입 장벽을 낮추고 글로벌 추론 수요를 급증시킨다.",
+      "<span class=\"text-violet-300 font-medium\">중국</span>의 Kimi K3 등 오픈소스 가중치 모델의 등장은 토큰 가격 파괴를 유발하여 AI 에이전트 도입 장벽을 낮추고 글로벌 추론 수요를 급증시킨다.",
       "소프트웨어 가격 경쟁이 심화될수록 이를 구동하기 위한 물리적 인프라(컴퓨팅 파워)와 고성능 메모리의 수요는 비례하여 증가한다.",
-      "미국이 장비(ASML) 및 설계(Nvidia), 한국이 메모리(HBM) 공급망의 독점권을 쥐고 있어 소프트웨어 시장의 치킨게임에도 하드웨어 생태계는 마진을 방어할 수 있다."
+      "미국이 장비(<span class=\"text-cyan-300 font-semibold\">ASML</span>) 및 설계(Nvidia), 한국이 메모리(<span class=\"text-cyan-300 font-semibold\">HBM</span>) 공급망의 독점권을 쥐고 있어 소프트웨어 시장의 치킨게임에도 하드웨어 생태계는 마진을 방어할 수 있다."
     ],
     "data_points": [
       "문샷 AI Kimi K3 규모: 2.8조 매개변수 및 100만 컨텍스트 윈도우 지원"
     ],
     "signal": "bullish",
-    "signal_reason": "중국 오픈소스의 추격이 소프트웨어 업계에는 가격 인하 압력이 되지만, 하드웨어 생태계에는 추론 수요 증대로 이어져 고성능 HBM 및 eSSD 판매량 증가의 확실한 기반이 되기 때문입니다.",
+    "signal_reason": "<span class=\"text-violet-300 font-medium\">중국</span> 오픈소스의 추격이 소프트웨어 업계에는 가격 인하 압력이 되지만, 하드웨어 생태계에는 추론 수요 증대로 이어져 고성능 <span class=\"text-cyan-300 font-semibold\">HBM</span> 및 eSSD 판매량 증가의 확실한 기반이 되기 때문입니다.",
     "key_companies": [
       "삼성전자(005930)",
       "SK하이닉스(000660)",

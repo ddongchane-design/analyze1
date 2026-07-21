@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/GzqDK8ThQvY/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "최근 폭락장은 펀더멘탈의 붕괴라기보다 포모(FOMO) 심리와 결합된 극단적인 <span class=\"text-rose-400 font-medium\">레버리지 투자(선물 및 2배 레버리지 ETF)</span>가 유발한 이상 변동성 국면임.\n2분기 반도체 실적 컨센서스가 이미 지나치게 높아져 서프라이즈 폭이 제한될 수 있으므로, 반도체 투톱 비중을 일부 축소하고 <span class=\"text-cyan-300 font-semibold\">반도체 장비주 및 금리 인하 수혜주인 바이오</span>로 리밸런싱을 제안함.\n자산 구매력 보존을 위한 표준 포트폴리오로 <span class=\"text-cyan-300 font-semibold\">미국주식 30%, 한국주식 30%, 채권 30%</span>의 분산 투자를 추천하며, 무리한 단기 추종 매매를 경계할 것을 권고함.",
+    "summary": "최근 폭락장은 펀더멘탈의 붕괴라기보다 포모(FOMO) 심리와 결합된 극단적인 레버리지 투자(선물 및 2배 레버리지 ETF)가 유발한 이상 변동성 국면임.\n2분기 <span class=\"text-cyan-300 font-semibold\">반도체</span> 실적 컨센서스가 이미 지나치게 높아져 서프라이즈 폭이 제한될 수 있으므로, <span class=\"text-cyan-300 font-semibold\">반도체</span> 투톱 비중을 일부 축소하고 <span class=\"text-cyan-300 font-semibold\">반도체</span> 장비주 및 <span class=\"text-amber-300 font-bold\">금리 인하</span> 수혜주인 바이오로 리밸런싱을 제안함.\n자산 구매력 보존을 위한 표준 포트폴리오로 미국주식 30%, 한국주식 30%, 채권 30%의 분산 투자를 추천하며, 무리한 단기 추종 매매를 경계할 것을 권고함.",
     "key_claims": [
-      "주가 상승과 변동성 지수(V-KOSPI)가 동반 상승한 것은 상승 랠리에서 뒤처질까 우려하는 <span class=\"text-rose-400 font-medium\">탐욕 섞인 공포(FOMO)</span>가 시장을 지배하고 있음을 보여준다.",
-      "2분기 실적 시즌은 이미 눈높이가 상향되어 어닝 서프라이즈 모멘텀이 <span class=\"text-rose-400 font-medium\">1분기 대비 약화</span>될 가능성이 크다.",
-      "시드머니가 적을 때는 레버리지를 활용한 무리한 베팅 대신 <span class=\"text-amber-300 font-bold\">근로소득 증대와 절약</span>을 통해 투자 체력을 키우는 것이 정석이다."
+      "주가 상승과 변동성 지수(V-KOSPI)가 동반 상승한 것은 상승 랠리에서 뒤처질까 우려하는 탐욕 섞인 공포(FOMO)가 시장을 지배하고 있음을 보여준다.",
+      "2분기 실적 시즌은 이미 눈높이가 상향되어 어닝 서프라이즈 모멘텀이 1분기 대비 약화될 가능성이 크다.",
+      "시드머니가 적을 때는 레버리지를 활용한 무리한 베팅 대신 근로소득 증대와 절약을 통해 투자 체력을 키우는 것이 정석이다."
     ],
     "data_points": [
       "한국 통화량(M2) 증가율: 작년 9%, 올해 약 10% 수준",
@@ -24,7 +24,7 @@
     ],
     "signal": "neutral",
     "signal_confidence": "high",
-    "signal_reason": "상승 추세 자체는 유효하나 포모 심리로 급증한 <span class=\"text-rose-400 font-medium\">파생 레버리지 청산</span>에 따른 높은 단기 변동성 관리가 필요한 시점임.",
+    "signal_reason": "상승 추세 자체는 유효하나 포모 심리로 급증한 파생 레버리지 <span class=\"text-rose-400 font-medium\">청산</span>에 따른 높은 단기 변동성 관리가 필요한 시점임.",
     "key_companies": [
       "Hanwha Investment & Securities",
       "Samsung Electronics(005930)",
@@ -32,8 +32,8 @@
       "Micron Technology(MU)",
       "Apple(AAPL)"
     ],
-    "insight": "시장의 비정상적인 변동성은 심리적 불안에서 비롯되므로, 타인과의 비교를 멈추고 <span class=\"text-amber-300 font-bold\">통화량 증가율(M2)</span>을 벤치마크 삼아 장기 구매력을 보존하는 원칙 중심 투자가 핵심임.",
-    "action_point": "레버리지 포지션을 축소하고, 반도체 투톱의 비중을 둔화되는 탄력에 맞춰 일부 덜어내어 수주 증가가 예상되는 <span class=\"text-cyan-300 font-semibold\">반도체 장비 섹터</span>와 금리 하락 수혜 섹터인 <span class=\"text-cyan-300 font-semibold\">바이오 섹터</span>로 분산해야 함."
+    "insight": "시장의 비정상적인 변동성은 심리적 불안에서 비롯되므로, 타인과의 비교를 멈추고 통화량 증가율(M2)을 벤치마크 삼아 장기 구매력을 보존하는 원칙 중심 투자가 핵심임.",
+    "action_point": "레버리지 포지션을 축소하고, <span class=\"text-cyan-300 font-semibold\">반도체</span> 투톱의 비중을 둔화되는 탄력에 맞춰 일부 덜어내어 수주 증가가 예상되는 <span class=\"text-cyan-300 font-semibold\">반도체</span> 장비 섹터와 금리 하락 수혜 섹터인 바이오 섹터로 분산해야 함."
   },
   "classification": {
     "primary_topic": "stock",

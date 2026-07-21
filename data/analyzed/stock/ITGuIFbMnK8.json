@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/ITGuIFbMnK8/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "젠슨 황 엔비디아 CEO의 방한 행보를 통해 국내 6대 기업과의 <span class=\"text-amber-300 font-bold\">K-공조 동맹</span> 파트너십 가치가 부각되었으며, 미래 먹거리로 점찍은 피지컬 AI(<span class=\"text-cyan-300 font-semibold\">제슨 토르</span> 등) 부문의 협력이 가속화될 전망입니다.",
+    "summary": "젠슨 황 엔비디아 CEO의 방한 행보를 통해 국내 6대 기업과의 K-공조 동맹 파트너십 가치가 부각되었으며, 미래 먹거리로 점찍은 피지컬 AI(제슨 토르 등) 부문의 협력이 가속화될 전망입니다.",
     "key_claims": [
       "엔비디아는 AI 데이터센터 및 클라우드 파트너로서 네이버 및 국내 통신사와의 공조를 강화하고 있다.",
-      "삼성전자 HBM4/HBM5의 고품질을 지지하는 발언을 통해 반도체 밸류체인 간 공고한 상호의존적 결속력을 증명했다.",
-      "금리 및 스페이스X IPO 자금 흡수 우려 속에서도 기업들의 실적 실체가 공포를 지워나갈 것이다."
+      "<span class=\"text-cyan-300 font-semibold\">삼성전자</span> <span class=\"text-cyan-300 font-semibold\">HBM</span>4/<span class=\"text-cyan-300 font-semibold\">HBM</span>5의 고품질을 지지하는 발언을 통해 <span class=\"text-cyan-300 font-semibold\">반도체</span> 밸류체인 간 공고한 상호의존적 결속력을 증명했다.",
+      "금리 및 <span class=\"text-cyan-300 font-semibold\">스페이스X</span> IPO 자금 흡수 우려 속에서도 기업들의 실적 실체가 공포를 지워나갈 것이다."
     ],
     "data_points": [
       "젠슨 황 방한 중 주요 대기업 6개 사와의 전략 미팅 실행"
@@ -26,7 +26,7 @@
       "두산로보틱스"
     ],
     "insight": "젠슨 황의 광폭 행보는 한국의 제조 능력이 없으면 엔비디아의 독점 지배력도 작동하기 어렵다는 점을 시사하며, 단순 부품 공급사를 넘어선 시스템 통합 파트너십 구축이 핵심 목표입니다.",
-    "action_point": "모빌리티 및 피지컬 AI 관련 공동 프로젝트 수주 가능성이 높은 현대차 그룹 및 SK텔레콤 등 핵심 수혜주의 비중 유지를 도모해야 합니다."
+    "action_point": "모빌리티 및 피지컬 AI 관련 공동 프로젝트 수주 가능성이 높은 <span class=\"text-cyan-300 font-semibold\">현대차</span> 그룹 및 SK텔레콤 등 핵심 수혜주의 비중 유지를 도모해야 합니다."
   },
   "classification": {
     "primary_topic": "stock",

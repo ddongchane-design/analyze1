@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/YHDfkArYGpA/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "휴대폰 기지국 신호가 전혀 터지지 않는 대양 한가운데 크루즈선에서 넷플릭스 등 고화질 동영상 스트리밍이 끊김 없이 가능한 기술적 비밀을 밝힘. 이는 <span class=\"text-cyan-300 font-semibold\">스페이스X의 스타링크(Starlink)</span> 등 수천 개의 저궤도 위성(LEO)이 바다 위에 촘촘한 벌집 모양의 전송 셀을 구축하고 해상용 평판 안테나로 실시간 연결해주는 기술 혁신 덕분임.",
+    "summary": "휴대폰 기지국 신호가 전혀 터지지 않는 대양 한가운데 크루즈선에서 넷플릭스 등 고화질 동영상 스트리밍이 끊김 없이 가능한 기술적 비밀을 밝힘. 이는 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 <span class=\"text-cyan-300 font-semibold\">스타링크</span>(Starlink) 등 수천 개의 저궤도 위성(LEO)이 바다 위에 촘촘한 벌집 모양의 전송 셀을 구축하고 해상용 평판 안테나로 실시간 연결해주는 기술 혁신 덕분임.",
     "key_claims": [
       "기존 정지궤도 위성(36,000km 높이)의 치명적 단점인 전송 지연(0.5초)을 저궤도 위성(500km)이 15밀리초 수준으로 획기적으로 개선함.",
-      "크루즈 및 상선 등 해상 물류망 전체가 스타링크 해상용 단말을 도입하면서, 해양 인터넷 시장의 폭발적 성장이 일어남."
+      "크루즈 및 상선 등 해상 물류망 전체가 <span class=\"text-cyan-300 font-semibold\">스타링크</span> 해상용 단말을 도입하면서, 해양 인터넷 시장의 폭발적 성장이 일어남."
     ],
     "data_points": [
       "스타링크 해상용 안테나 대역폭: 최대 220Mbps 이상 속도 보장 (가정용 기가 인터넷 급)",
@@ -19,12 +19,12 @@
     ],
     "signal": "neutral",
     "signal_confidence": "high",
-    "signal_reason": "스타링크의 기술적 메커니즘을 설명하는 에듀테인먼트 교양 과학 영상으로, 단기 주식 거래 관점에서는 중립적이기 때문임.",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">스타링크</span>의 기술적 메커니즘을 설명하는 에듀테인먼트 교양 과학 영상으로, 단기 주식 거래 관점에서는 중립적이기 때문임.",
     "key_companies": [
       "스페이스X"
     ],
-    "insight": "저궤도 위성 인터넷은 단순 산간오지 구제를 넘어 해운, 크루즈, 항공기 등 지구 표면의 70%를 차지하는 '해양/공중 모빌리티 음영지대'를 유료 가입자망으로 편입시켜 스타링크의 독점적 캐시카우로 안착하고 있음.",
-    "action_point": "저궤도 위성 발사 빈도와 수신 안테나 양산 강도가 증가하고 있으므로, 우주용 RF 안테나 및 위성 통신용 화합물 반도체 부품을 납품하는 글로벌 강소 소부장사에 주목함."
+    "insight": "저궤도 위성 인터넷은 단순 산간오지 구제를 넘어 해운, 크루즈, 항공기 등 지구 표면의 70%를 차지하는 '해양/공중 모빌리티 음영지대'를 유료 가입자망으로 편입시켜 <span class=\"text-cyan-300 font-semibold\">스타링크</span>의 독점적 캐시카우로 안착하고 있음.",
+    "action_point": "저궤도 위성 발사 빈도와 수신 안테나 양산 강도가 증가하고 있으므로, 우주용 RF 안테나 및 위성 통신용 화합물 <span class=\"text-cyan-300 font-semibold\">반도체</span> 부품을 납품하는 글로벌 강소 소부장사에 주목함."
   },
   "classification": {
     "primary_topic": "shipbuilding",

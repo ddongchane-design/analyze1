@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/agfoxlAqOt4/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "공포탐욕 지수가 25(극단적 공포)로 급락한 가운데, 시장은 AI 성장주에서 배당주 및 가치주로 <span class=\"text-amber-300 font-bold\">자산 리밸런싱</span>을 진행하고 있습니다.\n마이크론은 81%의 압도적 마진율과 함께 5년 장기 계약인 <span class=\"text-cyan-300 font-semibold\">SCA(Strategic Customer Agreement)</span> 16건을 공개하며 메모리 사이클의 체질 변화를 입증했습니다.\n또한 트럼프의 135조 원 규모 긴급 국방·안보 예산안으로 인해 <span class=\"text-violet-300 font-medium\">방산, 사이버 보안, 농업 인프라</span> 관련 자산이 수혜주로 부각되고 있습니다.",
+    "summary": "공포탐욕 지수가 25(극단적 공포)로 <span class=\"text-rose-400 font-medium\">급락</span>한 가운데, 시장은 AI 성장주에서 배당주 및 가치주로 자산 리밸런싱을 진행하고 있습니다.\n마이크론은 81%의 압도적 마진율과 함께 5년 장기 계약인 SCA(Strategic Customer Agreement) 16건을 공개하며 메모리 사이클의 체질 변화를 입증했습니다.\n또한 트럼프의 135조 원 규모 긴급 국방·안보 예산안으로 인해 방산, 사이버 보안, 농업 인프라 관련 자산이 수혜주로 부각되고 있습니다.",
     "key_claims": [
-      "메모리 가격 폭등으로 디바이스 가격을 인상해야 하는 <span class=\"text-rose-400 font-medium\">치플레이션(Chipflation) 우려</span>가 대두되며 빅테크 현금흐름이 압박받고 있다.",
-      "마이크론의 SCA 계약 방식은 고질적인 메모리 사이클 변동성을 줄이고 <span class=\"text-cyan-300 font-semibold\">장기 수주 산업</span>으로 체질을 전환시키는 중대한 변화다.",
-      "트럼프의 135조 원 전쟁 예산은 탄약 보충과 국방 재건에 쓰여 <span class=\"text-cyan-300 font-semibold\">방산(ITA), 보안(CIBR) ETF</span>의 직접적 수혜를 유발한다."
+      "메모리 가격 폭등으로 디바이스 가격을 인상해야 하는 치플레이션(Chipflation) 우려가 대두되며 빅테크 현금흐름이 압박받고 있다.",
+      "마이크론의 SCA 계약 방식은 고질적인 메모리 사이클 변동성을 줄이고 장기 수주 산업으로 체질을 전환시키는 중대한 변화다.",
+      "트럼프의 135조 원 전쟁 예산은 탄약 보충과 국방 재건에 쓰여 방산(ITA), 보안(CIBR) ETF의 직접적 수혜를 유발한다."
     ],
     "data_points": [
       "공포탐욕 지수 수준: 25 (극단의 공포)",
@@ -30,7 +30,7 @@
     ],
     "signal": "bullish",
     "signal_confidence": "high",
-    "signal_reason": "단기 기술주 조정 압력이 있으나, 반도체 공급 부족에 따른 마이크론의 <span class=\"text-cyan-300 font-semibold\">초고마진 실적과 SCA 체질 개선</span> 및 트럼프 국방 예산이라는 강력한 <span class=\"text-amber-300 font-bold\">정책 모멘텀</span>이 시장을 지지합니다.",
+    "signal_reason": "단기 기술주 <span class=\"text-rose-400 font-medium\">조정</span> 압력이 있으나, <span class=\"text-cyan-300 font-semibold\">반도체</span> 공급 부족에 따른 마이크론의 초고마진 실적과 SCA 체질 개선 및 트럼프 국방 예산이라는 강력한 정책 모멘텀이 시장을 지지합니다.",
     "key_companies": [
       "Micron(MU)",
       "Apple(AAPL)",
@@ -41,8 +41,8 @@
       "CrowdStrike(CRWD)",
       "Palo Alto Networks(PANW)"
     ],
-    "insight": "AI 인프라 투자의 지속성에 대한 우려로 빅테크가 조정을 받고 있지만, 반도체 가격의 높은 결정력과 <span class=\"text-violet-300 font-medium\">지정학적 국방 예산 집행</span>은 구조적으로 성장할 섹터를 명확하게 가리켜 줍니다.",
-    "action_point": "과열된 반도체 레버리지(SOXL) 트레이딩보다는 가격 매력이 생긴 <span class=\"text-cyan-300 font-semibold\">마이크론 개별주</span>나 정책적 수혜가 확정적인 <span class=\"text-violet-300 font-medium\">방산(ITA)/사이버보안(CIBR) ETF</span>로 비중을 리밸런싱하십시오."
+    "insight": "AI 인프라 투자의 지속성에 대한 우려로 빅테크가 <span class=\"text-rose-400 font-medium\">조정</span>을 받고 있지만, <span class=\"text-cyan-300 font-semibold\">반도체</span> 가격의 높은 결정력과 지정학적 국방 예산 집행은 구조적으로 성장할 섹터를 명확하게 가리켜 줍니다.",
+    "action_point": "<span class=\"text-rose-400 font-medium\">과열</span>된 <span class=\"text-cyan-300 font-semibold\">반도체</span> 레버리지(SOXL) 트레이딩보다는 가격 매력이 생긴 마이크론 개별주나 정책적 수혜가 확정적인 방산(ITA)/사이버보안(CIBR) ETF로 비중을 리밸런싱하십시오."
   },
   "classification": {
     "primary_topic": "stock",

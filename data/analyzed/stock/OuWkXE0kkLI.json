@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/OuWkXE0kkLI/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "FOMC 회의 이후 <span class=\"text-rose-400 font-medium\">금리 인상 가능성</span>을 시사하는 매파적 점도표와 호르무즈 해협 재개방에 따른 유가 하락이 동시에 반영되고 있습니다.\n트럼프 대통령이 <span class=\"text-cyan-300 font-semibold\">인텔</span>과 애플, 엔비디아, 테슬라 간의 칩 생산 협력 및 테라팹 건설을 언급하며 반도체 섹터의 폭발적인 랠리를 이끌었습니다.\n또한, <span class=\"text-cyan-300 font-semibold\">액센추어</span>가 42억 달러 규모의 보안 기업 인수를 통해 제조업의 AI 전환 시장에 본격 대비하고 나섰습니다.",
+    "summary": "FOMC 회의 이후 금리 인상 가능성을 시사하는 매파적 점도표와 <span class=\"text-violet-300 font-medium\">호르무즈 해협</span> 재개방에 따른 <span class=\"text-amber-300 font-bold\">유가</span> 하락이 동시에 반영되고 있습니다.\n트럼프 대통령이 <span class=\"text-cyan-300 font-semibold\">인텔</span>과 애플, 엔비디아, <span class=\"text-cyan-300 font-semibold\">테슬라</span> 간의 칩 생산 협력 및 테라팹 건설을 언급하며 <span class=\"text-cyan-300 font-semibold\">반도체</span> 섹터의 폭발적인 랠리를 이끌었습니다.\n또한, 액센추어가 42억 달러 규모의 보안 기업 인수를 통해 제조업의 AI 전환 시장에 본격 대비하고 나섰습니다.",
     "key_claims": [
-      "케빈 월씨의 패드 개혁안은 시장에 가이던스를 주지 않는 것이 핵심이며, 매파적인 <span class=\"text-rose-400 font-medium\">점도표 리스크</span> 속에서도 장기 금리는 안정되는 모습을 보였습니다.",
-      "반도체 가격 상승과 공급 부족은 장기화될 것이며, <span class=\"text-cyan-300 font-semibold\">애플</span>마저 부품 단가 상승으로 인해 차기 아이폰의 가격 인상이 불가피한 상황입니다.",
-      "빅테크 위주의 쏠림(M7) 현상에서 우주와 AI 모델을 포함한 <span class=\"text-cyan-300 font-semibold\">MAP10</span> 생태계로 시장의 헤게모니가 확장되고 있습니다."
+      "케빈 월씨의 패드 개혁안은 시장에 가이던스를 주지 않는 것이 핵심이며, 매파적인 점도표 <span class=\"text-rose-400 font-medium\">리스크</span> 속에서도 장기 금리는 안정되는 모습을 보였습니다.",
+      "<span class=\"text-cyan-300 font-semibold\">반도체</span> 가격 상승과 공급 부족은 장기화될 것이며, 애플마저 부품 단가 상승으로 인해 차기 아이폰의 가격 인상이 불가피한 상황입니다.",
+      "빅테크 위주의 쏠림(M7) 현상에서 우주와 AI 모델을 포함한 MAP10 생태계로 시장의 헤게모니가 확장되고 있습니다."
     ],
     "data_points": [
       "다오 0.5%",
@@ -35,7 +35,7 @@
     ],
     "signal": "bullish",
     "signal_confidence": "medium",
-    "signal_reason": "호르무즈 해협 합의로 <span class=\"text-amber-300 font-bold\">인플레이션 우려</span>가 완화된 가운데, 미국 주도의 반도체 공급망 확대와 AI 수요 폭발이 증시 상승 동력을 지지합니다.",
+    "signal_reason": "<span class=\"text-violet-300 font-medium\">호르무즈 해협</span> 합의로 <span class=\"text-amber-300 font-bold\">인플레이션</span> 우려가 완화된 가운데, 미국 주도의 <span class=\"text-cyan-300 font-semibold\">반도체</span> 공급망 확대와 AI 수요 폭발이 증시 상승 동력을 지지합니다.",
     "key_companies": [
       "Intel(INTC)",
       "Apple(AAPL)",
@@ -46,8 +46,8 @@
       "NVIDIA(NVDA)",
       "SpaceX"
     ],
-    "insight": "반도체 병목이 일반 소비재 가격 인상(애플 아이폰)으로 전가되기 시작하는 <span class=\"text-rose-400 font-medium\">비용 인상 인플레이션</span> 국면이 도래하고 있으며, IT 서비스 및 컨설팅 기업들은 전통 사업 정체에서 벗어나기 위해 제조업 AI 융합 부문으로 적극적인 체질 개선을 시도하고 있습니다.",
-    "action_point": "투자자는 반도체 장비 및 메모리 업계의 장기 공급 부족 수혜를 바탕으로 한 <span class=\"text-cyan-300 font-semibold\">바이더딥(Buy the dip)</span> 전략을 유지하되, 애플 등의 단가 인상이 소비 심리에 미칠 영향과 테크 섹터 내 과도한 자금 쏠림에 따른 변동성을 경계해야 합니다."
+    "insight": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 병목이 일반 소비재 가격 인상(애플 아이폰)으로 전가되기 시작하는 비용 인상 <span class=\"text-amber-300 font-bold\">인플레이션</span> 국면이 도래하고 있으며, IT 서비스 및 컨설팅 기업들은 전통 사업 정체에서 벗어나기 위해 제조업 AI 융합 부문으로 적극적인 체질 개선을 시도하고 있습니다.",
+    "action_point": "투자자는 <span class=\"text-cyan-300 font-semibold\">반도체</span> 장비 및 메모리 업계의 장기 공급 부족 수혜를 바탕으로 한 바이더딥(Buy the dip) 전략을 유지하되, 애플 등의 단가 인상이 소비 심리에 미칠 영향과 테크 섹터 내 과도한 자금 쏠림에 따른 변동성을 경계해야 합니다."
   },
   "classification": {
     "primary_topic": "stock",

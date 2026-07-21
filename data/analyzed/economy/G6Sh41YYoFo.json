@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/G6Sh41YYoFo/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "과거의 고정관념이었던 <span class=\"text-rose-400 font-medium\">금리 인상</span>이나 유가 상승이 주식시장을 망가뜨린다는 매크로 공식들은 <span class=\"text-amber-300 font-bold\">생산성 혁신</span>과 셰일 혁명 등으로 인해 상당수 깨졌습니다. 연준 또한 AI의 파급 효과로 정책 기조를 잡지 못하고 갈팡질팡하고 있으나, 시장은 오히려 AI Capex와 반도체 업황에만 주목하고 있습니다. 주식회사 한국도 원유 중심에서 벗어나 <span class=\"text-cyan-300 font-semibold\">반도체 수출</span>이 경제를 견인하는 <span class=\"text-amber-300 font-bold\">컴퓨팅의 시대</span>에 완전히 안착했습니다.",
+    "summary": "과거의 고정관념이었던 금리 인상이나 <span class=\"text-amber-300 font-bold\">유가 상승</span>이 주식시장을 망가뜨린다는 매크로 공식들은 생산성 혁신과 셰일 혁명 등으로 인해 상당수 깨졌습니다. 연준 또한 AI의 파급 효과로 정책 기조를 잡지 못하고 갈팡질팡하고 있으나, 시장은 오히려 AI Capex와 <span class=\"text-cyan-300 font-semibold\">반도체</span> 업황에만 주목하고 있습니다. 주식회사 한국도 원유 중심에서 벗어나 <span class=\"text-cyan-300 font-semibold\">반도체</span> 수출이 경제를 견인하는 컴퓨팅의 시대에 완전히 안착했습니다.",
     "key_claims": [
-      "미국 시장은 유가 급등과 <span class=\"text-rose-400 font-medium\">금리 인상 우려</span> 속에서도 AI 성장 동력 덕분에 높은 회복탄력성을 보이고 있다.",
-      "AI 소프트웨어 경쟁이 격화되면서 효율 향상이 수요 폭발로 이어지는 <span class=\"text-amber-300 font-bold\">제본스의 역설</span>이 반도체 업계 전체의 칩 수요를 자극하고 있다.",
-      "한국의 반도체 수출액이 원유 수입액의 3배에 달하며, 경제 민감도가 유가에서 <span class=\"text-cyan-300 font-semibold\">반도체 업황</span>으로 완전히 전환되었다."
+      "미국 시장은 <span class=\"text-amber-300 font-bold\">유가</span> 급등과 금리 인상 우려 속에서도 AI 성장 동력 덕분에 높은 회복탄력성을 보이고 있다.",
+      "AI 소프트웨어 경쟁이 격화되면서 효율 향상이 수요 폭발로 이어지는 <span class=\"text-amber-300 font-bold\">제본스의 역설</span>이 <span class=\"text-cyan-300 font-semibold\">반도체</span> 업계 전체의 칩 수요를 자극하고 있다.",
+      "한국의 <span class=\"text-cyan-300 font-semibold\">반도체</span> 수출액이 원유 수입액의 3배에 달하며, 경제 민감도가 <span class=\"text-amber-300 font-bold\">유가</span>에서 <span class=\"text-cyan-300 font-semibold\">반도체</span> 업황으로 완전히 전환되었다."
     ],
     "data_points": [
       "미국 장기 GDP 경제 성장 궤적: 1880년 이후 연평균 약 2% 유지",
@@ -20,7 +20,7 @@
       "오픈AI의 모델 업데이트 주기: 기존 1년 단위에서 최근 3주 단위로 단축"
     ],
     "signal": "bullish",
-    "signal_reason": "전통적 악재의 영향력이 약화되고 <span class=\"text-cyan-300 font-semibold\">반도체 수출</span>이 주도하는 경제 구조적 <span class=\"text-amber-300 font-bold\">체질 개선</span>이 유효하기 때문에 낙관적인 관점을 유지합니다.",
+    "signal_reason": "전통적 악재의 영향력이 약화되고 <span class=\"text-cyan-300 font-semibold\">반도체</span> 수출이 주도하는 경제 구조적 체질 개선이 유효하기 때문에 낙관적인 관점을 유지합니다.",
     "key_companies": [
       "신영증권",
       "Samsung Electronics",
@@ -28,8 +28,8 @@
       "OpenAI",
       "Anthropic"
     ],
-    "insight": "20세기 석유 중심의 경제 구조가 21세기 컴퓨팅과 반도체 중심으로 재편되면서, 전통적 매크로 지표의 주가 영향력은 낮아진 반면 <span class=\"text-cyan-300 font-semibold\">빅테크의 AI 인프라 투자</span> 강도와 속도가 시장의 핵심 생존 공식으로 떠올랐습니다. 이는 효율성이 올라가면 수요가 급증하는 <span class=\"text-amber-300 font-bold\">제본스의 역설</span>이 IT 산업 전반에 적용되는 현상과 맞닿아 있습니다.",
-    "action_point": "전통적 금리/유가 지표로 인한 <span class=\"text-rose-400 font-medium\">일시적 주가 조정</span>은 오히려 펀더멘탈이 탄탄한 <span class=\"text-cyan-300 font-semibold\">반도체 밸류체인 핵심 기업</span>을 저가 매수할 수 있는 좋은 기회입니다."
+    "insight": "20세기 석유 중심의 경제 구조가 21세기 컴퓨팅과 <span class=\"text-cyan-300 font-semibold\">반도체</span> 중심으로 재편되면서, 전통적 매크로 지표의 주가 영향력은 낮아진 반면 빅테크의 AI 인프라 투자 강도와 속도가 시장의 핵심 생존 공식으로 떠올랐습니다. 이는 효율성이 올라가면 수요가 급증하는 <span class=\"text-amber-300 font-bold\">제본스의 역설</span>이 IT 산업 전반에 적용되는 현상과 맞닿아 있습니다.",
+    "action_point": "전통적 금리/<span class=\"text-amber-300 font-bold\">유가</span> 지표로 인한 일시적 주가 <span class=\"text-rose-400 font-medium\">조정</span>은 오히려 펀더멘탈이 탄탄한 <span class=\"text-cyan-300 font-semibold\">반도체</span> 밸류체인 핵심 기업을 저가 매수할 수 있는 좋은 기회입니다."
   },
   "classification": {
     "primary_topic": "economy",

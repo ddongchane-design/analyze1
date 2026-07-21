@@ -8,23 +8,23 @@
     "thumbnail": "https://img.youtube.com/vi/t-A9qvUuBjY/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "미국의 바이오보안법(Biosecure Act) 제재안 하원 통과 지연으로 단기 숏커버링 랠리를 보여주는 중국의 우시앱텍(Wuxi AppTec) 등 CDMO 대기업들의 현지 반등 국면과, 국내 바이오 시총에 미칠 영향력을 점검합니다.",
+    "summary": "미국의 바이오보안법(Biosecure Act) 제재안 하원 통과 지연으로 단기 숏커버링 랠리를 보여주는 <span class=\"text-violet-300 font-medium\">중국</span>의 우시앱텍(Wuxi AppTec) 등 CDMO 대기업들의 현지 반등 국면과, 국내 바이오 시총에 미칠 영향력을 점검합니다.",
     "key_claims": [
-      "미국 상원의 대중 규제 범위 완화 조율 가능성 보도로 중국 CDMO 사들의 대대적인 홍콩 증시 매수 유입.",
-      "중국 내수 임상 파이프라인의 이익 복원이 국가 보조금 지급으로 2년 만에 플러스 턴어라운드를 기록함."
+      "미국 상원의 <span class=\"text-violet-300 font-medium\">대중</span> 규제 범위 완화 조율 가능성 보도로 <span class=\"text-violet-300 font-medium\">중국</span> CDMO 사들의 대대적인 홍콩 증시 매수 유입.",
+      "<span class=\"text-violet-300 font-medium\">중국</span> 내수 임상 파이프라인의 이익 복원이 국가 보조금 지급으로 2년 만에 플러스 턴어라운드를 기록함."
     ],
     "data_points": [
       "우시앱텍(WuXi AppTec) 홍콩 증시 단기 5거래일 합산 상승률: +24.8% 기록",
       "글로벌 제약사들의 중국 임상 의뢰 수주 가속 비율: 전분기 대비 14% 반등"
     ],
     "signal": "neutral",
-    "signal_reason": "중국 기업들의 단기 반등은 강하나, 미국의 정권 교체 시 대대적인 관세 폭탄과 생물 보안 제재가 부활할 확률이 여전히 높아 장기 지속성은 의문이기 때문입니다.",
+    "signal_reason": "<span class=\"text-violet-300 font-medium\">중국</span> 기업들의 단기 반등은 강하나, 미국의 정권 교체 시 대대적인 관세 폭탄과 생물 보안 제재가 부활할 확률이 여전히 높아 장기 지속성은 의문이기 때문입니다.",
     "key_companies": [
       "Wuxi AppTec",
       "삼성바이오로직스"
     ],
-    "insight": "중국 바이오의 단기 숨통 트이기는 한국 삼성바이오로직스 등 국내 CDMO 1등 주식의 독점적 반사이익 속도를 단기적으로 제어할 수 있으나, 장기적인 탈중국 수급 방향은 변함없습니다.",
-    "action_point": "중국 바이오 추격 매수보다는, 규제 우려가 없고 수주 잔고가 사상 최대를 경신하는 삼성바이오로직스의 조정을 비중 확대 기회로 봅니다."
+    "insight": "<span class=\"text-violet-300 font-medium\">중국</span> 바이오의 단기 숨통 트이기는 한국 삼성바이오로직스 등 국내 CDMO 1등 주식의 독점적 반사이익 속도를 단기적으로 제어할 수 있으나, 장기적인 탈<span class=\"text-violet-300 font-medium\">중국</span> 수급 방향은 변함없습니다.",
+    "action_point": "<span class=\"text-violet-300 font-medium\">중국</span> 바이오 추격 매수보다는, 규제 우려가 없고 수주 잔고가 사상 최대를 경신하는 삼성바이오로직스의 <span class=\"text-rose-400 font-medium\">조정</span>을 비중 확대 기회로 봅니다."
   },
   "classification": {
     "primary_topic": "stock",

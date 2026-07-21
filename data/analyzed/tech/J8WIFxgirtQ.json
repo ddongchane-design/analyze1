@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/J8WIFxgirtQ/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "엔비디아 베라루빈의 메모리 삭감 낭설의 실체를 밝히고, 오히려 <span class=\"text-cyan-300 font-semibold\">소캠 2(LPCAMM2) 소켓 다각화</span>와 오픈AI의 <span class=\"text-cyan-300 font-semibold\">장기 메모리 기술(드리밍, 크로니클)</span> 도입에 따른 초과 수요를 전망합니다.",
+    "summary": "엔비디아 베라루빈의 메모리 삭감 낭설의 실체를 밝히고, 오히려 소캠 2(LPCAMM2) 소켓 다각화와 오픈AI의 장기 메모리 기술(드리밍, 크로니클) 도입에 따른 초과 수요를 전망합니다.",
     "key_claims": [
       "베라루빈 스펙 중 192GB 용량이 96GB로 낮아졌으나, 소켓 장착 수가 4배로 늘어나 실질 메모리 수요는 10~20% 증가한다.",
       "오픈AI의 장기 기억 비서(Dreaming) 및 화면 실시간 캡처 코딩 에이전트(Chronicle)는 천천히 동작하는 텍스트 대비 천문학적인 DRAM/NAND 수요를 유발한다.",
-      "구글 지니 3 등 실시간 가상 세계 모델(World Model) 구축에는 한계가 없는 메모리 용량이 필수적이다."
+      "<span class=\"text-cyan-300 font-semibold\">구글</span> 지니 3 등 실시간 가상 세계 모델(World Model) 구축에는 한계가 없는 메모리 용량이 필수적이다."
     ],
     "data_points": [
       "베라루빈 아키텍처 LPDDR5X (소캠 2) 메모리 수요 증가율: 기존 전망 대비 +10% ~ +20%",
@@ -27,7 +27,7 @@
       "삼성전자"
     ],
     "insight": "메모리 감축 루머는 리포팅 와전에 따른 일시적 해프닝이며, 실시간 화면 처리를 동반한 에이전트 AI의 등장은 DRAM 업계에 엄청난 성장의 기회입니다.",
-    "action_point": "일시적인 용량 삭감 노이즈로 메모리 반도체 대장주가 급락할 때 저가 매수에 동참해야 합니다."
+    "action_point": "일시적인 용량 삭감 노이즈로 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span> 대장주가 <span class=\"text-rose-400 font-medium\">급락</span>할 때 저가 매수에 동참해야 합니다."
   },
   "classification": {
     "primary_topic": "tech",

@@ -1,0 +1,40 @@
+{
+  "video": {
+    "id": "UZEZ1KJXQt4",
+    "title": "유조선 1척당 30억? 호르무즈 해협의 숨겨진 계산서 #교양이를부탁해",
+    "published": "2026-07-20T10:30:02+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=UZEZ1KJXQt4",
+    "thumbnail": "https://img.youtube.com/vi/UZEZ1KJXQt4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-violet-300 font-medium\">이란</span>이 <span class=\"text-violet-300 font-medium\">호르무즈 해협</span>을 통과하는 유조선에 배럴당 1달러(대형 유조선 1척당 약 30억 원)의 통행세를 부과하려는 구체적인 입법과 행정 조치를 완료했습니다. 미국이 동결 자산 해제 및 재건 기금(3,000억 달러) 지원 카드로 회유를 시도했으나, <span class=\"text-violet-300 font-medium\">이란</span>은 이를 영토 주권의 문제로 정의하며 페르시아만 주변국과의 공동 관리 체계를 통해 합법화를 추진하고 있어 <span class=\"text-violet-300 font-medium\">중동</span>발 물류 대란과 <span class=\"text-amber-300 font-bold\">유가</span> 불확실성이 상존합니다.",
+    "key_claims": [
+      "<span class=\"text-violet-300 font-medium\">이란</span>은 <span class=\"text-violet-300 font-medium\">호르무즈 해협</span> 통행료 징수를 위한 전담 관청 신설 및 요율 선정을 완료했으며, 통행료 징수를 국가 주권의 핵심 권리로 선언했다.",
+      "미국의 3,000억 달러 규모 경제적 보상 및 해제 제안에도 협상을 거부하고 있으며, 영해 통행세 부과의 정당성을 획득하기 위해 걸프만 주변국들과 공조 체계를 구축하고 있다."
+    ],
+    "data_points": [
+      "호르무즈 해협 산정 통행료: 배럴당 1달러 (200만 배럴급 초대형 유조선 1척당 30억 원 상당)",
+      "미국의 제안 규모: 이란 재건 기금 3,000억 달러 지원 및 동결 자산 조건부 해제 제시"
+    ],
+    "signal": "negative",
+    "signal_reason": "원유 해상 수송의 핵심 통로인 <span class=\"text-violet-300 font-medium\">호르무즈 해협</span>에 대해 <span class=\"text-violet-300 font-medium\">이란</span>이 고액의 통행세를 부과하거나 물리적 봉쇄를 위협함에 따라, 국제 <span class=\"text-amber-300 font-bold\">유가</span> 급등과 해상 운임 인상 등 글로벌 매크로 <span class=\"text-amber-300 font-bold\">인플레이션</span>을 유발하는 악재이기 때문입니다.",
+    "key_companies": [],
+    "insight": "<span class=\"text-violet-300 font-medium\">호르무즈</span> 통행세 부과는 일회성 무력 시위가 아닌 정교하게 계획된 <span class=\"text-violet-300 font-medium\">이란</span>의 법적·행정적 제도화 전략입니다. 동결 자산 해제만으로 봉쇄 <span class=\"text-rose-400 font-medium\">리스크</span>를 되돌리기 어려운 구조적 국면에 진입했으며, 이는 원유 수입 의존도가 높은 아시아 국가들의 무역 수지에 중장기 <span class=\"text-rose-400 font-medium\">리스크</span> 요인입니다.",
+    "action_point": "지정학적 에너지 <span class=\"text-rose-400 font-medium\">리스크</span> 고조에 따른 국제 <span class=\"text-amber-300 font-bold\">유가</span> 및 해운 운임 지수(SCFI 등) 상승에 대비해 정유주 및 해운주의 헷지 포지션 구축을 고려하고, <span class=\"text-amber-300 font-bold\">유가</span> 급등이 미 연준의 <span class=\"text-amber-300 font-bold\">금리 인하</span> 지연으로 이어질 매크로 금리 민감주들의 <span class=\"text-rose-400 font-medium\">리스크</span> 비중을 조절해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "economy",
+      "energy"
+    ],
+    "tags": [
+      "호르무즈통행세",
+      "유조선통행료",
+      "중동지정학리스크",
+      "원유수송관문",
+      "인플레이션우려"
+    ]
+  }
+}

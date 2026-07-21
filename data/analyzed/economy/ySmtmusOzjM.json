@@ -8,23 +8,23 @@
     "thumbnail": "https://img.youtube.com/vi/ySmtmusOzjM/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "트럼프의 호언장담과 달리 이란-미국의 직접적인 무력 보복전이 이어지며 중동 휴전 협상 가능성이 급격히 소실(90% 이상 무산)되었습니다. 여기에 미국의 5월 고용 폭증 여파로 인플레이션 우려가 다시 불붙으며, 연내 금리 인하는커녕 <span class=\"text-rose-400 font-medium\">9월 FOMC 금리 인상론</span>에 베팅하는 트레이더들이 폭증하고 있습니다. 이로 인해 비트코인 ETF에서 대규모 자금이 연속 이탈하고 증시 및 크립토 시장이 동반 급락하며 하방 리스크가 심화되고 있습니다.",
+    "summary": "트럼프의 호언장담과 달리 <span class=\"text-violet-300 font-medium\">이란</span>-미국의 직접적인 무력 보복전이 이어지며 <span class=\"text-violet-300 font-medium\">중동</span> 휴전 협상 가능성이 급격히 소실(90% 이상 무산)되었습니다. 여기에 미국의 5월 고용 폭증 여파로 <span class=\"text-amber-300 font-bold\">인플레이션</span> 우려가 다시 불붙으며, 연내 <span class=\"text-amber-300 font-bold\">금리 인하</span>는커녕 9월 FOMC 금리 인상론에 베팅하는 트레이더들이 폭증하고 있습니다. 이로 인해 비트코인 ETF에서 대규모 자금이 연속 이탈하고 증시 및 크립토 시장이 동반 <span class=\"text-rose-400 font-medium\">급락</span>하며 하방 <span class=\"text-rose-400 font-medium\">리스크</span>가 심화되고 있습니다.",
     "key_claims": [
-      "호르무즈 해협 미군 아파치 헬기 격추/추락을 기점으로 보복 공습이 이어져 지정학적 평화 협상 네러티브가 완전히 붕괴했다.",
-      "고용 지표 과열과 물가 경계감 속에서 옵션 시장 참여자들의 9월 금리 인상 한 차례 단행 베팅 비중이 35%로 급상승했다.",
-      "미국 기준금리가 인플레이션 재발 방어를 위해 고점 유지 또는 추가 인상 위협에 노출되면서, 비트코인 등 위험 자산의 유동성이 꺾였다."
+      "<span class=\"text-violet-300 font-medium\">호르무즈 해협</span> 미군 아파치 헬기 격추/추락을 기점으로 보복 공습이 이어져 지정학적 평화 협상 네러티브가 완전히 붕괴했다.",
+      "고용 지표 <span class=\"text-rose-400 font-medium\">과열</span>과 물가 경계감 속에서 옵션 시장 참여자들의 9월 금리 인상 한 차례 단행 베팅 비중이 35%로 급상승했다.",
+      "미국 기준금리가 <span class=\"text-amber-300 font-bold\">인플레이션</span> 재발 방어를 위해 고점 유지 또는 추가 인상 위협에 노출되면서, 비트코인 등 <span class=\"text-rose-400 font-medium\">위험</span> 자산의 유동성이 꺾였다."
     ],
     "data_points": [
       "9월 금리 인상 확률 베팅 증가세: 한 달 전 1.2% 수준에서 현재 35% 수준으로 폭증",
       "비트코인 ETF 연속 순유출 13일 동안 규모: 약 57,000개 유출"
     ],
     "signal": "bearish",
-    "signal_reason": "전쟁 리스크가 해결될 조짐 없이 반복되는 보복전 양상으로 치달았고, 금리 인하 기대가 완전히 소멸된 것을 넘어 연준의 '금리 인상 위협'이 공식적인 시장 우려로 대두되어 유동성 위축이 이어질 가능성이 높습니다.",
+    "signal_reason": "전쟁 <span class=\"text-rose-400 font-medium\">리스크</span>가 해결될 조짐 없이 반복되는 보복전 양상으로 치달았고, <span class=\"text-amber-300 font-bold\">금리 인하</span> 기대가 완전히 소멸된 것을 넘어 연준의 '금리 인상 위협'이 공식적인 시장 우려로 대두되어 유동성 위축이 이어질 가능성이 높습니다.",
     "key_companies": [
       "JP모건"
     ],
-    "insight": "지정학 불확실성은 유가를 묶어놓더라도 시장 심리를 급격히 동결시킵니다. 특히 <span class=\"text-rose-400 font-medium\">고금리 장기화(Higher for Longer)의 장기화</span>와 인상 압박은 비트코인과 나스닥 빅테크의 무위험 수익률 밸류에이션에 즉각적인 조정을 강제하는 아킬레스건입니다.",
-    "action_point": "물가(CPI) 지표 및 다음 주 FOMC 금리 가이드라인이 명확히 제시되기 전까지는 위험자산 추가 매수를 극도로 자제하고, 현금 비중을 극대화해 리스크 방어 포지션을 취해야 합니다."
+    "insight": "지정학 불확실성은 <span class=\"text-amber-300 font-bold\">유가</span>를 묶어놓더라도 시장 심리를 급격히 동결시킵니다. 특히 <span class=\"text-amber-300 font-bold\">고금리 장기화</span>(Higher for Longer)의 장기화와 인상 압박은 비트코인과 나스닥 빅테크의 무<span class=\"text-rose-400 font-medium\">위험</span> 수익률 밸류에이션에 즉각적인 <span class=\"text-rose-400 font-medium\">조정</span>을 강제하는 아킬레스건입니다.",
+    "action_point": "물가(CPI) 지표 및 다음 주 FOMC 금리 가이드라인이 명확히 제시되기 전까지는 <span class=\"text-rose-400 font-medium\">위험</span>자산 추가 매수를 극도로 자제하고, 현금 비중을 극대화해 <span class=\"text-rose-400 font-medium\">리스크</span> 방어 포지션을 취해야 합니다."
   },
   "classification": {
     "primary_topic": "economy",

@@ -8,21 +8,21 @@
     "thumbnail": "https://img.youtube.com/vi/zaypHtEnJK8/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "급사를 유발할 수 있는 신체 내 <span class=\"text-rose-400 font-medium\">만성염증</span>을 진단하는 핵심 수치로 <span class=\"text-cyan-300 font-semibold\">hs-CRP(고감도 C-반응 단백) 검사</span>가 제시되었습니다. 일반적인 기준치 이하인 0.3~0.4mg/L 수준의 수치라도 지속될 경우 잠재적 위험 요인인 만성염증 상태로 보아야 한다는 분석입니다.",
+    "summary": "급사를 유발할 수 있는 신체 내 만성염증을 진단하는 핵심 수치로 hs-CRP(고감도 C-반응 단백) 검사가 제시되었습니다. 일반적인 기준치 이하인 0.3~0.4mg/L 수준의 수치라도 지속될 경우 잠재적 <span class=\"text-rose-400 font-medium\">위험</span> 요인인 만성염증 상태로 보아야 한다는 분석입니다.",
     "key_claims": [
-      "임상적으로 심각하게 다뤄지지 않는 <span class=\"text-cyan-300 font-semibold\">hs-CRP 0.3~0.4mg/L</span> 수준도 만성염증 환자의 전형적 지표입니다.",
-      "만성염증은 뚜렷한 증상 없이 혈관과 장기를 손상시켜 심혈관 질환 등 <span class=\"text-rose-400 font-medium\">급사의 원인</span>이 될 수 있습니다.",
-      "일회성 검사 수치에 안주하지 말고, 한 달 간격의 추적 검사를 통해 수치의 <span class=\"text-amber-300 font-bold\">지속성 여부</span>를 파악해야 합니다."
+      "임상적으로 심각하게 다뤄지지 않는 hs-CRP 0.3~0.4mg/L 수준도 만성염증 환자의 전형적 지표입니다.",
+      "만성염증은 뚜렷한 증상 없이 혈관과 장기를 손상시켜 심혈관 질환 등 급사의 원인이 될 수 있습니다.",
+      "일회성 검사 수치에 안주하지 말고, 한 달 간격의 추적 검사를 통해 수치의 지속성 여부를 파악해야 합니다."
     ],
     "data_points": [
       "hs-CRP 검사 수치 0.3mg/L 및 0.4mg/L가 연속 검출될 때 만성염증으로 진단",
       "미국 심장학자 폴 리드커(Paul Ridker)의 연구 기준 언급"
     ],
     "signal": "neutral",
-    "signal_reason": "건강 관리 차원의 진단법 소개로 투자 시장에 미치는 영향은 <span class=\"text-rose-400 font-medium\">제한적</span>이나, 예방 의학적 관점의 정보입니다.",
+    "signal_reason": "건강 관리 차원의 진단법 소개로 투자 시장에 미치는 영향은 제한적이나, 예방 의학적 관점의 정보입니다.",
     "key_companies": [],
-    "insight": "기존 의료계가 주목하지 않던 미세한 염증 수치의 변화를 <span class=\"text-amber-300 font-bold\">예방 의학적 관점</span>에서 재해석하는 시도입니다. 이는 개인화된 헬스케어 및 자가 진단 시장의 성장세를 보여주는 단면이기도 합니다.",
-    "action_point": "종합 건강검진 시 혈액 검사 항목에서 <span class=\"text-cyan-300 font-semibold\">hs-CRP 수치</span>를 의도적으로 확인하고, 미세 상승 확인 시 생활 습관 개선 조치를 취해야 합니다."
+    "insight": "기존 의료계가 주목하지 않던 미세한 염증 수치의 변화를 예방 의학적 관점에서 재해석하는 시도입니다. 이는 개인화된 헬스케어 및 자가 진단 시장의 성장세를 보여주는 단면이기도 합니다.",
+    "action_point": "종합 건강검진 시 혈액 검사 항목에서 hs-CRP 수치를 의도적으로 확인하고, 미세 상승 확인 시 생활 습관 개선 조치를 취해야 합니다."
   },
   "classification": {
     "primary_topic": "etc",

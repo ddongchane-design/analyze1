@@ -8,24 +8,24 @@
     "thumbnail": "https://img.youtube.com/vi/-aY9vV7qeEE/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "코스피 지수가 반도체 독주로 버티고 있지만, 현금 창출 능력이 없는 성장주(바이오 등)와 수주형 전력 인프라 산업은 이미 5월부터 하락세로 진입한 <span class=\"text-rose-400 font-medium\">K자형 양극화 장세</span>를 보임. 하이퍼스케일러들의 AI CapEx 지속 가능성과 주식 발행(유상증자)을 통한 자금 조달 리스크가 뇌관이며, 변동성을 이기려면 실적이 증명된 반도체 대장주 보유 및 분산 투자가 필요함.",
+    "summary": "코스피 지수가 <span class=\"text-cyan-300 font-semibold\">반도체</span> 독주로 버티고 있지만, 현금 창출 능력이 없는 성장주(바이오 등)와 수주형 전력 인프라 산업은 이미 5월부터 하락세로 진입한 K자형 양극화 장세를 보임. 하이퍼스케일러들의 AI CapEx 지속 가능성과 주식 발행(유상증자)을 통한 자금 조달 <span class=\"text-rose-400 font-medium\">리스크</span>가 뇌관이며, 변동성을 이기려면 실적이 증명된 <span class=\"text-cyan-300 font-semibold\">반도체</span> 대장주 보유 및 분산 투자가 필요함.",
     "key_claims": [
-      "시장 전반은 이미 5월부터 하락장에 진입했으며 반도체만 강력한 현금 창출력으로 버티는 양극화 상태임.",
-      "하이퍼스케일러들의 투자 지속 여부와 주식 수량 증가(유상증자)를 통한 현금 조달 리스크가 시장의 핵심 뇌관임.",
-      "변동성이 커진 시점에 엉뚱한 매매 대응을 하기보다 확실한 현금 흐름을 지닌 주도주로 리스크를 관리해야 함."
+      "시장 전반은 이미 5월부터 하락장에 진입했으며 <span class=\"text-cyan-300 font-semibold\">반도체</span>만 강력한 현금 창출력으로 버티는 양극화 상태임.",
+      "하이퍼스케일러들의 투자 지속 여부와 주식 수량 증가(유상증자)를 통한 현금 조달 <span class=\"text-rose-400 font-medium\">리스크</span>가 시장의 핵심 뇌관임.",
+      "변동성이 커진 시점에 엉뚱한 매매 대응을 하기보다 확실한 현금 흐름을 지닌 주도주로 <span class=\"text-rose-400 font-medium\">리스크</span>를 관리해야 함."
     ],
     "data_points": [
       "한국 증시 하락 국면 진입 시점: 2026년 5월경부터 대다수 성장주 및 전력 인프라주 하락세 확인"
     ],
     "signal": "neutral",
-    "signal_reason": "반도체 자체의 실적 가시성은 굳건하여 지수를 방어하고 있으나, 비(非)반도체 성장주들의 하락세와 거시 리스크가 증대되는 변동성 구간이기 때문임.",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 자체의 실적 가시성은 굳건하여 지수를 방어하고 있으나, 비(非)<span class=\"text-cyan-300 font-semibold\">반도체</span> 성장주들의 하락세와 거시 <span class=\"text-rose-400 font-medium\">리스크</span>가 증대되는 변동성 구간이기 때문임.",
     "key_companies": [
       "삼성전자(005930)",
       "SK하이닉스(000660)",
       "현대자동차"
     ],
-    "insight": "시장이 금리 인상과 유동성 축소 압박을 받으면 꿈과 스토리 중심의 자산은 급락하고, 실물 현금을 꽂아 넣는 소수 빅테크와 메모리 투톱만 생존하는 차별화가 심화됨.",
-    "action_point": "현금 흐름이 없는 바이오 등 한계 성장주 비중은 축소하고, 반도체 대장주의 포트폴리오 비중을 방어막으로 삼아 분산 유지를 권장함."
+    "insight": "시장이 금리 인상과 유동성 축소 압박을 받으면 꿈과 스토리 중심의 자산은 <span class=\"text-rose-400 font-medium\">급락</span>하고, 실물 현금을 꽂아 넣는 소수 빅테크와 메모리 투톱만 생존하는 차별화가 심화됨.",
+    "action_point": "현금 흐름이 없는 바이오 등 한계 성장주 비중은 축소하고, <span class=\"text-cyan-300 font-semibold\">반도체</span> 대장주의 포트폴리오 비중을 방어막으로 삼아 분산 유지를 권장함."
   },
   "classification": {
     "primary_topic": "stock",

@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/Don29FpthW0/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "코스피의 7거래일 연속 사이드카 발동 등 높은 변동성에도 불구하고, 국내 반도체 대형주는 <span class=\"text-cyan-300 font-semibold\">PER 6배</span> 수준의 현격한 저평가 영역에 머물러 있어 실적이 주가 거품 논란을 압도하고 있음.\n코로나 시기 공급된 전 세계적 <span class=\"text-amber-300 font-bold\">과잉 누적 유동성(M2)</span>이 GDP 대비 70%를 상회하며, 철강·철도 등 구경제 설비투자가 아닌 AI 및 테크 인프라로 유동성이 초집중되는 구조적 현상이 지속됨.\n종전 협상 타결로 인해 국제유가는 WTI 기준 연말까지 <span class=\"text-cyan-300 font-semibold\">70달러대 중반(약 75달러 부근)</span>으로 수렴하며 인플레이션 하방 압력을 제공할 것으로 전망됨.",
+    "summary": "코스피의 7거래일 연속 사이드카 발동 등 높은 변동성에도 불구하고, 국내 <span class=\"text-cyan-300 font-semibold\">반도체</span> 대형주는 PER 6배 수준의 현격한 저평가 영역에 머물러 있어 실적이 주가 거품 논란을 압도하고 있음.\n코로나 시기 공급된 전 세계적 과잉 누적 유동성(M2)이 GDP 대비 70%를 상회하며, 철강·철도 등 구경제 설비투자가 아닌 AI 및 테크 인프라로 유동성이 초집중되는 구조적 현상이 지속됨.\n종전 협상 타결로 인해 국제<span class=\"text-amber-300 font-bold\">유가</span>는 WTI 기준 연말까지 70달러대 중반(약 75달러 부근)으로 수렴하며 <span class=\"text-amber-300 font-bold\">인플레이션</span> 하방 압력을 제공할 것으로 전망됨.",
     "key_claims": [
-      "코스피 지수가 역사적 저점인 7.5배 수준의 낮은 밸류에이션을 기록하고 있어, 반도체 <span class=\"text-cyan-300 font-semibold\">이익 급증</span> 국면에서 추가 상승 여력이 뚜렷함.",
-      "글로벌 유동성 지표(M2)가 다컴버블 당시(GDP 대비 50% 미만)보다 훨씬 높은 상황이며, 이 막대한 유동성이 <span class=\"text-cyan-300 font-semibold\">AI 하드웨어</span>와 반도체 주식 시장을 전폭적으로 지지함.",
-      "케빈 워시의 첫 FOMC 점도표는 다소 매파적으로 인상안이 반영될 수 있으나, <span class=\"text-rose-400 font-medium\">추가 긴축 선언</span>이 배제되는 것만으로도 시장은 안도 랠리를 보일 것임."
+      "코스피 지수가 역사적 저점인 7.5배 수준의 낮은 밸류에이션을 기록하고 있어, <span class=\"text-cyan-300 font-semibold\">반도체</span> 이익 급증 국면에서 추가 상승 여력이 뚜렷함.",
+      "글로벌 유동성 지표(M2)가 다컴버블 당시(GDP 대비 50% 미만)보다 훨씬 높은 상황이며, 이 막대한 유동성이 AI 하드웨어와 <span class=\"text-cyan-300 font-semibold\">반도체</span> 주식 시장을 전폭적으로 지지함.",
+      "케빈 워시의 첫 FOMC 점도표는 다소 매파적으로 인상안이 반영될 수 있으나, 추가 긴축 선언이 배제되는 것만으로도 시장은 안도 랠리를 보일 것임."
     ],
     "data_points": [
       "현재 코스피 선행 PER: 7.5배 (코로나 급락기 최저점 수준)",
@@ -21,13 +21,13 @@
       "다컴버블 대비 GDP 대비 M2 비율 차이: 약 20%포인트 이상 높음 (현재 70%대 상회)"
     ],
     "signal": "bullish",
-    "signal_reason": "전쟁 완화에 따른 매크로 안도감과 압도적인 반도체 이익 전망(PER 6배의 저평가), M2 유동성 잔고가 시장 하방을 견고하게 지지하고 있기 때문입니다.",
+    "signal_reason": "전쟁 완화에 따른 매크로 안도감과 압도적인 <span class=\"text-cyan-300 font-semibold\">반도체</span> 이익 전망(PER 6배의 저평가), M2 유동성 잔고가 시장 하방을 견고하게 지지하고 있기 때문입니다.",
     "key_companies": [
       "삼성전자",
       "SK하이닉스"
     ],
-    "insight": "단순한 가격 과열 논란을 넘어, 이번 사이클의 핵심은 압도적으로 저평가된 펀더멘탈에 있음. 설비투자가 철강, 자동차 등 제조업 전반이 아닌 오직 <span class=\"text-cyan-300 font-semibold\">AI 반도체 인프라</span>에 집중되는 한, 코스피 대형주의 멀티플 리레이팅은 정당화됨.",
-    "action_point": "유가 안정화로 매크로 지표가 안정되는 시점에서 반도체 투톱인 <span class=\"text-cyan-300 font-semibold\">삼성전자와 SK하이닉스</span> 비중을 유지 및 확대하는 바이앤홀드(Buy & Hold) 전략이 유효함."
+    "insight": "단순한 가격 <span class=\"text-rose-400 font-medium\">과열</span> 논란을 넘어, 이번 사이클의 핵심은 압도적으로 저평가된 펀더멘탈에 있음. 설비투자가 철강, 자동차 등 제조업 전반이 아닌 오직 <span class=\"text-cyan-300 font-semibold\">AI 반도체</span> 인프라에 집중되는 한, 코스피 대형주의 멀티플 리레이팅은 정당화됨.",
+    "action_point": "<span class=\"text-amber-300 font-bold\">유가</span> 안정화로 매크로 지표가 안정되는 시점에서 <span class=\"text-cyan-300 font-semibold\">반도체</span> 투톱인 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>와 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 비중을 유지 및 확대하는 바이앤홀드(Buy & Hold) 전략이 유효함."
   },
   "classification": {
     "primary_topic": "stock",

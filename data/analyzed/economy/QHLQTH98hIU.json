@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/QHLQTH98hIU/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "2026년 6월 5일 국내 증시는 코스피 5.54%, 코스닥 4.5% <span class=\"text-rose-400 font-medium\">폭락</span>하며 마감했습니다. 원/달러 환율이 <span class=\"text-amber-300 font-bold\">1,540원대 급등</span>한 주원인은 <span class=\"text-cyan-300 font-semibold\">스페이스X IPO</span> 자금 환전을 위한 외국인의 대규모 주식 매도이며, 엔비디아의 <span class=\"text-cyan-300 font-semibold\">소캠(SoCAM) 스펙 다운</span> 우려는 로파워 디램 부족에 대응해 CPU 판매를 극대화하려는 효율화 전략일 뿐 펀더멘탈 훼손이 아니라는 분석입니다.",
+    "summary": "2026년 6월 5일 국내 증시는 코스피 5.54%, 코스닥 4.5% 폭락하며 마감했습니다. 원/달러 <span class=\"text-amber-300 font-bold\">환율</span>이 1,540원대 급등한 주원인은 <span class=\"text-cyan-300 font-semibold\">스페이스X</span> IPO 자금 환전을 위한 외국인의 대규모 주식 매도이며, 엔비디아의 소캠(SoCAM) 스펙 다운 우려는 로파워 디램 부족에 대응해 CPU 판매를 극대화하려는 효율화 전략일 뿐 펀더멘탈 훼손이 아니라는 분석입니다.",
     "key_claims": [
-      "원/달러 환율 급등은 시스템 위기가 아닌 <span class=\"text-cyan-300 font-semibold\">스페이스X IPO</span> 수급 블랙홀에 따른 일시적 현상입니다.",
-      "엔비디아의 <span class=\"text-cyan-300 font-semibold\">소캠 용량 축소</span>는 전체 D램 시장 규모(TAM)를 줄이지 않으며, CPU와 HBM 생태계 활성화로 연결될 수 있습니다.",
-      "시장 급락은 <span class=\"text-rose-400 font-medium\">과도한 공포(Sell on Fear)</span>에 기반한 기술적 조정이므로 매도 동참은 지양해야 합니다."
+      "원/달러 <span class=\"text-amber-300 font-bold\">환율</span> 급등은 시스템 위기가 아닌 <span class=\"text-cyan-300 font-semibold\">스페이스X</span> IPO 수급 블랙홀에 따른 일시적 현상입니다.",
+      "엔비디아의 소캠 용량 축소는 전체 D램 시장 규모(TAM)를 줄이지 않으며, CPU와 <span class=\"text-cyan-300 font-semibold\">HBM</span> 생태계 활성화로 연결될 수 있습니다.",
+      "시장 <span class=\"text-rose-400 font-medium\">급락</span>은 과도한 공포(Sell on Fear)에 기반한 기술적 <span class=\"text-rose-400 font-medium\">조정</span>이므로 매도 동참은 지양해야 합니다."
     ],
     "data_points": [
       "코스피 5.54% 하락한 8,160선 마감, 코스닥 4.5% 하락한 1,002선 마감",
@@ -21,7 +21,7 @@
       "삼성전자 6%대 하락, SK하이닉스 10% 가까이 폭락"
     ],
     "signal": "neutral",
-    "signal_reason": "스페이스X IPO 환전으로 인한 외국인 수급 꼬임과 소캠 노이즈로 <span class=\"text-rose-400 font-medium\">단기 변동성</span>이 극대화되었으나, 펀더멘탈은 견고하므로 과도한 낙폭은 매수 기회입니다.",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span> IPO 환전으로 인한 외국인 수급 꼬임과 소캠 노이즈로 단기 변동성이 극대화되었으나, 펀더멘탈은 견고하므로 과도한 낙폭은 매수 기회입니다.",
     "key_companies": [
       "삼성전자",
       "SK하이닉스",
@@ -29,8 +29,8 @@
       "엔비디아",
       "PSK"
     ],
-    "insight": "이번 폭락은 한국 증시의 <span class=\"text-rose-400 font-medium\">얕은 시가총액 구조(반도체 편중)</span>와 외환시장 취약성이 겹쳐 발생한 수급적 현상입니다. 소캠 스펙 조절의 본질은 '수요 둔화'가 아닌 '<span class=\"text-amber-300 font-bold\">공급 부족(쇼티지)</span>'이므로, 향후 CPU 공급이 원활해지면 결국 <span class=\"text-cyan-300 font-semibold\">HBM4</span> 등 고부가가치 메모리 수요의 동반 상승을 견인하게 됩니다.",
-    "action_point": "환율 수급 꼬임이 풀릴 것으로 예상되는 선물옵션 만기일(6/11) 및 FMC(6/18) 전후까지 분할 매수 관점으로 접근하되, 모멘텀이 약한 종목을 매도하고 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 등 낙폭과대 반도체 대형주로 교체하는 전략이 유효합니다."
+    "insight": "이번 폭락은 한국 증시의 얕은 시가총액 구조(<span class=\"text-cyan-300 font-semibold\">반도체</span> 편중)와 외환시장 <span class=\"text-rose-400 font-medium\">취약성</span>이 겹쳐 발생한 수급적 현상입니다. 소캠 스펙 조절의 본질은 '수요 둔화'가 아닌 '공급 부족(쇼티지)'이므로, 향후 CPU 공급이 원활해지면 결국 <span class=\"text-cyan-300 font-semibold\">HBM</span>4 등 고부가가치 메모리 수요의 동반 상승을 견인하게 됩니다.",
+    "action_point": "<span class=\"text-amber-300 font-bold\">환율</span> 수급 꼬임이 풀릴 것으로 예상되는 선물옵션 만기일(6/11) 및 FMC(6/18) 전후까지 분할 매수 관점으로 접근하되, 모멘텀이 약한 종목을 매도하고 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 등 낙폭과대 <span class=\"text-cyan-300 font-semibold\">반도체</span> 대형주로 교체하는 전략이 유효합니다."
   },
   "classification": {
     "primary_topic": "economy",

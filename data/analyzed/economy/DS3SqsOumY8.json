@@ -8,18 +8,18 @@
     "thumbnail": "https://img.youtube.com/vi/DS3SqsOumY8/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "미국과 이란 간의 호르무즈 해협 봉쇄 해제 및 해상 자금 해제 협상이 최종 타결 단계에 도달한 가운데, 역사적인 중동 상인들의 생태학적 특징과 미국을 상대로 압도적인 밀고 당기기를 보여준 이란 외교관들의 노련한 <span class=\"text-amber-300 font-bold\">협상력 비하인드 스토리</span>를 조명함.",
+    "summary": "미국과 <span class=\"text-violet-300 font-medium\">이란</span> 간의 <span class=\"text-violet-300 font-medium\">호르무즈 해협</span> 봉쇄 해제 및 해상 자금 해제 협상이 최종 타결 단계에 도달한 가운데, 역사적인 <span class=\"text-violet-300 font-medium\">중동</span> 상인들의 생태학적 특징과 미국을 상대로 압도적인 밀고 당기기를 보여준 <span class=\"text-violet-300 font-medium\">이란</span> 외교관들의 노련한 협상력 비하인드 스토리를 조명함.",
     "key_claims": [
-      "이란은 오랜 페르시아 상인 역사에서 기인한 극단적인 실리주의와 고도의 줄타기 협상 전술을 지님.",
+      "<span class=\"text-violet-300 font-medium\">이란</span>은 오랜 페르시아 상인 역사에서 기인한 극단적인 실리주의와 고도의 줄타기 협상 전술을 지님.",
       "미국의 강력한 제재 속에서도 동결 자금을 받아내고 봉쇄 해제를 이끄는 등 외교적 주도권을 행사함."
     ],
     "data_points": [],
     "signal": "neutral",
     "signal_confidence": "high",
-    "signal_reason": "이란 협상가들의 성향과 외교사적 에피소드를 다룬 순수 시사 교양용 콘텐츠이므로 금융 투자 시장에 미치는 직접적인 영향은 없기 때문임.",
+    "signal_reason": "<span class=\"text-violet-300 font-medium\">이란</span> 협상가들의 성향과 외교사적 에피소드를 다룬 순수 시사 교양용 콘텐츠이므로 금융 투자 시장에 미치는 직접적인 영향은 없기 때문임.",
     "key_companies": [],
-    "insight": "중동 협상은 단순 군사력 비교가 아니라 국가 간의 교착된 불확실성을 역이용하여 상대의 급소를 흔들고 실리를 최대화하는 극도의 상업적 거래에 가까움.",
-    "action_point": "지정학 리스크 완화에 따른 WTI 유가 하락 안정 추세를 펀더멘탈의 기본으로 삼고, 중동 관련 추가 변수의 단기 합의안 도출 시점을 모니터링하는 참고용으로 활용함."
+    "insight": "<span class=\"text-violet-300 font-medium\">중동</span> 협상은 단순 군사력 비교가 아니라 국가 간의 교착된 불확실성을 역이용하여 상대의 급소를 흔들고 실리를 최대화하는 극도의 상업적 거래에 가까움.",
+    "action_point": "지정학 <span class=\"text-rose-400 font-medium\">리스크</span> 완화에 따른 WTI <span class=\"text-amber-300 font-bold\">유가</span> 하락 안정 추세를 펀더멘탈의 기본으로 삼고, <span class=\"text-violet-300 font-medium\">중동</span> 관련 추가 변수의 단기 합의안 도출 시점을 모니터링하는 참고용으로 활용함."
   },
   "classification": {
     "primary_topic": "economy",

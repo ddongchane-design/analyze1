@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/c3uAzrtUR9o/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "전직 삼성전자 공정개발 연구원 박준영 대표는 반도체 시장의 변동성은 레버리지 수급 요인일 뿐, 업황의 본질은 변함이 없다고 강조했습니다. 특히 설비 증설 리드타임과 핵심 장비 쇼티지로 인해 2027년 10월 이전까지 메모리 <span class=\"text-cyan-300 font-semibold\">웨이퍼 공급량(Q)</span>이 추가될 확률은 0%이며, 장기 공급 계약(LTA) 비중 확대로 메모리는 사이클 산업에서 탈피하고 있습니다.",
+    "summary": "전직 <span class=\"text-cyan-300 font-semibold\">삼성전자</span> 공정개발 연구원 박준영 대표는 <span class=\"text-cyan-300 font-semibold\">반도체</span> 시장의 변동성은 레버리지 수급 요인일 뿐, 업황의 본질은 변함이 없다고 강조했습니다. 특히 설비 증설 리드타임과 핵심 장비 쇼티지로 인해 2027년 10월 이전까지 메모리 웨이퍼 공급량(Q)이 추가될 확률은 0%이며, 장기 공급 계약(LTA) 비중 확대로 메모리는 사이클 산업에서 탈피하고 있습니다.",
     "key_claims": [
-      "최근 반도체 급락은 펀더멘탈 훼손이 아닌, 5월 말 출시된 레버리지 ETF와 글로벌 투자은행의 노이즈 보고서가 유발한 센티멘트 붕괴 및 수급 교란이다.",
-      "신규 팹 건설 및 ASML 등 독점 장비사들의 리드타임(최소 1년 반 대기) 고려 시, 2027년 말까지 메모리 웨이퍼 생산량(Q)이 유의미하게 늘어날 가능성은 전무하다.",
+      "최근 <span class=\"text-cyan-300 font-semibold\">반도체</span> <span class=\"text-rose-400 font-medium\">급락</span>은 펀더멘탈 훼손이 아닌, 5월 말 출시된 레버리지 ETF와 글로벌 투자은행의 노이즈 보고서가 유발한 센티멘트 붕괴 및 수급 교란이다.",
+      "신규 팹 건설 및 <span class=\"text-cyan-300 font-semibold\">ASML</span> 등 독점 장비사들의 리드타임(최소 1년 반 대기) 고려 시, 2027년 말까지 메모리 웨이퍼 생산량(Q)이 유의미하게 늘어날 가능성은 전무하다.",
       "메모리는 기존 B2C의 '선택 사양'에서 AI 가속기 대역폭 병목을 막는 '필수 스펙'으로 지위가 격상되었으며, B2B LTA 계약 구조로 인해 가격 변동의 완충 장치가 마련되었다."
     ],
     "data_points": [
@@ -27,8 +27,8 @@
       "SK하이닉스(000660)",
       "ASML(ASML)"
     ],
-    "insight": "반도체 산업은 과거의 단순한 B2C 수요 사이클에서 탈피하여, 엔터프라이즈 AI 시스템의 성능을 결정짓는 B2B 인프라 산업으로 구조적 전환(Re-rating)을 이루고 있습니다. 공급 과잉 우려는 최소 2027년 하반기까지 유발될 수 없는 물리적 한계가 존재합니다.",
-    "action_point": "단기 변동성에 흔들리지 말고 국내 반도체 투톱(<span class=\"text-cyan-300 font-semibold\">삼성전자</span>, <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>)의 비중을 안정적으로 유지하며, ASML 등 글로벌 독점 반도체 장비사의 주가 조정을 매수 기회로 활용할 것을 권장합니다."
+    "insight": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 산업은 과거의 단순한 B2C 수요 사이클에서 탈피하여, 엔터프라이즈 AI 시스템의 성능을 결정짓는 B2B 인프라 산업으로 구조적 전환(Re-rating)을 이루고 있습니다. 공급 과잉 우려는 최소 2027년 하반기까지 유발될 수 없는 물리적 한계가 존재합니다.",
+    "action_point": "단기 변동성에 흔들리지 말고 국내 <span class=\"text-cyan-300 font-semibold\">반도체</span> 투톱(<span class=\"text-cyan-300 font-semibold\">삼성전자</span>, <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>)의 비중을 안정적으로 유지하며, <span class=\"text-cyan-300 font-semibold\">ASML</span> 등 글로벌 독점 <span class=\"text-cyan-300 font-semibold\">반도체</span> 장비사의 주가 <span class=\"text-rose-400 font-medium\">조정</span>을 매수 기회로 활용할 것을 권장합니다."
   },
   "classification": {
     "primary_topic": "stock",

@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/7Y8Q1fhFjpU/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 역사적인 IPO 상장과 상장 첫날의 주가 흐름, 그리고 주관사인 골드만삭스의 인위적인 주가 부양 및 <span class=\"text-rose-400 font-medium\">단기 변동성 리스크</span>를 분석합니다. 또한 스페이스X와 연계된 <span class=\"text-cyan-300 font-semibold\">xAI</span>의 우주 데이터 센터 비전 및 AI 인프라 투자 지속 여부를 조명합니다. 시장 전반적으로는 기술주 집중에서 벗어나 타 섹터로 자금이 확산되는 흐름과 반도체 하드웨어의 병목 현상을 논의합니다.",
+    "summary": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 역사적인 IPO 상장과 상장 첫날의 주가 흐름, 그리고 주관사인 골드만삭스의 인위적인 주가 부양 및 단기 변동성 <span class=\"text-rose-400 font-medium\">리스크</span>를 분석합니다. 또한 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>와 연계된 xAI의 우주 데이터 센터 비전 및 AI 인프라 투자 지속 여부를 조명합니다. 시장 전반적으로는 기술주 집중에서 벗어나 타 섹터로 자금이 확산되는 흐름과 <span class=\"text-cyan-300 font-semibold\">반도체</span> 하드웨어의 병목 현상을 논의합니다.",
     "key_claims": [
-      "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 상장 초기 주가는 공모가($135) 대비 높은 호가($175)를 기록했으나, 15일간의 플리핑 금지 페널티가 끝나는 시점에 <span class=\"text-rose-400 font-medium\">급격한 매물 출회 가능성</span>이 존재함",
-      "지상 클라우드의 전력 및 냉각 문제를 해결하기 위해 <span class=\"text-cyan-300 font-semibold\">우주 데이터 센터</span>가 대안으로 제시되고 있으며, 이는 실행 속도(머스크 타임)와 우주 쓰레기 규제가 관건임",
-      "AI 투자 지속성과 관련하여 기업들의 <span class=\"text-rose-400 font-medium\">ROI(투자 회수율) 우려</span>가 커지고 있으며, 상대적으로 저렴한 <span class=\"text-violet-300 font-medium\">중국산 대체 AI 모델</span>로의 이탈 현상이 발생하고 있음"
+      "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 상장 초기 주가는 공모가($135) 대비 높은 호가($175)를 기록했으나, 15일간의 플리핑 금지 페널티가 끝나는 시점에 급격한 매물 출회 가능성이 존재함",
+      "지상 클라우드의 전력 및 냉각 문제를 해결하기 위해 우주 데이터 센터가 대안으로 제시되고 있으며, 이는 실행 속도(머스크 타임)와 우주 쓰레기 규제가 관건임",
+      "AI 투자 지속성과 관련하여 기업들의 ROI(투자 회<span class=\"text-rose-400 font-medium\">수율</span>) 우려가 커지고 있으며, 상대적으로 저렴한 <span class=\"text-violet-300 font-medium\">중국</span>산 대체 AI 모델로의 이탈 현상이 발생하고 있음"
     ],
     "data_points": [
       "스페이스X 공모가 135달러, 상장 첫날 호가 175달러(공모가 대비 29% 상승)",
@@ -21,7 +21,7 @@
       "골드만삭스의 내년 AI 하이퍼스케일러 CAPEX 전망치 1조 2,000억 ~ 1조 5,000억 달러"
     ],
     "signal": "bullish",
-    "signal_reason": "상장 초기 금융공학적 주가 부양책과 <span class=\"text-cyan-300 font-semibold\">반도체 및 하드웨어 공급 부족</span>에 따른 AI 인프라 투자 가속화로 단기적인 상승 모멘텀이 강하게 유지되고 있음",
+    "signal_reason": "상장 초기 금융공학적 주가 부양책과 <span class=\"text-cyan-300 font-semibold\">반도체</span> 및 하드웨어 공급 부족에 따른 AI 인프라 투자 가속화로 단기적인 상승 모멘텀이 강하게 유지되고 있음",
     "key_companies": [
       "SpaceX",
       "xAI",
@@ -29,8 +29,8 @@
       "NVIDIA",
       "Micron"
     ],
-    "insight": "지상의 전력망 한계와 주민 반발을 피하기 위해 제시된 <span class=\"text-cyan-300 font-semibold\">우주 데이터 센터</span>는 AI의 전력 공급 한계를 돌파하기 위한 핵심 <span class=\"text-amber-300 font-bold\">메가트렌드</span>로 부상할 잠재력이 있지만, 실질적인 기술 검증과 천문학적인 <span class=\"text-rose-400 font-medium\">실행 리스크(머스크 타임)</span>를 투자자가 어떻게 평가하느냐가 장기 밸류에이션의 핵심입니다.",
-    "action_point": "단기적으로는 스페이스X IPO에 따른 <span class=\"text-cyan-300 font-semibold\">우주/항공 및 반도체 장비 관련주</span>의 모멘텀을 활용하되, 장기적으로는 기업들의 AI 도입 실적 및 <span class=\"text-rose-400 font-medium\">ROI 개선 여부</span>를 모니터링하여 기술주 조정 리스크에 대비해야 합니다."
+    "insight": "지상의 전력망 한계와 주민 반발을 피하기 위해 제시된 우주 데이터 센터는 AI의 전력 공급 한계를 돌파하기 위한 핵심 메가트렌드로 부상할 잠재력이 있지만, 실질적인 기술 검증과 천문학적인 실행 <span class=\"text-rose-400 font-medium\">리스크</span>(머스크 타임)를 투자자가 어떻게 평가하느냐가 장기 밸류에이션의 핵심입니다.",
+    "action_point": "단기적으로는 <span class=\"text-cyan-300 font-semibold\">스페이스X</span> IPO에 따른 우주/항공 및 <span class=\"text-cyan-300 font-semibold\">반도체</span> 장비 관련주의 모멘텀을 활용하되, 장기적으로는 기업들의 AI 도입 실적 및 ROI 개선 여부를 모니터링하여 기술주 <span class=\"text-rose-400 font-medium\">조정</span> <span class=\"text-rose-400 font-medium\">리스크</span>에 대비해야 합니다."
   },
   "classification": {
     "primary_topic": "space",

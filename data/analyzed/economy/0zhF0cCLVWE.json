@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/0zhF0cCLVWE/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "글로벌 금리 인하 기조 속에서도 미국의 과도한 재정 적자와 국채 공급 과잉으로 인해 <span class=\"text-rose-400 font-medium\">미국 장기 국채 금리</span>가 하락하지 않고 구조적으로 상승하는 현상을 분석함. 미국은 AI 산업의 폭발적 성장을 통한 명목 GDP 성장률 상승과 리쇼어링, 관세 정책을 통해 재정 적자를 감당하려는 구조적 전술을 펴고 있으며, 원-달러 환율 <span class=\"text-amber-300 font-bold\">1,500원선이 뉴노멀</span>로 자리 잡을 가능성이 대두됨.",
+    "summary": "글로벌 <span class=\"text-amber-300 font-bold\">금리 인하</span> 기조 속에서도 미국의 과도한 재정 적자와 국채 공급 과잉으로 인해 미국 장기 국채 금리가 하락하지 않고 구조적으로 상승하는 현상을 분석함. 미국은 AI 산업의 폭발적 성장을 통한 명목 GDP 성장률 상승과 리쇼어링, 관세 정책을 통해 재정 적자를 감당하려는 구조적 전술을 펴고 있으며, 원-달러 <span class=\"text-amber-300 font-bold\">환율</span> 1,500원선이 뉴노멀로 자리 잡을 가능성이 대두됨.",
     "key_claims": [
       "미국의 재정 적자는 연간 2조 달러 규모로 명목 성장률보다 빠르게 부채가 누적되는 불안정한 구도임.",
-      "중앙은행이 금리 인하를 선언했음에도 채권 시장의 공급 과잉 프리미엄(수급 공포) 때문에 장기 금리가 우상향함.",
+      "중앙은행이 <span class=\"text-amber-300 font-bold\">금리 인하</span>를 선언했음에도 채권 시장의 공급 과잉 프리미엄(수급 공포) 때문에 장기 금리가 우상향함.",
       "미국의 AI 설비 투자(Capex) 증가는 중립 금리 자체를 올리고 있으며, 성공 시 명목 성장으로 재정을 갚는 유일한 탈출구임."
     ],
     "data_points": [
@@ -20,10 +20,10 @@
       "원-달러 환율 지지 전망선: 1,500원대 중반 고착화 우려"
     ],
     "signal": "neutral",
-    "signal_reason": "AI 중심의 실질 성장이 매크로 부채 리스크를 상쇄하는 흐름이 이어지고 있으나, 미 국채 수급 불안 및 고금리 장기화, 고환율 뉴노멀 기조는 국내 금융시장에 잠재적 리스크 압박으로 공존함.",
+    "signal_reason": "AI 중심의 실질 성장이 매크로 부채 <span class=\"text-rose-400 font-medium\">리스크</span>를 상쇄하는 흐름이 이어지고 있으나, 미 국채 수급 불안 및 <span class=\"text-amber-300 font-bold\">고금리 장기화</span>, 고<span class=\"text-amber-300 font-bold\">환율</span> 뉴노멀 기조는 국내 금융시장에 잠재적 <span class=\"text-rose-400 font-medium\">리스크</span> 압박으로 공존함.",
     "key_companies": [],
-    "insight": "미국의 관세와 리쇼어링, AI 투자 올인은 재정 위기를 성장으로 돌파하려는 플랜이며, 엔화와 위안화의 약세 동행 속에서 원화 역시 1,500원대 환율이 단순 일시적 이상이 아닌 고질적 레벨일 수 있음을 인지해야 함.",
-    "action_point": "고환율 및 고금리 고착화 환경에서 달러 자산 대비 국내 비반도체 자산의 소외가 지속될 수 있으므로, 환헤지 및 미국 AI 밸류체인 직투 비중을 견고히 조율할 필요가 있음."
+    "insight": "미국의 관세와 리쇼어링, AI 투자 올인은 재정 위기를 성장으로 돌파하려는 플랜이며, 엔화와 위안화의 약세 동행 속에서 원화 역시 1,500원대 <span class=\"text-amber-300 font-bold\">환율</span>이 단순 일시적 이상이 아닌 고질적 레벨일 수 있음을 인지해야 함.",
+    "action_point": "고<span class=\"text-amber-300 font-bold\">환율</span> 및 <span class=\"text-amber-300 font-bold\">고금리</span> 고착화 환경에서 달러 자산 대비 국내 비<span class=\"text-cyan-300 font-semibold\">반도체</span> 자산의 소외가 지속될 수 있으므로, 환헤지 및 미국 AI 밸류체인 직투 비중을 견고히 조율할 필요가 있음."
   },
   "classification": {
     "primary_topic": "economy",

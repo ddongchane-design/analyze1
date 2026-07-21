@@ -8,12 +8,12 @@
     "thumbnail": "https://img.youtube.com/vi/glir1AwLx-k/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "새로운 연준 의장 케빈 워시 취임 후 진행된 6월 FOMC에서 <span class=\"text-rose-400 font-medium\">긴축 공포</span>가 다시 부각되며 시장 금리가 급등했습니다.\n워시 의장은 포워드 가이던스를 축소하고 9명의 위원이 금리 인상에 투표하는 등 매파적 입장을 취했으며, AI 투자 확대로 인한 <span class=\"text-amber-300 font-bold\">중립 금리 상승</span>을 TF를 통해 모니터링하고 있습니다.\n미국의 재정적자 확대와 국채 공급 과잉 우려 속에 한국 역시 고성장과 인플레이션 압력으로 한국은행이 <span class=\"text-rose-400 font-medium\">기준금리를 최대 3.5%까지 인상</span>할 가능성이 제기되었습니다.",
+    "summary": "새로운 연준 의장 케빈 워시 취임 후 진행된 6월 FOMC에서 긴축 공포가 다시 부각되며 시장 금리가 급등했습니다.\n워시 의장은 포워드 가이던스를 축소하고 9명의 위원이 금리 인상에 투표하는 등 매파적 입장을 취했으며, AI 투자 확대로 인한 중립 금리 상승을 TF를 통해 모니터링하고 있습니다.\n미국의 재정적자 확대와 국채 공급 과잉 우려 속에 한국 역시 고성장과 <span class=\"text-amber-300 font-bold\">인플레이션</span> 압력으로 한국은행이 기준금리를 최대 3.5%까지 인상할 가능성이 제기되었습니다.",
     "key_claims": [
       "케빈 워시 체제의 연준은 시장과의 소통을 극도로 축소하는 '구두 긴축' 전략을 통해 추가적인 금리 인상 효과를 유도하고 있다.",
-      "AI 및 ICT 설비 투자의 구조적 증가는 미국의 잠재성장률과 <span class=\"text-amber-300 font-bold\">중립 금리(Neutral Rate)</span>를 끌어올려 고금리 장기화(Higher for Longer)를 유도한다.",
-      "미국의 만성적 <span class=\"text-rose-400 font-medium\">재정적자 증가</span>와 국방비 증액은 국채 발행 물량 부담으로 이어져 채권 금리 상승을 촉진한다.",
-      "한국은 공급발 인플레이션 취약성과 높은 성장률(3%대 중반 예상)로 인해 한국은행의 <span class=\"text-rose-400 font-medium\">100bp 추가 금리 인상</span>이 단행될 수 있다."
+      "AI 및 ICT 설비 투자의 구조적 증가는 미국의 잠재성장률과 중립 금리(Neutral Rate)를 끌어올려 <span class=\"text-amber-300 font-bold\">고금리 장기화</span>(Higher for Longer)를 유도한다.",
+      "미국의 만성적 재정적자 증가와 국방비 증액은 국채 발행 물량 부담으로 이어져 채권 금리 상승을 촉진한다.",
+      "한국은 공급발 <span class=\"text-amber-300 font-bold\">인플레이션</span> <span class=\"text-rose-400 font-medium\">취약성</span>과 높은 성장률(3%대 중반 예상)로 인해 한국은행의 100bp 추가 금리 인상이 단행될 수 있다."
     ],
     "data_points": [
       "6월 달 FMC 직후에 2년물 금리가 4.2%까지 튀었고요. 10년물 금리도 4.5%를 상회를 했습니다. 정책 금리는 안 건드렸죠. 그대로 이제 상단 기준으로는 3.75%로 유지를 했는데",
@@ -28,12 +28,12 @@
     ],
     "signal": "bearish",
     "signal_confidence": "high",
-    "signal_reason": "미국과 한국 모두 고금리 기조가 상당 기간 지속되거나 추가 인상될 확률이 매우 높아졌고, 재정적자 심화에 따른 국채 발행 증가 압력으로 채권 시장의 <span class=\"text-rose-400 font-medium\">유동성 경색 위험</span>이 가중되고 있기 때문입니다.",
+    "signal_reason": "미국과 한국 모두 <span class=\"text-amber-300 font-bold\">고금리</span> 기조가 상당 기간 지속되거나 추가 인상될 확률이 매우 높아졌고, 재정적자 심화에 따른 국채 발행 증가 압력으로 채권 시장의 유동성 경색 <span class=\"text-rose-400 font-medium\">위험</span>이 가중되고 있기 때문입니다.",
     "key_companies": [
       "iM Securities"
     ],
-    "insight": "케빈 워시의 연준은 과거의 친절한 소통 방식을 탈피하여 시장에 의도적인 불확실성을 제공하고 있습니다. AI 혁명이 촉발한 중립 금리 상승은 시장 참여자들의 밸류에이션 모델 수정을 요구하며, 향후 실적이 뒷받침되지 않는 부실 AI 기업들에 대한 매서운 <span class=\"text-rose-400 font-medium\">옥석 가리기</span>를 강제할 것입니다.",
-    "action_point": "고금리 환경이 장기화됨에 따라 부채 비율이 높고 조달 비용 부담이 큰 성장주 투자를 줄이고, <span class=\"text-cyan-300 font-semibold\">현금 창출 능력</span>이 검증된 빅테크 위주로 포트폴리오를 압축해야 합니다. 또한 한국은행의 금리 인상 가능성에 대비하여 고금리 채권 및 머니마켓펀드(MMF) 등 안정형 자산의 비중을 높여야 합니다."
+    "insight": "케빈 워시의 연준은 과거의 친절한 소통 방식을 탈피하여 시장에 의도적인 불확실성을 제공하고 있습니다. AI 혁명이 촉발한 중립 금리 상승은 시장 참여자들의 밸류에이션 모델 수정을 요구하며, 향후 실적이 뒷받침되지 않는 <span class=\"text-rose-400 font-medium\">부실</span> AI 기업들에 대한 매서운 옥석 가리기를 강제할 것입니다.",
+    "action_point": "<span class=\"text-amber-300 font-bold\">고금리</span> 환경이 장기화됨에 따라 부채 비율이 높고 조달 비용 부담이 큰 성장주 투자를 줄이고, 현금 창출 능력이 검증된 빅테크 위주로 포트폴리오를 압축해야 합니다. 또한 한국은행의 금리 인상 가능성에 대비하여 <span class=\"text-amber-300 font-bold\">고금리</span> 채권 및 머니마켓펀드(MMF) 등 안정형 자산의 비중을 높여야 합니다."
   },
   "classification": {
     "primary_topic": "economy",

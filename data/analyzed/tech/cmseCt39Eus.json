@@ -8,7 +8,7 @@
     "thumbnail": "https://img.youtube.com/vi/cmseCt39Eus/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "미중 양국이 정보 안보 및 경제 최적화 솔루션을 장악하기 위해 <span class=\"text-violet-300 font-medium\">양자 컴퓨터 상용화</span> 경쟁을 벌이고 있으며, <span class=\"text-cyan-300 font-semibold\">엔비디아</span>는 이 전환 단계의 하이브리드 시장 선점을 위해 양자 에뮬레이터(<span class=\"text-cyan-300 font-semibold\">QODA</span>) 플랫폼을 구축하고 있습니다.",
+    "summary": "미중 양국이 정보 안보 및 경제 최적화 솔루션을 장악하기 위해 양자 컴퓨터 상용화 경쟁을 벌이고 있으며, 엔비디아는 이 전환 단계의 하이브리드 시장 선점을 위해 양자 에뮬레이터(QODA) 플랫폼을 구축하고 있습니다.",
     "key_claims": [
       "양자 컴퓨터는 기존 슈퍼컴퓨터로 수십만 년 걸릴 조합 최적화 문제 및 암호 체계 해독을 단기간에 해결할 수 있다.",
       "미시 세계 현상을 직접 모델링할 수 있는 양자 컴퓨터는 바이오/소재 신물질 개발의 필수 인프라가 될 것이다.",
@@ -23,7 +23,7 @@
       "NVIDIA"
     ],
     "insight": "양자 컴퓨터는 단순한 연산 기기를 넘어 기존 블록체인/보안 생태계를 재정의하는 기술이며, 엔비디아의 QODA 플랫폼 진입은 전통 컴퓨팅 인프라 지배력을 미래 양자 인프라까지 자동 연장시키는 대단히 영리한 시도입니다.",
-    "action_point": "미국과 중국의 국가 전략 기술 예산 집행이 강화되는 양자 통신 및 특화 하드웨어 핵심 IP 보유 기업에 대한 장기 관찰이 필요합니다."
+    "action_point": "미국과 <span class=\"text-violet-300 font-medium\">중국</span>의 국가 전략 기술 예산 집행이 강화되는 양자 통신 및 특화 하드웨어 핵심 IP 보유 기업에 대한 장기 관찰이 필요합니다."
   },
   "classification": {
     "primary_topic": "tech",

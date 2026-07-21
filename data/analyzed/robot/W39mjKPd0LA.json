@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/W39mjKPd0LA/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "1. 엔비디아 젠슨 황 CEO가 한국 방문 중 현대차그룹 정의선 회장과 1시간 비공개 단독 회동을 갖고 <span class=\"text-cyan-300 font-semibold\">모빌리티, 로보틱스, AI 공장</span> 전략을 논의했습니다.\n2. 양사는 보스턴 다이내믹스의 휴머노이드 아틀라스(Atlas) 상용화와 관련해 제조 공장에 로봇을 대량 배치하는 <span class=\"text-cyan-300 font-semibold\">피지컬 AI(Physical AI)</span> 실현 방안을 주요 의제로 다뤘습니다.\n3. 엔비디아는 한국 새만금을 'AI Valley'로 지칭하며, 친환경 에너지 기반의 초대형 AI 데이터 센터 및 스마트 팩토리 클러스터 구축 가능성을 시사했습니다.",
+    "summary": "1. 엔비디아 젠슨 황 CEO가 한국 방문 중 <span class=\"text-cyan-300 font-semibold\">현대차</span>그룹 정의선 회장과 1시간 비공개 단독 회동을 갖고 모빌리티, 로보틱스, AI 공장 전략을 논의했습니다.\n2. 양사는 보스턴 다이내믹스의 휴머노이드 아틀라스(Atlas) 상용화와 관련해 제조 공장에 로봇을 대량 배치하는 피지컬 AI(Physical AI) 실현 방안을 주요 의제로 다뤘습니다.\n3. 엔비디아는 한국 새만금을 'AI Valley'로 지칭하며, 친환경 에너지 기반의 초대형 AI 데이터 센터 및 스마트 팩토리 클러스터 구축 가능성을 시사했습니다.",
     "key_claims": [
-      "엔비디아가 현대차와 밀착하는 본질은 자율주행 차량을 넘어, 로봇과 공장 자체가 AI로 학습하고 구동되는 <span class=\"text-cyan-300 font-semibold\">피지컬 AI 로봇 플랫폼 표준화</span>를 장악하려는 목적입니다.",
-      "보스턴 다이내믹스의 휴머노이드 로봇 상용화 시점이 임박했으며, 현대차의 자동차 생산 라인이 엔비디아 플랫폼의 최대 <span class=\"text-cyan-300 font-semibold\">실증 공장(AI Factory)</span>이 될 것입니다.",
-      "새만금 AI 밸리 구상은 전력 소모가 극심한 데이터 센터 문제를 비중국 아시아 친환경 에너지 거점 구축을 통해 극복하려는 전략입니다."
+      "엔비디아가 <span class=\"text-cyan-300 font-semibold\">현대차</span>와 밀착하는 본질은 자율주행 차량을 넘어, 로봇과 공장 자체가 AI로 학습하고 구동되는 피지컬 AI 로봇 플랫폼 표준화를 장악하려는 목적입니다.",
+      "보스턴 다이내믹스의 휴머노이드 로봇 상용화 시점이 임박했으며, <span class=\"text-cyan-300 font-semibold\">현대차</span>의 자동차 생산 라인이 엔비디아 플랫폼의 최대 실증 공장(AI Factory)이 될 것입니다.",
+      "새만금 AI 밸리 구상은 전력 소모가 극심한 데이터 센터 문제를 비<span class=\"text-violet-300 font-medium\">중국</span> 아시아 친환경 에너지 거점 구축을 통해 극복하려는 전략입니다."
     ],
     "data_points": [
       "엔비디아 젠슨 황 CEO 및 현대차그룹 정의선 회장 1시간 비공개 회의 진행",
@@ -21,13 +21,13 @@
     ],
     "signal": "bullish",
     "signal_confidence": "high",
-    "signal_reason": "글로벌 AI 1위 엔비디아와 모빌리티·로봇 강자 현대차의 비공개 기술 파트너십은 차세대 피지컬 AI 및 휴머노이드 로봇 산업화 속도를 획기적으로 앞당길 메가톤급 호재입니다.",
+    "signal_reason": "글로벌 AI 1위 엔비디아와 모빌리티·로봇 강자 <span class=\"text-cyan-300 font-semibold\">현대차</span>의 비공개 기술 파트너십은 차세대 피지컬 AI 및 휴머노이드 로봇 산업화 속도를 획기적으로 앞당길 메가톤급 호재입니다.",
     "key_companies": [
       "현대자동차(005380)",
       "엔비디아(NVDA)"
     ],
-    "insight": "자율주행과 로봇 제조는 소프트웨어 중심의 AI가 현실 세계 물리 법칙과 결합하는 <span class=\"text-cyan-300 font-semibold\">피지컬 AI 혁명</span>의 양대 축입니다. 엔비디아는 현대차의 글로벌 완성차 공장을 하드웨어 실증 베이스로 삼고, 현대차는 엔비디아의 시뮬레이터(Omniverse)와 칩을 통해 로봇 상용화 경제성을 빠르게 극대화할 것입니다.",
-    "action_point": "현대차-엔비디아 로봇 동맹의 실질적 기술 주도권을 쥔 <span class=\"text-cyan-300 font-semibold\">보스턴 다이내믹스 공급망 관련 정밀 기어 및 액추에이터 부품사</span>와 새만금 전력 클러스터에 수혜를 받는 전력망 인프라 대장주의 장기 성장 가능성에 적극 베팅해야 합니다."
+    "insight": "자율주행과 로봇 제조는 소프트웨어 중심의 AI가 현실 세계 물리 법칙과 결합하는 피지컬 AI 혁명의 양대 축입니다. 엔비디아는 <span class=\"text-cyan-300 font-semibold\">현대차</span>의 글로벌 완성차 공장을 하드웨어 실증 베이스로 삼고, <span class=\"text-cyan-300 font-semibold\">현대차</span>는 엔비디아의 시뮬레이터(Omniverse)와 칩을 통해 로봇 상용화 경제성을 빠르게 극대화할 것입니다.",
+    "action_point": "<span class=\"text-cyan-300 font-semibold\">현대차</span>-엔비디아 로봇 동맹의 실질적 기술 주도권을 쥔 보스턴 다이내믹스 공급망 관련 정밀 기어 및 액추에이터 부품사와 새만금 전력 클러스터에 수혜를 받는 전력망 인프라 대장주의 장기 성장 가능성에 적극 베팅해야 합니다."
   },
   "classification": {
     "primary_topic": "robot",

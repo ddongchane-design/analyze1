@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/DXuD80o6oq4/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "최근 전력기기주 급락에 따른 대응 전략 및 반도체 소부장(특히 전공정 장비), 기판(PCB) 업종의 수남매 흐름을 다방면으로 분석함. AI 랠리가 과거 닷컴 버블(1998~2000년)과 유사한 궤적을 그리며 2차 랠리를 준비 중이라는 관점 아래, 삼성을 비롯한 대기업의 파운드리 M&A 가능성, 전공정 장비사(PSK 등)의 인텔/삼성향 반사 수혜, 그리고 내수 소비재(백화점)의 견조한 실적을 긍정적으로 전망함.",
+    "summary": "최근 전력기기주 <span class=\"text-rose-400 font-medium\">급락</span>에 따른 대응 전략 및 <span class=\"text-cyan-300 font-semibold\">반도체</span> 소부장(특히 전공정 장비), 기판(PCB) 업종의 수남매 흐름을 다방면으로 분석함. AI 랠리가 과거 닷컴 버블(1998~2000년)과 유사한 궤적을 그리며 2차 랠리를 준비 중이라는 관점 아래, 삼성을 비롯한 대기업의 파운드리 M&A 가능성, 전공정 장비사(PSK 등)의 <span class=\"text-cyan-300 font-semibold\">인텔</span>/삼성향 반사 수혜, 그리고 내수 소비재(백화점)의 견조한 실적을 긍정적으로 전망함.",
     "key_claims": [
-      "현재 AI 랠리는 다컴 버블 시기와 유사하게 진행 중이며, 유가 하락과 대형 IPO(스페이스X 등) 흥행 완료 시 2차 본격 상승 랠리가 도래할 수 있음.",
-      "삼성전자의 300조 원 규모 현금성 자산이 TSMC 추격을 위한 파운드리 M&A나 적극적인 주주환원에 쓰인다면 주가의 강력한 멀티플 재평가 계기가 될 것임.",
-      "전력기기 업종은 단기 급락했으나 AI 데이터센터발 구조적 수요 증가로 장기 업황은 견조하며, 기판(PCB) 및 소캠 모듈 변경에 따른 수혜 기업(심텍, 대덕전자 등)의 비중 확대 전략이 유효함."
+      "현재 AI 랠리는 다컴 버블 시기와 유사하게 진행 중이며, <span class=\"text-amber-300 font-bold\">유가</span> 하락과 대형 IPO(<span class=\"text-cyan-300 font-semibold\">스페이스X</span> 등) 흥행 완료 시 2차 본격 상승 랠리가 도래할 수 있음.",
+      "<span class=\"text-cyan-300 font-semibold\">삼성전자</span>의 300조 원 규모 현금성 자산이 <span class=\"text-cyan-300 font-semibold\">TSMC</span> 추격을 위한 파운드리 M&A나 적극적인 주주환원에 쓰인다면 주가의 강력한 멀티플 재평가 계기가 될 것임.",
+      "전력기기 업종은 단기 <span class=\"text-rose-400 font-medium\">급락</span>했으나 AI 데이터센터발 구조적 수요 증가로 장기 업황은 견조하며, 기판(PCB) 및 소캠 모듈 변경에 따른 수혜 기업(심텍, 대덕전자 등)의 비중 확대 전략이 유효함."
     ],
     "data_points": [
       "삼성전자 보유 현금성 자산: 약 300조 원 수준",
@@ -22,7 +22,7 @@
     ],
     "signal": "bullish",
     "signal_confidence": "medium",
-    "signal_reason": "매크로 원가 부담을 주는 유가가 WTI 기준 90달러 이하로 진정세를 보이고 있고, 반도체 전공정 증설(CAPEX) 재개 기대감과 함께 기판/소부장 업종의 실적 턴어라운드가 확인되고 있어 단기 변동성 노이즈는 좋은 매수 기회로 판단됨.",
+    "signal_reason": "매크로 원가 부담을 주는 <span class=\"text-amber-300 font-bold\">유가</span>가 WTI 기준 90달러 이하로 진정세를 보이고 있고, <span class=\"text-cyan-300 font-semibold\">반도체</span> 전공정 증설(CAPEX) 재개 기대감과 함께 기판/소부장 업종의 실적 턴어라운드가 확인되고 있어 단기 변동성 노이즈는 좋은 매수 기회로 판단됨.",
     "key_companies": [
       "삼성전자",
       "SK하이닉스",
@@ -31,8 +31,8 @@
       "원익IPS",
       "주성엔지니어링"
     ],
-    "insight": "전기차와 마찬가지로 전력 인프라 및 반도체 장비 역시 국가 전략 인프라 성격이 짙어 단기 자금조달 노이즈나 매크로 지수 변동으로 주가가 조정받을 때는 적극적인 분할 매수 기회임. 특히 명품/백화점 소비가 증가하는 것은 주식 시장 상승에 따른 자산 효과(Wealth Effect)가 내수 실물 경제를 지탱하고 있음을 방증함.",
-    "action_point": "최근 고평가 논란으로 조정받은 전력기기 대장주들과 전공정 수혜가 예상되는 PSK, 그리고 밸류에이션 부담이 낮아진 기판(PCB) 업종을 중심으로 포트폴리오를 다변화하여 조정 시 매수하는 전략이 유효함."
+    "insight": "전기차와 마찬가지로 전력 인프라 및 <span class=\"text-cyan-300 font-semibold\">반도체</span> 장비 역시 국가 전략 인프라 성격이 짙어 단기 자금조달 노이즈나 매크로 지수 변동으로 주가가 <span class=\"text-rose-400 font-medium\">조정</span>받을 때는 적극적인 분할 매수 기회임. 특히 명품/백화점 소비가 증가하는 것은 주식 시장 상승에 따른 자산 효과(Wealth Effect)가 내수 실물 경제를 지탱하고 있음을 방증함.",
+    "action_point": "최근 고평가 논란으로 <span class=\"text-rose-400 font-medium\">조정</span>받은 전력기기 대장주들과 전공정 수혜가 예상되는 PSK, 그리고 밸류에이션 부담이 낮아진 기판(PCB) 업종을 중심으로 포트폴리오를 다변화하여 <span class=\"text-rose-400 font-medium\">조정</span> 시 매수하는 전략이 유효함."
   },
   "classification": {
     "primary_topic": "stock",

@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/pWLFaVgbAWQ/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "트럼프의 이란 공습 번복으로 지정학 리스크가 대폭 완화되면서 유가가 86달러선으로 떨어지고, 10년물 국채 금리가 4.46%대로 안정되며 뉴욕 증시가 강력한 매수세와 반등을 기록함. BofA의 인텔 투자의견 매수 상향, 구글과 삼성전자의 2나노 차세대 TPU 공동 개발 소식 등이 반도체 중심의 지수 랠리를 이끌었으나, 오라클과 어도비는 증자 우려 및 실적 한계로 하락했음.",
+    "summary": "트럼프의 <span class=\"text-violet-300 font-medium\">이란</span> 공습 번복으로 지정학 <span class=\"text-rose-400 font-medium\">리스크</span>가 대폭 완화되면서 <span class=\"text-amber-300 font-bold\">유가</span>가 86달러선으로 떨어지고, 10년물 국채 금리가 4.46%대로 안정되며 뉴욕 증시가 강력한 매수세와 반등을 기록함. BofA의 <span class=\"text-cyan-300 font-semibold\">인텔</span> 투자의견 매수 상향, <span class=\"text-cyan-300 font-semibold\">구글</span>과 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>의 2나노 차세대 TPU 공동 개발 소식 등이 <span class=\"text-cyan-300 font-semibold\">반도체</span> 중심의 지수 랠리를 이끌었으나, 오라클과 어도비는 증자 우려 및 실적 한계로 하락했음.",
     "key_claims": [
-      "트럼프 대통령이 최고위급 협상 진전을 이유로 이란 공습 취소를 성명하면서 원유 시장의 위기가 소강 상태로 접어들고 위험 자산 선호가 복원됨.",
-      "인텔은 서버 CPU 지배력 유지 및 애플·테슬라향 파운드리 실적 가시성을 바탕으로 매수 상향 평가를 받아 9%대 급등함.",
-      "구글이 삼성전자와 2nm 공정 기반 차세대 TPU(아이스피크) 공동 개발에 나선 것은 TSMC의 캐파 부족 속에서 한국 파운드리 생태계의 기회가 되고 있음."
+      "트럼프 대통령이 최고위급 협상 진전을 이유로 <span class=\"text-violet-300 font-medium\">이란</span> 공습 취소를 성명하면서 원유 시장의 위기가 소강 상태로 접어들고 <span class=\"text-rose-400 font-medium\">위험</span> 자산 선호가 복원됨.",
+      "<span class=\"text-cyan-300 font-semibold\">인텔</span>은 서버 CPU 지배력 유지 및 애플·<span class=\"text-cyan-300 font-semibold\">테슬라</span>향 파운드리 실적 가시성을 바탕으로 매수 상향 평가를 받아 9%대 급등함.",
+      "<span class=\"text-cyan-300 font-semibold\">구글</span>이 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>와 2nm 공정 기반 차세대 TPU(아이스피크) 공동 개발에 나선 것은 <span class=\"text-cyan-300 font-semibold\">TSMC</span>의 캐파 부족 속에서 한국 파운드리 생태계의 기회가 되고 있음."
     ],
     "data_points": [
       "나스닥 지수 상승률: 2.54%, S&P 500: 1.75%, 다우존스: 1.86%",
@@ -24,15 +24,15 @@
     ],
     "signal": "bullish",
     "signal_confidence": "high",
-    "signal_reason": "매크로 악재인 중동 지정학 불안이 해제되며 국채 금리 및 유가가 동반 폭락했고, BofA의 인텔 상향 및 구글의 삼성향 2nm TPU 등 반도체 업계의 견고한 개별 호재들이 시장 투심을 전폭 지지하고 있기 때문임.",
+    "signal_reason": "매크로 악재인 <span class=\"text-violet-300 font-medium\">중동</span> 지정학 불안이 해제되며 국채 금리 및 <span class=\"text-amber-300 font-bold\">유가</span>가 동반 폭락했고, BofA의 <span class=\"text-cyan-300 font-semibold\">인텔</span> 상향 및 <span class=\"text-cyan-300 font-semibold\">구글</span>의 삼성향 2nm TPU 등 <span class=\"text-cyan-300 font-semibold\">반도체</span> 업계의 견고한 개별 호재들이 시장 투심을 전폭 지지하고 있기 때문임.",
     "key_companies": [
       "인텔(INTC)",
       "삼성전자",
       "오라클",
       "마이크론"
     ],
-    "insight": "구글조차 인프라 부족으로 XAI 데이터센터를 고가에 임대할 만큼 연산 쇼티지가 극심한 상황에서, 빅테크의 공격적 CapEx(오라클 557억 달러 등)는 단기 자금조달 노이즈로 주가를 깎아내릴지라도 반도체 부품사에게는 명확한 미래 매출을 담보함.",
-    "action_point": "유가 하락과 매크로 리스크 소멸로 반도체 소부장의 강력한 주도권 복귀가 예상되므로, 단기 수급 부담으로 조정받았던 메모리 반도체(마이크론) 및 파운드리/2nm TPU 수혜주(삼성전자, 인텔)에 대한 점진적 매집 전략을 추천함."
+    "insight": "<span class=\"text-cyan-300 font-semibold\">구글</span>조차 인프라 부족으로 XAI 데이터센터를 고가에 임대할 만큼 연산 쇼티지가 극심한 상황에서, 빅테크의 공격적 CapEx(오라클 557억 달러 등)는 단기 자금조달 노이즈로 주가를 깎아내릴지라도 <span class=\"text-cyan-300 font-semibold\">반도체</span> 부품사에게는 명확한 미래 매출을 담보함.",
+    "action_point": "<span class=\"text-amber-300 font-bold\">유가</span> 하락과 매크로 <span class=\"text-rose-400 font-medium\">리스크</span> 소멸로 <span class=\"text-cyan-300 font-semibold\">반도체</span> 소부장의 강력한 주도권 복귀가 예상되므로, 단기 수급 부담으로 <span class=\"text-rose-400 font-medium\">조정</span>받았던 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span>(마이크론) 및 파운드리/2nm TPU 수혜주(<span class=\"text-cyan-300 font-semibold\">삼성전자</span>, <span class=\"text-cyan-300 font-semibold\">인텔</span>)에 대한 점진적 매집 전략을 추천함."
   },
   "classification": {
     "primary_topic": "stock",

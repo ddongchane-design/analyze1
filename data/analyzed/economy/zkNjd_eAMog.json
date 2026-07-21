@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/zkNjd_eAMog/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "1. AI 기술 혁신이 자아내는 폭발적 생산성 때문에 기존의 금리 인상 시 주가 하락 공식이 깨지며 시장의 <span class=\"text-amber-300 font-bold\">금리 민감도가 급격히 하락</span>했습니다.\n2. 효율이 증가할 때 비용 감소로 오히려 수요가 폭증하는 <span class=\"text-cyan-300 font-semibold\">제본스의 역설(Jevons' Paradox)</span>이 개발자 채용 시장 및 AI 메모리 인프라 소비에서 뚜렷하게 증명되고 있습니다.\n3. 한국은 과거 유가 충격에 극도로 취약했으나, 현재는 강력해진 반도체 수출 체력이 원유 수입 비용 증가를 완벽히 상쇄(헷지)하여 <span class=\"text-cyan-300 font-semibold\">매크로 안정성을 구조적으로 확보</span>했습니다.",
+    "summary": "1. AI 기술 혁신이 자아내는 폭발적 생산성 때문에 기존의 금리 인상 시 주가 하락 공식이 깨지며 시장의 금리 민감도가 급격히 하락했습니다.\n2. 효율이 증가할 때 비용 감소로 오히려 수요가 폭증하는 <span class=\"text-amber-300 font-bold\">제본스의 역설</span>(Jevons' Paradox)이 개발자 채용 시장 및 AI 메모리 인프라 소비에서 뚜렷하게 증명되고 있습니다.\n3. 한국은 과거 <span class=\"text-amber-300 font-bold\">유가</span> 충격에 극도로 취약했으나, 현재는 강력해진 <span class=\"text-cyan-300 font-semibold\">반도체</span> 수출 체력이 원유 수입 비용 증가를 완벽히 상쇄(헷지)하여 매크로 안정성을 구조적으로 확보했습니다.",
     "key_claims": [
       "연준 내부에서도 AI의 생산성 파급력에 대한 명확한 합의가 없어 통화 정책의 일관된 기조가 무력화되었습니다.",
-      "OpenAI와 앤스로픽이 10~11월 상장을 공식 목표로 삼고 있어 하반기까지 AI 가속기 및 <span class=\"text-cyan-300 font-semibold\">HBM 수요 증설 경쟁</span>은 멈추지 않을 것입니다.",
-      "과거에는 유가 상승 시 주식회사 대한민국 전체의 무역수지가 박살 났으나, 현재는 반도체 가격의 높은 마진이 <span class=\"text-violet-300 font-medium\">에너지 비용을 압도</span>하고 있습니다."
+      "OpenAI와 앤스로픽이 10~11월 상장을 공식 목표로 삼고 있어 하반기까지 AI 가속기 및 <span class=\"text-cyan-300 font-semibold\">HBM</span> 수요 증설 경쟁은 멈추지 않을 것입니다.",
+      "과거에는 <span class=\"text-amber-300 font-bold\">유가 상승</span> 시 주식회사 대한민국 전체의 무역수지가 박살 났으나, 현재는 <span class=\"text-cyan-300 font-semibold\">반도체</span> 가격의 높은 마진이 에너지 비용을 압도하고 있습니다."
     ],
     "data_points": [
       "한국과 대만 반도체 수출 급증세 지속 (수출액 전년 대비 50% 이상 폭증 기록)",
@@ -22,15 +22,15 @@
     ],
     "signal": "bullish",
     "signal_confidence": "high",
-    "signal_reason": "미국의 고금리 장기화 불안에도 불구하고 AI 특이점 가속화로 반도체 CapEx의 정점이 연장되고 있으며, 한국 무역 구조가 에너지 리스크를 자체 극복할 만큼 체력이 개선되었습니다.",
+    "signal_reason": "미국의 <span class=\"text-amber-300 font-bold\">고금리 장기화</span> 불안에도 불구하고 AI 특이점 가속화로 <span class=\"text-cyan-300 font-semibold\">반도체</span> CapEx의 정점이 연장되고 있으며, 한국 무역 구조가 에너지 <span class=\"text-rose-400 font-medium\">리스크</span>를 자체 극복할 만큼 체력이 개선되었습니다.",
     "key_companies": [
       "삼성전자(005930)",
       "SK하이닉스(000660)",
       "신영증권(001720)",
       "네이버(035420)"
     ],
-    "insight": "AI 생산성 파급력은 거시 인플레이션 논리를 무력화할 정도로 폭발적입니다. 특히 효율성이 오를 때 수요가 줄어드는 대신 오히려 시장이 기하급수적으로 확장되는 '제본스의 역설'은 모바일 AIPC 및 소프트웨어 에이전트 시장 전체의 장기 팽창을 지지합니다.",
-    "action_point": "거시 유가 상승이나 미 연준의 금리 변동 발언으로 인해 국내 주도주들이 동반 조정을 받을 때, 흔들리지 말고 포트폴리오 내 반도체 대형주 비중을 과감히 높여가야 합니다."
+    "insight": "AI 생산성 파급력은 거시 <span class=\"text-amber-300 font-bold\">인플레이션</span> 논리를 무력화할 정도로 폭발적입니다. 특히 효율성이 오를 때 수요가 줄어드는 대신 오히려 시장이 기하급수적으로 확장되는 '<span class=\"text-amber-300 font-bold\">제본스의 역설</span>'은 모바일 AIPC 및 소프트웨어 에이전트 시장 전체의 장기 팽창을 지지합니다.",
+    "action_point": "거시 <span class=\"text-amber-300 font-bold\">유가 상승</span>이나 미 연준의 금리 변동 발언으로 인해 국내 주도주들이 동반 <span class=\"text-rose-400 font-medium\">조정</span>을 받을 때, 흔들리지 말고 포트폴리오 내 <span class=\"text-cyan-300 font-semibold\">반도체</span> 대형주 비중을 과감히 높여가야 합니다."
   },
   "classification": {
     "primary_topic": "economy",

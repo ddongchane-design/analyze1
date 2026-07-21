@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/2aF54C81_tA/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "반도체 가격 상승으로 인한 <span class=\"text-cyan-300 font-semibold\">치플레이션(Chipflation)</span> 경계감과 애플의 가격 전가 선언이 기술주 동반 하락을 유발했습니다.\n여기에 6월 말 <span class=\"text-amber-300 font-bold\">분기·반기 리밸런싱</span> 최종 거래일이 겹치며 외국인과 기관의 매도세가 극대화되었습니다.\n코스피와 코스닥 지수 모두 폭락하며 사이드카 및 <span class=\"text-rose-400 font-medium\">서킷 브레이커가 발동</span>하는 변동성 장세가 연출되었습니다.",
+    "summary": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 가격 상승으로 인한 치플레이션(Chipflation) 경계감과 애플의 가격 전가 선언이 기술주 동반 하락을 유발했습니다.\n여기에 6월 말 분기·반기 리밸런싱 최종 거래일이 겹치며 외국인과 기관의 매도세가 극대화되었습니다.\n코스피와 코스닥 지수 모두 폭락하며 사이드카 및 서킷 브레이커가 발동하는 변동성 장세가 연출되었습니다.",
     "key_claims": [
-      "애플의 반도체 비용 상승에 따른 제품 가격 인상은 전방 빅테크의 <span class=\"text-rose-400 font-medium\">인프라 투자 비용 부담 우려</span>로 번졌다.",
-      "이번 급락은 펀더멘탈의 훼손이 아닌 분기말 결제를 위한 <span class=\"text-amber-300 font-bold\">수급적 리밸런싱 요인</span>이 강하게 작용했다.",
-      "반도체 가격 강세가 유지되는 한 공급사인 국내 기업들의 <span class=\"text-cyan-300 font-semibold\">실적 업사이드</span>는 여전히 유효하다."
+      "애플의 <span class=\"text-cyan-300 font-semibold\">반도체</span> 비용 상승에 따른 제품 가격 인상은 전방 빅테크의 인프라 투자 비용 부담 우려로 번졌다.",
+      "이번 <span class=\"text-rose-400 font-medium\">급락</span>은 펀더멘탈의 훼손이 아닌 분기말 결제를 위한 수급적 리밸런싱 요인이 강하게 작용했다.",
+      "<span class=\"text-cyan-300 font-semibold\">반도체</span> 가격 강세가 유지되는 한 공급사인 국내 기업들의 실적 업사이드는 여전히 유효하다."
     ],
     "data_points": [
       "코스피 종가: 8411 (5.8% 하락)",
@@ -26,7 +26,7 @@
     ],
     "signal": "neutral",
     "signal_confidence": "medium",
-    "signal_reason": "단기적으로는 반기말 수급 변동성과 <span class=\"text-rose-400 font-medium\">신용 반대매매 우려</span>가 존재하나, 반도체 업황의 <span class=\"text-cyan-300 font-semibold\">실적 펀더멘탈</span>은 훼손되지 않았습니다.",
+    "signal_reason": "단기적으로는 반기말 수급 변동성과 신용 반대매매 우려가 존재하나, <span class=\"text-cyan-300 font-semibold\">반도체</span> 업황의 실적 펀더멘탈은 훼손되지 않았습니다.",
     "key_companies": [
       "Apple(AAPL)",
       "Samsung Electronics(005930)",
@@ -38,8 +38,8 @@
       "Daol Investment(030210)",
       "KB Securities"
     ],
-    "insight": "메모리 가격 급등이 기기 제조사의 마진을 갉아먹는 <span class=\"text-rose-400 font-medium\">치플레이션(Chipflation)</span> 리스크로 부각되었으나, 이는 역설적으로 공급망 상단의 <span class=\"text-cyan-300 font-semibold\">메모리 제조사</span>들의 강력한 가격 협상력과 호실적 지속성을 방증합니다.",
-    "action_point": "수급 꼬임에 따른 단기 폭락은 장기 실적주를 <span class=\"text-cyan-300 font-semibold\">저가 매수할 기회</span>이나, 월요일/화요일 예정된 <span class=\"text-rose-400 font-medium\">신용 반대매매 물량 출회</span> 여부를 확인하며 분할 매수로 대응하십시오."
+    "insight": "메모리 가격 급등이 기기 제조사의 마진을 갉아먹는 치플레이션(Chipflation) <span class=\"text-rose-400 font-medium\">리스크</span>로 부각되었으나, 이는 역설적으로 공급망 상단의 메모리 제조사들의 강력한 가격 협상력과 호실적 지속성을 방증합니다.",
+    "action_point": "수급 꼬임에 따른 단기 폭락은 장기 실적주를 저가 매수할 기회이나, 월요일/화요일 예정된 신용 반대매매 물량 출회 여부를 확인하며 분할 매수로 대응하십시오."
   },
   "classification": {
     "primary_topic": "stock",

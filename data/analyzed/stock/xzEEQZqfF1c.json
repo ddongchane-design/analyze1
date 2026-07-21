@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "xzEEQZqfF1c",
+    "title": "SpaceX, 23일까지 스타십 시험 비행 목표ㅣ美, 브라질 25% 관세 → 60개국 추가 부과 가능ㅣ도미노피자 2Q호실적, 주가 상승ㅣ홍키자의 매일뉴욕",
+    "published": "2026-07-20T14:15:24+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=xzEEQZqfF1c",
+    "thumbnail": "https://img.youtube.com/vi/xzEEQZqfF1c/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "뉴욕 증시가 <span class=\"text-cyan-300 font-semibold\">반도체</span> 섹터(마이크론 +4.9%, <span class=\"text-cyan-300 font-semibold\">브로드컴</span> +2.3%) 반등에 힘입어 상승 마감한 가운데, 시장은 23일(수) 발표될 알파벳 실적과 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 <span class=\"text-cyan-300 font-semibold\">스타십</span> 시험 비행에 주목하고 있습니다. 한편 한국에서는 한국투자신탁운용 대표가 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 2배 레버리지 ETF의 설계 오류(경로 의존성에 따른 본주 회복 시 가치 미복구 문제)에 대해 공개 사과하는 등 레버리지 상품의 부작용 여파가 지속 논란이 되고 있습니다.",
+    "key_claims": [
+      "나스닥을 비롯한 뉴욕 증시는 극단적 <span class=\"text-cyan-300 font-semibold\">반도체</span> 매도세가 진정되며 마이크론, 엔비디아 등이 반등하였고, 향후 알파벳의 데이터센터 자본 지출(CAPEX) 정당성 입증 여부가 주가 회복의 본질적 열쇠이다.",
+      "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>는 7월 23일까지 <span class=\"text-cyan-300 font-semibold\">스타십</span>(Starship)의 추가 시험 비행을 목표로 정밀 궤도 가동을 준비 중이며, 이는 우주 테크 분야의 모멘텀으로 작용할 것이다.",
+      "국내 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 2배 레버리지 ETF의 원금 회수 불능 논란(음의 복리 및 경로 의존성 이슈)이 제조사 대표의 사과로 이어지며 단기 파생상품 설계에 대한 수급 불확실성이 해소 단계에 돌입했다."
+    ],
+    "data_points": [
+      "뉴욕 증시 종목 등락: 마이크론 +4.9%, 브로드컴 +2.34%, 엔비디아 +2% 내외 반등",
+      "관세 리스크: 미국 정부의 브라질 대상 25% 관세 부과 검토 및 최대 60개국 추가 확장 가능성 경고"
+    ],
+    "signal": "positive",
+    "signal_reason": "미국 기술주의 낙폭 과대 인식에 따른 강한 반등세 유입과 알파벳 실적 확인을 통한 AI 인프라 정당성 입증 기대감, 국내 레버리지 수급 교란 요인이 제조사의 공식 해명으로 투명해졌기 때문입니다.",
+    "key_companies": [
+      "NVIDIA(NVDA)",
+      "마이크론 테크놀로지(MU)",
+      "SK하이닉스(000660)",
+      "SpaceX"
+    ],
+    "insight": "단기 레버리지 상품의 설계적 함정(경로 의존성)은 하락장에서 원금을 갉아먹는 파괴적 결과를 낳았고, 이는 국내 <span class=\"text-cyan-300 font-semibold\">반도체</span> 수급 왜곡의 근원이었습니다. 미국 <span class=\"text-cyan-300 font-semibold\">반도체</span>의 강한 기술적 반등은 이러한 수급 이슈가 국내 시장에 미친 공포가 과도했음을 보여줍니다.",
+    "action_point": "미국 <span class=\"text-cyan-300 font-semibold\">반도체</span>주의 반등세를 확인하며 포트폴리오 내 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 및 <span class=\"text-cyan-300 font-semibold\">삼성전자</span> 본주(주식) 보유 비중을 굳건히 유지하고, 복리 갉아먹기 <span class=\"text-rose-400 font-medium\">리스크</span>가 큰 레버리지 ETF 상품에 대한 비중은 축소 또는 재<span class=\"text-rose-400 font-medium\">조정</span>이 필요합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "뉴욕증시반등",
+      "스타십시험비행",
+      "레버리지ETF논란",
+      "한투운용대표사과",
+      "알파벳실적대기"
+    ]
+  }
+}

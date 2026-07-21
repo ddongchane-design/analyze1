@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/o4ypQWCSHJA/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "LG이노텍이 AI 반도체 2.5D/3D 패키징의 핵심 게임 체인저로 등극한 유리 기판(Glass Substrate) 사업에 수조 원 규모 설비 투자를 단행하며 구미에 양산 라인을 선제 완공 중인 내부 상황과, 카메라 모듈 두께를 1,000분의 1로 줄이는 메타글라스(Metasurface) 진출 소식을 분석함.",
+    "summary": "LG이노텍이 <span class=\"text-cyan-300 font-semibold\">AI 반도체</span> 2.5D/3D 패키징의 핵심 게임 체인저로 등극한 유리 기판(Glass Substrate) 사업에 수조 원 규모 설비 투자를 단행하며 구미에 양산 라인을 선제 완공 중인 내부 상황과, 카메라 모듈 두께를 1,000분의 1로 줄이는 메타글라스(Metasurface) 진출 소식을 분석함.",
     "key_claims": [
-      "유리 기판은 기존 플라스틱(FC-BGA) 소재의 열 변형 및 미세 균열 단점을 완전 극복하여 인텔, 엔비디아가 요구하는 극미세 배선 패턴 인쇄가 가능해 차세대 대면적 AI 가속기 기판의 절대 표준으로 부상함.",
-      "LG이노텍은 기 보유한 모바일 기판 제조 노하우와 구미 팹의 유휴 공정을 신속히 유리 기판 시제품 라인으로 개조 완료하여 하반기 인텔/AMD 대상 벤더 퀄(Qualification) 획득을 추진함.",
+      "유리 기판은 기존 플라스틱(FC-BGA) 소재의 열 변형 및 미세 균열 단점을 완전 극복하여 <span class=\"text-cyan-300 font-semibold\">인텔</span>, 엔비디아가 요구하는 극미세 배선 패턴 인쇄가 가능해 차세대 대면적 AI 가속기 기판의 절대 표준으로 부상함.",
+      "LG이노텍은 기 보유한 모바일 기판 제조 노하우와 구미 팹의 유휴 공정을 신속히 유리 기판 시제품 라인으로 개조 완료하여 하반기 <span class=\"text-cyan-300 font-semibold\">인텔</span>/AMD 대상 벤더 퀄(Qualification) 획득을 추진함.",
       "동시에 나노 미터 크기의 돌기를 활용해 입사하는 빛의 굴절률을 임의로 제어하는 '메타글라스' 렌즈 특허 기술을 완성하여, 카메라 카툭튀 문제를 영구히 해결하는 신사업 포트폴리오를 다변화함."
     ],
     "data_points": [
@@ -25,7 +25,7 @@
       "Intel",
       "Nvidia"
     ],
-    "insight": "LG이노텍의 <span class=\"text-cyan-300 font-semibold\">유리 기판(Glass Substrate) 구미 생산 라인 신설</span>은 FC-BGA 시장에서 입은 실적 손실을 완벽히 청산할 차세대 에이스 캐시카우를 쥐게 됨을 뜻합니다. 빛을 단일 평면에서 굴절시키는 <span class=\"text-cyan-300 font-semibold\">메타글라스(Metamaterial)</span>는 스마트폰 카메라 렌즈 수십 개를 얇은 유리기판 단 한 장으로 단일화시켜, 모바일 광학 모듈 사업의 한계 영업이익률을 비약적으로 끌어올릴 퀀텀 점프 동력입니다.",
+    "insight": "LG이노텍의 유리 기판(Glass Substrate) 구미 생산 라인 신설은 FC-BGA 시장에서 입은 실적 손실을 완벽히 <span class=\"text-rose-400 font-medium\">청산</span>할 차세대 에이스 캐시카우를 쥐게 됨을 뜻합니다. 빛을 단일 평면에서 굴절시키는 메타글라스(Metamaterial)는 스마트폰 카메라 렌즈 수십 개를 얇은 유리기판 단 한 장으로 단일화시켜, 모바일 광학 모듈 사업의 한계 영업이익률을 비약적으로 끌어올릴 퀀텀 점프 동력입니다.",
     "action_point": "아이폰 카메라 단기 주문 증감 노이즈에 흔들리지 말고, 유리기판 장비 국산화 공급 계약 공시가 임박한 기판 정밀 레이저 드릴링 및 평탄화 장비 협력 업체의 지분을 늘려 잡습니다."
   },
   "classification": {

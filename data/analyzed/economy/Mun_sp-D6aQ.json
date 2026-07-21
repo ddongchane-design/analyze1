@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/Mun_sp-D6aQ/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "이란-이스라엘 간 타협 기대에 따른 <span class=\"text-amber-300 font-bold\">유가 90달러 붕괴</span> 소식과 함께, 5월 CPI의 헤드라인 <span class=\"text-rose-400 font-medium\">4.2% 폭등 우려</span> 경계감 및 <span class=\"text-cyan-300 font-semibold\">오픈AI</span>(OpenAI)의 비밀 상장 절차 착수 소식을 정리합니다.",
+    "summary": "<span class=\"text-violet-300 font-medium\">이란</span>-이스라엘 간 타협 기대에 따른 <span class=\"text-amber-300 font-bold\">유가</span> 90달러 붕괴 소식과 함께, 5월 CPI의 헤드라인 4.2% 폭등 우려 경계감 및 오픈AI(OpenAI)의 비밀 상장 절차 착수 소식을 정리합니다.",
     "key_claims": [
       "5월 CPI 예상치가 헤드라인 전년비 4.2%로 2022년 이후 최초로 4% 상회를 기록할 전망이어서 연준의 추가 금리 인상 공포가 자극받고 있다.",
       "오픈AI가 비공개로 IPO 절차(S-1 제출)에 돌입하며 빅테크 상장 릴레이가 가속화되고, 오라클 등 파트너 인프라 수혜성이 부각된다.",
-      "중국이 5개년 내에 약 400조 원(2조 위안) 규모의 데이터센터 투자를 집행할 예정이며, 모닝스타는 스페이스X의 적정가치 하향 논란을 제기했다."
+      "<span class=\"text-violet-300 font-medium\">중국</span>이 5개년 내에 약 400조 원(2조 위안) 규모의 데이터센터 투자를 집행할 예정이며, 모닝스타는 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 적정가치 하향 논란을 제기했다."
     ],
     "data_points": [
       "WTI 국제유가 종가: 배럴당 90달러선 붕괴 (약 2% 하락)",
@@ -20,7 +20,7 @@
       "중국 5개년 데이터센터 건설 투자 계획 규모: 2조 위안 (한화 약 400조 원)"
     ],
     "signal": "neutral",
-    "signal_reason": "지정학 완화 및 유가 안정은 긍정적이나, 4%를 상회하는 강력한 인플레이션 수치 경계와 다음 주 FOMC 점도표 수정 리스크가 잔존하여 관망 심리가 우세합니다.",
+    "signal_reason": "지정학 완화 및 <span class=\"text-amber-300 font-bold\">유가</span> 안정은 긍정적이나, 4%를 상회하는 강력한 <span class=\"text-amber-300 font-bold\">인플레이션</span> 수치 경계와 다음 주 FOMC 점도표 수정 <span class=\"text-rose-400 font-medium\">리스크</span>가 잔존하여 관망 심리가 우세합니다.",
     "key_companies": [
       "OpenAI",
       "Oracle",
@@ -28,7 +28,7 @@
       "Apple",
       "Citigroup"
     ],
-    "insight": "시장 매크로 금리 인상 압박은 여전하나, 오픈AI의 기습 상장 신청 등 비상장 AI 거물들의 제도권 진입과 중국의 400조 데이터센터 투자는 기술 케펙스 붐의 견고성을 반증합니다.",
+    "insight": "시장 매크로 금리 인상 압박은 여전하나, 오픈AI의 기습 상장 신청 등 비상장 AI 거물들의 제도권 진입과 <span class=\"text-violet-300 font-medium\">중국</span>의 400조 데이터센터 투자는 기술 케펙스 붐의 견고성을 반증합니다.",
     "action_point": "CPI 발표 전후의 변동성 구간에서 성급한 추격 매수를 지양하고, 지수 편입 및 상장 훈풍 수혜를 받을 오라클 등 클라우드 하이퍼스케일러 섹터를 분할 매수 기회로 관찰해야 합니다."
   },
   "classification": {

@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/NXhL_Sj40IA/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "반도체 사이클이 칩 '단가 인상(P의 상승)' 위주에서, 전방 빅테크들의 데이터센터 정식 가동에 따른 '물량 공급 및 생산량(Q의 상승)' 위주의 실적 가시성 장세로 진입하여 반도체 성장이 꺾이지 않았음을 논증합니다.",
+    "summary": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 사이클이 칩 '단가 인상(P의 상승)' 위주에서, 전방 빅테크들의 데이터센터 정식 가동에 따른 '물량 공급 및 생산량(Q의 상승)' 위주의 실적 가시성 장세로 진입하여 <span class=\"text-cyan-300 font-semibold\">반도체</span> 성장이 꺾이지 않았음을 논증합니다.",
     "key_claims": [
       "가격 인상폭 둔화는 정상적 사이클이며, 생산량 증대 속도가 기업 전체 매출 볼륨을 견인하는 Q의 장세로 이행함.",
-      "따라서 단기 가격 피크아웃 논리는 HBM 및 DRAM의 실질 출하량 급증 데이터로 무력화됨."
+      "따라서 단기 가격 피크아웃 논리는 <span class=\"text-cyan-300 font-semibold\">HBM</span> 및 DRAM의 실질 출하량 급증 데이터로 무력화됨."
     ],
     "data_points": [
       "글로벌 서버용 DRAM 최종 출하량(Q) 성장률 전망: 하반기 전 분기 대비 +22% 증가",
@@ -24,7 +24,7 @@
       "한미반도체"
     ],
     "insight": "가격(P)에만 집중하던 월가 리포트는 물량(Q)의 강력한 성장을 놓치고 있습니다. 웨이퍼 증설 소부장 및 패키징 밸류체인의 실익이 큽니다.",
-    "action_point": "미국 수출 물량이 증가하는 패키징 장비 및 HBM 핵심 부품주 위주로 매집 비중을 조절하여 유지합니다."
+    "action_point": "미국 수출 물량이 증가하는 패키징 장비 및 <span class=\"text-cyan-300 font-semibold\">HBM</span> 핵심 부품주 위주로 매집 비중을 조절하여 유지합니다."
   },
   "classification": {
     "primary_topic": "stock",

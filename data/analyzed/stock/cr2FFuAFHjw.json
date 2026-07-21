@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/cr2FFuAFHjw/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "코스피 지수가 사상 최초로 <span class=\"text-cyan-300 font-semibold\">9,000포인트</span>를 돌파한 원동력은 실적 전망치가 수직 상승 중인 반도체 대장주의 주도적 랠리 덕분입니다.\n현재 시장은 극단적인 <span class=\"text-rose-400 font-medium\">쏠림 현상</span>을 보이고 있으나, 이는 이익 성장이 뒷받침되는 정상적인 밸류에이션 반영 과정이므로 랠리가 연말까지 지속될 가능성이 높습니다.\n반도체 중심의 주도주 흐름 속에서 전력 기기, 2차 전지, 방산, 원전 등 실적 모멘텀을 가진 후행 섹터 대장주들로의 <span class=\"text-amber-300 font-bold\">확산 장세</span>에 대비해야 합니다.",
+    "summary": "코스피 지수가 사상 최초로 9,000포인트를 돌파한 원동력은 실적 전망치가 수직 상승 중인 <span class=\"text-cyan-300 font-semibold\">반도체</span> 대장주의 주도적 랠리 덕분입니다.\n현재 시장은 극단적인 쏠림 현상을 보이고 있으나, 이는 이익 성장이 뒷받침되는 정상적인 밸류에이션 반영 과정이므로 랠리가 연말까지 지속될 가능성이 높습니다.\n<span class=\"text-cyan-300 font-semibold\">반도체</span> 중심의 주도주 흐름 속에서 전력 기기, 2차 전지, 방산, 원전 등 실적 모멘텀을 가진 후행 섹터 대장주들로의 확산 장세에 대비해야 합니다.",
     "key_claims": [
-      "삼성전자와 SK하이닉스는 이익 추정치가 급격히 상향되고 있어 현재 주가 상승에도 불구하고 <span class=\"text-cyan-300 font-semibold\">밸류에이션</span>(PER 6~7배)은 여전히 저평가 상태입니다.",
-      "메모리 반도체는 더 이상 단순한 경기 순환형 소모품이 아니며, AI 생태계의 핵심 요소로 체질이 개선되어 <span class=\"text-amber-300 font-bold\">주도주 지위</span>가 내년까지 유지될 것입니다.",
-      "코스닥 및 기타 소외 섹터의 반등은 실적 가시성에 기반해야 하며, 각 섹터 내에서 가장 강한 <span class=\"text-cyan-300 font-semibold\">대장주</span> 위주로 압축 대응해야 포모를 극복할 수 있습니다."
+      "<span class=\"text-cyan-300 font-semibold\">삼성전자</span>와 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>는 이익 추정치가 급격히 상향되고 있어 현재 주가 상승에도 불구하고 밸류에이션(PER 6~7배)은 여전히 저평가 상태입니다.",
+      "<span class=\"text-cyan-300 font-semibold\">메모리 반도체</span>는 더 이상 단순한 경기 순환형 소모품이 아니며, AI 생태계의 핵심 요소로 체질이 개선되어 주도주 지위가 내년까지 유지될 것입니다.",
+      "코스닥 및 기타 소외 섹터의 반등은 실적 가시성에 기반해야 하며, 각 섹터 내에서 가장 강한 대장주 위주로 압축 대응해야 포모를 극복할 수 있습니다."
     ],
     "data_points": [
       "코스피 지수 9,000포인트 돌파 (최근 장중 고점 9,385포인트 달성)",
@@ -22,7 +22,7 @@
     ],
     "signal": "bullish",
     "signal_confidence": "high",
-    "signal_reason": "반도체의 압도적인 실적 전망과 AI 생태계 구축에 따른 장기 상승 여력이 유효하며, 소외 섹터의 핵심 대장주들로 <span class=\"text-amber-300 font-bold\">수급 확산</span>이 예상되기 때문입니다.",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">반도체</span>의 압도적인 실적 전망과 AI 생태계 구축에 따른 장기 상승 여력이 유효하며, 소외 섹터의 핵심 대장주들로 수급 확산이 예상되기 때문입니다.",
     "key_companies": [
       "삼성전자(005930)",
       "SK하이닉스(000660)",
@@ -41,8 +41,8 @@
       "크래프톤(259960)",
       "TSMC(TSM)"
     ],
-    "insight": "지수 급상승에 따른 포모 증후군은 개별 투자자의 문제가 아닌 시장의 극단적 양극화가 낳은 구조적 현상이며, 주도 섹터인 반도체에 자산의 과반을 유지하되 실적 성장성이 담보된 <span class=\"text-cyan-300 font-semibold\">전물리적 인프라</span>(전력 기기 등) 섹터로 리밸런싱을 단행하는 것이 초과 수익의 열쇠입니다.",
-    "action_point": "포트폴리오의 50~60%는 반도체 대장주를 유지하여 시장의 중심을 잡고, <span class=\"text-cyan-300 font-semibold\">조정 시 분할 매수</span>로 비중을 채워 나가야 합니다.\n전력 기기(<span class=\"text-cyan-300 font-semibold\">효성중공업</span>, <span class=\"text-cyan-300 font-semibold\">LS일렉트릭</span>)와 2차 전지(<span class=\"text-cyan-300 font-semibold\">삼성SDI</span>), 방산(<span class=\"text-cyan-300 font-semibold\">LIG넥스원</span>) 등 각 소외 섹터 내 주도주 2~3개를 선별해 포트폴리오의 30% 내외로 분산 투자해야 합니다."
+    "insight": "지수 급상승에 따른 포모 증후군은 개별 투자자의 문제가 아닌 시장의 극단적 양극화가 낳은 구조적 현상이며, 주도 섹터인 <span class=\"text-cyan-300 font-semibold\">반도체</span>에 자산의 과반을 유지하되 실적 성장성이 담보된 전물리적 인프라(전력 기기 등) 섹터로 리밸런싱을 단행하는 것이 초과 수익의 열쇠입니다.",
+    "action_point": "포트폴리오의 50~60%는 <span class=\"text-cyan-300 font-semibold\">반도체</span> 대장주를 유지하여 시장의 중심을 잡고, <span class=\"text-rose-400 font-medium\">조정</span> 시 분할 매수로 비중을 채워 나가야 합니다.\n전력 기기(효성중공업, LS일렉트릭)와 2차 전지(삼성SDI), 방산(LIG넥스원) 등 각 소외 섹터 내 주도주 2~3개를 선별해 포트폴리오의 30% 내외로 분산 투자해야 합니다."
   },
   "classification": {
     "primary_topic": "stock",

@@ -8,9 +8,9 @@
     "thumbnail": "https://img.youtube.com/vi/-MLlXpuN4YU/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "이란의 호르무즈 해협 재봉쇄 위협과 미·이스라엘 갈등으로 인한 공급망 붕괴 가능성이 커지고 있습니다.\n과거 저렴한 에너지를 공급받던 체제에서 벗어나 <span class=\"text-violet-300 font-medium\">미국산 에너지</span>로의 의존도가 높아지며 구조적 고물가 상황이 초래되고 있습니다.\n일본, 대만, 독일 등 글로벌 국가들의 수요가 몰리며 <span class=\"text-rose-400 font-medium\">에너지 조달 비용 상승</span> 압박이 가중되고 있습니다.",
+    "summary": "<span class=\"text-violet-300 font-medium\">이란</span>의 <span class=\"text-violet-300 font-medium\">호르무즈 해협</span> 재봉쇄 위협과 미·이스라엘 갈등으로 인한 공급망 붕괴 가능성이 커지고 있습니다.\n과거 저렴한 에너지를 공급받던 체제에서 벗어나 미국산 에너지로의 의존도가 높아지며 구조적 고물가 상황이 초래되고 있습니다.\n일본, 대만, 독일 등 글로벌 국가들의 수요가 몰리며 에너지 조달 비용 상승 압박이 가중되고 있습니다.",
     "key_claims": [
-      "저가 에너지 공급망이 무너지고 미국 등 고비용 대체 국가로 에너지를 전환함에 따라 <span class=\"text-rose-400 font-medium\">구조적인 인플레이션</span>이 지속될 것이다.",
+      "저가 에너지 공급망이 무너지고 미국 등 고비용 대체 국가로 에너지를 전환함에 따라 구조적인 <span class=\"text-amber-300 font-bold\">인플레이션</span>이 지속될 것이다.",
       "다수의 글로벌 국가들이 동시에 미국산 에너지를 찾음에 따라, 미국 에너지 기업의 공급자 우위 시장이 형성되고 가격 협상권이 공급자에게 넘어갔다."
     ],
     "data_points": [
@@ -22,12 +22,12 @@
     ],
     "signal": "bearish",
     "signal_confidence": "medium",
-    "signal_reason": "지정학적 위기 속에서 에너지 공급망이 붕괴하고 <span class=\"text-rose-400 font-medium\">고비용 미국산 에너지</span>로의 전환이 강제되면서 장기적인 물가 상승 압력으로 작용할 것입니다.",
+    "signal_reason": "지정학적 위기 속에서 에너지 공급망이 붕괴하고 고비용 미국산 에너지로의 전환이 강제되면서 장기적인 물가 상승 압력으로 작용할 것입니다.",
     "key_companies": [
       "US Energy Companies"
     ],
-    "insight": "단순한 일시적 원자재 상승이 아니라, 글로벌 분업 구조의 붕괴에 따른 <span class=\"text-amber-300 font-bold\">공급망 재편</span> 과정에서 발생하는 구조적 고비용 구조의 고착화 현상입니다. 에너지 수입 의존도가 높은 아시아 제조 강국들에게 치명적인 타격이 될 수 있습니다.",
-    "action_point": "인플레이션 헷지 및 공급자 우위 시장의 수혜를 누릴 수 있는 미국 <span class=\"text-cyan-300 font-semibold\">엑슨모빌(XOM)</span>, <span class=\"text-cyan-300 font-semibold\">셰브론(CVX)</span> 등 대형 에너지 기업에 대한 비중 확대를 검토해야 합니다.\n고에너지 비용에 노출된 국내 한계 제조업종에 대해서는 보수적인 접근이 필요합니다."
+    "insight": "단순한 일시적 원자재 상승이 아니라, 글로벌 분업 구조의 붕괴에 따른 공급망 재편 과정에서 발생하는 구조적 고비용 구조의 고착화 현상입니다. 에너지 수입 의존도가 높은 아시아 제조 강국들에게 치명적인 타격이 될 수 있습니다.",
+    "action_point": "<span class=\"text-amber-300 font-bold\">인플레이션</span> 헷지 및 공급자 우위 시장의 수혜를 누릴 수 있는 미국 엑슨모빌(XOM), 셰브론(CVX) 등 대형 에너지 기업에 대한 비중 확대를 검토해야 합니다.\n고에너지 비용에 노출된 국내 한계 제조업종에 대해서는 보수적인 접근이 필요합니다."
   },
   "classification": {
     "primary_topic": "economy",

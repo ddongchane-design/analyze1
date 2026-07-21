@@ -1,0 +1,38 @@
+{
+  "video": {
+    "id": "gZVm8cPyLi4",
+    "title": "미국이 판 벌인 이란 전쟁 못 끝내는 진짜 이유 #교양이를부탁해",
+    "published": "2026-07-20T12:30:30+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=gZVm8cPyLi4",
+    "thumbnail": "https://img.youtube.com/vi/gZVm8cPyLi4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국이 <span class=\"text-violet-300 font-medium\">중동</span> 내 <span class=\"text-violet-300 font-medium\">이란</span>과의 대치 국면을 끝내지 못하는 근본적 이유는 <span class=\"text-violet-300 font-medium\">호르무즈 해협</span>의 통제권을 양도할 경우 글로벌 원유 수송로의 생사여탈권이 <span class=\"text-violet-300 font-medium\">이란</span>으로 이전되어 글로벌 에너지 시장 지배력을 상실하기 때문입니다. 미국은 전면전을 통한 <span class=\"text-amber-300 font-bold\">유가</span> 폭등 <span class=\"text-rose-400 font-medium\">리스크</span>와 퇴각에 따른 원유 패권 상실이라는 딜레마에 빠져 있으며, 해상 수송로를 지키기 위해 막대한 군사비용을 지불하는 소모적 교착 상태를 유지할 수밖에 없습니다.",
+    "key_claims": [
+      "미국이 군사력을 철수할 경우 <span class=\"text-violet-300 font-medium\">호르무즈 해협</span> 및 홍해의 해상 안보 공백이 발생하여 <span class=\"text-violet-300 font-medium\">이란</span>과 예멘 반군(후티)이 아시아-유럽 해상 물류의 통제권을 완전히 장악하게 된다.",
+      "전면적 군사 공격은 국제 <span class=\"text-amber-300 font-bold\">유가</span> 폭등으로 서방 경제에 직격탄을 날리고, 완전 철수는 원유 지배권 상실을 의미하므로 미국은 저강도 군사 대치 상태를 억지로 지속하고 있다."
+    ],
+    "data_points": [
+      "핵심 대치 지역: 호르무즈 해협, 바브엘만데브 해협 (글로벌 해상 원유 수송의 동맥)"
+    ],
+    "signal": "negative",
+    "signal_reason": "미국과 <span class=\"text-violet-300 font-medium\">이란</span>의 교착 상태가 장기화됨에 따라 <span class=\"text-violet-300 font-medium\">중동</span>발 해상 안보 위협이 만성화되고, 해상 운임 인상 및 원유 공급 불안 <span class=\"text-rose-400 font-medium\">리스크</span>가 항시 잠재하여 세계 실물 경제 회복을 저해하기 때문입니다.",
+    "key_companies": [],
+    "insight": "미국의 <span class=\"text-violet-300 font-medium\">중동</span> 정책은 '승리 없는 교착'의 딜레마입니다. <span class=\"text-violet-300 font-medium\">호르무즈 해협</span>의 물리적 안보는 달러 패권 및 글로벌 무역의 핵심 축이며, 이 공급선 유지를 위해 막대한 군사 재정을 쏟아붓는 장기 대치 구조는 매크로 <span class=\"text-amber-300 font-bold\">인플레이션</span>의 상시 불안 요인입니다.",
+    "action_point": "원유 공급선 불안에 따른 <span class=\"text-amber-300 font-bold\">유가</span> 변동을 주기적으로 헷지할 수 있는 대체 자산 비율을 유지하고, 해상 운송 비중이 높은 국내 수출 제조업체(화학, 자동차 등)들의 물류 원가 상승 요인으로 모니터링해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "energy"
+    ],
+    "tags": [
+      "미국중동딜레마",
+      "호르무즈통제권",
+      "원유수송로안보",
+      "유가쇼크리스크",
+      "소모적교착"
+    ]
+  }
+}

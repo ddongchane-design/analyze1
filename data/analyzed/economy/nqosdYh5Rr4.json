@@ -8,25 +8,25 @@
     "thumbnail": "https://img.youtube.com/vi/nqosdYh5Rr4/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "기술주 급락세는 과거 닷컴 버블과 달리 실적이 입증되고 있어 붕괴 징후가 아닌 <span class=\"text-rose-400 font-medium\">모멘텀 포지션 청산에 따른 건전한 조정</span>으로 분석됨. 다만 70년대 인플레이션의 쌍봉 형태 재현 우려 및 일부 빅 유저에 극도로 치우친 <span class=\"text-rose-400 font-medium\">좁은 AI 지출 구조</span>는 인프라 투자의 중장기 리스크 요인으로 부각됨.",
+    "summary": "기술주 <span class=\"text-rose-400 font-medium\">급락세</span>는 과거 닷컴 버블과 달리 실적이 입증되고 있어 붕괴 징후가 아닌 모멘텀 포지션 <span class=\"text-rose-400 font-medium\">청산</span>에 따른 건전한 <span class=\"text-rose-400 font-medium\">조정</span>으로 분석됨. 다만 70년대 <span class=\"text-amber-300 font-bold\">인플레이션</span>의 쌍봉 형태 재현 우려 및 일부 빅 유저에 극도로 치우친 좁은 AI 지출 구조는 인프라 투자의 중장기 <span class=\"text-rose-400 font-medium\">리스크</span> 요인으로 부각됨.",
     "key_claims": [
-      "현재 메모리 반도체 및 빅테크 밸류에이션(멀티플)은 이익 성장에 의해 충분히 설명 가능한 수준이며, 과거 버블 붕괴 공식과는 확연히 다름.",
-      "기업 직원 1인당 월평균 AI 사용액 통계상 상위 1%에 압도적으로 쏠려 있어 일반 대중/소형 기업의 사용 침투율은 여전히 낮은 기초 단계임.",
-      "지정학 및 중동 원유 공급 차질이 유발하는 물가 2차 스파이크 시나리오가 나타날 시, 연준의 예상 밖 추가 긴축이 지수의 최대 파괴 변수가 될 수 있음."
+      "현재 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span> 및 빅테크 밸류에이션(멀티플)은 이익 성장에 의해 충분히 설명 가능한 수준이며, 과거 버블 붕괴 공식과는 확연히 다름.",
+      "기업 직원 1인당 월평균 AI 사용액 통계상 상위 1%에 압도적으로 쏠려 있어 일반 <span class=\"text-violet-300 font-medium\">대중</span>/소형 기업의 사용 침투율은 여전히 낮은 기초 단계임.",
+      "지정학 및 <span class=\"text-violet-300 font-medium\">중동</span> 원유 공급 차질이 유발하는 물가 2차 스파이크 시나리오가 나타날 시, 연준의 예상 밖 추가 긴축이 지수의 최대 파괴 변수가 될 수 있음."
     ],
     "data_points": [
       "AI 사용자 지출 통계: 1인당 월평균 AI 지출액 상위 1%는 7,450달러인 반면, 상위 10%는 611달러, 전체 중앙값은 11달러에 불과해 쏠림 극화",
       "마이크론 연간 가이드라인 타겟: 매출 335억 달러, 주당순이익 19달러대 제시 예정"
     ],
     "signal": "neutral",
-    "signal_reason": "반도체의 기본 실적 펀더멘탈은 견고하지만, 좁은 유저층에 기대고 있는 AI CapEx 수요와 고금리 인플레 재상승 시나리오가 상단을 압박하는 불안 국면이기 때문임.",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">반도체</span>의 기본 실적 펀더멘탈은 견고하지만, 좁은 유저층에 기대고 있는 AI CapEx 수요와 <span class=\"text-amber-300 font-bold\">고금리</span> 인플레 재상승 시나리오가 상단을 압박하는 불안 국면이기 때문임.",
     "key_companies": [
       "마이크론(MU)",
       "엔비디아(NVDA)",
       "뱅크오브아메리카"
     ],
     "insight": "AI 인프라 투자가 정당화되려면 빅테크의 독점적 사용을 넘어, 백오피스 기업 실무 등 일반 기업들의 실질적 도입 및 반복 지출 기반이 확산되어야 함.",
-    "action_point": "모멘텀에만 의존해 급등한 고PER 단순 AI 성장주의 노출도는 축소하고, 반도체 제조 병목을 쥔 핵심 제조사 및 고금리 환경에 방어력이 있는 금융 섹터로 일부 분산할 것."
+    "action_point": "모멘텀에만 의존해 급등한 고PER 단순 AI 성장주의 노출도는 축소하고, <span class=\"text-cyan-300 font-semibold\">반도체</span> 제조 병목을 쥔 핵심 제조사 및 <span class=\"text-amber-300 font-bold\">고금리</span> 환경에 방어력이 있는 금융 섹터로 일부 분산할 것."
   },
   "classification": {
     "primary_topic": "economy",

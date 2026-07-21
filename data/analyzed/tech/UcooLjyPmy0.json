@@ -8,25 +8,25 @@
     "thumbnail": "https://img.youtube.com/vi/UcooLjyPmy0/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "세계 반도체 시장을 지배하던 일본 반도체 산업의 몰락은 <span class=\"text-violet-300 font-medium\">미일 반도체 협정</span>과 4번에 걸친 역사적 <span class=\"text-amber-300 font-bold\">시장 변곡점 대응 실패</span>에 기인합니다.\n일본 업체들은 PC 대중화, 인터넷 혁명, 모바일 기기 등장, 스마트폰 대전환 등 <span class=\"text-cyan-300 font-semibold\">폼팩터 및 컴퓨팅 환경 변화</span>에 적절히 대처하지 못해 시장 지배력을 잃었습니다.\n기존 가전 중심의 수직계열화 구조에 안주하며 <span class=\"text-rose-400 font-medium\">설비 투자(CAPEX) 격차</span>와 <span class=\"text-rose-400 font-medium\">치킨게임에서의 리스크 관리 실패</span>로 이어졌습니다.",
+    "summary": "세계 <span class=\"text-cyan-300 font-semibold\">반도체</span> 시장을 지배하던 일본 <span class=\"text-cyan-300 font-semibold\">반도체</span> 산업의 몰락은 미일 <span class=\"text-cyan-300 font-semibold\">반도체</span> 협정과 4번에 걸친 역사적 시장 변곡점 대응 실패에 기인합니다.\n일본 업체들은 PC <span class=\"text-violet-300 font-medium\">대중</span>화, 인터넷 혁명, 모바일 기기 등장, 스마트폰 대전환 등 폼팩터 및 컴퓨팅 환경 변화에 적절히 대처하지 못해 시장 지배력을 잃었습니다.\n기존 가전 중심의 수직계열화 구조에 안주하며 설비 투자(CAPEX) 격차와 치킨게임에서의 <span class=\"text-rose-400 font-medium\">리스크</span> 관리 실패로 이어졌습니다.",
     "key_claims": [
-      "<span class=\"text-violet-300 font-medium\">미일 반도체 협정</span>은 일본의 지배력을 꺾고 후발 주자였던 <span class=\"text-cyan-300 font-semibold\">한국과 대만 반도체 업계</span>에 큰 기회를 제공했습니다.",
-      "PC 대중화와 스마트폰 등 지속적인 <span class=\"text-amber-300 font-bold\">플랫폼 전환기</span>마다 일본 업체들은 변화에 적응하지 못하고 기존 포맷을 고수했습니다.",
-      "일본 반도체의 수직계열화 구조는 안일함을 낳았고, <span class=\"text-rose-400 font-medium\">CAPEX 격차 누적</span>으로 원가 경쟁력과 <span class=\"text-rose-400 font-medium\">시장 지배력을 완전히 상실</span>하는 결과를 초래했습니다."
+      "미일 <span class=\"text-cyan-300 font-semibold\">반도체</span> 협정은 일본의 지배력을 꺾고 후발 주자였던 한국과 대만 <span class=\"text-cyan-300 font-semibold\">반도체</span> 업계에 큰 기회를 제공했습니다.",
+      "PC <span class=\"text-violet-300 font-medium\">대중</span>화와 스마트폰 등 지속적인 플랫폼 전환기마다 일본 업체들은 변화에 적응하지 못하고 기존 포맷을 고수했습니다.",
+      "일본 <span class=\"text-cyan-300 font-semibold\">반도체</span>의 수직계열화 구조는 안일함을 낳았고, CAPEX 격차 누적으로 원가 경쟁력과 시장 지배력을 완전히 상실하는 결과를 초래했습니다."
     ],
     "data_points": [
       "1980년대 중반 미일 반도체 협정 체결",
       "이후 90년대 PC 시장, 2000년대 모바일 시대, 2010년대 스마트폰 시대 등 총 4번의 변곡점 발생"
     ],
     "signal": "neutral",
-    "signal_reason": "과거 일본 반도체 산업의 몰락 과정을 통해 <span class=\"text-amber-300 font-bold\">시장 패러다임 변화</span>에 대한 적기 대응과 <span class=\"text-rose-400 font-medium\">적극적인 설비 투자(CAPEX)의 중요성</span>을 시사하는 역사적 분석입니다.",
+    "signal_reason": "과거 일본 <span class=\"text-cyan-300 font-semibold\">반도체</span> 산업의 몰락 과정을 통해 시장 패러다임 변화에 대한 적기 대응과 적극적인 설비 투자(CAPEX)의 중요성을 시사하는 역사적 분석입니다.",
     "key_companies": [
       "삼성전자",
       "SK하이닉스",
       "TSMC"
     ],
-    "insight": "아무리 강력한 지배력을 가진 산업군이라 하더라도 <span class=\"text-amber-300 font-bold\">폼팩터 전환과 플랫폼 변화</span>를 외면하고 수동적인 <span class=\"text-rose-400 font-medium\">리스크 관리(보수적 투자)</span>에 치중하면 결국 원가 경쟁력을 상실하고 후발 주자에게 추월당한다는 점이 핵심입니다.",
-    "action_point": "투자자는 현재 AI 반도체 전환기 속에서 기업들이 새로운 <span class=\"text-cyan-300 font-semibold\">AI 컴퓨팅 환경</span>에 맞춘 기술 로드맵을 선제적으로 실행하고 있는지, 과감한 <span class=\"text-cyan-300 font-semibold\">CAPEX 투자를 단행</span>하고 있는지를 기준으로 옥석을 가려야 합니다."
+    "insight": "아무리 강력한 지배력을 가진 산업군이라 하더라도 폼팩터 전환과 플랫폼 변화를 외면하고 수동적인 <span class=\"text-rose-400 font-medium\">리스크</span> 관리(보수적 투자)에 치중하면 결국 원가 경쟁력을 상실하고 후발 주자에게 추월당한다는 점이 핵심입니다.",
+    "action_point": "투자자는 현재 <span class=\"text-cyan-300 font-semibold\">AI 반도체</span> 전환기 속에서 기업들이 새로운 AI 컴퓨팅 환경에 맞춘 기술 로드맵을 선제적으로 실행하고 있는지, 과감한 CAPEX 투자를 단행하고 있는지를 기준으로 옥석을 가려야 합니다."
   },
   "classification": {
     "primary_topic": "tech",

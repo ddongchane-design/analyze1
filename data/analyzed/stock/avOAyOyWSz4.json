@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/avOAyOyWSz4/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "국내 증시가 반도체 소부장을 중심으로 한 초양극화 장세가 고착된 가운데, 반도체 비중이 없거나 적은 투자자들은 조급한 포모(FOMO)를 느끼기보다 분할 매수로 담아야 함을 조언함. 특히 AI 반도체 밸류체인 외에도 서버/데이터센터 확장에 따른 고부가 <span class=\"text-cyan-300 font-semibold\">MLCC 부품</span>(삼성전기, LG이노텍 등)의 실적 턴어라운드와 바닥을 탈출하는 <span class=\"text-amber-300 font-bold\">원전 및 건설 인프라주</span>의 기회를 포착해야 함.",
+    "summary": "국내 증시가 <span class=\"text-cyan-300 font-semibold\">반도체</span> 소부장을 중심으로 한 초양극화 장세가 고착된 가운데, <span class=\"text-cyan-300 font-semibold\">반도체</span> 비중이 없거나 적은 투자자들은 조급한 포모(FOMO)를 느끼기보다 분할 매수로 담아야 함을 조언함. 특히 <span class=\"text-cyan-300 font-semibold\">AI 반도체</span> 밸류체인 외에도 서버/데이터센터 확장에 따른 고부가 MLCC 부품(삼성전기, LG이노텍 등)의 실적 턴어라운드와 바닥을 탈출하는 원전 및 건설 인프라주의 기회를 포착해야 함.",
     "key_claims": [
-      "현재 시장은 반도체 소부장이 지탱하고 있으며 포트폴리오 내 반도체 비중을 적정선 유지하는 것이 중립적 대응임.",
+      "현재 시장은 <span class=\"text-cyan-300 font-semibold\">반도체</span> 소부장이 지탱하고 있으며 포트폴리오 내 <span class=\"text-cyan-300 font-semibold\">반도체</span> 비중을 적정선 유지하는 것이 중립적 대응임.",
       "기판(FC-BGA) 및 고부가 MLCC의 수요 증가로 부품 밸류체인(LG이노텍, 삼성전기 등)의 성장 가시성이 높아짐.",
-      "원전 모텀과 재건 기대감이 가라앉으며 조정받은 대형 건설주들은 낮은 PBR을 바탕으로 저가 매력이 부각됨."
+      "원전 모텀과 재건 기대감이 가라앉으며 <span class=\"text-rose-400 font-medium\">조정</span>받은 대형 건설주들은 낮은 PBR을 바탕으로 저가 매력이 부각됨."
     ],
     "data_points": [
       "6월 1~20일 한국 반도체 수출 성장률: YoY +188.4% 폭증",
@@ -20,7 +20,7 @@
       "권장 포트폴리오 내 현금 비중: 약 20% 수준 조율 권장"
     ],
     "signal": "bullish",
-    "signal_reason": "반도체 수출 성장 지표가 지속적으로 폭증하고 있고, AI 모멘텀이 MLCC 등 하드웨어 부품과 원전 등 에너지 인프라 전반으로 확산되는 순환매가 시작되고 있기 때문임.",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 수출 성장 지표가 지속적으로 폭증하고 있고, AI 모멘텀이 MLCC 등 하드웨어 부품과 원전 등 에너지 인프라 전반으로 확산되는 순환매가 시작되고 있기 때문임.",
     "key_companies": [
       "삼성전자",
       "SK하이닉스",
@@ -28,8 +28,8 @@
       "LG이노텍",
       "두산에너빌리티"
     ],
-    "insight": "AI 서버 케펙스 증가가 반도체를 넘어 전력, 기판, MLCC 등 수동 소자 및 인프라 부품까지 실적 개선의 영역을 확실히 넓혀주고 있음.",
-    "action_point": "반도체 소부장 대장주의 분할 매수를 유지하면서, 상대적으로 밸류에이션 부담이 적고 실적 개선이 동행하는 고부가 MLCC 수혜주(삼성전기) 및 원전 모멘텀 대형 건설주에 분산 투자하는 전략이 유효함."
+    "insight": "AI 서버 케펙스 증가가 <span class=\"text-cyan-300 font-semibold\">반도체</span>를 넘어 전력, 기판, MLCC 등 수동 소자 및 인프라 부품까지 실적 개선의 영역을 확실히 넓혀주고 있음.",
+    "action_point": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 소부장 대장주의 분할 매수를 유지하면서, 상대적으로 밸류에이션 부담이 적고 실적 개선이 동행하는 고부가 MLCC 수혜주(삼성전기) 및 원전 모멘텀 대형 건설주에 분산 투자하는 전략이 유효함."
   },
   "classification": {
     "primary_topic": "stock",

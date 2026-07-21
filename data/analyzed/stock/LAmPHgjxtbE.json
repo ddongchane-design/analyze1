@@ -8,23 +8,23 @@
     "thumbnail": "https://img.youtube.com/vi/LAmPHgjxtbE/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "1. 많은 투자자들이 <span class=\"text-amber-300 font-bold\">매도를 어려워하는 근본적 이유</span>는 매수 단계에서 충분히 고민하지 않고 충동적으로 매수했기 때문입니다.\n2. 행동경제학의 <span class=\"text-cyan-300 font-semibold\">전망 이론</span>에 따르면 인간은 이익 구간에서는 조기 실현(익절)하려 하고, 손실이 커질수록 고통에 무감각해져 <span class=\"text-rose-400 font-medium\">방치(존버)하는 인지 편향</span>을 보입니다.\n3. 매도의 본질은 <span class=\"text-amber-300 font-bold\">자산 간의 '교환'</span>이며, 개별 종목의 수익률이나 평단가에 얽매이지 않고 <span class=\"text-cyan-300 font-semibold\">포트폴리오 최적화</span> 관점에서 비중을 조절해야 합니다.",
+    "summary": "1. 많은 투자자들이 매도를 어려워하는 근본적 이유는 매수 단계에서 충분히 고민하지 않고 충동적으로 매수했기 때문입니다.\n2. 행동경제학의 전망 이론에 따르면 인간은 이익 구간에서는 조기 실현(익절)하려 하고, 손실이 커질수록 고통에 무감각해져 방치(존버)하는 인지 편향을 보입니다.\n3. 매도의 본질은 자산 간의 '교환'이며, 개별 종목의 수익률이나 평단가에 얽매이지 않고 포트폴리오 최적화 관점에서 비중을 조절해야 합니다.",
     "key_claims": [
-      "매수를 어렵고 신중하게 해야 매도 결정을 내리기 쉬워지며, <span class=\"text-amber-300 font-bold\">매도를 잘못하는 것은 매수가 잘못되었기 때문</span>임",
-      "카너먼의 <span class=\"text-cyan-300 font-semibold\">전망 이론</span>에 나타나듯 인간은 30% 이상 손실이 발생하면 고통에 무감각해져 결국 <span class=\"text-rose-400 font-medium\">손절을 포기하고 장기 방치</span>하게 됨",
-      "시장은 투자자의 매수가나 수익률을 모르므로, 투자 의사결정 시 평단가에 연연하지 말고 <span class=\"text-cyan-300 font-semibold\">포트폴리오 비중 조절</span> 및 <span class=\"text-amber-300 font-bold\">자산 교환 관점</span>으로 접근해야 함"
+      "매수를 어렵고 신중하게 해야 매도 결정을 내리기 쉬워지며, 매도를 잘못하는 것은 매수가 잘못되었기 때문임",
+      "카너먼의 전망 이론에 나타나듯 인간은 30% 이상 손실이 발생하면 고통에 무감각해져 결국 손절을 포기하고 장기 방치하게 됨",
+      "시장은 투자자의 매수가나 수익률을 모르므로, 투자 의사결정 시 평단가에 연연하지 말고 포트폴리오 비중 조절 및 자산 교환 관점으로 접근해야 함"
     ],
     "data_points": [
       "대다수 개인 투자자들이 30% 이상 손실 구간에서 인지적 무감각 상태에 진입함"
     ],
     "signal": "neutral",
-    "signal_reason": "시장 매크로 방향성보다는 개인 투자자의 <span class=\"text-amber-300 font-bold\">심리적 오류 극복</span>과 포트폴리오 관리 기술을 다룬 교육적 내용으로 시장 시그널은 중립적입니다.",
+    "signal_reason": "시장 매크로 방향성보다는 개인 투자자의 심리적 오류 극복과 포트폴리오 관리 기술을 다룬 교육적 내용으로 시장 시그널은 중립적입니다.",
     "key_companies": [
       "삼성전자",
       "SK하이닉스"
     ],
-    "insight": "주식 투자에서 가장 큰 적은 시장이 아니라 인간의 타고난 인지적 본능(전망 이론)입니다. 계좌 내의 <span class=\"text-rose-400 font-medium\">부실 자산을 방치</span>하는 것은 포트폴리오의 승률을 갉아먹는 행위이며, 축구팀의 부상 선수를 엔트리에서 제외하듯 냉정하게 <span class=\"text-cyan-300 font-semibold\">현금이나 유망 자산</span>으로 교환해야 합니다.",
-    "action_point": "투자자는 즉시 자신의 계좌를 점검하여 -30% 이상 <span class=\"text-rose-400 font-medium\">방치된 좀비 종목</span>(부실 코인/주식)을 포트폴리오 베스트 11 관점에서 퇴출(손절)하고, 확보한 현금으로 주도주나 현금 비중을 늘리는 <span class=\"text-amber-300 font-bold\">자산 교환</span>을 실행해야 합니다."
+    "insight": "주식 투자에서 가장 큰 적은 시장이 아니라 인간의 타고난 인지적 본능(전망 이론)입니다. 계좌 내의 <span class=\"text-rose-400 font-medium\">부실</span> 자산을 방치하는 것은 포트폴리오의 승률을 갉아먹는 행위이며, 축구팀의 부상 선수를 엔트리에서 제외하듯 냉정하게 현금이나 유망 자산으로 교환해야 합니다.",
+    "action_point": "투자자는 즉시 자신의 계좌를 점검하여 -30% 이상 방치된 좀비 종목(<span class=\"text-rose-400 font-medium\">부실</span> 코인/주식)을 포트폴리오 베스트 11 관점에서 퇴출(손절)하고, 확보한 현금으로 주도주나 현금 비중을 늘리는 자산 교환을 실행해야 합니다."
   },
   "classification": {
     "primary_topic": "stock",

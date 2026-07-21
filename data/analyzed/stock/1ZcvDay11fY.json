@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/1ZcvDay11fY/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "어제 하락했던 미국 증시는 <span class=\"text-cyan-300 font-semibold\">반도체 섹터</span>의 강력한 강세에 힘입어 하루 만에 반등했습니다. 마이크론은 애플의 메모리 쇼티지 언급과 목표주가 상향으로 52주 신고가를 경신했고, 인텔은 애플과의 파운드리 협력 합의 소식에 급등했습니다. 반면 상장 초기 급등했던 <span class=\"text-rose-400 font-medium\">스페이스X</span>는 무리한 AI 투자 및 밸류에이션 논란으로 차익 실현 매물이 출회되며 조정세를 보였습니다.",
+    "summary": "어제 하락했던 미국 증시는 <span class=\"text-cyan-300 font-semibold\">반도체</span> 섹터의 강력한 강세에 힘입어 하루 만에 반등했습니다. 마이크론은 애플의 메모리 쇼티지 언급과 목표주가 상향으로 52주 신고가를 경신했고, <span class=\"text-cyan-300 font-semibold\">인텔</span>은 애플과의 파운드리 협력 합의 소식에 급등했습니다. 반면 상장 초기 급등했던 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>는 무리한 AI 투자 및 밸류에이션 논란으로 차익 실현 매물이 출회되며 <span class=\"text-rose-400 font-medium\">조정</span>세를 보였습니다.",
     "key_claims": [
-      "애플 팀 쿡 CEO의 메모리 및 스토리지 부족 언급으로 인해 메모리 반도체 기업들의 성장주 밸류에이션 평가가 정당화되고 있다.",
-      "인텔은 미국 정부의 지분 참여와 트럼프의 지지 아래 국가 안보 성격의 정책주이자 파운드리 경쟁사로 급부상했다.",
-      "스페이스X의 무리한 AI 기업(Cursor) 인수 및 대규모 채권 발행은 기업가치 2.5조 달러 밸류에이션에 대한 <span class=\"text-rose-400 font-medium\">의구심</span>을 낳고 있다."
+      "애플 팀 쿡 CEO의 메모리 및 스토리지 부족 언급으로 인해 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span> 기업들의 성장주 밸류에이션 평가가 정당화되고 있다.",
+      "<span class=\"text-cyan-300 font-semibold\">인텔</span>은 미국 정부의 지분 참여와 트럼프의 지지 아래 국가 안보 성격의 정책주이자 파운드리 경쟁사로 급부상했다.",
+      "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 무리한 AI 기업(Cursor) 인수 및 대규모 채권 발행은 기업가치 2.5조 달러 밸류에이션에 대한 의구심을 낳고 있다."
     ],
     "data_points": [
       "다우 0.14%, S&P 500 1.08%, 나스닥 1.91% 상승",
@@ -31,7 +31,7 @@
     ],
     "signal": "bullish",
     "signal_confidence": "medium",
-    "signal_reason": "메모리 쇼티지가 IT 세트 고객사인 애플을 통해 직접 확인되었고, 클라우드 빅테크의 자체 <span class=\"text-cyan-300 font-semibold\">AI 가속기</span> 수요 확대 및 미국 정책적 제조업 육성 수혜가 이어지고 있습니다.",
+    "signal_reason": "메모리 쇼티지가 IT 세트 고객사인 애플을 통해 직접 확인되었고, 클라우드 빅테크의 자체 AI 가속기 수요 확대 및 미국 정책적 제조업 육성 수혜가 이어지고 있습니다.",
     "key_companies": [
       "Micron(MU)",
       "Intel(INTC)",
@@ -39,8 +39,8 @@
       "Amazon(AMZN)",
       "SpaceX"
     ],
-    "insight": "AI 인프라 투자의 지속성에 대한 우려 속에서도, 애플의 메모리 단가 상승 수용과 아마존/구글의 자체 AI 가속기 외부 판매 시도는 반도체 슈퍼사이클의 지속 가능성을 보여줍니다. 반면, AI 버블 논란은 <span class=\"text-rose-400 font-medium\">스페이스X</span>의 사례처럼 AI와 무관한 산업군이 과도한 프리미엄을 유지하려 무리하게 AI 투자를 선언할 때 시장이 <span class=\"text-rose-400 font-medium\">차갑게 냉각</span>되는 차별화 장세로 흐르고 있습니다.",
-    "action_point": "마이크론은 호실적 기대감이 이미 선반영된 만큼 6월 24일 실적 발표 이후 조정을 받을 때 분할 매수 기회로 잡고, 파운드리 육성의 정책 수혜주인 <span class=\"text-cyan-300 font-semibold\">Intel</span>과 HBM 강세의 주도주인 국내 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>의 동반 상승 흐름에 올라타는 전략을 권장합니다."
+    "insight": "AI 인프라 투자의 지속성에 대한 우려 속에서도, 애플의 메모리 단가 상승 수용과 아마존/<span class=\"text-cyan-300 font-semibold\">구글</span>의 자체 AI 가속기 외부 판매 시도는 <span class=\"text-cyan-300 font-semibold\">반도체</span> 슈퍼사이클의 지속 가능성을 보여줍니다. 반면, AI 버블 논란은 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 사례처럼 AI와 무관한 산업군이 과도한 프리미엄을 유지하려 무리하게 AI 투자를 선언할 때 시장이 차갑게 냉각되는 차별화 장세로 흐르고 있습니다.",
+    "action_point": "마이크론은 호실적 기대감이 이미 선반영된 만큼 6월 24일 실적 발표 이후 <span class=\"text-rose-400 font-medium\">조정</span>을 받을 때 분할 매수 기회로 잡고, 파운드리 육성의 정책 수혜주인 Intel과 <span class=\"text-cyan-300 font-semibold\">HBM</span> 강세의 주도주인 국내 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>의 동반 상승 흐름에 올라타는 전략을 권장합니다."
   },
   "classification": {
     "primary_topic": "stock",

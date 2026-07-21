@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "IKfa_RBQlCA",
+    "title": "[26.07.20 오전 방송 전체보기] 중국 '문샷'이 뭐길래? 기술주 전반 하락 마감...WTI 유가 +4% 상승",
+    "published": "2026-07-20T03:21:00+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=IKfa_RBQlCA",
+    "thumbnail": "https://img.youtube.com/vi/IKfa_RBQlCA/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">TSMC</span>의 설비투자(CAPEX) 확대 우려와 <span class=\"text-violet-300 font-medium\">중국</span> 문샷 AI의 Kimi K3 성능 입증, <span class=\"text-violet-300 font-medium\">중동</span> 갈등 격화로 인한 브렌트유 90달러 돌파 등으로 기술주와 <span class=\"text-cyan-300 font-semibold\">반도체</span> 섹터의 변동성이 확대되었습니다. 국내 코스피는 120일 이동평균선 부근에서 지지력 테스트를 받고 있으며, 개인 투자자들의 심리 위축으로 향후 V자 반등 시 차익 실현 및 원금 회수성 매물이 조기에 출회할 수 있어 기관과 외국인의 매수세 전환 여부가 핵심 변수입니다.",
+    "key_claims": [
+      "<span class=\"text-cyan-300 font-semibold\">TSMC</span>가 우수한 실적을 발표했음에도 미래 마진 압박으로 이어질 대규모 CAPEX 설비투자를 악재로 인식하는 시장의 비이성적 조증 상태가 <span class=\"text-cyan-300 font-semibold\">반도체</span>주 <span class=\"text-rose-400 font-medium\">조정</span>을 심화시켰다.",
+      "<span class=\"text-violet-300 font-medium\">중국</span> 문샷 AI의 Kimi K3가 고성능 벤치마크를 기록했으나, 서버 용량 부족으로 신규 가입을 제한하는 등 자원 한계에 부딪혀 글로벌 생태계를 뒤흔들 파괴력은 제한적이며 시장의 반응은 과도하다.",
+      "<span class=\"text-violet-300 font-medium\">중동</span> 지역 내 미군 전사자 발생과 바브엘만데브 해협 봉쇄 위협으로 국제 <span class=\"text-amber-300 font-bold\">유가</span>가 U자형 급반등을 보여 7~8월 미국 물가(CPI)와 <span class=\"text-amber-300 font-bold\">금리 인하</span> 기대 경로에 돌발 복병으로 부상했다."
+    ],
+    "data_points": [
+      "국제 유가: WTI 80달러 돌파, 브렌트유 90달러선 돌파 (지정학적 갈등 촉발로 상승세 회복)",
+      "코스피 기술적 지표: 120일 이평선 부근 지지선 형성 (이탈 시 약세장 진입 판단 기준선)",
+      "문샷 AI Kimi K3: 코딩 벤치마크에서 클로드 오퍼스 4.8 및 GPT 5.5 상회 주장"
+    ],
+    "signal": "neutral",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 업황의 장기적인 펀더멘탈과 빅테크 CAPEX의 지속성은 유효하지만, 단기적으로 <span class=\"text-violet-300 font-medium\">중동</span> 지정학적 충돌에 의한 <span class=\"text-amber-300 font-bold\">유가 상승</span> 압력과 국내 개인 투자자들의 투매 심리(본전 매도 대기)로 지수의 추가 횡보 변동성이 클 수 있기 때문입니다.",
+    "key_companies": [
+      "TSMC(TSM)",
+      "SK하이닉스(000660)",
+      "삼성전자(005930)",
+      "문샷AI"
+    ],
+    "insight": "시장은 주가가 오를 때는 빅테크의 무제한 CAPEX를 호재로 해석했지만, <span class=\"text-rose-400 font-medium\">조정</span>기에는 이를 마진 압박 요인으로 번복하며 악재를 억지로 끼워 맞추고 있습니다. 실적 확인을 거치며 이 비이성적인 괴리가 좁혀질 것이며, 이때 <span class=\"text-amber-300 font-bold\">유가</span> 변동성이 매크로 금리 기조를 흔드는지가 관건입니다.",
+    "action_point": "120일 이평선 부근에서의 패닉셀(손절)을 지양하고 보유 포지션을 유지하되, 단기 기술적 반등 시 발생할 매물 출회 압력을 고려하여 무리한 신용 물타기보다는 분할 매수로 대응하는 전략을 추천합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy",
+      "tech"
+    ],
+    "tags": [
+      "TSMC실적",
+      "문샷KimiK3",
+      "중동전쟁",
+      "코스피이평선",
+      "본전매도심리"
+    ]
+  }
+}

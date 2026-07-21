@@ -8,25 +8,25 @@
     "thumbnail": "https://img.youtube.com/vi/qmRj9vXv0wA/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "성상현 중소기업중앙회 부부장은 현재의 AI 반도체 조정을 2000년 닷컴 버블 붕괴와 비교하는 것은 부적절하다고 분석했습니다. 당시와 달리 현재의 <span class=\"text-cyan-300 font-semibold\">빅테크(M7)</span>는 본업(광고, 클라우드 등)을 통해 천문학적인 현금 창출력(FCF)을 보유하고 자국 안보 논리에 따라 자발적 CAPEX 투자를 이어가고 있어, 이번 하락은 버블 붕괴가 아닌 수급 쏠림 해소 및 포트폴리오 재조정의 기회입니다.",
+    "summary": "성상현 중소기업중앙회 부부장은 현재의 <span class=\"text-cyan-300 font-semibold\">AI 반도체</span> <span class=\"text-rose-400 font-medium\">조정</span>을 2000년 닷컴 버블 붕괴와 비교하는 것은 부적절하다고 분석했습니다. 당시와 달리 현재의 빅테크(M7)는 본업(광고, 클라우드 등)을 통해 천문학적인 현금 창출력(FCF)을 보유하고 자국 안보 논리에 따라 자발적 CAPEX 투자를 이어가고 있어, 이번 하락은 버블 붕괴가 아닌 수급 쏠림 해소 및 포트폴리오 재<span class=\"text-rose-400 font-medium\">조정</span>의 기회입니다.",
     "key_claims": [
       "2000년 닷컴 버블은 매출 없이 부채로 연명하던 벤처기업들의 파산이었으나, 현재의 AI 투자는 압도적인 현금 창출력을 갖춘 메가캡 빅테크들이 주도하고 있다.",
-      "최근의 기술주 하락 및 러셀2000(소형주)과 금융주로의 자금 이동은 금리 인하 기대와 '트럼프 트레이드'가 촉발한 일시적 포트폴리오 로테이션(순환매)이다.",
+      "최근의 기술주 하락 및 러셀2000(소형주)과 금융주로의 자금 이동은 <span class=\"text-amber-300 font-bold\">금리 인하</span> 기대와 '트럼프 트레이드'가 촉발한 일시적 포트폴리오 로테이션(순환매)이다.",
       "빅테크의 CAPEX 지출은 경쟁 탈락 시 생존할 수 없다는 안보적 위기감에 기반하므로 단기 시장 센티멘트에 의해 중단될 가능성이 매우 낮다."
     ],
     "data_points": [
       "빅테크 현금창출력: M7 기업들의 잉여현금흐름(FCF) 및 현금성 자산 규모는 역사적 최고 수준"
     ],
     "signal": "bullish",
-    "signal_reason": "AI 빅테크들의 기초 체력(현금 창출력)이 닷컴 버블 당시와 비교가 불가능할 정도로 탄탄하며, 포트폴리오 순환매에 따른 반도체주 조정은 장기 주도 섹터를 저렴하게 매수할 수 있는 기회이기 때문입니다.",
+    "signal_reason": "AI 빅테크들의 기초 체력(현금 창출력)이 닷컴 버블 당시와 비교가 불가능할 정도로 탄탄하며, 포트폴리오 순환매에 따른 <span class=\"text-cyan-300 font-semibold\">반도체</span>주 <span class=\"text-rose-400 font-medium\">조정</span>은 장기 주도 섹터를 저렴하게 매수할 수 있는 기회이기 때문입니다.",
     "key_companies": [
       "엔비디아(NVDA)",
       "마이크로소프트(MSFT)",
       "아마존(AMZN)",
       "애플(AAPL)"
     ],
-    "insight": "닷컴 버블의 트라우마는 시장 조정 시마다 소환되지만, 실적(EPS) 성장이 뒷받침되는 AI 생태계는 실체가 존재합니다. CAPEX 우려는 오히려 빅테크의 막강한 자금 동원력과 AI 기술의 필수성(생존 경쟁)을 확인시켜주는 지표입니다.",
-    "action_point": "버블 붕괴 공포에 휩쓸려 주도주를 투매하지 말고, 조정 기회를 활용해 <span class=\"text-cyan-300 font-semibold\">엔비디아</span>, <span class=\"text-cyan-300 font-semibold\">TSMC</span> 및 국내 주요 반도체 밸류체인을 저가 매수할 것을 권장합니다."
+    "insight": "닷컴 버블의 트라우마는 시장 <span class=\"text-rose-400 font-medium\">조정</span> 시마다 소환되지만, 실적(EPS) 성장이 뒷받침되는 AI 생태계는 실체가 존재합니다. CAPEX 우려는 오히려 빅테크의 막강한 자금 동원력과 AI 기술의 필수성(생존 경쟁)을 확인시켜주는 지표입니다.",
+    "action_point": "버블 붕괴 공포에 휩쓸려 주도주를 투매하지 말고, <span class=\"text-rose-400 font-medium\">조정</span> 기회를 활용해 엔비디아, <span class=\"text-cyan-300 font-semibold\">TSMC</span> 및 국내 주요 <span class=\"text-cyan-300 font-semibold\">반도체</span> 밸류체인을 저가 매수할 것을 권장합니다."
   },
   "classification": {
     "primary_topic": "stock",

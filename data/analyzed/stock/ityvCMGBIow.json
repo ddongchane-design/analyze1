@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/ityvCMGBIow/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "뉴욕 증시는 6월 소비자물가지수(CPI)가 6년 만에 마이너스를 기록(인플레 해소)하자 금리 안정 기대 속에 반등했습니다. 트럼프의 호르무즈 20% 관세 철회와 유가 하향 안정, SK하이닉스 본주-ADR 괴리율 51% 대치 상황을 다룹니다.",
+    "summary": "뉴욕 증시는 6월 소비자물가지수(CPI)가 6년 만에 마이너스를 기록(인플레 해소)하자 금리 안정 기대 속에 반등했습니다. 트럼프의 <span class=\"text-violet-300 font-medium\">호르무즈</span> 20% 관세 철회와 <span class=\"text-amber-300 font-bold\">유가</span> 하향 안정, <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 본주-ADR 괴리율 51% 대치 상황을 다룹니다.",
     "key_claims": [
       "6월 헤드라인 CPI가 -0.4%로 폭락하며 6년 만에 전월비 마이너스를 기록해 물가 긴장감을 완벽하게 종식시켰습니다.",
-      "SK하이닉스 본주와 미국 ADR 간 괴리율이 51%로 폭증했는데, 미국 투자자들이 물가 둔화 확인 즉시 하이닉스 ADR을 27% 수준으로 끌어올렸기 때문입니다.",
-      "트럼프 전 대통령이 호르무즈 통행료 위협을 전격 번복하며 석유 수송로 차단 리스크가 완화되었습니다. 반면 IBM은 핵심 서비스 사업 위축으로 24% 폭락했습니다."
+      "<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 본주와 미국 ADR 간 괴리율이 51%로 폭증했는데, 미국 투자자들이 물가 둔화 확인 즉시 하이닉스 ADR을 27% 수준으로 끌어올렸기 때문입니다.",
+      "트럼프 전 대통령이 <span class=\"text-violet-300 font-medium\">호르무즈</span> 통행료 위협을 전격 번복하며 석유 수송로 차단 <span class=\"text-rose-400 font-medium\">리스크</span>가 완화되었습니다. 반면 IBM은 핵심 서비스 사업 위축으로 24% 폭락했습니다."
     ],
     "data_points": [
       "6월 미국 헤드라인 CPI 상승률: 전월 대비 -0.4% 하락 (역사적 마이너스 서프라이즈)",
@@ -20,14 +20,14 @@
       "IBM 일일 등락률: 분기 실적 악화 공식 확인에 따른 -24.0% 급락"
     ],
     "signal": "bullish",
-    "signal_reason": "매크로 지표의 절대 핵심인 미국 CPI가 깜짝 하락하며 금리 안정화를 보장했고, 트럼프발 유가 리스크도 빠르게 수습되어 기술주에 대한 강력한 유동성 유입이 개시되었기 때문입니다.",
+    "signal_reason": "매크로 지표의 절대 핵심인 미국 CPI가 깜짝 하락하며 금리 안정화를 보장했고, 트럼프발 <span class=\"text-amber-300 font-bold\">유가</span> <span class=\"text-rose-400 font-medium\">리스크</span>도 빠르게 수습되어 기술주에 대한 강력한 유동성 유입이 개시되었기 때문입니다.",
     "key_companies": [
       "SK하이닉스(000660)",
       "IBM(IBM)",
       "엔비디아(NVDA)"
     ],
     "insight": "미국의 CPI 마이너스 전환은 금리 동결 우려를 지우고 확실한 연내 3회 인하 시나리오에 힘을 실어줍니다. ADR 51% 괴리율은 미국 스마트 머니가 한국 메모리를 강력한 타겟으로 편입하고 있음을 보여주는 결정적 힌트입니다.",
-    "action_point": "미국 연준 금리 긴축 리스크 해소와 하이닉스 ADR 프리미엄을 근거로, 국내 증시에 상장된 하이닉스 및 삼성전자 본주 비중을 적극 확대하여 차익 키맞추기 랠리에 선제 승차하십시오."
+    "action_point": "미국 연준 금리 긴축 <span class=\"text-rose-400 font-medium\">리스크</span> 해소와 하이닉스 ADR 프리미엄을 근거로, 국내 증시에 상장된 하이닉스 및 <span class=\"text-cyan-300 font-semibold\">삼성전자</span> 본주 비중을 적극 확대하여 차익 키맞추기 랠리에 선제 승차하십시오."
   },
   "classification": {
     "primary_topic": "stock",

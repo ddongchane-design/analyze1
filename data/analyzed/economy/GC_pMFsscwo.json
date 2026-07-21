@@ -8,9 +8,9 @@
     "thumbnail": "https://img.youtube.com/vi/GC_pMFsscwo/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "사우디아라비아의 역사적인 대규모 아시아향 원유 판매가 인하 조치와 호르무즈 해협 협상 진척에 따른 국제 유가 하락 안정, 골드만삭스의 AMD 목표가 상향(640달러) 배경을 정리함.",
+    "summary": "사우디아라비아의 역사적인 대규모 아시아향 원유 판매가 인하 조치와 <span class=\"text-violet-300 font-medium\">호르무즈 해협</span> 협상 진척에 따른 국제 <span class=\"text-amber-300 font-bold\">유가</span> 하락 안정, 골드만삭스의 AMD 목표가 상향(640달러) 배경을 정리함.",
     "key_claims": [
-      "사우디아라비아가 8월 아시아향 공식 판매가(OSP)를 배럴당 11달러 인하(2000년 이후 최대폭)한 것은 호르무즈 해협 통행 정상화에 따른 공급 과잉에 선제 대응하기 위함임.",
+      "사우디아라비아가 8월 아시아향 공식 판매가(OSP)를 배럴당 11달러 인하(2000년 이후 최대폭)한 것은 <span class=\"text-violet-300 font-medium\">호르무즈 해협</span> 통행 정상화에 따른 공급 과잉에 선제 대응하기 위함임.",
       "골드만삭스는 에이전틱 AI(Agentic AI) 시대 개화로 데이터센터용 CPU 수요가 폭증할 것으로 예측하며 AMD의 목표가를 640달러로 상향하고 2분기 강력한 어닝 서프라이즈를 예고함.",
       "노무라 증권은 글로벌 메모리 시장이 2030년까지 현재의 10배인 2조 6천억 달러 규모로 팽창할 것이라는 보고서를 발표해 AI 장기 인프라 낙관론에 쐐기를 박음."
     ],
@@ -20,15 +20,15 @@
       "UBS 올해 영업이익 상향: 삼성전자 441조 원, SK하이닉스 327조 원으로 상향 조정"
     ],
     "signal": "bullish",
-    "signal_reason": "사우디의 원유 판매가 인하로 공급발 에너지 인플레이션 압력이 원천 차단되었고, 글로벌 주요 투자은행들이 한국의 HBM/메모리 및 글로벌 CPU 가치사슬 영업이익 컨센서스를 대폭 상향했기 때문입니다.",
+    "signal_reason": "사우디의 원유 판매가 인하로 공급발 에너지 <span class=\"text-amber-300 font-bold\">인플레이션</span> 압력이 원천 차단되었고, 글로벌 주요 투자은행들이 한국의 <span class=\"text-cyan-300 font-semibold\">HBM</span>/메모리 및 글로벌 CPU 가치사슬 영업이익 컨센서스를 대폭 상향했기 때문입니다.",
     "key_companies": [
       "Saudi Aramco",
       "AMD",
       "삼성전자",
       "SK하이닉스"
     ],
-    "insight": "사우디의 배럴당 11달러 단가 전격 인하는 에너지 비용 상승 우려를 종식시키는 <span class=\"text-cyan-300 font-semibold\">매크로적 최고의 선물</span>입니다. 유가 하락은 빅테크의 전력 유틸리티 부담을 덜어주어 AI 인프라 재투자를 촉진할 것입니다.",
-    "action_point": "유가 안정에 수혜를 받는 전력 설비 인프라주 및 고마진 메모리 핵심 밸류체인 포트폴리오를 변함없이 추가 매집합니다."
+    "insight": "사우디의 배럴당 11달러 단가 전격 인하는 에너지 비용 상승 우려를 종식시키는 매크로적 최고의 선물입니다. <span class=\"text-amber-300 font-bold\">유가</span> 하락은 빅테크의 전력 유틸리티 부담을 덜어주어 AI 인프라 재투자를 촉진할 것입니다.",
+    "action_point": "<span class=\"text-amber-300 font-bold\">유가</span> 안정에 수혜를 받는 전력 설비 인프라주 및 고마진 메모리 핵심 밸류체인 포트폴리오를 변함없이 추가 매집합니다."
   },
   "classification": {
     "primary_topic": "economy",

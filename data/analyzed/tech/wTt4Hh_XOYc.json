@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/wTt4Hh_XOYc/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "시장 일각의 <span class=\"text-rose-400 font-medium\">반도체 피크아웃 우려</span>는 기우이며, 엔비디아의 소캠(SoCAM) 스펙 변경 역시 메모리 수요 둔화가 아닌 <span class=\"text-cyan-300 font-semibold\">LPDDR5 공급 부족</span>에 따른 조절입니다. 과거 스마트폰/PC 중심 사이클과 달리 이번 사이클은 <span class=\"text-amber-300 font-bold\">AI 데이터센터 인프라 투자</span>와 HBM 생산에 따른 웨이퍼 손실(<span class=\"text-cyan-300 font-semibold\">다이 패널티</span>)이 공급을 제한하여 장기 호황을 뒷받침합니다.",
+    "summary": "시장 일각의 <span class=\"text-cyan-300 font-semibold\">반도체</span> 피크아웃 우려는 기우이며, 엔비디아의 소캠(SoCAM) 스펙 변경 역시 메모리 수요 둔화가 아닌 LPDDR5 공급 부족에 따른 조절입니다. 과거 스마트폰/PC 중심 사이클과 달리 이번 사이클은 AI 데이터센터 인프라 투자와 <span class=\"text-cyan-300 font-semibold\">HBM</span> 생산에 따른 웨이퍼 손실(다이 패널티)이 공급을 제한하여 장기 호황을 뒷받침합니다.",
     "key_claims": [
-      "소캠 스펙 축소는 엔비디아가 디램 부족 문제를 해결하고 <span class=\"text-cyan-300 font-semibold\">베라 CPU</span> 공급을 원활하게 하기 위한 궁여지책입니다.",
-      "HBM 생산 확대는 일반 디램 웨이퍼 생산 용량을 잠식하는 <span class=\"text-rose-400 font-medium\">다이 패널티</span>를 유발하여 구조적인 공급 부족을 지속시킵니다.",
-      "구글(알파벳)의 유상증자는 재무 리스크가 아닌 <span class=\"text-cyan-300 font-semibold\">Aggressive AI 인프라 투자</span>를 위한 자신감의 표출이며 빅테크 생태계에 긍정적입니다."
+      "소캠 스펙 축소는 엔비디아가 디램 부족 문제를 해결하고 베라 CPU 공급을 원활하게 하기 위한 궁여지책입니다.",
+      "<span class=\"text-cyan-300 font-semibold\">HBM</span> 생산 확대는 일반 디램 웨이퍼 생산 용량을 잠식하는 다이 패널티를 유발하여 구조적인 공급 부족을 지속시킵니다.",
+      "<span class=\"text-cyan-300 font-semibold\">구글</span>(알파벳)의 유상증자는 재무 <span class=\"text-rose-400 font-medium\">리스크</span>가 아닌 Aggressive AI 인프라 투자를 위한 자신감의 표출이며 빅테크 생태계에 긍정적입니다."
     ],
     "data_points": [
       "엔비디아 NVL72 랙 시스템당 LPDDR5 메모리 용량 50% 축소 보도",
@@ -20,15 +20,15 @@
       "알파벳(구글)의 대규모 투자 확대 발표 및 자금 조달 진행"
     ],
     "signal": "bullish",
-    "signal_reason": "공급 부족에 따른 소캠 스펙 다운과 <span class=\"text-rose-400 font-medium\">과도한 피크아웃 공포</span>로 주가가 동반 조정을 받았으나, HBM 다이 패널티와 빅테크 투자 확대로 견고한 업황이 지속될 것입니다.",
+    "signal_reason": "공급 부족에 따른 소캠 스펙 다운과 과도한 피크아웃 공포로 주가가 동반 <span class=\"text-rose-400 font-medium\">조정</span>을 받았으나, <span class=\"text-cyan-300 font-semibold\">HBM</span> 다이 패널티와 빅테크 투자 확대로 견고한 업황이 지속될 것입니다.",
     "key_companies": [
       "엔비디아",
       "구글",
       "SK하이닉스",
       "삼성전자"
     ],
-    "insight": "이번 사이클의 차별점은 소비자 기기 수요가 아닌 기업들의 <span class=\"text-amber-300 font-bold\">장기공급계약(LTA)</span> 기반 데이터센터 투자라는 점입니다. 또한 HBM의 구조적 수율 이슈 및 다이 패널티가 공급을 타이트하게 억제하고 있으므로, 과거처럼 급격한 공급 과잉으로 인한 <span class=\"text-rose-400 font-medium\">반도체 가격 폭락</span>이 재현될 확률은 극히 낮습니다.",
-    "action_point": "피크아웃 논란으로 조정을 받은 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>를 매력적인 매수 기회로 활용하고, 빅테크 중 풀스택 경쟁력을 보유한 <span class=\"text-cyan-300 font-semibold\">구글(알파벳)</span>과 <span class=\"text-cyan-300 font-semibold\">브로드컴</span>을 포트폴리오에 편입하는 전략을 제시합니다."
+    "insight": "이번 사이클의 차별점은 소비자 기기 수요가 아닌 기업들의 장기공급계약(LTA) 기반 데이터센터 투자라는 점입니다. 또한 <span class=\"text-cyan-300 font-semibold\">HBM</span>의 구조적 <span class=\"text-rose-400 font-medium\">수율</span> 이슈 및 다이 패널티가 공급을 타이트하게 억제하고 있으므로, 과거처럼 급격한 공급 과잉으로 인한 <span class=\"text-cyan-300 font-semibold\">반도체</span> 가격 폭락이 재현될 확률은 극히 낮습니다.",
+    "action_point": "피크아웃 논란으로 <span class=\"text-rose-400 font-medium\">조정</span>을 받은 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>를 매력적인 매수 기회로 활용하고, 빅테크 중 풀스택 경쟁력을 보유한 <span class=\"text-cyan-300 font-semibold\">구글</span>(알파벳)과 <span class=\"text-cyan-300 font-semibold\">브로드컴</span>을 포트폴리오에 편입하는 전략을 제시합니다."
   },
   "classification": {
     "primary_topic": "tech",

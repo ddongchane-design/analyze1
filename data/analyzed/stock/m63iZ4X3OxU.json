@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/m63iZ4X3OxU/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "최근 글로벌 증시의 변동성 완화와 유동성 회복에 힘입어 <span class=\"text-cyan-300 font-semibold\">삼성전자와 SK하이닉스</span>로의 기관/외국인 메이저 수급이 급격히 복귀하고 있다. 인공지능 서버 수요 강세와 함께 삼성전기 및 LG이노텍의 2분기 가이던스 상향 리포트가 잇따르며 반도체/IT 전반의 온기가 확산 중이다. 주말을 거치며 투자 심리가 턴어라운드된 만큼, 급락 장세를 거쳐 견고한 V자 반등이 나타날 가능성이 높아졌다.",
+    "summary": "최근 글로벌 증시의 변동성 완화와 유동성 회복에 힘입어 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>와 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>로의 기관/외국인 메이저 수급이 급격히 복귀하고 있다. 인공지능 서버 수요 강세와 함께 삼성전기 및 LG이노텍의 2분기 가이던스 상향 리포트가 잇따르며 <span class=\"text-cyan-300 font-semibold\">반도체</span>/IT 전반의 온기가 확산 중이다. 주말을 거치며 투자 심리가 턴어라운드된 만큼, <span class=\"text-rose-400 font-medium\">급락</span> 장세를 거쳐 견고한 V자 반등이 나타날 가능성이 높아졌다.",
     "key_claims": [
-      "최근 시장 급등락으로 단기 변동성이 극에 달했으나 수급적으로 글로벌 유동성이 대형 반도체주로 유입되고 있다.",
-      "삼성전기, LG이노텍의 2분기 실적 가이던스 상향으로 반도체 밸류체인 전반의 <span class=\"text-cyan-300 font-semibold\">IT 부품/소재 동반 랠리</span>가 시작되었다.",
+      "최근 시장 급등락으로 단기 변동성이 극에 달했으나 수급적으로 글로벌 유동성이 대형 <span class=\"text-cyan-300 font-semibold\">반도체</span>주로 유입되고 있다.",
+      "삼성전기, LG이노텍의 2분기 실적 가이던스 상향으로 <span class=\"text-cyan-300 font-semibold\">반도체</span> 밸류체인 전반의 IT 부품/소재 동반 랠리가 시작되었다.",
       "매크로 지표 안정에 따라 시장 복귀를 적극 검토해야 할 시점이다."
     ],
     "data_points": [
@@ -19,7 +19,7 @@
       "미국 선물 시장 및 원화 자산 강세 흐름 동시 포착"
     ],
     "signal": "bullish",
-    "signal_reason": "대형 반도체주에 더해 IT 하드웨어 전반으로 가이던스 상향 및 <span class=\"text-cyan-300 font-semibold\">외국인 수급 복귀</span>가 강하게 이어지고 있다.",
+    "signal_reason": "대형 <span class=\"text-cyan-300 font-semibold\">반도체</span>주에 더해 IT 하드웨어 전반으로 가이던스 상향 및 외국인 수급 복귀가 강하게 이어지고 있다.",
     "key_companies": [
       "삼성전자",
       "SK하이닉스",
@@ -27,7 +27,7 @@
       "LG이노텍"
     ],
     "insight": "IT 대장주들의 랠리가 밸류체인 하단에 위치한 기판, 수동부품(MLCC) 등으로 낙수효과를 내고 있어 업황 턴어라운드의 신뢰도가 매우 높다.",
-    "action_point": "이미 오른 반도체 외에, 가이던스가 급격히 상향되고 있는 <span class=\"text-cyan-300 font-semibold\">MLCC 및 패키지 기판 선도사</span>들의 비중을 서서히 확대하라."
+    "action_point": "이미 오른 <span class=\"text-cyan-300 font-semibold\">반도체</span> 외에, 가이던스가 급격히 상향되고 있는 MLCC 및 패키지 기판 선도사들의 비중을 서서히 확대하라."
   },
   "classification": {
     "primary_topic": "stock",

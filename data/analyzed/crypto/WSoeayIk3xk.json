@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/WSoeayIk3xk/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "비트코인이 심리적 지지선인 5만 9,000달러 선을 붕괴하며 큰 조정을 받음. 마이클 세일러가 이끄는 마이크로스트레티지(MSTR)가 대규모 비트코인 추가 매입을 위해 전환사채(CB)를 무리하게 발행하고 주주가치를 희석하면서 시장의 신뢰가 흔들림. 여기에 미국 현물 ETF에서 10거래일 연속 대규모 <span class=\"text-rose-400 font-medium\">자금 유출</span>이 겹쳐 투심이 냉각됨.",
+    "summary": "비트코인이 심리적 지지선인 5만 9,000달러 선을 붕괴하며 큰 <span class=\"text-rose-400 font-medium\">조정</span>을 받음. 마이클 세일러가 이끄는 마이크로스트레티지(MSTR)가 대규모 비트코인 추가 매입을 위해 전환사채(CB)를 무리하게 발행하고 주주가치를 희석하면서 시장의 신뢰가 흔들림. 여기에 미국 현물 ETF에서 10거래일 연속 대규모 자금 <span class=\"text-rose-400 font-medium\">유출</span>이 겹쳐 투심이 냉각됨.",
     "key_claims": [
-      "MSTR의 과도한 레버리지 비트코인 매수 기법이 시장에 피로감을 주었고, 주가 하락 시 강제 청산 우려를 키움.",
-      "미국 소비자 물가 지표에 대한 사전 경계감과 연준의 긴축 장기화 발언이 고위험 리스크 자산의 이탈을 부추김."
+      "MSTR의 과도한 레버리지 비트코인 매수 기법이 시장에 피로감을 주었고, 주가 하락 시 강제 <span class=\"text-rose-400 font-medium\">청산</span> 우려를 키움.",
+      "미국 소비자 물가 지표에 대한 사전 경계감과 연준의 긴축 장기화 발언이 고<span class=\"text-rose-400 font-medium\">위험</span> <span class=\"text-rose-400 font-medium\">리스크</span> 자산의 이탈을 부추김."
     ],
     "data_points": [
       "비트코인 하락 저점: 지지선인 59,000달러선 붕괴 및 장중 58,500달러대 진입 테스트",
@@ -19,13 +19,13 @@
     ],
     "signal": "bearish",
     "signal_confidence": "high",
-    "signal_reason": "주요 기관들의 현물 ETF 매수세가 순유출로 반전되었고, 마이클 세일러식 무한 빚투 모델의 신뢰성 균열 및 마이그레이션 압박으로 인해 5만 4,000달러 지지선까지의 기술적 추가 하락 위험이 높기 때문임.",
+    "signal_reason": "주요 기관들의 현물 ETF 매수세가 순<span class=\"text-rose-400 font-medium\">유출</span>로 반전되었고, 마이클 세일러식 무한 빚투 모델의 신뢰성 균열 및 마이그레이션 압박으로 인해 5만 4,000달러 지지선까지의 기술적 추가 하락 <span class=\"text-rose-400 font-medium\">위험</span>이 높기 때문임.",
     "key_companies": [
       "MicroStrategy",
       "Coinbase"
     ],
-    "insight": "MSTR이 비트코인을 무제한 매수해주던 '유일한 수급 버퍼' 역할을 했으나, 그 채권 발행이 한계에 부딪히며 시장의 신뢰를 잃음. 패시브 자금이 이탈하고 마진콜 압박이 고조되는 전형적인 크립토 <span class=\"text-rose-400 font-medium\">청산 조정기</span>임.",
-    "action_point": "가상자산의 단기 반등 베팅을 멈추고 54,000달러 부근의 완전한 바닥 확인 시점까지 대기하며, 크립토 선물 및 레버리지 포지션을 최소화해 리스크 관리에 최우선을 둘 것."
+    "insight": "MSTR이 비트코인을 무제한 매수해주던 '유일한 수급 버퍼' 역할을 했으나, 그 채권 발행이 한계에 부딪히며 시장의 신뢰를 잃음. 패시브 자금이 이탈하고 마진콜 압박이 고조되는 전형적인 크립토 <span class=\"text-rose-400 font-medium\">청산</span> <span class=\"text-rose-400 font-medium\">조정</span>기임.",
+    "action_point": "가상자산의 단기 반등 베팅을 멈추고 54,000달러 부근의 완전한 바닥 확인 시점까지 대기하며, 크립토 선물 및 레버리지 포지션을 최소화해 <span class=\"text-rose-400 font-medium\">리스크</span> 관리에 최우선을 둘 것."
   },
   "classification": {
     "primary_topic": "crypto",

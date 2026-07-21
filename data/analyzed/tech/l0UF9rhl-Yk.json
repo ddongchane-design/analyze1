@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/l0UF9rhl-Yk/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "비상장 AI 공룡인 오픈AI와 앤트로픽의 기업공개(IPO)는 대규모 연기금 자본을 유치해 설비 투자(Capex)로 환원되어 <span class=\"text-cyan-300 font-semibold\">AI 반도체 수요의 2차 폭발</span>을 야기할 전망임. 한국의 소버린 AI는 단순 가상 모델 개발이 아닌, 제조업 및 반도체 공정 데이터를 AI와 결합하는 <span class=\"text-cyan-300 font-semibold\">소버린 피지컬 AI</span> 플랫폼과 미들웨어를 장악하는 국가적 생존 전략이어야 함.",
+    "summary": "비상장 AI 공룡인 오픈AI와 앤트로픽의 기업공개(IPO)는 대규모 연기금 자본을 유치해 설비 투자(Capex)로 환원되어 <span class=\"text-cyan-300 font-semibold\">AI 반도체</span> 수요의 2차 폭발을 야기할 전망임. 한국의 소버린 AI는 단순 가상 모델 개발이 아닌, 제조업 및 <span class=\"text-cyan-300 font-semibold\">반도체</span> 공정 데이터를 AI와 결합하는 소버린 피지컬 AI 플랫폼과 미들웨어를 장악하는 국가적 생존 전략이어야 함.",
     "key_claims": [
-      "1조 달러 가치를 상회하는 오픈AI 및 앤트로픽 상장 시 조달된 금융 자금의 최소 30%가 하드웨어 인프라 및 반도체 조달에 직접 투자됨.",
-      "한국은 자체 거대 언어모델(LLM)보다 자동차, 방산, 반도체 제조 공정을 AI로 동기화하는 스마트 팩토리용 피지컬 AI 미들웨어를 장악해야 경쟁력이 있음.",
+      "1조 달러 가치를 상회하는 오픈AI 및 앤트로픽 상장 시 조달된 금융 자금의 최소 30%가 하드웨어 인프라 및 <span class=\"text-cyan-300 font-semibold\">반도체</span> 조달에 직접 투자됨.",
+      "한국은 자체 거대 언어모델(LLM)보다 자동차, 방산, <span class=\"text-cyan-300 font-semibold\">반도체</span> 제조 공정을 AI로 동기화하는 스마트 팩토리용 피지컬 AI 미들웨어를 장악해야 경쟁력이 있음.",
       "유리기판 및 CPO(광학 소자) 등 차세대 소부장 원천 기술을 확보해야 엔비디아의 생태계 지배력을 능가하는 부가가치를 점유함."
     ],
     "data_points": [
@@ -19,7 +19,7 @@
       "상장 조달금 재투자 추정치: 신규 IPO 자금의 최소 30% 이상이 엔비디아 칩 및 아시아 반도체 공급망에 흘러들 것으로 예측"
     ],
     "signal": "bullish",
-    "signal_reason": "빅테크 및 상위 AI 랩스의 상장 일정 구체화에 따라 천문학적인 실탄이 공급망 소부장에 쏟아져 들어오며, 아시아 반도체 제조사의 마진 증가 사이클을 장기화하기 때문임.",
+    "signal_reason": "빅테크 및 상위 AI 랩스의 상장 일정 구체화에 따라 천문학적인 실탄이 공급망 소부장에 쏟아져 들어오며, 아시아 <span class=\"text-cyan-300 font-semibold\">반도체</span> 제조사의 마진 증가 사이클을 장기화하기 때문임.",
     "key_companies": [
       "SK하이닉스(000660)",
       "삼성전자(005930)",
@@ -27,7 +27,7 @@
       "앤스로픽"
     ],
     "insight": "AI의 미래는 가상 서비스에 머물지 않고 제조 실물 데이터를 AI 온톨로지와 연결해 실제 원가 구조를 지배하는 '피지컬 B2B 통합 플랫폼'이 될 것임.",
-    "action_point": "단순 소프트웨어 수혜 기대주보다, 차세대 인프라 투자의 병목인 유리기판, CPO(공동광학소자) 등 원천 특허를 쥔 반도체 소부장 대장주에 지속 적립할 것."
+    "action_point": "단순 소프트웨어 수혜 기대주보다, 차세대 인프라 투자의 병목인 유리기판, CPO(공동광학소자) 등 원천 특허를 쥔 <span class=\"text-cyan-300 font-semibold\">반도체</span> 소부장 대장주에 지속 적립할 것."
   },
   "classification": {
     "primary_topic": "tech",

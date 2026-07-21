@@ -8,25 +8,25 @@
     "thumbnail": "https://img.youtube.com/vi/EDcxwRV8zPs/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "도널드 트럼프의 이란 해역 봉쇄 관세 트윗 노이즈로 유가가 급등(브렌트유 87달러 터치)하고 금리가 상승해 기술주가 출렁였던 미국 마감 시황을 정리합니다. 한편 구글의 자체 AI 칩(TPU) 판매 추진과 삼성전자의 미국 ADR 미검토 발표 소식 등을 다룹니다.",
+    "summary": "도널드 트럼프의 <span class=\"text-violet-300 font-medium\">이란</span> 해역 봉쇄 관세 트윗 노이즈로 <span class=\"text-amber-300 font-bold\">유가</span>가 급등(브렌트유 87달러 터치)하고 금리가 상승해 기술주가 출렁였던 미국 마감 시황을 정리합니다. 한편 <span class=\"text-cyan-300 font-semibold\">구글</span>의 자체 AI 칩(TPU) 판매 추진과 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>의 미국 ADR 미검토 발표 소식 등을 다룹니다.",
     "key_claims": [
-      "트럼프 전 대통령의 이란 관세 및 군사 제재 발언이 유가 급등(3.5% 상승)을 불러와 시장 긴장감을 자극했습니다.",
-      "구글이 자사 클라우드가 아닌 타 네오 클라우드 사업자들에게 자체 제작 인공지능 칩(TPU)을 직접 판매하는 전략적 영토 확장에 나섰습니다.",
-      "삼성전자는 항간에 돌던 미국 시장 ADR 상장 검토설에 대해 '전혀 계획 없다'며 공식 해명했습니다."
+      "트럼프 전 대통령의 <span class=\"text-violet-300 font-medium\">이란</span> 관세 및 군사 제재 발언이 <span class=\"text-amber-300 font-bold\">유가</span> 급등(3.5% 상승)을 불러와 시장 긴장감을 자극했습니다.",
+      "<span class=\"text-cyan-300 font-semibold\">구글</span>이 자사 클라우드가 아닌 타 네오 클라우드 사업자들에게 자체 제작 인공지능 칩(TPU)을 직접 판매하는 전략적 영토 확장에 나섰습니다.",
+      "<span class=\"text-cyan-300 font-semibold\">삼성전자</span>는 항간에 돌던 미국 시장 ADR 상장 검토설에 대해 '전혀 계획 없다'며 공식 해명했습니다."
     ],
     "data_points": [
       "브렌트유 유가 고점: 배럴당 87.0달러 터치 (지정학 리스크 반영)",
       "IBM 주가 변동성: 분기 실적 및 핵심 클라우드 사업 우려 부각으로 -24%대 폭락 기록"
     ],
     "signal": "neutral",
-    "signal_reason": "지정학적 에너지 위기는 단기 노이즈에 가깝고, 구글의 TPU 판매와 반도체 대장주의 실적 방향성은 굳건하여 일시적 금리 우려와 밸류에이션 충돌 양상을 띠기 때문입니다.",
+    "signal_reason": "지정학적 에너지 위기는 단기 노이즈에 가깝고, <span class=\"text-cyan-300 font-semibold\">구글</span>의 TPU 판매와 <span class=\"text-cyan-300 font-semibold\">반도체</span> 대장주의 실적 방향성은 굳건하여 일시적 금리 우려와 밸류에이션 충돌 양상을 띠기 때문입니다.",
     "key_companies": [
       "삼성전자(005930)",
       "구글(GOOGL)",
       "IBM(IBM)"
     ],
-    "insight": "구글이 자체 TPU를 외부 클라우드 공급망에 직접 유통하려는 행보는 엔비디아의 독점 칩 공급 부족(Shortage) 틈새를 노린 전략입니다. 이는 범용 ASIC 칩 생태계가 점차 확장되고 있음을 의미합니다.",
-    "action_point": "유가 상승에 따른 정유/에너지 섹터 단기 트레이딩 비중은 축소하고, 독자 TPU 칩 설계 및 위탁 생산 수혜 파트너십(TSMC, 브로드컴 등)의 저가 포트폴리오 유지를 유지합니다."
+    "insight": "<span class=\"text-cyan-300 font-semibold\">구글</span>이 자체 TPU를 외부 클라우드 공급망에 직접 유통하려는 행보는 엔비디아의 독점 칩 공급 부족(Shortage) 틈새를 노린 전략입니다. 이는 범용 ASIC 칩 생태계가 점차 확장되고 있음을 의미합니다.",
+    "action_point": "<span class=\"text-amber-300 font-bold\">유가 상승</span>에 따른 정유/에너지 섹터 단기 트레이딩 비중은 축소하고, 독자 TPU 칩 설계 및 위탁 생산 수혜 파트너십(<span class=\"text-cyan-300 font-semibold\">TSMC</span>, <span class=\"text-cyan-300 font-semibold\">브로드컴</span> 등)의 저가 포트폴리오 유지를 유지합니다."
   },
   "classification": {
     "primary_topic": "stock",

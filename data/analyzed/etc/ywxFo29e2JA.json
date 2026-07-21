@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/ywxFo29e2JA/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "1. 5월 시장 자산 배분 전략으로 점진적 리스크온(Risk-on) 관점이 제시되었습니다.\n2. 유가 변동성 헷지를 위해 <span class=\"text-amber-300 font-bold\">금을 통한 위험 관리</span>를 병행하고, AI 반도체 및 전력 인프라 등 2분기 주도 섹터의 분할 매수를 제안했습니다.\n3. 2분기 모멘텀이 극대화되는 <span class=\"text-cyan-300 font-semibold\">우주 테마</span>를 신규 포트폴리오 기회로 제시했습니다.",
+    "summary": "1. 5월 시장 자산 배분 전략으로 점진적 <span class=\"text-rose-400 font-medium\">리스크</span>온(Risk-on) 관점이 제시되었습니다.\n2. <span class=\"text-amber-300 font-bold\">유가</span> 변동성 헷지를 위해 금을 통한 <span class=\"text-rose-400 font-medium\">위험</span> 관리를 병행하고, <span class=\"text-cyan-300 font-semibold\">AI 반도체</span> 및 전력 인프라 등 2분기 주도 섹터의 분할 매수를 제안했습니다.\n3. 2분기 모멘텀이 극대화되는 우주 테마를 신규 포트폴리오 기회로 제시했습니다.",
     "key_claims": [
-      "5월 시장은 단순 추격 매수보다 물가, 금리 부담을 고려한 <span class=\"text-amber-300 font-bold\">단계적 확인 매수</span>가 유효합니다.",
-      "반도체와 전력 인프라 외에 2분기에 모멘텀이 촉발되는 우주 항공 테마가 매력적인 분산 기회가 됩니다.",
+      "5월 시장은 단순 추격 매수보다 물가, 금리 부담을 고려한 단계적 확인 매수가 유효합니다.",
+      "<span class=\"text-cyan-300 font-semibold\">반도체</span>와 전력 인프라 외에 2분기에 모멘텀이 촉발되는 우주 항공 테마가 매력적인 분산 기회가 됩니다.",
       "포트폴리오의 안정성 밸런스를 잡기 위해 실물 안전 자산인 금의 헤지 비중을 유지해야 합니다."
     ],
     "data_points": [
@@ -20,12 +20,12 @@
     ],
     "signal": "neutral",
     "signal_confidence": "high",
-    "signal_reason": "실적 장세 유입 기대가 있으나, 유가 상승에 의한 물가 경계가 남아 있어 점진적인 비중 조절을 제안합니다.",
+    "signal_reason": "실적 장세 유입 기대가 있으나, <span class=\"text-amber-300 font-bold\">유가 상승</span>에 의한 물가 경계가 남아 있어 점진적인 비중 조절을 제안합니다.",
     "key_companies": [
       "미래에셋증권(006800)"
     ],
     "insight": "5월 시장 전략은 금리 경계 심리가 상존하는 가운데 AI 전방 하드웨어와 우주라는 신규 개척 분야로의 영리한 분산 투자를 권고하고 있습니다.",
-    "action_point": "반도체와 우주 섹터 중심으로 요일별 분할 매수하되, 자산의 10% 내외는 금 관련 자산으로 헷지하는 것이 바람직합니다."
+    "action_point": "<span class=\"text-cyan-300 font-semibold\">반도체</span>와 우주 섹터 중심으로 요일별 분할 매수하되, 자산의 10% 내외는 금 관련 자산으로 헷지하는 것이 바람직합니다."
   },
   "classification": {
     "primary_topic": "etc",

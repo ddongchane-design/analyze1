@@ -8,9 +8,9 @@
     "thumbnail": "https://img.youtube.com/vi/JbTLI4c5Kbk/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "1. 향후 미국 연준의 정책 경로에 대해 시장이 직면한 두 가지 핵심 긴축 시나리오(<span class=\"text-rose-400 font-medium\">매파적 동결</span> 및 기습 금리 인상)를 분석하고 각각의 경제적 영향을 진단했습니다.\n2. 5월 CPI 지표가 3.8~4% 수준에서 정체될 경우 연준은 금리를 동결하되 점도표 상의 연내 전망치를 상향하는 매파적 동결 스탠스를 취할 가능성이 높습니다.\n3. 반면 고용 서프라이즈와 맞물려 5월 헤드라인 CPI가 4.5%를 뚫고 올라갈 경우, 연준은 인플레이션 억제를 위해 긴급하게 <span class=\"text-rose-400 font-medium\">기습 금리 인상</span>을 단행할 가능성이 큽니다.",
+    "summary": "1. 향후 미국 연준의 정책 경로에 대해 시장이 직면한 두 가지 핵심 긴축 시나리오(매파적 동결 및 기습 금리 인상)를 분석하고 각각의 경제적 영향을 진단했습니다.\n2. 5월 CPI 지표가 3.8~4% 수준에서 정체될 경우 연준은 금리를 동결하되 점도표 상의 연내 전망치를 상향하는 매파적 동결 스탠스를 취할 가능성이 높습니다.\n3. 반면 고용 서프라이즈와 맞물려 5월 헤드라인 CPI가 4.5%를 뚫고 올라갈 경우, 연준은 <span class=\"text-amber-300 font-bold\">인플레이션</span> 억제를 위해 긴급하게 기습 금리 인상을 단행할 가능성이 큽니다.",
     "key_claims": [
-      "시나리오 1(동결) 하에서도 점도표 상향 조정에 따른 <span class=\"text-rose-400 font-medium\">고금리 장기화</span> 우려로 시장 금리는 하방이 제한될 것임",
+      "시나리오 1(동결) 하에서도 점도표 상향 <span class=\"text-rose-400 font-medium\">조정</span>에 따른 <span class=\"text-amber-300 font-bold\">고금리 장기화</span> 우려로 시장 금리는 하방이 제한될 것임",
       "시나리오 2(인상) 발생 시 3분기 및 4분기 연속 인상 가능성까지 시장에 반영되면서 채권 시장 금리가 폭등할 것임",
       "현재 연준은 경기가 견조하게 버텨주는 가운데 물가의 향방에만 온전히 정책 초점을 맞추고 있는 외통수 상황임"
     ],
@@ -21,12 +21,12 @@
       "6월 18일 개최 예정인 6월 FOMC 정례회의를 시장의 분수령으로 설정"
     ],
     "signal": "bearish",
-    "signal_reason": "어떤 시나리오에서도 시장 금리의 조기 인하는 기대하기 어려우며, 인플레이션 쇼크 시 급격한 <span class=\"text-rose-400 font-medium\">기습 금리 인상</span>으로 자산 시장 충격이 우려되기 때문입니다.",
+    "signal_reason": "어떤 시나리오에서도 시장 금리의 조기 인하는 기대하기 어려우며, <span class=\"text-amber-300 font-bold\">인플레이션</span> 쇼크 시 급격한 기습 금리 인상으로 자산 시장 충격이 우려되기 때문입니다.",
     "key_companies": [
       "연준(Fed)"
     ],
-    "insight": "현 국면에서 연준에게 완화적 동결(Dovish Freeze) 카드는 배제되어 있습니다. 실업률이 4.4% 수준으로 버텨주는 상태에서 인플레이션 정체 및 재반등은 고금리의 지속을 강제하며, 5월 물가 지표 결과에 따라 <span class=\"text-rose-400 font-medium\">채권 시장 발(發) 금융 시장 탠트럼</span>이 재발할 리스크가 상존합니다.",
-    "action_point": "6월 18일 FOMC 및 5월 CPI 발표를 앞두고 포트폴리오의 <span class=\"text-rose-400 font-medium\">현금 비중을 확보</span>하는 등 보수적인 대응이 필요하며, 금리 변동성에 취약한 부채 비율이 높은 종목의 비중을 축소할 필요가 있습니다."
+    "insight": "현 국면에서 연준에게 완화적 동결(Dovish Freeze) 카드는 배제되어 있습니다. 실업률이 4.4% 수준으로 버텨주는 상태에서 <span class=\"text-amber-300 font-bold\">인플레이션</span> 정체 및 재반등은 <span class=\"text-amber-300 font-bold\">고금리</span>의 지속을 강제하며, 5월 물가 지표 결과에 따라 채권 시장 발(發) 금융 시장 탠트럼이 재발할 <span class=\"text-rose-400 font-medium\">리스크</span>가 상존합니다.",
+    "action_point": "6월 18일 FOMC 및 5월 CPI 발표를 앞두고 포트폴리오의 현금 비중을 확보하는 등 보수적인 대응이 필요하며, 금리 변동성에 취약한 부채 비율이 높은 종목의 비중을 축소할 필요가 있습니다."
   },
   "classification": {
     "primary_topic": "economy",

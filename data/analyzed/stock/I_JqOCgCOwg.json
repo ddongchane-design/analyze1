@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/I_JqOCgCOwg/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "코스피는 장중 9,300선을 돌파한 후 미-란 후속 협정 지연 우려와 반기 말 연기금/글로벌 펀드 <span class=\"text-amber-300 font-bold\">리밸런싱 매물 출하</span>로 하락 반전하는 극심한 변동성을 겪었습니다. 하지만 전문가들은 지수의 장중 음봉 마감이 5일선 터치 후 매물을 소화하는 강세장의 '건전한 기술적 조정'일 뿐, AI 및 <span class=\"text-cyan-300 font-semibold\">반도체 밸류체인</span>의 견고한 기초 체력(펀더멘탈)에는 아무런 변화가 없다고 평가합니다. 특히 인텔의 전 SK하이닉스 CEO 이석희 영입 소식은 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>의 인텔 패키징 라인 활용 기대감을 높여 하이닉스의 상대적 우위를 지지하는 호재로 부각되었습니다.",
+    "summary": "코스피는 장중 9,300선을 돌파한 후 미-란 후속 협정 지연 우려와 반기 말 연기금/글로벌 펀드 리밸런싱 매물 출하로 하락 반전하는 극심한 변동성을 겪었습니다. 하지만 전문가들은 지수의 장중 음봉 마감이 5일선 터치 후 매물을 소화하는 강세장의 '건전한 기술적 <span class=\"text-rose-400 font-medium\">조정</span>'일 뿐, AI 및 <span class=\"text-cyan-300 font-semibold\">반도체</span> 밸류체인의 견고한 기초 체력(펀더멘탈)에는 아무런 변화가 없다고 평가합니다. 특히 <span class=\"text-cyan-300 font-semibold\">인텔</span>의 전 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> CEO 이석희 영입 소식은 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>의 <span class=\"text-cyan-300 font-semibold\">인텔</span> 패키징 라인 활용 기대감을 높여 하이닉스의 상대적 우위를 지지하는 호재로 부각되었습니다.",
     "key_claims": [
-      "장 초반 포모(FOMO)에 의한 추격 매수나 장중 흔들림에 따른 공포 투매 모두 피해야 하며, 반도체 기초 체력이 강화된 만큼 건전한 조정 구간은 적가 매수 기회이다.",
-      "이석희 전 하이닉스 사장의 인텔 수석부사장 영입은 하이닉스의 <span class=\"text-cyan-300 font-semibold\">후공정(첨단 패키징) 동맹 확장</span>에는 호재이나, 파운드리 경쟁 관계인 삼성전자에는 심리적 악재로 작용한다.",
+      "장 초반 포모(FOMO)에 의한 추격 매수나 장중 흔들림에 따른 공포 투매 모두 피해야 하며, <span class=\"text-cyan-300 font-semibold\">반도체</span> 기초 체력이 강화된 만큼 건전한 <span class=\"text-rose-400 font-medium\">조정</span> 구간은 적가 매수 기회이다.",
+      "이석희 전 하이닉스 사장의 <span class=\"text-cyan-300 font-semibold\">인텔</span> 수석부사장 영입은 하이닉스의 후공정(첨단 패키징) 동맹 확장에는 호재이나, 파운드리 경쟁 관계인 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>에는 심리적 악재로 작용한다.",
       "삼성SDI 등 낙폭 과대 2차전지 주도주가 기관 및 외인의 매수세로 60일선을 상향 돌파하려는 시도는 업황 바닥 통과 신호로 해석할 수 있다."
     ],
     "data_points": [
@@ -22,7 +22,7 @@
     ],
     "signal": "bullish",
     "signal_confidence": "high",
-    "signal_reason": "리밸런싱과 매크로 잡음으로 변동성이 확대되었으나, <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>의 압도적인 HBM 성장성 및 인텔과의 협력 네트워크 등 핵심 펀더멘탈이 더욱 강화되고 있기 때문입니다.",
+    "signal_reason": "리밸런싱과 매크로 잡음으로 변동성이 확대되었으나, <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>의 압도적인 <span class=\"text-cyan-300 font-semibold\">HBM</span> 성장성 및 <span class=\"text-cyan-300 font-semibold\">인텔</span>과의 협력 네트워크 등 핵심 펀더멘탈이 더욱 강화되고 있기 때문입니다.",
     "key_companies": [
       "SK하이닉스(000660)",
       "삼성전자(005930)",
@@ -30,8 +30,8 @@
       "인텔(INTC)",
       "ASML"
     ],
-    "insight": "단기 수급 이벤트(리밸런싱)와 미-란 지정학적 노이즈가 고점에서 차익 실현 핑계로 작동했을 뿐이며, 핵심 메모리 반도체 공급 부족에 따른 <span class=\"text-cyan-300 font-semibold\">칩플레이션(Chiplation)</span> 기조는 지속되고 있어 대형 반도체 중심의 주도력은 꺾이지 않았습니다.",
-    "action_point": "리밸런싱 수급 여파로 주가가 일시적으로 밀리는 구간에서 하이닉스 및 <span class=\"text-cyan-300 font-semibold\">삼성SDI(배터리 대장주)</span> 등 주도 섹터의 확실한 대형주 위주로 매수 기회를 삼는 전략이 유효합니다."
+    "insight": "단기 수급 이벤트(리밸런싱)와 미-란 지정학적 노이즈가 고점에서 차익 실현 핑계로 작동했을 뿐이며, 핵심 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span> 공급 부족에 따른 칩플레이션(Chiplation) 기조는 지속되고 있어 대형 <span class=\"text-cyan-300 font-semibold\">반도체</span> 중심의 주도력은 꺾이지 않았습니다.",
+    "action_point": "리밸런싱 수급 여파로 주가가 일시적으로 밀리는 구간에서 하이닉스 및 삼성SDI(배터리 대장주) 등 주도 섹터의 확실한 대형주 위주로 매수 기회를 삼는 전략이 유효합니다."
   },
   "classification": {
     "primary_topic": "stock",

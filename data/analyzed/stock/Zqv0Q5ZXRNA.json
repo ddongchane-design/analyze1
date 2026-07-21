@@ -8,9 +8,9 @@
     "thumbnail": "https://img.youtube.com/vi/Zqv0Q5ZXRNA/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "SK하이닉스가 코스피 보통주 시가총액 1위를 역사적으로 등극하며 <span class=\"text-cyan-300 font-semibold\">메모리 주도권 재편</span>을 입증한 것은 HBM 시장의 독점 고마진에 기인한 결과임. 아울러 AI 서버용 <span class=\"text-cyan-300 font-semibold\">MLCC(적층세라믹콘덴서) 수요가 연 30% 이상 성장</span>함에 따라 삼성전기 등 전력/신호 부품사의 패시브 자금 유입 요건(우선주 포함 시총 기준 돌파)이 갖춰지고 있어 동반 상승이 기대됨.",
+    "summary": "<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>가 코스피 보통주 시가총액 1위를 역사적으로 등극하며 메모리 주도권 재편을 입증한 것은 <span class=\"text-cyan-300 font-semibold\">HBM</span> 시장의 독점 고마진에 기인한 결과임. 아울러 AI 서버용 MLCC(적층세라믹콘덴서) 수요가 연 30% 이상 성장함에 따라 삼성전기 등 전력/신호 부품사의 패시브 자금 유입 요건(우선주 포함 시총 기준 돌파)이 갖춰지고 있어 동반 상승이 기대됨.",
     "key_claims": [
-      "SK하이닉스의 시총 1위 달성은 반도체 기술 양극화 국면에서 가장 효율적인 이익을 창출한 기업에 대한 가치 재평가임.",
+      "<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>의 시총 1위 달성은 <span class=\"text-cyan-300 font-semibold\">반도체</span> 기술 양극화 국면에서 가장 효율적인 이익을 창출한 기업에 대한 가치 재평가임.",
       "AI 연산 서버의 전력 소요 폭증으로 필수 정밀 부품인 MLCC 수요가 고속 팽창하고 있으며 제조 수혜가 장기화됨.",
       "삼성전기 등 우선주 시총 합산이 기준을 돌파함에 따라 글로벌 패시브 펀드가 의무 매수해야 하는 포지션 요건이 활성화됨."
     ],
@@ -18,14 +18,14 @@
       "AI 서버향 MLCC 수요 증가 전망: 연간 환산 성장률 30% 돌파 가시화"
     ],
     "signal": "bullish",
-    "signal_reason": "대장주 SK하이닉스의 시총 1위 모멘텀이 유지되는 한편, 전력 쇼티지를 제어할 고마진 MLCC 부품 수요 급증과 패시브 자금 강제 유입 수혜가 삼성전기 등으로 순환되기 때문임.",
+    "signal_reason": "대장주 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>의 시총 1위 모멘텀이 유지되는 한편, 전력 쇼티지를 제어할 고마진 MLCC 부품 수요 급증과 패시브 자금 강제 유입 수혜가 삼성전기 등으로 순환되기 때문임.",
     "key_companies": [
       "SK하이닉스(000660)",
       "삼성전자(005930)",
       "삼성전기(009150)"
     ],
-    "insight": "반도체 쏠림은 칩 제조사에서 끝나는 것이 아니라, 서버 작동 안정성을 책임지는 MLCC, 기판 등 핵심 후공정/신호 부품 밸류체인으로 깊숙이 확산되고 있음.",
-    "action_point": "SK하이닉스의 비중을 유지하는 가운데, AI 서버 고사양화 수혜와 패시브 유입 가시성이 돋보이는 삼성전기 등을 포트폴리오에 적극 추가할 것."
+    "insight": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 쏠림은 칩 제조사에서 끝나는 것이 아니라, 서버 작동 안정성을 책임지는 MLCC, 기판 등 핵심 후공정/신호 부품 밸류체인으로 깊숙이 확산되고 있음.",
+    "action_point": "<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>의 비중을 유지하는 가운데, AI 서버 고사양화 수혜와 패시브 유입 가시성이 돋보이는 삼성전기 등을 포트폴리오에 적극 추가할 것."
   },
   "classification": {
     "primary_topic": "stock",

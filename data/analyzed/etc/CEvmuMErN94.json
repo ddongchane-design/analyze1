@@ -8,19 +8,19 @@
     "thumbnail": "https://img.youtube.com/vi/CEvmuMErN94/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "취업 준비 등으로 인해 힘겨운 시기를 겪고 있는 취업 준비생들에게 건네는 따뜻한 응원의 메시지입니다.\n스스로 정체되어 있다고 느낄 때의 답답함과 무력감에 대한 공감을 표시하고 있습니다.\n형식적인 위로보다는 마음을 담은 작은 성의를 전달하며 <span class=\"text-violet-300 font-medium\">따뜻한 연대감</span>을 표현합니다.",
+    "summary": "취업 준비 등으로 인해 힘겨운 시기를 겪고 있는 취업 준비생들에게 건네는 따뜻한 응원의 메시지입니다.\n스스로 정체되어 있다고 느낄 때의 답답함과 무력감에 대한 공감을 표시하고 있습니다.\n형식적인 위로보다는 마음을 담은 작은 성의를 전달하며 따뜻한 연대감을 표현합니다.",
     "key_claims": [
       "스스로 멈춰 서 있는 듯한 느낌이 들 때가 가장 힘든 시기이며, 이때는 막연한 위로의 말이 와닿지 않을 수 있다."
     ],
     "data_points": [],
     "signal": "na",
     "signal_confidence": "low",
-    "signal_reason": "투자나 거시경제 분석 정보가 포함되어 있지 않은 단순 <span class=\"text-violet-300 font-medium\">응원 및 힐링성 쇼츠 콘텐츠</span>입니다.",
+    "signal_reason": "투자나 거시경제 분석 정보가 포함되어 있지 않은 단순 응원 및 힐링성 쇼츠 콘텐츠입니다.",
     "key_companies": [
       "Mirae Asset"
     ],
-    "insight": "투자 자문 채널 등에서 브랜드 이미지 제고와 대중과의 정서적 공감대 형성을 위해 제작한 <span class=\"text-amber-300 font-bold\">브랜디드 힐링 콘텐츠</span>입니다.",
-    "action_point": "투자 분석과 무관하므로 포트폴리오 조정이나 투자 의사결정에 미치는 영향은 없습니다."
+    "insight": "투자 자문 채널 등에서 브랜드 이미지 제고와 <span class=\"text-violet-300 font-medium\">대중</span>과의 정서적 공감대 형성을 위해 제작한 브랜디드 힐링 콘텐츠입니다.",
+    "action_point": "투자 분석과 무관하므로 포트폴리오 <span class=\"text-rose-400 font-medium\">조정</span>이나 투자 의사결정에 미치는 영향은 없습니다."
   },
   "classification": {
     "primary_topic": "etc",

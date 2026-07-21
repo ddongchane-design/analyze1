@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/-ADB_o6C2ig/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "SK하이닉스가 삼성전자 시가총액을 추월하면 <span class=\"text-rose-400 font-medium\">반도체 과열 및 강세장 고점 시그널</span>로 해석될 수 있으나, 현재 순이익 기초 체력은 삼성전자가 여전히 압도적입니다. 하이퍼스케일러들의 투자 정점 우려는 과도하며 반도체 중심의 주도권은 올해 말까지 안정적으로 이어질 전망입니다. SK하이닉스의 미국 <span class=\"text-cyan-300 font-semibold\">ADR 상장</span>은 마이크론 수준의 멀티플(8~9배)로 리레이팅되는 호재이나 순환 참조로 인한 단기 변동성은 유의해야 합니다.",
+    "summary": "<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>가 <span class=\"text-cyan-300 font-semibold\">삼성전자</span> 시가총액을 추월하면 <span class=\"text-cyan-300 font-semibold\">반도체</span> <span class=\"text-rose-400 font-medium\">과열</span> 및 강세장 고점 시그널로 해석될 수 있으나, 현재 순이익 기초 체력은 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>가 여전히 압도적입니다. 하이퍼스케일러들의 투자 정점 우려는 과도하며 <span class=\"text-cyan-300 font-semibold\">반도체</span> 중심의 주도권은 올해 말까지 안정적으로 이어질 전망입니다. <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>의 미국 ADR 상장은 마이크론 수준의 멀티플(8~9배)로 리레이팅되는 호재이나 순환 참조로 인한 단기 변동성은 유의해야 합니다.",
     "key_claims": [
-      "SK하이닉스의 시총 역전은 이익 체력(삼성전자 순이익의 70~75% 수준) 대비 과도한 <span class=\"text-rose-400 font-medium\">반도체 쏠림 과열</span>을 나타내는 지표입니다.",
-      "하이퍼스케일러의 투자 회수 우려는 시기상조이며, 매출 대비 투자 증가율 크로스오버는 내년 3분기로 예상되어 반도체 실적 가시성은 굳건합니다.",
-      "장단기 금리차 상승은 성장주에 우호적이며 내년 순이익 946조 원 달성 시 코스피 지수는 이론적으로 <span class=\"text-amber-300 font-bold\">11,450포인트 상단</span>까지 도달 가능합니다."
+      "<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>의 시총 역전은 이익 체력(<span class=\"text-cyan-300 font-semibold\">삼성전자</span> 순이익의 70~75% 수준) 대비 과도한 <span class=\"text-cyan-300 font-semibold\">반도체</span> 쏠림 <span class=\"text-rose-400 font-medium\">과열</span>을 나타내는 지표입니다.",
+      "하이퍼스케일러의 투자 회수 우려는 시기상조이며, 매출 대비 투자 증가율 크로스오버는 내년 3분기로 예상되어 <span class=\"text-cyan-300 font-semibold\">반도체</span> 실적 가시성은 굳건합니다.",
+      "장단기 금리차 상승은 성장주에 우호적이며 내년 순이익 946조 원 달성 시 코스피 지수는 이론적으로 11,450포인트 상단까지 도달 가능합니다."
     ],
     "data_points": [
       "SK하이닉스의 순이익 수준: 삼성전자 대비 약 70% ~ 75% 수준",
@@ -23,15 +23,15 @@
       "현재 SK하이닉스 PER 멀티플: 5배 ~ 6배 수준 (미국 마이크론은 8배 ~ 9배 수준)"
     ],
     "signal": "neutral",
-    "signal_reason": "실적과 이익 증가율 측면에서 반도체의 주도권은 굳건하나, 시총 역전 우려와 글로벌 자금 흐름의 단기 변동성이 공존하기 때문입니다.",
+    "signal_reason": "실적과 이익 증가율 측면에서 <span class=\"text-cyan-300 font-semibold\">반도체</span>의 주도권은 굳건하나, 시총 역전 우려와 글로벌 자금 흐름의 단기 변동성이 공존하기 때문입니다.",
     "key_companies": [
       "삼성전자(005930)",
       "SK하이닉스(000660)",
       "마이크론(MU)",
       "TSMC"
     ],
-    "insight": "반도체 쏠림은 실물 이익 비중(70% 이상)에 기반한 합리적 강세장이며, <span class=\"text-cyan-300 font-semibold\">ADR 상장</span>을 통한 글로벌 멀티플 갭 메우기가 진행 중입니다. 다만 타 업종의 이익 쫓아오기(이익 증가율 18% 수준)가 약해 반도체 외 업종으로의 급격한 순환매는 제한적입니다.",
-    "action_point": "삼성전자와 SK하이닉스의 호실적 발표 후 일시적 주가 조정은 비중을 확대하는 <span class=\"text-amber-300 font-bold\">좋은 매수 타이밍</span>으로 활용하고, 무리한 낙수 효과 기대로 비(非)주도주를 추격 매수하는 것은 지양해야 합니다."
+    "insight": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 쏠림은 실물 이익 비중(70% 이상)에 기반한 합리적 강세장이며, ADR 상장을 통한 글로벌 멀티플 갭 메우기가 진행 중입니다. 다만 타 업종의 이익 쫓아오기(이익 증가율 18% 수준)가 약해 <span class=\"text-cyan-300 font-semibold\">반도체</span> 외 업종으로의 급격한 순환매는 제한적입니다.",
+    "action_point": "<span class=\"text-cyan-300 font-semibold\">삼성전자</span>와 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>의 호실적 발표 후 일시적 주가 <span class=\"text-rose-400 font-medium\">조정</span>은 비중을 확대하는 좋은 매수 타이밍으로 활용하고, 무리한 낙수 효과 기대로 비(非)주도주를 추격 매수하는 것은 지양해야 합니다."
   },
   "classification": {
     "primary_topic": "stock",

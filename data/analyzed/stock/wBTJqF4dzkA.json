@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/wBTJqF4dzkA/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "글로벌 증시의 단기 조정은 펀더멘탈 붕괴가 아니라 달러 강세 압박 속에서 <span class=\"text-rose-400 font-medium\">단일 종목 레버리지 ETF의 쏠림 청산</span>이 변동성을 극대화한 결과임. 미국 연준의 고금리 긴축 스탠스와 BofA의 연내 금리 인상론 노이즈에도 불구하고 유가 하락에 따른 물가 안정세가 유효하므로 기계적 투매에 흔들릴 이유가 없음.",
+    "summary": "글로벌 증시의 단기 <span class=\"text-rose-400 font-medium\">조정</span>은 펀더멘탈 붕괴가 아니라 달러 강세 압박 속에서 단일 종목 레버리지 ETF의 쏠림 <span class=\"text-rose-400 font-medium\">청산</span>이 변동성을 극대화한 결과임. 미국 연준의 <span class=\"text-amber-300 font-bold\">고금리</span> 긴축 스탠스와 BofA의 연내 금리 인상론 노이즈에도 불구하고 <span class=\"text-amber-300 font-bold\">유가</span> 하락에 따른 물가 안정세가 유효하므로 기계적 투매에 흔들릴 이<span class=\"text-amber-300 font-bold\">유가</span> 없음.",
     "key_claims": [
       "달러 강세가 유도한 신흥국 자금 이탈과 레버리지 상품의 네거티브 감마 알고리즘 매도가 겹쳐 지수가 비정상적으로 왜곡됨.",
-      "10년물 국채 금리가 연 4.5%선에서 등락하고 있으나 유가 하락 안정으로 인해 6월 PC 물가 지표 둔화 기대감은 유지됨.",
+      "10년물 국채 금리가 연 4.5%선에서 등락하고 있으나 <span class=\"text-amber-300 font-bold\">유가</span> 하락 안정으로 인해 6월 PC 물가 지표 둔화 기대감은 유지됨.",
       "오라클, 오픈AI 등 빅테크들의 대규모 자금 차입 및 Capex 공세로 인한 채권 발행 노이즈가 단기 수급 부담으로 소화되는 과정임."
     ],
     "data_points": [
@@ -19,13 +19,13 @@
       "국제 유가 흐름: 지정학 리스크 완화로 하향 안정화"
     ],
     "signal": "neutral",
-    "signal_reason": "달러 강세와 파생 상품 변동성이 지수를 누르고 있지만, 유가 하락에 기반한 물가 둔화 신호와 탄탄한 실적 장세 흐름이 하방을 지탱하기 때문임.",
+    "signal_reason": "달러 강세와 파생 상품 변동성이 지수를 누르고 있지만, <span class=\"text-amber-300 font-bold\">유가</span> 하락에 기반한 물가 둔화 신호와 탄탄한 실적 장세 흐름이 하방을 지탱하기 때문임.",
     "key_companies": [
       "엔비디아(NVDA)",
       "오픈AI"
     ],
     "insight": "금융 파생 수급이 거시 심리를 과도하게 자극해 변동성을 증폭시키는 구간이므로, 노이즈에 기인해 주식을 무차별 투매하는 우를 범해서는 안 됨.",
-    "action_point": "수급이 꼬인 과열 레버리지 상품 비중은 현금화하되, 실적 성장이 보장된 핵심 우량 기술주 포지션은 그대로 고수할 것."
+    "action_point": "수급이 꼬인 <span class=\"text-rose-400 font-medium\">과열</span> 레버리지 상품 비중은 현금화하되, 실적 성장이 보장된 핵심 우량 기술주 포지션은 그대로 고수할 것."
   },
   "classification": {
     "primary_topic": "stock",

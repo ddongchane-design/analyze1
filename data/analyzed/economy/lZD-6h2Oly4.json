@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/lZD-6h2Oly4/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "인간의 커뮤니케이션에서 가장 핵심적인 원칙은 대화의 순서를 주고받는 <span class=\"text-amber-300 font-bold\">순서 교대(Turn-taking)</span>와 관심을 공유하는 함께 보기(Joint Attention)임.\n상대방의 말을 끊는 행위는 공동의 사고를 거부하는 일종의 폭력이며, 조직원들의 <span class=\"text-rose-400 font-medium\">성장 의욕</span>을 저해하고 이탈하게 만듦.\n인간은 이미 말하기 이전부터 공동 사고를 하고 있으며, 이는 현재 <span class=\"text-cyan-300 font-semibold\">AI 인공지능</span>의 자연스러운 대화 구현 장벽으로 작용하고 있음.",
+    "summary": "인간의 커뮤니케이션에서 가장 핵심적인 원칙은 대화의 순서를 주고받는 순서 교대(Turn-taking)와 관심을 공유하는 함께 보기(Joint Attention)임.\n상대방의 말을 끊는 행위는 공동의 사고를 거부하는 일종의 폭력이며, 조직원들의 성장 의욕을 저해하고 이탈하게 만듦.\n인간은 이미 말하기 이전부터 공동 사고를 하고 있으며, 이는 현재 AI 인공지능의 자연스러운 대화 구현 장벽으로 작용하고 있음.",
     "key_claims": [
       "대화의 순서를 바꾸는 턴테이킹은 고도로 훈련된 인간 고유의 인지 및 사회적 능력임.",
-      "타인의 말을 자르고 자신의 주장만 앞세우는 사람은 조직 내에서 타인의 성장 기회를 가로막는 <span class=\"text-rose-400 font-medium\">암적 존재</span>임.",
+      "타인의 말을 자르고 자신의 주장만 앞세우는 사람은 조직 내에서 타인의 성장 기회를 가로막는 암적 존재임.",
       "인간 대화의 턴테이킹 평균 반응 시간은 0.2초 수준으로, 대화 도중 실시간으로 상대와 공동 사고를 수행하기 때문에 가능함."
     ],
     "data_points": [
@@ -28,8 +28,8 @@
     "signal_confidence": "high",
     "signal_reason": "조직 내 소통 문화와 인지적 상호작용의 원리를 심리학적으로 고찰하여 인재 관리와 AI 연구의 시사점을 제공함.",
     "key_companies": [],
-    "insight": "AI가 인간과 자연스럽게 소통하기 어려운 근본 이유는 단순 연산 속도가 아니라, 0.2초 미만의 짧은 틈에서 이루어지는 인간 고유의 <span class=\"text-cyan-300 font-semibold\">공동 사고(Co-thinking)</span> 메커니즘을 복제하지 못하기 때문임.",
-    "action_point": "기업 관리자는 실무자들의 업무 몰입도를 높이기 위해 일방적 지시 대신 <span class=\"text-amber-300 font-bold\">소통 기회(Turn-taking)</span>를 보장하고, 이들의 전문적 성장을 공식 인정해주는 문화를 조성해야 함."
+    "insight": "AI가 인간과 자연스럽게 소통하기 어려운 근본 이유는 단순 연산 속도가 아니라, 0.2초 미만의 짧은 틈에서 이루어지는 인간 고유의 공동 사고(Co-thinking) 메커니즘을 복제하지 못하기 때문임.",
+    "action_point": "기업 관리자는 실무자들의 업무 몰입도를 높이기 위해 일방적 지시 대신 소통 기회(Turn-taking)를 보장하고, 이들의 전문적 성장을 공식 인정해주는 문화를 조성해야 함."
   },
   "classification": {
     "primary_topic": "economy",

@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/Dmgc7OfFjNM/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "글로벌 빅테크의 CapEx 투자가 작년 대비 약 두 배 급증하며 디램 가격이 600% 이상 폭등하는 사상 초유의 슈퍼 사이클이 전개 중입니다. 앤스로픽의 클로드 B2B 채택 폭발과 구글의 TPU 독자 노선 가속화가 <span class=\"text-cyan-300 font-semibold\">커스텀 HBM</span> 수요를 견인하고 있습니다. 미국은 10나노 이하 파운드리의 TSMC 쏠림 완화를 위해 텍사스에 거점을 둔 <span class=\"text-cyan-300 font-semibold\">삼성전자 파운드리</span>를 미중 안보 분산의 핵심 파트너로 활용할 수밖에 없습니다.",
+    "summary": "글로벌 빅테크의 CapEx 투자가 작년 대비 약 두 배 급증하며 디램 가격이 600% 이상 폭등하는 사상 초유의 슈퍼 사이클이 전개 중입니다. 앤스로픽의 클로드 B2B 채택 폭발과 <span class=\"text-cyan-300 font-semibold\">구글</span>의 TPU 독자 노선 가속화가 커스텀 <span class=\"text-cyan-300 font-semibold\">HBM</span> 수요를 견인하고 있습니다. 미국은 10나노 이하 파운드리의 <span class=\"text-cyan-300 font-semibold\">TSMC</span> 쏠림 완화를 위해 텍사스에 거점을 둔 <span class=\"text-cyan-300 font-semibold\">삼성전자</span> 파운드리를 미중 안보 분산의 핵심 파트너로 활용할 수밖에 없습니다.",
     "key_claims": [
-      "앤스로픽(Anthropic)은 강력한 보안성을 지닌 AI 헌법 모델 클로드로 B2B 시장에서 흑자 전환에 성공하며 <span class=\"text-amber-300 font-bold\">AI 실질 수익화</span>를 주도하고 있습니다.",
-      "미국 정부는 대만 TSMC에 대한 안보 의존도(10나노 이하 90% 이상 점유)를 낮추기 위해 <span class=\"text-cyan-300 font-semibold\">삼성 파운드리 및 인텔</span>을 강력한 대안으로 육성 중입니다.",
-      "애플의 독점 생산 의뢰로 TSMC와 삼성 파운드리의 격차가 크게 벌어졌으나, 미국의 리스크 분산 및 신규 빅테크 수주로 삼성 파운드리의 턴어라운드 기회가 오고 있습니다."
+      "앤스로픽(Anthropic)은 강력한 보안성을 지닌 AI 헌법 모델 클로드로 B2B 시장에서 흑자 전환에 성공하며 AI 실질 수익화를 주도하고 있습니다.",
+      "미국 정부는 대만 <span class=\"text-cyan-300 font-semibold\">TSMC</span>에 대한 안보 의존도(10나노 이하 90% 이상 점유)를 낮추기 위해 삼성 파운드리 및 <span class=\"text-cyan-300 font-semibold\">인텔</span>을 강력한 대안으로 육성 중입니다.",
+      "애플의 독점 생산 의뢰로 <span class=\"text-cyan-300 font-semibold\">TSMC</span>와 삼성 파운드리의 격차가 크게 벌어졌으나, 미국의 <span class=\"text-rose-400 font-medium\">리스크</span> 분산 및 신규 빅테크 수주로 삼성 파운드리의 턴어라운드 기회가 오고 있습니다."
     ],
     "data_points": [
       "디램 가격 1년 전 대비 상승률: 약 600% 이상 폭등",
@@ -28,8 +28,8 @@
       "구글(GOOGL)",
       "TSMC(TSM)"
     ],
-    "insight": "반도체는 이제 순수 경제 논리가 아닌 <span class=\"text-violet-300 font-medium\">지경학적 패권 전략</span>에 맞춰 강제로 재편되고 있습니다. TSMC 단일 공급망 리스크에 노출된 미국 빅테크들은 텍사스에 최신 패키징 라인을 갖춘 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>로 눈을 돌릴 수밖에 없는 구조적 수혜를 누리게 됩니다.",
-    "action_point": "삼성전자의 메모리 호실적 외에도 장기적으로 <span class=\"text-cyan-300 font-semibold\">파운드리 사업부 적자 축소 및 수주 확대</span> 모멘텀에 베팅하여 대형 기술주 포트폴리오를 다변화해야 합니다."
+    "insight": "<span class=\"text-cyan-300 font-semibold\">반도체</span>는 이제 순수 경제 논리가 아닌 지경학적 패권 전략에 맞춰 강제로 재편되고 있습니다. <span class=\"text-cyan-300 font-semibold\">TSMC</span> 단일 공급망 <span class=\"text-rose-400 font-medium\">리스크</span>에 노출된 미국 빅테크들은 텍사스에 최신 패키징 라인을 갖춘 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>로 눈을 돌릴 수밖에 없는 구조적 수혜를 누리게 됩니다.",
+    "action_point": "<span class=\"text-cyan-300 font-semibold\">삼성전자</span>의 메모리 호실적 외에도 장기적으로 파운드리 사업부 적자 축소 및 수주 확대 모멘텀에 베팅하여 대형 기술주 포트폴리오를 다변화해야 합니다."
   },
   "classification": {
     "primary_topic": "stock",

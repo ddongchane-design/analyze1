@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/ip2UiJsHvO4/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "<span class=\"text-cyan-300 font-semibold\">마이크로스트레티지</span>(MSTR)의 비트코인 매각과 영구 우선주(STRC)의 <span class=\"text-rose-400 font-medium\">배당 재원 한계(7개월)</span> 리스크를 짚어보고, STRC를 담보로 하는 <span class=\"text-rose-400 font-medium\">APX USD 디페깅 사태</span>를 분석합니다.",
+    "summary": "마이크로스트레티지(MSTR)의 비트코인 매각과 영구 우선주(STRC)의 배당 재원 한계(7개월) <span class=\"text-rose-400 font-medium\">리스크</span>를 짚어보고, STRC를 담보로 하는 APX USD 디페깅 사태를 분석합니다.",
     "key_claims": [
       "MSTR은 비트코인 평단가 하회로 104억 달러의 미실현 손실을 입었으며, 매달 1.4억 달러의 배당/이자를 줘야 해 현금 바닥 우려가 커졌다.",
       "STRC 우선주 가격이 100달러를 하회하면서 추가 조달에 제동이 걸려 비트코인 추가 매도 압박이 발생하고 있다.",
-      "STRC를 담보로 발행된 스테이블코인 APX USD가 0.91달러로 디페깅되며 시장의 강제 청산 공포(청산 규모 3%)가 유입되었다."
+      "STRC를 담보로 발행된 스테이블코인 APX USD가 0.91달러로 디페깅되며 시장의 강제 <span class=\"text-rose-400 font-medium\">청산</span> 공포(<span class=\"text-rose-400 font-medium\">청산</span> 규모 3%)가 유입되었다."
     ],
     "data_points": [
       "MSTR 보유 비트코인 평균 단가: 75,701달러 (현재가 6.3만 달러 하회)",
@@ -20,7 +20,7 @@
       "APX USD 디페깅 최저가 기록: 0.91달러"
     ],
     "signal": "bearish",
-    "signal_reason": "MSTR의 대규모 비트코인 조달 방식의 한계가 확인되었고, 스테이블코인과의 부채 연계 리스크로 인해 크립토 전반의 수급 불안이 예상됩니다.",
+    "signal_reason": "MSTR의 대규모 비트코인 조달 방식의 한계가 확인되었고, 스테이블코인과의 부채 연계 <span class=\"text-rose-400 font-medium\">리스크</span>로 인해 크립토 전반의 수급 불안이 예상됩니다.",
     "key_companies": [
       "MicroStrategy",
       "Coinbase"

@@ -8,7 +8,7 @@
     "thumbnail": "https://img.youtube.com/vi/hS6j5p-KY4c/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "<span class=\"text-cyan-300 font-semibold\">비트코인 채굴 기업</span>들이 자사의 기 확보된 막대한 전력망 및 그리드 접속 인프라를 활용하여 <span class=\"text-cyan-300 font-semibold\">AI 고성능 데이터센터</span>로 체질을 개선하면서 역대급 수익률과 랠리를 시현 중입니다.",
+    "summary": "비트코인 채굴 기업들이 자사의 기 확보된 막대한 전력망 및 그리드 접속 인프라를 활용하여 AI 고성능 데이터센터로 체질을 개선하면서 역대급 수익률과 랠리를 시현 중입니다.",
     "key_claims": [
       "채굴 기업들은 반감기 이후 줄어든 보상을 만회하기 위해 이미 구축된 수백 메가와트(MW) 전력 용량을 AI 연산용으로 임대하고 있다.",
       "미국의 AI 빅테크들은 데이터센터 부지 및 전력 수급 병목을 즉각 해소하기 위해 채굴 기업들의 전력망 매수를 적극 추진한다.",
@@ -19,7 +19,7 @@
       "AI 인프라 연동형 미국 비트코인 채굴주들의 사상 최고가 경신 지속"
     ],
     "signal": "bullish",
-    "signal_reason": "전력 확보가 시급한 빅테크들의 자금 투입으로 채굴주들의 자산 가치가 급상승하고 있으며 비트코인의 주말 조정을 극복할 매크로/수급 지지가 확인되고 있습니다.",
+    "signal_reason": "전력 확보가 시급한 빅테크들의 자금 투입으로 채굴주들의 자산 가치가 급상승하고 있으며 비트코인의 주말 <span class=\"text-rose-400 font-medium\">조정</span>을 극복할 매크로/수급 지지가 확인되고 있습니다.",
     "key_companies": [
       "MicroStrategy",
       "Core Scientific",

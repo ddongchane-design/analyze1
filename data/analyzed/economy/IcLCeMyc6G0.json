@@ -8,25 +8,25 @@
     "thumbnail": "https://img.youtube.com/vi/IcLCeMyc6G0/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "미국과 이란의 갈등이 단순 협상력 대결을 넘어 호르무즈 해협의 통제권을 다투는 구조적 교착 상태('호르무즈 대전')에 진입했습니다. 도널드 트럼프의 '호르무즈 보호 대가 20% 통행료 부과' 압박에 이란은 주권 수호 및 군사적 억지력 확보로 강경 대응하며 대치를 이어가고 있습니다. 미국이 이란의 정유 시설을 폭격하는 등 전면전을 불사할 경우, 이란이 사우디 <span class=\"text-cyan-300 font-semibold\">아람코</span>와 카타르의 가스 인프라를 무차별 타격해 <span class=\"text-rose-400 font-medium\">글로벌 에너지 대란</span>을 유발할 수 있습니다.",
+    "summary": "미국과 <span class=\"text-violet-300 font-medium\">이란</span>의 갈등이 단순 협상력 대결을 넘어 <span class=\"text-violet-300 font-medium\">호르무즈 해협</span>의 통제권을 다투는 구조적 교착 상태('<span class=\"text-violet-300 font-medium\">호르무즈</span> 대전')에 진입했습니다. 도널드 트럼프의 '<span class=\"text-violet-300 font-medium\">호르무즈</span> 보호 대가 20% 통행료 부과' 압박에 <span class=\"text-violet-300 font-medium\">이란</span>은 주권 수호 및 군사적 억지력 확보로 강경 대응하며 대치를 이어가고 있습니다. 미국이 <span class=\"text-violet-300 font-medium\">이란</span>의 정유 시설을 폭격하는 등 전면전을 불사할 경우, <span class=\"text-violet-300 font-medium\">이란</span>이 사우디 아람코와 카타르의 가스 인프라를 무차별 타격해 글로벌 에너지 대란을 유발할 수 있습니다.",
     "key_claims": [
-      "이란의 견고한 군사적 방어력과 지휘부 회복력은 미국과 이스라엘의 암살 및 외과수술식 공습(Pinpoint) 시나리오를 무력화했습니다.",
-      "트럼프의 호르무즈 통행료 20% 징수 선언은 이란의 해상 제재 위협과 맞서며 국제 해상 운송 경로를 즉각 50% 수준으로 마비시켰습니다.",
-      "중국과 러시아가 이란에 철로를 통한 물류 및 미사일 부품을 은밀히 지원하여 이란이 미국의 장기 압박에 무너지지 않는 뒷배 역할을 하고 있습니다."
+      "<span class=\"text-violet-300 font-medium\">이란</span>의 견고한 군사적 방어력과 지휘부 회복력은 미국과 이스라엘의 암살 및 외과수술식 공습(Pinpoint) 시나리오를 무력화했습니다.",
+      "트럼프의 <span class=\"text-violet-300 font-medium\">호르무즈</span> 통행료 20% 징수 선언은 <span class=\"text-violet-300 font-medium\">이란</span>의 해상 제재 위협과 맞서며 국제 해상 운송 경로를 즉각 50% 수준으로 마비시켰습니다.",
+      "<span class=\"text-violet-300 font-medium\">중국</span>과 러시아가 <span class=\"text-violet-300 font-medium\">이란</span>에 철로를 통한 물류 및 미사일 부품을 은밀히 지원하여 <span class=\"text-violet-300 font-medium\">이란</span>이 미국의 장기 압박에 무너지지 않는 뒷배 역할을 하고 있습니다."
     ],
     "data_points": [
       "호르무즈 해상 운송 유조선 감소 비중: 주말을 지나며 평시 대비 반토막 수준(약 19척 수준으로 감소)",
       "이란 유조선 통행세 산정 수준: 유조선 1척당(200만 배럴 기준) 약 30억 원 수준 요구"
     ],
     "signal": "bearish",
-    "signal_reason": "미국과 이란 모두 물러설 수 없는 주권 및 경제적 이해관계가 대립하여 호르무즈 통항 마비가 장기화될 수 있고, 유가와 천연가스 가격 급등에 따른 글로벌 인플레이션 압력이 커지고 있기 때문입니다.",
+    "signal_reason": "미국과 <span class=\"text-violet-300 font-medium\">이란</span> 모두 물러설 수 없는 주권 및 경제적 이해관계가 대립하여 <span class=\"text-violet-300 font-medium\">호르무즈</span> 통항 마비가 장기화될 수 있고, <span class=\"text-amber-300 font-bold\">유가</span>와 천연가스 가격 급등에 따른 글로벌 <span class=\"text-amber-300 font-bold\">인플레이션</span> 압력이 커지고 있기 때문입니다.",
     "key_companies": [
       "아람코",
       "엑손모빌(XOM)",
       "셰브론(CVX)"
     ],
-    "insight": "중동 전쟁의 본질이 이스라엘 분쟁을 넘어 글로벌 물류 목줄인 호르무즈 해협의 '통행세 헤게모니'로 고착화되었습니다. 특히 중-러 동맹의 지원 하에 이란이 버티기 전략을 구사하면서 미국의 중동 개입 비용은 눈덩이처럼 불어나고 글로벌 인플레이션의 강력한 도화선이 되고 있습니다.",
-    "action_point": "유가 추가 폭등과 에너지 공급망 교란 위험에 대응하기 위해, 전통 원유/가스 생산 기업 및 대체 에너지 밸류체인으로 포트폴리오 방어선을 좁힐 필요가 있습니다."
+    "insight": "<span class=\"text-violet-300 font-medium\">중동</span> 전쟁의 본질이 이스라엘 분쟁을 넘어 글로벌 물류 목줄인 <span class=\"text-violet-300 font-medium\">호르무즈 해협</span>의 '통행세 헤게모니'로 고착화되었습니다. 특히 중-러 동맹의 지원 하에 <span class=\"text-violet-300 font-medium\">이란</span>이 버티기 전략을 구사하면서 미국의 <span class=\"text-violet-300 font-medium\">중동</span> 개입 비용은 눈덩이처럼 불어나고 글로벌 <span class=\"text-amber-300 font-bold\">인플레이션</span>의 강력한 도화선이 되고 있습니다.",
+    "action_point": "<span class=\"text-amber-300 font-bold\">유가</span> 추가 폭등과 에너지 공급망 교란 <span class=\"text-rose-400 font-medium\">위험</span>에 대응하기 위해, 전통 원유/가스 생산 기업 및 대체 에너지 밸류체인으로 포트폴리오 방어선을 좁힐 필요가 있습니다."
   },
   "classification": {
     "primary_topic": "economy",

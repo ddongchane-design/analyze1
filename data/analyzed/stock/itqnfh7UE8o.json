@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/itqnfh7UE8o/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "코스닥 및 비반도체 종목들의 고점 대비 30~50% 급락으로 인해 월요일 아침 역사적 수준에 육박하는 <span class=\"text-rose-400 font-medium\">반대매매(강제청산) 물량 출회</span> 우려가 고조되며 시장 수급이 극도로 왜곡됨.\n단일 종목 레버리지 ETF의 거래대금(15조 원)이 비반도체 코스피 전체 거래대금과 맞먹는 기형적 쏠림이 완화되어야 소외된 <span class=\"text-amber-300 font-bold\">소외 섹터의 반등</span>이 가능함.\n7월 반도체 실적이 시장의 높은 눈높이를 충족시키는 선에서 마무리되면, 미국 바이오텍 강세 동조화 및 개별 모멘텀을 가진 <span class=\"text-cyan-300 font-semibold\">제약바이오(알테오젠, 한올바이오파마 등)</span>로의 순환매가 본격화될 것으로 전망함.",
+    "summary": "코스닥 및 비<span class=\"text-cyan-300 font-semibold\">반도체</span> 종목들의 고점 대비 30~50% <span class=\"text-rose-400 font-medium\">급락</span>으로 인해 월요일 아침 역사적 수준에 육박하는 반대매매(강제<span class=\"text-rose-400 font-medium\">청산</span>) 물량 출회 우려가 고조되며 시장 수급이 극도로 왜곡됨.\n단일 종목 레버리지 ETF의 거래대금(15조 원)이 비<span class=\"text-cyan-300 font-semibold\">반도체</span> 코스피 전체 거래대금과 맞먹는 기형적 쏠림이 완화되어야 소외된 소외 섹터의 반등이 가능함.\n7월 <span class=\"text-cyan-300 font-semibold\">반도체</span> 실적이 시장의 높은 눈높이를 충족시키는 선에서 마무리되면, 미국 바이오텍 강세 동조화 및 개별 모멘텀을 가진 제약바이오(알테오젠, 한올바이오파마 등)로의 순환매가 본격화될 것으로 전망함.",
     "key_claims": [
-      "비반도체 소외 업종의 반대매매 계좌 수가 코로나 및 2022년 하락장 최고치 수준에 육박하여 수급상 <span class=\"text-rose-400 font-medium\">로스컷 및 투매의 정점</span>을 지나고 있다.",
-      "새롭게 도입되는 코스닥 승강제(프리미엄 지수 도입)는 매출, 이익, ESG 지배구조가 우수한 코스닥 대형주로의 <span class=\"text-cyan-300 font-semibold\">패시브 자금 유입</span>을 자극하는 촉매제가 될 것이다.",
-      "국내 제약바이오는 글로벌 시장(미국 XBI, IBB)과의 디커플링이 심화되었으나, 신약 기술 수출 및 임상 결과 모멘텀을 바탕으로 <span class=\"text-cyan-300 font-semibold\">실체 있는 반등</span>이 7월에 갈릴 것이다."
+      "비<span class=\"text-cyan-300 font-semibold\">반도체</span> 소외 업종의 반대매매 계좌 수가 코로나 및 2022년 하락장 최고치 수준에 육박하여 수급상 로스컷 및 투매의 정점을 지나고 있다.",
+      "새롭게 도입되는 코스닥 승강제(프리미엄 지수 도입)는 매출, 이익, ESG 지배구조가 우수한 코스닥 대형주로의 패시브 자금 유입을 자극하는 촉매제가 될 것이다.",
+      "국내 제약바이오는 글로벌 시장(미국 XBI, IBB)과의 디커플링이 심화되었으나, 신약 기술 수출 및 임상 결과 모멘텀을 바탕으로 실체 있는 반등이 7월에 갈릴 것이다."
     ],
     "data_points": [
       "단일 종목 레버리지 ETF 일평균 거래대금: 약 15조 원 (삼성전자·SK하이닉스를 제외한 코스피 비반도체 전체 거래대금 15조 원과 동일 수준)",
@@ -24,7 +24,7 @@
     ],
     "signal": "neutral",
     "signal_confidence": "medium",
-    "signal_reason": "단기적으로 코스닥 신용 계좌의 <span class=\"text-rose-400 font-medium\">강제 청산 물량 출회</span> 고통이 잔존하나, 수급 정리가 마무리되면 실적 및 승강제 모멘텀이 있는 제약바이오의 반등 가능성이 높음.",
+    "signal_reason": "단기적으로 코스닥 신용 계좌의 강제 <span class=\"text-rose-400 font-medium\">청산</span> 물량 출회 고통이 잔존하나, 수급 정리가 마무리되면 실적 및 승강제 모멘텀이 있는 제약바이오의 반등 가능성이 높음.",
     "key_companies": [
       "NH Investment & Securities",
       "Alteogen(196170)",
@@ -37,8 +37,8 @@
       "Kioxia",
       "Murata Manufacturing(6981)"
     ],
-    "insight": "지수 고공행진 이면에 감춰진 비반도체 섹터의 신용 반대매매 속출은 극심한 <span class=\"text-rose-400 font-medium\">수급적 양극화</span>를 보여주며, 이 수급이 진정되는 시점이 양질의 소외주를 매수하는 기회가 됨.",
-    "action_point": "신용 반대매매 물량이 쏟아져 투매의 정점을 형성할 월요일 전후를 기점으로, <span class=\"text-cyan-300 font-semibold\">코스닥 승강제 편입 우수 기업(알테오젠 등)</span> 및 기술 수출 및 임상 모멘텀이 뚜렷한 <span class=\"text-cyan-300 font-semibold\">D&D파마텍, 한올바이오파마</span> 등에 대해 분할 매수 관점으로 접근할 만함."
+    "insight": "지수 고공행진 이면에 감춰진 비<span class=\"text-cyan-300 font-semibold\">반도체</span> 섹터의 신용 반대매매 속출은 극심한 수급적 양극화를 보여주며, 이 수급이 진정되는 시점이 양질의 소외주를 매수하는 기회가 됨.",
+    "action_point": "신용 반대매매 물량이 쏟아져 투매의 정점을 형성할 월요일 전후를 기점으로, 코스닥 승강제 편입 우수 기업(알테오젠 등) 및 기술 수출 및 임상 모멘텀이 뚜렷한 D&D파마텍, 한올바이오파마 등에 대해 분할 매수 관점으로 접근할 만함."
   },
   "classification": {
     "primary_topic": "stock",

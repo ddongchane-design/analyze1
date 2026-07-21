@@ -8,23 +8,23 @@
     "thumbnail": "https://img.youtube.com/vi/TlxVTN3JJpg/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "자금력이 뛰어난 <span class=\"text-cyan-300 font-semibold\">아마존</span>조차 우주 인터넷 시장에서 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 스타링크에 크게 뒤처지며 독점 구조가 지속되고 있음.",
+    "summary": "자금력이 뛰어난 아마존조차 우주 인터넷 시장에서 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 <span class=\"text-cyan-300 font-semibold\">스타링크</span>에 크게 뒤처지며 독점 구조가 지속되고 있음.",
     "key_claims": [
-      "아마존의 자본력에도 불구하고 실제 위성을 쏘아 올릴 수 있는 발사 기술, 특히 <span class=\"text-amber-300 font-bold\">재사용 로켓 기술</span>의 상용화 부재가 격차의 근본 원인이다.",
-      "스페이스X는 압도적인 기술 장벽과 저렴한 수송 비용을 바탕으로 우주 산업에서 독점적 지위를 확고히 하고 있다.",
-      "대체 발사 수단이 마땅치 않은 상황에서 스페이스X의 우주 통신망 <span class=\"text-rose-400 font-medium\">독점 구조</span>는 당분간 깨지기 힘들다."
+      "아마존의 자본력에도 불구하고 실제 위성을 쏘아 올릴 수 있는 발사 기술, 특히 재사용 로켓 기술의 상용화 부재가 격차의 근본 원인이다.",
+      "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>는 압도적인 기술 장벽과 저렴한 수송 비용을 바탕으로 우주 산업에서 독점적 지위를 확고히 하고 있다.",
+      "대체 발사 수단이 마땅치 않은 상황에서 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 우주 통신망 독점 구조는 당분간 깨지기 힘들다."
     ],
     "data_points": [
       "아마존의 우주 인터넷(프로젝트 카이퍼) 위성 배치 속도가 스페이스X에 비해 극도로 지연됨"
     ],
     "signal": "bullish",
-    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>가 <span class=\"text-amber-300 font-bold\">재사용 로켓</span> 분야에서 독점적 지위를 확립하여 경쟁사들의 진입을 원천 차단하고 장기 성장성을 독식하고 있음.",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>가 재사용 로켓 분야에서 독점적 지위를 확립하여 경쟁사들의 진입을 원천 차단하고 장기 성장성을 독식하고 있음.",
     "key_companies": [
       "SpaceX",
       "Amazon"
     ],
-    "insight": "우주 인터넷 비즈니스의 성공 요건은 단순한 자본의 크기가 아니라 '우주로 쏘아 올리는 수송 비용의 경제성'에 달려 있다. 아마존이 막대한 현금을 가지고 있어도 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>만큼 저렴하게 위성을 발사할 기술이 없다면 <span class=\"text-rose-400 font-medium\">경쟁 우위</span>를 확보할 수 없다. 이는 우주 인프라 시장에서 스페이스X의 락인(Lock-in) 효과가 지속될 것임을 방증한다.",
-    "action_point": "우주 산업 투자 시 단순한 자본력보다는 자체 발사체 기술 및 <span class=\"text-amber-300 font-bold\">재사용성</span> 검증 여부를 최우선으로 판단해야 하며, 스페이스X의 절대 우위 흐름을 포트폴리오에 반영해야 한다."
+    "insight": "우주 인터넷 비즈니스의 성공 요건은 단순한 자본의 크기가 아니라 '우주로 쏘아 올리는 수송 비용의 경제성'에 달려 있다. 아마존이 막대한 현금을 가지고 있어도 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>만큼 저렴하게 위성을 발사할 기술이 없다면 경쟁 우위를 확보할 수 없다. 이는 우주 인프라 시장에서 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 락인(Lock-in) 효과가 지속될 것임을 방증한다.",
+    "action_point": "우주 산업 투자 시 단순한 자본력보다는 자체 발사체 기술 및 재사용성 검증 여부를 최우선으로 판단해야 하며, <span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 절대 우위 흐름을 포트폴리오에 반영해야 한다."
   },
   "classification": {
     "primary_topic": "space",

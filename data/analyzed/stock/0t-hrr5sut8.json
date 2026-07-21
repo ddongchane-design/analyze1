@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/0t-hrr5sut8/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "마이크론 실적 발표를 앞두고 글로벌 반도체 주가가 급락한 것은 AI 가속기에 투입되는 대규모 투자가 실제 기업 이익으로 회수될 수 있는지에 대한 <span class=\"text-rose-400 font-medium\">AI 과대평가(회수 기간) 의구심</span>이 반영된 결과임. 분기말 대규모 기관 리밸런싱 수급 압박과 고금리 장기화 우려가 겹쳐 차익 실현 욕구가 커졌으며, 향후 M7의 CapEx 정당성을 뒷받침할 성적표 확인이 핵심임.",
+    "summary": "마이크론 실적 발표를 앞두고 글로벌 <span class=\"text-cyan-300 font-semibold\">반도체</span> 주가가 <span class=\"text-rose-400 font-medium\">급락</span>한 것은 AI 가속기에 투입되는 대규모 투자가 실제 기업 이익으로 회수될 수 있는지에 대한 AI 과대평가(회수 기간) 의구심이 반영된 결과임. 분기말 대규모 기관 리밸런싱 수급 압박과 <span class=\"text-amber-300 font-bold\">고금리 장기화</span> 우려가 겹쳐 차익 실현 욕구가 커졌으며, 향후 M7의 CapEx 정당성을 뒷받침할 성적표 확인이 핵심임.",
     "key_claims": [
       "AI 인프라에 천문학적인 비용을 쏟아붓는 빅테크들의 ROI(투자회수) 검증이 마이크론 실적으로 시험대에 오름.",
-      "분기말 리밸런싱 수급에 따른 미국 내 자금 유출 추산액이 역대급 규모에 달해 주가를 압박함.",
+      "분기말 리밸런싱 수급에 따른 미국 내 자금 <span class=\"text-rose-400 font-medium\">유출</span> 추산액이 역대급 규모에 달해 주가를 압박함.",
       "금리 부담이 높은 상황에서 빅테크들의 회사채/주식 발행을 통한 자금 조달 증가 우려가 기술주 투심을 악화시킴."
     ],
     "data_points": [
@@ -28,7 +28,7 @@
       "SK하이닉스(000660)"
     ],
     "insight": "지금부터는 단순한 기대감이 아닌 '진짜 성적표(실적과 가이던스)'를 보여주어야 높은 멀티플을 방어할 수 있는 실물 검증 장세에 도입함.",
-    "action_point": "마이크론의 실적 및 향후 공급 계획 가이던스 확인 전까지 신규 반도체 추격 매수는 지양하고 보수적 관점에서 대기할 것."
+    "action_point": "마이크론의 실적 및 향후 공급 계획 가이던스 확인 전까지 신규 <span class=\"text-cyan-300 font-semibold\">반도체</span> 추격 매수는 지양하고 보수적 관점에서 대기할 것."
   },
   "classification": {
     "primary_topic": "stock",

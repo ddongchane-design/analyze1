@@ -8,24 +8,24 @@
     "thumbnail": "https://img.youtube.com/vi/AautPWSG8po/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "반도체 쏠림이 극에 달한 상황에서 기관들의 분기말 포트폴리오 리밸런싱과 개인들의 두 배짜리 <span class=\"text-rose-400 font-medium\">레버리지 ETF 투자 열풍</span>이 겹치며 시장의 단기 변동성을 비정상적으로 키우는 부작용을 유발함. 단기 조정에도 불구하고 하이퍼스케일러들의 AI 인프라 capex 지출과 정부 지원은 견고하므로 반도체 펀더멘탈 훼손은 아니라는 분석임.",
+    "summary": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 쏠림이 극에 달한 상황에서 기관들의 분기말 포트폴리오 리밸런싱과 개인들의 두 배짜리 레버리지 ETF 투자 열풍이 겹치며 시장의 단기 변동성을 비정상적으로 키우는 부작용을 유발함. 단기 <span class=\"text-rose-400 font-medium\">조정</span>에도 불구하고 하이퍼스케일러들의 AI 인프라 capex 지출과 정부 지원은 견고하므로 <span class=\"text-cyan-300 font-semibold\">반도체</span> 펀더멘탈 훼손은 아니라는 분석임.",
     "key_claims": [
-      "글로벌 연기금 및 기관의 2분기 말 자산 배분 비중 조절(리밸런싱) 매도가 반도체 급락의 직접적 원인임.",
+      "글로벌 연기금 및 기관의 2분기 말 자산 배분 비중 조절(리밸런싱) 매도가 <span class=\"text-cyan-300 font-semibold\">반도체</span> <span class=\"text-rose-400 font-medium\">급락</span>의 직접적 원인임.",
       "최근 1개월 내 출시된 한국/글로벌의 종목형 2배 레버리지 ETF 등 투기적 파생 상품 쏠림이 주가 변동폭을 왜곡함.",
-      "인플레이션 고착화와 국채 금리 요동 속에서도 빅테크들의 AI 데이터 센터 구축 CapEx와 부품 발주 수요는 강력히 보호됨."
+      "<span class=\"text-amber-300 font-bold\">인플레이션</span> 고착화와 국채 금리 요동 속에서도 빅테크들의 AI 데이터 센터 구축 CapEx와 부품 발주 수요는 강력히 보호됨."
     ],
     "data_points": [
       "글로벌 국부 펀드(노르웨이 등) 리밸런싱 추이: 과열된 반도체/빅테크 비중 축소 및 채권/타 섹터 기계적 조정 집행"
     ],
     "signal": "neutral",
-    "signal_reason": "기계적 포트폴리오 리밸런싱과 고배율 레버리지 상품의 강제 청산 등으로 인해 단기 변동성은 불가피하나, 반도체 업종의 이익 기반 펀더멘탈은 이상이 없기 때문임.",
+    "signal_reason": "기계적 포트폴리오 리밸런싱과 고배율 레버리지 상품의 강제 <span class=\"text-rose-400 font-medium\">청산</span> 등으로 인해 단기 변동성은 불가피하나, <span class=\"text-cyan-300 font-semibold\">반도체</span> 업종의 이익 기반 펀더멘탈은 이상이 없기 때문임.",
     "key_companies": [
       "SK하이닉스(000660)",
       "삼성전자(005930)",
       "SK스퀘어(402340)"
     ],
-    "insight": "ETF의 폭발적 활성화는 하락 시 패시브 투매를 유발하는 맹점이 있으나, 시장 심리가 진정되면 실물 실적 가시성이 가장 뚜렷한 반도체 대장주가 가장 먼저 반등 복구에 성공함.",
-    "action_point": "리밸런싱 발 단기 충격을 공포성 투매 기회로 보지 말고, 대장주의 일시 조정(7월 초 실적 발표 시점 타깃)을 활용해 눌림목 비중 확대로 접근할 것."
+    "insight": "ETF의 폭발적 활성화는 하락 시 패시브 투매를 유발하는 맹점이 있으나, 시장 심리가 진정되면 실물 실적 가시성이 가장 뚜렷한 <span class=\"text-cyan-300 font-semibold\">반도체</span> 대장주가 가장 먼저 반등 복구에 성공함.",
+    "action_point": "리밸런싱 발 단기 충격을 공포성 투매 기회로 보지 말고, 대장주의 일시 <span class=\"text-rose-400 font-medium\">조정</span>(7월 초 실적 발표 시점 타깃)을 활용해 눌림목 비중 확대로 접근할 것."
   },
   "classification": {
     "primary_topic": "stock",

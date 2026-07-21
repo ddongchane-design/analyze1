@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/1U9L0RUATx0/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "1. 이스라엘-헤즈볼라 교전 및 이란의 <span class=\"text-violet-300 font-medium\">호르무즈 해협</span> 재봉쇄 위협 등 지정학적 리스크로 주가 흔들림이 있을 수 있으나, 이는 단기적인 노이즈/차익실현 핑계에 불과합니다.\n2. SK하이닉스의 미국 <span class=\"text-cyan-300 font-semibold\">ADR 상장</span> 승인 결정과 목요일 예정된 <span class=\"text-cyan-300 font-semibold\">마이크론의 호실적</span> 발표 및 자신감 있는 가이던스는 반도체 섹터의 추가 상승 동력으로 작용할 것입니다.\n3. <span class=\"text-cyan-300 font-semibold\">삼성전자</span>와 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>는 12개월 선행 P/E 기준 각각 6.8배, 7.6배로 마이크론(10배) 대비 저평가 상태이며, <span class=\"text-amber-300 font-bold\">조정 시 비중 확대</span> 전략이 유효합니다.",
+    "summary": "1. 이스라엘-헤즈볼라 교전 및 <span class=\"text-violet-300 font-medium\">이란</span>의 <span class=\"text-violet-300 font-medium\">호르무즈 해협</span> 재봉쇄 위협 등 지정학적 <span class=\"text-rose-400 font-medium\">리스크</span>로 주가 흔들림이 있을 수 있으나, 이는 단기적인 노이즈/차익실현 핑계에 불과합니다.\n2. <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>의 미국 ADR 상장 승인 결정과 목요일 예정된 마이크론의 호실적 발표 및 자신감 있는 가이던스는 <span class=\"text-cyan-300 font-semibold\">반도체</span> 섹터의 추가 상승 동력으로 작용할 것입니다.\n3. <span class=\"text-cyan-300 font-semibold\">삼성전자</span>와 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>는 12개월 선행 P/E 기준 각각 6.8배, 7.6배로 마이크론(10배) 대비 저평가 상태이며, <span class=\"text-rose-400 font-medium\">조정</span> 시 비중 확대 전략이 유효합니다.",
     "key_claims": [
-      "지정학적 갈등에 따른 <span class=\"text-rose-400 font-medium\">단기 변동성</span>은 불가피하나, 반도체 업종의 이익 체력과 수출 데이터가 워낙 강력하므로 우상향 기조는 훼손되지 않습니다.",
-      "마이크론 가이던스와 <span class=\"text-cyan-300 font-semibold\">장기공급계약(LTA)</span> 체결 등으로 반도체 업황의 실적 예측 가능성이 높아져 PBR 대신 PER 밸류에이션이 정착될 것입니다.",
-      "SK하이닉스의 미국 <span class=\"text-cyan-300 font-semibold\">ADR 상장 규모</span>에 따라 향후 주주환원 계획의 구체적인 가시성이 확보될 것입니다."
+      "지정학적 갈등에 따른 단기 변동성은 불가피하나, <span class=\"text-cyan-300 font-semibold\">반도체</span> 업종의 이익 체력과 수출 데이터가 워낙 강력하므로 우상향 기조는 훼손되지 않습니다.",
+      "마이크론 가이던스와 장기공급계약(LTA) 체결 등으로 <span class=\"text-cyan-300 font-semibold\">반도체</span> 업황의 실적 예측 가능성이 높아져 PBR 대신 PER 밸류에이션이 정착될 것입니다.",
+      "<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>의 미국 ADR 상장 규모에 따라 향후 주주환원 계획의 구체적인 가시성이 확보될 것입니다."
     ],
     "data_points": [
       "SK하이닉스 12개월 선행 P/E 7.6배, 삼성전자 6.8배 기록",
@@ -21,14 +21,14 @@
       "HBM 가격 내년 두 배 이상 인상 예정"
     ],
     "signal": "bullish",
-    "signal_reason": "마이크론 실적 발표와 <span class=\"text-cyan-300 font-semibold\">HBM 가격 강세</span>, SK하이닉스 ADR 상장 등으로 주도 섹터인 반도체의 실적 가시성이 뚜렷하며 밸류에이션 매력이 큽니다.",
+    "signal_reason": "마이크론 실적 발표와 <span class=\"text-cyan-300 font-semibold\">HBM</span> 가격 강세, <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> ADR 상장 등으로 주도 섹터인 <span class=\"text-cyan-300 font-semibold\">반도체</span>의 실적 가시성이 뚜렷하며 밸류에이션 매력이 큽니다.",
     "key_companies": [
       "SK하이닉스(000660)",
       "삼성전자(005930)",
       "마이크론"
     ],
-    "insight": "메모리 반도체가 과거의 극심한 사이클 산업에서 <span class=\"text-cyan-300 font-semibold\">장기공급계약(LTA)</span> 기반의 예측 가능한 성장 산업으로 패러다임이 변화하고 있습니다. 이는 주가 변동성을 낮추고 멀티플을 높이는 요인입니다.",
-    "action_point": "이스라엘-이란 분쟁 등 지정학적 불안으로 반도체 대형주가 장중 5% 이상 <span class=\"text-rose-400 font-medium\">조정받는 국면</span>이 온다면, 이를 <span class=\"text-amber-300 font-bold\">적극적인 매수 기회</span>로 활용해야 합니다."
+    "insight": "<span class=\"text-cyan-300 font-semibold\">메모리 반도체</span>가 과거의 극심한 사이클 산업에서 장기공급계약(LTA) 기반의 예측 가능한 성장 산업으로 패러다임이 변화하고 있습니다. 이는 주가 변동성을 낮추고 멀티플을 높이는 요인입니다.",
+    "action_point": "이스라엘-<span class=\"text-violet-300 font-medium\">이란</span> 분쟁 등 지정학적 불안으로 <span class=\"text-cyan-300 font-semibold\">반도체</span> 대형주가 장중 5% 이상 <span class=\"text-rose-400 font-medium\">조정</span>받는 국면이 온다면, 이를 적극적인 매수 기회로 활용해야 합니다."
   },
   "classification": {
     "primary_topic": "stock",

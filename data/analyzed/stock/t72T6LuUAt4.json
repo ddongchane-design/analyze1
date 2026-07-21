@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/t72T6LuUAt4/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "매크로 우려와 차익 실현으로 글로벌 반도체 주가가 급락했으나, 대만 소부장사들의 5월 매출 폭증이 보여주듯 AI 및 고급 패키징 수요 기반의 <span class=\"text-cyan-300 font-semibold\">반도체 펀더멘털</span>은 여전히 강력하여 과도한 공포에 기인한 매도를 차단해야 합니다.",
+    "summary": "매크로 우려와 차익 실현으로 글로벌 <span class=\"text-cyan-300 font-semibold\">반도체</span> 주가가 <span class=\"text-rose-400 font-medium\">급락</span>했으나, 대만 소부장사들의 5월 매출 폭증이 보여주듯 AI 및 고급 패키징 수요 기반의 <span class=\"text-cyan-300 font-semibold\">반도체</span> 펀더멘털은 여전히 강력하여 과도한 공포에 기인한 매도를 차단해야 합니다.",
     "key_claims": [
-      "급등 시 포모(FOMO)에 따른 추격 매수와 급락 시 공포(Fear)에 따른 투매 패턴을 끊어내야 장기적인 복리 수익을 달성할 수 있다.",
-      "대만 소부장사(야기오, 골드서킷, 퀀타 등)의 5월 실적 폭증은 글로벌 빅테크들의 <span class=\"text-cyan-300 font-semibold\">CSP 하이엔드 전력 스위치</span> 및 대리 생산 수요가 여전히 견고함을 강력하게 방증한다.",
-      "매크로 및 환율 급변은 일시적 노이즈에 불과하며, 실질적인 기업 실적 업그레이드가 예상되는 6월 중순 이후 주가 복원력이 확인될 것이다."
+      "급등 시 포모(FOMO)에 따른 추격 매수와 <span class=\"text-rose-400 font-medium\">급락</span> 시 공포(Fear)에 따른 투매 패턴을 끊어내야 장기적인 복리 수익을 달성할 수 있다.",
+      "대만 소부장사(야기오, 골드서킷, 퀀타 등)의 5월 실적 폭증은 글로벌 빅테크들의 CSP 하이엔드 전력 스위치 및 대리 생산 수요가 여전히 견고함을 강력하게 방증한다.",
+      "매크로 및 <span class=\"text-amber-300 font-bold\">환율</span> 급변은 일시적 노이즈에 불과하며, 실질적인 기업 실적 업그레이드가 예상되는 6월 중순 이후 주가 복원력이 확인될 것이다."
     ],
     "data_points": [
       "대만 수동부품사 야기오(Yageo) 5월 매출 전년 대비 +48% 증가",
@@ -28,8 +28,8 @@
       "Yageo",
       "Gold Circuit Electronics"
     ],
-    "insight": "메모리 및 파운드리 대형주에만 국한하지 않고, 대만의 선행 지표 성격인 월별 매출 데이터를 관찰하면 매크로 리스크와 <span class=\"text-rose-400 font-medium\">단기 멀티플 수급 교란</span>에 흔들리지 않는 객관적 펀더멘털 판단의 해자를 가질 수 있습니다.",
-    "action_point": "단기 매크로 노이즈로 동반 폭락한 HBM 밸류체인 핵심 장비사 및 실적 성장률이 상향 조정되는 고스펙 PCB/MLCC 관련주를 분할 매수하는 적기로 활용해야 합니다."
+    "insight": "메모리 및 파운드리 대형주에만 국한하지 않고, 대만의 선행 지표 성격인 월별 매출 데이터를 관찰하면 매크로 <span class=\"text-rose-400 font-medium\">리스크</span>와 단기 멀티플 수급 교란에 흔들리지 않는 객관적 펀더멘털 판단의 해자를 가질 수 있습니다.",
+    "action_point": "단기 매크로 노이즈로 동반 폭락한 <span class=\"text-cyan-300 font-semibold\">HBM</span> 밸류체인 핵심 장비사 및 실적 성장률이 상향 <span class=\"text-rose-400 font-medium\">조정</span>되는 고스펙 PCB/MLCC 관련주를 분할 매수하는 적기로 활용해야 합니다."
   },
   "classification": {
     "primary_topic": "stock",

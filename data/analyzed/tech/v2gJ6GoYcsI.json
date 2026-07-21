@@ -22,8 +22,8 @@
     "key_companies": [
       "Meta"
     ],
-    "insight": "메타의 <span class=\"text-cyan-300 font-semibold\">구형 DDR4 CXL 재활용 기술</span>은 빅테크가 서버 인프라 감가상각 상각비 방어를 위해 얼마나 처절한 칩 엔지니어링을 가동 중인지를 보여줍니다. 이는 중장기적으로 CXL 인터페이스 표준화 및 CXL 컨트롤러 칩 수요의 정당성을 부여하는 촉매제입니다.",
-    "action_point": "단기 메모리 피크아웃 우려는 무시하고, 삼성/SK하이닉스가 참여하는 CXL 컨소시엄 표준화 진행에 맞추어 CXL 2.0용 차세대 테스터 장비 국산화 선두주의 지분을 유지합니다."
+    "insight": "메타의 구형 DDR4 CXL 재활용 기술은 빅테크가 서버 인프라 감가상각 상각비 방어를 위해 얼마나 처절한 칩 엔지니어링을 가동 중인지를 보여줍니다. 이는 중장기적으로 CXL 인터페이스 표준화 및 CXL 컨트롤러 칩 수요의 정당성을 부여하는 촉매제입니다.",
+    "action_point": "단기 메모리 피크아웃 우려는 무시하고, 삼성/<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>가 참여하는 CXL 컨소시엄 표준화 진행에 맞추어 CXL 2.0용 차세대 테스터 장비 국산화 선두주의 지분을 유지합니다."
   },
   "classification": {
     "primary_topic": "tech",

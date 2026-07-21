@@ -8,25 +8,25 @@
     "thumbnail": "https://img.youtube.com/vi/jGatwsWVQfw/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "메모리 3사의 디램 설비투자(CAPEX) 대부분이 HBM에 집중되고 있으나, 특유의 공정 비효율로 인한 양품 수율 저하가 오히려 역설적으로 국내 <span class=\"text-cyan-300 font-semibold\">HBM 소부장</span> 대표사들에 대량의 소재/장비 수주 기회(침투율 황금기)를 보장하고 있습니다.",
+    "summary": "메모리 3사의 디램 설비투자(CAPEX) 대부분이 <span class=\"text-cyan-300 font-semibold\">HBM</span>에 집중되고 있으나, 특유의 공정 비효율로 인한 양품 <span class=\"text-rose-400 font-medium\">수율 저하</span>가 오히려 역설적으로 국내 <span class=\"text-cyan-300 font-semibold\">HBM</span> 소부장 대표사들에 대량의 소재/장비 수주 기회(침투율 황금기)를 보장하고 있습니다.",
     "key_claims": [
-      "HBM은 범용 디램 대비 다이 페널티 및 공정 결함 파괴가 커서, 설비투자를 50% 이상 늘려도 비트 증가율은 제약된다.",
-      "역사적으로 신기술 침투율 10% 내외 시점에 관련 부품/장비주의 주가 팽창 강도가 가장 컸으며 현재 HBM이 해당 구간(13%)을 지난다.",
-      "서버랙 전력량 급증(10kW -> 600kW)에 따라 전력 효율과 내열성이 뛰어난 아날로그 반도체 및 고부가가치 <span class=\"text-cyan-300 font-semibold\">FC-BGA 기판</span> 수요가 동반 성장한다."
+      "<span class=\"text-cyan-300 font-semibold\">HBM</span>은 범용 디램 대비 다이 페널티 및 공정 결함 파괴가 커서, 설비투자를 50% 이상 늘려도 비트 증가율은 제약된다.",
+      "역사적으로 신기술 침투율 10% 내외 시점에 관련 부품/장비주의 주가 팽창 강도가 가장 컸으며 현재 <span class=\"text-cyan-300 font-semibold\">HBM</span>이 해당 구간(13%)을 지난다.",
+      "서버랙 전력량 급증(10kW -> 600kW)에 따라 전력 효율과 내열성이 뛰어난 아날로그 <span class=\"text-cyan-300 font-semibold\">반도체</span> 및 고부가가치 FC-BGA 기판 수요가 동반 성장한다."
     ],
     "data_points": [
       "메모리 반도체 2026년 CAPEX 증가율 전망: 전년 대비 +56% 수준",
       "서버랙 전력 용량 한계: 울트라 루빈 기준 최대 600kW (기존 대비 60배 폭증)"
     ],
     "signal": "bullish",
-    "signal_reason": "제조 수율 비효율성과 전력 폭증에 따른 기판/MLCC 하이볼티지 스펙 향상은 소부장 업계 전반의 단가(P)와 수량(Q)을 동시에 증대시키는 강력한 신호입니다.",
+    "signal_reason": "제조 <span class=\"text-rose-400 font-medium\">수율</span> 비효율성과 전력 폭증에 따른 기판/MLCC 하이볼티지 스펙 향상은 소부장 업계 전반의 단가(P)와 수량(Q)을 동시에 증대시키는 강력한 신호입니다.",
     "key_companies": [
       "삼성전기",
       "원익IPS",
       "유진테크",
       "이오테크닉스"
     ],
-    "insight": "제조사들의 '수율 깨먹기' 비효율은 소부장 납품량 증가의 해자가 되고 있으며, 침투율 10% 돌파 국면은 성장률 둔화 우려보다 실질적 매출 전환에 따른 장기 상승 모멘텀을 형성합니다.",
+    "insight": "제조사들의 '<span class=\"text-rose-400 font-medium\">수율</span> 깨먹기' 비효율은 소부장 납품량 증가의 해자가 되고 있으며, 침투율 10% 돌파 국면은 성장률 둔화 우려보다 실질적 매출 전환에 따른 장기 상승 모멘텀을 형성합니다.",
     "action_point": "그동안 소외되었던 대형 전공정 증착/열처리 장비 대표주와 서버 스펙 상향 수혜를 입는 기판 대장주(삼성전기 등)의 편입 비중을 적극 확대해야 합니다."
   },
   "classification": {

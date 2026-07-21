@@ -8,23 +8,23 @@
     "thumbnail": "https://img.youtube.com/vi/uJojWZuWnG4/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "코스피 내 반도체 비중이 보통주 기준 57%에 육박하는 환경에서 포트폴리오의 절반 이상을 반도체로 채워야만 시장 대비 중립 수준이며, 개인들의 반도체 집중 투자는 합리적 리스크 분배에 해당함. AI 랠리가 네러티브 중심의 1차 상승을 지나 실질적 <span class=\"text-cyan-300 font-semibold\">이익 가시성</span>에 기반한 2차 상승에 도달함에 따라, <span class=\"text-amber-300 font-bold\">고금리 장기화</span> 여파를 이겨낼 수 있는 이익 기반 반도체 자산의 비중 확보가 핵심임.",
+    "summary": "코스피 내 <span class=\"text-cyan-300 font-semibold\">반도체</span> 비중이 보통주 기준 57%에 육박하는 환경에서 포트폴리오의 절반 이상을 <span class=\"text-cyan-300 font-semibold\">반도체</span>로 채워야만 시장 대비 중립 수준이며, 개인들의 <span class=\"text-cyan-300 font-semibold\">반도체</span> 집중 투자는 합리적 <span class=\"text-rose-400 font-medium\">리스크</span> 분배에 해당함. AI 랠리가 네러티브 중심의 1차 상승을 지나 실질적 이익 가시성에 기반한 2차 상승에 도달함에 따라, <span class=\"text-amber-300 font-bold\">고금리 장기화</span> 여파를 이겨낼 수 있는 이익 기반 <span class=\"text-cyan-300 font-semibold\">반도체</span> 자산의 비중 확보가 핵심임.",
     "key_claims": [
-      "코스피 내 삼성전자와 하이닉스의 비중이 57%에 달해, 반도체 비중을 60% 미만으로 두면 사실상 벤치마크 대비 언더웨이트 상태임.",
+      "코스피 내 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>와 하이닉스의 비중이 57%에 달해, <span class=\"text-cyan-300 font-semibold\">반도체</span> 비중을 60% 미만으로 두면 사실상 벤치마크 대비 언더웨이트 상태임.",
       "1차 상승기(꿈과 기대감)와 달리 2차 상승기는 구체적인 영업이익과 EPS 개선이 주가를 지지하므로 변동성 대응이 용이함.",
-      "금리 우려 등 매크로 불안 상황에서 수급 리스크는 있으나, AI 수요 둔화나 펀더멘탈 훼손 우려는 극히 낮은 상태임."
+      "금리 우려 등 매크로 불안 상황에서 수급 <span class=\"text-rose-400 font-medium\">리스크</span>는 있으나, AI 수요 둔화나 펀더멘탈 훼손 우려는 극히 낮은 상태임."
     ],
     "data_points": [
       "코스피 내 반도체 합산 시가총액 비중: 약 57% 차지 (반도체 비중 60%가 코스피 지수 추종의 기본 중립 비중)"
     ],
     "signal": "bullish",
-    "signal_reason": "주식 시장의 밸류에이션 평가 기준이 Narrative에서 실질적 Earnings로 이동함에 따라, 압도적인 현금 흐름 and 이익 증가율을 나타내는 국내 반도체 대장주가 가장 안전한 투자처이기 때문임.",
+    "signal_reason": "주식 시장의 밸류에이션 평가 기준이 Narrative에서 실질적 Earnings로 이동함에 따라, 압도적인 현금 흐름 and 이익 증가율을 나타내는 국내 <span class=\"text-cyan-300 font-semibold\">반도체</span> 대장주가 가장 안전한 투자처이기 때문임.",
     "key_companies": [
       "SK하이닉스(000660)",
       "삼성전자(005930)"
     ],
-    "insight": "고금리가 장기화되는 매크로 불확실성 국면에서 투자자가 마음 편히 잠들 수 있는 포트폴리오 구축법은 확실한 실적 지표가 찍히는 반도체 비중을 극대화하는 것임.",
-    "action_point": "자산 배분 시 코스피 벤치마크 비중(57%)을 하한선으로 삼아 반도체 비중을 60% 내외로 높게 유지하고, 삼성전자와 하이닉스의 실적 차별화 요인을 면밀히 분석해 대응할 것."
+    "insight": "<span class=\"text-amber-300 font-bold\">고금리</span>가 장기화되는 매크로 불확실성 국면에서 투자자가 마음 편히 잠들 수 있는 포트폴리오 구축법은 확실한 실적 지표가 찍히는 <span class=\"text-cyan-300 font-semibold\">반도체</span> 비중을 극대화하는 것임.",
+    "action_point": "자산 배분 시 코스피 벤치마크 비중(57%)을 하한선으로 삼아 <span class=\"text-cyan-300 font-semibold\">반도체</span> 비중을 60% 내외로 높게 유지하고, <span class=\"text-cyan-300 font-semibold\">삼성전자</span>와 하이닉스의 실적 차별화 요인을 면밀히 분석해 대응할 것."
   },
   "classification": {
     "primary_topic": "stock",

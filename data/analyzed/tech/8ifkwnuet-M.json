@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/8ifkwnuet-M/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "AI 인프라 경쟁이 연산 장치(GPU, HBM) 중심에서 방대한 데이터를 저장하기 위한 <span class=\"text-cyan-300 font-semibold\">NAND 플래시 및 기업용 SSD</span> 시장으로 빠르게 확산되고 있습니다.\n2025년 웨스턴 디지털에서 독립하여 부활한 <span class=\"text-cyan-300 font-semibold\">샌디스크</span>는 최근 빅테크 고객사들과 수백억 달러 규모의 <span class=\"text-cyan-300 font-semibold\">장기 공급 계약</span>을 체결하며 AI 저장 장치의 핵심 수혜주로 떠올랐습니다.\n과거의 단기적인 메모리 공급 과잉 <span class=\"text-rose-400 font-medium\">사이클 변동성</span>에서 벗어나 빅테크의 물량 선점 경쟁으로 메모리 산업 전반의 안정적 장기 성장이 전망됩니다.",
+    "summary": "AI 인프라 경쟁이 연산 장치(GPU, <span class=\"text-cyan-300 font-semibold\">HBM</span>) 중심에서 방대한 데이터를 저장하기 위한 NAND 플래시 및 기업용 SSD 시장으로 빠르게 확산되고 있습니다.\n2025년 웨스턴 디지털에서 독립하여 부활한 샌디스크는 최근 빅테크 고객사들과 수백억 달러 규모의 장기 공급 계약을 체결하며 AI 저장 장치의 핵심 수혜주로 떠올랐습니다.\n과거의 단기적인 메모리 공급 과잉 사이클 변동성에서 벗어나 빅테크의 물량 선점 경쟁으로 메모리 산업 전반의 안정적 장기 성장이 전망됩니다.",
     "key_claims": [
-      "AI 모델 고도화로 인한 데이터 폭증은 GPU 가속기뿐만 아니라 대용량 장기 저장 장치인 <span class=\"text-cyan-300 font-semibold\">NAND 플래시 및 기업용 SSD</span>의 성장을 유도합니다.",
+      "AI 모델 고도화로 인한 데이터 폭증은 GPU 가속기뿐만 아니라 대용량 장기 저장 장치인 NAND 플래시 및 기업용 SSD의 성장을 유도합니다.",
       "샌디스크는 독립 법인 부활과 동시에 AI 데이터 저장 장치 수요 폭증의 직접 수혜를 입어 주가가 가파르게 상승함.",
-      "메모리 반도체 시장이 과거의 극단적인 공급 과잉 사이클에서 벗어나 <span class=\"text-cyan-300 font-semibold\">장기 공급 계약</span> 구조로 고착화되고 있어 하방 압력이 제한적일 수 있습니다."
+      "<span class=\"text-cyan-300 font-semibold\">메모리 반도체</span> 시장이 과거의 극단적인 공급 과잉 사이클에서 벗어나 장기 공급 계약 구조로 고착화되고 있어 하방 압력이 제한적일 수 있습니다."
     ],
     "data_points": [
       "샌디스크의 빅테크 고객사 장기 공급 계약 수: 5건 (이 중 3건의 합산 규모만 약 420억 달러)",
@@ -29,7 +29,7 @@
       "SK하이닉스"
     ],
     "insight": "샌디스크의 재도약은 AI 인프라 확장이 연산(두뇌)을 넘어 저장(기억)의 영역인 NAND 및 SSD 시장으로 확산되고 있음을 증명합니다. 장기 계약을 통해 가격 및 수급 변동성이 완화되고 있는 점은 메모리 기업들의 멀티플 리레이팅 요인입니다.",
-    "action_point": "AI 데이터 센터의 대규모 스토리지 구축 수혜를 받는 낸드 플래시 및 SSD 대장주(샌디스크, 삼성전자, SK하이닉스)의 포지션을 강화하고, 과거의 단순 사이클 우려에 따른 주가 조정을 매수 기회로 활용해야 합니다."
+    "action_point": "AI 데이터 센터의 대규모 스토리지 구축 수혜를 받는 낸드 플래시 및 SSD 대장주(샌디스크, <span class=\"text-cyan-300 font-semibold\">삼성전자</span>, <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>)의 포지션을 강화하고, 과거의 단순 사이클 우려에 따른 주가 <span class=\"text-rose-400 font-medium\">조정</span>을 매수 기회로 활용해야 합니다."
   },
   "classification": {
     "primary_topic": "tech",

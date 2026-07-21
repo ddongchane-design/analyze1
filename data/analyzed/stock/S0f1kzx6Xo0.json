@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/S0f1kzx6Xo0/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "반도체 특수가스 전문기업 <span class=\"text-cyan-300 font-semibold\">후성</span>이 중국의 대일본 <span class=\"text-violet-300 font-medium\">육불화 텅스텐(WF6) 수출 통제</span> 조치로 인해 전 세계 공급망의 10%를 담당하는 핵심 수혜주로 부상함. 반면 삼성전자와 SK하이닉스의 주가 차별화는 삼성이 <span class=\"text-rose-400 font-medium\">퀄컴 파운드리 수주 실패</span> 및 HBM4 양산 물량 확보 지연 루머에 기인함. 다만 메모리 업계의 전반적인 이익 개선은 HBM보다는 범용 D램의 <span class=\"text-amber-300 font-bold\">가격 급등(50% 이상)</span> 효과가 핵심 동력임.",
+    "summary": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 특수가스 전문기업 후성이 <span class=\"text-violet-300 font-medium\">중국</span>의 대일본 육불화 텅스텐(WF6) 수출 통제 조치로 인해 전 세계 공급망의 10%를 담당하는 핵심 수혜주로 부상함. 반면 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>와 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>의 주가 차별화는 삼성이 퀄컴 파운드리 수주 실패 및 <span class=\"text-cyan-300 font-semibold\">HBM</span>4 양산 물량 확보 지연 루머에 기인함. 다만 메모리 업계의 전반적인 이익 개선은 <span class=\"text-cyan-300 font-semibold\">HBM</span>보다는 범용 D램의 가격 급등(50% 이상) 효과가 핵심 동력임.",
     "key_claims": [
-      "중국의 대일본 특수가스(WF6) 통제 조치로 가스 가격이 1년 새 3.3배 폭등해 후성의 중국 법인 흑자 전환이 가시화됨.",
-      "삼성전자는 퀄컴 파운드리 수주를 놓치고 구글 TPU 우회 수주에 그치며 파운드리 흑자 전환 타이밍이 연기되는 우려가 제기됨.",
-      "SK하이닉스가 HBM 선도 지위와 미국 나스닥 ADR 상장(40조 원 조달)을 이끌며 반도체 섹터의 매수 수급을 선점함."
+      "<span class=\"text-violet-300 font-medium\">중국</span>의 대일본 특수가스(WF6) 통제 조치로 가스 가격이 1년 새 3.3배 폭등해 후성의 <span class=\"text-violet-300 font-medium\">중국</span> 법인 흑자 전환이 가시화됨.",
+      "<span class=\"text-cyan-300 font-semibold\">삼성전자</span>는 퀄컴 파운드리 수주를 놓치고 <span class=\"text-cyan-300 font-semibold\">구글</span> TPU 우회 수주에 그치며 파운드리 흑자 전환 타이밍이 연기되는 우려가 제기됨.",
+      "<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>가 <span class=\"text-cyan-300 font-semibold\">HBM</span> 선도 지위와 미국 나스닥 ADR 상장(40조 원 조달)을 이끌며 <span class=\"text-cyan-300 font-semibold\">반도체</span> 섹터의 매수 수급을 선점함."
     ],
     "data_points": [
       "육불화 텅스텐(WF6) 1년 전 대비 가격 상승률: 233% (3.3배)",
@@ -22,14 +22,14 @@
     ],
     "signal": "bullish",
     "signal_confidence": "medium",
-    "signal_reason": "반도체 미세공정에 필수적인 <span class=\"text-cyan-300 font-semibold\">특수가스 공급 부족</span>으로 후성의 실적 턴어라운드가 강력하게 나타나고 있으며, 메모리 반도체 범용 D램 가격 상승세가 뚜렷하기 때문임.",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 미세공정에 필수적인 특수가스 공급 부족으로 후성의 실적 턴어라운드가 강력하게 나타나고 있으며, <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span> 범용 D램 가격 상승세가 뚜렷하기 때문임.",
     "key_companies": [
       "후성(099430)",
       "삼성전자(005930)",
       "SK하이닉스(000660)"
     ],
-    "insight": "HBM 경쟁의 기술적 선도(삼성의 높은 스펙)보다 실제 물량 적기 공급(하이닉스)과 범용 D램의 가격 반등이라는 실질적인 캐시카우 흐름이 주가 차별화를 만들고 있음. 지정학적 규제(중국의 WF6 규제)에 대응한 반도체 소부장 핵심 원재료의 공급망 국산화 및 우회로 확보가 기업 실적을 가르는 변수임.",
-    "action_point": "후성은 이미 단기 목표가인 2만 원대에 도달하여 차익 실현 리스크가 존재하므로 추격 매수보다는, 파운드리 노이즈로 저평가된 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>와 캐시카우가 보장된 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>를 분할 매수하는 장기 포지션이 유효함."
+    "insight": "<span class=\"text-cyan-300 font-semibold\">HBM</span> 경쟁의 기술적 선도(삼성의 높은 스펙)보다 실제 물량 적기 공급(하이닉스)과 범용 D램의 가격 반등이라는 실질적인 캐시카우 흐름이 주가 차별화를 만들고 있음. 지정학적 규제(<span class=\"text-violet-300 font-medium\">중국</span>의 WF6 규제)에 대응한 <span class=\"text-cyan-300 font-semibold\">반도체</span> 소부장 핵심 원재료의 공급망 국산화 및 우회로 확보가 기업 실적을 가르는 변수임.",
+    "action_point": "후성은 이미 단기 목표가인 2만 원대에 도달하여 차익 실현 <span class=\"text-rose-400 font-medium\">리스크</span>가 존재하므로 추격 매수보다는, 파운드리 노이즈로 저평가된 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>와 캐시카우가 보장된 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>를 분할 매수하는 장기 포지션이 유효함."
   },
   "classification": {
     "primary_topic": "stock",

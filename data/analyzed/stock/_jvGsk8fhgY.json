@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/_jvGsk8fhgY/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "코스피가 25거래일 만에 <span class=\"text-cyan-300 font-semibold\">외국인 순매수</span>(2.7조 원) 유입으로 8,100선, 코스닥은 1,000선을 단숨에 회복하며 마감했습니다.\n반도체 장비 사이클 기대감으로 <span class=\"text-cyan-300 font-semibold\">원익IPS</span>와 <span class=\"text-cyan-300 font-semibold\">HPSP</span>가 상한가를 기록하는 등 소부장 섹터가 지수 상승을 주도했습니다.\n장 막판 블룸버그발 <span class=\"text-rose-400 font-medium\">레버리지 제한 규제</span> 뉴스와 지정학적 불확실성 우려로 상승 폭이 일부 축소되는 변동성을 보였습니다.",
+    "summary": "코스피가 25거래일 만에 외국인 순매수(2.7조 원) 유입으로 8,100선, 코스닥은 1,000선을 단숨에 회복하며 마감했습니다.\n<span class=\"text-cyan-300 font-semibold\">반도체</span> 장비 사이클 기대감으로 원익IPS와 HPSP가 상한가를 기록하는 등 소부장 섹터가 지수 상승을 주도했습니다.\n장 막판 블룸버그발 레버리지 제한 규제 뉴스와 지정학적 불확실성 우려로 상승 폭이 일부 축소되는 변동성을 보였습니다.",
     "key_claims": [
-      "반도체 장비 증설 사이클 진입에 따라 소부장 장비주들의 실적 전망 상향이 기대되어 목표주가 대비 5~10%의 추가 상승 여력이 존재한다.",
+      "<span class=\"text-cyan-300 font-semibold\">반도체</span> 장비 증설 사이클 진입에 따라 소부장 장비주들의 실적 전망 상향이 기대되어 목표주가 대비 5~10%의 추가 상승 여력이 존재한다.",
       "글로벌 IB들의 레버리지 제약 뉴스와 주말 지정학적 불확실성으로 인해 장 후반 차익실현 매물이 출회되며 지수가 밀렸다.",
-      "시장이 단기 급등할 때 생기는 포모(FOMO)성 뇌동매매를 지양하고, 현금 비중을 남겨둔 분할 매수 전략으로 <span class=\"text-rose-400 font-medium\">변동성 리스크</span>에 대응해야 한다."
+      "시장이 단기 급등할 때 생기는 포모(FOMO)성 뇌동매매를 지양하고, 현금 비중을 남겨둔 분할 매수 전략으로 변동성 <span class=\"text-rose-400 font-medium\">리스크</span>에 대응해야 한다."
     ],
     "data_points": [
       "코스피 4.6% 상승 마감 (8,123.8포인트, 장중 최고 8,434포인트)",
@@ -21,7 +21,7 @@
       "원익IPS, HPSP 상한가 (30% 상승), 한미반도체 24% 상승, 현대건설 28% 상승"
     ],
     "signal": "bullish",
-    "signal_reason": "25거래일 만에 대규모 <span class=\"text-cyan-300 font-semibold\">외국인 순매수</span>가 유입되었으며, 반도체 증설 사이클 기대감으로 주요 소부장 기업들이 급등하여 시장 분위기가 개선되었습니다.",
+    "signal_reason": "25거래일 만에 대규모 외국인 순매수가 유입되었으며, <span class=\"text-cyan-300 font-semibold\">반도체</span> 증설 사이클 기대감으로 주요 소부장 기업들이 급등하여 시장 분위기가 개선되었습니다.",
     "key_companies": [
       "삼성전자(005930)",
       "SK하이닉스(000660)",
@@ -30,8 +30,8 @@
       "한미반도체(042700)",
       "현대건설(000720)"
     ],
-    "insight": "이번 급등은 단순 기술적 반등을 넘어 25일 동안 이어지던 외국인의 하락 베팅이 거두어지고 국내 반도체 전공정 증설 사이클의 수혜가 가시화된 결과입니다. 다만, 글로벌 IB의 <span class=\"text-rose-400 font-medium\">신용/레버리지 제한</span> 조치와 지정학적 긴장이 상단을 일시적으로 누르는 변동성을 만들 수 있어 단기 추격매수보다는 조정 시 길목 지키기가 유효합니다.",
-    "action_point": "반도체 장비 증설 사이클의 실제 수혜 여부와 글로벌 규제 강도를 확인하며, 소부장 대장주 위주로 조정 시 매수 기회를 포착하되 포모(FOMO)를 경계한 분할 매수로 접근해야 합니다."
+    "insight": "이번 급등은 단순 기술적 반등을 넘어 25일 동안 이어지던 외국인의 하락 베팅이 거두어지고 국내 <span class=\"text-cyan-300 font-semibold\">반도체</span> 전공정 증설 사이클의 수혜가 가시화된 결과입니다. 다만, 글로벌 IB의 신용/레버리지 제한 조치와 지정학적 긴장이 상단을 일시적으로 누르는 변동성을 만들 수 있어 단기 추격매수보다는 <span class=\"text-rose-400 font-medium\">조정</span> 시 길목 지키기가 유효합니다.",
+    "action_point": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 장비 증설 사이클의 실제 수혜 여부와 글로벌 규제 강도를 확인하며, 소부장 대장주 위주로 <span class=\"text-rose-400 font-medium\">조정</span> 시 매수 기회를 포착하되 포모(FOMO)를 경계한 분할 매수로 접근해야 합니다."
   },
   "classification": {
     "primary_topic": "stock",

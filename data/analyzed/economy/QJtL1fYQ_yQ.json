@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/QJtL1fYQ_yQ/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "트럼프 대통령이 이란과의 최종 합의를 공식화하며 <span class=\"text-violet-300 font-medium\">호르무즈 해협의 전면 개방</span>과 해군 봉쇄 즉각 철수를 승인했다. 이란 역시 오늘 밤부터 전선에서의 연구적 군사 작전 종료를 발표하며 공식적인 종전을 선언했다. 이에 선물 시장에서 국제 유가는 배럴당 80달러 초반으로 급락했고, 증시는 테크주와 중소형주 위주로 강력한 반등 모멘텀을 형성하고 있다.",
+    "summary": "트럼프 대통령이 <span class=\"text-violet-300 font-medium\">이란</span>과의 최종 합의를 공식화하며 <span class=\"text-violet-300 font-medium\">호르무즈 해협</span>의 전면 개방과 해군 봉쇄 즉각 철수를 승인했다. <span class=\"text-violet-300 font-medium\">이란</span> 역시 오늘 밤부터 전선에서의 연구적 군사 작전 종료를 발표하며 공식적인 종전을 선언했다. 이에 선물 시장에서 국제 <span class=\"text-amber-300 font-bold\">유가</span>는 배럴당 80달러 초반으로 <span class=\"text-rose-400 font-medium\">급락</span>했고, 증시는 테크주와 중소형주 위주로 강력한 반등 모멘텀을 형성하고 있다.",
     "key_claims": [
-      "미국과 이란이 동시에 사실상 승리 선언을 하며 60일간의 최종 협상 양해 각서 문안 공개가 임박했다.",
-      "유가 하락(80달러대 진입)으로 물가 압력이 완화되어 <span class=\"text-cyan-300 font-semibold\">러셀 2000 중소형 지수</span> 및 테크 지수가 1.5% 이상 상승 랠리를 펼치고 있다.",
+      "미국과 <span class=\"text-violet-300 font-medium\">이란</span>이 동시에 사실상 승리 선언을 하며 60일간의 최종 협상 양해 각서 문안 공개가 임박했다.",
+      "<span class=\"text-amber-300 font-bold\">유가</span> 하락(80달러대 진입)으로 물가 압력이 완화되어 러셀 2000 중소형 지수 및 테크 지수가 1.5% 이상 상승 랠리를 펼치고 있다.",
       "다만 제네바 본협정 서명식(19일) 이전까지 이스라엘의 산발적 도발이나 돌발 공습은 최종 조율의 변수가 될 수 있다."
     ],
     "data_points": [
@@ -20,13 +20,13 @@
       "양국 최종 본합의 서명 예정일 6월 19일 지정"
     ],
     "signal": "bullish",
-    "signal_reason": "최악의 중동 전면전 우려가 종식되면서 유가 폭락과 환율 안정, 그리고 그간 눌려 있던 IT 성장주와 중소형주로의 강력한 수급 확산이 기대된다.",
+    "signal_reason": "최악의 <span class=\"text-violet-300 font-medium\">중동</span> 전면전 우려가 종식되면서 <span class=\"text-amber-300 font-bold\">유가</span> 폭락과 <span class=\"text-amber-300 font-bold\">환율</span> 안정, 그리고 그간 눌려 있던 IT 성장주와 중소형주로의 강력한 수급 확산이 기대된다.",
     "key_companies": [
       "Tesla",
       "NVIDIA"
     ],
-    "insight": "매크로 환경에서 유가 안정은 금리 인하 경로를 단축하는 효과를 내며, 이는 소외되었던 중소형 혁신주들에 강한 성장 활력을 줄 것이다.",
-    "action_point": "단기 고유가 테마주(정유, 해운)에서 즉각 엑시트하고, 유가 완화 국면에서 금리 수혜가 클 <span class=\"text-cyan-300 font-semibold\">중소형 테크주 및 하드웨어 가치주</span>로 자금을 신속히 재배치하라."
+    "insight": "매크로 환경에서 <span class=\"text-amber-300 font-bold\">유가</span> 안정은 <span class=\"text-amber-300 font-bold\">금리 인하</span> 경로를 단축하는 효과를 내며, 이는 소외되었던 중소형 혁신주들에 강한 성장 활력을 줄 것이다.",
+    "action_point": "단기 고<span class=\"text-amber-300 font-bold\">유가</span> 테마주(정유, 해운)에서 즉각 엑시트하고, <span class=\"text-amber-300 font-bold\">유가</span> 완화 국면에서 금리 수혜가 클 중소형 테크주 및 하드웨어 가치주로 자금을 신속히 재배치하라."
   },
   "classification": {
     "primary_topic": "economy",

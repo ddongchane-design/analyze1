@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/6s1J-_t_65k/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "마이크로스트레티지의 매도 논란과 6월 비트코인 17% 급락 장세 속에서, 온체인 바닥 지표인 <span class=\"text-cyan-300 font-semibold\">MVRV Z-score(1.1 수준)</span>와 <span class=\"text-cyan-300 font-semibold\">이더리움 업비트 입금 평균가</span>를 토대로 매수 최적화 진입 타점을 분석합니다. 단기적으로 가상자산 시장을 지탱한 미-이란 간의 <span class=\"text-violet-300 font-medium\">지정학적 휴전 타결 가능성</span>과 이에 따른 국제 유가 하락 안정 효과를 진단합니다. 차주 예정된 미국 FOMC의 점도표 리스크 및 엔화 숏 포지션 청산(<span class=\"text-rose-400 font-medium\">엔캐리 언와인딩</span>) 가능성을 다각도로 평가합니다.",
+    "summary": "마이크로스트레티지의 매도 논란과 6월 비트코인 17% <span class=\"text-rose-400 font-medium\">급락</span> 장세 속에서, 온체인 바닥 지표인 MVRV Z-score(1.1 수준)와 이더리움 업비트 입금 평균가를 토대로 매수 최적화 진입 타점을 분석합니다. 단기적으로 가상자산 시장을 지탱한 미-<span class=\"text-violet-300 font-medium\">이란</span> 간의 지정학적 휴전 타결 가능성과 이에 따른 국제 <span class=\"text-amber-300 font-bold\">유가</span> 하락 안정 효과를 진단합니다. 차주 예정된 미국 FOMC의 점도표 <span class=\"text-rose-400 font-medium\">리스크</span> 및 엔화 숏 포지션 <span class=\"text-rose-400 font-medium\">청산</span>(엔캐리 언와인딩) 가능성을 다각도로 평가합니다.",
     "key_claims": [
-      "비트코인은 MVRV Z-score가 전통적인 저평가 임계점인 <span class=\"text-amber-300 font-bold\">1.0 이하로 하락</span>하는 순간이 장기 분할 매수를 개시할 확실한 바닥 신호가 된다.",
-      "미국-이란 간의 동결자금 해제를 둘러싼 공화당(JD 밴스 등)의 강력한 예산 반발과 이스라엘의 헤즈볼라 공습 리스크로 인해 <span class=\"text-rose-400 font-medium\">휴전 협상이 무산될 확률</span>이 여전히 상존한다.",
-      "일본 BOJ의 화요일 금리 회의에서 매파적 인상 톤이 강해질 경우, 역대 최대급으로 누적된 <span class=\"text-rose-400 font-medium\">엔화 쇼 포지션의 강제 청산</span>으로 금융시장 전반의 신용 위기가 발생할 수 있다."
+      "비트코인은 MVRV Z-score가 전통적인 저평가 임계점인 1.0 이하로 하락하는 순간이 장기 분할 매수를 개시할 확실한 바닥 신호가 된다.",
+      "미국-<span class=\"text-violet-300 font-medium\">이란</span> 간의 동결자금 해제를 둘러싼 공화당(JD 밴스 등)의 강력한 예산 반발과 이스라엘의 헤즈볼라 공습 <span class=\"text-rose-400 font-medium\">리스크</span>로 인해 휴전 협상이 무산될 확률이 여전히 상존한다.",
+      "일본 BOJ의 화요일 금리 회의에서 매파적 인상 톤이 강해질 경우, 역대 최대급으로 누적된 엔화 쇼 포지션의 강제 <span class=\"text-rose-400 font-medium\">청산</span>으로 금융시장 전반의 신용 위기가 발생할 수 있다."
     ],
     "data_points": [
       "6월 이후 비트코인 가격 하락 폭 약 17%",
@@ -20,16 +20,26 @@
       "이더리움 업비트 입금 평균가 대비 가격 격차 -3%"
     ],
     "signal": "neutral",
-    "signal_reason": "가격 밸류에이션 매력은 바닥권에 근접하여 매수 매력이 있으나, 미-이란 협상 무산 리스크, FOMC 점도표, BOJ 회의 결과 등 매크로 시한폭탄들이 연속 대기하고 있어 단기 방향성은 불투명합니다.",
+    "signal_reason": "가격 밸류에이션 매력은 바닥권에 근접하여 매수 매력이 있으나, 미-<span class=\"text-violet-300 font-medium\">이란</span> 협상 무산 <span class=\"text-rose-400 font-medium\">리스크</span>, FOMC 점도표, BOJ 회의 결과 등 매크로 시한폭탄들이 연속 대기하고 있어 단기 방향성은 불투명합니다.",
     "key_companies": [
       "MicroStrategy"
     ],
-    "insight": "가상자산 시장은 표면적으로 지표상 과매도 구간에 들어와 있으나, 유동성의 근간을 흔드는 <span class=\"text-rose-400 font-medium\">엔캐리 캐리트레이드 청산 리스크</span>와 미국 연준의 고금리 장기화 우려가 여전히 상단을 제한하고 있습니다. 지정학적 이벤트(휴전) 성공 시 일시적인 65K~66K 단기 랠리가 예상되지만, 이는 유동성의 완벽한 턴어라운드가 아니며 수급적 변수들이 얽혀 있어 신중한 진입이 요구됩니다.",
-    "action_point": "비트코인은 매크로 충격으로 인해 MVRV Z-score 지표가 1.0 미만으로 눌릴 때까지 관망을 유지하며, 이더리움은 <span class=\"text-cyan-300 font-semibold\">업비트 입금 평균가 대비 10% 내외로 추가 하락</span>하거나 횡보 안정기가 최소 수주간 지속되는 것을 확인하고 본격적인 분할 매수에 임하는 것이 안전합니다."
+    "insight": "가상자산 시장은 표면적으로 지표상 과매도 구간에 들어와 있으나, 유동성의 근간을 흔드는 엔캐리 캐리트레이드 <span class=\"text-rose-400 font-medium\">청산</span> <span class=\"text-rose-400 font-medium\">리스크</span>와 미국 연준의 <span class=\"text-amber-300 font-bold\">고금리 장기화</span> 우려가 여전히 상단을 제한하고 있습니다. 지정학적 이벤트(휴전) 성공 시 일시적인 65K~66K 단기 랠리가 예상되지만, 이는 유동성의 완벽한 턴어라운드가 아니며 수급적 변수들이 얽혀 있어 신중한 진입이 요구됩니다.",
+    "action_point": "비트코인은 매크로 충격으로 인해 MVRV Z-score 지표가 1.0 미만으로 눌릴 때까지 관망을 유지하며, 이더리움은 업비트 입금 평균가 대비 10% 내외로 추가 하락하거나 횡보 안정기가 최소 수주간 지속되는 것을 확인하고 본격적인 분할 매수에 임하는 것이 안전합니다."
   },
   "classification": {
     "primary_topic": "crypto",
-    "secondary_topics": ["economy", "stock"],
-    "tags": ["비트코인바닥", "MVRVZscore", "이더리움입금평균가", "BOJ금리인상", "엔캐리트레이드", "미이란휴전"]
+    "secondary_topics": [
+      "economy",
+      "stock"
+    ],
+    "tags": [
+      "비트코인바닥",
+      "MVRVZscore",
+      "이더리움입금평균가",
+      "BOJ금리인상",
+      "엔캐리트레이드",
+      "미이란휴전"
+    ]
   }
 }

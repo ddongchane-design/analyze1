@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/f9JQgPZgb2w/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "구글의 AI 영상 제작 플랫폼 <span class=\"text-cyan-300 font-semibold\">Google Flow</span>가 새로운 멀티모달 모델인 <span class=\"text-cyan-300 font-semibold\">Gemini Omni Flash</span> 탑재로 역대급 업데이트를 단행했습니다.\n단순 영상 생성을 넘어 영상 내 특정 부분만 정밀하게 수정하는 부분 편집 기능, 제작 전 과정을 함께하는 <span class=\"text-cyan-300 font-semibold\">Flow Agent</span>, 그리고 자연어로 직접 도구를 개발하는 <span class=\"text-cyan-300 font-semibold\">Vibe Coding</span> 플랫폼으로서의 진화가 핵심입니다.\n전문 영상 편집 장벽이 대폭 허물어지면서 크리에이터의 가치가 기획력 위주로 재편되는 동시에, AI 구동을 위한 인프라와 전력 수요도 폭발적으로 성장할 것입니다.",
+    "summary": "<span class=\"text-cyan-300 font-semibold\">구글</span>의 AI 영상 제작 플랫폼 Google Flow가 새로운 멀티모달 모델인 Gemini Omni Flash 탑재로 역대급 업데이트를 단행했습니다.\n단순 영상 생성을 넘어 영상 내 특정 부분만 정밀하게 수정하는 부분 편집 기능, 제작 전 과정을 함께하는 Flow Agent, 그리고 자연어로 직접 도구를 개발하는 Vibe Coding 플랫폼으로서의 진화가 핵심입니다.\n전문 영상 편집 장벽이 대폭 허물어지면서 크리에이터의 가치가 기획력 위주로 재편되는 동시에, AI 구동을 위한 인프라와 전력 수요도 폭발적으로 성장할 것입니다.",
     "key_claims": [
-      "단순 영상 생성(자판기 방식)에서 벗어나, 피드백을 주고받으며 원하는 형태로 깎아 나가는 <span class=\"text-amber-300 font-bold\">협업 제작 플랫폼</span>으로의 진화이다.",
-      "전문가들의 벽이 허물어지고 전문성의 문턱이 낮아짐에 따라, 무엇을 만들지 결정하는 <span class=\"text-amber-300 font-bold\">기획자의 가치</span>가 훨씬 높아질 것이다.",
-      "생성형 콘텐츠의 폭발로 인해 토큰 연산량과 컴퓨팅, <span class=\"text-rose-400 font-medium\">전력 수요</span>가 급증하여 하드웨어 효율성 확보가 핵심 과제가 될 것이다."
+      "단순 영상 생성(자판기 방식)에서 벗어나, 피드백을 주고받으며 원하는 형태로 깎아 나가는 협업 제작 플랫폼으로의 진화이다.",
+      "전문가들의 벽이 허물어지고 전문성의 문턱이 낮아짐에 따라, 무엇을 만들지 결정하는 기획자의 가치가 훨씬 높아질 것이다.",
+      "생성형 콘텐츠의 폭발로 인해 토큰 연산량과 컴퓨팅, 전력 수요가 급증하여 하드웨어 효율성 확보가 핵심 과제가 될 것이다."
     ],
     "data_points": [
       "구글의 월간 토큰 처리량은 2년 전 9.7조 개에서 작년 480조 개, 올해 3,200조 개 수준까지 급증했습니다.",
@@ -20,12 +20,12 @@
     ],
     "signal": "bullish",
     "signal_confidence": "high",
-    "signal_reason": "구글이 단순 생성형 AI 모델 경쟁을 넘어 영상 제작과 코딩 양대 축에서 사용자 맞춤형 도구를 자동 생성하는 <span class=\"text-cyan-300 font-semibold\">플랫폼 생태계</span>를 선점하고 있으며, 자체 <span class=\"text-cyan-300 font-semibold\">TPU</span> 칩 인프라 경쟁력도 실적으로 입증하고 있기 때문입니다.",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">구글</span>이 단순 생성형 AI 모델 경쟁을 넘어 영상 제작과 코딩 양대 축에서 사용자 맞춤형 도구를 자동 생성하는 플랫폼 생태계를 선점하고 있으며, 자체 TPU 칩 인프라 경쟁력도 실적으로 입증하고 있기 때문입니다.",
     "key_companies": [
       "Google(GOOGL)"
     ],
-    "insight": "구글의 이번 업데이트는 AI가 단순 결과물 출력을 넘어, 사용자가 자연어 지시만으로 커스텀 개발 도구를 구축하는 <span class=\"text-cyan-300 font-semibold\">Vibe Coding</span> 플랫폼으로의 패러다임 전환을 상징합니다. 이는 테크 기업의 핵심 경쟁력이 단순 AI 모델 성능보다 개발 환경을 장악하는 <span class=\"text-amber-300 font-bold\">플랫폼 생태계 구축</span>에 있음을 시사합니다.",
-    "action_point": "구글의 클라우드 플랫폼 지배력 강화와 자체 반도체 칩 개발 가속화에 맞춰 <span class=\"text-cyan-300 font-semibold\">Google(GOOGL)</span>에 대한 장기 투자가 유효하며, AI 연산 폭증으로 인한 <span class=\"text-rose-400 font-medium\">전력 및 인프라 수혜주</span>에 주목할 필요가 있습니다."
+    "insight": "<span class=\"text-cyan-300 font-semibold\">구글</span>의 이번 업데이트는 AI가 단순 결과물 출력을 넘어, 사용자가 자연어 지시만으로 커스텀 개발 도구를 구축하는 Vibe Coding 플랫폼으로의 패러다임 전환을 상징합니다. 이는 테크 기업의 핵심 경쟁력이 단순 AI 모델 성능보다 개발 환경을 장악하는 플랫폼 생태계 구축에 있음을 시사합니다.",
+    "action_point": "<span class=\"text-cyan-300 font-semibold\">구글</span>의 클라우드 플랫폼 지배력 강화와 자체 <span class=\"text-cyan-300 font-semibold\">반도체</span> 칩 개발 가속화에 맞춰 Google(GOOGL)에 대한 장기 투자가 유효하며, AI 연산 폭증으로 인한 전력 및 인프라 수혜주에 주목할 필요가 있습니다."
   },
   "classification": {
     "primary_topic": "tech",

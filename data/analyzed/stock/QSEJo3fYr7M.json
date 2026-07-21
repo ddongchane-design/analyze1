@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/QSEJo3fYr7M/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "코스피가 장중 9,380선을 돌파한 후 JD 벤스 부통령의 스위스행 취소 및 <span class=\"text-rose-400 font-medium\">호르무즈 협상 지연 우려</span>와 FTSE 리밸런싱이 겹치며 급변동성을 보였습니다.\n<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>는 장중 280만 원을 돌파하며 사상 최고가를 경신했고, 인텔이 이석희 전 사장을 영입함에 따라 양사 간 후공정 협력 기대감이 커지고 있습니다.\n한편, <span class=\"text-cyan-300 font-semibold\">삼성SDI</span>가 전고체 배터리 기대감과 양매수 유입으로 6%대 급등하며 이차전지 섹터의 반등 대장주로 부상했습니다.",
+    "summary": "코스피가 장중 9,380선을 돌파한 후 JD 벤스 부통령의 스위스행 취소 및 <span class=\"text-violet-300 font-medium\">호르무즈</span> 협상 지연 우려와 FTSE 리밸런싱이 겹치며 급변동성을 보였습니다.\n<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>는 장중 280만 원을 돌파하며 사상 최고가를 경신했고, <span class=\"text-cyan-300 font-semibold\">인텔</span>이 이석희 전 사장을 영입함에 따라 양사 간 후공정 협력 기대감이 커지고 있습니다.\n한편, 삼성SDI가 전고체 배터리 기대감과 양매수 유입으로 6%대 급등하며 이차전지 섹터의 반등 대장주로 부상했습니다.",
     "key_claims": [
-      "이스라엘의 레바논 공격 지속으로 이란 협상단이 불참하며 <span class=\"text-rose-400 font-medium\">지정학적 리스크</span>가 다시 불거졌고, 이는 아시아 증시의 단기 차익 실현 빌미가 되었습니다.",
-      "반기 말 연기금 및 글로벌 지수 <span class=\"text-rose-400 font-medium\">리밸런싱 물량</span>(동시호가 외국인 1조 원 매도 등)이 주가 변동성을 극대화하고 있습니다.",
-      "인텔의 이석희 영입은 후공정 패키징 강화를 위한 포석이며, 이는 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>와의 협력 관계를 강화하는 반면 삼성전자에는 다소 부담스러운 요인입니다."
+      "이스라엘의 레바논 공격 지속으로 <span class=\"text-violet-300 font-medium\">이란</span> 협상단이 불참하며 지정학적 <span class=\"text-rose-400 font-medium\">리스크</span>가 다시 불거졌고, 이는 아시아 증시의 단기 차익 실현 빌미가 되었습니다.",
+      "반기 말 연기금 및 글로벌 지수 리밸런싱 물량(동시호가 외국인 1조 원 매도 등)이 주가 변동성을 극대화하고 있습니다.",
+      "<span class=\"text-cyan-300 font-semibold\">인텔</span>의 이석희 영입은 후공정 패키징 강화를 위한 포석이며, 이는 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>와의 협력 관계를 강화하는 반면 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>에는 다소 부담스러운 요인입니다."
     ],
     "data_points": [
       "38조원",
@@ -43,7 +43,7 @@
     ],
     "signal": "neutral",
     "signal_confidence": "medium",
-    "signal_reason": "반도체 업종의 강력한 실적 전망에도 불구하고, 반기 말 <span class=\"text-rose-400 font-medium\">수급 리밸런싱 변동성</span>과 호르무즈 협상 지연이라는 단기 매크로 불확실성이 상존합니다.",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 업종의 강력한 실적 전망에도 불구하고, 반기 말 수급 리밸런싱 변동성과 <span class=\"text-violet-300 font-medium\">호르무즈</span> 협상 지연이라는 단기 매크로 불확실성이 상존합니다.",
     "key_companies": [
       "SK Hynix(000660)",
       "Samsung Electronics(005930)",
@@ -52,8 +52,8 @@
       "Intel(INTC)",
       "SoftBank"
     ],
-    "insight": "반도체 슈퍼사이클의 지속성 신뢰 속에서 주가가 <span class=\"text-amber-300 font-bold\">오버슈팅</span> 구간에 진입함에 따라, 미세한 매크로 잡음에도 민감하게 반응하는 단기 과열 양상을 띠고 있으며, 인텔의 후공정(패키징) 인재 영입은 종합 반도체 기업(IDM) 간의 <span class=\"text-cyan-300 font-semibold\">첨단 패키징 동맹</span> 재편을 가속화하고 있습니다.",
-    "action_point": "투자자는 6월 말까지 진행되는 글로벌 펀드 및 연기금의 <span class=\"text-rose-400 font-medium\">비중 조절(리밸런싱)</span> 변동성을 매수 기회로 활용하되, SK하이닉스는 안전 마진 기준선(280만 원 부근)을 감안한 분할 매수 전략이 유효하며, 이차전지는 <span class=\"text-cyan-300 font-semibold\">삼성SDI</span> 중심의 제한적 접근이 권장됩니다."
+    "insight": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 슈퍼사이클의 지속성 신뢰 속에서 주가가 오버슈팅 구간에 진입함에 따라, 미세한 매크로 잡음에도 민감하게 반응하는 단기 <span class=\"text-rose-400 font-medium\">과열</span> 양상을 띠고 있으며, <span class=\"text-cyan-300 font-semibold\">인텔</span>의 후공정(패키징) 인재 영입은 종합 <span class=\"text-cyan-300 font-semibold\">반도체</span> 기업(IDM) 간의 첨단 패키징 동맹 재편을 가속화하고 있습니다.",
+    "action_point": "투자자는 6월 말까지 진행되는 글로벌 펀드 및 연기금의 비중 조절(리밸런싱) 변동성을 매수 기회로 활용하되, <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>는 안전 마진 기준선(280만 원 부근)을 감안한 분할 매수 전략이 유효하며, 이차전지는 삼성SDI 중심의 제한적 접근이 권장됩니다."
   },
   "classification": {
     "primary_topic": "stock",

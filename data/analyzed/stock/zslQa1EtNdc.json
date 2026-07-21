@@ -8,18 +8,18 @@
     "thumbnail": "https://img.youtube.com/vi/zslQa1EtNdc/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "뉴욕 지수 선물은 중동 호르무즈 해협의 대치 격화(유가 급등)와 연준의 추가 긴축 경계감 속에 하락세를 보였습니다. SK하이닉스 ADR이 본주 폭락을 반영해 프리마켓에서 8% 이상 밀리고 마이크론과 샌디스크도 동반 약세를 기록했습니다. 반면, 제프 베이조스가 투자한 핵융합 스타트업 '제너럴 퓨전'이 역사상 최초로 스팩 상장에 성공해 프리마켓에서 40% 폭폭등했으며, 애플이 오픈AI를 기술 및 영업 비밀 유출 혐의로 고소하는 AI 지적재산권(IP) 전쟁의 서막이 열렸습니다.",
+    "summary": "뉴욕 지수 선물은 <span class=\"text-violet-300 font-medium\">중동</span> <span class=\"text-violet-300 font-medium\">호르무즈 해협</span>의 대치 격화(<span class=\"text-amber-300 font-bold\">유가</span> 급등)와 연준의 추가 긴축 경계감 속에 하락세를 보였습니다. <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> ADR이 본주 폭락을 반영해 프리마켓에서 8% 이상 밀리고 마이크론과 샌디스크도 동반 약세를 기록했습니다. 반면, 제프 베이조스가 투자한 핵융합 스타트업 '제너럴 퓨전'이 역사상 최초로 스팩 상장에 성공해 프리마켓에서 40% 폭폭등했으며, 애플이 오픈AI를 기술 및 영업 비밀 <span class=\"text-rose-400 font-medium\">유출</span> 혐의로 고소하는 AI 지적재산권(IP) 전쟁의 서막이 열렸습니다.",
     "key_claims": [
-      "트럼프의 호르무즈 20% 통행세 선언과 이란의 봉쇄 주장이 겹쳐 WTI가 73달러선을 넘어서며 거시 물가 긴장감을 자극했습니다.",
+      "트럼프의 <span class=\"text-violet-300 font-medium\">호르무즈</span> 20% 통행세 선언과 <span class=\"text-violet-300 font-medium\">이란</span>의 봉쇄 주장이 겹쳐 WTI가 73달러선을 넘어서며 거시 물가 긴장감을 자극했습니다.",
       "아마존 베이조스가 후원하는 핵융합 에너지 기업 제너럴 퓨전이 최초 상장하여 폭등세를 보였는데, 이는 AI 데이터센터 가동을 위한 거대 전력 인프라 대안 기대감 때문입니다.",
-      "애플이 파트너십 이면에서 오픈AI를 상대로 기술 유출 및 영업 비밀 침해 고소를 제기하면서, 빅테크 간 AI 특허권 및 기술 주권 갈등이 법정 공방으로 격화되었습니다."
+      "애플이 파트너십 이면에서 오픈AI를 상대로 기술 <span class=\"text-rose-400 font-medium\">유출</span> 및 영업 비밀 침해 고소를 제기하면서, 빅테크 간 AI 특허권 및 기술 주권 갈등이 법정 공방으로 격화되었습니다."
     ],
     "data_points": [
       "제너럴 퓨전(General Fusion) 프리마켓 주가 등락률: 상장 첫날 약 40% 폭등 기록",
       "WTI 유가 상승률: 전장 대비 3.5% 수준 상승 (배럴당 73.8달러 돌파)"
     ],
     "signal": "bearish",
-    "signal_reason": "반도체 공급망 가격 논란 속에 중동 지정학 위기(유가 상승)가 인플레이션 압력을 키우고, 애플과 오픈AI 간의 법적 소송이 AI 연합군 내부 균열을 예고해 기술주 투자 심리를 단기적으로 위축시키기 때문입니다.",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 공급망 가격 논란 속에 <span class=\"text-violet-300 font-medium\">중동</span> 지정학 위기(<span class=\"text-amber-300 font-bold\">유가 상승</span>)가 <span class=\"text-amber-300 font-bold\">인플레이션</span> 압력을 키우고, 애플과 오픈AI 간의 법적 소송이 AI 연합군 내부 균열을 예고해 기술주 투자 심리를 단기적으로 위축시키기 때문입니다.",
     "key_companies": [
       "애플(AAPL)",
       "오픈AI",
@@ -27,7 +27,7 @@
       "SK하이닉스(000660)"
     ],
     "insight": "AI 패권 경쟁이 하드웨어(GPU) 공급망 구축 단계를 넘어 에너지(핵융합 발전소 상장)와 IP 전쟁(애플의 오픈AI 고소)의 신대륙으로 전선을 확장하고 있습니다. 애플의 고소는 AI 지식재산권을 자사 생태계 안에 내재화하고 독점하려는 빅테크 간 합종연횡 붕괴의 신호탄일 수 있습니다.",
-    "action_point": "지정학 리스크 및 법적 리스크로 인한 기술주의 단기 변동성을 감안해 현금 비중을 방어적으로 유지하고, AI 전력 공급 대안으로 주목받는 원자력/핵융합 및 송배전 인프라 섹터로의 분산 투자를 추천합니다."
+    "action_point": "지정학 <span class=\"text-rose-400 font-medium\">리스크</span> 및 법적 <span class=\"text-rose-400 font-medium\">리스크</span>로 인한 기술주의 단기 변동성을 감안해 현금 비중을 방어적으로 유지하고, AI 전력 공급 대안으로 주목받는 원자력/핵융합 및 송배전 인프라 섹터로의 분산 투자를 추천합니다."
   },
   "classification": {
     "primary_topic": "stock",

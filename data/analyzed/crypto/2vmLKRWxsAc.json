@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "2vmLKRWxsAc",
+    "title": "'매크로 흔들려도 버티는 비트코인' 떠날 사람은 다 떠났다? 매도 압력 소진 | 서동주, 김동환, 박상혁 디지털애셋 편집장 [크립토 PLUS]",
+    "published": "2026-07-20T03:26:29+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=2vmLKRWxsAc",
+    "thumbnail": "https://img.youtube.com/vi/2vmLKRWxsAc/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "가상자산 시장은 매크로 악재와 기술주 <span class=\"text-rose-400 font-medium\">조정</span> 속에서도 비트코인이 64,000달러선을 견조하게 수호했습니다. 이는 6월 대규모 순<span class=\"text-rose-400 font-medium\">유출</span>을 보였던 미국 현물 ETF가 2주 연속 순유입으로 턴어라운드했고, 온체인 상 장기 보유자(155일 이상 보유) 비중이 역사적 최고치를 기록하며 매도 압력이 소진되었기 때문입니다. 다만 암호화폐 규제안인 '클래리티 법안'은 민주당의 하원 청문회 불참 등 초당적 합의 지연으로 연내 통과 가능성이 하락했습니다.",
+    "key_claims": [
+      "비트코인은 독일 정부 매물 출회 및 마운트곡스 <span class=\"text-rose-400 font-medium\">청산</span> 압력을 흡수하며 64,000달러선을 회복, 매도 세력의 힘이 약화된 '바닥 다지기' 수급 구조에 진입했다.",
+      "아크 인베스트 분석 결과 2분기 가격 하락에도 불구하고 장기 투자자(Long-term Holder)의 보유량이 사상 최대치를 경신하며 강한 하방 지지력을 증명하고 있다.",
+      "미국의 가상자산 규제 표준안인 '클래리티 법안'은 트럼프의 윤리 조항 대립 등으로 양당 간 물밑 협상이 지연되며 폴리마켓의 통과 예측 확률이 30%대까지 <span class=\"text-rose-400 font-medium\">급락</span>했다."
+    ],
+    "data_points": [
+      "장기 보유자 정의: 비트코인을 155일 이상 매도 없이 보유한 주체",
+      "클래리티 법안 통과 확률: 6월 고점 대비 하락하여 주말 중 폴리마켓 예측치 최저 35% 기록 (현재 39% 수준)"
+    ],
+    "signal": "neutral",
+    "signal_reason": "장기 보유자 축적 및 ETF 유입 턴어라운드라는 긍정적 수급 요인과 클래리티 법안의 입법 지연 및 <span class=\"text-violet-300 font-medium\">중동</span>발 매크로(<span class=\"text-amber-300 font-bold\">유가 상승</span>) <span class=\"text-rose-400 font-medium\">리스크</span>가 팽팽하게 충돌하여 단기 박스권 횡보 가능성이 높기 때문입니다.",
+    "key_companies": [
+      "마이크로스트레티지(MSTR)"
+    ],
+    "insight": "비트코인은 주식 시장에 비해 하방 유동성(투매 유발 물량)이 먼저 정리된 상태입니다. 입법 규제의 공백은 아쉽지만, 월가 기관들의 현물 ETF 유입세가 저가 매수세로 전환된 점은 가격 회복의 기초 체력을 방증합니다.",
+    "action_point": "단기 돌파 매수보다는 64,000달러 이하 <span class=\"text-rose-400 font-medium\">조정</span> 시 분할 매수하는 보수적 적립식 전략을 유지하고, 클래리티 법안의 물밑 협상 추이와 이더리움 현물 ETF 개시 이후의 자본 유입 데이터를 주시할 것을 권장합니다."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "현물ETF유입",
+      "장기보유자축적",
+      "클래리티법안",
+      "물밑협상",
+      "MSTR프리미엄"
+    ]
+  }
+}

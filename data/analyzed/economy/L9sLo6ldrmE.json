@@ -8,24 +8,24 @@
     "thumbnail": "https://img.youtube.com/vi/L9sLo6ldrmE/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "마크 저커버그의 AI 에이전트 개발 지연 언급이 유발한 메타 발 반도체 수요 불안 심리와 고용 지표 둔화에 따른 금리 완화 압력 하에서도 이어지는 강달러 기조의 모순된 메커니즘을 월가 매크로 관점에서 큐레이션함.",
+    "summary": "마크 저커버그의 AI 에이전트 개발 지연 언급이 유발한 메타 발 <span class=\"text-cyan-300 font-semibold\">반도체</span> 수요 불안 심리와 고용 지표 둔화에 따른 금리 완화 압력 하에서도 이어지는 강달러 기조의 모순된 메커니즘을 월가 매크로 관점에서 큐레이션함.",
     "key_claims": [
-      "메타가 단기 비용 대비 효율을 챙기기 시작했다는 뉘앙스는 엔비디아/TSMC향 주문 가이드 축소 공포를 유발해 반도체를 단기 강하게 눌렀으나, LLM 업계 흑자 가능성과 MS/구글의 증설 경쟁 기조가 하방을 방어함.",
-      "미국 신규 고용이 대폭 줄며 금리 인하 기대가 되살아났으나, 역설적으로 유럽/일본 대비 강한 경제 기초 체력과 안전자산 달러 수급 쏠림으로 강달러 기조가 유지되어 한국 등 신흥국 외환 압박이 장기화됨.",
-      "반도체 단기 급등에 따른 차익 실현 트리거로 메타 뉴스가 소비된 것에 불과하며, 실질 빅테크 현금 흐름의 AI 올인은 3분기에도 상수 조건으로 지속 작동할 공산이 큼."
+      "메타가 단기 비용 대비 효율을 챙기기 시작했다는 뉘앙스는 엔비디아/<span class=\"text-cyan-300 font-semibold\">TSMC</span>향 주문 가이드 축소 공포를 유발해 <span class=\"text-cyan-300 font-semibold\">반도체</span>를 단기 강하게 눌렀으나, LLM 업계 흑자 가능성과 MS/<span class=\"text-cyan-300 font-semibold\">구글</span>의 증설 경쟁 기조가 하방을 방어함.",
+      "미국 신규 고용이 대폭 줄며 <span class=\"text-amber-300 font-bold\">금리 인하</span> 기대가 되살아났으나, 역설적으로 유럽/일본 대비 강한 경제 기초 체력과 안전자산 달러 수급 쏠림으로 강달러 기조가 유지되어 한국 등 신흥국 외환 압박이 장기화됨.",
+      "<span class=\"text-cyan-300 font-semibold\">반도체</span> 단기 급등에 따른 차익 실현 트리거로 메타 뉴스가 소비된 것에 불과하며, 실질 빅테크 현금 흐름의 AI 올인은 3분기에도 상수 조건으로 지속 작동할 공산이 큼."
     ],
     "data_points": [
       "메타 자본 지출 비중: 마이크로소프트, 오라클에 이어 글로벌 빅테크 데이터센터 CapEx 투자 규모 기준 3위권 위치"
     ],
     "signal": "neutral",
-    "signal_reason": "고용 둔화에 따른 금리 인하 기대(호재)와 메타발 지출 둔화 우려(악재), 그리고 환율 변동 압박이 혼재된 거시 중립 구도이기 때문입니다.",
+    "signal_reason": "고용 둔화에 따른 <span class=\"text-amber-300 font-bold\">금리 인하</span> 기대(호재)와 메타발 지출 둔화 우려(악재), 그리고 <span class=\"text-amber-300 font-bold\">환율</span> 변동 압박이 혼재된 거시 중립 구도이기 때문입니다.",
     "key_companies": [
       "Meta",
       "Microsoft",
       "Alphabet(Google)"
     ],
-    "insight": "시장은 메타의 단기 노이즈를 빌미로 반도체 차익 실현 빌미를 잡았으나, 흑자 전환이 확실시되는 엔트로픽 등의 <span class=\"text-cyan-300 font-semibold\">에이전틱 AI 서비스 매출 확대</span>가 확인되는 한 반도체 데이터센터 수요의 장기 구조적 이탈은 없습니다. 단, <span class=\"text-cyan-300 font-semibold\">강달러 외환 압박</span>이 국내 원자재 수입 단가를 높여 기업 영업 마진을 갉아먹는 환위험 관리는 필수적입니다.",
-    "action_point": "원달러 환율 1,380원 이상의 구간에서 부채 원금 상환이 몰려 있는 과도한 외화 노출 기업은 줄이고, 수출 비중이 커 강달러 환차익 수혜를 고스란히 받는 정보통신 기기 부품사의 지분을 유지합니다."
+    "insight": "시장은 메타의 단기 노이즈를 빌미로 <span class=\"text-cyan-300 font-semibold\">반도체</span> 차익 실현 빌미를 잡았으나, 흑자 전환이 확실시되는 엔트로픽 등의 에이전틱 AI 서비스 매출 확대가 확인되는 한 <span class=\"text-cyan-300 font-semibold\">반도체</span> 데이터센터 수요의 장기 구조적 이탈은 없습니다. 단, 강달러 외환 압박이 국내 원자재 수입 단가를 높여 기업 영업 마진을 갉아먹는 환<span class=\"text-rose-400 font-medium\">위험</span> 관리는 필수적입니다.",
+    "action_point": "<span class=\"text-amber-300 font-bold\">원달러 환율</span> 1,380원 이상의 구간에서 부채 원금 상환이 몰려 있는 과도한 외화 노출 기업은 줄이고, 수출 비중이 커 강달러 환차익 수혜를 고스란히 받는 정보통신 기기 부품사의 지분을 유지합니다."
   },
   "classification": {
     "primary_topic": "economy",

@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/ZhzP99r4Hqg/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "2026년 북중미 월드컵 경기장에 입장 시 총기 사고와 테러 예방을 위해 도입된 엄격한 <span class=\"text-rose-400 font-medium\">투명 가방 지참 의무화 규정</span>을 소개합니다.\n해당 규정은 보스턴 마라톤 테러와 9/11 테러 이후 미국 스포츠 리그(NFL) 등에서 축적된 <span class=\"text-amber-300 font-bold\">보안 시스템</span>으로, 대기 시간 단축과 효율성을 인정받아 피파(FIFA) 월드컵 전체 경기장에 적용되었습니다.\n해외 원정팬들이 규정을 위반하여 가방 보관 비용 등을 지출하는 등 관람객들의 <span class=\"text-rose-400 font-medium\">소비자 부담 가중</span>과 높은 식음료 물가 현황을 설명합니다.",
+    "summary": "2026년 북중미 월드컵 경기장에 입장 시 총기 사고와 테러 예방을 위해 도입된 엄격한 투명 가방 지참 의무화 규정을 소개합니다.\n해당 규정은 보스턴 마라톤 테러와 9/11 테러 이후 미국 스포츠 리그(NFL) 등에서 축적된 보안 시스템으로, 대기 시간 단축과 효율성을 인정받아 피파(FIFA) 월드컵 전체 경기장에 적용되었습니다.\n해외 원정팬들이 규정을 위반하여 가방 보관 비용 등을 지출하는 등 관람객들의 소비자 부담 가중과 높은 식음료 물가 현황을 설명합니다.",
     "key_claims": [
-      "미국 경기장들의 <span class=\"text-cyan-300 font-semibold\">투명 가방 정책(Clear Bag Policy)</span>은 미국 내 총기 규제가 입법적으로 해결되지 못해 민간 운영자가 도입한 최선의 물리적 타협책입니다.",
-      "보안 강화 목적 외에도, 투명 가방 검사는 검색 대기 시간을 대폭 단축하여 경기장 운영의 <span class=\"text-cyan-300 font-semibold\">효율성</span>을 극대화합니다."
+      "미국 경기장들의 투명 가방 정책(Clear Bag Policy)은 미국 내 총기 규제가 입법적으로 해결되지 못해 민간 운영자가 도입한 최선의 물리적 타협책입니다.",
+      "보안 강화 목적 외에도, 투명 가방 검사는 검색 대기 시간을 대폭 단축하여 경기장 운영의 효율성을 극대화합니다."
     ],
     "data_points": [
       "투명 비닐 가방만 들고 들어올 수 있습니다 ... 크기도 엄격하죠. 괄로 30cm, 세로 15cm, 높이 30cm.",
@@ -29,8 +29,8 @@
     "signal_confidence": "low",
     "signal_reason": "본 영상은 월드컵 관람 규정과 소비자 물가 등 스포츠 이벤트 현장을 다룬 것으로, 금융 시장에 미치는 직접적인 영향은 없습니다.",
     "key_companies": [],
-    "insight": "미국의 만성적인 <span class=\"text-rose-400 font-medium\">총기 및 테러 리스크</span>로 인해 발생한 사회적 안전 비용이 스포츠 관람 비용 폭증(가방 보관료, 초고물가 식음료)의 형태로 전 세계 소비자들에게 <span class=\"text-rose-400 font-medium\">비용 전가</span>되고 있습니다.",
-    "action_point": "2026 월드컵을 포함해 미국의 대형 스포츠 경기장이나 콘서트를 방문할 때는 사전 규격을 충족하는 <span class=\"text-cyan-300 font-semibold\">투명 비닐 가방</span>을 준비하여 불필요한 현장 지출 및 폐기 리스크를 피하십시오."
+    "insight": "미국의 만성적인 총기 및 테러 <span class=\"text-rose-400 font-medium\">리스크</span>로 인해 발생한 사회적 안전 비용이 스포츠 관람 비용 폭증(가방 보관료, 초고물가 식음료)의 형태로 전 세계 소비자들에게 비용 전가되고 있습니다.",
+    "action_point": "2026 월드컵을 포함해 미국의 대형 스포츠 경기장이나 콘서트를 방문할 때는 사전 규격을 충족하는 투명 비닐 가방을 준비하여 불필요한 현장 지출 및 폐기 <span class=\"text-rose-400 font-medium\">리스크</span>를 피하십시오."
   },
   "classification": {
     "primary_topic": "etc",

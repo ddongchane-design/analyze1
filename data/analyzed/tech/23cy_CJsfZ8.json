@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/23cy_CJsfZ8/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "1. 마이크로소프트는 빌드 2026에서 엔비디아의 AI 반도체를 탑재한 초소형 개발자용 데스크톱 <span class=\"text-cyan-300 font-semibold\">서피스 RTX 스파크 데브박스</span>를 공개하며 애플의 맥미니와 본격 대결을 선언했습니다.\n2. AI 에이전트 구동 시 개인정보 유출 및 파일 무단 삭제 등 안전성 위협을 막기 위해 윈도우 OS 단에서 보호하는 <span class=\"text-cyan-300 font-semibold\">보안 컨테이너(MXC)</span> 기술을 구현했습니다.\n3. 데이터 센터의 극심한 전력 및 물 공급 부족 병목현상을 해소하기 위해 경량 AI 모델 <span class=\"text-cyan-300 font-semibold\">아이온(Ion) 1.0</span>을 출시하고 기기 내 온디바이스 AI 비중을 극대화하고 있습니다.",
+    "summary": "1. 마이크로소프트는 빌드 2026에서 엔비디아의 <span class=\"text-cyan-300 font-semibold\">AI 반도체</span>를 탑재한 초소형 개발자용 데스크톱 서피스 RTX 스파크 데브박스를 공개하며 애플의 맥미니와 본격 대결을 선언했습니다.\n2. AI 에이전트 구동 시 개인정보 <span class=\"text-rose-400 font-medium\">유출</span> 및 파일 무단 삭제 등 안전성 위협을 막기 위해 윈도우 OS 단에서 보호하는 보안 컨테이너(MXC) 기술을 구현했습니다.\n3. 데이터 센터의 극심한 전력 및 물 공급 부족 병목현상을 해소하기 위해 경량 AI 모델 아이온(Ion) 1.0을 출시하고 기기 내 온디바이스 AI 비중을 극대화하고 있습니다.",
     "key_claims": [
-      "데이터 센터의 물리적 확장 한계와 <span class=\"text-amber-300 font-bold\">전력망 부족 병목</span>을 극복하기 위해 온디바이스 AIPC로의 분산 연산 처리는 필연적인 흐름입니다.",
-      "MS와 엔비디아가 주축이 된 <span class=\"text-cyan-300 font-semibold\">'윈비디아' 동맹</span>은 애플의 온디바이스 에이전트 시장 독점을 견제하고 40년 PC 패러다임을 바꿀 것입니다.",
-      "안전 장치인 MXC 컨테이너의 도입으로 그동안 보안 우려로 미뤄졌던 기업들의 <span class=\"text-cyan-300 font-semibold\">AI 에이전트 솔루션</span> 도입이 본격화될 전망입니다."
+      "데이터 센터의 물리적 확장 한계와 전력망 부족 병목을 극복하기 위해 온디바이스 AIPC로의 분산 연산 처리는 필연적인 흐름입니다.",
+      "MS와 엔비디아가 주축이 된 '윈비디아' 동맹은 애플의 온디바이스 에이전트 시장 독점을 견제하고 40년 PC 패러다임을 바꿀 것입니다.",
+      "안전 장치인 MXC 컨테이너의 도입으로 그동안 보안 우려로 미뤄졌던 기업들의 AI 에이전트 솔루션 도입이 본격화될 전망입니다."
     ],
     "data_points": [
       "개발자용 AIPC '서피스 RTX 스파크 데브 박스' 공개 (RTX GPU 탑재, 최대 1페타플롭스 연산 속도)",
@@ -22,7 +22,7 @@
     ],
     "signal": "bullish",
     "signal_confidence": "high",
-    "signal_reason": "엔비디아의 하드웨어와 마이크로소프트의 소프트웨어 시너지를 활용한 초고성능 온디바이스 AIPC 생태계가 실체화되면서 반도체 및 AI 시장에 강력한 활력을 불어넣고 있습니다.",
+    "signal_reason": "엔비디아의 하드웨어와 마이크로소프트의 소프트웨어 시너지를 활용한 초고성능 온디바이스 AIPC 생태계가 실체화되면서 <span class=\"text-cyan-300 font-semibold\">반도체</span> 및 AI 시장에 강력한 활력을 불어넣고 있습니다.",
     "key_companies": [
       "마이크로소프트(MSFT)",
       "엔비디아(NVDA)",
@@ -30,8 +30,8 @@
       "인텔(INTC)",
       "퀄컴(QCOM)"
     ],
-    "insight": "AI 에이전트 활성화에 따른 토큰 비용 급증과 <span class=\"text-rose-400 font-medium\">서버 인프라 전력 부족 리스크</span>는 빅테크가 온디바이스 소형 경량 언어모델(SLM)에 강력한 공세를 가하는 핵심 요인입니다. 이번 협력은 오랜 PC 파트너십 구도(윈텔)를 허물고 인공지능 기반 <span class=\"text-cyan-300 font-semibold\">엔비디아-MS 독점 체제</span>를 다지는 계기가 될 것입니다.",
-    "action_point": "온디바이스 하드웨어에 필수적인 고성능 통합 메모리 및 초고속 연산 칩 부품 공급망을 선점한 반도체 밸류체인과 고화질 작업 툴(Blender, Solidworks 등) 및 <span class=\"text-cyan-300 font-semibold\">AI 에이전트 인프라 기업</span>들의 중장기 성장 수혜를 눈여겨보아야 합니다."
+    "insight": "AI 에이전트 활성화에 따른 토큰 비용 급증과 서버 인프라 전력 부족 <span class=\"text-rose-400 font-medium\">리스크</span>는 빅테크가 온디바이스 소형 경량 언어모델(SLM)에 강력한 공세를 가하는 핵심 요인입니다. 이번 협력은 오랜 PC 파트너십 구도(윈텔)를 허물고 인공지능 기반 엔비디아-MS 독점 체제를 다지는 계기가 될 것입니다.",
+    "action_point": "온디바이스 하드웨어에 필수적인 고성능 통합 메모리 및 초고속 연산 칩 부품 공급망을 선점한 <span class=\"text-cyan-300 font-semibold\">반도체</span> 밸류체인과 고화질 작업 툴(Blender, Solidworks 등) 및 AI 에이전트 인프라 기업들의 중장기 성장 수혜를 눈여겨보아야 합니다."
   },
   "classification": {
     "primary_topic": "tech",

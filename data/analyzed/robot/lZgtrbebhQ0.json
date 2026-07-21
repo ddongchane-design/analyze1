@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/lZgtrbebhQ0/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "글로벌 테크 리더들은 화면 속 소프트웨어를 넘어 물리적 세계에서 동작하는 <span class=\"text-amber-300 font-bold\">피지컬 AI</span>와 <span class=\"text-cyan-300 font-semibold\">로보틱스</span>가 다음 AI 혁명의 핵심이 될 것임을 강조하고 있습니다. 특히 <span class=\"text-cyan-300 font-semibold\">휴머노이드 로봇</span>은 시간당 인건비를 2달러 수준까지 낮출 수 있는 압도적인 단위 경제성을 지니고 있습니다. 양산 임계점 돌파 시 전 세계 제조업 및 서비스 비용이 제로에 가까워지는 <span class=\"text-amber-300 font-bold\">거시 경제 체질 변화</span>가 나타날 것입니다.",
+    "summary": "글로벌 테크 리더들은 화면 속 소프트웨어를 넘어 물리적 세계에서 동작하는 피지컬 AI와 로보틱스가 다음 AI 혁명의 핵심이 될 것임을 강조하고 있습니다. 특히 휴머노이드 로봇은 시간당 인건비를 2달러 수준까지 낮출 수 있는 압도적인 단위 경제성을 지니고 있습니다. 양산 임계점 돌파 시 전 세계 제조업 및 서비스 비용이 제로에 가까워지는 거시 경제 체질 변화가 나타날 것입니다.",
     "key_claims": [
-      "AI의 최종 목적지는 물리 세계와 상호작용하는 <span class=\"text-amber-300 font-bold\">피지컬 AI</span>이며 2030년경 본격적인 산업 혁명이 시작될 것입니다.",
-      "<span class=\"text-cyan-300 font-semibold\">휴머노이드 로봇</span>은 100만 대 양산 시 대당 2만 달러 수준까지 가격이 하락해 인간 노동력을 급속히 대체할 것입니다.",
-      "한국은 뛰어난 제조업과 AI 메카트로닉스 기반을 갖추고 있어 <span class=\"text-cyan-300 font-semibold\">엔비디아</span> 및 글로벌 기업들의 차세대 협력 파트너 국가로 주목받고 있습니다."
+      "AI의 최종 목적지는 물리 세계와 상호작용하는 피지컬 AI이며 2030년경 본격적인 산업 혁명이 시작될 것입니다.",
+      "휴머노이드 로봇은 100만 대 양산 시 대당 2만 달러 수준까지 가격이 하락해 인간 노동력을 급속히 대체할 것입니다.",
+      "한국은 뛰어난 제조업과 AI 메카트로닉스 기반을 갖추고 있어 엔비디아 및 글로벌 기업들의 차세대 협력 파트너 국가로 주목받고 있습니다."
     ],
     "data_points": [
       "휴머노이드 로봇 도입 시 시간당 인건비가 약 2달러 수준으로 하락 (미국 근로자 인건비 35~40달러 대비 매우 저렴)",
@@ -21,7 +21,7 @@
       "이번 AI 혁명 규모는 과거 닷컴 버블 시대의 약 50배에 이를 것으로 손정의 회장 예측"
     ],
     "signal": "bullish",
-    "signal_reason": "글로벌 빅테크 기업들이 <span class=\"text-cyan-300 font-semibold\">피지컬 AI</span>에 천문학적 자본을 투입하고 있으며, 미국 인건비 대비 압도적인 <span class=\"text-amber-300 font-bold\">단위 경제성</span> 입증이 가시화되고 있습니다.",
+    "signal_reason": "글로벌 빅테크 기업들이 피지컬 AI에 천문학적 자본을 투입하고 있으며, 미국 인건비 대비 압도적인 단위 경제성 입증이 가시화되고 있습니다.",
     "key_companies": [
       "NVIDIA",
       "Tesla",
@@ -29,8 +29,8 @@
       "Figure AI",
       "현대자동차"
     ],
-    "insight": "피지컬 AI는 단순한 디바이스 추가가 아니라 '움직이는 인공지능 노동력'의 무제한 공급을 의미합니다. 이는 글로벌 GDP 구조의 재편과 함께 제조업 원가 구조를 근본적으로 해체하는 <span class=\"text-amber-300 font-bold\">생산성 혁명</span>이자 <span class=\"text-amber-300 font-bold\">부의 이동</span>을 의미하는 핵심 전환점입니다.",
-    "action_point": "단기적 소프트웨어 AI의 <span class=\"text-rose-400 font-medium\">거품 논란</span>에 휩쓸리지 말고, 상용화 가능성이 높은 <span class=\"text-cyan-300 font-semibold\">로봇 스타트업</span> 및 이와 연계된 <span class=\"text-cyan-300 font-semibold\">HBM 메모리</span>, 메카트로닉스 분야의 핵심 밸류체인에 장기 투자해야 합니다."
+    "insight": "피지컬 AI는 단순한 디바이스 추가가 아니라 '움직이는 인공지능 노동력'의 무제한 공급을 의미합니다. 이는 글로벌 GDP 구조의 재편과 함께 제조업 원가 구조를 근본적으로 해체하는 생산성 혁명이자 부의 이동을 의미하는 핵심 전환점입니다.",
+    "action_point": "단기적 소프트웨어 AI의 거품 논란에 휩쓸리지 말고, 상용화 가능성이 높은 로봇 스타트업 및 이와 연계된 <span class=\"text-cyan-300 font-semibold\">HBM</span> 메모리, 메카트로닉스 분야의 핵심 밸류체인에 장기 투자해야 합니다."
   },
   "classification": {
     "primary_topic": "robot",

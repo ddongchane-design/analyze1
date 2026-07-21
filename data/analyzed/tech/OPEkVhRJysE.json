@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/OPEkVhRJysE/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "1. 메모리 반도체 산업은 전통적인 컴퓨터 부품 사이클 산업에서 빅테크 인프라 확장을 견인하는 <span class=\"text-cyan-300 font-semibold\">AI 인프라 필수재</span>로 본질적 체질 개선(Re-rating)이 진행되고 있습니다.\n2. 이러한 재평가를 주도하는 핵심 요인은 수요의 구조적 장기화, 물리적 공급 제약, 그리고 가격 변동성을 차단하는 <span class=\"text-cyan-300 font-semibold\">장기 공급 계약(LTA)</span> 체결입니다.\n3. 월가와 국내 증권사들 모두 메모리 산업의 LTA 기반 안정성을 인지하기 시작하여, 최근의 주가 하락은 리스크가 아닌 강력한 '바이더딥(Buy the dip)' 기회로 지목됩니다.",
+    "summary": "1. <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span> 산업은 전통적인 컴퓨터 부품 사이클 산업에서 빅테크 인프라 확장을 견인하는 AI 인프라 필수재로 본질적 체질 개선(Re-rating)이 진행되고 있습니다.\n2. 이러한 재평가를 주도하는 핵심 요인은 수요의 구조적 장기화, 물리적 공급 제약, 그리고 가격 변동성을 차단하는 장기 공급 계약(LTA) 체결입니다.\n3. 월가와 국내 증권사들 모두 메모리 산업의 LTA 기반 안정성을 인지하기 시작하여, 최근의 주가 하락은 <span class=\"text-rose-400 font-medium\">리스크</span>가 아닌 강력한 '바이더딥(Buy the dip)' 기회로 지목됩니다.",
     "key_claims": [
-      "HBM을 위시한 초고대역폭 메모리의 LTA(Long-Term Agreement) 체결은 반도체 메모리를 과거 원자재 Cyclical 업종에서 <span class=\"text-cyan-300 font-semibold\">구조적 빅테크 성장주</span>로 안착시켰습니다.",
+      "<span class=\"text-cyan-300 font-semibold\">HBM</span>을 위시한 초고대역폭 메모리의 LTA(Long-Term Agreement) 체결은 <span class=\"text-cyan-300 font-semibold\">반도체</span> 메모리를 과거 원자재 Cyclical 업종에서 구조적 빅테크 성장주로 안착시켰습니다.",
       "메모리 제조 3사의 물리적 양산 한계(다이 페널티 등)가 뚜렷하여 수요 폭증 대비 공급 부족 상황이 장기화될 것입니다.",
-      "엔비디아 젠슨 황 CEO의 지지처럼, AI 병목현상을 해결할 핵심이 메모리에 있으므로 반도체 가격의 <span class=\"text-cyan-300 font-semibold\">하방 지지 신뢰성</span>은 매우 견고합니다."
+      "엔비디아 젠슨 황 CEO의 지지처럼, AI 병목현상을 해결할 핵심이 메모리에 있으므로 <span class=\"text-cyan-300 font-semibold\">반도체</span> 가격의 하방 지지 신뢰성은 매우 견고합니다."
     ],
     "data_points": [
       "글로벌 메모리 반도체 3사 (삼성전자, SK하이닉스, 마이크론) 시장 지배력 집중",
@@ -20,15 +20,15 @@
     ],
     "signal": "bullish",
     "signal_confidence": "high",
-    "signal_reason": "전통적 반도체 사이클 성격을 극복하는 장기 계약(LTA) 도입과 AI 병목 필수재로서의 위상 확립으로, 단기 폭락은 매력적인 장기 투자 기회를 제공합니다.",
+    "signal_reason": "전통적 <span class=\"text-cyan-300 font-semibold\">반도체</span> 사이클 성격을 극복하는 장기 계약(LTA) 도입과 AI 병목 필수재로서의 위상 확립으로, 단기 폭락은 매력적인 장기 투자 기회를 제공합니다.",
     "key_companies": [
       "삼성전자(005930)",
       "SK하이닉스(000660)",
       "마이크론(MU)",
       "엔비디아(NVDA)"
     ],
-    "insight": "반도체 LTA(장기공급계약) 체결은 실적의 가시성과 예측 가능성을 대폭 제고하여 투자자들에게 사이클 피크아웃 우려를 종식시키는 <span class=\"text-cyan-300 font-semibold\">재평가 정당성</span>을 제공합니다. 이는 시장 조정 국면에서 대장주들의 밸류에이션 멀티플을 높이는 강력한 지지선이 됩니다.",
-    "action_point": "단기 기술적 투매로 메모리 및 HBM 부품 관련주가 동반 하락하는 기회를 적극 포착하여, <span class=\"text-cyan-300 font-semibold\">SK하이닉스 및 글로벌 메모리 패키징 소부장 대장주</span>에 대한 비중 확대를 실행해야 합니다."
+    "insight": "<span class=\"text-cyan-300 font-semibold\">반도체</span> LTA(장기공급계약) 체결은 실적의 가시성과 예측 가능성을 대폭 제고하여 투자자들에게 사이클 피크아웃 우려를 종식시키는 재평가 정당성을 제공합니다. 이는 시장 <span class=\"text-rose-400 font-medium\">조정</span> 국면에서 대장주들의 밸류에이션 멀티플을 높이는 강력한 지지선이 됩니다.",
+    "action_point": "단기 기술적 투매로 메모리 및 <span class=\"text-cyan-300 font-semibold\">HBM</span> 부품 관련주가 동반 하락하는 기회를 적극 포착하여, <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 및 글로벌 메모리 패키징 소부장 대장주에 대한 비중 확대를 실행해야 합니다."
   },
   "classification": {
     "primary_topic": "tech",

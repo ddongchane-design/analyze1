@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/HZMoZmDJ90E/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "1. 스페이스X가 비상장 상태에서 베일에 가려져 있던 S-1 상장 신고서를 통해 구체적인 재무 상황과 리스크를 공개하며 공식적인 <span class=\"text-amber-300 font-bold\">스페이스X 상장</span> 절차에 돌입했습니다.\n2. 우주 사업 부문인 로켓 발사와 <span class=\"text-cyan-300 font-semibold\">스타링크</span>는 뛰어난 수익성을 보이고 있으나, 최근 합병한 <span class=\"text-cyan-300 font-semibold\">XAI</span>의 AI 인프라 투자와 연구개발비 부담으로 인해 전사적으로는 <span class=\"text-rose-400 font-medium\">영업 적자</span>를 기록 중입니다.\n3. 공모가 확정 후 진행된 수요예측에서 공모 물량의 4배가 넘는 자금이 몰려 흥행에 성공했으며, 기관 투자자들의 관심이 매우 높게 나타났습니다.",
+    "summary": "1. <span class=\"text-cyan-300 font-semibold\">스페이스X</span>가 비상장 상태에서 베일에 가려져 있던 S-1 상장 신고서를 통해 구체적인 재무 상황과 <span class=\"text-rose-400 font-medium\">리스크</span>를 공개하며 공식적인 <span class=\"text-cyan-300 font-semibold\">스페이스X</span> 상장 절차에 돌입했습니다.\n2. 우주 사업 부문인 로켓 발사와 <span class=\"text-cyan-300 font-semibold\">스타링크</span>는 뛰어난 수익성을 보이고 있으나, 최근 합병한 XAI의 AI 인프라 투자와 연구개발비 부담으로 인해 전사적으로는 영업 적자를 기록 중입니다.\n3. 공모가 확정 후 진행된 수요예측에서 공모 물량의 4배가 넘는 자금이 몰려 흥행에 성공했으며, 기관 투자자들의 관심이 매우 높게 나타났습니다.",
     "key_claims": [
       "우주 부문인 <span class=\"text-cyan-300 font-semibold\">스타링크</span>의 통신 서비스 사업이 전사 매출을 견인하며 압도적인 수익성을 입증하고 있음",
-      "합병된 <span class=\"text-cyan-300 font-semibold\">XAI</span> 및 인공지능 그록(Grok) 서비스 고도화를 위한 <span class=\"text-rose-400 font-medium\">비용 지출</span>이 우주 부문의 수익을 상쇄하여 적자를 유발함",
+      "합병된 XAI 및 인공지능 그록(Grok) 서비스 고도화를 위한 비용 지출이 우주 부문의 수익을 상쇄하여 적자를 유발함",
       "공모가를 선확정한 특이한 방식으로 수요예측 흥행을 유도해 글로벌 투자 수요를 시위하는 마케팅 전략을 구사함"
     ],
     "data_points": [
@@ -22,7 +22,7 @@
       "시가총액 대비 공모 발행 물량 비율은 약 4% 수준"
     ],
     "signal": "neutral",
-    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">스타링크</span>의 강력한 현금 창출력은 매력적이나, <span class=\"text-cyan-300 font-semibold\">XAI</span>와의 합병으로 인한 AI 부문의 막대한 <span class=\"text-rose-400 font-medium\">적자 누적</span>이 단기 밸류에이션 부담으로 작용합니다.",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">스타링크</span>의 강력한 현금 창출력은 매력적이나, XAI와의 합병으로 인한 AI 부문의 막대한 적자 누적이 단기 밸류에이션 부담으로 작용합니다.",
     "key_companies": [
       "스페이스X",
       "XAI",
@@ -31,8 +31,8 @@
       "모건스탠리",
       "골드만삭스"
     ],
-    "insight": "이번 기업공개는 단순한 우주 기업의 상장을 넘어 엘론 머스크의 우주 영토와 AI 플랫폼(<span class=\"text-cyan-300 font-semibold\">그록</span>, X)이 통합된 새로운 테크 거인의 출현을 의미합니다. 우주 산업의 상업적 생태계 구축은 가시화되었으나, 투자자들은 우주 사업의 본업 가치와 초고비용 AI 투자의 <span class=\"text-rose-400 font-medium\">수익성 딜레마</span>를 동시에 평가해야 하는 과제를 안게 되었습니다.",
-    "action_point": "스타링크의 고수익 통신 서비스 성장을 긍정적으로 보되, 향후 <span class=\"text-cyan-300 font-semibold\">XAI</span> 부문의 비용 효율화 및 AI 수익 모델 창출 여부를 추적해야 합니다. 또한 대형 수급 분산 효과로 인해 단기적으로 기존 기술주들의 <span class=\"text-rose-400 font-medium\">수급 변동성</span> 확대에 주의해야 합니다."
+    "insight": "이번 기업공개는 단순한 우주 기업의 상장을 넘어 엘론 머스크의 우주 영토와 AI 플랫폼(그록, X)이 통합된 새로운 테크 거인의 출현을 의미합니다. 우주 산업의 상업적 생태계 구축은 가시화되었으나, 투자자들은 우주 사업의 본업 가치와 초고비용 AI 투자의 수익성 딜레마를 동시에 평가해야 하는 과제를 안게 되었습니다.",
+    "action_point": "<span class=\"text-cyan-300 font-semibold\">스타링크</span>의 고수익 통신 서비스 성장을 긍정적으로 보되, 향후 XAI 부문의 비용 효율화 및 AI 수익 모델 창출 여부를 추적해야 합니다. 또한 대형 수급 분산 효과로 인해 단기적으로 기존 기술주들의 수급 변동성 확대에 주의해야 합니다."
   },
   "classification": {
     "primary_topic": "space",

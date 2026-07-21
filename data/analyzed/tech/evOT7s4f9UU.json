@@ -8,9 +8,9 @@
     "thumbnail": "https://img.youtube.com/vi/evOT7s4f9UU/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "Computex 엔비디아 프라이빗 투어 중 최첨단 <span class=\"text-cyan-300 font-semibold\">베라 루빈</span> 칩셋 표면에 코리아(BKR) 패키징 표기가 확인되어 화제를 모았으며, 에이전틱 AI 시대를 선도하기 위한 독보적인 토크노믹스(가장 낮은 토큰 단가) 효율을 강조했습니다.",
+    "summary": "Computex 엔비디아 프라이빗 투어 중 최첨단 베라 루빈 칩셋 표면에 코리아(BKR) 패키징 표기가 확인되어 화제를 모았으며, 에이전틱 AI 시대를 선도하기 위한 독보적인 토크노믹스(가장 낮은 토큰 단가) 효율을 강조했습니다.",
     "key_claims": [
-      "엔비디아 베라 루빈의 핵심 칩은 TSMC가 생산하지만 패키징 등 중요 공정이 한국 밸류체인과 연계되었음을 보여준다.",
+      "엔비디아 베라 루빈의 핵심 칩은 <span class=\"text-cyan-300 font-semibold\">TSMC</span>가 생산하지만 패키징 등 중요 공정이 한국 밸류체인과 연계되었음을 보여준다.",
       "베라 루빈 아키텍처는 블랙웰 대비 추론 비용을 5분의 1로 낮춰 하이퍼스케일러들의 실질 비용 효율을 증대시킨다.",
       "CPU 코어 개수의 극대화보다 단일 스레드 속도 및 메모리 대역폭(1.5TB LPDDR5 연계)이 에이전틱 AI 시대의 핵심 병목 해결책이다."
     ],
@@ -19,14 +19,14 @@
       "클럭당 명령 처리수(IPC) 증가폭: 기존 그레이스 대비 50% 향상"
     ],
     "signal": "bullish",
-    "signal_reason": "엔비디아 최신 칩셋 겉면에 국내 공정 기여가 명문화되고 HBM 및 패키징의 독점적 중요성이 부각되어 국내 반도체 산업의 위상이 재입증되었습니다.",
+    "signal_reason": "엔비디아 최신 칩셋 겉면에 국내 공정 기여가 명문화되고 <span class=\"text-cyan-300 font-semibold\">HBM</span> 및 패키징의 독점적 중요성이 부각되어 국내 <span class=\"text-cyan-300 font-semibold\">반도체</span> 산업의 위상이 재입증되었습니다.",
     "key_companies": [
       "NVIDIA",
       "SK하이닉스",
       "삼성전자"
     ],
     "insight": "AI 인프라 경쟁은 단순 칩 스펙 자랑이 아닌 '토크노믹스(Tokenomics, 수익 창출 단가)' 기반의 실전 비용 최적화 경쟁으로 재편되고 있으며, 한국 메모리/패키징 파트너십은 그 핵심 열쇠입니다.",
-    "action_point": "엔비디아 최첨단 칩셋 공급망(패키징, HBM, 기판)에 포함되는 1티어 팹리스 및 디자인하우스 지분을 안정적으로 보유해야 합니다."
+    "action_point": "엔비디아 최첨단 칩셋 공급망(패키징, <span class=\"text-cyan-300 font-semibold\">HBM</span>, 기판)에 포함되는 1티어 팹리스 및 디자인하우스 지분을 안정적으로 보유해야 합니다."
   },
   "classification": {
     "primary_topic": "tech",

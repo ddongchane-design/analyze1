@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/w_iK_VskPZg/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "시가총액 1.75조 달러의 거인 <span class=\"text-cyan-300 font-semibold\">스페이스X의 상장</span>은 사우디 아람코의 2배가 넘는 <span class=\"text-amber-300 font-bold\">750억 달러의 공모 자금</span>을 조달하며 증시에 큰 충격을 주고 있습니다. 상장 후 3주 내 나스닥 100 조기 편입이 예고되어 기관들의 포트폴리오 리밸런싱으로 인한 <span class=\"text-rose-400 font-medium\">타 빅테크 및 한국 반도체주의 수급 이탈</span>이 발생하고 있습니다. 조달한 자금은 독점적 통신 서비스인 스타링크 대신 최근 합병한 <span class=\"text-cyan-300 font-semibold\">AI 부문(xAI) 컴퓨팅 인프라</span>에 집중 투자될 계획입니다.",
+    "summary": "시가총액 1.75조 달러의 거인 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 상장은 사우디 아람코의 2배가 넘는 750억 달러의 공모 자금을 조달하며 증시에 큰 충격을 주고 있습니다. 상장 후 3주 내 나스닥 100 조기 편입이 예고되어 기관들의 포트폴리오 리밸런싱으로 인한 타 빅테크 및 한국 <span class=\"text-cyan-300 font-semibold\">반도체</span>주의 수급 이탈이 발생하고 있습니다. 조달한 자금은 독점적 통신 서비스인 <span class=\"text-cyan-300 font-semibold\">스타링크</span> 대신 최근 합병한 AI 부문(xAI) 컴퓨팅 인프라에 집중 투자될 계획입니다.",
     "key_claims": [
-      "스페이스X는 사실상 나스닥 100 지수 편입을 확정 지어 전 세계 패시브 자금의 <span class=\"text-rose-400 font-medium\">강제 매수세</span>를 유발하고 있습니다.",
-      "스타링크는 영업이익률 약 40%에 달하는 고마진 독점 플랫폼으로 우주 인터넷 시장을 지배하고 있습니다.",
-      "일론 머스크는 대형 수송선 <span class=\"text-cyan-300 font-semibold\">스타십</span>을 활용해 지구의 전력/물 부족 한계를 뛰어넘는 <span class=\"text-amber-300 font-bold\">우주 AI 데이터 센터 구축</span>을 최종 목표로 하고 있습니다."
+      "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>는 사실상 나스닥 100 지수 편입을 확정 지어 전 세계 패시브 자금의 강제 매수세를 유발하고 있습니다.",
+      "<span class=\"text-cyan-300 font-semibold\">스타링크</span>는 영업이익률 약 40%에 달하는 고마진 독점 플랫폼으로 우주 인터넷 시장을 지배하고 있습니다.",
+      "일론 머스크는 대형 수송선 <span class=\"text-cyan-300 font-semibold\">스타십</span>을 활용해 지구의 전력/물 부족 한계를 뛰어넘는 우주 AI 데이터 센터 구축을 최종 목표로 하고 있습니다."
     ],
     "data_points": [
       "스페이스X 공모가 시가총액 1.75조 달러, 공모 조달 자금 750억 달러(역대 최대)",
@@ -23,7 +23,7 @@
       "스타십 수송 가능 무게 100톤 이상 (기존 팰컨9 로켓 17.5톤 대비 5배 이상)"
     ],
     "signal": "neutral",
-    "signal_reason": "상장 초기의 역사적인 공모 자금 쏠림과 패시브 자금의 리밸런싱이 타 종목의 단기 조정을 유발할 수 있으므로 <span class=\"text-amber-300 font-bold\">중립(Neutral)</span>적인 입장을 취합니다.",
+    "signal_reason": "상장 초기의 역사적인 공모 자금 쏠림과 패시브 자금의 리밸런싱이 타 종목의 단기 <span class=\"text-rose-400 font-medium\">조정</span>을 유발할 수 있으므로 중립(Neutral)적인 입장을 취합니다.",
     "key_companies": [
       "스페이스X",
       "xAI",
@@ -32,8 +32,8 @@
       "SK하이닉스",
       "아마존"
     ],
-    "insight": "스페이스X의 막대한 영업적자(26년 1분기 19억 달러)는 우주 사업 때문이 아닌, <span class=\"text-rose-400 font-medium\">AI 연산 인프라 Capex 폭증(설비투자의 77%)</span>에 기인합니다. 일론 머스크의 우주 진출 전략은 결국 AI 하드웨어의 지구적 제약을 극복하고 독점적 우주 컴퓨팅 주권을 쥐기 위한 거대한 설계입니다.",
-    "action_point": "상장 직후 나스닥 100 리밸런싱에 따른 <span class=\"text-rose-400 font-medium\">수급적 변동성 위험</span>을 회피하기 위해 현물 주식 매수를 잠시 유보하고, 지수 편입 완료 후 안정화 단계에서 <span class=\"text-cyan-300 font-semibold\">우주 항공/위성 통신 관련 부품사</span>에 선별적으로 진입하는 전략이 유효합니다."
+    "insight": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 막대한 영업적자(26년 1분기 19억 달러)는 우주 사업 때문이 아닌, AI 연산 인프라 Capex 폭증(설비투자의 77%)에 기인합니다. 일론 머스크의 우주 진출 전략은 결국 AI 하드웨어의 지구적 제약을 극복하고 독점적 우주 컴퓨팅 주권을 쥐기 위한 거대한 설계입니다.",
+    "action_point": "상장 직후 나스닥 100 리밸런싱에 따른 수급적 변동성 <span class=\"text-rose-400 font-medium\">위험</span>을 회피하기 위해 현물 주식 매수를 잠시 유보하고, 지수 편입 완료 후 안정화 단계에서 우주 항공/위성 통신 관련 부품사에 선별적으로 진입하는 전략이 유효합니다."
   },
   "classification": {
     "primary_topic": "space",

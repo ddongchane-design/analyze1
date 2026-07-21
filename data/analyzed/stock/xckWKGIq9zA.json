@@ -8,23 +8,23 @@
     "thumbnail": "https://img.youtube.com/vi/xckWKGIq9zA/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "메모리 1등 지위 복귀 및 영업이익 서프라이즈 가이드를 내고도 삼성전자 주가가 급락한 역사적 특이 현상을 분석합니다. 이는 한국 상장주식에 대한 글로벌 패시브 자금의 기계적 매도(아시아 신흥국 비중 축소 지시)와 국내 레버리지 청산이 복합 작용한 '가치-가격 괴리'임을 밝혀냅니다.",
+    "summary": "메모리 1등 지위 복귀 및 영업이익 서프라이즈 가이드를 내고도 <span class=\"text-cyan-300 font-semibold\">삼성전자</span> 주가가 <span class=\"text-rose-400 font-medium\">급락</span>한 역사적 특이 현상을 분석합니다. 이는 한국 상장주식에 대한 글로벌 패시브 자금의 기계적 매도(아시아 신흥국 비중 축소 지시)와 국내 레버리지 <span class=\"text-rose-400 font-medium\">청산</span>이 복합 작용한 '가치-가격 괴리'임을 밝혀냅니다.",
     "key_claims": [
-      "삼성전자의 기초 펀더멘털은 견고하여 업황 침체와 무관하며, 철저한 대외 금융 수급 한도 문제임.",
-      "글로벌 패시브 펀드가 한국 시장 자체의 환율 변동 및 지정학 리스크를 이유로 바스켓 대량 매도를 집행한 결과임."
+      "<span class=\"text-cyan-300 font-semibold\">삼성전자</span>의 기초 펀더멘털은 견고하여 업황 침체와 무관하며, 철저한 대외 금융 수급 한도 문제임.",
+      "글로벌 패시브 펀드가 한국 시장 자체의 <span class=\"text-amber-300 font-bold\">환율</span> 변동 및 지정학 <span class=\"text-rose-400 font-medium\">리스크</span>를 이유로 바스켓 대량 매도를 집행한 결과임."
     ],
     "data_points": [
       "삼성전자 연간 Fwd 영업이익 추정치 상승폭: 전분기 대비 14.5% 상향 조정",
       "동 기간 외국인 패시브 창구 순매도 규모: 단기 누적 3.2조 원 매도 폭탄"
     ],
     "signal": "bullish",
-    "signal_reason": "실적 성장률과 주가의 괴리가 역사적 최대 수준으로 벌어져, 수급 요인이 청산되는 7월 중순 이후 강력한 저평가 메리트 랠리가 대기 중이기 때문입니다.",
+    "signal_reason": "실적 성장률과 주가의 괴리가 역사적 최대 수준으로 벌어져, 수급 요인이 <span class=\"text-rose-400 font-medium\">청산</span>되는 7월 중순 이후 강력한 저평가 메리트 랠리가 대기 중이기 때문입니다.",
     "key_companies": [
       "삼성전자",
       "MSCI Korea Index"
     ],
     "insight": "실적 세계 1위를 찍고도 주가가 밀리는 것은 기업 잘못이 아니라 대한민국 자본시장 수급 한계의 비극입니다. 가치를 믿는 개인에게는 일생의 기회 매집 구간입니다.",
-    "action_point": "외인 패시브 매도가 진정되는 시그널을 확인하면서, 삼성전자 우선주 및 본주 지분을 대대적으로 매집 및 확대합니다."
+    "action_point": "외인 패시브 매도가 진정되는 시그널을 확인하면서, <span class=\"text-cyan-300 font-semibold\">삼성전자</span> 우선주 및 본주 지분을 대대적으로 매집 및 확대합니다."
   },
   "classification": {
     "primary_topic": "stock",

@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/vxdgK8pzniA/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "<span class=\"text-cyan-300 font-semibold\">TSMC</span>는 세계 유일의 미세공정(3nm/2nm) 기술력과 첨단 CoWoS 패키징 독점력을 무기로, 발주처인 애플과 엔비디아가 고개를 숙이고 생산 물량을 구걸하는 '가장 강력한 을'의 지위를 유지함. 대만 지정학적 리스크로 인한 밸류에이션 할인이 존재하나, 5월 매출 30% 성장이 보여주듯 AI 인프라 수요의 절대적 리트머스 시험지 역할을 하고 있음.",
+    "summary": "<span class=\"text-cyan-300 font-semibold\">TSMC</span>는 세계 유일의 미세공정(3nm/2nm) 기술력과 첨단 CoWoS 패키징 독점력을 무기로, 발주처인 애플과 엔비디아가 고개를 숙이고 생산 물량을 구걸하는 '가장 강력한 을'의 지위를 유지함. 대만 지정학적 <span class=\"text-rose-400 font-medium\">리스크</span>로 인한 밸류에이션 할인이 존재하나, 5월 매출 30% 성장이 보여주듯 AI 인프라 수요의 절대적 리트머스 시험지 역할을 하고 있음.",
     "key_claims": [
-      "모리스 창의 '설계하지 않고 제조만 전담한다'는 비즈니스 혁신이 40년 반도체 권력을 파운드리 독점으로 가져옴.",
+      "모리스 창의 '설계하지 않고 제조만 전담한다'는 비즈니스 혁신이 40년 <span class=\"text-cyan-300 font-semibold\">반도체</span> 권력을 파운드리 독점으로 가져옴.",
       "엔비디아 칩 공급의 진짜 병목인 CoWoS 패키징을 사실상 독점하여 빅테크의 단가 인상 수용을 강제함.",
-      "삼성전자의 파운드리 추격 실패(점유율 7.2%로 하락)로 인해 TSMC의 첨단 공정 지배력이 더 공고해짐."
+      "<span class=\"text-cyan-300 font-semibold\">삼성전자</span>의 파운드리 추격 실패(점유율 7.2%로 하락)로 인해 <span class=\"text-cyan-300 font-semibold\">TSMC</span>의 첨단 공정 지배력이 더 공고해짐."
     ],
     "data_points": [
       "TSMC 2026년 5월 매출 성장률: 전년 대비 30% 급증 (누적으로도 30%대 강력 성장 증명)",
@@ -28,8 +28,8 @@
       "삼성전자",
       "인텔"
     ],
-    "insight": "아무리 뛰어난 AI 설계도가 있어도 TSMC가 찍어주지 않으면 고철에 불과함. 대만 해협의 지정학적 리스크가 밸류에이션의 상단을 막고 있으나, 실질 펀더멘탈은 AI 시대의 최고 수혜를 온전히 받고 있음.",
-    "action_point": "대만 디스카운트 조정을 틈타 <span class=\"text-cyan-300 font-semibold\">TSMC</span> ADR을 분할 매수하고, 이와 연동된 국내 후공정 OSAT 파트너십 소부장 기업들의 동반 성장을 장기적으로 향유할 것."
+    "insight": "아무리 뛰어난 AI 설계도가 있어도 <span class=\"text-cyan-300 font-semibold\">TSMC</span>가 찍어주지 않으면 고철에 불과함. 대만 해협의 지정학적 <span class=\"text-rose-400 font-medium\">리스크</span>가 밸류에이션의 상단을 막고 있으나, 실질 펀더멘탈은 AI 시대의 최고 수혜를 온전히 받고 있음.",
+    "action_point": "대만 디스카운트 <span class=\"text-rose-400 font-medium\">조정</span>을 틈타 <span class=\"text-cyan-300 font-semibold\">TSMC</span> ADR을 분할 매수하고, 이와 연동된 국내 후공정 OSAT 파트너십 소부장 기업들의 동반 성장을 장기적으로 향유할 것."
   },
   "classification": {
     "primary_topic": "tech",

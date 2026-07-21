@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/mcZEqvFnis8/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "원/달러 환율이 1,500원을 돌파했으나 한국의 CDS 프리미엄이 <span class=\"text-cyan-300 font-semibold\">23.5bp로 선진국보다 낮아</span> 금융 위기의 징후는 아닌 것으로 분석됩니다. 이번 원화 약세와 주가 하락은 <span class=\"text-cyan-300 font-semibold\">스페이스X의 나스닥 상장(750억 달러 조달)</span>에 대응하기 위해 외국인들이 한국 반도체 대형주를 대거 팔아치운 일시적 수급 요인 때문입니다. 스페이스X의 지수 편입이 끝나는 <span class=\"text-amber-300 font-bold\">1~2주 내에 원화 환율과 수급이 안정화</span>될 전망입니다.",
+    "summary": "원/달러 <span class=\"text-amber-300 font-bold\">환율</span>이 1,500원을 돌파했으나 한국의 CDS 프리미엄이 23.5bp로 선진국보다 낮아 금융 위기의 징후는 아닌 것으로 분석됩니다. 이번 원화 약세와 주가 하락은 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 나스닥 상장(750억 달러 조달)에 대응하기 위해 외국인들이 한국 <span class=\"text-cyan-300 font-semibold\">반도체</span> 대형주를 대거 팔아치운 일시적 수급 요인 때문입니다. <span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 지수 편입이 끝나는 1~2주 내에 원화 <span class=\"text-amber-300 font-bold\">환율</span>과 수급이 안정화될 전망입니다.",
     "key_claims": [
-      "고환율의 실질적 배경은 한미 금리차가 아닌 <span class=\"text-rose-400 font-medium\">초대형 IPO 청약 목적의 외국인 자금 이탈</span>입니다.",
-      "국내 신용 및 자금 조달 시장은 안정적이며, 한국 경제에 대한 <span class=\"text-amber-300 font-bold\">글로벌 신뢰도는 확고</span>하게 유지되고 있습니다.",
-      "반도체 공장 증설을 위한 <span class=\"text-cyan-300 font-semibold\">공업용 건축 허가 면적(39.2% 증가)</span>이 늘며 향후 투자 자금 유입에 따른 원화 강세 전환이 가능합니다."
+      "고<span class=\"text-amber-300 font-bold\">환율</span>의 실질적 배경은 한미 금리차가 아닌 초대형 IPO 청약 목적의 외국인 자금 이탈입니다.",
+      "국내 신용 및 자금 조달 시장은 안정적이며, 한국 경제에 대한 글로벌 신뢰도는 확고하게 유지되고 있습니다.",
+      "<span class=\"text-cyan-300 font-semibold\">반도체</span> 공장 증설을 위한 공업용 건축 허가 면적(39.2% 증가)이 늘며 향후 투자 자금 유입에 따른 원화 강세 전환이 가능합니다."
     ],
     "data_points": [
       "원/달러 환율 1,500원대 돌파 (일시적 1,600원 도달 가능성 언급)",
@@ -21,14 +21,14 @@
       "최근 공업용 건축 허가 면적 증가율 39.2% 급증"
     ],
     "signal": "bullish",
-    "signal_reason": "환율 급등이 신용 리스크가 아닌 구조적 수급 이벤트에 의한 것임이 증명되었고, 단기 수급 교란이 해소되면 뛰어난 실적 대비 저평가된 반도체 중심의 주가 회복이 뚜렷할 것이므로 <span class=\"text-cyan-300 font-semibold\">긍정적(Bullish)</span>입니다.",
+    "signal_reason": "<span class=\"text-amber-300 font-bold\">환율</span> 급등이 신용 <span class=\"text-rose-400 font-medium\">리스크</span>가 아닌 구조적 수급 이벤트에 의한 것임이 증명되었고, 단기 수급 교란이 해소되면 뛰어난 실적 대비 저평가된 <span class=\"text-cyan-300 font-semibold\">반도체</span> 중심의 주가 회복이 뚜렷할 것이므로 긍정적(Bullish)입니다.",
     "key_companies": [
       "삼성전자",
       "SK하이닉스",
       "스페이스X"
     ],
-    "insight": "외국인이 한국 주식을 'ATM' 삼아 스페이스X 청약 자금을 조달하면서 <span class=\"text-rose-400 font-medium\">단기 원화 가치 왜곡</span>이 발생했습니다. 펀더멘탈의 손상이 없는 상태에서 발생한 환율 급등과 주가 하락은 수급적 노이즈가 제거된 이후 <span class=\"text-amber-300 font-bold\">강력한 주가 복원력</span>으로 회귀할 것임을 지시합니다.",
-    "action_point": "스페이스X의 나스닥 편입 리밸런싱이 끝나는 시점에 맞추어 원화 환율 피크 아웃과 <span class=\"text-cyan-300 font-semibold\">낙폭 과대 반도체 대형주(삼성전자, SK하이닉스)</span>의 반등에 무게를 두고 저점 분할 매수로 대응해야 합니다."
+    "insight": "외국인이 한국 주식을 'ATM' 삼아 <span class=\"text-cyan-300 font-semibold\">스페이스X</span> 청약 자금을 조달하면서 단기 원화 가치 왜곡이 발생했습니다. 펀더멘탈의 손상이 없는 상태에서 발생한 <span class=\"text-amber-300 font-bold\">환율</span> 급등과 주가 하락은 수급적 노이즈가 제거된 이후 강력한 주가 복원력으로 회귀할 것임을 지시합니다.",
+    "action_point": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 나스닥 편입 리밸런싱이 끝나는 시점에 맞추어 원화 <span class=\"text-amber-300 font-bold\">환율</span> 피크 아웃과 낙폭 과대 <span class=\"text-cyan-300 font-semibold\">반도체</span> 대형주(<span class=\"text-cyan-300 font-semibold\">삼성전자</span>, <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>)의 반등에 무게를 두고 저점 분할 매수로 대응해야 합니다."
   },
   "classification": {
     "primary_topic": "economy",

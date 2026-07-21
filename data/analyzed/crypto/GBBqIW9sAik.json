@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/GBBqIW9sAik/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "트럼프의 이란 타결 발언으로 비트코인이 2주 만에 <span class=\"text-cyan-300 font-semibold\">65,000달러를 회복</span>했으나, 이번 합의가 60일 임시 휴전이며 핵 논의가 후순위로 밀려 리스크는 여전함.\n연준 케빈 워시 의장이 첫 주재하는 이번 FOMC는 금리 동결이 우세하지만 기자회견 축소, 점도표 폐지 등 <span class=\"text-rose-400 font-medium\">통화정책 불안정성</span>이 상존함.\nBOJ(일본은행)의 금리 인상 결정 임박과 총재의 돌발 입원은 비트코인을 포함한 크립토 시장의 <span class=\"text-rose-400 font-medium\">엔 캐리 트레이드 청산 공포</span>를 자극함.",
+    "summary": "트럼프의 <span class=\"text-violet-300 font-medium\">이란</span> 타결 발언으로 비트코인이 2주 만에 65,000달러를 회복했으나, 이번 합의가 60일 임시 휴전이며 핵 논의가 후순위로 밀려 <span class=\"text-rose-400 font-medium\">리스크</span>는 여전함.\n연준 케빈 워시 의장이 첫 주재하는 이번 FOMC는 금리 동결이 우세하지만 기자회견 축소, 점도표 폐지 등 통화정책 불안정성이 상존함.\nBOJ(일본은행)의 금리 인상 결정 임박과 총재의 돌발 입원은 비트코인을 포함한 크립토 시장의 엔 캐리 트레이드 <span class=\"text-rose-400 font-medium\">청산</span> 공포를 자극함.",
     "key_claims": [
-      "미·이란 합의는 핵 타결을 수반하지 않은 60일 유예의 <span class=\"text-rose-400 font-medium\">한시적 봉인</span>으로, 이스라엘의 헤즈볼라 공습 도발 시 언제든 파기될 수 있음.",
-      "이란이 호르무즈 통제권을 고수하고 있어 해협 내 매설된 기뢰 제거 작업 완료까지 <span class=\"text-rose-400 font-medium\">수개월의 물리적 시간</span>이 소요될 예정임.",
-      "BOJ 금리 인상 단행 시 대규모 글로벌 캐리 자금 이탈로 크립토 자산 및 리스크 자산 시장의 <span class=\"text-rose-400 font-medium\">강한 매도세</span>가 출회될 리스크가 매우 큼."
+      "미·<span class=\"text-violet-300 font-medium\">이란</span> 합의는 핵 타결을 수반하지 않은 60일 유예의 한시적 봉인으로, 이스라엘의 헤즈볼라 공습 도발 시 언제든 파기될 수 있음.",
+      "<span class=\"text-violet-300 font-medium\">이란</span>이 <span class=\"text-violet-300 font-medium\">호르무즈</span> 통제권을 고수하고 있어 해협 내 매설된 기뢰 제거 작업 완료까지 수개월의 물리적 시간이 소요될 예정임.",
+      "BOJ 금리 인상 단행 시 대규모 글로벌 캐리 자금 이탈로 크립토 자산 및 <span class=\"text-rose-400 font-medium\">리스크</span> 자산 시장의 강한 매도세가 출회될 <span class=\"text-rose-400 font-medium\">리스크</span>가 매우 큼."
     ],
     "data_points": [
       "비트코인 반등 가격: 65,000달러 돌파",
@@ -20,9 +20,9 @@
       "FOMC 기준금리 동결 컨센서스 확률: 95% 이상"
     ],
     "signal": "neutral",
-    "signal_reason": "전쟁 완화 호재로 비트코인이 65k를 돌파했으나, 한시적 휴전의 취약성, 연준의 포워드 가이던스 변화 리스크 및 일본 금리 인상에 따른 자금 청산 공포가 맞물려 상하방 요인이 팽팽합니다.",
+    "signal_reason": "전쟁 완화 호재로 비트코인이 65k를 돌파했으나, 한시적 휴전의 <span class=\"text-rose-400 font-medium\">취약성</span>, 연준의 포워드 가이던스 변화 <span class=\"text-rose-400 font-medium\">리스크</span> 및 일본 금리 인상에 따른 자금 <span class=\"text-rose-400 font-medium\">청산</span> 공포가 맞물려 상하방 요인이 팽팽합니다.",
     "key_companies": [],
-    "insight": "트럼프의 섣부른 통행 봉쇄 해제 양보는 보복 악순환을 막기 위한 '뇌물성 합의'라는 비판을 피하기 어려우며, 일본 BOJ 총재의 부재 속 강행될지 모를 금리 기습 인상은 글로벌 엔 캐리 청산이라는 거대한 유동성 태풍을 유발할 수 있음.",
+    "insight": "트럼프의 섣부른 통행 봉쇄 해제 양보는 보복 악순환을 막기 위한 '뇌물성 합의'라는 비판을 피하기 어려우며, 일본 BOJ 총재의 부재 속 강행될지 모를 금리 기습 인상은 글로벌 엔 캐리 <span class=\"text-rose-400 font-medium\">청산</span>이라는 거대한 유동성 태풍을 유발할 수 있음.",
     "action_point": "비트코인 65k 복귀에 따른 추격 매수보다는 19일 스위스 조인식 최종 이행 여부와 연준 케빈 워시 의장의 FOMC 톤앤매너, 일본 BOJ 금리 결과를 확인하고 포지션을 조절하는 보수적 방어 전략을 추천함."
   },
   "classification": {

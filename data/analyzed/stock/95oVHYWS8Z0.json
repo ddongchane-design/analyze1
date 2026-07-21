@@ -1,0 +1,48 @@
+{
+  "video": {
+    "id": "95oVHYWS8Z0",
+    "title": "[26.07.20 오후 방송 전체보기] 겹악재에 삼전닉스 급락…또 '블랙 먼데이', 이번 주 빅테크 실적이 하반기 국내 증시 가른다",
+    "published": "2026-07-20T11:13:44+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=95oVHYWS8Z0",
+    "thumbnail": "https://img.youtube.com/vi/95oVHYWS8Z0/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "7월 20일 코스피 지수가 장중 매도 사이드카가 걸리며 4.4% 폭락해 6,516선으로 주저앉고, 코스닥 역시 연저점을 경신하며 5.3% 하락한 749선으로 장을 마감했습니다. 연휴 동안의 미국 빅테크 기술주 <span class=\"text-rose-400 font-medium\">급락</span> <span class=\"text-rose-400 font-medium\">조정</span>과 일본 키옥시아의 고점 대비 반토막 폭락(-53%) 여파를 한꺼번에 선반영한 '블랙 먼데이' 수급 키맞추기 현상으로, 국내 <span class=\"text-cyan-300 font-semibold\">반도체</span> 레버리지(두 배 ETF 등) 신용 <span class=\"text-rose-400 font-medium\">청산</span>이 겹쳐 낙폭을 키웠으나, 목요일 발표될 알파벳 등 빅테크 실적이 반전의 실마리를 쥘 것입니다.",
+    "key_claims": [
+      "금일 <span class=\"text-rose-400 font-medium\">급락</span>은 연휴 기간 미국 증시 하락분을 일시에 반영한 결과이며, 대만 <span class=\"text-cyan-300 font-semibold\">TSMC</span>의 실적 발표 이후 불거진 CAPEX 부담 및 일본 키옥시아의 대규모 소송 패배 소설 등이 아시아 <span class=\"text-cyan-300 font-semibold\">반도체</span> 전체 투심을 동반 냉각시켰다.",
+      "국내 증시 특유의 개별 종목 두 배 레버리지 ETF 및 신용 융자 반대매매 물량이 과도하게 출회되면서, 수급이 얇은 장비주(원익IPS -17%)와 변압기 등 주변 기기 섹터가 <span class=\"text-cyan-300 font-semibold\">반도체</span> 대형주 대비 선제적으로 폭락했다.",
+      "23일(목) 오전 발표 예정인 알파벳의 가이던스 확인 심리가 강해 주 초반(월~수)은 관망 횡보가 불가피하나, 대형 <span class=\"text-cyan-300 font-semibold\">반도체</span>주들의 고점 대비 하락 폭(-32~38%)이 마이크론과 수렴하여 밸류에이션(P/E 5.5배) 지지력이 작동하기 시작했다."
+    ],
+    "data_points": [
+      "코스피 하락률: -4.4% (6,516.33선 마감)",
+      "코스닥 하락률: -5.3% (749.34선 마감, 52주 신저가 경신)",
+      "일본 키옥시아 하락폭: 고점 대비 약 53% 하락 (소송 이슈 등 복합 작용)",
+      "국내 반도체 대형주 고점 대비 낙폭: 삼성전자 -32%, SK하이닉스 -38%, 마이크론 -32% (낙폭 수렴 구간 진입)"
+    ],
+    "signal": "positive",
+    "signal_reason": "글로벌 <span class=\"text-cyan-300 font-semibold\">반도체</span> 3사의 낙폭이 -30% 중후반으로 동일 수렴하며 밸류에이션 바닥을 잡았고, 신용 물량 <span class=\"text-rose-400 font-medium\">청산</span>에 의한 강제 투매(패닉셀)가 마무리 국면에 접어들어 매물 부담이 경감되었으며, 23일 <span class=\"text-cyan-300 font-semibold\">구글</span> 실적 확인 후 기술적 반등 가능성이 매력적이기 때문입니다.",
+    "key_companies": [
+      "삼성전자(005930)",
+      "SK하이닉스(000660)",
+      "원익IPS(240810)",
+      "알파벳(GOOGL)"
+    ],
+    "insight": "코스닥 연저점 경신과 5% 폭락은 펀더멘탈의 근본적 파열이 아닌, 주식 담보 대출 및 신용 융자 강제 <span class=\"text-rose-400 font-medium\">청산</span>(Margin Call)으로 유발된 전형적인 수급 공백 현상입니다. <span class=\"text-cyan-300 font-semibold\">반도체</span> 3사의 낙폭이 30%대 초중반으로 동일 맞춰진 현 가격대는 매도보다 분할 저가 매수가 압도적으로 유리한 국면입니다.",
+    "action_point": "지수 과매도 구간에서 공포에 질린 손절매를 전면 중단하고, 23일 <span class=\"text-cyan-300 font-semibold\">구글</span> 실적 데이터를 대기하면서 낙폭 과대 <span class=\"text-cyan-300 font-semibold\">반도체</span> 소부장주 및 삼성전기 등 실적 방어력이 있는 대형 부품주에 대한 분할 포지션 유지를 권장합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy",
+      "tech"
+    ],
+    "tags": [
+      "블랙먼데이폭락",
+      "신용융자반대매매",
+      "키옥시아소송",
+      "알파벳실적대기",
+      "낙폭수렴구간"
+    ]
+  }
+}

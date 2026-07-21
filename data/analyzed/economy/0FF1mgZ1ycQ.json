@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/0FF1mgZ1ycQ/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "미국의 대규모 재정 적자 누적으로 국채 발행이 급증하면서 <span class=\"text-amber-300 font-bold\">미 국채 금리가 구조적 상승 압력</span>을 받고 있으며, 이는 글로벌 자금의 달러화 쏠림 현상을 가속화하고 있습니다. 고금리 환경과 빅테크들의 대규모 AI 설비 투자(Capex) 경쟁이 겹치면서 원/달러 환율이 1,500원~1,600원대까지 치솟는 <span class=\"text-rose-400 font-medium\">고환율의 뉴노멀(New Normal)화</span> 가능성이 제기됩니다. 트럼프 전 대통령이 지정학적 갈등 해결과 인플레이션 억제를 서두르는 것은 재정 적자 완화와 금리 안정을 통해 <span class=\"text-amber-300 font-bold\">미국 경제의 펀더멘탈 붕괴 리스크</span>를 방지하기 위한 선제 조치로 해석됩니다.",
+    "summary": "미국의 대규모 재정 적자 누적으로 국채 발행이 급증하면서 미 국채 금리가 구조적 상승 압력을 받고 있으며, 이는 글로벌 자금의 달러화 쏠림 현상을 가속화하고 있습니다. <span class=\"text-amber-300 font-bold\">고금리</span> 환경과 빅테크들의 대규모 AI 설비 투자(Capex) 경쟁이 겹치면서 원/달러 <span class=\"text-amber-300 font-bold\">환율</span>이 1,500원~1,600원대까지 치솟는 고<span class=\"text-amber-300 font-bold\">환율</span>의 뉴노멀(New Normal)화 가능성이 제기됩니다. 트럼프 전 대통령이 지정학적 갈등 해결과 <span class=\"text-amber-300 font-bold\">인플레이션</span> 억제를 서두르는 것은 재정 적자 완화와 금리 안정을 통해 미국 경제의 펀더멘탈 붕괴 <span class=\"text-rose-400 font-medium\">리스크</span>를 방지하기 위한 선제 조치로 해석됩니다.",
     "key_claims": [
-      "미국의 재정 지배력(Fiscal Dominance) 시대로 진입하면서 연준의 통화 정책보다 <span class=\"text-rose-400 font-medium\">정부 재정 적자와 국채 발행 규모</span>가 금리를 결정하는 핵심 요인이 되었다.",
-      "스페이스X 등 초대형 테크 기업들의 IPO와 신규 유상증자가 대거 대기하고 있어 단기적으로 가상자산과 주식 시장의 <span class=\"text-rose-400 font-medium\">유동성 흡수(빨대 효과)</span>가 발생할 것이다.",
-      "고금리·고환율 충격은 과거와 달리 국가 부도 위기가 아니라 AI 등 첨단 산업 중심의 <span class=\"text-cyan-300 font-semibold\">성장을 통한 비용 상쇄 국면</span>으로 전개될 것이다."
+      "미국의 재정 지배력(Fiscal Dominance) 시대로 진입하면서 연준의 통화 정책보다 정부 재정 적자와 국채 발행 규모가 금리를 결정하는 핵심 요인이 되었다.",
+      "<span class=\"text-cyan-300 font-semibold\">스페이스X</span> 등 초대형 테크 기업들의 IPO와 신규 유상증자가 대거 대기하고 있어 단기적으로 가상자산과 주식 시장의 유동성 흡수(빨대 효과)가 발생할 것이다.",
+      "<span class=\"text-amber-300 font-bold\">고금리</span>·고<span class=\"text-amber-300 font-bold\">환율</span> 충격은 과거와 달리 국가 부도 위기가 아니라 AI 등 첨단 산업 중심의 성장을 통한 비용 상쇄 국면으로 전개될 것이다."
     ],
     "data_points": [
       "미 국채 금리 및 고유가 영향으로 인플레이션 고착화 우려 확산",
@@ -21,12 +21,12 @@
       "빅테크 및 AI 기업들의 글로벌 케팩스(Capex) 지출 급증세 유지"
     ],
     "signal": "neutral",
-    "signal_reason": "미 국채 금리와 환율 상승 등 거시 매크로 불안은 상존하나, <span class=\"text-cyan-300 font-semibold\">AI 산업의 압도적인 생산성 및 명목 성장성</span>이 이를 상쇄하며 증시 하락을 저지하고 있습니다.",
+    "signal_reason": "미 국채 금리와 <span class=\"text-amber-300 font-bold\">환율</span> 상승 등 거시 매크로 불안은 상존하나, AI 산업의 압도적인 생산성 및 명목 성장성이 이를 상쇄하며 증시 하락을 저지하고 있습니다.",
     "key_companies": [
       "스페이스X"
     ],
-    "insight": "미국 재정 적자 심화로 인한 고금리와 고환율은 일시적인 현상이 아닌 장기적인 거시 구조적 변화이며, 투자자는 환율 트라우마에서 벗어나 <span class=\"text-cyan-300 font-semibold\">글로벌 공급망 재편의 핵심 수혜주</span>이자 높은 명목 성장률을 증명하는 미국 주도 독과점 빅테크에 초점을 맞춰야 합니다.",
-    "action_point": "단기 환율 급등에 따른 불안감으로 자산을 현금화하기보다, 강달러 수혜가 예상되는 수출 대형주나 미국 핵심 자산(M7) 및 <span class=\"text-cyan-300 font-semibold\">RWA/AI 인프라 관련 밸류체인 기업</span> 위주로 포트폴리오를 재편하는 전략이 바람직합니다."
+    "insight": "미국 재정 적자 심화로 인한 <span class=\"text-amber-300 font-bold\">고금리</span>와 고<span class=\"text-amber-300 font-bold\">환율</span>은 일시적인 현상이 아닌 장기적인 거시 구조적 변화이며, 투자자는 <span class=\"text-amber-300 font-bold\">환율</span> 트라우마에서 벗어나 글로벌 공급망 재편의 핵심 수혜주이자 높은 명목 성장률을 증명하는 미국 주도 독과점 빅테크에 초점을 맞춰야 합니다.",
+    "action_point": "단기 <span class=\"text-amber-300 font-bold\">환율</span> 급등에 따른 불안감으로 자산을 현금화하기보다, 강달러 수혜가 예상되는 수출 대형주나 미국 핵심 자산(M7) 및 RWA/AI 인프라 관련 밸류체인 기업 위주로 포트폴리오를 재편하는 전략이 바람직합니다."
   },
   "classification": {
     "primary_topic": "economy",

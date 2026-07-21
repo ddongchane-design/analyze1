@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/CgusQDcn0Jw/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "금요일 미 반도체 급락 충격으로 코스피 800개 이상 종목이 하락했으나, 과도한 낙폭에 기반한 단기 <span class=\"text-amber-300 font-bold\">자율 반등 가능성</span>을 열어두고 공포 투매보다 철저한 비중 유지 및 매수 관점을 제안합니다.",
+    "summary": "금요일 미 <span class=\"text-cyan-300 font-semibold\">반도체</span> <span class=\"text-rose-400 font-medium\">급락</span> 충격으로 코스피 800개 이상 종목이 하락했으나, 과도한 낙폭에 기반한 단기 자율 반등 가능성을 열어두고 공포 투매보다 철저한 비중 유지 및 매수 관점을 제안합니다.",
     "key_claims": [
-      "고용 지표 호조와 유가 상승 등으로 금리 우려가 재점화되었으나 이는 일시적 투심 훼손 과정이다.",
-      "환율 급등(1,550원 근접)은 반도체 주가 급상승 후 차익 실현 환전 및 대미 재투자 증가에 따른 요인이 결합된 결과다.",
+      "고용 지표 호조와 <span class=\"text-amber-300 font-bold\">유가 상승</span> 등으로 금리 우려가 재점화되었으나 이는 일시적 투심 훼손 과정이다.",
+      "<span class=\"text-amber-300 font-bold\">환율</span> 급등(1,550원 근접)은 <span class=\"text-cyan-300 font-semibold\">반도체</span> 주가 급상승 후 차익 실현 환전 및 대미 재투자 증가에 따른 요인이 결합된 결과다.",
       "수급적으로 추가 하방이 깊지 않으며 개인들의 반대 매매에 따른 투매 유발 시 분할 매수 대응이 합리적이다."
     ],
     "data_points": [
@@ -19,13 +19,13 @@
       "원달러 환율 종가: 1,548원 수준"
     ],
     "signal": "neutral",
-    "signal_reason": "단기적인 투심 악화와 환율 상승 부담으로 변동성이 크지만, 펀더멘탈 훼손이 없는 만큼 과매도에 의한 단기 기술적 복구가 기대됩니다.",
+    "signal_reason": "단기적인 투심 악화와 <span class=\"text-amber-300 font-bold\">환율</span> 상승 부담으로 변동성이 크지만, 펀더멘탈 훼손이 없는 만큼 과매도에 의한 단기 기술적 복구가 기대됩니다.",
     "key_companies": [
       "삼성전자",
       "SK하이닉스"
     ],
-    "insight": "현재의 고환율은 한국의 신용/경제 위기가 아니라, 수출 대표주의 과열 해소 및 미국 공장 증설을 위한 해외 유보금 증가 등 반도체 랠리의 이면으로 볼 수 있어 과도하게 우려할 필요가 없습니다.",
-    "action_point": "단기 반등을 겨냥해 투매에 동참하기보다 포트폴리오 내 우량주 비중을 유지하고, 현금 여력이 있다면 반도체 대장주의 저가 분할 매수 기회로 활용해야 합니다."
+    "insight": "현재의 고<span class=\"text-amber-300 font-bold\">환율</span>은 한국의 신용/경제 위기가 아니라, 수출 대표주의 <span class=\"text-rose-400 font-medium\">과열</span> 해소 및 미국 공장 증설을 위한 해외 유보금 증가 등 <span class=\"text-cyan-300 font-semibold\">반도체</span> 랠리의 이면으로 볼 수 있어 과도하게 우려할 필요가 없습니다.",
+    "action_point": "단기 반등을 겨냥해 투매에 동참하기보다 포트폴리오 내 우량주 비중을 유지하고, 현금 여력이 있다면 <span class=\"text-cyan-300 font-semibold\">반도체</span> 대장주의 저가 분할 매수 기회로 활용해야 합니다."
   },
   "classification": {
     "primary_topic": "stock",

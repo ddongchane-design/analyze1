@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/Z9jBG44swEg/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "코스피 지수가 최고 수준에 도달했으나, 장기적인 관점에서 보면 여전히 갈 길이 먼 <span class=\"text-amber-300 font-bold\">상승 여력</span>이 존재함. 매크로 및 섹터 환경이 약하더라도 각 분야에서 확실한 <span class=\"text-cyan-300 font-semibold\">주도주</span>를 공략하는 여주사(이왕 살 거면 주도주를 사라) 전략을 권장함. 특히 AI 시대의 핵심 수혜주인 메모리 반도체와 화장품 분야의 특정 종목(아모레퍼시픽 등)이 매수 우위에 있음을 강조함.",
+    "summary": "코스피 지수가 최고 수준에 도달했으나, 장기적인 관점에서 보면 여전히 갈 길이 먼 상승 여력이 존재함. 매크로 및 섹터 환경이 약하더라도 각 분야에서 확실한 주도주를 공략하는 여주사(이왕 살 거면 주도주를 사라) 전략을 권장함. 특히 AI 시대의 핵심 수혜주인 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span>와 화장품 분야의 특정 종목(아모레퍼시픽 등)이 매수 우위에 있음을 강조함.",
     "key_claims": [
       "지수가 많이 오른 것처럼 보여도 장기적 관점에서는 여전히 갈 길이 멀며 기회가 있음.",
       "시장 환경이 약한 섹터일지라도 그 안의 주도주는 탄력 있게 움직이므로 반드시 1등 주도주를 매수해야 함.",
-      "AI 시대 메모리 반도체는 여전히 시장의 강력한 주도주 지위를 유지함."
+      "AI 시대 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span>는 여전히 시장의 강력한 주도주 지위를 유지함."
     ],
     "data_points": [],
     "signal": "bullish",
@@ -21,8 +21,8 @@
     "key_companies": [
       "아모레퍼시픽(090430)"
     ],
-    "insight": "지수의 단기 고점 인식에 따른 불안감보다 중요한 것은 '섹터 내 주도주 쏠림 현상'임. 전체 지수의 큰 폭등이 없더라도 AI 반도체 공급망이나 미국 중심 수출 성장세가 확인되는 뷰티(화장품) 등 <span class=\"text-cyan-300 font-semibold\">글로벌 경쟁력을 갖춘 기업</span>으로 자금이 집중되는 차별화 장세가 지속될 것임.",
-    "action_point": "지수 추종형 인덱스 펀드보다는 AI 반도체 밸류체인(삼성전자, SK하이닉스) 및 글로벌 K-뷰티 수출 호조를 보이는 <span class=\"text-cyan-300 font-semibold\">업종 내 1등 주도주</span>를 선별하여 비중을 확대하는 전략을 유지해야 함."
+    "insight": "지수의 단기 고점 인식에 따른 불안감보다 중요한 것은 '섹터 내 주도주 쏠림 현상'임. 전체 지수의 큰 폭등이 없더라도 <span class=\"text-cyan-300 font-semibold\">AI 반도체</span> 공급망이나 미국 중심 수출 성장세가 확인되는 뷰티(화장품) 등 글로벌 경쟁력을 갖춘 기업으로 자금이 집중되는 차별화 장세가 지속될 것임.",
+    "action_point": "지수 추종형 인덱스 펀드보다는 <span class=\"text-cyan-300 font-semibold\">AI 반도체</span> 밸류체인(<span class=\"text-cyan-300 font-semibold\">삼성전자</span>, <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>) 및 글로벌 K-뷰티 수출 호조를 보이는 업종 내 1등 주도주를 선별하여 비중을 확대하는 전략을 유지해야 함."
   },
   "classification": {
     "primary_topic": "stock",

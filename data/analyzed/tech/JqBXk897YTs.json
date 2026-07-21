@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/JqBXk897YTs/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "AI 서비스가 멀티모달(동영상, 오감) 시대로 진화함에 따라 데이터센터 내 전송 지연을 막는 <span class=\"text-cyan-300 font-semibold\">광 네트워크(Optical Network)</span>가 차세대 AI 인프라의 핵심으로 급부상했다. 기존 구리선 기반 통신은 대역폭 한계와 발열로 인해 수만 장의 GPU 병렬 연결을 효율적으로 지원할 수 없다. 칩 간 통신(스케일업)까지 광 통신이 확장되며 데이터센터 예산 중 네트워크 비중이 크게 늘어날 전망이다.",
+    "summary": "AI 서비스가 멀티모달(동영상, 오감) 시대로 진화함에 따라 데이터센터 내 전송 지연을 막는 광 네트워크(Optical Network)가 차세대 AI 인프라의 핵심으로 급부상했다. 기존 구리선 기반 통신은 대역폭 한계와 발열로 인해 수만 장의 GPU 병렬 연결을 효율적으로 지원할 수 없다. 칩 간 통신(스케일업)까지 광 통신이 확장되며 데이터센터 예산 중 네트워크 비중이 크게 늘어날 전망이다.",
     "key_claims": [
       "멀티모달 AI와 휴머노이드의 정교한 데이터 전송을 위해 네트워크 병목 해결이 절실하다.",
-      "데이터센터 인프라 내 <span class=\"text-cyan-300 font-semibold\">네트워크 할당 비중</span>이 10% 초반에서 향후 20%로 급증할 것이다.",
+      "데이터센터 인프라 내 네트워크 할당 비중이 10% 초반에서 향후 20%로 급증할 것이다.",
       "광 네트워크 전환은 부품 및 설계의 총체적 변화가 필요해, 단기적으로는 구리 하이브리드 기술도 함께 공존한다."
     ],
     "data_points": [
@@ -19,7 +19,7 @@
       "AI 서버 내 메모리 원가 비중 기존 27%에서 40% 이상으로 증가"
     ],
     "signal": "bullish",
-    "signal_reason": "빅테크들의 초거대 CapEx 투자가 물리적 하드웨어 한계를 극복하기 위해 <span class=\"text-cyan-300 font-semibold\">광트랜시버 및 스위치</span> 업종으로 집중될 수밖에 없다.",
+    "signal_reason": "빅테크들의 초거대 CapEx 투자가 물리적 하드웨어 한계를 극복하기 위해 광트랜시버 및 스위치 업종으로 집중될 수밖에 없다.",
     "key_companies": [
       "Ciena",
       "Lumentum",
@@ -27,8 +27,8 @@
       "Nokia",
       "크리오테크"
     ],
-    "insight": "GPU의 계산 능력이 극대화되더라도 이를 연결하는 통신 채널이 느리면 전체 시스템 성능이 저하되는 병목 현상이 발생하여, 네트워크 고도화가 반도체만큼 중요해졌다.",
-    "action_point": "글로벌 독점적 기술력을 지닌 해외 <span class=\"text-cyan-300 font-semibold\">광트랜시버 설계 기업</span> 및 광학 솔루션 소부장 종목의 조정을 기회로 매수하라."
+    "insight": "GPU의 계산 능력이 극대화되더라도 이를 연결하는 통신 채널이 느리면 전체 시스템 성능이 저하되는 병목 현상이 발생하여, 네트워크 고도화가 <span class=\"text-cyan-300 font-semibold\">반도체</span>만큼 중요해졌다.",
+    "action_point": "글로벌 독점적 기술력을 지닌 해외 광트랜시버 설계 기업 및 광학 솔루션 소부장 종목의 <span class=\"text-rose-400 font-medium\">조정</span>을 기회로 매수하라."
   },
   "classification": {
     "primary_topic": "tech",

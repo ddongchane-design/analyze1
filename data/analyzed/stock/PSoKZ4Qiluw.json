@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/PSoKZ4Qiluw/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "신임 연준 의장 케빈 워시의 첫 FOMC는 친절한 포워드 가이던스를 폐지하고 정보 제공을 대폭 축소하는 <span class=\"text-rose-400 font-medium\">매파적 불친절함</span>을 드러냄.\n연준의 통화 긴축으로 인한 금리 부담에도 불구하고, 빅테크 기업들의 AI 투자를 향한 의지(기대 수익률 약 48%)는 여전히 굳건함.\n결과적으로 반도체 및 AI 하드웨어 밸류체인에 자금이 집중되는 <span class=\"text-amber-300 font-bold\">투자 쏠림 현상</span>은 거시 금리 환경과 무관하게 지속될 전망임.",
+    "summary": "신임 연준 의장 케빈 워시의 첫 FOMC는 친절한 포워드 가이던스를 폐지하고 정보 제공을 대폭 축소하는 매파적 불친절함을 드러냄.\n연준의 통화 긴축으로 인한 금리 부담에도 불구하고, 빅테크 기업들의 AI 투자를 향한 의지(기대 수익률 약 48%)는 여전히 굳건함.\n결과적으로 <span class=\"text-cyan-300 font-semibold\">반도체</span> 및 AI 하드웨어 밸류체인에 자금이 집중되는 투자 쏠림 현상은 거시 금리 환경과 무관하게 지속될 전망임.",
     "key_claims": [
       "케빈 워시 연준 의장은 포워드 가이던스로 인한 연준 신뢰도 하락 부작용을 치료하기 위해 극단적 불친절(기자회견 폐지 등) 정책을 실행함.",
-      "현재 AI 컴퓨팅 임대 시장의 높은 수익률(연환산 약 48%) 덕분에 기업들의 AI 투자 <span class=\"text-amber-300 font-bold\">의지(Willingness)</span>는 금리 장벽을 넘어섬.",
-      "거시경제적 긴축 국면에서도 빅테크의 막대한 자금을 직접 수주하는 <span class=\"text-cyan-300 font-semibold\">반도체 밸류체인</span>(HBM, 부품사 등)의 우위는 계속될 것임."
+      "현재 AI 컴퓨팅 임대 시장의 높은 수익률(연환산 약 48%) 덕분에 기업들의 AI 투자 의지(Willingness)는 금리 장벽을 넘어섬.",
+      "거시경제적 긴축 국면에서도 빅테크의 막대한 자금을 직접 수주하는 <span class=\"text-cyan-300 font-semibold\">반도체</span> 밸류체인(<span class=\"text-cyan-300 font-semibold\">HBM</span>, 부품사 등)의 우위는 계속될 것임."
     ],
     "data_points": [
       "AI 연산 및 토큰 생성을 위한 컴퓨팅 인프라 임대 사업의 기대 수익률은 약 48%로 산정됨.",
@@ -31,8 +31,8 @@
       "Google(GOOGL)",
       "Microsoft(MSFT)"
     ],
-    "insight": "연준의 정책 기조가 시장 개입(친절함)을 줄이고 불확실성을 높이는 방향으로 급변하면서 시장의 자금은 어중간한 자산군을 피하고 기대 수익이 가장 확실한 <span class=\"text-cyan-300 font-semibold\">AI 인프라 및 반도체</span> 영역으로 더욱 쏠리게 됨.",
-    "action_point": "거시 유동성 악화에 따른 지수 조정 위험에 대비하되, 확실한 빅테크 자본지출(CAPEX) 수혜를 받는 국내외 <span class=\"text-cyan-300 font-semibold\">HBM</span> 및 전공정·후공정 핵심 반도체주 중심의 압축 대응이 유효함."
+    "insight": "연준의 정책 기조가 시장 개입(친절함)을 줄이고 불확실성을 높이는 방향으로 급변하면서 시장의 자금은 어중간한 자산군을 피하고 기대 수익이 가장 확실한 AI 인프라 및 <span class=\"text-cyan-300 font-semibold\">반도체</span> 영역으로 더욱 쏠리게 됨.",
+    "action_point": "거시 유동성 악화에 따른 지수 <span class=\"text-rose-400 font-medium\">조정</span> <span class=\"text-rose-400 font-medium\">위험</span>에 대비하되, 확실한 빅테크 자본지출(CAPEX) 수혜를 받는 국내외 <span class=\"text-cyan-300 font-semibold\">HBM</span> 및 전공정·후공정 핵심 <span class=\"text-cyan-300 font-semibold\">반도체</span>주 중심의 압축 대응이 유효함."
   },
   "classification": {
     "primary_topic": "stock",

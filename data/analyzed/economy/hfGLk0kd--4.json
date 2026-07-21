@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/hfGLk0kd--4/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "<span class=\"text-rose-400 font-medium\">원·달러 환율 1,540원</span> 돌파와 외환 시장 패닉 속에서 해외의 <span class=\"text-rose-400 font-medium\">스파이크플레이션</span> 경고를 분석하고, <span class=\"text-cyan-300 font-semibold\">LG그룹</span>의 엔비디아 <span class=\"text-cyan-300 font-semibold\">블랙웰 GPU 1만 장</span> 확보 뉴스를 조명합니다.",
+    "summary": "원·달러 <span class=\"text-amber-300 font-bold\">환율</span> 1,540원 돌파와 외환 시장 패닉 속에서 해외의 스파이크플레이션 경고를 분석하고, LG그룹의 엔비디아 블랙웰 GPU 1만 장 확보 뉴스를 조명합니다.",
     "key_claims": [
-      "외국인들이 19일 연속 코스피를 순매도하며 지수를 압박하고 환율 급등을 주도하고 있다.",
-      "FT는 저물가 유지 후 갑자기 튀는 스파이크플레이션(Spikeflation) 위험을 경고했으며, 각국의 공공부채 비율 상승으로 위기 대처력이 약화되었다.",
+      "외국인들이 19일 연속 코스피를 순매도하며 지수를 압박하고 <span class=\"text-amber-300 font-bold\">환율</span> 급등을 주도하고 있다.",
+      "FT는 저물가 유지 후 갑자기 튀는 스파이크플레이션(Spikeflation) <span class=\"text-rose-400 font-medium\">위험</span>을 경고했으며, 각국의 공공부채 비율 상승으로 위기 대처력이 약화되었다.",
       "LG그룹은 AI 연구와 휴머노이드 개발을 위해 약 7,000억 원 상당의 블랙웰 1만 장을 구매하기로 단독 보도되었다."
     ],
     "data_points": [
@@ -19,7 +19,7 @@
       "LG 엔비디아 블랙웰 GPU 도입 규모: 1만 장 (약 7,000억 원 가치)"
     ],
     "signal": "bearish",
-    "signal_reason": "글로벌 공공부채 및 고금리, 고유가 불확실성과 외환 시장의 급격한 약세가 한국 증시의 자금 이탈 압력을 키우고 있습니다.",
+    "signal_reason": "글로벌 공공부채 및 <span class=\"text-amber-300 font-bold\">고금리</span>, 고<span class=\"text-amber-300 font-bold\">유가</span> 불확실성과 외환 시장의 급격한 약세가 한국 증시의 자금 이탈 압력을 키우고 있습니다.",
     "key_companies": [
       "LG전자",
       "NVIDIA",
@@ -27,7 +27,7 @@
       "SK하이닉스"
     ],
     "insight": "미국의 압박과 관세 협상 속에서도 국내 대기업들이 독자 AI 주도권 및 로보틱스 개발을 위해 공격적으로 최첨단 칩 인프라 확보에 나서고 있습니다.",
-    "action_point": "환율 발작 국면에서는 무분별한 테크 추격은 자제하되, 실물 GPU 인프라와 피지컬 AI 로드맵을 지닌 대형 그룹주로 포트폴리오를 슬림화해야 합니다."
+    "action_point": "<span class=\"text-amber-300 font-bold\">환율</span> 발작 국면에서는 무분별한 테크 추격은 자제하되, 실물 GPU 인프라와 피지컬 AI 로드맵을 지닌 대형 그룹주로 포트폴리오를 슬림화해야 합니다."
   },
   "classification": {
     "primary_topic": "economy",

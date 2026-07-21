@@ -8,25 +8,25 @@
     "thumbnail": "https://img.youtube.com/vi/nxl1POuRbC4/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "6월 미국 CPI 헤드라인이 -0.4% 마이너스를 기록하며 연내 금리 인하 기대가 부활했습니다. 이에 반도체 하드웨어 주식들이 반등을 펼쳤으나 IBM의 실적 우려 폭락과 중동 유가 불안 등 복합적 변수를 개장 전 점검합니다.",
+    "summary": "6월 미국 CPI 헤드라인이 -0.4% 마이너스를 기록하며 연내 <span class=\"text-amber-300 font-bold\">금리 인하</span> 기대가 부활했습니다. 이에 <span class=\"text-cyan-300 font-semibold\">반도체</span> 하드웨어 주식들이 반등을 펼쳤으나 IBM의 실적 우려 폭락과 <span class=\"text-violet-300 font-medium\">중동</span> <span class=\"text-amber-300 font-bold\">유가</span> 불안 등 복합적 변수를 개장 전 점검합니다.",
     "key_claims": [
       "미국의 6월 CPI 하락은 그동안 가팔랐던 물가 상승을 마침내 꺾었음을 시사하여 위축되었던 성장주의 유동성 환경을 복구했습니다.",
-      "SK하이닉스는 미국 현지 ADR 프리미엄 강세가 돋보였으며, JP모건과 골드만삭스도 금융 실적 발표를 앞두고 반등 대기 중입니다.",
-      "다만 유가가 중동 피격 사태로 Brent $87선까지 재상승한 상황은 리스크 요인입니다."
+      "<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>는 미국 현지 ADR 프리미엄 강세가 돋보였으며, JP모건과 골드만삭스도 금융 실적 발표를 앞두고 반등 대기 중입니다.",
+      "다만 <span class=\"text-amber-300 font-bold\">유가</span>가 <span class=\"text-violet-300 font-medium\">중동</span> 피격 사태로 Brent $87선까지 재상승한 상황은 <span class=\"text-rose-400 font-medium\">리스크</span> 요인입니다."
     ],
     "data_points": [
       "6월 미국 CPI 상승률: 전월비 -0.4% 하락 기록",
       "브렌트유 선물 고가: 배럴당 87.0달러선 수준 돌파"
     ],
     "signal": "bullish",
-    "signal_reason": "물가 급냉(CPI 마이너스)으로 연준의 고금리 긴축 부담이 완벽히 사그라들어 테크 성장주 및 반도체 섹터의 밸류에이션 멀티플 복원을 주도하기 때문입니다.",
+    "signal_reason": "물가 급냉(CPI 마이너스)으로 연준의 <span class=\"text-amber-300 font-bold\">고금리</span> 긴축 부담이 완벽히 사그라들어 테크 성장주 및 <span class=\"text-cyan-300 font-semibold\">반도체</span> 섹터의 밸류에이션 멀티플 복원을 주도하기 때문입니다.",
     "key_companies": [
       "SK하이닉스(000660)",
       "IBM(IBM)",
       "JP모건"
     ],
-    "insight": "인플레이션 압박이 마이너스로 돌아선 순간, 연준의 최우선 타겟은 고용 안정(금리 인하 개시)이 됩니다. 지정학적 유가 불안이 상존하나 대세적 유동성 물꼬는 이미 성장주 방향으로 트였습니다.",
-    "action_point": "유가 노이즈로 억눌린 반도체 장비 및 핵심 하드웨어 칩 제조업 주식을 개장 전 저점 구간에서 선제적으로 확보해 두는 전략이 유리합니다."
+    "insight": "<span class=\"text-amber-300 font-bold\">인플레이션</span> 압박이 마이너스로 돌아선 순간, 연준의 최우선 타겟은 고용 안정(<span class=\"text-amber-300 font-bold\">금리 인하</span> 개시)이 됩니다. 지정학적 <span class=\"text-amber-300 font-bold\">유가</span> 불안이 상존하나 대세적 유동성 물꼬는 이미 성장주 방향으로 트였습니다.",
+    "action_point": "<span class=\"text-amber-300 font-bold\">유가</span> 노이즈로 억눌린 <span class=\"text-cyan-300 font-semibold\">반도체</span> 장비 및 핵심 하드웨어 칩 제조업 주식을 개장 전 저점 구간에서 선제적으로 확보해 두는 전략이 유리합니다."
   },
   "classification": {
     "primary_topic": "stock",

@@ -8,25 +8,25 @@
     "thumbnail": "https://img.youtube.com/vi/5McqMUtLJuw/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "상반기 코스피를 주도한 반도체 쏠림 장세의 지속 가능성과 하반기 매크로 매듭 구간의 도래 가능성을 진단함. 하이닉스와 삼성전자의 2분기 이익 폭증으로 밸류에이션(Fwd PE 6~8배) 매력은 유효하지만, 미 연준의 고금리 장기화 기조와 기준금리 추가 인상 우려(9월 인상 가능성 프라이싱) 등 매크로 변수가 지수의 상단을 억제하고 있음을 분석함.",
+    "summary": "상반기 코스피를 주도한 <span class=\"text-cyan-300 font-semibold\">반도체</span> 쏠림 장세의 지속 가능성과 하반기 매크로 매듭 구간의 도래 가능성을 진단함. 하이닉스와 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>의 2분기 이익 폭증으로 밸류에이션(Fwd PE 6~8배) 매력은 유효하지만, 미 연준의 <span class=\"text-amber-300 font-bold\">고금리 장기화</span> 기조와 기준금리 추가 인상 우려(9월 인상 가능성 프라이싱) 등 매크로 변수가 지수의 상단을 억제하고 있음을 분석함.",
     "key_claims": [
       "코스피 상반기 랠리는 철저히 이익 전망치 개선 속도가 주가 상승보다 빨랐던 밸류에이션 저평가(PE 8.5배) 장세에 기반해 있어 버블 단계가 아님.",
       "미국 GDP의 약 2%가 10년간 AI CapEx로 투입될 예정으로, 하이퍼스케일러의 설비 투자 규모를 감안하면 메모리 수요 탄력성은 훼손되지 않을 가능성이 높음.",
-      "다만, 근원 PCE 물가가 연준 목표(2%)의 2배 수준(연율 3.9% 추정치)에 머물러 있어, 연준이 금리 인하를 지연시키거나 9월 중 기준금리 인상을 감행할 매파적 리스크가 잠재함."
+      "다만, 근원 PCE 물가가 연준 목표(2%)의 2배 수준(연율 3.9% 추정치)에 머물러 있어, 연준이 <span class=\"text-amber-300 font-bold\">금리 인하</span>를 지연시키거나 9월 중 기준금리 인상을 감행할 매파적 <span class=\"text-rose-400 font-medium\">리스크</span>가 잠재함."
     ],
     "data_points": [
       "코스피 평균 Fwd PE: 선행 주가수익비율 기준 8.5배 수준의 역사적 하단 지지",
       "반도체 기업 상반기 상승률: 삼성전자 약 130%, SK하이닉스 약 300% 상승하며 지수 기여도 극대화"
     ],
     "signal": "neutral",
-    "signal_reason": "반도체의 이익 기초체력(Earnings Power)은 장기적인 AI CapEx에 힘입어 견고하지만, 3분기 중 연준의 추가 금리 인상 위협과 엔화/원화 동반 약세 매크로 변수가 상승 탄력을 제어하기 때문입니다.",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">반도체</span>의 이익 기초체력(Earnings Power)은 장기적인 AI CapEx에 힘입어 견고하지만, 3분기 중 연준의 추가 금리 인상 위협과 엔화/원화 동반 약세 매크로 변수가 상승 탄력을 제어하기 때문입니다.",
     "key_companies": [
       "삼성전자(005930)",
       "SK하이닉스(000660)",
       "NVIDIA"
     ],
-    "insight": "현재 반도체 섹터의 본질은 '가장 많이 올랐지만 가장 저평가된 업종'이라는 모순에 있습니다. 하반기 연준의 추가 인상 시나리오 및 환율 급변동성으로 주가의 <span class=\"text-cyan-300 font-semibold\">매듭 짓기 조정</span>이 출현하더라도, 빅테크의 AI 인프라 누적 Capex 규모(약 5조 달러 대기)가 견조해 조정폭은 제한적일 것입니다.",
-    "action_point": "3분기 매크로 매듭 구간에서 지수 추종 인덱스 비중은 축소하고, 반도체 대장주의 하방 지지력(PE 7배 부근)을 신뢰하여 가격 조정 시마다 분할 매수하는 변동성 플레이 전략이 효과적입니다."
+    "insight": "현재 <span class=\"text-cyan-300 font-semibold\">반도체</span> 섹터의 본질은 '가장 많이 올랐지만 가장 저평가된 업종'이라는 모순에 있습니다. 하반기 연준의 추가 인상 시나리오 및 <span class=\"text-amber-300 font-bold\">환율</span> 급변동성으로 주가의 매듭 짓기 <span class=\"text-rose-400 font-medium\">조정</span>이 출현하더라도, 빅테크의 AI 인프라 누적 Capex 규모(약 5조 달러 대기)가 견조해 <span class=\"text-rose-400 font-medium\">조정</span>폭은 제한적일 것입니다.",
+    "action_point": "3분기 매크로 매듭 구간에서 지수 추종 인덱스 비중은 축소하고, <span class=\"text-cyan-300 font-semibold\">반도체</span> 대장주의 하방 지지력(PE 7배 부근)을 신뢰하여 가격 <span class=\"text-rose-400 font-medium\">조정</span> 시마다 분할 매수하는 변동성 플레이 전략이 효과적입니다."
   },
   "classification": {
     "primary_topic": "stock",

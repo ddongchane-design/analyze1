@@ -1,0 +1,41 @@
+{
+  "video": {
+    "id": "PObKCqx1cxU",
+    "title": "\"건드리면 세계 경제 끝장난다\" 미국이 차마 할 수 없는 선택 #교양이를부탁해",
+    "published": "2026-07-20T11:30:04+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=PObKCqx1cxU",
+    "thumbnail": "https://img.youtube.com/vi/PObKCqx1cxU/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-violet-300 font-medium\">이란</span>과 미국의 긴장이 최고조에 달한 가운데, 미국이 <span class=\"text-violet-300 font-medium\">이란</span>의 핵심 가스/유전(카르그 섬 등) 및 전력망 등 중추 기반 시설을 타격하여 재정을 고갈시키는 극단적 군사 카드를 주저하고 있습니다. 이는 서방의 타격 시 <span class=\"text-violet-300 font-medium\">이란</span>이 카타르, 사우디아라비아 아람코, <span class=\"text-violet-300 font-medium\">쿠웨이트</span> 등 걸프만 동맹국들의 주요 에너지 생산 기지를 무차별 보복 공격할 가능성이 높으며, 이 경우 글로벌 <span class=\"text-amber-300 font-bold\">유가</span> 급등과 해상 수송로 붕괴로 세계 경제가 파국적 타격을 입기 때문입니다.",
+    "key_claims": [
+      "미국이 <span class=\"text-violet-300 font-medium\">이란</span> 경제의 젖줄인 가스 유전이나 카르그 섬 원유 터미널 타격을 보류하는 이유는 <span class=\"text-violet-300 font-medium\">이란</span>의 즉각적이고 대규모의 보복 에너지 전면전 <span class=\"text-rose-400 font-medium\">리스크</span> 때문이다.",
+      "서방이 <span class=\"text-violet-300 font-medium\">이란</span> 인프라를 건드릴 경우 <span class=\"text-violet-300 font-medium\">이란</span>은 사우디 아람코, 카타르 가스전 등 <span class=\"text-violet-300 font-medium\">중동</span> 우방국 시설을 무차별 타격할 수 있는 군사적 능력을 보유하고 있다.",
+      "<span class=\"text-violet-300 font-medium\">중동</span> 에너지 시설의 광범위한 파괴는 원유 가격 폭등을 유발해 <span class=\"text-amber-300 font-bold\">인플레이션</span>을 재점화시키고 서방 금융 및 실물 경제에 통제 불가능한 피를 흘리게 만들 것이다."
+    ],
+    "data_points": [
+      "타깃 핵심 지역: 이란의 카르그 섬(Kharg Island) 원유 수출 허브"
+    ],
+    "signal": "negative",
+    "signal_reason": "에너지 핵심 기반 시설 상호 파괴라는 최악의 군사적 확전 <span class=\"text-rose-400 font-medium\">리스크</span>가 존재하며, 현실화될 경우 <span class=\"text-amber-300 font-bold\">유가</span> 폭등 및 글로벌 공급망 대란을 통해 금융 시장 전반을 마비시킬 강력한 지정학적 거시 악재이기 때문입니다.",
+    "key_companies": [
+      "아람코(Aramco)"
+    ],
+    "insight": "<span class=\"text-violet-300 font-medium\">중동</span>의 갈등 구조는 상호 확증 파괴(MAD) 수준의 에너지 보복 카드로 봉인되어 있습니다. 서방 진영은 <span class=\"text-violet-300 font-medium\">이란</span>의 재정 원천을 고사시키고 싶어 하지만, 사우디와 카타르의 에너지 시설이 인질로 잡혀 있는 한 직접적인 타격은 세계 경제의 연쇄 붕괴를 초래할 것입니다.",
+    "action_point": "지정학적 대치 상황의 완화 전까지는 거시 자산 포트폴리오의 안전 자산 비중을 유지하고, 원유 상장지수펀드(ETF)나 정유 부문 헷지 비율을 보수적으로 구축하며 <span class=\"text-amber-300 font-bold\">금리 인하</span> 수혜 기술주의 변동성 <span class=\"text-rose-400 font-medium\">리스크</span> 범위를 안배해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "energy"
+    ],
+    "tags": [
+      "이란유전타격",
+      "사우디아람코보복",
+      "유가폭등리스크",
+      "세계경제파국",
+      "지정학확전"
+    ]
+  }
+}

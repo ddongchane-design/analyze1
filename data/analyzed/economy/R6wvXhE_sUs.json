@@ -8,21 +8,21 @@
     "thumbnail": "https://img.youtube.com/vi/R6wvXhE_sUs/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "미국의 만성적인 <span class=\"text-rose-400 font-medium\">재정적자 증가</span>와 이에 따른 미국채 공급 과잉이 국채 가격 하락 및 금리 상승을 초래하고 있음을 지적함. 연준의 기준금리 정책보다 국채 시장 내의 <span class=\"text-amber-300 font-bold\">기간 프리미엄(Term Premium)</span> 등 수급 및 심리적 요인이 고금리 고착화를 이끄는 메가 트렌드로 분석함. 주요 선진국들이 과거 위기 극복 과정에서 남발한 <span class=\"text-rose-400 font-medium\">과도한 공공부채 누적</span>으로 인해 전 세계적인 부채의 복리 증식 위험에 직면해 있다고 경고함.",
+    "summary": "미국의 만성적인 재정적자 증가와 이에 따른 미국채 공급 과잉이 국채 가격 하락 및 금리 상승을 초래하고 있음을 지적함. 연준의 기준금리 정책보다 국채 시장 내의 기간 프리미엄(Term Premium) 등 수급 및 심리적 요인이 <span class=\"text-amber-300 font-bold\">고금리</span> 고착화를 이끄는 메가 트렌드로 분석함. 주요 선진국들이 과거 위기 극복 과정에서 남발한 과도한 공공부채 누적으로 인해 전 세계적인 부채의 복리 증식 <span class=\"text-rose-400 font-medium\">위험</span>에 직면해 있다고 경고함.",
     "key_claims": [
-      "미국의 끊임없는 재정적자 구조는 <span class=\"text-rose-400 font-medium\">국채 발행량 폭증</span>으로 이어져 수급 불균형과 금리 압박을 지속시킴.",
-      "연준이 금리를 동결하거나 인하하더라도 채권 수급 우려로 인한 <span class=\"text-amber-300 font-bold\">기간 프리미엄 상승</span> 때문에 채권 금리가 쉽게 떨어지지 않는 '고금리 고착화'가 지속됨.",
-      "GFC와 코로나 팬데믹을 거치며 쌓인 글로벌 선진국들의 공공부채는 스스로 통제할 수 없는 <span class=\"text-rose-400 font-medium\">임계점</span>에 달함."
+      "미국의 끊임없는 재정적자 구조는 국채 발행량 폭증으로 이어져 수급 불균형과 금리 압박을 지속시킴.",
+      "연준이 금리를 동결하거나 인하하더라도 채권 수급 우려로 인한 기간 프리미엄 상승 때문에 채권 금리가 쉽게 떨어지지 않는 '<span class=\"text-amber-300 font-bold\">고금리</span> 고착화'가 지속됨.",
+      "GFC와 코로나 팬데믹을 거치며 쌓인 글로벌 선진국들의 공공부채는 스스로 통제할 수 없는 임계점에 달함."
     ],
     "data_points": [
       "글로벌 선진국들의 코로나 및 GFC 극복 과정 속 급증한 국가 부채",
       "미국 재정적자로 인한 국채 공급 과잉 우려 및 기간 프리미엄의 장기 지속성"
     ],
     "signal": "bearish",
-    "signal_reason": "미국의 재정적자 심화와 채권 공급 과잉에 따른 <span class=\"text-rose-400 font-medium\">고금리 장기화 리스크</span>는 채권 시장 불안을 유발하고 글로벌 자산 가격에 하방 압력을 가함.",
+    "signal_reason": "미국의 재정적자 심화와 채권 공급 과잉에 따른 <span class=\"text-amber-300 font-bold\">고금리 장기화</span> <span class=\"text-rose-400 font-medium\">리스크</span>는 채권 시장 불안을 유발하고 글로벌 자산 가격에 하방 압력을 가함.",
     "key_companies": [],
-    "insight": "연준의 통화정책 통제력이 약화되는 가운데, 국가 재정 건전성 악화가 가져온 <span class=\"text-rose-400 font-medium\">국채 수급 불안</span>이 실질 금리 하방 압력을 지지하는 핵심 메커니즘으로 자리 잡음.",
-    "action_point": "고금리 장기화와 수급 불안에 따른 <span class=\"text-rose-400 font-medium\">미국채 가치 변동성 확대</span>에 대비하고, 금리 인하 기대에 기댄 단순 롱 포지션보다는 현금 유동성과 자산 다변화 전략이 필요함."
+    "insight": "연준의 통화정책 통제력이 약화되는 가운데, 국가 재정 건전성 악화가 가져온 국채 수급 불안이 실질 금리 하방 압력을 지지하는 핵심 메커니즘으로 자리 잡음.",
+    "action_point": "<span class=\"text-amber-300 font-bold\">고금리 장기화</span>와 수급 불안에 따른 미국채 가치 변동성 확대에 대비하고, <span class=\"text-amber-300 font-bold\">금리 인하</span> 기대에 기댄 단순 롱 포지션보다는 현금 유동성과 자산 다변화 전략이 필요함."
   },
   "classification": {
     "primary_topic": "economy",

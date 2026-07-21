@@ -8,7 +8,7 @@
     "thumbnail": "https://img.youtube.com/vi/o4eIJgy79RA/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "<span class=\"text-cyan-300 font-semibold\">현대차</span>의 차세대 휴머노이드 로봇 <span class=\"text-cyan-300 font-semibold\">아틀라스(Atlas)</span>가 북중미 월드컵 토너먼트 경기에서 공인구를 심판에게 공식 전달하는 역할로 전 세계 무대에 나섬. 이와 함께 뉴욕 록펠러 센터 FIFA 뮤지엄 전시와 스팟(Spot) 시연을 연계해 현대차의 글로벌 로보틱스 기술 주권을 적극 각인시키겠다는 브랜드 마케팅 포석임.",
+    "summary": "<span class=\"text-cyan-300 font-semibold\">현대차</span>의 차세대 휴머노이드 로봇 아틀라스(Atlas)가 북중미 월드컵 토너먼트 경기에서 공인구를 심판에게 공식 전달하는 역할로 전 세계 무대에 나섬. 이와 함께 뉴욕 록펠러 센터 FIFA 뮤지엄 전시와 스팟(Spot) 시연을 연계해 <span class=\"text-cyan-300 font-semibold\">현대차</span>의 글로벌 로보틱스 기술 주권을 적극 각인시키겠다는 브랜드 마케팅 포석임.",
     "key_claims": [
       "아틀라스가 결승전 등 주요 토너먼트 경기 시작 직전 공민구를 전달하는 안전하고 상징적인 퍼포먼스를 추진 중임.",
       "뉴욕 록펠러 센터와 팬 페스티벌 무대(7월 6~19일)에서 사족 보행 로봇 스팟의 라이브 시연과 아틀라스 실물 홍보를 전개함."
@@ -19,13 +19,13 @@
     ],
     "signal": "bullish",
     "signal_confidence": "high",
-    "signal_reason": "전 세계 수억 명이 시청하는 월드컵 결승전/토너먼트 무대에 현대차의 휴머노이드가 단독 노출되어 글로벌 모빌리티/로보틱스 주권 선점 기대감을 높이고 주가 멀티플을 재평가할 기폭제가 될 것이기 때문임.",
+    "signal_reason": "전 세계 수억 명이 시청하는 월드컵 결승전/토너먼트 무대에 <span class=\"text-cyan-300 font-semibold\">현대차</span>의 휴머노이드가 단독 노출되어 글로벌 모빌리티/로보틱스 주권 선점 기대감을 높이고 주가 멀티플을 재평가할 기폭제가 될 것이기 때문임.",
     "key_companies": [
       "현대자동차",
       "Boston Dynamics"
     ],
-    "insight": "축구공을 차는 돌발 액션은 실패 리스크가 있어 FIFA와 공인구 전달 형태로 영리하게 조율함. 가장 집중도가 높은 경기 시작 직전 시간대를 장악하여 단순 제조사를 넘어 AI 로보틱스 제국으로의 낙낙을 꾀함.",
-    "action_point": "7월 중순 아틀라스의 공식 경기장 시연 노출 시점 전후로 현대차와 보스턴 다이내믹스의 실물 로봇 부품(모터, <span class=\"text-cyan-300 font-semibold\">감속기</span>, 액추에이터) 공급망 국내 강소주들의 단기 반등 모멘텀을 선점할 것."
+    "insight": "축구공을 차는 돌발 액션은 실패 <span class=\"text-rose-400 font-medium\">리스크</span>가 있어 FIFA와 공인구 전달 형태로 영리하게 조율함. 가장 집중도가 높은 경기 시작 직전 시간대를 장악하여 단순 제조사를 넘어 AI 로보틱스 제국으로의 낙낙을 꾀함.",
+    "action_point": "7월 중순 아틀라스의 공식 경기장 시연 노출 시점 전후로 <span class=\"text-cyan-300 font-semibold\">현대차</span>와 보스턴 다이내믹스의 실물 로봇 부품(모터, 감속기, 액추에이터) 공급망 국내 강소주들의 단기 반등 모멘텀을 선점할 것."
   },
   "classification": {
     "primary_topic": "robot",

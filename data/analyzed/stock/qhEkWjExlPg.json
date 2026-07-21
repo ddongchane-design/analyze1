@@ -8,23 +8,23 @@
     "thumbnail": "https://img.youtube.com/vi/qhEkWjExlPg/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "글로벌 배터리 시장에서 한국이 중국에 점유율을 잠식당했던 아픈 선례를 반도체 산업에서도 엄중한 교훈으로 되새겨야 합니다. HBM 등 고부가가치 차세대 반도체의 화려함에만 모든 자본과 엔지니어 역량을 쏟아붓다가는, 가장 든든한 캐시카우 역할을 해온 <span class=\"text-rose-400 font-medium\">범용 메모리(레거시 D램 및 낸드) 시장</span>의 주도권을 통째로 중국 등 추격국에 내줄 수 있습니다. 첨단 초격차 연구 개발과 함께 튼튼한 현금 흐름의 뿌리가 되는 성숙 반도체 영역의 원가 경쟁력과 핵심 점유율 유지가 필수적입니다.",
+    "summary": "글로벌 배터리 시장에서 한국이 <span class=\"text-violet-300 font-medium\">중국</span>에 점유율을 잠식당했던 아픈 선례를 <span class=\"text-cyan-300 font-semibold\">반도체</span> 산업에서도 엄중한 교훈으로 되새겨야 합니다. <span class=\"text-cyan-300 font-semibold\">HBM</span> 등 고부가가치 차세대 <span class=\"text-cyan-300 font-semibold\">반도체</span>의 화려함에만 모든 자본과 엔지니어 역량을 쏟아붓다가는, 가장 든든한 캐시카우 역할을 해온 범용 메모리(레거시 D램 및 낸드) 시장의 주도권을 통째로 <span class=\"text-violet-300 font-medium\">중국</span> 등 추격국에 내줄 수 있습니다. 첨단 초격차 연구 개발과 함께 튼튼한 현금 흐름의 뿌리가 되는 성숙 <span class=\"text-cyan-300 font-semibold\">반도체</span> 영역의 원가 경쟁력과 핵심 점유율 유지가 필수적입니다.",
     "key_claims": [
-      "범용 레거시 메모리는 기술 장벽이 낮아 보이나 전 세계 시스템 빌더와 모바일 등에 대량 공급되는 핵심 <span class=\"text-cyan-300 font-semibold\">안정적 현금 창출원(Cash Cow)</span>입니다.",
-      "배터리 산업에서 NCM 삼원계 하이엔드 기술에 집착하다 LFP 범용 시장을 뺏긴 것처럼, HBM 올인 전략은 범용 디램 부문에서 <span class=\"text-rose-400 font-medium\">중국 제조사의 점유율 잠식 리스크</span>를 증폭시킵니다.",
-      "중장기 생존을 위해서는 프리미엄 고부가 반도체와 대량 양산 범용 메모리의 <span class=\"text-cyan-300 font-semibold\">포트폴리오 양손잡이 전략</span>이 반드시 실행되어야 합니다."
+      "범용 레거시 메모리는 기술 장벽이 낮아 보이나 전 세계 시스템 빌더와 모바일 등에 대량 공급되는 핵심 안정적 현금 창출원(Cash Cow)입니다.",
+      "배터리 산업에서 NCM 삼원계 하이엔드 기술에 집착하다 LFP 범용 시장을 뺏긴 것처럼, <span class=\"text-cyan-300 font-semibold\">HBM</span> 올인 전략은 범용 디램 부문에서 <span class=\"text-violet-300 font-medium\">중국</span> 제조사의 점유율 잠식 <span class=\"text-rose-400 font-medium\">리스크</span>를 증폭시킵니다.",
+      "중장기 생존을 위해서는 프리미엄 고부가 <span class=\"text-cyan-300 font-semibold\">반도체</span>와 대량 양산 범용 메모리의 포트폴리오 양손잡이 전략이 반드시 실행되어야 합니다."
     ],
     "data_points": [
       "메모리 반도체 현금 흐름 근간: 연간 대량 양산형 레거시 LPDDR, 범용 DDR4/DDR5 및 eMMC/UFS 낸드 플래시 비중"
     ],
     "signal": "neutral",
-    "signal_reason": "특정 기업의 즉각적인 실적 훼손보다는 반도체 업계의 중장기 자원 배분 전략과 범용 부문 경쟁 강도 상승에 대한 구조적 우려를 환기시키는 콘텐츠이기 때문입니다.",
+    "signal_reason": "특정 기업의 즉각적인 실적 훼손보다는 <span class=\"text-cyan-300 font-semibold\">반도체</span> 업계의 중장기 자원 배분 전략과 범용 부문 경쟁 강도 상승에 대한 구조적 우려를 환기시키는 콘텐츠이기 때문입니다.",
     "key_companies": [
       "삼성전자(005930)",
       "SK하이닉스(000660)"
     ],
-    "insight": "글로벌 공급망이 기술 안보 중심으로 분절되더라도, 볼륨 마켓인 중저가 IT 디바이스향 레거시 반도체의 시장 규모는 압도적입니다. 하이엔드에만 치중된 투자는 단기 불황 국면에서 <span class=\"text-rose-400 font-medium\">급격한 실적 변동성 노출</span>이라는 부작용을 낳을 수 있습니다.",
-    "action_point": "반도체 포트폴리오 다변화 수준을 검토하여 최첨단 HBM 외에 범용 D램 및 낸드 부문에서도 압도적인 생산 단가 우위와 <span class=\"text-cyan-300 font-semibold\">공정 효율성</span>을 지키고 있는 메모리 리더 기업을 선별하여 투자 비중을 조절해야 합니다."
+    "insight": "글로벌 공급망이 기술 안보 중심으로 분절되더라도, 볼륨 마켓인 중저가 IT 디바이스향 레거시 <span class=\"text-cyan-300 font-semibold\">반도체</span>의 시장 규모는 압도적입니다. 하이엔드에만 치중된 투자는 단기 불황 국면에서 급격한 실적 변동성 노출이라는 부작용을 낳을 수 있습니다.",
+    "action_point": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 포트폴리오 다변화 수준을 검토하여 최첨단 <span class=\"text-cyan-300 font-semibold\">HBM</span> 외에 범용 D램 및 낸드 부문에서도 압도적인 생산 단가 우위와 공정 효율성을 지키고 있는 메모리 리더 기업을 선별하여 투자 비중을 조절해야 합니다."
   },
   "classification": {
     "primary_topic": "stock",

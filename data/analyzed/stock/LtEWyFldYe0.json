@@ -8,24 +8,24 @@
     "thumbnail": "https://img.youtube.com/vi/LtEWyFldYe0/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "메모리 반도체 랠리가 종료되는 선행 지표들을 실증적으로 검토하고, 현재의 HBM 공급 과부하 상황과 차세대 블랙웰 칩셋 출하 일정을 감안할 때 피크아웃 공포는 극히 시기상조임을 규명함.",
+    "summary": "<span class=\"text-cyan-300 font-semibold\">메모리 반도체</span> 랠리가 종료되는 선행 지표들을 실증적으로 검토하고, 현재의 <span class=\"text-cyan-300 font-semibold\">HBM</span> 공급 과부하 상황과 차세대 블랙웰 칩셋 출하 일정을 감안할 때 피크아웃 공포는 극히 시기상조임을 규명함.",
     "key_claims": [
-      "과거 반도체 사이클 붕괴는 공급 과잉(재고 급증)에서 시작되었으나, 현재는 고객사(빅테크)의 HBM 재고 축적이 아예 불가능할 정도로 생산 즉시 완제품 팩으로 직배송되는 실시간 소진 국면임.",
-      "반도체 피크아웃의 진정한 신호는 미 전력 인프라 완전 포화로 인한 신규 데이터센터 증설 백지화나, HBM 판가가 전분기 대비 하락세로 반전될 때이나 현재는 단가 20% 인상 요구가 받아들여지는 구조임.",
-      "최근 기술주 조정은 급등에 따른 기간 조율일 뿐, 8월 엔비디아 실적 발표 전후로 2차 강력 랠리가 개시될 확률이 매우 높음."
+      "과거 <span class=\"text-cyan-300 font-semibold\">반도체</span> 사이클 붕괴는 공급 과잉(재고 급증)에서 시작되었으나, 현재는 고객사(빅테크)의 <span class=\"text-cyan-300 font-semibold\">HBM</span> 재고 축적이 아예 불가능할 정도로 생산 즉시 완제품 팩으로 직배송되는 실시간 소진 국면임.",
+      "<span class=\"text-cyan-300 font-semibold\">반도체</span> 피크아웃의 진정한 신호는 미 전력 인프라 완전 포화로 인한 신규 데이터센터 증설 백지화나, <span class=\"text-cyan-300 font-semibold\">HBM</span> 판가가 전분기 대비 하락세로 반전될 때이나 현재는 단가 20% 인상 요구가 받아들여지는 구조임.",
+      "최근 기술주 <span class=\"text-rose-400 font-medium\">조정</span>은 급등에 따른 기간 조율일 뿐, 8월 엔비디아 실적 발표 전후로 2차 강력 랠리가 개시될 확률이 매우 높음."
     ],
     "data_points": [
       "HBM 글로벌 공급 과잉 도달률: 2026년 말까지 주요 메모리 제조사들의 HBM 생산 라인 가동 계약 100% 선주문 완료 상태 유지"
     ],
     "signal": "bullish",
-    "signal_reason": "사이클 붕괴의 선행 신호인 재고 증가 및 가격 둔화 현상이 전혀 관찰되지 않으며, 오히려 차세대 블랙웰 출시로 단위 HBM 채택량이 폭증하고 있기 때문입니다.",
+    "signal_reason": "사이클 붕괴의 선행 신호인 재고 증가 및 가격 둔화 현상이 전혀 관찰되지 않으며, 오히려 차세대 블랙웰 출시로 단위 <span class=\"text-cyan-300 font-semibold\">HBM</span> 채택량이 폭증하고 있기 때문입니다.",
     "key_companies": [
       "삼성전자",
       "SK하이닉스",
       "NVIDIA"
     ],
-    "insight": "피크아웃을 걱정할 시점은 <span class=\"text-cyan-300 font-semibold\">판가(ASP) 하락 반전</span>이 확인될 때입니다. 단가 인상 주도권이 여전히 공급자에 있는 현 사이클에선 변동성 조정은 단순 매수 기회입니다.",
-    "action_point": "HBM 검사 장비 및 리플로우 등 핵심 소부장 종목의 단기 낙폭 과대분을 전략적으로 저가 추가 편입합니다."
+    "insight": "피크아웃을 걱정할 시점은 판가(ASP) 하락 반전이 확인될 때입니다. 단가 인상 주도권이 여전히 공급자에 있는 현 사이클에선 변동성 <span class=\"text-rose-400 font-medium\">조정</span>은 단순 매수 기회입니다.",
+    "action_point": "<span class=\"text-cyan-300 font-semibold\">HBM</span> 검사 장비 및 리플로우 등 핵심 소부장 종목의 단기 낙폭 과대분을 전략적으로 저가 추가 편입합니다."
   },
   "classification": {
     "primary_topic": "stock",

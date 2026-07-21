@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "rIn924lOk1w",
+    "title": "유가 상승·반도체주 반등폭 축소...미국 증시 하락 | 데일리 라이브 | 2026.7.21(화)",
+    "published": "2026-07-20T23:08:09+00:00",
+    "channel_name": "Smart Money by MiraeAsset ",
+    "url": "https://www.youtube.com/watch?v=rIn924lOk1w",
+    "thumbnail": "https://img.youtube.com/vi/rIn924lOk1w/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미래에셋증권 데일리 라이브는 뉴욕 증시가 예멘 후티 반군의 사우디 해상 봉쇄 선언 등 <span class=\"text-violet-300 font-medium\">중동</span> 지정학적 위기 고조와 <span class=\"text-amber-300 font-bold\">유가 상승</span> 여파로 하락 마감했다고 전했습니다. 다만 AMD의 마이크로소프트 에저 클라우드 AI 랙(헬리오스) 도입 공급 계약 체결과 <span class=\"text-cyan-300 font-semibold\">구글</span>의 추론 연산 효율을 10배 개선하는 '프로즌 V2(Frozen V2)' 칩 개발 성과 등 개별 테크사들의 AI 투자 효율화 노력은 활발히 진행 중입니다.",
+    "key_claims": [
+      "후티 반군이 홍해 및 아라비아 해의 핵심 길목인 바브엘만데브 해협에 대해 즉각적인 사우디 선박 봉쇄를 선언하면서 <span class=\"text-amber-300 font-bold\">유가</span>와 안전 자산 선호가 요동쳤다.",
+      "마이크로소프트는 엔비디아의 독점을 견제하고 클라우드 마진을 개선하기 위해 AMD의 AI 랙 시스템 헬리오스를 자사 에저 플랫폼에 채택하기로 결정했다.",
+      "<span class=\"text-cyan-300 font-semibold\">구글</span>은 제미나이의 연산 전력 효율성을 6~10배 향상하기 위해 추론 알고리즘을 실리콘 칩에 내재화한 신규 가속기 '프로즌 버전2'를 개발하고 있다."
+    ],
+    "data_points": [
+      "주요 종목 종가: 마이크로소프트 +2.15%, AMD +1.58%, 알파벳 +1.51%, 애플 -2.14% (차익 실현 출회)"
+    ],
+    "signal": "neutral",
+    "signal_reason": "후티 반군의 사우디 해상 봉쇄 선언에 따른 <span class=\"text-amber-300 font-bold\">유가</span> <span class=\"text-amber-300 font-bold\">인플레이션</span> 우려라는 거시적 악재와, MS-AMD 협력 및 <span class=\"text-cyan-300 font-semibold\">구글</span> 신규 칩 등 빅테크들의 독점 견제 및 AI 비용 효율화 성과라는 호재가 혼재되어 시장이 팽팽한 대치를 보이고 있기 때문입니다.",
+    "key_companies": [
+      "Alphabet(GOOGL)",
+      "AMD(AMD)",
+      "Microsoft(MSFT)",
+      "Apple(AAPL)"
+    ],
+    "insight": "빅테크들의 생존 전략은 AI 비용(전력, 연산 칩 단가)의 극단적 인하입니다. 엔비디아 의존도를 줄이기 위해 AMD의 통합 랙을 대거 도입하고, 알고리즘을 칩에 아예 새겨버리는 '하드웨어 최적화(Frozen V2)'를 통해 마진을 방어하려 하고 있습니다.",
+    "action_point": "<span class=\"text-amber-300 font-bold\">유가</span> 추이에 따라 정유주 등 헷지 자산을 확보하는 동시에, 엔비디아의 유일한 대안으로 부각되는 AMD와 저전력 추론 가속기 설계 밸류체인에 대해 중장기 관심을 가질 필요가 있습니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "지정학적리스크",
+      "후티해상봉쇄",
+      "구글프로즌V2",
+      "AMD에저도입",
+      "애플차익실현"
+    ]
+  }
+}

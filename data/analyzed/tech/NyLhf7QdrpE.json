@@ -8,7 +8,7 @@
     "thumbnail": "https://img.youtube.com/vi/NyLhf7QdrpE/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "누적 200조 원의 천문학적인 AI CapEx를 집행 중인 메타가 자사 Llama 모델의 사용 단가를 파괴적으로 낮춘 '반값 API/오픈소스' 공세를 펼쳐 오픈AI와 구글의 유료 AI 가격 독점을 무너뜨리는 생태계 장악 전술을 분석합니다.",
+    "summary": "누적 200조 원의 천문학적인 AI CapEx를 집행 중인 메타가 자사 Llama 모델의 사용 단가를 파괴적으로 낮춘 '반값 API/오픈소스' 공세를 펼쳐 오픈AI와 <span class=\"text-cyan-300 font-semibold\">구글</span>의 유료 AI 가격 독점을 무너뜨리는 생태계 장악 전술을 분석합니다.",
     "key_claims": [
       "메타는 오픈소스를 활용해 AI 인프라 장벽을 허물어 자사 플랫폼 내의 AI 광고 단가를 최종 높이는 전략을 전개함.",
       "오픈AI의 유료 폐쇄형 생태계를 약화시킴으로써 하드웨어 원가 부담을 경쟁사들에게 가중시키는 제로섬 게임을 유도함."

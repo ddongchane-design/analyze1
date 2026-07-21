@@ -8,25 +8,25 @@
     "thumbnail": "https://img.youtube.com/vi/WRjgg-And-4/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "최근의 뉴욕 증시 조정은 금융 시스템 붕괴가 아닌 <span class=\"text-amber-300 font-bold\">차익 실현 및 수급적 포지션 청산</span>에 가까웠음이 채권 시장 변동성의 안정세와 오라클의 CDS 프리미엄 유지를 통해 증명되었습니다. 조정이 진행되는 와중에도 반도체 장비 3대장 등 실적이 확실한 주도주들이 신고가를 경신하는 <span class=\"text-cyan-300 font-semibold\">섹터 신호</span>가 포착되었으며, 단기적 변동성은 저점의 깊이를 예단하기보다 복구 경로에 집중해야 합니다. 중동 종전 합의 등 외부 변수로 인해 조정은 빠르게 마무리되었으며, 향후 조정이 재발하더라도 즉각적인 데이터 확인과 주도주 집중을 통해 덜 두려운 투자를 집행해야 합니다.",
+    "summary": "최근의 뉴욕 증시 <span class=\"text-rose-400 font-medium\">조정</span>은 금융 시스템 붕괴가 아닌 차익 실현 및 수급적 포지션 <span class=\"text-rose-400 font-medium\">청산</span>에 가까웠음이 채권 시장 변동성의 안정세와 오라클의 CDS 프리미엄 유지를 통해 증명되었습니다. <span class=\"text-rose-400 font-medium\">조정</span>이 진행되는 와중에도 <span class=\"text-cyan-300 font-semibold\">반도체</span> 장비 3대장 등 실적이 확실한 주도주들이 신고가를 경신하는 섹터 신호가 포착되었으며, 단기적 변동성은 저점의 깊이를 예단하기보다 복구 경로에 집중해야 합니다. <span class=\"text-violet-300 font-medium\">중동</span> 종전 합의 등 외부 변수로 인해 <span class=\"text-rose-400 font-medium\">조정</span>은 빠르게 마무리되었으며, 향후 <span class=\"text-rose-400 font-medium\">조정</span>이 재발하더라도 즉각적인 데이터 확인과 주도주 집중을 통해 덜 두려운 투자를 집행해야 합니다.",
     "key_claims": [
-      "시스템 위기 시에는 주식, 채권, 외환이 함께 폭락하지만 이번에는 채권 변동성이 지극히 안정적이었으므로 단순 주식 포지션 청산이었음.",
-      "오라클의 대규모 CapEx로 인한 주가 급락에도 불구하고 부도 위험 지표인 CDS 프리미엄은 미동조차 하지 않아 시장 패닉이 아님을 방증함.",
-      "시장이 하락할 때도 홀로 신고가를 경신하는 주도 섹터(반도체 전공정 장비 등)에 복구 국면의 돈이 가장 먼저 쏠리게 됨."
+      "시스템 위기 시에는 주식, 채권, 외환이 함께 폭락하지만 이번에는 채권 변동성이 지극히 안정적이었으므로 단순 주식 포지션 <span class=\"text-rose-400 font-medium\">청산</span>이었음.",
+      "오라클의 대규모 CapEx로 인한 주가 <span class=\"text-rose-400 font-medium\">급락</span>에도 불구하고 부도 <span class=\"text-rose-400 font-medium\">위험</span> 지표인 CDS 프리미엄은 미동조차 하지 않아 시장 패닉이 아님을 방증함.",
+      "시장이 하락할 때도 홀로 신고가를 경신하는 주도 섹터(<span class=\"text-cyan-300 font-semibold\">반도체</span> 전공정 장비 등)에 복구 국면의 돈이 가장 먼저 쏠리게 됨."
     ],
     "data_points": [
       "오라클 연간 설비투자 계획: 557억 달러 수준"
     ],
     "signal": "bullish",
     "signal_confidence": "high",
-    "signal_reason": "시장의 단기 흔들림이 펀더멘탈 훼손이나 신용 위험이 아닌 기술적 수급 청산에 불과했고, 조정기에도 반도체 장비주의 신고가 경신 등 주도 섹터의 이익 체력이 유효해 단기 반등 복구 탄력이 매우 강하기 때문임.",
+    "signal_reason": "시장의 단기 흔들림이 펀더멘탈 훼손이나 신용 <span class=\"text-rose-400 font-medium\">위험</span>이 아닌 기술적 수급 <span class=\"text-rose-400 font-medium\">청산</span>에 불과했고, <span class=\"text-rose-400 font-medium\">조정</span>기에도 <span class=\"text-cyan-300 font-semibold\">반도체</span> 장비주의 신고가 경신 등 주도 섹터의 이익 체력이 유효해 단기 반등 복구 탄력이 매우 강하기 때문임.",
     "key_companies": [
       "오라클",
       "엔비디아(NVDA)",
       "스페이스X"
     ],
-    "insight": "조정장의 소음 속에서 밸류에이션 리스크와 신용 리스크를 명확히 구분해야 함. 부도 위험을 가리키는 <span class=\"text-rose-400 font-medium\">CDS 프리미엄</span>이 잠잠하다는 것은 시장에 유동성이 충분하다는 뜻이며, 이 경우 조정은 일시적 노이즈에 불과해 복구 국면에서 대장주로의 쏠림이 더욱 심화됨.",
-    "action_point": "하락 공포에 휩쓸려 매도하기보다, 시장 조정기에도 상대적 강세를 보이는 <span class=\"text-cyan-300 font-semibold\">반도체 전공정 장비 및 핵심 주도주</span>를 매집하여 복구 랠리의 수익률을 극대화해야 함."
+    "insight": "<span class=\"text-rose-400 font-medium\">조정</span>장의 소음 속에서 밸류에이션 <span class=\"text-rose-400 font-medium\">리스크</span>와 신용 <span class=\"text-rose-400 font-medium\">리스크</span>를 명확히 구분해야 함. 부도 <span class=\"text-rose-400 font-medium\">위험</span>을 가리키는 CDS 프리미엄이 잠잠하다는 것은 시장에 유동성이 충분하다는 뜻이며, 이 경우 <span class=\"text-rose-400 font-medium\">조정</span>은 일시적 노이즈에 불과해 복구 국면에서 대장주로의 쏠림이 더욱 심화됨.",
+    "action_point": "하락 공포에 휩쓸려 매도하기보다, 시장 <span class=\"text-rose-400 font-medium\">조정</span>기에도 상대적 강세를 보이는 <span class=\"text-cyan-300 font-semibold\">반도체</span> 전공정 장비 및 핵심 주도주를 매집하여 복구 랠리의 수익률을 극대화해야 함."
   },
   "classification": {
     "primary_topic": "stock",

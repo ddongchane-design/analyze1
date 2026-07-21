@@ -8,18 +8,18 @@
     "thumbnail": "https://img.youtube.com/vi/Z5-pAowrPRQ/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "최근의 코스피 단기 조정은 장기 강세장 흐름 속의 일시적 현상이며, <span class=\"text-amber-300 font-bold\">주도주 압착 현상</span>이 극단화되는 과정에서 오히려 <span class=\"text-cyan-300 font-semibold\">매수 기회</span>로 작용할 수 있습니다.\n다컴버블 시기와 비교 시 현재 <span class=\"text-cyan-300 font-semibold\">M7 대기업들</span>은 탄탄한 캐시 플로우를 보유하고 있어, 과거 버블 붕괴와 달리 <span class=\"text-amber-300 font-bold\">더 길고 멀리 갈 수 있는 체급</span>을 갖추었습니다.\n미국 부채 증가와 <span class=\"text-rose-400 font-medium\">채권 자경단 발작 리스크</span>에도 불구하고 대안 자산 부재로 인해 <span class=\"text-rose-400 font-medium\">금리 변동성</span>은 단기에 그칠 가능성이 큽니다.",
+    "summary": "최근의 코스피 단기 <span class=\"text-rose-400 font-medium\">조정</span>은 장기 강세장 흐름 속의 일시적 현상이며, 주도주 압착 현상이 극단화되는 과정에서 오히려 매수 기회로 작용할 수 있습니다.\n다컴버블 시기와 비교 시 현재 M7 대기업들은 탄탄한 캐시 플로우를 보유하고 있어, 과거 버블 붕괴와 달리 더 길고 멀리 갈 수 있는 체급을 갖추었습니다.\n미국 부채 증가와 채권 자경단 발작 <span class=\"text-rose-400 font-medium\">리스크</span>에도 불구하고 대안 자산 부재로 인해 금리 변동성은 단기에 그칠 가능성이 큽니다.",
     "key_claims": [
-      "과거 닷컴 붐 말기의 <span class=\"text-amber-300 font-bold\">극단적 주도주 압착</span>에 비추어 볼 때, 현재 편중 현상은 끝이 아닌 과정에 있습니다.",
-      "미국의 재정 적자와 <span class=\"text-rose-400 font-medium\">인플레이션 통제 우려</span>에도 불구하고, 대체 불가능한 <span class=\"text-amber-300 font-bold\">미국 국채 중심의 유동성 구조</span>가 지지되고 있습니다.",
-      "<span class=\"text-cyan-300 font-semibold\">스페이스X 및 오픈AI 등 초대형 IPO</span>의 성공과 상장 후 주가 추이는 시장의 <span class=\"text-amber-300 font-bold\">위험 선호도(Risk-on)</span> 지속 여부를 가늠할 잣대입니다."
+      "과거 닷컴 붐 말기의 극단적 주도주 압착에 비추어 볼 때, 현재 편중 현상은 끝이 아닌 과정에 있습니다.",
+      "미국의 재정 적자와 <span class=\"text-amber-300 font-bold\">인플레이션</span> 통제 우려에도 불구하고, 대체 불가능한 미국 국채 중심의 유동성 구조가 지지되고 있습니다.",
+      "<span class=\"text-cyan-300 font-semibold\">스페이스X</span> 및 오픈AI 등 초대형 IPO의 성공과 상장 후 주가 추이는 시장의 <span class=\"text-rose-400 font-medium\">위험</span> 선호도(Risk-on) 지속 여부를 가늠할 잣대입니다."
     ],
     "data_points": [
       "다컴버블 말기 마지막 3개월간 나스닥 지수 45% 급상승 vs 다우 및 S&P 500 마이너스 기록",
       "미국 국채 신인도 저하의 3대 조건: 재정 부채 부담, 인플레 통제력 약화, 중앙은행 독립성 훼손"
     ],
     "signal": "bullish",
-    "signal_reason": "과거 닷컴 버블 시기와 달리 현재 주도주인 <span class=\"text-cyan-300 font-semibold\">M7 기업들의 견고한 이익 체력</span>이 지지되고 있고, 금리 변동성 역시 대안 자산 부재로 인해 통제 가능한 수준이므로 <span class=\"text-cyan-300 font-semibold\">조정 시 매수 전략</span>이 유효하기 때문입니다.",
+    "signal_reason": "과거 닷컴 버블 시기와 달리 현재 주도주인 M7 기업들의 견고한 이익 체력이 지지되고 있고, 금리 변동성 역시 대안 자산 부재로 인해 통제 가능한 수준이므로 <span class=\"text-rose-400 font-medium\">조정</span> 시 매수 전략이 유효하기 때문입니다.",
     "key_companies": [
       "신영증권",
       "스페이스X",
@@ -28,8 +28,8 @@
       "삼성전자",
       "SK하이닉스"
     ],
-    "insight": "최근 조정은 위험 선호 심리의 완전한 붕괴가 아니라 주도주(3전닉스 등) 집중화 과정에서 발생하는 매끄러운 수급 이동이며, 하반기 예정된 <span class=\"text-cyan-300 font-semibold\">초대형 기술 기업들의 IPO</span>가 시장 유동성 및 상승 모멘텀의 유효성을 최종 검증할 것입니다.",
-    "action_point": "투자자는 포트폴리오를 주도 세력인 <span class=\"text-cyan-300 font-semibold\">핵심 반도체 및 테크 기업</span>에 계속 압착 유지하되, 하반기 연준의 <span class=\"text-rose-400 font-medium\">금리 동결 여부</span>와 스페이스X 상장 이후의 수급 동향을 핵심 리스크 가이드로 삼아야 합니다."
+    "insight": "최근 <span class=\"text-rose-400 font-medium\">조정</span>은 <span class=\"text-rose-400 font-medium\">위험</span> 선호 심리의 완전한 붕괴가 아니라 주도주(3전닉스 등) 집중화 과정에서 발생하는 매끄러운 수급 이동이며, 하반기 예정된 초대형 기술 기업들의 IPO가 시장 유동성 및 상승 모멘텀의 유효성을 최종 검증할 것입니다.",
+    "action_point": "투자자는 포트폴리오를 주도 세력인 핵심 <span class=\"text-cyan-300 font-semibold\">반도체</span> 및 테크 기업에 계속 압착 유지하되, 하반기 연준의 금리 동결 여부와 <span class=\"text-cyan-300 font-semibold\">스페이스X</span> 상장 이후의 수급 동향을 핵심 <span class=\"text-rose-400 font-medium\">리스크</span> 가이드로 삼아야 합니다."
   },
   "classification": {
     "primary_topic": "stock",

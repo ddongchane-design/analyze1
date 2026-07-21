@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/5bl6E1vnm7o/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "<span class=\"text-cyan-300 font-semibold\">알파벳</span>의 800억 달러 유상증자 추진이 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 IPO를 앞두고 자금을 선점하려는 의도인지 분석하고, AI 설비 투자 과열 논란을 조명합니다.",
+    "summary": "알파벳의 800억 달러 유상증자 추진이 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 IPO를 앞두고 자금을 선점하려는 의도인지 분석하고, AI 설비 투자 <span class=\"text-rose-400 font-medium\">과열</span> 논란을 조명합니다.",
     "key_claims": [
-      "구글의 대규모 유증은 향후 AI 인프라 수요 가시성이 뚜렷하다는 자신감의 방증이다.",
-      "스페이스X IPO를 앞두고 구글이 시장 유동성을 선제적으로 흡수해 경쟁 구도를 심화시켰다.",
+      "<span class=\"text-cyan-300 font-semibold\">구글</span>의 대규모 유증은 향후 AI 인프라 수요 가시성이 뚜렷하다는 자신감의 방증이다.",
+      "<span class=\"text-cyan-300 font-semibold\">스페이스X</span> IPO를 앞두고 <span class=\"text-cyan-300 font-semibold\">구글</span>이 시장 유동성을 선제적으로 흡수해 경쟁 구도를 심화시켰다.",
       "빅테크의 과도한 AI 투자가 실질적인 수익으로 회수되기까지는 시차가 존재하며 일부 거품 경고도 나오고 있다."
     ],
     "data_points": [
@@ -19,7 +19,7 @@
       "알파벳 클라우드 백로그: 4,600억 달러 (전 분기 대비 2배 증가)"
     ],
     "signal": "neutral",
-    "signal_reason": "유동성 선점으로 단기 테크주 변동성이 커질 수 있으나, 구글의 수주 잔고 성장세가 확실해 장기 전망은 긍정적입니다.",
+    "signal_reason": "유동성 선점으로 단기 테크주 변동성이 커질 수 있으나, <span class=\"text-cyan-300 font-semibold\">구글</span>의 수주 잔고 성장세가 확실해 장기 전망은 긍정적입니다.",
     "key_companies": [
       "Google",
       "SpaceX",

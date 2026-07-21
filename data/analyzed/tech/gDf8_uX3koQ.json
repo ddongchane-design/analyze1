@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/gDf8_uX3koQ/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "1. 대만의 1인당 GDP가 약 42,100달러를 돌파하며 한국과 일본을 제치고 동아시아 최고 수준으로 도약했습니다.\n2. 대만 관광객들의 한국 내 카드 결제액이 일본과 중국 관광객의 두 배 수준에 달해 국내 유통·관광 업계의 큰손으로 부상했습니다.\n3. 이러한 대만의 성장은 <span class=\"text-cyan-300 font-semibold\">TSMC, 폭스콘, 미디어텍</span> 등 글로벌 AI 반도체 공급망의 핵심 제조 허브를 독점 장악한 덕분입니다.",
+    "summary": "1. 대만의 1인당 GDP가 약 42,100달러를 돌파하며 한국과 일본을 제치고 동아시아 최고 수준으로 도약했습니다.\n2. 대만 관광객들의 한국 내 카드 결제액이 일본과 <span class=\"text-violet-300 font-medium\">중국</span> 관광객의 두 배 수준에 달해 국내 유통·관광 업계의 큰손으로 부상했습니다.\n3. 이러한 대만의 성장은 <span class=\"text-cyan-300 font-semibold\">TSMC</span>, 폭스콘, 미디어텍 등 글로벌 <span class=\"text-cyan-300 font-semibold\">AI 반도체</span> 공급망의 핵심 제조 허브를 독점 장악한 덕분입니다.",
     "key_claims": [
-      "글로벌 AI 및 반도체 호황에 힘입어 대만 제조업과 국민 소득이 <span class=\"text-amber-300 font-bold\">동아시아 내 최상위권</span>으로 고성장하고 있습니다.",
-      "대만 내 반도체 관련 낙수 효과로 가계 소득이 급증하면서 해외 소비(한국 등) 규모도 <span class=\"text-amber-300 font-bold\">폭발적인 증가세</span>를 보이고 있습니다.",
-      "TSMC를 필두로 한 대만의 반도체 생태계 시가총액은 이미 한국 대표 기술주들의 시총 총합을 능가하는 경쟁력을 갖췄습니다."
+      "글로벌 AI 및 <span class=\"text-cyan-300 font-semibold\">반도체</span> 호황에 힘입어 대만 제조업과 국민 소득이 동아시아 내 최상위권으로 고성장하고 있습니다.",
+      "대만 내 <span class=\"text-cyan-300 font-semibold\">반도체</span> 관련 낙수 효과로 가계 소득이 급증하면서 해외 소비(한국 등) 규모도 폭발적인 증가세를 보이고 있습니다.",
+      "<span class=\"text-cyan-300 font-semibold\">TSMC</span>를 필두로 한 대만의 <span class=\"text-cyan-300 font-semibold\">반도체</span> 생태계 시가총액은 이미 한국 대표 기술주들의 시총 총합을 능가하는 경쟁력을 갖췄습니다."
     ],
     "data_points": [
       "대만 1인당 GDP: 약 42,100달러 돌파 (한국 및 일본 추월)",
@@ -20,14 +20,14 @@
     ],
     "signal": "bullish",
     "signal_confidence": "high",
-    "signal_reason": "글로벌 AI 반도체 생산 독점 체제에 기반한 대만의 GDP 성장은 반도체 공급망 전반의 장기 호황과 수혜 강도가 극단적으로 강력함을 방증합니다.",
+    "signal_reason": "글로벌 <span class=\"text-cyan-300 font-semibold\">AI 반도체</span> 생산 독점 체제에 기반한 대만의 GDP 성장은 <span class=\"text-cyan-300 font-semibold\">반도체</span> 공급망 전반의 장기 호황과 수혜 강도가 극단적으로 강력함을 방증합니다.",
     "key_companies": [
       "TSMC(TSM)",
       "폭스콘(Foxconn)",
       "미디어텍"
     ],
-    "insight": "반도체 제조 기술력을 독점한 국가의 국부 성장세를 단적으로 보여줍니다. TSMC와 미디어텍 등 <span class=\"text-cyan-300 font-semibold\">대만 반도체 삼각 동맹</span>의 성장 에너지는 AI 사이클의 지속성을 나타내는 가장 강력한 지표입니다.",
-    "action_point": "대만 반도체 공급망에 장비를 납품하거나 함께 패키징 협력을 수행하는 <span class=\"text-cyan-300 font-semibold\">국내 소부장(소재·부품·장비) 반도체 대장주</span>에 대한 비중 확대를 우선적으로 고려해야 합니다."
+    "insight": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 제조 기술력을 독점한 국가의 국부 성장세를 단적으로 보여줍니다. <span class=\"text-cyan-300 font-semibold\">TSMC</span>와 미디어텍 등 대만 <span class=\"text-cyan-300 font-semibold\">반도체</span> 삼각 동맹의 성장 에너지는 AI 사이클의 지속성을 나타내는 가장 강력한 지표입니다.",
+    "action_point": "대만 <span class=\"text-cyan-300 font-semibold\">반도체</span> 공급망에 장비를 납품하거나 함께 패키징 협력을 수행하는 국내 소부장(소재·부품·장비) <span class=\"text-cyan-300 font-semibold\">반도체</span> 대장주에 대한 비중 확대를 우선적으로 고려해야 합니다."
   },
   "classification": {
     "primary_topic": "tech",

@@ -8,24 +8,24 @@
     "thumbnail": "https://img.youtube.com/vi/WCsyV8sD--I/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "연준의 긴축 모드로의 전환 흐름 속에서, <span class=\"text-rose-400 font-medium\">대차대조표 축소와 금리 인하 병행</span>은 <span class=\"text-rose-400 font-medium\">채권 시장 발작 리스크</span>를 높입니다.\n현재 회사채 시장은 스프레드가 좁혀진 초호황 상태이나, 향후 <span class=\"text-amber-300 font-bold\">금리 인상이나 거시 환경의 급변</span>이 발생하면 기업들의 자금 조달 구조가 흔들릴 수 있습니다.\n실제 기준금리 상승이 가시화되면, <span class=\"text-rose-400 font-medium\">성장에 대한 의구심</span>과 자금 조달 능력에 대한 회의론이 나오면서 시장의 본 게임이 시작될 것입니다.",
+    "summary": "연준의 긴축 모드로의 전환 흐름 속에서, 대차대조표 축소와 <span class=\"text-amber-300 font-bold\">금리 인하</span> 병행은 채권 시장 발작 <span class=\"text-rose-400 font-medium\">리스크</span>를 높입니다.\n현재 회사채 시장은 스프레드가 좁혀진 초호황 상태이나, 향후 금리 인상이나 거시 환경의 급변이 발생하면 기업들의 자금 조달 구조가 흔들릴 수 있습니다.\n실제 기준금리 상승이 가시화되면, 성장에 대한 의구심과 자금 조달 능력에 대한 회의론이 나오면서 시장의 본 게임이 시작될 것입니다.",
     "key_claims": [
-      "대차대조표 축소를 동반한 금리 조절은 <span class=\"text-rose-400 font-medium\">채권 시장 유동성 고갈</span>과 함께 시장 발작을 초래할 수 있습니다.",
-      "마이크론 등 <span class=\"text-cyan-300 font-semibold\">반도체 기업들의 수주 잔고</span>가 탄탄하더라도, <span class=\"text-amber-300 font-bold\">자금 조달 비용 상승</span>에 직면하면 재무적 리스크로 이어집니다.",
-      "시장의 지배적인 낙관론과 달리, 실제 <span class=\"text-rose-400 font-medium\">금리 인상 리스크</span>가 본격화되면 <span class=\"text-amber-300 font-bold\">주식 시장의 밸류에이션 재조정(디레이팅)</span> 공포가 발생할 것입니다."
+      "대차대조표 축소를 동반한 금리 조절은 채권 시장 유동성 고갈과 함께 시장 발작을 초래할 수 있습니다.",
+      "마이크론 등 <span class=\"text-cyan-300 font-semibold\">반도체</span> 기업들의 수주 잔고가 탄탄하더라도, 자금 조달 비용 상승에 직면하면 재무적 <span class=\"text-rose-400 font-medium\">리스크</span>로 이어집니다.",
+      "시장의 지배적인 낙관론과 달리, 실제 금리 인상 <span class=\"text-rose-400 font-medium\">리스크</span>가 본격화되면 주식 시장의 밸류에이션 재<span class=\"text-rose-400 font-medium\">조정</span>(디레이팅) 공포가 발생할 것입니다."
     ],
     "data_points": [
       "반도체 마이크론 등 주요 기업들의 2027년까지 매출 수주 예약 완료",
       "보름 정도 남은 다음 FOMC 결과가 주식시장의 핵심 변곡점"
     ],
     "signal": "bearish",
-    "signal_reason": "연준의 <span class=\"text-rose-400 font-medium\">매파적 정책 기조 전환 및 실제 금리 인상 가능성</span>이 기업의 자금 조달 능력과 밸류에이션을 위협하고 있어, FOMC 이후 <span class=\"text-rose-400 font-medium\">하락 변동성 리스크</span>가 커졌기 때문입니다.",
+    "signal_reason": "연준의 매파적 정책 기조 전환 및 실제 금리 인상 가능성이 기업의 자금 조달 능력과 밸류에이션을 위협하고 있어, FOMC 이후 하락 변동성 <span class=\"text-rose-400 font-medium\">리스크</span>가 커졌기 때문입니다.",
     "key_companies": [
       "마이크론",
       "골드만삭스"
     ],
-    "insight": "지금의 증시 호황은 기업의 수주 호조뿐만 아니라 회사채 스프레드 축소를 통한 원활한 자본 조달 덕분이지만, <span class=\"text-amber-300 font-bold\">기준금리 상방 압력</span>이 이 연결고리를 끊는 순간 월가의 <span class=\"text-rose-400 font-medium\">낙관적 시나리오가 붕괴</span>될 수 있습니다.",
-    "action_point": "투자자는 다가올 FOMC 전후로 <span class=\"text-cyan-300 font-semibold\">회사채 신용 스프레드</span>와 국채 금리 움직임을 밀착 모니터링하고, 자금 조달 의존도가 높은 성장주 비중을 줄이고 <span class=\"text-rose-400 font-medium\">현금 비중을 확대</span>하는 리스크 관리가 필요합니다."
+    "insight": "지금의 증시 호황은 기업의 수주 호조뿐만 아니라 회사채 스프레드 축소를 통한 원활한 자본 조달 덕분이지만, 기준금리 상방 압력이 이 연결고리를 끊는 순간 월가의 낙관적 시나리오가 붕괴될 수 있습니다.",
+    "action_point": "투자자는 다가올 FOMC 전후로 회사채 신용 스프레드와 국채 금리 움직임을 밀착 모니터링하고, 자금 조달 의존도가 높은 성장주 비중을 줄이고 현금 비중을 확대하는 <span class=\"text-rose-400 font-medium\">리스크</span> 관리가 필요합니다."
   },
   "classification": {
     "primary_topic": "economy",

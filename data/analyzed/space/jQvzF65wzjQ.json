@@ -8,24 +8,24 @@
     "thumbnail": "https://img.youtube.com/vi/jQvzF65wzjQ/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "미국 항공우주국(NASA)의 아르테미스 III 달 궤도 도킹 시험 임무를 수행할 베테랑 우주인 4명 발표와 함께 민간 기업 <span class=\"text-cyan-300 font-semibold\">스페이스X</span> 스타십의 핵심 역할 및 실증 일정을 조명합니다.",
+    "summary": "미국 항공우주국(NASA)의 아르테미스 III 달 궤도 도킹 시험 임무를 수행할 베테랑 우주인 4명 발표와 함께 민간 기업 <span class=\"text-cyan-300 font-semibold\">스페이스X</span> <span class=\"text-cyan-300 font-semibold\">스타십</span>의 핵심 역할 및 실증 일정을 조명합니다.",
     "key_claims": [
-      "아르테미스 III 미션은 달 표면 착륙이 아니라 지구 저궤도에서 SLS 오리온 우주선과 스페이스X 스타십 착륙선 간의 도킹 연습 및 기동성 검증이 주목적이다.",
+      "아르테미스 III 미션은 달 표면 착륙이 아니라 지구 저궤도에서 SLS 오리온 우주선과 <span class=\"text-cyan-300 font-semibold\">스페이스X</span> <span class=\"text-cyan-300 font-semibold\">스타십</span> 착륙선 간의 도킹 연습 및 기동성 검증이 주목적이다.",
       "선발된 4명(안드레 더글라스, 프랭크 루비오, 루카 파르미타노, 랜디 브레즈닉)은 극한 상황 기동이 가능한 베테랑 파일럿 및 공학자 위주로 꾸려졌다.",
-      "경쟁사인 블루 오리진의 뉴글렌 미션 지연으로 인해 스페이스X가 초기 아르테미스 달 착륙선 역할을 독점 수행하게 된다."
+      "경쟁사인 블루 오리진의 뉴글렌 미션 지연으로 인해 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>가 초기 아르테미스 달 착륙선 역할을 독점 수행하게 된다."
     ],
     "data_points": [
       "프랭크 루비오 우주인의 단일 우주 체류 기록: 371일 (미국 우주인 역대 최장)",
       "아르테미스 III 기본 비행 설계: 3회 발사(SLS, SpaceX, Blue Origin 일부 연계), 2회 도킹 체계"
     ],
     "signal": "bullish",
-    "signal_reason": "민간 달 착륙선(HLS) 개발의 핵심 주자인 스페이스X의 하드웨어가 아르테미스 III의 유일한 시험 모델로 활용되면서 상업용 우주 생태계의 패권이 가속화되고 있기 때문입니다.",
+    "signal_reason": "민간 달 착륙선(HLS) 개발의 핵심 주자인 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 하드웨어가 아르테미스 III의 유일한 시험 모델로 활용되면서 상업용 우주 생태계의 패권이 가속화되고 있기 때문입니다.",
     "key_companies": [
       "SpaceX",
       "Blue Origin"
     ],
     "insight": "조니 킴의 미선발은 아쉬우나, 극도로 까다로운 저궤도 다중 도킹 및 상업용 비행체 제어를 위해 시뮬레이터 개발진과 최장 우주 생존 기록 보유자 등 실무형 베테랑으로 전열을 정비했음을 보여줍니다.",
-    "action_point": "스타십 시험 발사 성공 주기 단축에 따라 국내 우주항공 밸류체인 및 특수 합금, 위성 안테나 시스템 공급망의 장기 수혜성에 집중해야 합니다."
+    "action_point": "<span class=\"text-cyan-300 font-semibold\">스타십</span> 시험 발사 성공 주기 단축에 따라 국내 우주항공 밸류체인 및 특수 합금, 위성 안테나 시스템 공급망의 장기 수혜성에 집중해야 합니다."
   },
   "classification": {
     "primary_topic": "space",

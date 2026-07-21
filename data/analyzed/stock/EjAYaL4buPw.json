@@ -8,26 +8,26 @@
     "thumbnail": "https://img.youtube.com/vi/EjAYaL4buPw/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "코스피의 20% 이상 과도한 급락 이후 미국 마이크론 등 반도체 반등에 동조한 기술적 복구가 예상되는 가운데, 애플의 WWDC 발표가 단기 실망 매물을 낳았으나 중장기적인 온디바이스 AI 구동을 위한 <span class=\"text-amber-300 font-bold\">기기 교체 주기 도래</span>는 반도체 수요를 더욱 자극할 전망입니다.",
+    "summary": "코스피의 20% 이상 과도한 <span class=\"text-rose-400 font-medium\">급락</span> 이후 미국 마이크론 등 <span class=\"text-cyan-300 font-semibold\">반도체</span> 반등에 동조한 기술적 복구가 예상되는 가운데, 애플의 WWDC 발표가 단기 실망 매물을 낳았으나 중장기적인 온디바이스 AI 구동을 위한 기기 교체 주기 도래는 <span class=\"text-cyan-300 font-semibold\">반도체</span> 수요를 더욱 자극할 전망입니다.",
     "key_claims": [
       "애플의 AI 시리 아키텍처는 단일 독점이 아닌 다수 LLM 연동형으로 발표되어 기대 대비 하락했으나 하드웨어 스펙 업그레이드 수요는 필연적이다.",
-      "코스피 및 종목들의 단기 20~22% 폭락은 주도주 추세가 붕괴되는 30% 한계치 이내의 수급적 조정이므로 자율 반등 확률이 매우 높다.",
-      "시장의 반등 국면에서는 철저히 주도 섹터(반도체/하드웨어)만 빠르게 회복되므로 비주도주를 팔아 주도주로 교체해야 한다."
+      "코스피 및 종목들의 단기 20~22% 폭락은 주도주 추세가 붕괴되는 30% 한계치 이내의 수급적 <span class=\"text-rose-400 font-medium\">조정</span>이므로 자율 반등 확률이 매우 높다.",
+      "시장의 반등 국면에서는 철저히 주도 섹터(<span class=\"text-cyan-300 font-semibold\">반도체</span>/하드웨어)만 빠르게 회복되므로 비주도주를 팔아 주도주로 교체해야 한다."
     ],
     "data_points": [
       "삼성전자/SK하이닉스 고점 대비 최대 하락폭: 20~22% 기록",
       "미국 야간 선물 상승 및 주요 반도체 기업 급반등 확인"
     ],
     "signal": "bullish",
-    "signal_reason": "하드웨어 스펙 업그레이드 요구(스마트폰/PC 교체) 및 메모리 탑재량 증가는 반도체 업계의 어닝 파워를 한 단계 더 높여줄 재료입니다.",
+    "signal_reason": "하드웨어 스펙 업그레이드 요구(스마트폰/PC 교체) 및 메모리 탑재량 증가는 <span class=\"text-cyan-300 font-semibold\">반도체</span> 업계의 어닝 파워를 한 단계 더 높여줄 재료입니다.",
     "key_companies": [
       "Apple",
       "Micron",
       "삼성전자",
       "SK하이닉스"
     ],
-    "insight": "반등장 초입에서는 모든 종목이 공평하게 오르지 않고 주도주로만 수급이 한정되는 <span class=\"text-rose-400 font-medium\">양극화 장세</span>가 재차 나타납니다. 애플의 온디바이스 AI 전환 전략은 결국 메모리 부품사들의 구조적 실적 확장을 보장합니다.",
-    "action_point": "WWDC 발표 후 조정받은 국내 애플 부품 및 메모리 소부장 대장주들을 선별 매수하고, 소외된 중소형 테마주는 과감히 정리해 포트폴리오를 슬림화해야 합니다."
+    "insight": "반등장 초입에서는 모든 종목이 공평하게 오르지 않고 주도주로만 수급이 한정되는 양극화 장세가 재차 나타납니다. 애플의 온디바이스 AI 전환 전략은 결국 메모리 부품사들의 구조적 실적 확장을 보장합니다.",
+    "action_point": "WWDC 발표 후 <span class=\"text-rose-400 font-medium\">조정</span>받은 국내 애플 부품 및 메모리 소부장 대장주들을 선별 매수하고, 소외된 중소형 테마주는 과감히 정리해 포트폴리오를 슬림화해야 합니다."
   },
   "classification": {
     "primary_topic": "stock",

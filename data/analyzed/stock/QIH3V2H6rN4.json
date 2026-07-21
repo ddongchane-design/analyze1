@@ -8,17 +8,17 @@
     "thumbnail": "https://img.youtube.com/vi/QIH3V2H6rN4/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "한국 증시가 금융투자소득세(금투세) 논란, 지배구조 디스카운트, 패시브 외인 이탈로 2년째 박스권에 갇힌 반면, 미국 증시는 견고한 EPS 성장과 금리 인하 예방 효과로 우상향을 굳히고 있어 '포트폴리오 내 미국 주식 비중 확대'가 하반기 포트폴리오 성패를 가를 유일한 해결책임을 논증합니다.",
+    "summary": "한국 증시가 금융투자소득세(금투세) 논란, 지배구조 디스카운트, 패시브 외인 이탈로 2년째 박스권에 갇힌 반면, 미국 증시는 견고한 EPS 성장과 <span class=\"text-amber-300 font-bold\">금리 인하</span> 예방 효과로 우상향을 굳히고 있어 '포트폴리오 내 미국 주식 비중 확대'가 하반기 포트폴리오 성패를 가를 유일한 해결책임을 논증합니다.",
     "key_claims": [
-      "환율 강세 국면에서는 원화 자산의 가치 하락 방어를 위해 미국 주식 보유가 즉효 헷지 수단임.",
-      "미국 대형 플랫폼 기업들의 자본 독점 구조는 고금리 기조에서도 확실한 마진 성장을 보장함."
+      "<span class=\"text-amber-300 font-bold\">환율</span> 강세 국면에서는 원화 자산의 가치 하락 방어를 위해 미국 주식 보<span class=\"text-amber-300 font-bold\">유가</span> 즉효 헷지 수단임.",
+      "미국 대형 플랫폼 기업들의 자본 독점 구조는 <span class=\"text-amber-300 font-bold\">고금리</span> 기조에서도 확실한 마진 성장을 보장함."
     ],
     "data_points": [
       "미국 S&P 500 Fwd 12M EPS 성장률 전망: 전년 동월 대비 +11.2% 우상향",
       "국내 증시 예탁금 회전율 격차: 미국 주식 이탈 순매수 규모 사상 최대 경신"
     ],
     "signal": "bullish",
-    "signal_reason": "미국 시장으로의 글로벌 자본 쏠림과 EPS 상향 조정 경로가 여타 이머징 마켓 대비 압도적으로 건전하기 때문입니다.",
+    "signal_reason": "미국 시장으로의 글로벌 자본 쏠림과 EPS 상향 <span class=\"text-rose-400 font-medium\">조정</span> 경로가 여타 이머징 마켓 대비 압도적으로 건전하기 때문입니다.",
     "key_companies": [
       "Microsoft",
       "Nvidia",

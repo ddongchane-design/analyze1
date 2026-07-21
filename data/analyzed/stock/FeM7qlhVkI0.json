@@ -8,23 +8,23 @@
     "thumbnail": "https://img.youtube.com/vi/FeM7qlhVkI0/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "미·이란 갈등 재점화로 브렌트유가 급반등하고 다우지수가 하락하는 한편, 메타의 데이터센터 신규 건설 발표와 금리 하락 경계감이 부각되며 나스닥이 기술적 반등을 이뤄낸 글로벌 매크로 및 증시 아침 뉴스를 요약합니다.",
+    "summary": "미·<span class=\"text-violet-300 font-medium\">이란</span> 갈등 재점화로 브렌트<span class=\"text-amber-300 font-bold\">유가</span> 급반등하고 다우지수가 하락하는 한편, 메타의 데이터센터 신규 건설 발표와 금리 하락 경계감이 부각되며 나스닥이 기술적 반등을 이뤄낸 글로벌 매크로 및 증시 아침 뉴스를 요약합니다.",
     "key_claims": [
-      "중동의 지정학적 갈등 재점화로 에너지 수입 국가들의 인플레이션 경계감 고조.",
-      "빅테크(메타 등)의 데이터센터 증설 투자는 반도체/전력 기자재 밸류체인의 수주 흐름을 지탱함."
+      "<span class=\"text-violet-300 font-medium\">중동</span>의 지정학적 갈등 재점화로 에너지 수입 국가들의 <span class=\"text-amber-300 font-bold\">인플레이션</span> 경계감 고조.",
+      "빅테크(메타 등)의 데이터센터 증설 투자는 <span class=\"text-cyan-300 font-semibold\">반도체</span>/전력 기자재 밸류체인의 수주 흐름을 지탱함."
     ],
     "data_points": [
       "미-이란 보복 공습으로 국제유가(WTI) 배럴당 3%대 상승",
       "메타, 캐나다 퀘벡 주에 1GW 데이터센터 부지 최종 합의"
     ],
     "signal": "neutral",
-    "signal_reason": "전방 테크 기업들의 캐펙스 집행은 긍정적이나 중동의 전쟁 위협에 따른 원자재 비용 불확실성이 상존하기 때문입니다.",
+    "signal_reason": "전방 테크 기업들의 캐펙스 집행은 긍정적이나 <span class=\"text-violet-300 font-medium\">중동</span>의 전쟁 위협에 따른 원자재 비용 불확실성이 상존하기 때문입니다.",
     "key_companies": [
       "Meta",
       "Samsung Electronics"
     ],
-    "insight": "중동 불안으로 인한 유가/원자재 상승은 조선 특수선 및 해운 운임(톤마일) 상승 모멘텀을 간접 지지할 것입니다.",
-    "action_point": "단기 거시 지수 롱숏 베팅을 지양하고, 중동 리스크와 무관하게 10년 수주가 지속되는 송전망 변압기 및 해운 기자재 비중을 안정적으로 가져갑니다."
+    "insight": "<span class=\"text-violet-300 font-medium\">중동</span> 불안으로 인한 <span class=\"text-amber-300 font-bold\">유가</span>/원자재 상승은 조선 특수선 및 해운 운임(톤마일) 상승 모멘텀을 간접 지지할 것입니다.",
+    "action_point": "단기 거시 지수 롱숏 베팅을 지양하고, <span class=\"text-violet-300 font-medium\">중동</span> <span class=\"text-rose-400 font-medium\">리스크</span>와 무관하게 10년 수주가 지속되는 송전망 변압기 및 해운 기자재 비중을 안정적으로 가져갑니다."
   },
   "classification": {
     "primary_topic": "stock",

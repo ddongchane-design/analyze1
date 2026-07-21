@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/Rb4PDaiE_kY/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "중국 인공지능(AI) 산업은 미국의 대중국 제재 속에서 **자본 유치, 국산 GPU 도입, 인프라 투자**를 하나로 연결하는 독자적인 중국식 선순환 생태계를 성공적으로 구축하고 있습니다. 상하이 루자주의 경제 포럼에서 증감회 주석은 첨단 기술 기업을 지원하기 위해 과창판 상장 특례를 확대하겠다고 발표했습니다. 틱톡의 모기업인 <span class=\"text-cyan-300 font-semibold\">바이트댄스</span>는 자체 탑바우 서비스를 위해 2선 국산 GPU 도입을 확대하고 있으며, 대표 AI 스타트업 <span class=\"text-cyan-300 font-semibold\">딥시크(DeepSeek)</span>는 국가 및 빅테크 자본을 대규모로 조달했습니다.",
+    "summary": "<span class=\"text-violet-300 font-medium\">중국</span> 인공지능(AI) 산업은 미국의 대<span class=\"text-violet-300 font-medium\">중국</span> 제재 속에서 **자본 유치, 국산 GPU 도입, 인프라 투자**를 하나로 연결하는 독자적인 <span class=\"text-violet-300 font-medium\">중국</span>식 선순환 생태계를 성공적으로 구축하고 있습니다. 상하이 루자주의 경제 포럼에서 증감회 주석은 첨단 기술 기업을 지원하기 위해 과창판 상장 특례를 확대하겠다고 발표했습니다. 틱톡의 모기업인 바이트댄스는 자체 탑바우 서비스를 위해 2선 국산 GPU 도입을 확대하고 있으며, 대표 AI 스타트업 딥시크(DeepSeek)는 국가 및 빅테크 자본을 대규모로 조달했습니다.",
     "key_claims": [
-      "중국 자본 시장(증감회 우칭 주석)은 AI, 바이오 등 첨단 기업의 원활한 상장과 자금 조달을 위해 과창판(Star Market) 상장 요건을 파격적으로 완화하고 국가 자본을 투입하고 있다.",
-      "바이트댄스는 화웨이, 캠브리콘 외에 2선 GPU 기업인 '일루바타 코어엑스'의 칩 5만 개 이상을 수입/검증하기 시작하여 AI 인프라 국산화 생태계를 2선 기업까지 다변화하고 있다.",
+      "<span class=\"text-violet-300 font-medium\">중국</span> 자본 시장(증감회 우칭 주석)은 AI, 바이오 등 첨단 기업의 원활한 상장과 자금 조달을 위해 과창판(Star Market) 상장 요건을 파격적으로 완화하고 국가 자본을 투입하고 있다.",
+      "바이트댄스는 <span class=\"text-cyan-300 font-semibold\">화웨이</span>, 캠브리콘 외에 2선 GPU 기업인 '일루바타 코어엑스'의 칩 5만 개 이상을 수입/검증하기 시작하여 AI 인프라 국산화 생태계를 2선 기업까지 다변화하고 있다.",
       "스타트업 딥시크는 단순 재무적 투자가 아닌 텐센트, CATL, 국가 AI 펀드 등 전방위 국가대표 동맹을 구축하여 인재 유치와 자체 국산 데이터센터 인프라 확장을 도모한다."
     ],
     "data_points": [
@@ -22,15 +22,15 @@
     ],
     "signal": "bullish",
     "signal_confidence": "medium",
-    "signal_reason": "미국 제제 우회를 넘어 중국 내부에서 자체 반도체 설계, 제조, 파생 서비스(LLM)에 이르는 강력한 수직 계열화 생태계가 구축되고 있으며, 중국 자본시장 정책 지원과 대형 펀드가 이를 강하게 뒷받침하고 있기 때문입니다.",
+    "signal_reason": "미국 제제 우회를 넘어 <span class=\"text-violet-300 font-medium\">중국</span> 내부에서 자체 <span class=\"text-cyan-300 font-semibold\">반도체</span> 설계, 제조, 파생 서비스(LLM)에 이르는 강력한 수직 계열화 생태계가 구축되고 있으며, <span class=\"text-violet-300 font-medium\">중국</span> 자본시장 정책 지원과 대형 펀드가 이를 강하게 뒷받침하고 있기 때문입니다.",
     "key_companies": [
       "바이트댄스",
       "화웨이",
       "텐센트",
       "CATL"
     ],
-    "insight": "중국은 AI 반도체 공급 차단이라는 외풍을 맞으며 오히려 국산 칩 제조 역량을 한 차원 끌어올리고 있습니다. 바이트댄스가 2선 GPU 브랜드의 대량 매수를 시작한 것은 중국 내부 AI 가속기 생태계의 다양화와 기술 신뢰도가 검증되고 있음을 시사합니다. 또한 <span class=\"text-cyan-300 font-semibold\">딥시크</span>가 CATL(전력 공급)과 텐센트(응용 서비스)를 우군으로 확보하고 네몽골에 대형 자체 데이터센터를 설립하려는 시도는 국가 전략 차원의 AI 주권 확보 움직임으로 읽어야 합니다.",
-    "action_point": "글로벌 자산 배분 관점에서 코리아 디스카운트 및 미·중 제재 리스크를 분산하기 위해, 중국 과창판 기술주 지수를 추종하는 <span class=\"text-cyan-300 font-semibold\">국내외 ETF 상품</span>에 일부 자산을 나누어 배정하는 긴 안목의 전략이 유효합니다."
+    "insight": "<span class=\"text-violet-300 font-medium\">중국</span>은 <span class=\"text-cyan-300 font-semibold\">AI 반도체</span> 공급 차단이라는 외풍을 맞으며 오히려 국산 칩 제조 역량을 한 차원 끌어올리고 있습니다. 바이트댄스가 2선 GPU 브랜드의 대량 매수를 시작한 것은 <span class=\"text-violet-300 font-medium\">중국</span> 내부 AI 가속기 생태계의 다양화와 기술 신뢰도가 검증되고 있음을 시사합니다. 또한 딥시크가 CATL(전력 공급)과 텐센트(응용 서비스)를 우군으로 확보하고 네몽골에 대형 자체 데이터센터를 설립하려는 시도는 국가 전략 차원의 AI 주권 확보 움직임으로 읽어야 합니다.",
+    "action_point": "글로벌 자산 배분 관점에서 코리아 디스카운트 및 미·중 제재 <span class=\"text-rose-400 font-medium\">리스크</span>를 분산하기 위해, <span class=\"text-violet-300 font-medium\">중국</span> 과창판 기술주 지수를 추종하는 국내외 ETF 상품에 일부 자산을 나누어 배정하는 긴 안목의 전략이 유효합니다."
   },
   "classification": {
     "primary_topic": "tech",

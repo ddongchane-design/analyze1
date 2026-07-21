@@ -8,23 +8,23 @@
     "thumbnail": "https://img.youtube.com/vi/l5oQymvTPlo/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "1. 추론 AI 비중 확대로 인해 고성능 컨텍스트 처리가 가능한 <span class=\"text-cyan-300 font-semibold\">AI 전용 메모리</span>로의 대전환이 일어나는 <span class=\"text-amber-300 font-bold\">다섯 번째 변곡점</span>에 직면했습니다.\n2. <span class=\"text-cyan-300 font-semibold\">빅테크(하이퍼스케일러)</span>들이 메모리 설계 단계부터 관여하여 자사 알고리즘과 메모리 압축 기술을 베이스 다이에 내장하는 <span class=\"text-cyan-300 font-semibold\">맞춤형 HBM</span>을 강력히 요구하고 있습니다.\n3. 메모리 제조사들은 한정된 칩 면적 내에서 맞춤형 성능을 보존해야 하는 기술적 도전과 함께, <span class=\"text-amber-300 font-bold\">가격 협상력</span>을 잃지 않기 위해 특정 빅테크에 대한 <span class=\"text-rose-400 font-medium\">과도한 의존</span>을 경계해야 합니다.",
+    "summary": "1. 추론 AI 비중 확대로 인해 고성능 컨텍스트 처리가 가능한 AI 전용 메모리로의 대전환이 일어나는 다섯 번째 변곡점에 직면했습니다.\n2. 빅테크(하이퍼스케일러)들이 메모리 설계 단계부터 관여하여 자사 알고리즘과 메모리 압축 기술을 베이스 다이에 내장하는 맞춤형 <span class=\"text-cyan-300 font-semibold\">HBM</span>을 강력히 요구하고 있습니다.\n3. 메모리 제조사들은 한정된 칩 면적 내에서 맞춤형 성능을 보존해야 하는 기술적 도전과 함께, 가격 협상력을 잃지 않기 위해 특정 빅테크에 대한 과도한 의존을 경계해야 합니다.",
     "key_claims": [
-      "추론 AI 학습 및 긴 컨텍스트 처리 수요가 늘어남에 따라 하드웨어 설계가 <span class=\"text-cyan-300 font-semibold\">AI 전용(Specific) 메모리</span>로 급격히 재편되고 있음",
-      "돈줄을 쥐고 있는 <span class=\"text-cyan-300 font-semibold\">하이퍼스케일러</span>들이 자체 메모리 압축 및 알고리즘 구현을 요구하며 <span class=\"text-cyan-300 font-semibold\">맞춤형 HBM(커스터마이즈 HBM)</span> 설계 개입을 본격화",
-      "<span class=\"text-cyan-300 font-semibold\">메모리 파운드리</span> 시대로 진입하면서 독자적 기술 주도권을 상실할 경우 빅테크의 <span class=\"text-rose-400 font-medium\">단가 인하 압박에 끌려다니는 리스크</span>가 커짐"
+      "추론 AI 학습 및 긴 컨텍스트 처리 수요가 늘어남에 따라 하드웨어 설계가 AI 전용(Specific) 메모리로 급격히 재편되고 있음",
+      "돈줄을 쥐고 있는 하이퍼스케일러들이 자체 메모리 압축 및 알고리즘 구현을 요구하며 맞춤형 <span class=\"text-cyan-300 font-semibold\">HBM</span>(커스터마이즈 <span class=\"text-cyan-300 font-semibold\">HBM</span>) 설계 개입을 본격화",
+      "메모리 파운드리 시대로 진입하면서 독자적 기술 주도권을 상실할 경우 빅테크의 단가 인하 압박에 끌려다니는 <span class=\"text-rose-400 font-medium\">리스크</span>가 커짐"
     ],
     "data_points": [
       "하이퍼스케일러들의 수백억 달러 규모 AI 데이터 센터 및 모델 투자 지속"
     ],
     "signal": "bullish",
-    "signal_reason": "한국의 반도체 기업들이 <span class=\"text-cyan-300 font-semibold\">맞춤형 HBM과 메모리 파운드리</span>라는 기술 장벽을 극복한다면, 추론 중심 AI 스펙 메모리 시장 개화에 따른 거대한 고부가가치 <span class=\"text-cyan-300 font-semibold\">독점 수익</span>을 확보할 수 있습니다.",
+    "signal_reason": "한국의 <span class=\"text-cyan-300 font-semibold\">반도체</span> 기업들이 맞춤형 <span class=\"text-cyan-300 font-semibold\">HBM</span>과 메모리 파운드리라는 기술 장벽을 극복한다면, 추론 중심 AI 스펙 메모리 시장 개화에 따른 거대한 고부가가치 독점 수익을 확보할 수 있습니다.",
     "key_companies": [
       "삼성전자",
       "SK하이닉스"
     ],
-    "insight": "HBM 시장은 이제 범용 메모리 소자 공급에서 주문형 반도체(ASIC)처럼 설계 단계부터 고객사와 협업하는 <span class=\"text-cyan-300 font-semibold\">메모리 파운드리</span>로 본질적 변화를 겪고 있습니다. 이는 한계 기술 극복력과 함께 고객 다변화 및 독자적인 알고리즘 주도권을 쥔 업체만이 살아남는 <span class=\"text-rose-400 font-medium\">승자독식 구조</span>를 강화할 것입니다.",
-    "action_point": "반도체 투자자는 단순 HBM 공급 물량 증가보다, 빅테크의 독자 요구사항(<span class=\"text-cyan-300 font-semibold\">커스텀 베이스 다이 설계</span> 및 메모리 압축 임베딩)에 유연하게 대응하며 <span class=\"text-amber-300 font-bold\">가격 협상력</span>을 유지할 수 있는 독보적 공정 경쟁력을 확보한 선도 기업에 집중해야 합니다."
+    "insight": "<span class=\"text-cyan-300 font-semibold\">HBM</span> 시장은 이제 범용 메모리 소자 공급에서 주문형 <span class=\"text-cyan-300 font-semibold\">반도체</span>(ASIC)처럼 설계 단계부터 고객사와 협업하는 메모리 파운드리로 본질적 변화를 겪고 있습니다. 이는 한계 기술 극복력과 함께 고객 다변화 및 독자적인 알고리즘 주도권을 쥔 업체만이 살아남는 승자독식 구조를 강화할 것입니다.",
+    "action_point": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 투자자는 단순 <span class=\"text-cyan-300 font-semibold\">HBM</span> 공급 물량 증가보다, 빅테크의 독자 요구사항(커스텀 베이스 다이 설계 및 메모리 압축 임베딩)에 유연하게 대응하며 가격 협상력을 유지할 수 있는 독보적 공정 경쟁력을 확보한 선도 기업에 집중해야 합니다."
   },
   "classification": {
     "primary_topic": "tech",

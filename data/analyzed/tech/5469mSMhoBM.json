@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/5469mSMhoBM/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "빅테크 기업들의 AI 비용 통제 압박이 임계점에 도달하면서 <span class=\"text-rose-400 font-medium\">메모리(HBM) 가격 상한선</span>이 설정되고 있습니다. 빅테크들은 고비용 미국 고급 AI 모델의 비중을 73%에서 33%로 낮추고 중국산 및 오픈소스 모델을 혼합하는 '모델 라우팅'을 본격화하고 있습니다. 메모리 제조사들이 추가적인 HBM 가격 인상을 시도할 경우, 최종 고객인 AI 서비스사들의 수익성 붕괴와 중국 <span class=\"text-cyan-300 font-semibold\">CXMT</span> 등으로의 공급망 다변화라는 역풍에 직면할 수 있습니다.",
+    "summary": "빅테크 기업들의 AI 비용 통제 압박이 임계점에 도달하면서 메모리(<span class=\"text-cyan-300 font-semibold\">HBM</span>) 가격 상한선이 설정되고 있습니다. 빅테크들은 고비용 미국 고급 AI 모델의 비중을 73%에서 33%로 낮추고 <span class=\"text-violet-300 font-medium\">중국</span>산 및 오픈소스 모델을 혼합하는 '모델 라우팅'을 본격화하고 있습니다. 메모리 제조사들이 추가적인 <span class=\"text-cyan-300 font-semibold\">HBM</span> 가격 인상을 시도할 경우, 최종 고객인 AI 서비스사들의 수익성 붕괴와 <span class=\"text-violet-300 font-medium\">중국</span> CXMT 등으로의 공급망 다변화라는 역풍에 직면할 수 있습니다.",
     "key_claims": [
       "비용 한계에 봉착한 기업들이 OpenAI, Anthropic 등의 비중을 축소하고 67%의 업무를 저가 모델로 전환하는 비용 통제 조치에 나섰습니다.",
-      "메모리 제조업체(삼성전자, SK하이닉스)의 마진율은 최종 고객의 판가 전가 한계로 인해 당분간 고점을 형성할 가능성이 높습니다.",
-      "HBM 등 가격이 임계점을 초과할 경우 글로벌 AI 진영이 비용 부담을 견디지 못하고 중국 메모리 대안을 모색할 수 있는 구축 효과가 우려됩니다."
+      "메모리 제조업체(<span class=\"text-cyan-300 font-semibold\">삼성전자</span>, <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>)의 마진율은 최종 고객의 판가 전가 한계로 인해 당분간 고점을 형성할 가능성이 높습니다.",
+      "<span class=\"text-cyan-300 font-semibold\">HBM</span> 등 가격이 임계점을 초과할 경우 글로벌 AI 진영이 비용 부담을 견디지 못하고 <span class=\"text-violet-300 font-medium\">중국</span> 메모리 대안을 모색할 수 있는 구축 효과가 우려됩니다."
     ],
     "data_points": [
       "미국 프리미엄 AI 모델(ChatGPT, Claude, Gemini) 사용 비중: 73% -> 33% (1년 만에 대폭 하락)",
@@ -20,7 +20,7 @@
       "AI 자동화 침투율: 미국 내 주요 3개 분야(코딩, 금융, 법률) 외에는 실질 침투율 1% 미만 (성장 잠재력은 여전)"
     ],
     "signal": "bearish",
-    "signal_reason": "HBM 수요는 굳건하나 빅테크들의 강력한 AI 비용 통제 및 모델 다변화 움직임으로 반도체 가격의 추가 인상 폭이 제한되어 메모리 업계의 이익률 상단이 제한될 위험이 큽니다.",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">HBM</span> 수요는 굳건하나 빅테크들의 강력한 AI 비용 통제 및 모델 다변화 움직임으로 <span class=\"text-cyan-300 font-semibold\">반도체</span> 가격의 추가 인상 폭이 제한되어 메모리 업계의 이익률 상단이 제한될 <span class=\"text-rose-400 font-medium\">위험</span>이 큽니다.",
     "key_companies": [
       "SK하이닉스(000660)",
       "삼성전자(005930)",
@@ -28,7 +28,7 @@
       "OpenAI",
       "Anthropic"
     ],
-    "insight": "AI 생태계의 부가가치가 하드웨어에서 소프트웨어의 효율화(모델 라우팅)로 이동하고 있습니다. 최종 단말의 수익화 지연은 결국 상단의 반도체 밸류체인으로 가격 인하 혹은 가격 동결 압력으로 고스란히 전가될 것입니다.",
+    "insight": "AI 생태계의 부가가치가 하드웨어에서 소프트웨어의 효율화(모델 라우팅)로 이동하고 있습니다. 최종 단말의 수익화 지연은 결국 상단의 <span class=\"text-cyan-300 font-semibold\">반도체</span> 밸류체인으로 가격 인하 혹은 가격 동결 압력으로 고스란히 전가될 것입니다.",
     "action_point": "메모리 업종의 추가적인 마진 스프레드 확대 기대치를 낮추고, 무리한 추격 매수보다는 밸류에이션 상한선을 고려한 포트폴리오 조절이 요구됩니다."
   },
   "classification": {

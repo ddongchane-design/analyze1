@@ -8,25 +8,25 @@
     "thumbnail": "https://img.youtube.com/vi/cy-9NEvJhqo/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "단기 급등 후 이동평균선과의 격차가 벌어지는 <span class=\"text-amber-300 font-bold\">이격도 과열</span> 발생 시, 20일선 붕괴를 기준으로 한 기계적인 리스크 관리가 필요합니다.\n매수·매도 사이드카의 빈번한 발동은 거액 자산가의 안전자산 이동과 개인의 <span class=\"text-rose-400 font-medium\">포모(FOMO)성 미수 거래</span>가 충돌하며 시장 변동성이 극대화된 결과입니다.\n<span class=\"text-cyan-300 font-semibold\">스페이스X</span> 상장 시 시총 상위권 진입에 따른 패시브 펀드의 기계적 매수 유입 가능성을 제시하며 수급 흐름에 주목할 것을 조언합니다.",
+    "summary": "단기 급등 후 이동평균선과의 격차가 벌어지는 이격도 <span class=\"text-rose-400 font-medium\">과열</span> 발생 시, 20일선 붕괴를 기준으로 한 기계적인 <span class=\"text-rose-400 font-medium\">리스크</span> 관리가 필요합니다.\n매수·매도 사이드카의 빈번한 발동은 거액 자산가의 안전자산 이동과 개인의 포모(FOMO)성 미수 거래가 충돌하며 시장 변동성이 극대화된 결과입니다.\n<span class=\"text-cyan-300 font-semibold\">스페이스X</span> 상장 시 시총 상위권 진입에 따른 패시브 펀드의 기계적 매수 유입 가능성을 제시하며 수급 흐름에 주목할 것을 조언합니다.",
     "key_claims": [
-      "이벤트 테마로 상승한 종목은 재료 소멸 시 가격 조정이 깊어질 수 있으므로 <span class=\"text-rose-400 font-medium\">20일 이평선 이탈</span>을 매도 기준으로 삼아야 한다.",
-      "시장 널뛰기 속에서 개인의 <span class=\"text-rose-400 font-medium\">레버리지/미수 반대매매</span> 리스크가 커지고 있으므로 분할 매수와 예약 주문을 적극 활용해야 한다.",
-      "스페이스X 상장은 고평가 논란과 별개로 시총 10위권 진입에 따른 기계적 <span class=\"text-cyan-300 font-semibold\">패시브 수급 유입</span>이 첫날 주가를 견인할 가능성이 크다."
+      "이벤트 테마로 상승한 종목은 재료 소멸 시 가격 <span class=\"text-rose-400 font-medium\">조정</span>이 깊어질 수 있으므로 20일 이평선 이탈을 매도 기준으로 삼아야 한다.",
+      "시장 널뛰기 속에서 개인의 레버리지/미수 반대매매 <span class=\"text-rose-400 font-medium\">리스크</span>가 커지고 있으므로 분할 매수와 예약 주문을 적극 활용해야 한다.",
+      "<span class=\"text-cyan-300 font-semibold\">스페이스X</span> 상장은 고평가 논란과 별개로 시총 10위권 진입에 따른 기계적 패시브 수급 유입이 첫날 주가를 견인할 가능성이 크다."
     ],
     "data_points": [
       "올해 국내 증시 매수 사이드카 13회, 매도 사이드카 12회 발동"
     ],
     "signal": "neutral",
-    "signal_reason": "이벤트 매매의 리스크 대응법, 시장 변동성 지표의 해석, 스페이스X 상장에 따른 수급 분석 등 교육적 및 전술적 조언 중심의 내용입니다.",
+    "signal_reason": "이벤트 매매의 <span class=\"text-rose-400 font-medium\">리스크</span> 대응법, 시장 변동성 지표의 해석, <span class=\"text-cyan-300 font-semibold\">스페이스X</span> 상장에 따른 수급 분석 등 교육적 및 전술적 조언 중심의 내용입니다.",
     "key_companies": [
       "LG전자(066570)",
       "삼성전기(009150)",
       "스페이스X",
       "삼성SDI(006400)"
     ],
-    "insight": "7월 실적 시즌을 앞두고 시장은 단순 기대감으로 오른 장비주에서 실적이 가시화되는 소재·부품주 및 <span class=\"text-cyan-300 font-semibold\">2차전지 실적개선주</span>로의 주도권 이동을 준비하고 있습니다. 단기 급등 테마에 눈이 멀기보다 기계적 지지선을 지키는 철저한 원칙 매매만이 <span class=\"text-rose-400 font-medium\">변동성 장세</span>에서 생존하는 길입니다.",
-    "action_point": "보유 종목의 20일 이동평균선 이탈 여부를 상시 점검하고 예약 매도 설정을 생활화하며, 스페이스X 상장 초기에는 밸류에이션보다는 <span class=\"text-cyan-300 font-semibold\">지수 편입 수급 효과</span>에 초점을 맞추어 대응해야 합니다."
+    "insight": "7월 실적 시즌을 앞두고 시장은 단순 기대감으로 오른 장비주에서 실적이 가시화되는 소재·부품주 및 2차전지 실적개선주로의 주도권 이동을 준비하고 있습니다. 단기 급등 테마에 눈이 멀기보다 기계적 지지선을 지키는 철저한 원칙 매매만이 변동성 장세에서 생존하는 길입니다.",
+    "action_point": "보유 종목의 20일 이동평균선 이탈 여부를 상시 점검하고 예약 매도 설정을 생활화하며, <span class=\"text-cyan-300 font-semibold\">스페이스X</span> 상장 초기에는 밸류에이션보다는 지수 편입 수급 효과에 초점을 맞추어 대응해야 합니다."
   },
   "classification": {
     "primary_topic": "stock",

@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/P9mjHAt1uu0/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "최근 <span class=\"text-cyan-300 font-semibold\">오픈AI</span>의 상장 연기 가능성과 기술주 조정으로 투자 심리가 주춤하지만, 빅테크의 AI <span class=\"text-amber-300 font-bold\">인프라 투자</span> 수요는 2030년까지 지속될 전망임.\n여름 계절성 요인으로 인해 증시가 <span class=\"text-rose-400 font-medium\">여름 조정장</span>(지수 5~7%, 반도체 등 고변동성 주식 10~20% 하락)에 진입할 가능성이 큼.\n이에 따라 테크 편중에서 벗어나 <span class=\"text-cyan-300 font-semibold\">헬스케어</span>, 에너지, 금융(지역 은행) 등으로 <span class=\"text-amber-300 font-bold\">포트폴리오 다각화</span>를 추진하는 전략이 유효함.",
+    "summary": "최근 오픈AI의 상장 연기 가능성과 기술주 <span class=\"text-rose-400 font-medium\">조정</span>으로 투자 심리가 주춤하지만, 빅테크의 AI 인프라 투자 수요는 2030년까지 지속될 전망임.\n여름 계절성 요인으로 인해 증시가 여름 <span class=\"text-rose-400 font-medium\">조정</span>장(지수 5~7%, <span class=\"text-cyan-300 font-semibold\">반도체</span> 등 고변동성 주식 10~20% 하락)에 진입할 가능성이 큼.\n이에 따라 테크 편중에서 벗어나 헬스케어, 에너지, 금융(지역 은행) 등으로 포트폴리오 다각화를 추진하는 전략이 유효함.",
     "key_claims": [
-      "빅테크 기업들의 AI <span class=\"text-amber-300 font-bold\">인프라 투자</span>는 생존의 문제이므로 장기적으로 유지될 수밖에 없음.",
-      "역사적 계절성에 비추어 볼 때 현 시점은 <span class=\"text-rose-400 font-medium\">여름 조정장</span>을 거치며 쉬어가는 보합 국면일 가능성이 높음.",
+      "빅테크 기업들의 AI 인프라 투자는 생존의 문제이므로 장기적으로 유지될 수밖에 없음.",
+      "역사적 계절성에 비추어 볼 때 현 시점은 여름 <span class=\"text-rose-400 font-medium\">조정</span>장을 거치며 쉬어가는 보합 국면일 가능성이 높음.",
       "유동성 축소 시기에 크립토와 금은 올해 4분기쯤 되어야 바닥을 확인할 것임."
     ],
     "data_points": [
@@ -22,7 +22,7 @@
     ],
     "signal": "neutral",
     "signal_confidence": "medium",
-    "signal_reason": "장기적인 AI 성장 추세는 유효하나, 단기적으로는 <span class=\"text-rose-400 font-medium\">여름 조정장</span>과 유동성 변화에 따른 기간 조정이 불가피함.",
+    "signal_reason": "장기적인 AI 성장 추세는 유효하나, 단기적으로는 여름 <span class=\"text-rose-400 font-medium\">조정</span>장과 유동성 변화에 따른 기간 <span class=\"text-rose-400 font-medium\">조정</span>이 불가피함.",
     "key_companies": [
       "마이크론(MU)",
       "엔비디아(NVDA)",
@@ -31,8 +31,8 @@
       "마이크로소프트(MSFT)",
       "머크(MRK)"
     ],
-    "insight": "AI 인프라 경쟁은 단순히 빅테크의 선택 사항이 아닌 기존 시장 지배력을 유지하기 위한 <span class=\"text-amber-300 font-bold\">생존형 투자</span>이며, 이로 인해 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span> 장기 공급 계약이 구속력을 갖게 됨.",
-    "action_point": "빅테크 및 반도체 조정 시 분할 매수(<span class=\"text-amber-300 font-bold\">바이더딥</span>) 기회로 삼되, 단기 변동성을 방어하기 위해 최근 부각되는 <span class=\"text-cyan-300 font-semibold\">헬스케어</span>(예: 머크) 및 에너지를 포트폴리오에 추가해야 함."
+    "insight": "AI 인프라 경쟁은 단순히 빅테크의 선택 사항이 아닌 기존 시장 지배력을 유지하기 위한 생존형 투자이며, 이로 인해 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span> 장기 공급 계약이 구속력을 갖게 됨.",
+    "action_point": "빅테크 및 <span class=\"text-cyan-300 font-semibold\">반도체</span> <span class=\"text-rose-400 font-medium\">조정</span> 시 분할 매수(바이더딥) 기회로 삼되, 단기 변동성을 방어하기 위해 최근 부각되는 헬스케어(예: 머크) 및 에너지를 포트폴리오에 추가해야 함."
   },
   "classification": {
     "primary_topic": "stock",

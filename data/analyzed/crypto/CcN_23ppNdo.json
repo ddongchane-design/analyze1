@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/CcN_23ppNdo/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "미국 SEC가 <span class=\"text-cyan-300 font-semibold\">Regulation NMS</span>의 일부 규정을 폐지하기로 결정하면서, 호가 보호 의무 등으로 제약을 받던 디파이의 <span class=\"text-cyan-300 font-semibold\">AMM</span>(자동 마켓 메이커) 기반 토큰화 주식 시장의 확장 장벽이 낮아지게 되었습니다.\nCFTC가 무기한 선물을 승인했으나 <span class=\"text-cyan-300 font-semibold\">CME</span>(시카고상품거래소)가 이에 대한 소송을 예고하는 등 파생상품 관할권과 성격 분류를 둘러싼 규제 당국 및 기관 간 갈등이 심화되고 있습니다.\n코인베이스는 미국 외 지역에서 의결권과 배당권이 보장되는 1:1 <span class=\"text-cyan-300 font-semibold\">토큰화 주식</span> 거래를 추진하는 등 '에브리띵 익스체인지' 전략을 통해 금융 허브로의 도약을 꾀하고 있습니다.",
+    "summary": "미국 SEC가 Regulation NMS의 일부 규정을 폐지하기로 결정하면서, 호가 보호 의무 등으로 제약을 받던 디파이의 AMM(자동 마켓 메이커) 기반 토큰화 주식 시장의 확장 장벽이 낮아지게 되었습니다.\nCFTC가 무기한 선물을 승인했으나 CME(시카고상품거래소)가 이에 대한 소송을 예고하는 등 파생상품 관할권과 성격 분류를 둘러싼 규제 당국 및 기관 간 갈등이 심화되고 있습니다.\n<span class=\"text-cyan-300 font-semibold\">코인베이스</span>는 미국 외 지역에서 의결권과 배당권이 보장되는 1:1 토큰화 주식 거래를 추진하는 등 '에브리띵 익스체인지' 전략을 통해 금융 허브로의 도약을 꾀하고 있습니다.",
     "key_claims": [
-      "SEC의 <span class=\"text-cyan-300 font-semibold\">Regulation NMS</span> 개정은 규칙 중심(Rule-based)에서 원칙 중심(Principle-based) 규제로의 전환을 의미하며, 이는 장기적으로 디파이 및 디지털 자산 시장 확대의 중요한 계기가 될 것입니다.",
-      "토큰화 주식의 실질적인 미국 내 유통과 거래를 활성화하기 위해서는 수탁, 라이선스, 그리고 청산소(<span class=\"text-cyan-300 font-semibold\">DTCC</span> 등) 인프라에 대한 규제 공백이 먼저 해결되어야 합니다.",
-      "무기한 선물 상품은 롤오버 비용이 없고 단순하여 리테일 및 기관 투자자 유입을 촉진할 잠재력이 크나, 스왑(Swap) 분류 여부에 따른 <span class=\"text-rose-400 font-medium\">소송 리스크</span>가 단기적 제약 요인입니다."
+      "SEC의 Regulation NMS 개정은 규칙 중심(Rule-based)에서 원칙 중심(Principle-based) 규제로의 전환을 의미하며, 이는 장기적으로 디파이 및 디지털 자산 시장 확대의 중요한 계기가 될 것입니다.",
+      "토큰화 주식의 실질적인 미국 내 유통과 거래를 활성화하기 위해서는 수탁, 라이선스, 그리고 <span class=\"text-rose-400 font-medium\">청산</span>소(DTCC 등) 인프라에 대한 규제 공백이 먼저 해결되어야 합니다.",
+      "무기한 선물 상품은 롤오버 비용이 없고 단순하여 리테일 및 기관 투자자 유입을 촉진할 잠재력이 크나, 스왑(Swap) 분류 여부에 따른 소송 <span class=\"text-rose-400 font-medium\">리스크</span>가 단기적 제약 요인입니다."
     ],
     "data_points": [
       "Regulation NMS 610, 611 호가 보호 규정 폐지 결정 및 2027년 1분기 시행 예정",
@@ -21,7 +21,7 @@
     ],
     "signal": "neutral",
     "signal_confidence": "medium",
-    "signal_reason": "규제 완화의 흐름은 긍정적이나, <span class=\"text-rose-400 font-medium\">CME의 소송 제기</span>와 청산·수탁 부문의 <span class=\"text-rose-400 font-medium\">규제 공백</span>으로 인해 실제 상용화에는 시간이 걸릴 것으로 예상되기 때문입니다.",
+    "signal_reason": "규제 완화의 흐름은 긍정적이나, CME의 소송 제기와 <span class=\"text-rose-400 font-medium\">청산</span>·수탁 부문의 규제 공백으로 인해 실제 상용화에는 시간이 걸릴 것으로 예상되기 때문입니다.",
     "key_companies": [
       "코인베이스(COIN)",
       "CME(CME)",
@@ -30,8 +30,8 @@
       "크라켄(Kraken)",
       "DTCC"
     ],
-    "insight": "토큰화 주식과 무기한 선물의 등장은 단순히 거래 시간(24시간)의 연장뿐만 아니라, 월가의 예금 토큰 진영과 디지털 자산의 스테이블코인 진영 간의 <span class=\"text-amber-300 font-bold\">통화 주도권 싸움</span>을 촉발시키고 있으며, 결국 청산 인프라(<span class=\"text-cyan-300 font-semibold\">DTCC</span> 등)를 선점하는 쪽이 최종 승자가 될 것입니다.",
-    "action_point": "토큰화 주식의 인프라 수혜주인 <span class=\"text-cyan-300 font-semibold\">시큐타이즈</span>(발행 인프라) 및 수탁·거래 플랫폼을 장악해가는 <span class=\"text-cyan-300 font-semibold\">코인베이스</span>에 대한 장기적 관점의 비중 확대를 고려할 만합니다.\n단기적으로는 무기한 선물 규제 소송 및 NMS 개정안 의견 수렴(60일) 과정에서 발생하는 <span class=\"text-rose-400 font-medium\">시장 변동성</span>에 유의해야 합니다."
+    "insight": "토큰화 주식과 무기한 선물의 등장은 단순히 거래 시간(24시간)의 연장뿐만 아니라, 월가의 예금 토큰 진영과 디지털 자산의 스테이블코인 진영 간의 통화 주도권 싸움을 촉발시키고 있으며, 결국 <span class=\"text-rose-400 font-medium\">청산</span> 인프라(DTCC 등)를 선점하는 쪽이 최종 승자가 될 것입니다.",
+    "action_point": "토큰화 주식의 인프라 수혜주인 시큐타이즈(발행 인프라) 및 수탁·거래 플랫폼을 장악해가는 <span class=\"text-cyan-300 font-semibold\">코인베이스</span>에 대한 장기적 관점의 비중 확대를 고려할 만합니다.\n단기적으로는 무기한 선물 규제 소송 및 NMS 개정안 의견 수렴(60일) 과정에서 발생하는 시장 변동성에 유의해야 합니다."
   },
   "classification": {
     "primary_topic": "crypto",

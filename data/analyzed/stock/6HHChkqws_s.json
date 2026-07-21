@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/6HHChkqws_s/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "연준의 매파적 금리 동결 스탠스에도 불구하고, 미국 증시는 반도체를 중심으로 신고가 랠리를 지속하고 있습니다. AI 인프라 투자에 필요한 전력 수급 문제로 글로벌 <span class=\"text-cyan-300 font-semibold\">원전 수요</span>가 확대되면서 국내 대형 건설사들이 원전 및 재건 수혜주로 부각되고 있습니다. 또한 AI 패키징의 필수 요소인 <span class=\"text-cyan-300 font-semibold\">FC-BGA 기판</span>과 수동 부품 <span class=\"text-cyan-300 font-semibold\">MLCC</span>의 이중 병목 현상이 발생함에 따라 IT 부품 섹터의 강세도 전망됩니다.",
+    "summary": "연준의 매파적 금리 동결 스탠스에도 불구하고, 미국 증시는 <span class=\"text-cyan-300 font-semibold\">반도체</span>를 중심으로 신고가 랠리를 지속하고 있습니다. AI 인프라 투자에 필요한 전력 수급 문제로 글로벌 원전 수요가 확대되면서 국내 대형 건설사들이 원전 및 재건 수혜주로 부각되고 있습니다. 또한 AI 패키징의 필수 요소인 FC-BGA 기판과 수동 부품 MLCC의 이중 병목 현상이 발생함에 따라 IT 부품 섹터의 강세도 전망됩니다.",
     "key_claims": [
       "AI 데이터 센터 전력 증가에 대비해 트럼프 행정부 및 각국의 원전 건설 명령이 이어지며, 풍부한 시공 경험을 가진 한국 대형 건설사들의 수혜가 확정적이다.",
-      "AI 하드웨어의 병목 현상이 GPU/HBM에서 고도화된 패키징 기판(FC-BGA)과 전류를 안정화시키는 수동 부품(MLCC)으로 이동하고 있다.",
-      "삼성전자는 랜드와 디램 메모리 통합 SSD 경쟁력뿐만 아니라 HBM 베이스 다이에 파운드리 공정을 자체 적용하는 '풀스택 내재화'의 독점적 우위를 지니고 있다."
+      "AI 하드웨어의 병목 현상이 GPU/<span class=\"text-cyan-300 font-semibold\">HBM</span>에서 고도화된 패키징 기판(FC-BGA)과 전류를 안정화시키는 수동 부품(MLCC)으로 이동하고 있다.",
+      "<span class=\"text-cyan-300 font-semibold\">삼성전자</span>는 랜드와 디램 메모리 통합 SSD 경쟁력뿐만 아니라 <span class=\"text-cyan-300 font-semibold\">HBM</span> 베이스 다이에 파운드리 공정을 자체 적용하는 '풀스택 내재화'의 독점적 우위를 지니고 있다."
     ],
     "data_points": [
       "나스닥 지수는 1.91% 상승",
@@ -30,7 +30,7 @@
     ],
     "signal": "bullish",
     "signal_confidence": "high",
-    "signal_reason": "메모리 반도체의 강한 수요와 더불어 AI 인프라 확장에 따른 <span class=\"text-cyan-300 font-semibold\">원자력 발전</span> 및 패키징 기판, <span class=\"text-cyan-300 font-semibold\">MLCC 부품</span>의 이중 병목 현상에 의한 장기 수혜 구조가 뚜렷합니다.",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">메모리 반도체</span>의 강한 수요와 더불어 AI 인프라 확장에 따른 원자력 발전 및 패키징 기판, MLCC 부품의 이중 병목 현상에 의한 장기 수혜 구조가 뚜렷합니다.",
     "key_companies": [
       "삼성전자(005930)",
       "삼성전기(009150)",
@@ -40,8 +40,8 @@
       "Micron(MU)",
       "Intel(INTC)"
     ],
-    "insight": "AI 투자의 훈풍이 메모리를 넘어 전력 발전원(원자력 시공)과 AI 하드웨어 기판/수동부품(FC-BGA, MLCC)으로 퍼져나가는 '병목의 낙수 효과'가 진행 중입니다. 메모리와 디램, 파운드리 공정을 모두 갖춘 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>의 '풀스택 내재화' 우위는 HBM4 이후 독점적인 마진 확보 수단이 될 것이며, 밸류에이션 저평가는 장기적인 투자 기회를 제공합니다.",
-    "action_point": "이중 병목 수혜주로서 완판 상태인 FC-BGA와 고가동률의 MLCC 매출이 폭발하는 <span class=\"text-cyan-300 font-semibold\">삼성전기</span>를 최선호주로 비중을 확대하고, HBM4 세대 도래에 대비해 글로벌 메모리 업종 내 최저 수준인 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>를 중장기적으로 매집하십시오. 건설 분야에서는 원전 모멘텀 성과가 가시화되는 <span class=\"text-cyan-300 font-semibold\">현대건설</span>에 주목하십시오."
+    "insight": "AI 투자의 훈풍이 메모리를 넘어 전력 발전원(원자력 시공)과 AI 하드웨어 기판/수동부품(FC-BGA, MLCC)으로 퍼져나가는 '병목의 낙수 효과'가 진행 중입니다. 메모리와 디램, 파운드리 공정을 모두 갖춘 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>의 '풀스택 내재화' 우위는 <span class=\"text-cyan-300 font-semibold\">HBM</span>4 이후 독점적인 마진 확보 수단이 될 것이며, 밸류에이션 저평가는 장기적인 투자 기회를 제공합니다.",
+    "action_point": "이중 병목 수혜주로서 완판 상태인 FC-BGA와 고가동률의 MLCC 매출이 폭발하는 삼성전기를 최선호주로 비중을 확대하고, <span class=\"text-cyan-300 font-semibold\">HBM</span>4 세대 도래에 대비해 글로벌 메모리 업종 내 최저 수준인 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>를 중장기적으로 매집하십시오. 건설 분야에서는 원전 모멘텀 성과가 가시화되는 현대건설에 주목하십시오."
   },
   "classification": {
     "primary_topic": "stock",

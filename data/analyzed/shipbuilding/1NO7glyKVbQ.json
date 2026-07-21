@@ -8,23 +8,23 @@
     "thumbnail": "https://img.youtube.com/vi/1NO7glyKVbQ/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "트럼프 전 대통령이 '재집권 즉시 이란 핵 합의(JCPOA) 전면 백지화 및 원유 수입 전면 차단 공습 개시'를 강력 시사하며 중동 전쟁 공포를 에스컬레이션한 뉴스와, 이에 따른 안전 자산 이탈(비트코인 급락) 및 유가/선박 운송 비용 폭등 사태를 진단합니다.",
+    "summary": "트럼프 전 대통령이 '재집권 즉시 <span class=\"text-violet-300 font-medium\">이란</span> 핵 합의(JCPOA) 전면 백지화 및 원유 수입 전면 차단 공습 개시'를 강력 시사하며 <span class=\"text-violet-300 font-medium\">중동</span> 전쟁 공포를 에스컬레이션한 뉴스와, 이에 따른 안전 자산 이탈(비트코인 <span class=\"text-rose-400 font-medium\">급락</span>) 및 <span class=\"text-amber-300 font-bold\">유가</span>/선박 운송 비용 폭등 사태를 진단합니다.",
     "key_claims": [
-      "트럼프의 대이란 극단 강경 기조 표명은 호르무즈 해협의 실질 안보 리스크를 자극해 유가 90달러선을 돌파시킴.",
-      "안전 자산 선호가 미국 국채로만 쏠려 크립토 위험 자산의 단기 유동성이 급속 이탈함."
+      "트럼프의 대<span class=\"text-violet-300 font-medium\">이란</span> 극단 강경 기조 표명은 <span class=\"text-violet-300 font-medium\">호르무즈 해협</span>의 실질 안보 <span class=\"text-rose-400 font-medium\">리스크</span>를 자극해 <span class=\"text-amber-300 font-bold\">유가</span> 90달러선을 돌파시킴.",
+      "안전 자산 선호가 미국 국채로만 쏠려 크립토 <span class=\"text-rose-400 font-medium\">위험</span> 자산의 단기 유동성이 급속 이탈함."
     ],
     "data_points": [
       "비트코인 일일 낙폭률: 단기 -4.8% 급락하며 6만 4천 달러선 이탈",
       "WTI 및 브렌트 원유 인도분 급등률: 일평균 +4.2% 폭등"
     ],
     "signal": "bearish",
-    "signal_reason": "지정학 전쟁 리스크 폭발은 공급 인프라 훼손 및 비용 인상을 동반하여, 장기 금리 하락을 지연시키고 크립토 및 성장주 멀티플을 억누르기 때문입니다.",
+    "signal_reason": "지정학 전쟁 <span class=\"text-rose-400 font-medium\">리스크</span> 폭발은 공급 인프라 훼손 및 비용 인상을 동반하여, 장기 금리 하락을 지연시키고 크립토 및 성장주 멀티플을 억누르기 때문입니다.",
     "key_companies": [
       "HMM",
       "HD현대중공업"
     ],
-    "insight": "중동 전쟁 리스크 재점화는 **해운 톤마일 상승에 따른 컨테이너/유조선 운임 폭등과 해군 특수방산선 건조 자주화 오더**로 귀결되는 조선/해운 업계의 구조적 반사이익 지표입니다.",
-    "action_point": "크립토 자산 노출 한도를 축소 조율하고, 지정학 중동 물류 통행 제한의 강력한 헷지 수혜를 입는 국적 해운사 및 조선 특수선 대장주의 지분을 지켜나갑니다."
+    "insight": "<span class=\"text-violet-300 font-medium\">중동</span> 전쟁 <span class=\"text-rose-400 font-medium\">리스크</span> 재점화는 **해운 톤마일 상승에 따른 컨테이너/유조선 운임 폭등과 해군 특수방산선 건조 자주화 오더**로 귀결되는 조선/해운 업계의 구조적 반사이익 지표입니다.",
+    "action_point": "크립토 자산 노출 한도를 축소 조율하고, 지정학 <span class=\"text-violet-300 font-medium\">중동</span> 물류 통행 제한의 강력한 헷지 수혜를 입는 국적 해운사 및 조선 특수선 대장주의 지분을 지켜나갑니다."
   },
   "classification": {
     "primary_topic": "economy",

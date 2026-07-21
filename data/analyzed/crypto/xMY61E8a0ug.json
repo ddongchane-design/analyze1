@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/xMY61E8a0ug/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "비트코인 가격이 채굴 단가보다 20% 낮은 수준에 머물며 일부 채굴업체들의 <span class=\"text-rose-400 font-medium\">매도 압력</span> 우려가 부각되고 있으나, 현물 ETF 유출세는 점차 둔화되는 양상입니다.\n새로운 연준 의장 가이드 하에 FOMC는 성명서를 축소하고 포워드 가이던스를 폐지하는 등 물가 안정을 위한 실질적인 <span class=\"text-rose-400 font-medium\">매파적 포지션</span>을 공고히 하고 있습니다.\n미-란 임시 휴전(MOA) 타결 소식에도 불구하고 이스라엘의 독자 행보와 호르무즈 해협 재봉쇄 위협 등 <span class=\"text-violet-300 font-medium\">지정학적 불안정성</span>이 지속되며 유가와 코인 가격의 변동성을 키우고 있습니다.",
+    "summary": "비트코인 가격이 채굴 단가보다 20% 낮은 수준에 머물며 일부 채굴업체들의 매도 압력 우려가 부각되고 있으나, 현물 ETF <span class=\"text-rose-400 font-medium\">유출</span>세는 점차 둔화되는 양상입니다.\n새로운 연준 의장 가이드 하에 FOMC는 성명서를 축소하고 포워드 가이던스를 폐지하는 등 물가 안정을 위한 실질적인 매파적 포지션을 공고히 하고 있습니다.\n미-란 임시 휴전(MOA) 타결 소식에도 불구하고 이스라엘의 독자 행보와 <span class=\"text-violet-300 font-medium\">호르무즈 해협</span> 재봉쇄 위협 등 지정학적 불안정성이 지속되며 <span class=\"text-amber-300 font-bold\">유가</span>와 코인 가격의 변동성을 키우고 있습니다.",
     "key_claims": [
-      "현재 비트코인 가격은 채굴 원가 대비 약 20% 낮아 채굴자들의 운영비 마련 목적 매도세가 리스크 요인이다.",
-      "연준(의장 케빈 워시)은 고용보다 물가를 최우선으로 삼아 성명서를 전면 개편하고 <span class=\"text-rose-400 font-medium\">긴축 정책</span>을 지속할 방침이다.",
-      "중동 지정학적 위기와 유가 변동성이 현재 비트코인 가격 향방을 결정짓는 핵심 매크로 지표이다."
+      "현재 비트코인 가격은 채굴 원가 대비 약 20% 낮아 채굴자들의 운영비 마련 목적 매도세가 <span class=\"text-rose-400 font-medium\">리스크</span> 요인이다.",
+      "연준(의장 케빈 워시)은 고용보다 물가를 최우선으로 삼아 성명서를 전면 개편하고 긴축 정책을 지속할 방침이다.",
+      "<span class=\"text-violet-300 font-medium\">중동</span> 지정학적 위기와 <span class=\"text-amber-300 font-bold\">유가</span> 변동성이 현재 비트코인 가격 향방을 결정짓는 핵심 매크로 지표이다."
     ],
     "data_points": [
       "현재 비트코인 시장 가격이 지금 채굴 원가보다 약 20% 낮은 구간에 있습니다",
@@ -28,7 +28,7 @@
     ],
     "signal": "bearish",
     "signal_confidence": "medium",
-    "signal_reason": "채굴 마진 훼손으로 인한 잠재적 매도세, 연준의 <span class=\"text-rose-400 font-medium\">매파적 긴축 기조</span> 유지, 그리고 중동 휴전 불안정에 따른 유가 반등 위험이 가상자산에 하방 압력을 가하고 있습니다.",
+    "signal_reason": "채굴 마진 훼손으로 인한 잠재적 매도세, 연준의 매파적 긴축 기조 유지, 그리고 <span class=\"text-violet-300 font-medium\">중동</span> 휴전 불안정에 따른 <span class=\"text-amber-300 font-bold\">유가</span> 반등 <span class=\"text-rose-400 font-medium\">위험</span>이 가상자산에 하방 압력을 가하고 있습니다.",
     "key_companies": [
       "MicroStrategy(MSTR)",
       "Securitize",
@@ -37,8 +37,8 @@
       "Centrifuge(CFG)",
       "Micron Technology(MU)"
     ],
-    "insight": "비트코인은 더 이상 독자적인 대체 자산이 아니라 글로벌 매크로 유동성, 지정학적 유가 흐름, 그리고 발행사(<span class=\"text-cyan-300 font-semibold\">MicroStrategy</span>)의 자본 조달 구조와 동조화된 리스크 자산으로 변모했습니다.",
-    "action_point": "비트코인 6만 달러 지지선 붕괴에 대비해 보수적인 현금 비중을 유지하고, 변동성이 축소될 때까지 추가 매수를 유보하십시오. 또한, 유가 추이와 연동된 현물 ETF 자금 유출입 추세를 밀착 추적하며 단기 숏 포지션 헷징 전략을 고려하십시오."
+    "insight": "비트코인은 더 이상 독자적인 대체 자산이 아니라 글로벌 매크로 유동성, 지정학적 <span class=\"text-amber-300 font-bold\">유가</span> 흐름, 그리고 발행사(MicroStrategy)의 자본 조달 구조와 동조화된 <span class=\"text-rose-400 font-medium\">리스크</span> 자산으로 변모했습니다.",
+    "action_point": "비트코인 6만 달러 지지선 붕괴에 대비해 보수적인 현금 비중을 유지하고, 변동성이 축소될 때까지 추가 매수를 유보하십시오. 또한, <span class=\"text-amber-300 font-bold\">유가</span> 추이와 연동된 현물 ETF 자금 <span class=\"text-rose-400 font-medium\">유출</span>입 추세를 밀착 추적하며 단기 숏 포지션 헷징 전략을 고려하십시오."
   },
   "classification": {
     "primary_topic": "crypto",

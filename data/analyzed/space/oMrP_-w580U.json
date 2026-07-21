@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/oMrP_-w580U/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "스페이스X가 시가총액 2조 달러를 돌파하며 상장했으며, 우주와 AI(xAI 그록, 콜로서스 등)를 결합한 거대한 생태계를 구축하고 있습니다. 한편 <span class=\"text-cyan-300 font-semibold\">AST 스페이스모바일(ASTS)</span>은 스마트폰을 위성에 직접 연결하는(Direct-to-Cell) 고유한 틈새 시장을 공략하며 AT&T, 버라이즌 등 통신사 연합의 강력한 지지를 받고 있습니다. 다만 ASTS는 위성 발사 비용 조달에 따른 <span class=\"text-rose-400 font-medium\">지분 희석 리스크</span>가 상존합니다.",
+    "summary": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>가 시가총액 2조 달러를 돌파하며 상장했으며, 우주와 AI(xAI 그록, 콜로서스 등)를 결합한 거대한 생태계를 구축하고 있습니다. 한편 AST 스페이스모바일(ASTS)은 스마트폰을 위성에 직접 연결하는(Direct-to-Cell) 고유한 틈새 시장을 공략하며 AT&T, 버라이즌 등 통신사 연합의 강력한 지지를 받고 있습니다. 다만 ASTS는 위성 발사 비용 조달에 따른 지분 희석 <span class=\"text-rose-400 font-medium\">리스크</span>가 상존합니다.",
     "key_claims": [
-      "스페이스X는 단순 로켓 회사를 넘어 AI(xAI) 및 소셜망(X)을 융합한 2조 달러 규모의 종합 기술 복합 기업으로 도약했다.",
-      "AST 스페이스모바일은 일반 스마트폰을 우주 위성에 직접 연결하는 틈새 영역에서 스타링크보다 기술적으로 약 2년 앞선 우위를 보인다.",
-      "ASTS는 통신사 공동 플랫폼 구축 등 우호적 환경을 만났으나, 본격적인 이익 창출 전까지 위성 발사를 위한 추가 자금 수급(희석 위험)을 경계해야 한다."
+      "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>는 단순 로켓 회사를 넘어 AI(xAI) 및 소셜망(X)을 융합한 2조 달러 규모의 종합 기술 복합 기업으로 도약했다.",
+      "AST 스페이스모바일은 일반 스마트폰을 우주 위성에 직접 연결하는 틈새 영역에서 <span class=\"text-cyan-300 font-semibold\">스타링크</span>보다 기술적으로 약 2년 앞선 우위를 보인다.",
+      "ASTS는 통신사 공동 플랫폼 구축 등 우호적 환경을 만났으나, 본격적인 이익 창출 전까지 위성 발사를 위한 추가 자금 수급(희석 <span class=\"text-rose-400 font-medium\">위험</span>)을 경계해야 한다."
     ],
     "data_points": [
       "스페이스X 나스닥 상장 조달액: 약 857억 달러",
@@ -21,15 +21,15 @@
     ],
     "signal": "neutral",
     "signal_confidence": "high",
-    "signal_reason": "스페이스X와 ASTS 모두 우주 연결 테마의 핵심 성장주이나, 극단적인 고평가(매출 대비 90배 멀티플)와 본격적 이익 부재에 따른 추가 희석 리스크가 상존하여 방어적 균형 감각이 필요한 구간이기 때문입니다.",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>와 ASTS 모두 우주 연결 테마의 핵심 성장주이나, 극단적인 고평가(매출 대비 90배 멀티플)와 본격적 이익 부재에 따른 추가 희석 <span class=\"text-rose-400 font-medium\">리스크</span>가 상존하여 방어적 균형 감각이 필요한 구간이기 때문입니다.",
     "key_companies": [
       "스페이스X",
       "AST스페이스모바일(ASTS)",
       "AT&T",
       "버라이즌"
     ],
-    "insight": "우주 산업이 점차 고도화되면서 수직 계열화된 거인(스페이스X)과 전문적인 틈새 레이어(AST 스페이스모바일)로 시장이 분화되고 있습니다. 특히 ASTS는 통신사 가입자를 그대로 흡수하는 구조로 마케팅 비용이 들지 않는 강력한 비즈니스 모델을 가졌으나, 천문학적인 위성 발사 비용 조달에 따른 주주 가치 희석 리스크가 상존하므로, 거품 낀 멀티플을 추격하기보다 냉정한 자금 조달 스케줄과 스타링크의 기술 추격을 검증해야 합니다.",
-    "action_point": "스페이스X와 ASTS는 전혀 다른 리스크 프로필을 지닌 자산입니다. AI 시너지를 믿는다면 <span class=\"text-cyan-300 font-semibold\">스페이스X(합병 형태)</span>를, 위성 통신 직접 연결 틈새의 독점을 노린다면 <span class=\"text-cyan-300 font-semibold\">ASTS</span>에 배팅하되, ASTS의 경우 위성 발사 일정에 맞춘 <span class=\"text-rose-400 font-medium\">지분 희석 리스크</span>를 고려해 포트폴리오 비중을 조절해야 합니다."
+    "insight": "우주 산업이 점차 고도화되면서 수직 계열화된 거인(<span class=\"text-cyan-300 font-semibold\">스페이스X</span>)과 전문적인 틈새 레이어(AST 스페이스모바일)로 시장이 분화되고 있습니다. 특히 ASTS는 통신사 가입자를 그대로 흡수하는 구조로 마케팅 비용이 들지 않는 강력한 비즈니스 모델을 가졌으나, 천문학적인 위성 발사 비용 조달에 따른 주주 가치 희석 <span class=\"text-rose-400 font-medium\">리스크</span>가 상존하므로, 거품 낀 멀티플을 추격하기보다 냉정한 자금 조달 스케줄과 <span class=\"text-cyan-300 font-semibold\">스타링크</span>의 기술 추격을 검증해야 합니다.",
+    "action_point": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>와 ASTS는 전혀 다른 <span class=\"text-rose-400 font-medium\">리스크</span> 프로필을 지닌 자산입니다. AI 시너지를 믿는다면 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>(합병 형태)를, 위성 통신 직접 연결 틈새의 독점을 노린다면 ASTS에 배팅하되, ASTS의 경우 위성 발사 일정에 맞춘 지분 희석 <span class=\"text-rose-400 font-medium\">리스크</span>를 고려해 포트폴리오 비중을 조절해야 합니다."
   },
   "classification": {
     "primary_topic": "space",

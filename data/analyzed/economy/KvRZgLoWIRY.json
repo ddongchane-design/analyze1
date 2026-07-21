@@ -1,0 +1,38 @@
+{
+  "video": {
+    "id": "KvRZgLoWIRY",
+    "title": "더 이상 막을 수 없다... 이란이 핵 카드를 꺼내 든 이유 #교양이를부탁해",
+    "published": "2026-07-20T12:00:30+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=KvRZgLoWIRY",
+    "thumbnail": "https://img.youtube.com/vi/KvRZgLoWIRY/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "지속되는 서방의 경제 제재와 <span class=\"text-violet-300 font-medium\">중동</span> 내 공습 격화 속에서 <span class=\"text-violet-300 font-medium\">이란</span>이 자국 주권 수호를 위한 최종 억제 수단으로 핵 개발 및 무기화(핵 카드) 조치를 가시화하고 있습니다. 이는 단순한 외교적 협상 카드를 넘어 실제 핵보유국 지위를 획득하려는 실질적 단계로 분석되며, <span class=\"text-violet-300 font-medium\">중동</span>의 세력 균형을 근본적으로 뒤흔들고 글로벌 지정학적 안보 <span class=\"text-rose-400 font-medium\">리스크</span>를 극도화하고 있습니다.",
+    "key_claims": [
+      "<span class=\"text-violet-300 font-medium\">이란</span>은 외부 무력 위협 및 고사 직전의 제재 국면을 타개하기 위해 우라늄 농축 및 무기화 단계 진입을 시사하며 최종 군사적 억제력을 확보하려 한다.",
+      "미국의 외교적 타협안이나 자금 지원책이 무색하게, <span class=\"text-violet-300 font-medium\">이란</span> 지도부는 핵보유를 국가 생존권의 주권 문제로 판단하고 협상 테이블 복귀를 거부하고 있다."
+    ],
+    "data_points": [
+      "지정학적 위험 요소: 핵 위기 가속화에 따른 이스라엘·미국과의 군사적 직접 충돌 위험 증가"
+    ],
+    "signal": "negative",
+    "signal_reason": "<span class=\"text-violet-300 font-medium\">중동</span> 내 대량살상무기(핵) 위기가 가시화되면서 안전자산 선호 심리가 강화되고 국제 <span class=\"text-amber-300 font-bold\">유가</span> 불안 및 지정학적 <span class=\"text-rose-400 font-medium\">리스크</span>가 실물 경제에 만성적인 하방 압력을 가하기 때문입니다.",
+    "key_companies": [],
+    "insight": "<span class=\"text-violet-300 font-medium\">이란</span>의 핵 보유 추진은 미국의 재정적 유인책만으로는 해결할 수 없는 주권 안보 본능에서 비롯된 것입니다. 이는 걸프 지역의 군비 경쟁을 유발하고 해상 운송로 및 글로벌 원자재 안보 체계를 상시 마비시킬 수 있는 핵 위기 국면으로 전개되고 있습니다.",
+    "action_point": "지정학적 핵 <span class=\"text-rose-400 font-medium\">리스크</span> 장기화에 따른 금, 달러 등 전통적 안전자산의 헷지 비중을 강화하고, <span class=\"text-violet-300 font-medium\">호르무즈 해협</span> 물류 차단 가능성에 민감한 원자재 및 에너지 공급망의 안정성을 면밀히 모니터링해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "etc"
+    ],
+    "tags": [
+      "이란핵무기화",
+      "중동핵보유",
+      "안전자산선호",
+      "지정학안보위기",
+      "영토주권갈등"
+    ]
+  }
+}

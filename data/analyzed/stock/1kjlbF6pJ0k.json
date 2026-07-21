@@ -8,24 +8,24 @@
     "thumbnail": "https://img.youtube.com/vi/1kjlbF6pJ0k/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "코스닥 및 기타 섹터가 급락하는 가운데 SK하이닉스는 HBM 시장의 독과점적 지위 덕에 약 65%의 높은 <span class=\"text-cyan-300 font-semibold\">자기자본이익률(ROE)</span>을 기록하며 매기세를 독식하고 있음. 주가가 높은 단기 변동성에 노출될 때는 ELS나 ETF 등 대체 투자 수단을 활용해 변동성을 제어하는 분할 매수 접근 전략이 유효함.",
+    "summary": "코스닥 및 기타 섹터가 <span class=\"text-rose-400 font-medium\">급락</span>하는 가운데 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>는 <span class=\"text-cyan-300 font-semibold\">HBM</span> 시장의 독과점적 지위 덕에 약 65%의 높은 자기자본이익률(ROE)을 기록하며 매기세를 독식하고 있음. 주가가 높은 단기 변동성에 노출될 때는 ELS나 ETF 등 대체 투자 수단을 활용해 변동성을 제어하는 분할 매수 접근 전략이 유효함.",
     "key_claims": [
-      "HBM 고마진에 기인해 SK하이닉스 ROE가 65%에 육박하는 등 압도적인 펀더멘탈 체력을 증명함.",
-      "시장의 일시적 차익 실현 및 매물 출회 국면에서도 핵심 주도주인 HBM 반도체 생태계의 중장기 성장 신뢰도는 견고함.",
+      "<span class=\"text-cyan-300 font-semibold\">HBM</span> 고마진에 기인해 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> ROE가 65%에 육박하는 등 압도적인 펀더멘탈 체력을 증명함.",
+      "시장의 일시적 차익 실현 및 매물 출회 국면에서도 핵심 주도주인 <span class=\"text-cyan-300 font-semibold\">HBM</span> <span class=\"text-cyan-300 font-semibold\">반도체</span> 생태계의 중장기 성장 신뢰도는 견고함.",
       "레거시 DRAM 공급 억제로 메모리 3사(하이닉스, 삼성, 마이크론)의 단가 결정권이 확보되어 슈퍼사이클이 지탱됨."
     ],
     "data_points": [
       "SK하이닉스 예상 ROE 레벨: 약 65% 내외 기록 예정 (삼성전자 약 42% 수준 대비 우위)"
     ],
     "signal": "bullish",
-    "signal_reason": "HBM의 압도적 마진과 레거시 DRAM 공급 쇼티지가 만들어낸 메모리 업체들의 이익 가시성이 단기 수급 교란 요인을 압도하기 때문임.",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">HBM</span>의 압도적 마진과 레거시 DRAM 공급 쇼티지가 만들어낸 메모리 업체들의 이익 가시성이 단기 수급 교란 요인을 압도하기 때문임.",
     "key_companies": [
       "SK하이닉스(000660)",
       "삼성전자(005930)",
       "마이크론(MU)",
       "엔비디아(NVDA)"
     ],
-    "insight": "주가가 급등하여 한 주당 가격 부담이 커진 대장주의 수급 조정을 활용한 ELS(지수/종목 결합) 등의 우회 투자 및 분할 매수가 변동성 극복의 팁임.",
+    "insight": "주가가 급등하여 한 주당 가격 부담이 커진 대장주의 수급 <span class=\"text-rose-400 font-medium\">조정</span>을 활용한 ELS(지수/종목 결합) 등의 우회 투자 및 분할 매수가 변동성 극복의 팁임.",
     "action_point": "대장주의 단기 주가 출렁임에 동요해 손절하기보다, 3~4회에 걸친 분할 매수 혹은 ELS 편입을 통해 연 40%대의 목표 변동성 제어 수익률을 확보할 것."
   },
   "classification": {

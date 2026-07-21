@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/Ar_rcUjasD8/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "미국 대기업들이 세금 부담과 환경·노동 규제가 심한 뉴저지·캘리포니아를 떠나 주 법인세가 없고 규제가 적은 <span class=\"text-amber-300 font-bold\">텍사스 주로 이전</span>하는 현상이 가속화되고 있음.\n뉴저지에 40년간 머물며 본사를 개소한 지 8개월 만에 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>도 텍사스행을 결정하는 등 한국 대기업 북미 법인의 이주 러시도 관측됨.\n최태원 SK그룹 회장의 일본 AI 데이터 센터 투자 계획 등 기업들은 애국심 마케팅이나 구호보다 실질적인 <span class=\"text-amber-300 font-bold\">인센티브와 세제 혜택</span> 조건에 따라 움직이고 있음.",
+    "summary": "미국 대기업들이 세금 부담과 환경·노동 규제가 심한 뉴저지·캘리포니아를 떠나 주 법인세가 없고 규제가 적은 텍사스 주로 이전하는 현상이 가속화되고 있음.\n뉴저지에 40년간 머물며 본사를 개소한 지 8개월 만에 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>도 텍사스행을 결정하는 등 한국 대기업 북미 법인의 이주 러시도 관측됨.\n최태원 SK그룹 회장의 일본 AI 데이터 센터 투자 계획 등 기업들은 애국심 마케팅이나 구호보다 실질적인 인센티브와 세제 혜택 조건에 따라 움직이고 있음.",
     "key_claims": [
-      "글로벌 시대에 기업을 머물게 하는 것은 구호가 아닌 세금과 규제 완화 등의 실질적인 <span class=\"text-amber-300 font-bold\">비즈니스 조건</span>이다.",
-      "뉴저지는 최고 세율 인상 등 기업 친화적이지 못한 정책으로 인해 포춘 500 기업의 상당수를 잃는 <span class=\"text-rose-400 font-medium\">구조적 쇠퇴</span>를 겪고 있다.",
-      "국내 대기업들(삼성, SK 등)도 해외로 거점을 옮기거나 투자를 단행하는 것은 <span class=\"text-rose-400 font-medium\">국내 투자 환경의 불리함</span>에 대응하기 위한 불가피한 선택이다."
+      "글로벌 시대에 기업을 머물게 하는 것은 구호가 아닌 세금과 규제 완화 등의 실질적인 비즈니스 조건이다.",
+      "뉴저지는 최고 세율 인상 등 기업 친화적이지 못한 정책으로 인해 포춘 500 기업의 상당수를 잃는 구조적 쇠퇴를 겪고 있다.",
+      "국내 대기업들(삼성, SK 등)도 해외로 거점을 옮기거나 투자를 단행하는 것은 국내 투자 환경의 불리함에 대응하기 위한 불가피한 선택이다."
     ],
     "data_points": [
       "미국 연방 법인세율: 21%",
@@ -25,7 +25,7 @@
     ],
     "signal": "neutral",
     "signal_confidence": "medium",
-    "signal_reason": "기업들이 <span class=\"text-cyan-300 font-semibold\">세비 및 규제 비용 절감</span>을 위해 텍사스로 이전하는 것은 장기 이익에 긍정적이나, 고세율 지역의 <span class=\"text-rose-400 font-medium\">지역 경제 쇠퇴</span> 및 자국 내 투자 유출 우려가 혼재되어 있음.",
+    "signal_reason": "기업들이 세비 및 규제 비용 절감을 위해 텍사스로 이전하는 것은 장기 이익에 긍정적이나, 고세율 지역의 지역 경제 쇠퇴 및 자국 내 투자 <span class=\"text-rose-400 font-medium\">유출</span> 우려가 혼재되어 있음.",
     "key_companies": [
       "Tesla(TSLA)",
       "Oracle(ORCL)",
@@ -35,8 +35,8 @@
       "Samsung Electronics",
       "SK Group"
     ],
-    "insight": "세제 및 규제 환경의 미세한 변화가 대기업들의 본사 이전과 공장 입지 선정에 직접적인 영향을 미쳐 주 단위 및 국가 단위의 <span class=\"text-amber-300 font-bold\">경제적 재편</span>을 초래함.",
-    "action_point": "미국 내 법인세율이 높은 지역에서 <span class=\"text-cyan-300 font-semibold\">텍사스 등 친기업적 환경</span>으로 거점을 옮겨 비용 구조를 개선하는 기업(테슬라, 오라클 등)에 장기 투자 관점의 비중 확대를 고려할 만함."
+    "insight": "세제 및 규제 환경의 미세한 변화가 대기업들의 본사 이전과 공장 입지 선정에 직접적인 영향을 미쳐 주 단위 및 국가 단위의 경제적 재편을 초래함.",
+    "action_point": "미국 내 법인세율이 높은 지역에서 텍사스 등 친기업적 환경으로 거점을 옮겨 비용 구조를 개선하는 기업(<span class=\"text-cyan-300 font-semibold\">테슬라</span>, 오라클 등)에 장기 투자 관점의 비중 확대를 고려할 만함."
   },
   "classification": {
     "primary_topic": "economy",

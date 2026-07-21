@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/gSosZjiuh2Q/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "트럼프의 미·이란 평화협상 극적 타결로 비트코인이 65,000달러를 돌파하고 유가가 WTI 기준 80달러선으로 하락해 시장 안도감이 확산됨.\n스페이스X 상장 첫날 공모가 대비 19.2% 급등(종가 160.95달러, 시총 2.1조 달러)하며 시총 10위권(미국 내 6위)에 깜짝 안착함.\n유동성 블랙홀이던 스페이스X 상장이 종료됨에 따라 수급이 다시 본진인 반도체 대장주 및 전공정 장비주로 복귀하기 시작함.",
+    "summary": "트럼프의 미·<span class=\"text-violet-300 font-medium\">이란</span> 평화협상 극적 타결로 비트코인이 65,000달러를 돌파하고 <span class=\"text-amber-300 font-bold\">유가</span>가 WTI 기준 80달러선으로 하락해 시장 안도감이 확산됨.\n<span class=\"text-cyan-300 font-semibold\">스페이스X</span> 상장 첫날 공모가 대비 19.2% 급등(종가 160.95달러, 시총 2.1조 달러)하며 시총 10위권(미국 내 6위)에 깜짝 안착함.\n유동성 블랙홀이던 <span class=\"text-cyan-300 font-semibold\">스페이스X</span> 상장이 종료됨에 따라 수급이 다시 본진인 <span class=\"text-cyan-300 font-semibold\">반도체</span> 대장주 및 전공정 장비주로 복귀하기 시작함.",
     "key_claims": [
-      "스페이스X의 5억 주 폭발적 거래 및 캐시 우드의 아크인베스트 대량 매수로 우주 및 테크 전반의 자금 쏠림이 일단락됨.",
-      "미·이란 합의안의 공식 조인식은 19일 스위스에서 진행되며, 60일 임시 휴전을 조건으로 이란 내 <span class=\"text-cyan-300 font-semibold\">우라늄 희석 및 호르무즈 개방</span>이 추진될 예정임.",
-      "스페이스X 수급 블랙홀 해소 이후, 미국 필라델피아 반도체 및 국내 코스닥 전공정 장비 기업으로의 <span class=\"text-cyan-300 font-semibold\">자금 낙수</span> 흐름이 뚜렷해짐."
+      "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 5억 주 폭발적 거래 및 캐시 우드의 아크인베스트 대량 매수로 우주 및 테크 전반의 자금 쏠림이 일단락됨.",
+      "미·<span class=\"text-violet-300 font-medium\">이란</span> 합의안의 공식 조인식은 19일 스위스에서 진행되며, 60일 임시 휴전을 조건으로 <span class=\"text-violet-300 font-medium\">이란</span> 내 우라늄 희석 및 <span class=\"text-violet-300 font-medium\">호르무즈</span> 개방이 추진될 예정임.",
+      "<span class=\"text-cyan-300 font-semibold\">스페이스X</span> 수급 블랙홀 해소 이후, 미국 필라델피아 <span class=\"text-cyan-300 font-semibold\">반도체</span> 및 국내 코스닥 전공정 장비 기업으로의 자금 낙수 흐름이 뚜렷해짐."
     ],
     "data_points": [
       "스페이스X 상장 첫날 거래량: 5억 주",
@@ -20,15 +20,15 @@
       "스페이스X 상장 당일 종가 기준 시가총액: 약 2.1조 달러 (TSMC와 대등한 글로벌 시총 10위권)"
     ],
     "signal": "bullish",
-    "signal_reason": "스페이스X IPO 수급 분산 리스크가 종료되고, 이란 종전에 따른 유가 하락으로 인플레 우려가 낮아지며 반도체 중심의 IT 대형주 랠리가 재개될 조건이 갖춰졌기 때문입니다.",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span> IPO 수급 분산 <span class=\"text-rose-400 font-medium\">리스크</span>가 종료되고, <span class=\"text-violet-300 font-medium\">이란</span> 종전에 따른 <span class=\"text-amber-300 font-bold\">유가</span> 하락으로 인플레 우려가 낮아지며 <span class=\"text-cyan-300 font-semibold\">반도체</span> 중심의 IT 대형주 랠리가 재개될 조건이 갖춰졌기 때문입니다.",
     "key_companies": [
       "스페이스X",
       "AMD",
       "Intel",
       "삼성전자"
     ],
-    "insight": "스페이스X의 상장은 단기적으로 자본 시장의 막대한 유동성을 빨아들였으나, 이제 그 광풍이 진정되면서 인텔, AMD 등 미국 IT 대장주와 글로벌 반도체 밸류체인으로 수급이 재확산되는 양상을 보임. 지정학적 리스크 소멸에 따라 물량(Q) 중심의 <span class=\"text-cyan-300 font-semibold\">전공정 반도체 장비 랠리</span>가 지속될 가능성이 매우 농후함.",
-    "action_point": "유가 하락과 수급 정상화의 직접적 수혜를 입는 반도체 대형주 및 장비 선두주자의 포트폴리오 비중을 확대하고, 단기 변동성 완화에 대응하여 리밸런싱된 IT 기술주에 중점을 두어야 함."
+    "insight": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 상장은 단기적으로 자본 시장의 막대한 유동성을 빨아들였으나, 이제 그 광풍이 진정되면서 <span class=\"text-cyan-300 font-semibold\">인텔</span>, AMD 등 미국 IT 대장주와 글로벌 <span class=\"text-cyan-300 font-semibold\">반도체</span> 밸류체인으로 수급이 재확산되는 양상을 보임. 지정학적 <span class=\"text-rose-400 font-medium\">리스크</span> 소멸에 따라 물량(Q) 중심의 전공정 <span class=\"text-cyan-300 font-semibold\">반도체</span> 장비 랠리가 지속될 가능성이 매우 농후함.",
+    "action_point": "<span class=\"text-amber-300 font-bold\">유가</span> 하락과 수급 정상화의 직접적 수혜를 입는 <span class=\"text-cyan-300 font-semibold\">반도체</span> 대형주 및 장비 선두주자의 포트폴리오 비중을 확대하고, 단기 변동성 완화에 대응하여 리밸런싱된 IT 기술주에 중점을 두어야 함."
   },
   "classification": {
     "primary_topic": "economy",

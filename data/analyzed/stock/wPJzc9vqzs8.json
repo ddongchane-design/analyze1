@@ -8,12 +8,12 @@
     "thumbnail": "https://img.youtube.com/vi/wPJzc9vqzs8/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "최근 국내 반도체 대형주의 극심한 변동성은 <span class=\"text-amber-300 font-bold\">레버리지 ETF 출시</span>에 따른 자금 쏠림과 반기말 리밸런싱이 결합된 수급 요인에 기인합니다. SK하이닉스와 삼성전자의 실적 및 AI 사이클 등 <span class=\"text-cyan-300 font-semibold\">반도체 업황의 펀더멘털</span>은 2027년까지 훼손되지 않고 견조하게 유지되는 중입니다. 변동성 장세에서 섣부른 뇌동매매를 지양하고, 추가 조정 시 분할 매수를 통해 <span class=\"text-rose-400 font-medium\">리스크 관리 및 비중 확대</span> 기회로 활용할 것을 권장합니다.",
+    "summary": "최근 국내 <span class=\"text-cyan-300 font-semibold\">반도체</span> 대형주의 극심한 변동성은 레버리지 ETF 출시에 따른 자금 쏠림과 반기말 리밸런싱이 결합된 수급 요인에 기인합니다. <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>와 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>의 실적 및 AI 사이클 등 <span class=\"text-cyan-300 font-semibold\">반도체</span> 업황의 펀더멘털은 2027년까지 훼손되지 않고 견조하게 유지되는 중입니다. 변동성 장세에서 섣부른 뇌동매매를 지양하고, 추가 <span class=\"text-rose-400 font-medium\">조정</span> 시 분할 매수를 통해 <span class=\"text-rose-400 font-medium\">리스크</span> 관리 및 비중 확대 기회로 활용할 것을 권장합니다.",
     "key_claims": [
-      "반도체 대형주 시세는 아직 끝나지 않았으며 본질적인 펀더멘털 훼손은 없다.",
-      "최근 급락의 핵심 원인은 한국 시장의 무리한 <span class=\"text-amber-300 font-bold\">레버리지 ETF 도입</span>과 특정 대형주로의 자금 쏠림 현상이다.",
+      "<span class=\"text-cyan-300 font-semibold\">반도체</span> 대형주 시세는 아직 끝나지 않았으며 본질적인 펀더멘털 훼손은 없다.",
+      "최근 <span class=\"text-rose-400 font-medium\">급락</span>의 핵심 원인은 한국 시장의 무리한 레버리지 ETF 도입과 특정 대형주로의 자금 쏠림 현상이다.",
       "개인 투자자들의 신용/미수 거래 축소 규제가 증권사 담보대출 제한과 맞물려 매도 압박 및 변동성을 키우고 있다.",
-      "고점 대비 30%가 하락하면 주도주 이탈로 판단해야 하지만, 그 전까지는 수급 쇼크에 따른 조정 매수 구간이다."
+      "고점 대비 30%가 하락하면 주도주 이탈로 판단해야 하지만, 그 전까지는 수급 쇼크에 따른 <span class=\"text-rose-400 font-medium\">조정</span> 매수 구간이다."
     ],
     "data_points": [
       "SK하이닉스 고점 29.8만 원에서 26.8만 원으로 하락 (방송 언급 단위 오류 조정)",
@@ -23,15 +23,15 @@
       "마이크론의 실적 발표를 통해 반도체 업황이 2027년까지 견조함을 확인"
     ],
     "signal": "bullish",
-    "signal_reason": "<span class=\"text-amber-300 font-bold\">AI 인프라 투자 수요</span>와 주요 메모리 업체의 실적 성장이 지속되고 있어, 수급 이슈로 인한 일시적 조정은 비중 확대 기회입니다.",
+    "signal_reason": "AI 인프라 투자 수요와 주요 메모리 업체의 실적 성장이 지속되고 있어, 수급 이슈로 인한 일시적 <span class=\"text-rose-400 font-medium\">조정</span>은 비중 확대 기회입니다.",
     "key_companies": [
       "SK하이닉스(000660)",
       "삼성전자(005930)",
       "SK스퀘어(402340)",
       "마이크론(MU)"
     ],
-    "insight": "국내 시장에 도입된 <span class=\"text-cyan-300 font-semibold\">변동성 레버리지 ETF</span>는 시가총액 요건 충족 기업으로 자금을 과도하게 쏠리게 만들어 대형주를 잡주처럼 움직이게 하는 부작용을 낳고 있으며, 정책 당국의 증거금 인상 등 제도 보완이 필요합니다.",
-    "action_point": "단기 수급 노이즈에 흔들리지 말고 SK하이닉스가 <span class=\"text-rose-400 font-medium\">22.5만~23.0만 원</span> 부근으로 추가 조정 시 분할 매수로 대응하되, 30% 조정선인 21.0만 원 이탈 시에는 리스크 관리를 적용하십시오."
+    "insight": "국내 시장에 도입된 변동성 레버리지 ETF는 시가총액 요건 충족 기업으로 자금을 과도하게 쏠리게 만들어 대형주를 잡주처럼 움직이게 하는 부작용을 낳고 있으며, 정책 당국의 증거금 인상 등 제도 보완이 필요합니다.",
+    "action_point": "단기 수급 노이즈에 흔들리지 말고 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>가 22.5만~23.0만 원 부근으로 추가 <span class=\"text-rose-400 font-medium\">조정</span> 시 분할 매수로 대응하되, 30% <span class=\"text-rose-400 font-medium\">조정</span>선인 21.0만 원 이탈 시에는 <span class=\"text-rose-400 font-medium\">리스크</span> 관리를 적용하십시오."
   },
   "classification": {
     "primary_topic": "stock",

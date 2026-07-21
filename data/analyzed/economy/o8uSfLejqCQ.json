@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/o8uSfLejqCQ/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "1. 미국 야간 선물시장은 인플레이션 지표 대기 속에서 이란과의 군사 대립 및 아파치 헬기 피격 보복 공습으로 기술주 매도가 깊어지며 <span class=\"text-rose-400 font-medium\">동반 하락세</span>를 보였습니다.\n2. WTI 유가는 이란 갈등 영향으로 배럴당 89달러 선으로 상승했고, 변동성지수(VIX)는 20선 턱밑인 19.75까지 급등해 경계 심리를 반영했습니다.\n3. 스페이스X의 사우디 오일머니 유치 등 IPO 청약 초과 수급 상황과 앤스로픽의 새 AI 챗봇 모델 'Fable' 발표 소식 등이 개장 전 이슈로 다뤄졌습니다.",
+    "summary": "1. 미국 야간 선물시장은 <span class=\"text-amber-300 font-bold\">인플레이션</span> 지표 대기 속에서 <span class=\"text-violet-300 font-medium\">이란</span>과의 군사 대립 및 아파치 헬기 피격 보복 공습으로 기술주 매도가 깊어지며 동반 하락세를 보였습니다.\n2. WTI <span class=\"text-amber-300 font-bold\">유가</span>는 <span class=\"text-violet-300 font-medium\">이란</span> 갈등 영향으로 배럴당 89달러 선으로 상승했고, 변동성지수(VIX)는 20선 턱밑인 19.75까지 급등해 경계 심리를 반영했습니다.\n3. <span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 사우디 오일머니 유치 등 IPO 청약 초과 수급 상황과 앤스로픽의 새 AI 챗봇 모델 'Fable' 발표 소식 등이 개장 전 이슈로 다뤄졌습니다.",
     "key_claims": [
-      "트럼프 행정부의 거친 대이란 트루스 소셜 메시지 및 군사 충돌은 원유 공급망 리스크와 함께 <span class=\"text-rose-400 font-medium\">인플레이션 고착화 경계감</span>을 자극하고 있습니다.",
-      "미국 증시는 유가 상승에 따라 기술성장주의 밸류에이션 할인을 선반영하며 단기적인 <span class=\"text-rose-400 font-medium\">수급 지옥 조정</span> 국면에 진입했습니다.",
-      "중동 국부 펀드가 스페이스X 지분 인수에 적극적으로 참여하는 등 우주 인프라 섹터로의 막대한 자금 이탈 현상이 진행 중입니다."
+      "트럼프 행정부의 거친 대<span class=\"text-violet-300 font-medium\">이란</span> 트루스 소셜 메시지 및 군사 충돌은 원유 공급망 <span class=\"text-rose-400 font-medium\">리스크</span>와 함께 <span class=\"text-amber-300 font-bold\">인플레이션</span> 고착화 경계감을 자극하고 있습니다.",
+      "미국 증시는 <span class=\"text-amber-300 font-bold\">유가 상승</span>에 따라 기술성장주의 밸류에이션 할인을 선반영하며 단기적인 수급 지옥 <span class=\"text-rose-400 font-medium\">조정</span> 국면에 진입했습니다.",
+      "<span class=\"text-violet-300 font-medium\">중동</span> 국부 펀드가 <span class=\"text-cyan-300 font-semibold\">스페이스X</span> 지분 인수에 적극적으로 참여하는 등 우주 인프라 섹터로의 막대한 자금 이탈 현상이 진행 중입니다."
     ],
     "data_points": [
       "다우 선물 0.5% 하락, S&P 선물 0.5% 하락, 나스닥 선물 약 1.0% 하락",
@@ -22,15 +22,15 @@
     ],
     "signal": "bearish",
     "signal_confidence": "medium",
-    "signal_reason": "트럼프의 대이란 군사적 강경 대치로 유가가 오르는 가운데, 시장 변동성 지표(VIX)가 급등해 단기 뉴욕 증시 기술주 매도 압력을 지지하고 있습니다.",
+    "signal_reason": "트럼프의 대<span class=\"text-violet-300 font-medium\">이란</span> 군사적 강경 대치로 <span class=\"text-amber-300 font-bold\">유가</span>가 오르는 가운데, 시장 변동성 지표(VIX)가 급등해 단기 뉴욕 증시 기술주 매도 압력을 지지하고 있습니다.",
     "key_companies": [
       "스페이스X",
       "브로드컴(AVGO)",
       "슈퍼마이크로컴퓨터(SMCI)",
       "넷플릭스(NFLX)"
     ],
-    "insight": "최근 나스닥 선물 약세와 WTI 유가 반등은 전쟁 위기가 유발한 <span class=\"text-rose-400 font-medium\">지정학 인플레 리스크</span> 때문입니다. 다만 시장은 실제 대규모 중동 전쟁 가능성은 여전히 낮게 보고 있으므로, 현 단계의 하락은 옵션 만기 및 유상증자 희석 공포가 결합된 과도한 기술적 반응에 가깝습니다.",
-    "action_point": "유가 민감 성장주의 레버리지 매수를 통제하고, 유가 급등 수혜를 보는 <span class=\"text-cyan-300 font-semibold\">전통 에너지 대장주(셰일오일 관련)</span> 및 배당 방어 성향이 높은 종목으로 변동성 구간을 헷지해야 합니다."
+    "insight": "최근 나스닥 선물 약세와 WTI <span class=\"text-amber-300 font-bold\">유가</span> 반등은 전쟁 위기가 유발한 지정학 인플레 <span class=\"text-rose-400 font-medium\">리스크</span> 때문입니다. 다만 시장은 실제 대규모 <span class=\"text-violet-300 font-medium\">중동</span> 전쟁 가능성은 여전히 낮게 보고 있으므로, 현 단계의 하락은 옵션 만기 및 유상증자 희석 공포가 결합된 과도한 기술적 반응에 가깝습니다.",
+    "action_point": "<span class=\"text-amber-300 font-bold\">유가</span> 민감 성장주의 레버리지 매수를 통제하고, <span class=\"text-amber-300 font-bold\">유가</span> 급등 수혜를 보는 전통 에너지 대장주(셰일오일 관련) 및 배당 방어 성향이 높은 종목으로 변동성 구간을 헷지해야 합니다."
   },
   "classification": {
     "primary_topic": "economy",

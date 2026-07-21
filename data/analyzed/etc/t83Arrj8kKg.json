@@ -8,17 +8,17 @@
     "thumbnail": "https://img.youtube.com/vi/t83Arrj8kKg/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "<span class=\"text-cyan-300 font-semibold\">미래에셋</span> 유튜브 채널의 브랜드 홍보용 쇼츠 영상입니다.\n카페에서 취업 합격 후 단골손님과 나누는 가벼운 일상 대화를 다룹니다.\n구체적인 기술적 정보나 투자 분석 내용은 포함되어 있지 않습니다.",
+    "summary": "미래에셋 유튜브 채널의 브랜드 홍보용 쇼츠 영상입니다.\n카페에서 취업 합격 후 단골손님과 나누는 가벼운 일상 대화를 다룹니다.\n구체적인 기술적 정보나 투자 분석 내용은 포함되어 있지 않습니다.",
     "key_claims": [],
     "data_points": [],
     "signal": "na",
     "signal_confidence": "low",
-    "signal_reason": "투자 정보나 매크로/기술 분석이 배제된 단순 <span class=\"text-cyan-300 font-semibold\">브랜드 홍보 쇼츠</span> 영상입니다.",
+    "signal_reason": "투자 정보나 매크로/기술 분석이 배제된 단순 브랜드 홍보 쇼츠 영상입니다.",
     "key_companies": [
       "Smart Money by MiraeAsset"
     ],
-    "insight": "기업의 이미지 제고를 위한 <span class=\"text-cyan-300 font-semibold\">감성 마케팅 콘텐츠</span>로, 투자 판단을 위한 유의미한 시그널은 부재합니다.",
-    "action_point": "투자성 정보가 없는 마케팅 콘텐츠이므로 <span class=\"text-rose-400 font-medium\">투자 의사 결정에서 제외</span>해야 합니다."
+    "insight": "기업의 이미지 제고를 위한 감성 마케팅 콘텐츠로, 투자 판단을 위한 유의미한 시그널은 부재합니다.",
+    "action_point": "투자성 정보가 없는 마케팅 콘텐츠이므로 투자 의사 결정에서 제외해야 합니다."
   },
   "classification": {
     "primary_topic": "etc",

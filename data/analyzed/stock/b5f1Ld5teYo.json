@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/b5f1Ld5teYo/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "1. 극심한 시장 변동성(사이드카/서킷 브레이커 연속 발생)과 단기 급락은 그동안 코스피의 과도한 오버페이스에 따른 자연스러운 <span class=\"text-amber-300 font-bold\">이격도 좁히기(기간 조정)</span> 국면으로 분석됩니다.\n2. 미국 빅테크 기술주 하락의 실질적 원인은 금리 우려뿐 아니라 초대형 스페이스X IPO 청약을 앞두고 기관 투자자들이 현금을 확보하고자 <span class=\"text-cyan-300 font-semibold\">반도체 주식 비중을 강제로 축소</span>하고 있기 때문입니다.\n3. 지수 손절선은 갭 상승 구간이자 60일 이동평균선과 인접한 6,936선이며, 하방 경직성을 지지하는 핵심 지표는 빅테크 기업들의 AI 투자 대비 실질적 <span class=\"text-amber-300 font-bold\">이익 창출 능력(Monetization)</span>입니다.",
+    "summary": "1. 극심한 시장 변동성(사이드카/서킷 브레이커 연속 발생)과 단기 <span class=\"text-rose-400 font-medium\">급락</span>은 그동안 코스피의 과도한 오버페이스에 따른 자연스러운 이격도 좁히기(기간 <span class=\"text-rose-400 font-medium\">조정</span>) 국면으로 분석됩니다.\n2. 미국 빅테크 기술주 하락의 실질적 원인은 금리 우려뿐 아니라 초대형 <span class=\"text-cyan-300 font-semibold\">스페이스X</span> IPO 청약을 앞두고 기관 투자자들이 현금을 확보하고자 <span class=\"text-cyan-300 font-semibold\">반도체</span> 주식 비중을 강제로 축소하고 있기 때문입니다.\n3. 지수 손절선은 갭 상승 구간이자 60일 이동평균선과 인접한 6,936선이며, 하방 경직성을 지지하는 핵심 지표는 빅테크 기업들의 AI 투자 대비 실질적 이익 창출 능력(Monetization)입니다.",
     "key_claims": [
-      "국내 증시의 극단적 변동성은 글로벌 반도체 및 미국 시총 상위주들의 수급 조절에 과하게 예민하게 연쇄 반응하는 <span class=\"text-rose-400 font-medium\">한국 시장의 규모 한계</span> 때문입니다.",
-      "기관 수급 블랙홀로 떠오른 스페이스X의 450조 원 규모 청약 자금 쏠림은 기존 주식시장의 단기 <span class=\"text-rose-400 font-medium\">유동성 일시 흡수 원인</span>으로 작용합니다.",
-      "지수 자체의 밸류에이션(삼성전자, SK하이닉스 등)이 4~5배 수준으로 낮기 때문에 구조적 버블 붕괴 국면이 아닌 <span class=\"text-cyan-300 font-semibold\">매수 관점의 하방 지지</span>가 유효합니다."
+      "국내 증시의 극단적 변동성은 글로벌 <span class=\"text-cyan-300 font-semibold\">반도체</span> 및 미국 시총 상위주들의 수급 조절에 과하게 예민하게 연쇄 반응하는 한국 시장의 규모 한계 때문입니다.",
+      "기관 수급 블랙홀로 떠오른 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 450조 원 규모 청약 자금 쏠림은 기존 주식시장의 단기 유동성 일시 흡수 원인으로 작용합니다.",
+      "지수 자체의 밸류에이션(<span class=\"text-cyan-300 font-semibold\">삼성전자</span>, <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 등)이 4~5배 수준으로 낮기 때문에 구조적 버블 붕괴 국면이 아닌 매수 관점의 하방 지지가 유효합니다."
     ],
     "data_points": [
       "코스피 5월 4일 종가 6,936선 (과거 갭 구간 및 향후 강력한 기술적 데드라인/손절선)",
@@ -21,7 +21,7 @@
     ],
     "signal": "bullish",
     "signal_confidence": "high",
-    "signal_reason": "단기 급락은 밸류에이션 버블이 아닌 일시적인 수급 이벤트(스페이스X IPO 대비 현금화)와 이격도 조절 과정에 불과하므로 펀더멘탈 대비 주가가 현저히 저평가되는 <span class=\"text-cyan-300 font-semibold\">과매수 해소 기회</span>로 작용합니다.",
+    "signal_reason": "단기 <span class=\"text-rose-400 font-medium\">급락</span>은 밸류에이션 버블이 아닌 일시적인 수급 이벤트(<span class=\"text-cyan-300 font-semibold\">스페이스X</span> IPO 대비 현금화)와 이격도 조절 과정에 불과하므로 펀더멘탈 대비 주가가 현저히 저평가되는 과매수 해소 기회로 작용합니다.",
     "key_companies": [
       "삼성전자(005930)",
       "SK하이닉스(000660)",
@@ -29,8 +29,8 @@
       "스페이스X",
       "마이크론(MU)"
     ],
-    "insight": "주식 시장의 밸류에이션은 15배 수준에 달해야 버블 경고가 유의미하나, 현재 삼성전자 및 하이닉스는 실적 대비 한 자릿수 PER에 머물고 있습니다. 미국 빅테크의 AI 투자 수익성 훼손이 증명되지 않는 한, 금리 경계감과 수급 쏠림으로 인한 급락은 장기적 관점에서 <span class=\"text-cyan-300 font-semibold\">매력적인 진입 가격</span>을 제시합니다.",
-    "action_point": "단기 변동성에 일희일비하기보다는 FMC 및 마이크론/삼성전자 실적 발표 등 다가오는 7월 어닝 시즌까지 호흡을 길게 잡고, SK하이닉스 200만 원 이하 및 삼성전자 30만 원 이하 수준에서 <span class=\"text-cyan-300 font-semibold\">대표 대형주 비중 확대</span> 기회로 삼아야 합니다."
+    "insight": "주식 시장의 밸류에이션은 15배 수준에 달해야 버블 경고가 유의미하나, 현재 <span class=\"text-cyan-300 font-semibold\">삼성전자</span> 및 하이닉스는 실적 대비 한 자릿수 PER에 머물고 있습니다. 미국 빅테크의 AI 투자 수익성 훼손이 증명되지 않는 한, 금리 경계감과 수급 쏠림으로 인한 <span class=\"text-rose-400 font-medium\">급락</span>은 장기적 관점에서 매력적인 진입 가격을 제시합니다.",
+    "action_point": "단기 변동성에 일희일비하기보다는 FMC 및 마이크론/<span class=\"text-cyan-300 font-semibold\">삼성전자</span> 실적 발표 등 다가오는 7월 어닝 시즌까지 호흡을 길게 잡고, <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 200만 원 이하 및 <span class=\"text-cyan-300 font-semibold\">삼성전자</span> 30만 원 이하 수준에서 대표 대형주 비중 확대 기회로 삼아야 합니다."
   },
   "classification": {
     "primary_topic": "stock",

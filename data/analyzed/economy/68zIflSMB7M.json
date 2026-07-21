@@ -8,15 +8,15 @@
     "thumbnail": "https://img.youtube.com/vi/68zIflSMB7M/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "시장은 막대한 설비 투자를 단행하는 <span class=\"text-cyan-300 font-semibold\">AI 비즈니스의 실질적 수익화</span>와 가능성(Feasibility) 증명을 요구하기 시작함. 스페이스X, 엔트로픽, 오픈AI 등 초대형 기업들의 상장 대기 및 빅테크(알파벳, 메타 등)의 <span class=\"text-amber-300 font-bold\">유상증자 자금 조달</span> 흐름이 가시화되고 있음. 고금리 환경에서 부채 조달 대신 고평가된 주식을 활용한 유상증자를 선택하면서 주주 가치 희석 우려가 발생함.",
+    "summary": "시장은 막대한 설비 투자를 단행하는 AI 비즈니스의 실질적 수익화와 가능성(Feasibility) 증명을 요구하기 시작함. <span class=\"text-cyan-300 font-semibold\">스페이스X</span>, 엔트로픽, 오픈AI 등 초대형 기업들의 상장 대기 및 빅테크(알파벳, 메타 등)의 유상증자 자금 조달 흐름이 가시화되고 있음. <span class=\"text-amber-300 font-bold\">고금리</span> 환경에서 부채 조달 대신 고평가된 주식을 활용한 유상증자를 선택하면서 주주 가치 희석 우려가 발생함.",
     "key_claims": [
       "AI 기업들이 막대한 자금을 퍼부었으므로 이제는 구체적인 실적과 실현 가능성을 증명해야 하는 시점임.",
-      "고금리 부담으로 인해 기업들이 채권 발행(빚)보다 고평가된 주가를 바탕으로 주식 발행(유상증자)을 통한 자본 조달을 선호함."
+      "<span class=\"text-amber-300 font-bold\">고금리</span> 부담으로 인해 기업들이 채권 발행(빚)보다 고평가된 주가를 바탕으로 주식 발행(유상증자)을 통한 자본 조달을 선호함."
     ],
     "data_points": [],
     "signal": "neutral",
     "signal_confidence": "medium",
-    "signal_reason": "막대한 투자를 집행한 빅테크들의 <span class=\"text-rose-400 font-medium\">수익화 입증 부담</span>이 가중되는 시기이며, 자금 조달을 위한 유상증자 압박이 기존 주주가치를 단기적으로 희석할 수 있기 때문임.",
+    "signal_reason": "막대한 투자를 집행한 빅테크들의 수익화 입증 부담이 가중되는 시기이며, 자금 조달을 위한 유상증자 압박이 기존 주주가치를 단기적으로 희석할 수 있기 때문임.",
     "key_companies": [
       "스페이스X",
       "엔트로픽",
@@ -24,8 +24,8 @@
       "알파벳(GOOGL)",
       "메타(META)"
     ],
-    "insight": "AI 투자 광풍이 인프라 확충 단계에서 수익화 검증 단계로 넘어가고 있음. 고금리 기조가 지속되는 환경에서 빅테크들은 높은 주가를 지지대 삼아 주주 환원보다는 <span class=\"text-amber-300 font-bold\">자본 조달(유상증자)</span>을 택해 현금을 장전하고 있으며, 이는 시장 전체의 유동성 흡수와 단기 멀티플 압박으로 작용할 가능성이 큼.",
-    "action_point": "빅테크 및 AI 기업들의 공격적 증설이 장기 동력임은 분명하나, 당분간은 유상증자 공시나 실적 발표 시 <span class=\"text-cyan-300 font-semibold\">AI 매출 비중</span> 및 수익성 지표를 엄격히 필터링하며 신중하게 접근할 필요가 있음."
+    "insight": "AI 투자 광풍이 인프라 확충 단계에서 수익화 검증 단계로 넘어가고 있음. <span class=\"text-amber-300 font-bold\">고금리</span> 기조가 지속되는 환경에서 빅테크들은 높은 주가를 지지대 삼아 주주 환원보다는 자본 조달(유상증자)을 택해 현금을 장전하고 있으며, 이는 시장 전체의 유동성 흡수와 단기 멀티플 압박으로 작용할 가능성이 큼.",
+    "action_point": "빅테크 및 AI 기업들의 공격적 증설이 장기 동력임은 분명하나, 당분간은 유상증자 공시나 실적 발표 시 AI 매출 비중 및 수익성 지표를 엄격히 필터링하며 신중하게 접근할 필요가 있음."
   },
   "classification": {
     "primary_topic": "economy",

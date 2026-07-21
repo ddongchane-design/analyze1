@@ -8,23 +8,23 @@
     "thumbnail": "https://img.youtube.com/vi/Y4OeEldhC10/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "미-이란 군사 공습 교환 및 호르무즈 해협 통행 제한 불안감(유가 급등)이 가져온 물가 우려와, 칩셋 가격 안정에 기반한 반도체 대형주 반등 재개가 대립하며 혼조세를 기록한 미국 뉴욕 증시 마감 상황을 요약합니다.",
+    "summary": "미-<span class=\"text-violet-300 font-medium\">이란</span> 군사 공습 교환 및 <span class=\"text-violet-300 font-medium\">호르무즈 해협</span> 통행 제한 불안감(<span class=\"text-amber-300 font-bold\">유가</span> 급등)이 가져온 물가 우려와, 칩셋 가격 안정에 기반한 <span class=\"text-cyan-300 font-semibold\">반도체</span> 대형주 반등 재개가 대립하며 혼조세를 기록한 미국 뉴욕 증시 마감 상황을 요약합니다.",
     "key_claims": [
-      "중동 지정학 불안이 지속되며 인플레이션 재발 경계를 유도하여 다우 지수를 무겁게 내리누름.",
-      "나스닥은 반도체 어닝 시즌 서프라이즈 선매수세가 유입되어 금리 경계를 이겨내고 선방함."
+      "<span class=\"text-violet-300 font-medium\">중동</span> 지정학 불안이 지속되며 <span class=\"text-amber-300 font-bold\">인플레이션</span> 재발 경계를 유도하여 다우 지수를 무겁게 내리누름.",
+      "나스닥은 <span class=\"text-cyan-300 font-semibold\">반도체</span> 어닝 시즌 서프라이즈 선매수세가 유입되어 금리 경계를 이겨내고 선방함."
     ],
     "data_points": [
       "다우존스 산업평균 지수 등락률: -0.18% 하락 마감",
       "필라델피아 반도체 지수 등락률: +1.42% 반등 마감"
     ],
     "signal": "neutral",
-    "signal_reason": "전방 기술주 실적 기대감과 거시 원유 비용 인플레이션 압박이 팽팽히 엇갈려 지수 박스권 횡보가 전개될 확률이 높기 때문입니다.",
+    "signal_reason": "전방 기술주 실적 기대감과 거시 원유 비용 <span class=\"text-amber-300 font-bold\">인플레이션</span> 압박이 팽팽히 엇갈려 지수 박스권 횡보가 전개될 확률이 높기 때문입니다.",
     "key_companies": [
       "Nvidia",
       "Chevron"
     ],
     "insight": "실적 장세와 매크로 물가 불안의 정면 충돌 장세입니다. 이럴 때는 지수 추종보다 지정학적 위기를 헷징할 수 있는 오일 및 물류/조선 에너지 섹터를 결합해야 계좌가 안전합니다.",
-    "action_point": "포트폴리오 내의 인플레이션 방어용 원자재/에너지 및 해안 안보 조선사 지분을 적정 헷지 비율(15%)로 지속 믹스합니다."
+    "action_point": "포트폴리오 내의 <span class=\"text-amber-300 font-bold\">인플레이션</span> 방어용 원자재/에너지 및 해안 안보 조선사 지분을 적정 헷지 비율(15%)로 지속 믹스합니다."
   },
   "classification": {
     "primary_topic": "stock",

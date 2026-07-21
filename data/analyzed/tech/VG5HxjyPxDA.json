@@ -8,21 +8,21 @@
     "thumbnail": "https://img.youtube.com/vi/VG5HxjyPxDA/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "AI 반도체 시장은 PC, 스마트폰 등 소비재 중심의 과거 반도체 사이클과 달리 '지능 생산을 위한 인프라 구축'이라는 구조적 신호탄에 가깝습니다. 따라서 전통적인 공급 과잉 방식의 피크아웃 논리는 적용되기 어렵습니다. 그러나 거액의 인프라 투자 비용을 집행한 빅테크와 기업들이 실제 AI 서비스를 통해 수익(Monetization)을 창출할 수 있는지 여부가 향후 반도체 슈퍼사이클의 지속 기간을 결정할 단 하나의 핵심 변수입니다.",
+    "summary": "<span class=\"text-cyan-300 font-semibold\">AI 반도체</span> 시장은 PC, 스마트폰 등 소비재 중심의 과거 <span class=\"text-cyan-300 font-semibold\">반도체</span> 사이클과 달리 '지능 생산을 위한 인프라 구축'이라는 구조적 신호탄에 가깝습니다. 따라서 전통적인 공급 과잉 방식의 피크아웃 논리는 적용되기 어렵습니다. 그러나 거액의 인프라 투자 비용을 집행한 빅테크와 기업들이 실제 AI 서비스를 통해 수익(Monetization)을 창출할 수 있는지 여부가 향후 <span class=\"text-cyan-300 font-semibold\">반도체</span> 슈퍼사이클의 지속 기간을 결정할 단 하나의 핵심 변수입니다.",
     "key_claims": [
-      "현재 반도체 사이클은 인텔리전스를 생산하는 산업 혁명기 인프라 성격이므로 단기 소비재 수요 둔화와 연결하는 것은 오판입니다.",
-      "궁극적인 반도체 강세장의 길이는 기업들이 AI 솔루션을 활용해 얻어내는 최종 가치 창출(수익화) 성공 여부에 수렴합니다."
+      "현재 <span class=\"text-cyan-300 font-semibold\">반도체</span> 사이클은 <span class=\"text-cyan-300 font-semibold\">인텔</span>리전스를 생산하는 산업 혁명기 인프라 성격이므로 단기 소비재 수요 둔화와 연결하는 것은 오판입니다.",
+      "궁극적인 <span class=\"text-cyan-300 font-semibold\">반도체</span> 강세장의 길이는 기업들이 AI 솔루션을 활용해 얻어내는 최종 가치 창출(수익화) 성공 여부에 수렴합니다."
     ],
     "data_points": [],
     "signal": "neutral",
-    "signal_reason": "AI 반도체 수요 자체의 피크아웃 가능성은 낮으나, 시장이 AI 인프라의 생산성 및 자본회수율(ROI) 검증 단계에 접어들며 변동성을 키우고 있기 때문입니다.",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">AI 반도체</span> 수요 자체의 피크아웃 가능성은 낮으나, 시장이 AI 인프라의 생산성 및 자본회<span class=\"text-rose-400 font-medium\">수율</span>(ROI) 검증 단계에 접어들며 변동성을 키우고 있기 때문입니다.",
     "key_companies": [
       "엔비디아(NVDA)",
       "삼성전자(005930)",
       "SK하이닉스(000660)"
     ],
-    "insight": "AI 반도체를 '석유'에 비유한다면, 지금은 유전을 발굴하고 정유 공장과 파이프라인을 까는 초기 단계입니다. 인프라를 깔아주는 하드웨어 기업의 독점력은 굳건하지만, 인프라 위에서 돌아갈 소프트웨어 비즈니스의 수익화 증명이 나타나지 않는다면 설비 투자 속도가 조절될 위험이 상존합니다.",
-    "action_point": "반도체 하드웨어 중심의 맹목적인 장기 낙관론에만 의존하기보다는 빅테크들의 AI 매출 성장률 추이를 실적 시즌마다 철저히 비교 점검하는 전략이 필요합니다."
+    "insight": "<span class=\"text-cyan-300 font-semibold\">AI 반도체</span>를 '석유'에 비유한다면, 지금은 유전을 발굴하고 정유 공장과 파이프라인을 까는 초기 단계입니다. 인프라를 깔아주는 하드웨어 기업의 독점력은 굳건하지만, 인프라 위에서 돌아갈 소프트웨어 비즈니스의 수익화 증명이 나타나지 않는다면 설비 투자 속도가 조절될 <span class=\"text-rose-400 font-medium\">위험</span>이 상존합니다.",
+    "action_point": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 하드웨어 중심의 맹목적인 장기 낙관론에만 의존하기보다는 빅테크들의 AI 매출 성장률 추이를 실적 시즌마다 철저히 비교 점검하는 전략이 필요합니다."
   },
   "classification": {
     "primary_topic": "tech",

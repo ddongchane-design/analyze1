@@ -8,23 +8,23 @@
     "thumbnail": "https://img.youtube.com/vi/y9UUV3vWXOw/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "엔비디아 젠슨 황 CEO가 <span class=\"text-cyan-300 font-semibold\">AI 에이전트</span>를 강력하게 미는 핵심 이유는 에이전트가 백그라운드에서 <span class=\"text-amber-300 font-bold\">토큰을 폭증시키는 소각 구조</span>를 가졌기 때문입니다. 이에 따라 빅테크들은 더 많은 토큰 생산을 위해 <span class=\"text-cyan-300 font-semibold\">AI 팩토리(데이터센터)</span>를 증설하고 있으며, AI는 단순 연구 단계를 넘어 기업의 실질적인 수익 창출 기제로 정착했습니다.",
+    "summary": "엔비디아 젠슨 황 CEO가 AI 에이전트를 강력하게 미는 핵심 이유는 에이전트가 백그라운드에서 토큰을 폭증시키는 소각 구조를 가졌기 때문입니다. 이에 따라 빅테크들은 더 많은 토큰 생산을 위해 AI 팩토리(데이터센터)를 증설하고 있으며, AI는 단순 연구 단계를 넘어 기업의 실질적인 수익 창출 기제로 정착했습니다.",
     "key_claims": [
-      "AI 에이전트는 무수한 태스크 수행을 위해 실시간으로 연산을 실행하며 <span class=\"text-amber-300 font-bold\">기하급수적인 토큰 수요</span>를 창출합니다.",
-      "빅테크 기업들이 AI 팩토리 건설을 서두르는 원동력은 AI가 이제 <span class=\"text-cyan-300 font-semibold\">비즈니스의 핵심 이익 발전기</span>가 되었기 때문입니다.",
-      "미래 국가 경쟁력은 사람 노동력 대신 <span class=\"text-amber-300 font-bold\">AI 에이전트의 규모</span>에 의해 GDP가 결정되는 시대로 전환될 것입니다."
+      "AI 에이전트는 무수한 태스크 수행을 위해 실시간으로 연산을 실행하며 기하급수적인 토큰 수요를 창출합니다.",
+      "빅테크 기업들이 AI 팩토리 건설을 서두르는 원동력은 AI가 이제 비즈니스의 핵심 이익 발전기가 되었기 때문입니다.",
+      "미래 국가 경쟁력은 사람 노동력 대신 AI 에이전트의 규모에 의해 GDP가 결정되는 시대로 전환될 것입니다."
     ],
     "data_points": [
       "젠슨 황의 엔비디아 AI 에이전트 생태계 구축 전략",
       "AI 기업들의 토큰 대량 생산 및 소비를 위한 AI Factory 구축 수요 증가"
     ],
     "signal": "bullish",
-    "signal_reason": "AI 에이전트 도입에 따른 연산 수요(토큰 소비)의 기하급수적 증가가 차세대 <span class=\"text-cyan-300 font-semibold\">AI 하드웨어 랠리</span>를 뒷받침하므로 강력히 긍정적(Bullish)입니다.",
+    "signal_reason": "AI 에이전트 도입에 따른 연산 수요(토큰 소비)의 기하급수적 증가가 차세대 AI 하드웨어 랠리를 뒷받침하므로 강력히 긍정적(Bullish)입니다.",
     "key_companies": [
       "엔비디아(NVDA)"
     ],
-    "insight": "사용자 대화 기반 AI에서 자율적으로 움직이는 에이전트 AI로의 진화는 <span class=\"text-amber-300 font-bold\">인프라 수요의 천장을 없애는 계기</span>가 됩니다. 24시간 작동하며 토큰을 소비하는 디지털 노동자(에이전트)의 확산은 엔비디아 칩 수요를 강력하게 지탱할 것입니다.",
-    "action_point": "토큰 폭증에 직접적인 수혜를 받는 <span class=\"text-cyan-300 font-semibold\">엔비디아 등 AI 반도체/하드웨어 기업</span>과 클라우드 공급업체의 비중을 확대 유지해야 합니다."
+    "insight": "사용자 대화 기반 AI에서 자율적으로 움직이는 에이전트 AI로의 진화는 인프라 수요의 천장을 없애는 계기가 됩니다. 24시간 작동하며 토큰을 소비하는 디지털 노동자(에이전트)의 확산은 엔비디아 칩 수요를 강력하게 지탱할 것입니다.",
+    "action_point": "토큰 폭증에 직접적인 수혜를 받는 엔비디아 등 <span class=\"text-cyan-300 font-semibold\">AI 반도체</span>/하드웨어 기업과 클라우드 공급업체의 비중을 확대 유지해야 합니다."
   },
   "classification": {
     "primary_topic": "tech",

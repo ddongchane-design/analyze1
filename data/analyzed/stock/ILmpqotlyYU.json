@@ -8,7 +8,7 @@
     "thumbnail": "https://img.youtube.com/vi/ILmpqotlyYU/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "메타의 AI 효율성 추구에 따른 반도체 투자 속도 조절 노이즈가 유발한 시장 과잉 반응을 점검하고, 오픈AI와 엔트로픽 등 LLM 기업들의 기하급수적인 매출 성장과 스케일AI의 데이터 플랫폼 가치 상승을 진단함.",
+    "summary": "메타의 AI 효율성 추구에 따른 <span class=\"text-cyan-300 font-semibold\">반도체</span> 투자 속도 조절 노이즈가 유발한 시장 과잉 반응을 점검하고, 오픈AI와 엔트로픽 등 LLM 기업들의 기하급수적인 매출 성장과 스케일AI의 데이터 플랫폼 가치 상승을 진단함.",
     "key_claims": [
       "메타의 자금 지출 조절 소식은 투자 철회가 아니며, 기존 구형 GPU 인프라 대신 H200 및 블랙웰(Blackwell) 신형 칩셋 배치를 최적화하기 위한 자연스러운 전환 공백기임.",
       "앤트로픽(Anthropic)은 올해 기업용 API 매출 급성장으로 창사 이래 최초 흑자 전환이 가시화되고 있어, 소프트웨어 실질 비즈니스 ROI 입증 단계로 연착륙 중임.",
@@ -25,8 +25,8 @@
       "Scale AI",
       "OpenAI"
     ],
-    "insight": "메타가 H100 위주 구매에서 차세대 칩셋으로 구매 구조를 바꾼 공백을 시장이 'CapEx 철수'로 오인했습니다. <span class=\"text-cyan-300 font-semibold\">오픈AI 계열의 API 매출 폭증</span>은 AI 전방 산업의 수요가 완벽히 살아있음을 보증합니다.",
-    "action_point": "단기 노이즈로 낙폭이 컸던 패키징 장비 및 HBM 핵심 부품사들에 대해 저가 포지션 확대로 선제 대응합니다."
+    "insight": "메타가 H100 위주 구매에서 차세대 칩셋으로 구매 구조를 바꾼 공백을 시장이 'CapEx 철수'로 오인했습니다. 오픈AI 계열의 API 매출 폭증은 AI 전방 산업의 수요가 완벽히 살아있음을 보증합니다.",
+    "action_point": "단기 노이즈로 낙폭이 컸던 패키징 장비 및 <span class=\"text-cyan-300 font-semibold\">HBM</span> 핵심 부품사들에 대해 저가 포지션 확대로 선제 대응합니다."
   },
   "classification": {
     "primary_topic": "stock",

@@ -8,7 +8,7 @@
     "thumbnail": "https://img.youtube.com/vi/_yRuf7qoXsc/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "<span class=\"text-cyan-300 font-semibold\">삼성전자</span>가 젠슨 황과 차세대 <span class=\"text-cyan-300 font-semibold\">HBM5</span> 및 첨단 파운드리 파트너십을 직접 논의하기 시작했으며, 미 증시는 마이크론 반등 및 미 상원의 <span class=\"text-amber-300 font-bold\">AI 국민배당 펀드</span>(트럼프 공공 펀드 구상) 논의로 정책 동력이 유지되고 있습니다.",
+    "summary": "<span class=\"text-cyan-300 font-semibold\">삼성전자</span>가 젠슨 황과 차세대 <span class=\"text-cyan-300 font-semibold\">HBM</span>5 및 첨단 파운드리 파트너십을 직접 논의하기 시작했으며, 미 증시는 마이크론 반등 및 미 상원의 AI 국민배당 펀드(트럼프 공공 펀드 구상) 논의로 정책 동력이 유지되고 있습니다.",
     "key_claims": [
       "젠슨 황 엔비디아 CEO는 폭락 장세를 AI 전환기 핵심 우량주의 '바이더딥(저가 매수)' 기회로 규정했다.",
       "마이크로스트래티지(MSTR)가 비트코인 30여 개 매도 노이즈 후, 일주일간 1,550개를 재매입하며 가상자산 가격 지지세를 형성했다.",
@@ -19,7 +19,7 @@
       "마이크로스트래티지 추가 매입 지출액: 1억 100만 달러"
     ],
     "signal": "bullish",
-    "signal_reason": "엔비디아 CEO의 저가 매수 선언 및 삼성전자 HBM5 협력 가시화, 미국 국유 수준의 AI 진흥 정책 펀드 구상은 반도체 산업의 장기 가치를 보증하는 요소입니다.",
+    "signal_reason": "엔비디아 CEO의 저가 매수 선언 및 <span class=\"text-cyan-300 font-semibold\">삼성전자</span> <span class=\"text-cyan-300 font-semibold\">HBM</span>5 협력 가시화, 미국 국유 수준의 AI 진흥 정책 펀드 구상은 <span class=\"text-cyan-300 font-semibold\">반도체</span> 산업의 장기 가치를 보증하는 요소입니다.",
     "key_companies": [
       "삼성전자",
       "NVIDIA",
@@ -27,7 +27,7 @@
       "Micron"
     ],
     "insight": "AI 기업의 초과 수익을 전 국민 배당 펀드로 환원한다는 정책은 역설적으로 미국 백악관 차원에서 AI 산업의 초과 성장성과 시장 독점 해자를 장기적으로 공식 승인하고 띄우겠다는 메시지입니다.",
-    "action_point": "과도한 시장 흔들림을 활용해 삼성전자 HBM5 공급망 수혜주 및 글로벌 D램 가격 반등에 동조하는 핵심 소부장 종목의 저점 비중을 확대해야 합니다."
+    "action_point": "과도한 시장 흔들림을 활용해 <span class=\"text-cyan-300 font-semibold\">삼성전자</span> <span class=\"text-cyan-300 font-semibold\">HBM</span>5 공급망 수혜주 및 글로벌 D램 가격 반등에 동조하는 핵심 소부장 종목의 저점 비중을 확대해야 합니다."
   },
   "classification": {
     "primary_topic": "stock",

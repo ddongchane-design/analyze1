@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/n-hdPbjkT2k/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "국내 증시의 주도주인 <span class=\"text-cyan-300 font-semibold\">SK하이닉스(000660)</span>가 실적 성장과 미국 ADR 상장 모멘텀을 바탕으로 랠리를 지속할 것으로 전망함.\n다만 국민연금의 국내 주식 비중 조절에 따른 <span class=\"text-rose-400 font-medium\">수급적 매도 압력</span>과 한국의 MSCI 선진지수 관찰대상국 편입 불발이 단기 변수로 작용할 수 있음.\n연준의 정책적 모호성 증가와 지정학적 소음 속에서도 AI 반도체 밸류체인의 이익 성장세에 집중하는 <span class=\"text-cyan-300 font-semibold\">'밀사여주사'</span> 전략을 제안함.",
+    "summary": "국내 증시의 주도주인 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>(000660)가 실적 성장과 미국 ADR 상장 모멘텀을 바탕으로 랠리를 지속할 것으로 전망함.\n다만 국민연금의 국내 주식 비중 조절에 따른 수급적 매도 압력과 한국의 MSCI 선진지수 관찰대상국 편입 불발이 단기 변수로 작용할 수 있음.\n연준의 정책적 모호성 증가와 지정학적 소음 속에서도 <span class=\"text-cyan-300 font-semibold\">AI 반도체</span> 밸류체인의 이익 성장세에 집중하는 '밀사여주사' 전략을 제안함.",
     "key_claims": [
-      "<span class=\"text-cyan-300 font-semibold\">SK하이닉스(000660)</span>의 2분기 영업이익 급증과 미국 ADR 상장은 글로벌 밸류에이션 리레이팅의 강력한 기폭제임.",
-      "국민연금의 국내 자산 배분 한도 준수를 위한 <span class=\"text-rose-400 font-medium\">기계적 매도</span>가 주도주의 단기 상승 속도를 제약하는 핵심 변수임.",
-      "케빈 워시 체제 하의 연준은 과거의 투명성 대신 <span class=\"text-amber-300 font-bold\">전략적 모호성</span>을 택할 것이므로, 매크로 변동성 확대에 대비해야 함."
+      "<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>(000660)의 2분기 영업이익 급증과 미국 ADR 상장은 글로벌 밸류에이션 리레이팅의 강력한 기폭제임.",
+      "국민연금의 국내 자산 배분 한도 준수를 위한 기계적 매도가 주도주의 단기 상승 속도를 제약하는 핵심 변수임.",
+      "케빈 워시 체제 하의 연준은 과거의 투명성 대신 전략적 모호성을 택할 것이므로, 매크로 변동성 확대에 대비해야 함."
     ],
     "data_points": [
       "코스피가 9천을 간 진짜 역사적인 한 주",
@@ -32,8 +32,8 @@
       "테슬라(TSLA)",
       "TSMC(TSM)"
     ],
-    "insight": "국내 증시의 주도주 집중 현상은 단순한 쏠림이 아니라 글로벌 공급망 재편 속에서 <span class=\"text-cyan-300 font-semibold\">HBM 연합군</span>의 실질적 이익 성장력 차이에 기인하며, 국민연금의 비중 한도로 인한 수급 왜곡은 장기 투자자에게 저점 매수 기회를 제공함.",
-    "action_point": "국민연금의 비중 조절 매도로 인해 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>가 조정을 받을 때마다 분할 매수하는 <span class=\"text-cyan-300 font-semibold\">'밀사여주사'</span> 전략을 유지하고, 미국 ADR 발행 일정에 맞춰 유입될 액티브 자금 효과를 활용해야 함."
+    "insight": "국내 증시의 주도주 집중 현상은 단순한 쏠림이 아니라 글로벌 공급망 재편 속에서 <span class=\"text-cyan-300 font-semibold\">HBM</span> 연합군의 실질적 이익 성장력 차이에 기인하며, 국민연금의 비중 한도로 인한 수급 왜곡은 장기 투자자에게 저점 매수 기회를 제공함.",
+    "action_point": "국민연금의 비중 조절 매도로 인해 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>가 <span class=\"text-rose-400 font-medium\">조정</span>을 받을 때마다 분할 매수하는 '밀사여주사' 전략을 유지하고, 미국 ADR 발행 일정에 맞춰 유입될 액티브 자금 효과를 활용해야 함."
   },
   "classification": {
     "primary_topic": "stock",

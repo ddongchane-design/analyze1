@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/qqfDPQNboCw/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "SK하이닉스의 미국 나스닥 ADR 상장(티커: SKY) 첫날 13% 가까운 급등은 마이크론 대비 밸류에이션 저평가(코리아 디스카운트) 해소와 글로벌 인프라 자금 유입의 서막을 열었습니다. 5년 내 캐파 2배 증설 발표에도 공급 리드타임 제약으로 <span class=\"text-cyan-300 font-semibold\">메모리 쇼티지 장기화</span>가 유력하며, 온디바이스 AI 및 GPU 성능 향상에 따른 'KV 캐시(Key-Value Cache)' 저장용 메모리 수요가 전방위로 폭증하고 있습니다. 2027년 레거시 디램 피크아웃 우려 속에서도, 커스텀 HBM4 등 독보적인 <span class=\"text-cyan-300 font-semibold\">고마진 맞춤형 HBM 생태계</span>가 락인(Lock-in) 효과를 발휘하며 메모리 업계의 중장기 리레이팅을 이끌 전망입니다.",
+    "summary": "<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>의 미국 나스닥 ADR 상장(티커: SKY) 첫날 13% 가까운 급등은 마이크론 대비 밸류에이션 저평가(코리아 디스카운트) 해소와 글로벌 인프라 자금 유입의 서막을 열었습니다. 5년 내 캐파 2배 증설 발표에도 공급 리드타임 제약으로 메모리 쇼티지 장기화가 유력하며, 온디바이스 AI 및 GPU 성능 향상에 따른 'KV 캐시(Key-Value Cache)' 저장용 메모리 수요가 전방위로 폭증하고 있습니다. 2027년 레거시 디램 피크아웃 우려 속에서도, 커스텀 <span class=\"text-cyan-300 font-semibold\">HBM</span>4 등 독보적인 고마진 맞춤형 <span class=\"text-cyan-300 font-semibold\">HBM</span> 생태계가 락인(Lock-in) 효과를 발휘하며 메모리 업계의 중장기 리레이팅을 이끌 전망입니다.",
     "key_claims": [
-      "하이닉스 나스닥 ADR은 본주 대비 약 15%의 역사적 프리미엄을 적용받아 252만 원선에 안착하며 코리아 디스카운트를 해소하는 <span class=\"text-cyan-300 font-semibold\">영구적 밸류에이션 상승 발판</span>을 마련했습니다.",
-      "대화의 이전 맥락 정보를 임시 저장하는 'KV 캐시' 연산이 고도화됨에 따라 차세대 칩(엔비디아 루빈 등) 내부의 LPDDR5X 및 HBM4 메모리 용량 요구치가 전 세대 대비 최대 3배 급증합니다.",
-      "2027년부터는 단순 가격(P) 상승에 의존하던 범용 메모리 사이클에서 벗어나, 빅테크 커스텀 스펙에 특화된 HBM 위주의 가격(P)과 물량(Q)의 동반 우상향인 <span class=\"text-amber-300 font-bold\">이익의 고도화 구간</span>으로 진입합니다."
+      "하이닉스 나스닥 ADR은 본주 대비 약 15%의 역사적 프리미엄을 적용받아 252만 원선에 안착하며 코리아 디스카운트를 해소하는 영구적 밸류에이션 상승 발판을 마련했습니다.",
+      "대화의 이전 맥락 정보를 임시 저장하는 'KV 캐시' 연산이 고도화됨에 따라 차세대 칩(엔비디아 루빈 등) 내부의 LPDDR5X 및 <span class=\"text-cyan-300 font-semibold\">HBM</span>4 메모리 용량 요구치가 전 세대 대비 최대 3배 급증합니다.",
+      "2027년부터는 단순 가격(P) 상승에 의존하던 범용 메모리 사이클에서 벗어나, 빅테크 커스텀 스펙에 특화된 <span class=\"text-cyan-300 font-semibold\">HBM</span> 위주의 가격(P)과 물량(Q)의 동반 우상향인 이익의 고도화 구간으로 진입합니다."
     ],
     "data_points": [
       "SK하이닉스 미국 ADR(SKY) 공모가 대비 마감 주가 상승폭: 13% 수준 상승한 168달러 기록 (원화 약 252만 원선으로 본주 대비 15% 프리미엄 형성)",
@@ -21,15 +21,15 @@
       "아시브레너 AI 인프라 헤지펀드 운용자금 규모: 약 30조 원 규모 돌파 (코어위브, TSMC, 마이크론, 전력 인프라 등 병목 부문에 집중 투자)"
     ],
     "signal": "bullish",
-    "signal_reason": "미국 ADR을 통한 풍부한 글로벌 기관 자금 유입 경로가 뚫렸고, KV 캐시 최적화 요구 및 차세대 GPU용 HBM4의 독보적인 수량 증가와 맞춤형 고마진 생태계 구조가 입증되었기 때문입니다.",
+    "signal_reason": "미국 ADR을 통한 풍부한 글로벌 기관 자금 유입 경로가 뚫렸고, KV 캐시 최적화 요구 및 차세대 GPU용 <span class=\"text-cyan-300 font-semibold\">HBM</span>4의 독보적인 수량 증가와 맞춤형 고마진 생태계 구조가 입증되었기 때문입니다.",
     "key_companies": [
       "SK하이닉스(000660)",
       "삼성전자(005930)",
       "로보티즈(103030)",
       "TSMC(TSM)"
     ],
-    "insight": "메모리가 과거 원자재(Commodity) 성격의 범용 사이클에서 벗어나 GPU 기업들과 동맹을 맺는 <span class=\"text-cyan-300 font-semibold\">커스텀 맞춤형 안보 전략 자산</span>으로 전환되고 있습니다. 오픈 OpenAI 핵심 출신 아시브레너의 30조 원 펀드가 네오 클라우드와 메모리, 전력에 집중 포지셔닝한 것 역시 인프라 병목 구간에 대한 확신을 보여줍니다.",
-    "action_point": "단기적인 매크로 수급 노이즈로 메모리 반도체 주가가 흔들리는 국면마다, HBM4 패키징 해자를 선점한 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 본주 비중을 과감히 늘리고 로보티즈 등 오픈소스 로봇 손 액추에이터 수혜주도 분할 포착해야 합니다."
+    "insight": "메모리가 과거 원자재(Commodity) 성격의 범용 사이클에서 벗어나 GPU 기업들과 동맹을 맺는 커스텀 맞춤형 안보 전략 자산으로 전환되고 있습니다. 오픈 OpenAI 핵심 출신 아시브레너의 30조 원 펀드가 네오 클라우드와 메모리, 전력에 집중 포지셔닝한 것 역시 인프라 병목 구간에 대한 확신을 보여줍니다.",
+    "action_point": "단기적인 매크로 수급 노이즈로 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span> 주가가 흔들리는 국면마다, <span class=\"text-cyan-300 font-semibold\">HBM</span>4 패키징 해자를 선점한 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 본주 비중을 과감히 늘리고 로보티즈 등 오픈소스 로봇 손 액추에이터 수혜주도 분할 포착해야 합니다."
   },
   "classification": {
     "primary_topic": "stock",

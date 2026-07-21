@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/9rG6UOIvguc/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "최근 코스피 폭락은 펀더멘털의 훼손이 아닌 고점 대비 급락으로 유발된 <span class=\"text-rose-400 font-medium\">신용 반대매매</span>와 수급 교란 때문입니다. 레버리지를 사용한 개인 투자자들이 강제 청산을 피하기 위해 멀쩡한 대형 실적주(삼성전자, SK하이닉스 등)까지 투매하면서 '매도가 매도를 부르는' 투심 붕괴 현상이 나타났습니다. 이번 수급의 꼬임은 7월 중순 예정된 글로벌 반도체 장비 및 TSMC의 실적 발표에서 실적 펀더멘털이 입증되어야 해소될 전망입니다.",
+    "summary": "최근 코스피 폭락은 펀더멘털의 훼손이 아닌 고점 대비 <span class=\"text-rose-400 font-medium\">급락</span>으로 유발된 신용 반대매매와 수급 교란 때문입니다. 레버리지를 사용한 개인 투자자들이 강제 <span class=\"text-rose-400 font-medium\">청산</span>을 피하기 위해 멀쩡한 대형 실적주(<span class=\"text-cyan-300 font-semibold\">삼성전자</span>, <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 등)까지 투매하면서 '매도가 매도를 부르는' 투심 붕괴 현상이 나타났습니다. 이번 수급의 꼬임은 7월 중순 예정된 글로벌 <span class=\"text-cyan-300 font-semibold\">반도체</span> 장비 및 <span class=\"text-cyan-300 font-semibold\">TSMC</span>의 실적 발표에서 실적 펀더멘털이 입증되어야 해소될 전망입니다.",
     "key_claims": [
       "주요 대형주가 고점 대비 30% 이상 하락함에 따라 담보 부족으로 인한 신용 반대매매 경고 문자가 무더기로 발송되었습니다.",
       "반대매매 물량은 특정 종목에 한정되지 않고, 개인 투자자들이 현금을 신속히 확보하기 위해 거래량이 많은 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>, <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>를 매도하면서 전방위 지수 하락을 부추깁니다.",
-      "국내 도입된 단일종목 레버리지 ETF의 규제 논란과 정책적 혼선이 헤지 거래 유출과 선물 매도를 부추겨 변동성을 키웠습니다."
+      "국내 도입된 단일종목 레버리지 ETF의 규제 논란과 정책적 혼선이 헤지 거래 <span class=\"text-rose-400 font-medium\">유출</span>과 선물 매도를 부추겨 변동성을 키웠습니다."
     ],
     "data_points": [
       "코스피 고객예탁금 추이: 과거 최고치 130조 원 규모 -> 최근 약 30조 원 유출되어 100조 원대 붕괴 위험",

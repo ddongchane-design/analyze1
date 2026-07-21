@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/RSOtKvknTKg/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "1. 미국 반도체 기술주 중심의 하락과 동조화되어 코스피가 단기 조정을 겪는 것은 10주간 연속 상승에 따른 정상적인 <span class=\"text-amber-300 font-bold\">수급 과열 해소 과정(매물 소화)</span>입니다.\n2. 음봉이 크게 떨어진 이후 모멘텀 부재로 지수가 하락 테스트를 진행 중이지만, 이는 대세 하락장 전환보다는 단기적인 이격도 조정 흐름에 해당합니다.\n3. 단기 일희일비식 초단타 매매(인파이터)보다는 시장 흐름을 여유 있게 바라보며(아웃복서) 리스크 관리와 비중 조절에 힘써야 할 구간입니다.",
+    "summary": "1. 미국 <span class=\"text-cyan-300 font-semibold\">반도체</span> 기술주 중심의 하락과 동조화되어 코스피가 단기 <span class=\"text-rose-400 font-medium\">조정</span>을 겪는 것은 10주간 연속 상승에 따른 정상적인 수급 <span class=\"text-rose-400 font-medium\">과열</span> 해소 과정(매물 소화)입니다.\n2. 음봉이 크게 떨어진 이후 모멘텀 부재로 지수가 하락 테스트를 진행 중이지만, 이는 대세 하락장 전환보다는 단기적인 이격도 <span class=\"text-rose-400 font-medium\">조정</span> 흐름에 해당합니다.\n3. 단기 일희일비식 초단타 매매(인파이터)보다는 시장 흐름을 여유 있게 바라보며(아웃복서) <span class=\"text-rose-400 font-medium\">리스크</span> 관리와 비중 조절에 힘써야 할 구간입니다.",
     "key_claims": [
-      "최근의 주가 급락은 장기 상승 추세선의 붕괴가 아닌, 과매수권에 진입했던 기술주들의 <span class=\"text-rose-400 font-medium\">단기 매물 압박 해소</span> 과정입니다.",
-      "미국 증시 및 반도체 지수의 변동성이 여전히 높아 국내 증시도 며칠간 추가 하방 테스트를 진행하는 <span class=\"text-rose-400 font-medium\">불안정한 수급 구간</span>이 이어질 수 있습니다.",
+      "최근의 주가 <span class=\"text-rose-400 font-medium\">급락</span>은 장기 상승 추세선의 붕괴가 아닌, 과매수권에 진입했던 기술주들의 단기 매물 압박 해소 과정입니다.",
+      "미국 증시 및 <span class=\"text-cyan-300 font-semibold\">반도체</span> 지수의 변동성이 여전히 높아 국내 증시도 며칠간 추가 하방 테스트를 진행하는 불안정한 수급 구간이 이어질 수 있습니다.",
       "시장 고수를 모방해 추격 매수나 조급한 매도를 하기보다 현금 및 안전자산 비중을 보유하며 지지선 형성을 기다리는 것이 합리적입니다."
     ],
     "data_points": [
@@ -25,8 +25,8 @@
       "삼성전자(005930)",
       "SK하이닉스(000660)"
     ],
-    "insight": "지수가 장기 상승폭의 피로를 해소하기 위해 가격 조정을 받는 국면입니다. 이러한 매물 소화 과정을 거쳐야 향후 <span class=\"text-cyan-300 font-semibold\">실적 시즌 돌입 시</span> 더 견고한 상승 지지대를 형성할 수 있습니다.",
-    "action_point": "과도한 공격적 레버리지 투자를 자제하여 계좌의 안전성을 유지하고, 지수가 60일 이동평균선 등 <span class=\"text-cyan-300 font-semibold\">주요 지지 구간</span>에 진입할 때 주도주 분할 매수를 개시하는 전략이 필요합니다."
+    "insight": "지수가 장기 상승폭의 피로를 해소하기 위해 가격 <span class=\"text-rose-400 font-medium\">조정</span>을 받는 국면입니다. 이러한 매물 소화 과정을 거쳐야 향후 실적 시즌 돌입 시 더 견고한 상승 지지대를 형성할 수 있습니다.",
+    "action_point": "과도한 공격적 레버리지 투자를 자제하여 계좌의 안전성을 유지하고, 지수가 60일 이동평균선 등 주요 지지 구간에 진입할 때 주도주 분할 매수를 개시하는 전략이 필요합니다."
   },
   "classification": {
     "primary_topic": "stock",

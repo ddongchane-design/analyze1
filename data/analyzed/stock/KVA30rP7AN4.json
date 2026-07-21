@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/KVA30rP7AN4/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "화요일 삼성전자의 잠정 실적 가이드를 하루 앞두고 장중 6%에 달하는 극단적인 위아래 요동을 보인 국내 증시의 심리적 패닉 현상을 분석하고 반도체 사이클의 강력한 연속성을 재확인함.",
+    "summary": "화요일 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>의 잠정 실적 가이드를 하루 앞두고 장중 6%에 달하는 극단적인 위아래 요동을 보인 국내 증시의 심리적 패닉 현상을 분석하고 <span class=\"text-cyan-300 font-semibold\">반도체</span> 사이클의 강력한 연속성을 재확인함.",
     "key_claims": [
       "장중 고점 대비 급격하게 밀리는 변동폭은 실적 악화 우려가 아니며, 7월 선물옵션 만기 및 하이닉스 ADR 공모 등 여러 파생 상품의 수급 쏠림이 겹친 인위적 왜곡임.",
-      "삼성전자의 2분기 본업 영업이익이 컨센서스를 대폭 상회할 경우, 그동안 제기되었던 '반도체 피크아웃(Peak-out)' 경고성 루머는 한순간에 기각될 것임.",
+      "<span class=\"text-cyan-300 font-semibold\">삼성전자</span>의 2분기 본업 영업이익이 컨센서스를 대폭 상회할 경우, 그동안 제기되었던 '<span class=\"text-cyan-300 font-semibold\">반도체</span> 피크아웃(Peak-out)' 경고성 루머는 한순간에 기각될 것임.",
       "최근 3개월간 개인들이 매수한 물량이 손절매 형태로 출회되며 시장의 매도 압력을 증폭시켰으나 이는 상승 추세 내의 건전한 손바꿈 현상에 가까움."
     ],
     "data_points": [
@@ -19,13 +19,13 @@
       "삼성전자 잠정 실적 발표 D-1: 수요일 7시 30분 공식 가이드 발표 일정 확정 대기"
     ],
     "signal": "bullish",
-    "signal_reason": "인위적 왜곡에 따른 개인 물량 청산이 완료되는 즉시, 압도적인 실적 수치를 확인한 외국인들의 패시브 자금이 삼성전자와 하이닉스로 급속히 재유입될 것으로 전망되기 때문입니다.",
+    "signal_reason": "인위적 왜곡에 따른 개인 물량 <span class=\"text-rose-400 font-medium\">청산</span>이 완료되는 즉시, 압도적인 실적 수치를 확인한 외국인들의 패시브 자금이 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>와 하이닉스로 급속히 재유입될 것으로 전망되기 때문입니다.",
     "key_companies": [
       "삼성전자",
       "SK하이닉스"
     ],
-    "insight": "실적 발표 직전의 변동성은 <span class=\"text-cyan-300 font-semibold\">개인들의 레버리지 물량을 털어내는 전형적인 흔들기</span>입니다. 펀더멘털을 나타내는 반도체 단가는 3분기에도 추가 상승이 예정되어 있습니다.",
-    "action_point": "화요일 가이드 발표 전후의 투매 물량을 받아내며 삼성전자 보통주의 지분율을 지속해서 확대하는 전략을 권장합니다."
+    "insight": "실적 발표 직전의 변동성은 개인들의 레버리지 물량을 털어내는 전형적인 흔들기입니다. 펀더멘털을 나타내는 <span class=\"text-cyan-300 font-semibold\">반도체</span> 단가는 3분기에도 추가 상승이 예정되어 있습니다.",
+    "action_point": "화요일 가이드 발표 전후의 투매 물량을 받아내며 <span class=\"text-cyan-300 font-semibold\">삼성전자</span> 보통주의 지분율을 지속해서 확대하는 전략을 권장합니다."
   },
   "classification": {
     "primary_topic": "stock",

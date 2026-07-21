@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/WHRwsile884/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "김장열 센터장은 시장의 극심한 변동성 속에서 <span class=\"text-rose-400 font-medium\">포모(FOMO)에 의한 추격 매수</span>와 공포에 따른 투매를 모두 경고하며, 철저히 <span class=\"text-amber-300 font-bold\">안전 마진(0.8 Rule)</span>을 적용한 조정 시 분할 매수 전략을 강조함.",
+    "summary": "김장열 센터장은 시장의 극심한 변동성 속에서 포모(FOMO)에 의한 추격 매수와 공포에 따른 투매를 모두 경고하며, 철저히 안전 마진(0.8 Rule)을 적용한 <span class=\"text-rose-400 font-medium\">조정</span> 시 분할 매수 전략을 강조함.",
     "key_claims": [
-      "<span class=\"text-cyan-300 font-semibold\">삼성전자</span>의 구글 TPU 파운드리 수주 기대감과 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>의 ADR 상장 추진 등 대형 반도체 기업들의 개별 호재는 유효하나, 장 후반 글로벌 IB들의 레버리지 규제 소식이 찬물을 끼얹었다고 분석함.",
-      "비메모리 부품주인 <span class=\"text-cyan-300 font-semibold\">HL만도</span>가 로보택시 및 휴머노이드 로봇 액추에이터 수혜주로 부상하며 상한가를 기록한 사례를 제시하며, <span class=\"text-amber-300 font-bold\">피지컬 AI</span> 기반의 새로운 성장 밸류체인에 주목할 것을 권고함.",
-      "단기적으로 <span class=\"text-rose-400 font-medium\">매크로 변수 및 수급 규제(레버리지 제한)</span>로 주가가 흔들리더라도 7월 실적 시즌 전까지 지수 바닥은 올라가는 추세다."
+      "<span class=\"text-cyan-300 font-semibold\">삼성전자</span>의 <span class=\"text-cyan-300 font-semibold\">구글</span> TPU 파운드리 수주 기대감과 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>의 ADR 상장 추진 등 대형 <span class=\"text-cyan-300 font-semibold\">반도체</span> 기업들의 개별 호재는 유효하나, 장 후반 글로벌 IB들의 레버리지 규제 소식이 찬물을 끼얹었다고 분석함.",
+      "비메모리 부품주인 HL만도가 로보택시 및 휴머노이드 로봇 액추에이터 수혜주로 부상하며 상한가를 기록한 사례를 제시하며, 피지컬 AI 기반의 새로운 성장 밸류체인에 주목할 것을 권고함.",
+      "단기적으로 매크로 변수 및 수급 규제(레버리지 제한)로 주가가 흔들리더라도 7월 실적 시즌 전까지 지수 바닥은 올라가는 추세다."
     ],
     "data_points": [
       "코스피 전망 밴드: 7,200 ~ 9,500선 유지 (7월 초까지)",
@@ -20,7 +20,7 @@
       "HL만도 상한가 및 목표가 상향 조정 (골드만삭스 10.9만 원, 국내 8만~10만 원)"
     ],
     "signal": "bullish",
-    "signal_reason": "<span class=\"text-rose-400 font-medium\">단기 과열에 따른 레버리지 규제 경계</span>가 작동하고 있으나, 반도체 및 <span class=\"text-amber-300 font-bold\">피지컬 AI(로봇/자율주행)</span> 중심의 펀더멘털 개선세가 명확하여 조정 시 매수 메리트가 큼.",
+    "signal_reason": "단기 <span class=\"text-rose-400 font-medium\">과열</span>에 따른 레버리지 규제 경계가 작동하고 있으나, <span class=\"text-cyan-300 font-semibold\">반도체</span> 및 피지컬 AI(로봇/자율주행) 중심의 펀더멘털 개선세가 명확하여 <span class=\"text-rose-400 font-medium\">조정</span> 시 매수 메리트가 큼.",
     "key_companies": [
       "삼성전자",
       "SK하이닉스",
@@ -28,8 +28,8 @@
       "HL만도",
       "삼성전기"
     ],
-    "insight": "시장의 본질은 IT 주도주 쏠림 현상의 지속이다. 글로벌 투자은행의 <span class=\"text-rose-400 font-medium\">레버리지 규제</span>는 단기 변동성을 만들 뿐 대세 상승의 궤적을 꺾지 못한다. 특히 HL만도의 상한가가 보여주듯 자율주행과 휴머노이드 로봇 부품(액추에이터 등)의 경계가 무너지며 <span class=\"text-amber-300 font-bold\">피지컬 AI</span> 밸류체인 전반으로 훈풍이 불고 있어, 반도체와 모빌리티 융합 분야가 향후 시장의 핵심 트렌드가 될 것이다.",
-    "action_point": "목표 주가 대비 20% 이상 하락하여 <span class=\"text-amber-300 font-bold\">안전 마진</span> 영역에 진입한 대형 반도체주(<span class=\"text-cyan-300 font-semibold\">삼성전자</span>, <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>)와 신규 성장 모멘텀이 포착된 자동차 부품주를 조정 시 분할 매수해야 한다."
+    "insight": "시장의 본질은 IT 주도주 쏠림 현상의 지속이다. 글로벌 투자은행의 레버리지 규제는 단기 변동성을 만들 뿐 대세 상승의 궤적을 꺾지 못한다. 특히 HL만도의 상한가가 보여주듯 자율주행과 휴머노이드 로봇 부품(액추에이터 등)의 경계가 무너지며 피지컬 AI 밸류체인 전반으로 훈풍이 불고 있어, <span class=\"text-cyan-300 font-semibold\">반도체</span>와 모빌리티 융합 분야가 향후 시장의 핵심 트렌드가 될 것이다.",
+    "action_point": "목표 주가 대비 20% 이상 하락하여 안전 마진 영역에 진입한 대형 <span class=\"text-cyan-300 font-semibold\">반도체</span>주(<span class=\"text-cyan-300 font-semibold\">삼성전자</span>, <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>)와 신규 성장 모멘텀이 포착된 자동차 부품주를 <span class=\"text-rose-400 font-medium\">조정</span> 시 분할 매수해야 한다."
   },
   "classification": {
     "primary_topic": "stock",

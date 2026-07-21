@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/kLIfkAX9qno/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "SK하이닉스발 반도체 급락 충격은 호르무즈 해협을 둘러싼 지정학적 에너지 쇼크와 연준의 매파적 긴축 우려가 결합되며 악화되었습니다. 나스닥 상장 첫날 급등했던 SK하이닉스 ADR은 도널드 트럼프의 '호르무즈 통행세 20% 징수' 선언으로 유가가 폭등하자 약세로 반전했습니다. 연준 크리스토퍼 월러 이사는 AI 인프라와 유가가 인플레이션을 자극하고 있다고 경고하며 기준금리 인상 가능성을 공식 시사해 미국 10년물 국채 금리가 4.62%까지 급등했습니다.",
+    "summary": "<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>발 <span class=\"text-cyan-300 font-semibold\">반도체</span> <span class=\"text-rose-400 font-medium\">급락</span> 충격은 <span class=\"text-violet-300 font-medium\">호르무즈 해협</span>을 둘러싼 지정학적 에너지 쇼크와 연준의 매파적 긴축 우려가 결합되며 악화되었습니다. 나스닥 상장 첫날 급등했던 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> ADR은 도널드 트럼프의 '<span class=\"text-violet-300 font-medium\">호르무즈</span> 통행세 20% 징수' 선언으로 <span class=\"text-amber-300 font-bold\">유가</span>가 폭등하자 약세로 반전했습니다. 연준 크리스토퍼 월러 이사는 AI 인프라와 <span class=\"text-amber-300 font-bold\">유가</span>가 <span class=\"text-amber-300 font-bold\">인플레이션</span>을 자극하고 있다고 경고하며 기준금리 인상 가능성을 공식 시사해 미국 10년물 국채 금리가 4.62%까지 급등했습니다.",
     "key_claims": [
-      "UBS 등이 주도한 SK하이닉스 본주 매도 후 ADR 교체 매수(Arbitrage) 흐름이 있었으나, 유가 급등과 연준 긴축이라는 거시 악재에 밀렸습니다.",
-      "트럼프의 호르무즈 해협 개입 및 통행료 20% 청구 발언은 이란의 해상 봉쇄 조치와 얽히며 국제 유가를 배럴당 78달러까지 밀어 올렸습니다.",
+      "UBS 등이 주도한 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 본주 매도 후 ADR 교체 매수(Arbitrage) 흐름이 있었으나, <span class=\"text-amber-300 font-bold\">유가</span> 급등과 연준 긴축이라는 거시 악재에 밀렸습니다.",
+      "트럼프의 <span class=\"text-violet-300 font-medium\">호르무즈 해협</span> 개입 및 통행료 20% 청구 발언은 <span class=\"text-violet-300 font-medium\">이란</span>의 해상 봉쇄 조치와 얽히며 국제 <span class=\"text-amber-300 font-bold\">유가</span>를 배럴당 78달러까지 밀어 올렸습니다.",
       "월러 연준 이사의 금리 인상 직접 언급으로 7월 및 9월 추가 긴축 확률이 급격하게 선물 시장에 반영되었습니다."
     ],
     "data_points": [
@@ -21,15 +21,15 @@
       "미국 3대 지수 하락률: 나스닥 -1.5%, S&P500 -0.8%, 다우 약보합"
     ],
     "signal": "bearish",
-    "signal_reason": "원자재발 인플레이션 공포와 긴축 우려가 재현되고, 국채 금리가 급등하면서 고밸류에이션 테크 및 반도체 업종에 대한 매물 압박이 높기 때문입니다.",
+    "signal_reason": "원자재발 <span class=\"text-amber-300 font-bold\">인플레이션</span> 공포와 긴축 우려가 재현되고, 국채 금리가 급등하면서 고밸류에이션 테크 및 <span class=\"text-cyan-300 font-semibold\">반도체</span> 업종에 대한 매물 압박이 높기 때문입니다.",
     "key_companies": [
       "SK하이닉스(000660)",
       "마이크론(MU)",
       "인텔(INTC)",
       "엔비디아(NVDA)"
     ],
-    "insight": "글로벌 공급망 마비(유가)와 통화 긴축(금리)이라는 전통적인 스태그플레이션 위협 요소가 IT/반도체의 호실적 기대감을 덮쳤습니다. 특히 미국 시장의 견고함과 대비되는 한국 증시의 극심한 언더슈팅은 파생 상품 규제 혼선과 결합된 국내 수급의 한계성을 보여줍니다.",
-    "action_point": "실적 발표 기간 전까지 반도체 등 고변동성 업종에 대한 신규 진입을 늦추고, 금리 상승 및 달러 강세의 수혜를 입는 가치주와 원자재 밸류체인 비중을 강화해야 합니다."
+    "insight": "글로벌 공급망 마비(<span class=\"text-amber-300 font-bold\">유가</span>)와 통화 긴축(금리)이라는 전통적인 스태그플레이션 위협 요소가 IT/<span class=\"text-cyan-300 font-semibold\">반도체</span>의 호실적 기대감을 덮쳤습니다. 특히 미국 시장의 견고함과 대비되는 한국 증시의 극심한 언더슈팅은 파생 상품 규제 혼선과 결합된 국내 수급의 한계성을 보여줍니다.",
+    "action_point": "실적 발표 기간 전까지 <span class=\"text-cyan-300 font-semibold\">반도체</span> 등 고변동성 업종에 대한 신규 진입을 늦추고, 금리 상승 및 달러 강세의 수혜를 입는 가치주와 원자재 밸류체인 비중을 강화해야 합니다."
   },
   "classification": {
     "primary_topic": "stock",

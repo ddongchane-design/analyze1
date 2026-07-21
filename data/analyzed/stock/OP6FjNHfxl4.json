@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/OP6FjNHfxl4/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "한국 반도체주의 폭락 충격에 이어 도널드 트럼프 전 대통령의 '호르무즈 해협 20% 통행료 부과' 선언이 덮치며 국제 유가(WTI)가 9.4% 폭등했습니다. 이에 뉴욕 증시도 반도체주 위주로 동반 급락했으나, 애플은 아이폰 18과 폴더블폰에 대한 하반기 기대감(목표가 365달러 상향)으로 <span class=\"text-cyan-300 font-semibold\">사상 최고가</span>를 새로 썼습니다. 유가 급등과 월러 연준 이사의 매파 발언으로 10년물 국채 금리가 4.6%를 돌파하여 시장 전반의 긴축 공포가 강화되었습니다.",
+    "summary": "한국 <span class=\"text-cyan-300 font-semibold\">반도체</span>주의 폭락 충격에 이어 도널드 트럼프 전 대통령의 '<span class=\"text-violet-300 font-medium\">호르무즈 해협</span> 20% 통행료 부과' 선언이 덮치며 국제 <span class=\"text-amber-300 font-bold\">유가</span>(WTI)가 9.4% 폭등했습니다. 이에 뉴욕 증시도 <span class=\"text-cyan-300 font-semibold\">반도체</span>주 위주로 동반 <span class=\"text-rose-400 font-medium\">급락</span>했으나, 애플은 아이폰 18과 폴더블폰에 대한 하반기 기대감(목표가 365달러 상향)으로 사상 최고가를 새로 썼습니다. <span class=\"text-amber-300 font-bold\">유가</span> 급등과 월러 연준 이사의 매파 발언으로 10년물 국채 금리가 4.6%를 돌파하여 시장 전반의 긴축 공포가 강화되었습니다.",
     "key_claims": [
-      "트럼프 전 대통령이 호르무즈 해협을 지나는 모든 화물의 20%를 미국이 안전 보장 대가(통행료)로 징수하겠다고 주장하며 유가 폭등을 자극했습니다.",
-      "SK하이닉스 ADR은 본주 하락폭(-15%)을 반영해 9% 이상 급락한 152.35달러로 내려앉으며 상장 첫날 상승폭을 대부분 반납했습니다.",
+      "트럼프 전 대통령이 <span class=\"text-violet-300 font-medium\">호르무즈 해협</span>을 지나는 모든 화물의 20%를 미국이 안전 보장 대가(통행료)로 징수하겠다고 주장하며 <span class=\"text-amber-300 font-bold\">유가</span> 폭등을 자극했습니다.",
+      "<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> ADR은 본주 하락폭(-15%)을 반영해 9% 이상 <span class=\"text-rose-400 font-medium\">급락</span>한 152.35달러로 내려앉으며 상장 첫날 상승폭을 대부분 반납했습니다.",
       "시티그룹이 가을 폴더블폰 흥행을 이유로 애플의 목표가를 365달러로 대폭 올리면서, 기술주 하락 장세 속에서 애플 홀로 사상 최고치를 경신했습니다."
     ],
     "data_points": [
@@ -20,15 +20,15 @@
       "SK하이닉스 ADR 거래량: 약 5,000만 주 이상 거래 (미국 마이크론 거래량 3,400만 주를 대폭 추월)"
     ],
     "signal": "bearish",
-    "signal_reason": "유가 폭등이 물가 상승을 유발하여 연준의 금리 인하 기대감을 지연시키고, 반도체 공급망에 대한 비용 부담을 한층 높이고 있기 때문입니다.",
+    "signal_reason": "<span class=\"text-amber-300 font-bold\">유가</span> 폭등이 물가 상승을 유발하여 연준의 <span class=\"text-amber-300 font-bold\">금리 인하</span> 기대감을 지연시키고, <span class=\"text-cyan-300 font-semibold\">반도체</span> 공급망에 대한 비용 부담을 한층 높이고 있기 때문입니다.",
     "key_companies": [
       "SK하이닉스(000660)",
       "애플(AAPL)",
       "마이크론(MU)",
       "샌디스크"
     ],
-    "insight": "트럼프의 돌출성 20% 통행세 트윗은 글로벌 해상 운송 비용을 극단적으로 추정하게 만들어 유가 폭등을 유발했습니다. 지정학 불확실성이 상존하는 와중에 연준마저 추가 인상 카드를 만지작거리고 있어, 가치주(에너지/은행)와 성장주(빅테크) 간의 차별화가 심화되고 있습니다.",
-    "action_point": "금리 급등의 피해가 큰 레버리지 테크주 비중은 줄이고, 사상 최고가를 갱신한 애플 중심의 온디바이스 AI 밸류체인과 에너지 원자재 섹터로 리스크를 분산해야 합니다."
+    "insight": "트럼프의 돌출성 20% 통행세 트윗은 글로벌 해상 운송 비용을 극단적으로 추정하게 만들어 <span class=\"text-amber-300 font-bold\">유가</span> 폭등을 유발했습니다. 지정학 불확실성이 상존하는 와중에 연준마저 추가 인상 카드를 만지작거리고 있어, 가치주(에너지/은행)와 성장주(빅테크) 간의 차별화가 심화되고 있습니다.",
+    "action_point": "금리 급등의 피해가 큰 레버리지 테크주 비중은 줄이고, 사상 최고가를 갱신한 애플 중심의 온디바이스 AI 밸류체인과 에너지 원자재 섹터로 <span class=\"text-rose-400 font-medium\">리스크</span>를 분산해야 합니다."
   },
   "classification": {
     "primary_topic": "stock",

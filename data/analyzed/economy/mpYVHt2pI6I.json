@@ -8,20 +8,20 @@
     "thumbnail": "https://img.youtube.com/vi/mpYVHt2pI6I/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "아베노믹스의 대규모 통화 완화 정책으로 엔화 가치가 하락하고 <span class=\"text-cyan-300 font-semibold\">니케이 지수</span>가 급등한 투자의 큰 전환점을 설명함.\n2008년 글로벌 금융위기 이후 전 세계적 수요 둔화 속에서 미국의 <span class=\"text-cyan-300 font-semibold\">셰일 혁명</span>이 발생하며 공급 과잉을 초래함.\n수요 위축과 공급 과잉이 결합되어 글로벌 에너지 가격이 <span class=\"text-rose-400 font-medium\">장기 폭락세</span>를 보인 매크로적 원리를 고찰함.",
+    "summary": "아베노믹스의 대규모 통화 완화 정책으로 엔화 가치가 하락하고 니케이 지수가 급등한 투자의 큰 전환점을 설명함.\n2008년 글로벌 금융위기 이후 전 세계적 수요 둔화 속에서 미국의 셰일 혁명이 발생하며 공급 과잉을 초래함.\n수요 위축과 공급 과잉이 결합되어 글로벌 에너지 가격이 장기 폭락세를 보인 매크로적 원리를 고찰함.",
     "key_claims": [
-      "아베노믹스와 같은 유동성 공급 정책은 통화 가치를 떨어뜨리고 <span class=\"text-cyan-300 font-semibold\">주식 시장 상승</span>을 견인하는 중요한 변곡점임.",
-      "수요가 정체된 국면에서 나타난 미국의 <span class=\"text-cyan-300 font-semibold\">셰일 혁명</span>은 유가 하락을 가속화시키는 구조적 요인으로 작용함."
+      "아베노믹스와 같은 유동성 공급 정책은 통화 가치를 떨어뜨리고 주식 시장 상승을 견인하는 중요한 변곡점임.",
+      "수요가 정체된 국면에서 나타난 미국의 셰일 혁명은 <span class=\"text-amber-300 font-bold\">유가</span> 하락을 가속화시키는 구조적 요인으로 작용함."
     ],
     "data_points": [
       "엔화 가치가 반토막"
     ],
     "signal": "neutral",
     "signal_confidence": "low",
-    "signal_reason": "과거 아베노믹스와 <span class=\"text-cyan-300 font-semibold\">셰일 혁명</span>을 복기하며 거시경제적 통화량 변화와 공급 충격이 자산 가격에 미치는 영향을 설명함.",
+    "signal_reason": "과거 아베노믹스와 셰일 혁명을 복기하며 거시경제적 통화량 변화와 공급 충격이 자산 가격에 미치는 영향을 설명함.",
     "key_companies": [],
-    "insight": "자산 투자의 성패는 통화 가치의 급변과 <span class=\"text-amber-300 font-bold\">공급망 구조 변화</span>(예: 셰일 혁명) 같은 거대한 매크로적 갈림길을 포착하고 이에 맞춘 포트폴리오 전환을 실행하는 데 있음.",
-    "action_point": "중앙은행의 통화 정책 변화와 <span class=\"text-cyan-300 font-semibold\">에너지 공급 인프라</span>의 구조적 변화를 밀착 모니터링하여 원자재 및 국가별 지수 자산 배분 비중을 조절해야 함."
+    "insight": "자산 투자의 성패는 통화 가치의 급변과 공급망 구조 변화(예: 셰일 혁명) 같은 거대한 매크로적 갈림길을 포착하고 이에 맞춘 포트폴리오 전환을 실행하는 데 있음.",
+    "action_point": "중앙은행의 통화 정책 변화와 에너지 공급 인프라의 구조적 변화를 밀착 모니터링하여 원자재 및 국가별 지수 자산 배분 비중을 조절해야 함."
   },
   "classification": {
     "primary_topic": "economy",

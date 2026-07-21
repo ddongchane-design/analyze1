@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/tvoBxcb1A6o/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "나스닥과 코스닥의 성장 차이는 글로벌 <span class=\"text-amber-300 font-bold\">확장성</span>과 지수의 <span class=\"text-cyan-300 font-semibold\">자정 작용</span> 여부에서 발생합니다.\nS&P 500이 시대를 담는 그릇이라면 나스닥은 기술을 통해 시대를 이끄는 <span class=\"text-cyan-300 font-semibold\">성장 엔진</span>입니다.\n현재 진행 중인 <span class=\"text-cyan-300 font-semibold\">AI 혁명</span>은 모바일 혁명보다 규모가 크며 나스닥의 장기 우상향을 뒷받침합니다.",
+    "summary": "나스닥과 코스닥의 성장 차이는 글로벌 확장성과 지수의 자정 작용 여부에서 발생합니다.\nS&P 500이 시대를 담는 그릇이라면 나스닥은 기술을 통해 시대를 이끄는 성장 엔진입니다.\n현재 진행 중인 AI 혁명은 모바일 혁명보다 규모가 크며 나스닥의 장기 우상향을 뒷받침합니다.",
     "key_claims": [
-      "<span class=\"text-cyan-300 font-semibold\">나스닥</span>은 천재들의 기술과 자본이 결합하여 지수함수적 성장을 만들어내는 <span class=\"text-amber-300 font-bold\">자본주의의 엔진</span>입니다.",
-      "코스닥은 우량 기업들이 코스피로 이전하고 <span class=\"text-rose-400 font-medium\">작전 세력</span>과 부실 기업이 잔류하여 주가가 장기 정체되었습니다.",
-      "<span class=\"text-cyan-300 font-semibold\">AI 혁명</span>은 데이터 센터 확장 등 거대한 인프라 투자를 동반하므로 과거 모바일 혁명보다 더 큰 파급력을 가집니다."
+      "나스닥은 천재들의 기술과 자본이 결합하여 지수함수적 성장을 만들어내는 자본주의의 엔진입니다.",
+      "코스닥은 우량 기업들이 코스피로 이전하고 작전 세력과 <span class=\"text-rose-400 font-medium\">부실</span> 기업이 잔류하여 주가가 장기 정체되었습니다.",
+      "AI 혁명은 데이터 센터 확장 등 거대한 인프라 투자를 동반하므로 과거 모바일 혁명보다 더 큰 파급력을 가집니다."
     ],
     "data_points": [
       "2000년 한 3월 정도 됐거든요. 이때 나스닥이 얼마였을까요? 이때 나스닥이 얼마였냐면은 5,000 포인트였습니다.",
@@ -28,7 +28,7 @@
     ],
     "signal": "bullish",
     "signal_confidence": "medium",
-    "signal_reason": "현재 진행 중인 <span class=\"text-cyan-300 font-semibold\">AI 혁명</span>의 초기 단계에서 기술에 대한 신뢰를 바탕으로 한 <span class=\"text-amber-300 font-bold\">장기 정립식 투자</span>는 유효합니다.",
+    "signal_reason": "현재 진행 중인 AI 혁명의 초기 단계에서 기술에 대한 신뢰를 바탕으로 한 장기 정립식 투자는 유효합니다.",
     "key_companies": [
       "Amazon(AMZN)",
       "Netflix(NFLX)",
@@ -40,8 +40,8 @@
       "Mirae Asset TIGER ETF(TIGER)",
       "Samsung KODEX ETF(KODEX)"
     ],
-    "insight": "기술의 본질은 비용을 줄이고 효과를 극대화하는 <span class=\"text-cyan-300 font-semibold\">레버리지</span>이며, 글로벌 확장성을 지닌 미국 빅테크와 나스닥의 <span class=\"text-cyan-300 font-semibold\">자정 작용</span>(부실기업 퇴출 및 우량기업 편입)이 코스닥과의 결정적 성과 차이를 만들었습니다.",
-    "action_point": "연금저축이나 ISA 계좌 등 절세 계좌를 활용해 국내 상장 미국 나스닥 100 ETF(<span class=\"text-cyan-300 font-semibold\">TIGER</span>, KODEX 등)에 <span class=\"text-amber-300 font-bold\">장기 정립식 투자</span>를 실행하거나, 해외 직투 시 단가 부담이 적고 수수료가 낮은 <span class=\"text-cyan-300 font-semibold\">QQQM</span>을 적립식 매수 대안으로 활용하는 것이 유리합니다."
+    "insight": "기술의 본질은 비용을 줄이고 효과를 극대화하는 레버리지이며, 글로벌 확장성을 지닌 미국 빅테크와 나스닥의 자정 작용(<span class=\"text-rose-400 font-medium\">부실</span>기업 퇴출 및 우량기업 편입)이 코스닥과의 결정적 성과 차이를 만들었습니다.",
+    "action_point": "연금저축이나 ISA 계좌 등 절세 계좌를 활용해 국내 상장 미국 나스닥 100 ETF(TIGER, KODEX 등)에 장기 정립식 투자를 실행하거나, 해외 직투 시 단가 부담이 적고 수수료가 낮은 QQQM을 적립식 매수 대안으로 활용하는 것이 유리합니다."
   },
   "classification": {
     "primary_topic": "stock",

@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/o_zk1dT11Dg/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "<span class=\"text-cyan-300 font-semibold\">미래에셋증권</span> M-STOCK 모바일 앱의 계좌별 증거금율 변경 메뉴 위치 및 설정 변경 방법을 간략히 안내하는 투자자 이용 가이드입니다.",
+    "summary": "미래에셋증권 M-STOCK 모바일 앱의 계좌별 증거금율 변경 메뉴 위치 및 설정 변경 방법을 간략히 안내하는 투자자 이용 가이드입니다.",
     "key_claims": [
       "M-STOCK 메뉴 검색창을 통해 '계좌증거금 변경' 메뉴로 즉시 진입할 수 있다.",
-      "차등 증거금(30%, 40% 등) 혹은 100% 증거금 계좌로의 설정을 변경하여 리스크 노출을 제어할 수 있다."
+      "차등 증거금(30%, 40% 등) 혹은 100% 증거금 계좌로의 설정을 변경하여 <span class=\"text-rose-400 font-medium\">리스크</span> 노출을 제어할 수 있다."
     ],
     "data_points": [],
     "signal": "neutral",

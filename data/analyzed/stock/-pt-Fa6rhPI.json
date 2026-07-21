@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "-pt-Fa6rhPI",
+    "title": "[7월 20일 마감시황] \"4% 하락, 그나마 다행\"…이성을 잃은 시장, 손절 타이밍은 이미 지났다ㅣ홍선애, 이권희, 김장열 [클로징벨 라이브]",
+    "published": "2026-07-20T08:22:58+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=-pt-Fa6rhPI",
+    "thumbnail": "https://img.youtube.com/vi/-pt-Fa6rhPI/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "7월 20일 코스피가 장중 사이드카가 발동되며 4% <span class=\"text-rose-400 font-medium\">급락</span>한 6,542선, 코스닥은 5% 폭락한 751선으로 마감하며 패닉셀 장세가 연출되었습니다. 전문가들은 이번 하락이 AI 및 <span class=\"text-cyan-300 font-semibold\">HBM</span> 펀더멘탈의 훼손이 아닌, 국내 <span class=\"text-cyan-300 font-semibold\">반도체</span>주의 레버리지 <span class=\"text-rose-400 font-medium\">청산</span>(신용 반대매매)과 단기 수급 왜곡에 따른 '언더슈팅(과매도)' 구간이므로 현시점에서의 투매 동참은 손절 실익이 없으며 빅테크 실적 확인이 반등의 트리거가 될 것으로 전망했습니다.",
+    "key_claims": [
+      "금일 폭락은 신용 레버리지 반대매매와 개인의 패닉 투매가 집중되면서 발생한 기술적 수급 붕괴 현상이며, <span class=\"text-cyan-300 font-semibold\">AI 반도체</span> 수요 및 <span class=\"text-cyan-300 font-semibold\">HBM</span> 쇼티지 등 업황의 핵심 동력은 여전히 강력하다.",
+      "<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>가 고점 대비 단기간에 35% 이상 폭락한 것은 업황 주도주 역사상 유례없는 단기 과<span class=\"text-rose-400 font-medium\">조정</span>이며, 현재 12개월 선행 실적 기준 밸류에이션은 극도로 저평가된 매력적 가격대이다.",
+      "이번 주 예정된 알파벳(<span class=\"text-cyan-300 font-semibold\">구글</span>) 등 미국 빅테크의 실적 발표에서 클라우드 및 CAPEX 투자의 지속성이 증명되면 시장의 비이성적 AI 비관론이 걷히며 <span class=\"text-cyan-300 font-semibold\">반도체</span> 중심의 강한 기술적 반등이 나타날 것이다."
+    ],
+    "data_points": [
+      "코스피 마감 지수: 6,542.82 (장중 최저 6,400선 터치 후 일부 회복, -4%대 마감)",
+      "코스닥 마감 지수: 751.34 (장중 최저 747선으로 52주 신저가 기록, -5%대 마감)",
+      "시장 조치: 코스피 및 코스닥 양대 시장 모두 장중 매도 사이드카(Sidecar) 발동"
+    ],
+    "signal": "positive",
+    "signal_reason": "전형적인 기술적 과매도(언더슈팅) 구간이자 반대매매에 의한 수급 붕괴 장세로, 기업 펀더멘탈 대비 주가가 극단적인 저평가 영역에 진입하여 기술적 반등 가능성이 매우 높아졌기 때문입니다.",
+    "key_companies": [
+      "SK하이닉스(000660)",
+      "삼성전자(005930)",
+      "알파벳(GOOGL)"
+    ],
+    "insight": "코스피 4% 폭락은 매크로 균열보다는 국내 증시 특유의 신용 반대매매가 반대매매를 부르는 '투매 피드백'의 전형입니다. 이성을 잃은 시장에서 매도 타이밍은 이미 지났으며, 악재가 선반영된 가격 수준에서는 이성적인 실적 검증이 반등의 신호탄이 될 것입니다.",
+    "action_point": "현 가격대에서의 패닉 손절을 절대 금지하고 포지션을 홀딩할 것을 권고합니다. 신용 융자나 레버리지 사용은 지양하되, 여유 현금이 있다면 실적 발표를 앞두고 역사적 밸류에이션 하단에 도달한 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 및 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>의 분할 저점 매수 기회로 활용할 수 있습니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy",
+      "tech"
+    ],
+    "tags": [
+      "코스피사이드카",
+      "레버리지반대매매",
+      "패닉셀장세",
+      "SK하이닉스폭락",
+      "기술적과매도"
+    ]
+  }
+}

@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/-gFZrDqBNO8/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "최근 코스피가 8,400선을 돌파하고 매수 사이드카가 발동되는 등 외국인 수급 유입에 힘입어 <span class=\"text-amber-300 font-bold\">강한 지수 반등</span>이 나타나고 있습니다. AI 시장 확대에 따른 반도체 공급 부족이 심화되면서 삼성전자와 SK하이닉스 등 <span class=\"text-cyan-300 font-semibold\">반도체 대형주</span>의 실적 개선이 코스피 상승의 핵심 동력으로 작용하고 있습니다. 다만 미국 연준의 고금리 장기화 우려와 고환율 등 <span class=\"text-rose-400 font-medium\">거시경제 변동성</span>이 여전하므로 단기 급등에 따른 차익 실현 경계감도 존재합니다.",
+    "summary": "최근 코스피가 8,400선을 돌파하고 매수 사이드카가 발동되는 등 외국인 수급 유입에 힘입어 강한 지수 반등이 나타나고 있습니다. AI 시장 확대에 따른 <span class=\"text-cyan-300 font-semibold\">반도체</span> 공급 부족이 심화되면서 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>와 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 등 <span class=\"text-cyan-300 font-semibold\">반도체</span> 대형주의 실적 개선이 코스피 상승의 핵심 동력으로 작용하고 있습니다. 다만 미국 연준의 <span class=\"text-amber-300 font-bold\">고금리 장기화</span> 우려와 고<span class=\"text-amber-300 font-bold\">환율</span> 등 거시경제 변동성이 여전하므로 단기 급등에 따른 차익 실현 경계감도 존재합니다.",
     "key_claims": [
-      "외국인 투자자의 귀환은 단순 기술적 반등이 아닌 한국 반도체 기업들의 실적 턴어라운드에 기초한 <span class=\"text-amber-300 font-bold\">펀더멘탈적 매수세</span>이다.",
-      "HBM 및 모바일/서버향 메모리 반도체는 AI 케팩스(Capex) 급증으로 인해 <span class=\"text-cyan-300 font-semibold\">구조적 공급 부족</span> 상태에 직면했다.",
-      "금리와 환율의 상방 압력이 지속되고 있어 밸류에이션 부담이 적은 <span class=\"text-cyan-300 font-semibold\">실적 성장주 위주의 선별 투자</span>가 필수적이다."
+      "외국인 투자자의 귀환은 단순 기술적 반등이 아닌 한국 <span class=\"text-cyan-300 font-semibold\">반도체</span> 기업들의 실적 턴어라운드에 기초한 펀더멘탈적 매수세이다.",
+      "<span class=\"text-cyan-300 font-semibold\">HBM</span> 및 모바일/서버향 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span>는 AI 케팩스(Capex) 급증으로 인해 구조적 공급 부족 상태에 직면했다.",
+      "금리와 <span class=\"text-amber-300 font-bold\">환율</span>의 상방 압력이 지속되고 있어 밸류에이션 부담이 적은 실적 성장주 위주의 선별 투자가 필수적이다."
     ],
     "data_points": [
       "코스피 일일 상승률 8.26% 기록하며 8,400선 돌파 및 매수 사이드카 발동",
@@ -21,13 +21,13 @@
       "삼성전자 2분기 영업이익 전망치 기존 89조원에서 98조원으로 상향 조정"
     ],
     "signal": "bullish",
-    "signal_reason": "외국인 수급이 대거 유입되며 코스피가 급등했고, AI 메모리 수요 증가에 따른 <span class=\"text-cyan-300 font-semibold\">반도체 기업들의 이익 전망치 상향</span>이 주가 하방을 강하게 지지하고 있습니다.",
+    "signal_reason": "외국인 수급이 대거 유입되며 코스피가 급등했고, AI 메모리 수요 증가에 따른 <span class=\"text-cyan-300 font-semibold\">반도체</span> 기업들의 이익 전망치 상향이 주가 하방을 강하게 지지하고 있습니다.",
     "key_companies": [
       "삼성전자",
       "SK하이닉스"
     ],
-    "insight": "이번 랠리는 금리 인하 기대감에 기댄 유동성 장세가 아니라, AI 산업 혁명이 유발한 반도체 기업들의 <span class=\"text-cyan-300 font-semibold\">실적 폭발 장세</span>이며, 금리 변동성이 크더라도 확실한 실적 성장을 보여주는 핵심 IT 인프라 기업들로 돈이 쏠리는 양극화 현상이 고착화되고 있습니다.",
-    "action_point": "단기 가격 급등에 따른 추격 매수보다는 밸류에이션 매력이 유효한 삼성전자와 SK하이닉스 등 <span class=\"text-cyan-300 font-semibold\">반도체 투톱의 조정 시 분할 매수</span> 전략을 유지하고, 금리 및 환율 추이를 주시하며 포트폴리오의 방어력을 보강해야 합니다."
+    "insight": "이번 랠리는 <span class=\"text-amber-300 font-bold\">금리 인하</span> 기대감에 기댄 유동성 장세가 아니라, AI 산업 혁명이 유발한 <span class=\"text-cyan-300 font-semibold\">반도체</span> 기업들의 실적 폭발 장세이며, 금리 변동성이 크더라도 확실한 실적 성장을 보여주는 핵심 IT 인프라 기업들로 돈이 쏠리는 양극화 현상이 고착화되고 있습니다.",
+    "action_point": "단기 가격 급등에 따른 추격 매수보다는 밸류에이션 매력이 유효한 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>와 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 등 <span class=\"text-cyan-300 font-semibold\">반도체</span> 투톱의 <span class=\"text-rose-400 font-medium\">조정</span> 시 분할 매수 전략을 유지하고, 금리 및 <span class=\"text-amber-300 font-bold\">환율</span> 추이를 주시하며 포트폴리오의 방어력을 보강해야 합니다."
   },
   "classification": {
     "primary_topic": "stock",

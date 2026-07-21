@@ -8,9 +8,9 @@
     "thumbnail": "https://img.youtube.com/vi/hJ0UtEhMMkQ/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "코스피가 9,000 포인트를 넘어서며 역사적 강세를 나타내고 있지만, 코스닥은 천스닥 붕괴를 겪는 등 <span class=\"text-rose-400 font-medium\">시장 양극화가 극대화</span>되고 있습니다. 패널들은 반도체 업종을 제외한 대다수의 종목이 소외되고 있으므로, 이러한 쏠림 시장에서는 삼성전자, SK하이닉스, <span class=\"text-cyan-300 font-semibold\">SK스퀘어</span> 등 핵심 반도체주 위주의 압축 대응이 필수적이라고 설명합니다. 시장 전반의 체력이 한쪽으로 치우쳐 있어 강세장 기조 속에서도 오후장의 차익 실현 압력과 <span class=\"text-rose-400 font-medium\">단기 지수 힘빠짐 현상</span>에 경계가 필요하다는 예측을 제기했습니다.",
+    "summary": "코스피가 9,000 포인트를 넘어서며 역사적 강세를 나타내고 있지만, 코스닥은 천스닥 붕괴를 겪는 등 시장 양극화가 극대화되고 있습니다. 패널들은 <span class=\"text-cyan-300 font-semibold\">반도체</span> 업종을 제외한 대다수의 종목이 소외되고 있으므로, 이러한 쏠림 시장에서는 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>, <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>, SK스퀘어 등 핵심 <span class=\"text-cyan-300 font-semibold\">반도체</span>주 위주의 압축 대응이 필수적이라고 설명합니다. 시장 전반의 체력이 한쪽으로 치우쳐 있어 강세장 기조 속에서도 오후장의 차익 실현 압력과 단기 지수 힘빠짐 현상에 경계가 필요하다는 예측을 제기했습니다.",
     "key_claims": [
-      "반도체를 제외한 종목들은 대부분 동반 하락하고 있으므로 지수 상승 착시에서 벗어나 반도체 핵심주에 초점을 맞추는 것이 유리하다.",
+      "<span class=\"text-cyan-300 font-semibold\">반도체</span>를 제외한 종목들은 대부분 동반 하락하고 있으므로 지수 상승 착시에서 벗어나 <span class=\"text-cyan-300 font-semibold\">반도체</span> 핵심주에 초점을 맞추는 것이 유리하다.",
       "코스피의 9,000포인트 강세 돌파 흐름 속에서도 오후장으로 갈수록 수급 공백이 생기며 상승 탄력이 둔화되는 양상이 관측된다."
     ],
     "data_points": [
@@ -18,14 +18,14 @@
     ],
     "signal": "neutral",
     "signal_confidence": "medium",
-    "signal_reason": "코스피 지수는 반도체 독주로 역사적 신고가를 달성했으나, 코스닥을 비롯한 대다수 비반도체 종목은 하락하는 <span class=\"text-rose-400 font-medium\">극단적 수급 쏠림의 뉴노멀</span>이 전개되고 있어 리스크 관리가 병행되어야 하기 때문입니다.",
+    "signal_reason": "코스피 지수는 <span class=\"text-cyan-300 font-semibold\">반도체</span> 독주로 역사적 신고가를 달성했으나, 코스닥을 비롯한 대다수 비<span class=\"text-cyan-300 font-semibold\">반도체</span> 종목은 하락하는 극단적 수급 쏠림의 뉴노멀이 전개되고 있어 <span class=\"text-rose-400 font-medium\">리스크</span> 관리가 병행되어야 하기 때문입니다.",
     "key_companies": [
       "삼성전자(005930)",
       "SK하이닉스(000660)",
       "SK스퀘어(402340)"
     ],
-    "insight": "지수의 숫자(9,000포인트)에 매몰되기보다 시장 내부의 유동성이 <span class=\"text-cyan-300 font-semibold\">반도체 투톱 및 홀딩스 체인</span>으로만 집중되는 구조적 양극화를 이해하고 포트폴리오의 슬림화를 단행해야 합니다.",
-    "action_point": "비반도체 소형주의 낙폭 과대에 따른 성급한 저가 매수를 지양하고, 강력한 수급 유입이 유지되는 대형 반도체주 및 강세장 수혜가 집약되는 <span class=\"text-cyan-300 font-semibold\">SK스퀘어</span> 등 지주사 위주로 포트폴리오를 유지하는 것이 적합합니다."
+    "insight": "지수의 숫자(9,000포인트)에 매몰되기보다 시장 내부의 유동성이 <span class=\"text-cyan-300 font-semibold\">반도체</span> 투톱 및 홀딩스 체인으로만 집중되는 구조적 양극화를 이해하고 포트폴리오의 슬림화를 단행해야 합니다.",
+    "action_point": "비<span class=\"text-cyan-300 font-semibold\">반도체</span> 소형주의 낙폭 과대에 따른 성급한 저가 매수를 지양하고, 강력한 수급 유입이 유지되는 대형 <span class=\"text-cyan-300 font-semibold\">반도체</span>주 및 강세장 수혜가 집약되는 SK스퀘어 등 지주사 위주로 포트폴리오를 유지하는 것이 적합합니다."
   },
   "classification": {
     "primary_topic": "stock",

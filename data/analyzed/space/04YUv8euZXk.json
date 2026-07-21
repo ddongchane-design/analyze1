@@ -8,25 +8,25 @@
     "thumbnail": "https://img.youtube.com/vi/04YUv8euZXk/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "일론 머스크의 진짜 목적은 단순한 우주 여행이나 로켓 사업이 아닌, <span class=\"text-amber-300 font-bold\">자기 증식 문명 시스템</span>과 노동력 대체를 위한 대규모 인프라 구축임.\n이를 위해 <span class=\"text-cyan-300 font-semibold\">스타링크</span>(통신), <span class=\"text-cyan-300 font-semibold\">xAI</span>(지능), 테슬라 <span class=\"text-cyan-300 font-semibold\">옵티머스</span>(신체), 반도체 내재화(테라팹)를 수직 계열화하려는 장기 비전을 실행 중임.\n월가의 간섭 없이 독점적 경영권을 지키기 위해 창업자 1인 지배 구조인 <span class=\"text-cyan-300 font-semibold\">초의결권 지분 구조</span>로 스페이스X IPO를 단행함.",
+    "summary": "일론 머스크의 진짜 목적은 단순한 우주 여행이나 로켓 사업이 아닌, 자기 증식 문명 시스템과 노동력 대체를 위한 대규모 인프라 구축임.\n이를 위해 <span class=\"text-cyan-300 font-semibold\">스타링크</span>(통신), xAI(지능), <span class=\"text-cyan-300 font-semibold\">테슬라</span> 옵티머스(신체), <span class=\"text-cyan-300 font-semibold\">반도체</span> 내재화(테라팹)를 수직 계열화하려는 장기 비전을 실행 중임.\n월가의 간섭 없이 독점적 경영권을 지키기 위해 창업자 1인 지배 구조인 초의결권 지분 구조로 <span class=\"text-cyan-300 font-semibold\">스페이스X</span> IPO를 단행함.",
     "key_claims": [
-      "머스크는 주주들의 분기 실적 압박을 피해 40~50년 앞을 내다보고 본인의 비전을 관철하고자 <span class=\"text-cyan-300 font-semibold\">스페이스X IPO</span>를 결정함.",
+      "머스크는 주주들의 분기 실적 압박을 피해 40~50년 앞을 내다보고 본인의 비전을 관철하고자 <span class=\"text-cyan-300 font-semibold\">스페이스X</span> IPO를 결정함.",
       "<span class=\"text-cyan-300 font-semibold\">스타링크</span>는 단순 위성 통신을 넘어 전 세계 수십억 대의 휴머노이드 로봇을 연결하는 지상/우주 통신 인프라 역할을 수행할 것임.",
-      "인간 노동력 없는 <span class=\"text-amber-300 font-bold\">자기 증식 생산 시스템</span>을 구축해 지구와 우주(화성) 물류를 완전 자동화하는 것이 머스크 제국의 핵심 목적임."
+      "인간 노동력 없는 자기 증식 생산 시스템을 구축해 지구와 우주(화성) 물류를 완전 자동화하는 것이 머스크 제국의 핵심 목적임."
     ],
     "data_points": [
       "스페이스X IPO PSR: 약 94배",
       "일론 머스크의 스페이스X 의결권 비율: 80% 이상"
     ],
     "signal": "bullish",
-    "signal_reason": "스페이스X 상장을 통한 거대 자금 조달로 일론 머스크 제국의 장기 로드맵이 탄력을 받을 것이며, 우주 인프라 선점에 따른 독점적 수혜가 예상됩니다.",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span> 상장을 통한 거대 자금 조달로 일론 머스크 제국의 장기 로드맵이 탄력을 받을 것이며, 우주 인프라 선점에 따른 독점적 수혜가 예상됩니다.",
     "key_companies": [
       "스페이스X",
       "테슬라(TSLA)",
       "xAI"
     ],
-    "insight": "스페이스X는 인류를 다행성 종족으로 만드는 단순 SF적 야망에 그치는 것이 아님. AI(xAI)와 로봇(옵티머스), 에너지(테슬라)의 물리적 결합을 우주 전역으로 확장하는 '문명 백업 서버' 및 자율 성장 인프라의 핵심 축임.",
-    "action_point": "단기적인 주가 밸류에이션 논란보다는, 스페이스X의 밸류체인에 진입하는 부품 납품사와 스타링크 생태계에 편입되는 글로벌 우주 위성 밸류체인에 집중할 필요가 있음."
+    "insight": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>는 인류를 다행성 종족으로 만드는 단순 SF적 야망에 그치는 것이 아님. AI(xAI)와 로봇(옵티머스), 에너지(<span class=\"text-cyan-300 font-semibold\">테슬라</span>)의 물리적 결합을 우주 전역으로 확장하는 '문명 백업 서버' 및 자율 성장 인프라의 핵심 축임.",
+    "action_point": "단기적인 주가 밸류에이션 논란보다는, <span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 밸류체인에 진입하는 부품 납품사와 <span class=\"text-cyan-300 font-semibold\">스타링크</span> 생태계에 편입되는 글로벌 우주 위성 밸류체인에 집중할 필요가 있음."
   },
   "classification": {
     "primary_topic": "space",

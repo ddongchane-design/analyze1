@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/PFvE-bPyZlQ/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 <span class=\"text-amber-300 font-bold\">스타쉽 프로젝트</span>는 기존의 팰컨 9 로켓에 비해 탑재 무게를 기하급수적으로 늘릴 예정임. 팰컨 9이 17.5톤을 나르는 반면, 스타쉽은 <span class=\"text-cyan-300 font-semibold\">100톤</span>을 실어 나를 수 있어 우주 인프라의 크기와 기능성이 극대화될 것임. 이를 통해 향후 우주로 쏘아 올려지는 위성의 성격이 단순 개수 증가에서 대형화 및 다기능화로 패러다임이 전환될 전망임.",
+    "summary": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 스타쉽 프로젝트는 기존의 팰컨 9 로켓에 비해 탑재 무게를 기하급수적으로 늘릴 예정임. 팰컨 9이 17.5톤을 나르는 반면, 스타쉽은 100톤을 실어 나를 수 있어 우주 인프라의 크기와 기능성이 극대화될 것임. 이를 통해 향후 우주로 쏘아 올려지는 위성의 성격이 단순 개수 증가에서 대형화 및 다기능화로 패러다임이 전환될 전망임.",
     "key_claims": [
       "스타쉽의 등장은 우주로 올라가는 위성의 성격을 단순 개수 증가에서 개별 위성의 대형화 및 고기능화로 바꿀 것임.",
-      "<span class=\"text-cyan-300 font-semibold\">팰컨 9</span>이 이미 뛰어난 상용 로켓임에도 불구하고, <span class=\"text-amber-300 font-bold\">스타쉽</span>은 이를 압도하는 수송 능력을 지님.",
+      "팰컨 9이 이미 뛰어난 상용 로켓임에도 불구하고, 스타쉽은 이를 압도하는 수송 능력을 지님.",
       "로켓 수송 한계의 극대화로 우주 개발 프로젝트의 설계 자유도가 크게 확장될 것임."
     ],
     "data_points": [

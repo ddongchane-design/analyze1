@@ -8,25 +8,25 @@
     "thumbnail": "https://img.youtube.com/vi/lMMxxWJ4srE/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "국내 증시가 8% 이상 급락하며 서킷브레이커와 사이드카가 동시에 발동되는 <span class=\"text-rose-400 font-medium\">블랙먼데이 패닉 셀링</span>이 발생했으나, 마이크론 등 일부 반도체 주는 선제적으로 반등하고 있습니다.\n<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>와 엔비디아가 차세대 메모리 공동 개발 및 설계 시뮬레이션을 가속화하기 위한 역사적인 장기 기술 파트너십을 체결했습니다.\n자산을 대량 유치하여 정산하는 <span class=\"text-amber-300 font-bold\">AI 팩토리</span>와 설계 자동화(EDA) 솔루션에 엔비디아의 노하우를 결합해 차세대 메모리 주도권을 공고히 할 예정입니다.",
+    "summary": "국내 증시가 8% 이상 <span class=\"text-rose-400 font-medium\">급락</span>하며 서킷브레이커와 사이드카가 동시에 발동되는 블랙먼데이 패닉 셀링이 발생했으나, 마이크론 등 일부 <span class=\"text-cyan-300 font-semibold\">반도체</span> 주는 선제적으로 반등하고 있습니다.\n<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>와 엔비디아가 차세대 메모리 공동 개발 및 설계 시뮬레이션을 가속화하기 위한 역사적인 장기 기술 파트너십을 체결했습니다.\n자산을 대량 유치하여 정산하는 AI 팩토리와 설계 자동화(EDA) 솔루션에 엔비디아의 노하우를 결합해 차세대 메모리 주도권을 공고히 할 예정입니다.",
     "key_claims": [
-      "시장 폭락 시 강제 반대매매로 인한 투매 도미노를 방지하기 위해 <span class=\"text-rose-400 font-medium\">서킷브레이커 및 사이드카</span> 등의 제도적 안전 장치가 작동함",
-      "엔비디아의 차세대 루빈 AI 슈퍼컴퓨터 및 피지컬 AI용 칩(토르)에 최적화된 <span class=\"text-cyan-300 font-semibold\">HBM 차세대 제품</span>을 공동 설계 및 제조 시뮬레이션으로 가속 개발할 예정",
-      "반도체 설계에 AI를 적용하는 <span class=\"text-cyan-300 font-semibold\">자동 설계(EDA)</span> 기술 협력으로 개발 주기와 수동 검증 오차를 획기적으로 감축함"
+      "시장 폭락 시 강제 반대매매로 인한 투매 도미노를 방지하기 위해 서킷브레이커 및 사이드카 등의 제도적 안전 장치가 작동함",
+      "엔비디아의 차세대 루빈 AI 슈퍼컴퓨터 및 피지컬 AI용 칩(토르)에 최적화된 <span class=\"text-cyan-300 font-semibold\">HBM</span> 차세대 제품을 공동 설계 및 제조 시뮬레이션으로 가속 개발할 예정",
+      "<span class=\"text-cyan-300 font-semibold\">반도체</span> 설계에 AI를 적용하는 자동 설계(EDA) 기술 협력으로 개발 주기와 수동 검증 오차를 획기적으로 감축함"
     ],
     "data_points": [
       "블랙먼데이 당일 낙폭: 코스피 최대 8%대 급락, 코스닥 최대 6%대 급락 기록",
       "SK하이닉스 주가 장기 상승폭: 2025년 6월 20만 원대에서 최근 200만 원대까지 급증(약 10배 상승 후 조정)"
     ],
     "signal": "neutral",
-    "signal_reason": "극심한 단기 <span class=\"text-rose-400 font-medium\">시장 패닉과 주가 폭락</span>이 발생했으나, SK하이닉스와 엔비디아 간의 차세대 핵심 기술 파트너십 등 <span class=\"text-cyan-300 font-semibold\">반도체 공급망의 장기 펀더멘탈</span>은 매우 강력하게 유지되고 있습니다.",
+    "signal_reason": "극심한 단기 시장 패닉과 주가 폭락이 발생했으나, <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>와 엔비디아 간의 차세대 핵심 기술 파트너십 등 <span class=\"text-cyan-300 font-semibold\">반도체</span> 공급망의 장기 펀더멘탈은 매우 강력하게 유지되고 있습니다.",
     "key_companies": [
       "SK하이닉스(SK Hynix)",
       "엔비디아(NVIDIA)",
       "마이크론(Micron)"
     ],
-    "insight": "단기 주가 폭락은 증거금 부족에 의한 반대매매 등 기술적 요인이 복합 작용하여 가중되는 현상입니다. 그러나 SK하이닉스가 단순 HBM 공급자를 넘어 엔비디아의 차세대 로드맵(<span class=\"text-cyan-300 font-semibold\">루빈, 토르 플랫폼</span> 등) 초기 설계 단계부터 공동 참여하는 기술 동맹을 구축했다는 점은 <span class=\"text-amber-300 font-bold\">반도체 공급망 지배력</span>이 이더리움-나스닥급의 파트너십으로 격상되었음을 의미합니다.",
-    "action_point": "패닉 셀링에 동참하기보다 증시 안전 장치 작동 이후의 저가 매수세 유입 강도를 점검하고, 반도체 대형주 중심의 <span class=\"text-cyan-300 font-semibold\">장기 기술 파트너십 성과</span> 및 빅테크와의 장기 공급 계약(LTA) 체결 소식을 예의주시해야 합니다."
+    "insight": "단기 주가 폭락은 증거금 부족에 의한 반대매매 등 기술적 요인이 복합 작용하여 가중되는 현상입니다. 그러나 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>가 단순 <span class=\"text-cyan-300 font-semibold\">HBM</span> 공급자를 넘어 엔비디아의 차세대 로드맵(루빈, 토르 플랫폼 등) 초기 설계 단계부터 공동 참여하는 기술 동맹을 구축했다는 점은 <span class=\"text-cyan-300 font-semibold\">반도체</span> 공급망 지배력이 이더리움-나스닥급의 파트너십으로 격상되었음을 의미합니다.",
+    "action_point": "패닉 셀링에 동참하기보다 증시 안전 장치 작동 이후의 저가 매수세 유입 강도를 점검하고, <span class=\"text-cyan-300 font-semibold\">반도체</span> 대형주 중심의 장기 기술 파트너십 성과 및 빅테크와의 장기 공급 계약(LTA) 체결 소식을 예의주시해야 합니다."
   },
   "classification": {
     "primary_topic": "stock",

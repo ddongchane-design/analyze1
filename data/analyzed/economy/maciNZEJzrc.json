@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/maciNZEJzrc/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "도널드 트럼프 전 대통령의 생일 전후로 미국과 이란의 <span class=\"text-violet-300 font-medium\">평화 협정 타결 소식</span>이 오피셜로 발표되며 코스피가 폭등, 매수 사이드카가 발동했다. 국제 유가는 배럴당 80달러 초반으로 크게 하락하며 글로벌 시장에 강력한 안도감을 주었다. 외국인이 코스피 대형주 위주로 1.5조 원 이상의 강력한 매수세를 보여주는 반면 코스닥은 수급이 일부 소외되며 상대적으로 약세를 보였다.",
+    "summary": "도널드 트럼프 전 대통령의 생일 전후로 미국과 <span class=\"text-violet-300 font-medium\">이란</span>의 평화 협정 타결 소식이 오피셜로 발표되며 코스피가 폭등, 매수 사이드카가 발동했다. 국제 <span class=\"text-amber-300 font-bold\">유가</span>는 배럴당 80달러 초반으로 크게 하락하며 글로벌 시장에 강력한 안도감을 주었다. 외국인이 코스피 대형주 위주로 1.5조 원 이상의 강력한 매수세를 보여주는 반면 코스닥은 수급이 일부 소외되며 상대적으로 약세를 보였다.",
     "key_claims": [
-      "미국-이란 간 양해 각서 서명으로 지정학적 긴장이 크게 소멸하며 코스피가 5% 가까이 폭등했다.",
-      "국제 유가의 안정과 원달러 환율 하락(1,510원대 진입)이 한국 증시의 <span class=\"text-cyan-300 font-semibold\">외국인 강매수 유입</span>을 자극했다.",
-      "유가 하락 수혜로 항공/해운 및 경기 민감주의 단기 반등 모멘텀이 강화될 것이다."
+      "미국-<span class=\"text-violet-300 font-medium\">이란</span> 간 양해 각서 서명으로 지정학적 긴장이 크게 소멸하며 코스피가 5% 가까이 폭등했다.",
+      "국제 <span class=\"text-amber-300 font-bold\">유가</span>의 안정과 <span class=\"text-amber-300 font-bold\">원달러 환율</span> 하락(1,510원대 진입)이 한국 증시의 외국인 강매수 유입을 자극했다.",
+      "<span class=\"text-amber-300 font-bold\">유가</span> 하락 수혜로 항공/해운 및 경기 민감주의 단기 반등 모멘텀이 강화될 것이다."
     ],
     "data_points": [
       "코스피 당일 4.95% 상승한 8,525선 마감 (장중 8,600 돌파)",
@@ -21,15 +21,15 @@
       "코스피 시장 매수 사이드카 긴급 발동"
     ],
     "signal": "bullish",
-    "signal_reason": "중동 리스크라는 거대한 유가 인플레 압박이 제거되어 한국 증시 전반에 강력한 <span class=\"text-amber-300 font-bold\">수급 리레이팅</span>이 진행되고 있다.",
+    "signal_reason": "<span class=\"text-violet-300 font-medium\">중동</span> <span class=\"text-rose-400 font-medium\">리스크</span>라는 거대한 <span class=\"text-amber-300 font-bold\">유가</span> 인플레 압박이 제거되어 한국 증시 전반에 강력한 수급 리레이팅이 진행되고 있다.",
     "key_companies": [
       "대한항공",
       "두산",
       "삼성전자",
       "SK하이닉스"
     ],
-    "insight": "트럼프의 정치적 목적과 미국의 조기 휴전 압박이 맞아떨어져 유가 하향 안정화가 빠르게 실현되었으며, 이는 연준의 금리 압박 완화로 연결될 것이다.",
-    "action_point": "지정학적 완화 수혜를 직접 입는 <span class=\"text-cyan-300 font-semibold\">항공 및 운송 대형주</span>와 고유가 하락 수혜를 받는 대형 반도체 중심 포트폴리오를 유지하라."
+    "insight": "트럼프의 정치적 목적과 미국의 조기 휴전 압박이 맞아떨어져 <span class=\"text-amber-300 font-bold\">유가</span> 하향 안정화가 빠르게 실현되었으며, 이는 연준의 금리 압박 완화로 연결될 것이다.",
+    "action_point": "지정학적 완화 수혜를 직접 입는 항공 및 운송 대형주와 고<span class=\"text-amber-300 font-bold\">유가</span> 하락 수혜를 받는 대형 <span class=\"text-cyan-300 font-semibold\">반도체</span> 중심 포트폴리오를 유지하라."
   },
   "classification": {
     "primary_topic": "economy",

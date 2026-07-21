@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/EhwIorJfjhU/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "트럼프 대통령이 <span class=\"text-cyan-300 font-semibold\">인텔 지분 10%</span> 인수와 엔비디아·인텔의 파트너십, 엘론 머스크의 '테라그리드' 칩 공장 건설을 발표하며 미국 내 반도체 제조업 부활(Made in USA)을 선언했습니다.\n미·이란 간 종전 합의가 공식 발표되어 호르무즈 해협의 <span class=\"text-violet-300 font-medium\">봉쇄 해제</span>가 선언되었으나, 이스라엘 내각의 강력한 반발과 군사적 행동 가능성이 마지막 지정학적 변수로 남아 유가는 강보합세를 보였습니다.\n제이디 밴스 부통령이 트럼프의 이란 종전 협상안을 비판하는 이스라엘에 강력한 경고 메시지를 보내며, 동맹 관계의 금이 가지 않도록 <span class=\"text-rose-400 font-medium\">지정학적 리스크</span>를 적극 관리하겠다는 의지를 천명했습니다.",
+    "summary": "트럼프 대통령이 <span class=\"text-cyan-300 font-semibold\">인텔</span> 지분 10% 인수와 엔비디아·<span class=\"text-cyan-300 font-semibold\">인텔</span>의 파트너십, 엘론 머스크의 '테라그리드' 칩 공장 건설을 발표하며 미국 내 <span class=\"text-cyan-300 font-semibold\">반도체</span> 제조업 부활(Made in USA)을 선언했습니다.\n미·<span class=\"text-violet-300 font-medium\">이란</span> 간 종전 합의가 공식 발표되어 <span class=\"text-violet-300 font-medium\">호르무즈 해협</span>의 봉쇄 해제가 선언되었으나, 이스라엘 내각의 강력한 반발과 군사적 행동 가능성이 마지막 지정학적 변수로 남아 <span class=\"text-amber-300 font-bold\">유가</span>는 강보합세를 보였습니다.\n제이디 밴스 부통령이 트럼프의 <span class=\"text-violet-300 font-medium\">이란</span> 종전 협상안을 비판하는 이스라엘에 강력한 경고 메시지를 보내며, 동맹 관계의 금이 가지 않도록 지정학적 <span class=\"text-rose-400 font-medium\">리스크</span>를 적극 관리하겠다는 의지를 천명했습니다.",
     "key_claims": [
-      "미국 정부가 인텔 지분을 직접 보유해 가치가 9개월 만에 1,000억 달러에서 6,000억 달러로 급등한 것은 트럼프의 <span class=\"text-cyan-300 font-semibold\">정부 지분 참여 정책</span>이 성공적임을 증명하는 사례입니다.",
-      "트럼프 대통령은 증시 상승을 자신의 최대 치적으로 삼고 있으며, 이를 지탱하기 위해 <span class=\"text-cyan-300 font-semibold\">반도체 자국 생산</span>과 금리 인하 압박을 지속할 것입니다.",
-      "이란 재건을 위한 3,000억 달러 지원안이 미국 예산 투입이 아닌 우회 투자 방식이라며 논란을 일축하고, <span class=\"text-violet-300 font-medium\">원유 시장 정상화</span>와 인플레이션 안정을 추진하고 있습니다."
+      "미국 정부가 <span class=\"text-cyan-300 font-semibold\">인텔</span> 지분을 직접 보유해 가치가 9개월 만에 1,000억 달러에서 6,000억 달러로 급등한 것은 트럼프의 정부 지분 참여 정책이 성공적임을 증명하는 사례입니다.",
+      "트럼프 대통령은 증시 상승을 자신의 최대 치적으로 삼고 있으며, 이를 지탱하기 위해 <span class=\"text-cyan-300 font-semibold\">반도체</span> 자국 생산과 <span class=\"text-amber-300 font-bold\">금리 인하</span> 압박을 지속할 것입니다.",
+      "<span class=\"text-violet-300 font-medium\">이란</span> 재건을 위한 3,000억 달러 지원안이 미국 예산 투입이 아닌 우회 투자 방식이라며 논란을 일축하고, 원유 시장 정상화와 <span class=\"text-amber-300 font-bold\">인플레이션</span> 안정을 추진하고 있습니다."
     ],
     "data_points": [
       "미국 정부가 인텔 지분 10% 보유 (9개월 만에 기업 가치 1,000억 달러에서 6,000억 달러 돌파, 정부 지분 가치는 600억 달러 이상)",
@@ -23,14 +23,14 @@
     ],
     "signal": "bullish",
     "signal_confidence": "high",
-    "signal_reason": "미국 정부의 반도체 제조업 직접 지원책과 미·이란 종전으로 인한 <span class=\"text-violet-300 font-medium\">지정학적 리스크 완화</span>가 증시의 추세적 상승을 이끌기 때문입니다.",
+    "signal_reason": "미국 정부의 <span class=\"text-cyan-300 font-semibold\">반도체</span> 제조업 직접 지원책과 미·<span class=\"text-violet-300 font-medium\">이란</span> 종전으로 인한 지정학적 <span class=\"text-rose-400 font-medium\">리스크</span> 완화가 증시의 추세적 상승을 이끌기 때문입니다.",
     "key_companies": [
       "인텔(INTC)",
       "엔비디아(NVDA)",
       "테슬라(TSLA)"
     ],
-    "insight": "트럼프 정부는 전통적인 보조금 지급 방식을 넘어 <span class=\"text-cyan-300 font-semibold\">정부의 지분 투자</span>와 국내 대기업 간의 강제적 결합(엔비디아-인텔 생산 제휴)을 통해 반도체 패권을 자국으로 회수하고 있으며, 이는 글로벌 반도체 공급망 전체의 판도를 흔드는 구조적 대전환입니다.",
-    "action_point": "미국 정부의 집중적인 지원을 받는 <span class=\"text-cyan-300 font-semibold\">인텔</span>(지분 10% 인수 수혜)과 제조 협력이 성사된 <span class=\"text-cyan-300 font-semibold\">엔비디아</span>의 미국 내 생산 관련 밸류체인에 대해 중장기 매수 관점으로 접근해야 합니다.\n호르무즈 해협 해제로 유가의 점진적 하락이 예상되나, <span class=\"text-rose-400 font-medium\">이스라엘의 돌발 행동 리스크</span>가 완전히 해소되기 전까지 에너지 섹터의 변동성을 헤지 수단으로 활용해야 합니다."
+    "insight": "트럼프 정부는 전통적인 보조금 지급 방식을 넘어 정부의 지분 투자와 국내 대기업 간의 강제적 결합(엔비디아-<span class=\"text-cyan-300 font-semibold\">인텔</span> 생산 제휴)을 통해 <span class=\"text-cyan-300 font-semibold\">반도체</span> 패권을 자국으로 회수하고 있으며, 이는 글로벌 <span class=\"text-cyan-300 font-semibold\">반도체</span> 공급망 전체의 판도를 흔드는 구조적 대전환입니다.",
+    "action_point": "미국 정부의 집중적인 지원을 받는 <span class=\"text-cyan-300 font-semibold\">인텔</span>(지분 10% 인수 수혜)과 제조 협력이 성사된 엔비디아의 미국 내 생산 관련 밸류체인에 대해 중장기 매수 관점으로 접근해야 합니다.\n<span class=\"text-violet-300 font-medium\">호르무즈 해협</span> 해제로 <span class=\"text-amber-300 font-bold\">유가</span>의 점진적 하락이 예상되나, 이스라엘의 돌발 행동 <span class=\"text-rose-400 font-medium\">리스크</span>가 완전히 해소되기 전까지 에너지 섹터의 변동성을 헤지 수단으로 활용해야 합니다."
   },
   "classification": {
     "primary_topic": "economy",

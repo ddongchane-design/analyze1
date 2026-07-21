@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/C08kd6ZMgxs/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "미국 연준의 물가 목표치(2.0%) 달성이 어려운 '라스트 원마일(Last One Mile)'에 진입함. 고질적인 외식 등 <span class=\"text-rose-400 font-medium\">서비스 물가의 하방 경직성</span>과 최근 중동 전쟁으로 유가가 상승하며 물가 지표가 다시 3% 중반으로 반등함. 5년 넘게 목표치를 달성하지 못해 대중의 심리 속에 <span class=\"text-amber-300 font-bold\">인플레이션 고착화</span>(Chronic inflation) 우려가 고질병처럼 자리 잡고 있음.",
+    "summary": "미국 연준의 물가 목표치(2.0%) 달성이 어려운 '라스트 원마일(Last One Mile)'에 진입함. 고질적인 외식 등 서비스 물가의 하방 경직성과 최근 <span class=\"text-violet-300 font-medium\">중동</span> 전쟁으로 <span class=\"text-amber-300 font-bold\">유가</span>가 상승하며 물가 지표가 다시 3% 중반으로 반등함. 5년 넘게 목표치를 달성하지 못해 <span class=\"text-violet-300 font-medium\">대중</span>의 심리 속에 <span class=\"text-amber-300 font-bold\">인플레이션</span> 고착화(Chronic inflation) 우려가 고질병처럼 자리 잡고 있음.",
     "key_claims": [
       "미국 소비자물가지수(CPI)는 코로나19 돈 풀기 및 러우 전쟁 여파로 2021년 3월 이후 5년 넘게 연준 목표치(2%)를 지속 상회함.",
       "짜장면, 비빔밥 등 서비스업 물가는 하방 경직성이 강해 3%대에서 2%대로 내리기 힘든 '라스트 원마일' 정체를 보임.",
-      "연준이 2%에 도달하지 않은 2024년 9월부터 금리 인하를 선제 단행했으나, 중동 사태로 물가가 반등하며 통화 긴축 정상화 일정이 다시 꼬이게 됨."
+      "연준이 2%에 도달하지 않은 2024년 9월부터 <span class=\"text-amber-300 font-bold\">금리 인하</span>를 선제 단행했으나, <span class=\"text-violet-300 font-medium\">중동</span> 사태로 물가가 반등하며 통화 긴축 정상화 일정이 다시 꼬이게 됨."
     ],
     "data_points": [
       "연준 공식 물가 목표치: 2.0%",
@@ -22,10 +22,10 @@
     ],
     "signal": "bearish",
     "signal_confidence": "high",
-    "signal_reason": "물가 최종 안정 단계에서 지정학적 변수로 물가가 재상승하며 <span class=\"text-rose-400 font-medium\">고금리 기조가 예상을 깨고 연장</span>될 가능성이 커졌고, 인플레이션 심리 고착화로 연준의 통화 정책 입지가 좁아졌기 때문임.",
+    "signal_reason": "물가 최종 안정 단계에서 지정학적 변수로 물가가 재상승하며 <span class=\"text-amber-300 font-bold\">고금리</span> 기조가 예상을 깨고 연장될 가능성이 커졌고, <span class=\"text-amber-300 font-bold\">인플레이션</span> 심리 고착화로 연준의 통화 정책 입지가 좁아졌기 때문임.",
     "key_companies": [],
-    "insight": "서비스 가격 및 임금 등 한 번 오르면 쉽게 떨어지지 않는 '끈적한(Sticky) 물가'로 인해 최종 2% 달성은 험난함. 여기에 중동 리스크가 에너지 공급 쇼크를 지속 유발하면 '고금리 장기화(Higher for longer)'가 재차 소환되어 기술주 멀티플을 압박하고 실물 경기를 둔화시킬 것임.",
-    "action_point": "연준의 성급한 금리 인하 베팅에 기반한 자산 배분 비중을 제한하고, 인플레이션 방어력이 우수한 <span class=\"text-cyan-300 font-semibold\">실물 자산(원자재, 금 등) 및 고배당 가치주</span>, 현금 흐름이 확실한 주도 기업 중심의 보수적 포트폴리오 관리가 필요함."
+    "insight": "서비스 가격 및 임금 등 한 번 오르면 쉽게 떨어지지 않는 '끈적한(Sticky) 물가'로 인해 최종 2% 달성은 험난함. 여기에 <span class=\"text-violet-300 font-medium\">중동</span> <span class=\"text-rose-400 font-medium\">리스크</span>가 에너지 공급 쇼크를 지속 유발하면 '<span class=\"text-amber-300 font-bold\">고금리 장기화</span>(Higher for longer)'가 재차 소환되어 기술주 멀티플을 압박하고 실물 경기를 둔화시킬 것임.",
+    "action_point": "연준의 성급한 <span class=\"text-amber-300 font-bold\">금리 인하</span> 베팅에 기반한 자산 배분 비중을 제한하고, <span class=\"text-amber-300 font-bold\">인플레이션</span> 방어력이 우수한 실물 자산(원자재, 금 등) 및 고배당 가치주, 현금 흐름이 확실한 주도 기업 중심의 보수적 포트폴리오 관리가 필요함."
   },
   "classification": {
     "primary_topic": "economy",

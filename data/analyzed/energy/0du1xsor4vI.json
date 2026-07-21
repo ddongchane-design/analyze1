@@ -8,12 +8,12 @@
     "thumbnail": "https://img.youtube.com/vi/0du1xsor4vI/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "한국 반도체 산업의 핵심 기지인 용인 클러스터가 직면한 <span class=\"text-rose-400 font-medium\">전력 계통 및 인프라 병목 현상</span>을 심층 분석합니다. 첨단 미세공정에 필수적인 EUV 장비 도입 등으로 용인 클러스터에서만 약 10~20GW의 대규모 전력이 필요하나, 송배전망 건설에는 최장 15년이 소요되어 미스매치가 심각한 상황입니다. 또한 <span class=\"text-cyan-300 font-semibold\">애플(AAPL)</span> 등 글로벌 고객사들의 강한 <span class=\"text-violet-300 font-medium\">RE100 요구</span>가 국내 재생에너지 부족 문제와 겹쳐 반도체 제조사의 생존을 위협하고 있습니다.",
+    "summary": "한국 <span class=\"text-cyan-300 font-semibold\">반도체</span> 산업의 핵심 기지인 용인 클러스터가 직면한 전력 계통 및 인프라 병목 현상을 심층 분석합니다. 첨단 미세공정에 필수적인 EUV 장비 도입 등으로 용인 클러스터에서만 약 10~20GW의 대규모 전력이 필요하나, 송배전망 건설에는 최장 15년이 소요되어 미스매치가 심각한 상황입니다. 또한 애플(AAPL) 등 글로벌 고객사들의 강한 RE100 요구가 국내 <span class=\"text-amber-300 font-bold\">재생에너지</span> 부족 문제와 겹쳐 <span class=\"text-cyan-300 font-semibold\">반도체</span> 제조사의 생존을 위협하고 있습니다.",
     "key_claims": [
-      "용인 클러스터의 전력 수요는 국가 전체 피크 전력의 4분의 1에 달해, 국가 차원의 <span class=\"text-amber-300 font-bold\">송전망 및 발전원 재조정</span>이 급선무입니다.",
-      "한전의 송배전선로 건설 표준 소요 시간은 8년이지만, 지역 주민 수용성 악화로 실제로는 <span class=\"text-rose-400 font-medium\">15년 이상 지연</span>되는 전력 공급 병목이 발생하고 있습니다.",
-      "재생에너지 단가가 산업용 전기요금보다 낮아졌음에도 송전 제약과 <span class=\"text-violet-300 font-medium\">지역적 불균형(수요-공급 괴리)</span> 때문에 대기업의 RE100 이행이 어려운 구조입니다.",
-      "경쟁사 <span class=\"text-cyan-300 font-semibold\">TSMC(TSM)</span>는 성과급 비중을 낮춰서라도 해상풍력 장기 계약을 맺는 등 RE100 리스크 선제 대응에 나서고 있어 한국 기업과의 격차가 벌어질 우려가 있습니다."
+      "용인 클러스터의 전력 수요는 국가 전체 피크 전력의 4분의 1에 달해, 국가 차원의 송전망 및 발전원 재<span class=\"text-rose-400 font-medium\">조정</span>이 급선무입니다.",
+      "한전의 송배전선로 건설 표준 소요 시간은 8년이지만, 지역 주민 수용성 악화로 실제로는 15년 이상 지연되는 전력 공급 병목이 발생하고 있습니다.",
+      "<span class=\"text-amber-300 font-bold\">재생에너지</span> 단가가 산업용 전기요금보다 낮아졌음에도 송전 제약과 지역적 불균형(수요-공급 괴리) 때문에 대기업의 RE100 이행이 어려운 구조입니다.",
+      "경쟁사 <span class=\"text-cyan-300 font-semibold\">TSMC</span>(TSM)는 성과급 비중을 낮춰서라도 해상풍력 장기 계약을 맺는 등 RE100 <span class=\"text-rose-400 font-medium\">리스크</span> 선제 대응에 나서고 있어 한국 기업과의 격차가 벌어질 우려가 있습니다."
     ],
     "data_points": [
       "용인 반도체 클러스터 계획대로 가동 시 최대 20GW급의 전력 수요 발생",
@@ -24,7 +24,7 @@
     ],
     "signal": "neutral",
     "signal_confidence": "medium",
-    "signal_reason": "전력 및 RE100 이슈가 <span class=\"text-rose-400 font-medium\">장기적인 제조 경쟁력의 잠재적 리스크</span>로 작용하고 있으나, 정부의 수도권 재생에너지 단지 10GW 공급 대책 등이 수립되며 대응책이 마련되고 있습니다.",
+    "signal_reason": "전력 및 RE100 이슈가 장기적인 제조 경쟁력의 잠재적 <span class=\"text-rose-400 font-medium\">리스크</span>로 작용하고 있으나, 정부의 수도권 <span class=\"text-amber-300 font-bold\">재생에너지</span> 단지 10GW 공급 대책 등이 수립되며 대응책이 마련되고 있습니다.",
     "key_companies": [
       "Samsung Electronics(005930)",
       "SK Hynix(000660)",
@@ -32,8 +32,8 @@
       "Apple(AAPL)",
       "KEPCO(015760)"
     ],
-    "insight": "AI와 첨단 반도체의 병목이 칩 제조 단계를 넘어 <span class=\"text-amber-300 font-bold\">에너지 인프라 및 전력망 확보</span>로 빠르게 이동하고 있으며, 재생에너지 공급 한계를 극복하지 못하면 공장 가동 지연 리스크가 현실화될 수 있습니다.",
-    "action_point": "투자자는 장기적으로 전력 및 재생에너지 공급 우위를 가진 해외 사업장 비중이 높은 기업을 선호하고, 국내 전력망 확충 수혜를 입을 <span class=\"text-cyan-300 font-semibold\">전력기기 및 인프라 관련 기업</span>에 관심을 가져야 합니다."
+    "insight": "AI와 첨단 <span class=\"text-cyan-300 font-semibold\">반도체</span>의 병목이 칩 제조 단계를 넘어 에너지 인프라 및 전력망 확보로 빠르게 이동하고 있으며, <span class=\"text-amber-300 font-bold\">재생에너지</span> 공급 한계를 극복하지 못하면 공장 가동 지연 <span class=\"text-rose-400 font-medium\">리스크</span>가 현실화될 수 있습니다.",
+    "action_point": "투자자는 장기적으로 전력 및 <span class=\"text-amber-300 font-bold\">재생에너지</span> 공급 우위를 가진 해외 사업장 비중이 높은 기업을 선호하고, 국내 전력망 확충 수혜를 입을 전력기기 및 인프라 관련 기업에 관심을 가져야 합니다."
   },
   "classification": {
     "primary_topic": "energy",

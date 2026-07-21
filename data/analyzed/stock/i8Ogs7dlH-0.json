@@ -8,25 +8,25 @@
     "thumbnail": "https://img.youtube.com/vi/i8Ogs7dlH-0/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "과거 매크로 공식을 깨는 <span class=\"text-amber-300 font-bold\">독립적인 AI 메모리 사이클</span>을 규명하고, 내년 <span class=\"text-cyan-300 font-semibold\">HBM 가격의 대폭 상향</span> 전망을 근거로 반도체 주식의 보유 강화를 강력히 권고합니다.",
+    "summary": "과거 매크로 공식을 깨는 독립적인 AI 메모리 사이클을 규명하고, 내년 <span class=\"text-cyan-300 font-semibold\">HBM</span> 가격의 대폭 상향 전망을 근거로 <span class=\"text-cyan-300 font-semibold\">반도체</span> 주식의 보유 강화를 강력히 권고합니다.",
     "key_claims": [
       "과거와 달리 거시 경제 위축 속에서도 AI 투자가 메모리 독립 호황(호실적+양적완화 공존)을 이끌고 있다.",
-      "HBM의 공급 유인을 유지하기 위해 대기업들은 내년 HBM 단가를 50% 이상 폭력적으로 인상할 것이다.",
-      "실적 전망치는 폭증하는 반면 주가 상승이 이를 따라잡지 못해 국내 반도체 투톱의 PER은 비정상적으로 저렴하다."
+      "<span class=\"text-cyan-300 font-semibold\">HBM</span>의 공급 유인을 유지하기 위해 대기업들은 내년 <span class=\"text-cyan-300 font-semibold\">HBM</span> 단가를 50% 이상 폭력적으로 인상할 것이다.",
+      "실적 전망치는 폭증하는 반면 주가 상승이 이를 따라잡지 못해 국내 <span class=\"text-cyan-300 font-semibold\">반도체</span> 투톱의 PER은 비정상적으로 저렴하다."
     ],
     "data_points": [
       "내년 HBM 단가 인상 전망률: 전년 대비 50% 이상 추정",
       "마이크론 대비 국내 메모리 투톱의 상대적 PER 저평가 지속"
     ],
     "signal": "bullish",
-    "signal_reason": "HBM의 단가 협상력 극대화와 독립적 실적 성장세가 견고하여, 단기 조정은 재평가 국면 직전의 절호의 매수 기회입니다.",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">HBM</span>의 단가 협상력 극대화와 독립적 실적 성장세가 견고하여, 단기 <span class=\"text-rose-400 font-medium\">조정</span>은 재평가 국면 직전의 절호의 매수 기회입니다.",
     "key_companies": [
       "SK하이닉스",
       "삼성전자",
       "마이크론"
     ],
     "insight": "메모리는 더 이상 매크로에 종속된 커모디티가 아닙니다. 독점력과 단가 결정권을 쥔 선도 기업의 가치는 구조적으로 재평가받을 것입니다.",
-    "action_point": "일시적인 수급 불안으로 급락할 때 반도체 선두 기업(특히 SK하이닉스)의 비중을 흔들림 없이 확대하십시오."
+    "action_point": "일시적인 수급 불안으로 <span class=\"text-rose-400 font-medium\">급락</span>할 때 <span class=\"text-cyan-300 font-semibold\">반도체</span> 선두 기업(특히 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>)의 비중을 흔들림 없이 확대하십시오."
   },
   "classification": {
     "primary_topic": "stock",

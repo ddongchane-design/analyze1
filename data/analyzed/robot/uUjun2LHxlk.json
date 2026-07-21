@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/uUjun2LHxlk/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "현대차의 기업 가치를 결정할 핵심 변수가 완성차가 아닌 자회사 <span class=\"text-cyan-300 font-semibold\">보스턴 다이내믹스</span>의 로봇 가치 재평가라는 점을 분석합니다.\n보스턴 다이내믹스는 현대차라는 강력한 자체 수요처를 보유해 타 로봇 제조사 대비 조기 양산 및 데이터 축적에서 압도적인 우위를 점하고 있습니다.\n2028년 상장을 목표로 하는 보스턴 다이내믹스는 최대 <span class=\"text-amber-300 font-bold\">170조 원의 잠재 가치</span>를 가질 수 있으며, 이는 현대차 주가의 재평가 동력으로 작용할 전망입니다.",
+    "summary": "<span class=\"text-cyan-300 font-semibold\">현대차</span>의 기업 가치를 결정할 핵심 변수가 완성차가 아닌 자회사 보스턴 다이내믹스의 로봇 가치 재평가라는 점을 분석합니다.\n보스턴 다이내믹스는 <span class=\"text-cyan-300 font-semibold\">현대차</span>라는 강력한 자체 수요처를 보유해 타 로봇 제조사 대비 조기 양산 및 데이터 축적에서 압도적인 우위를 점하고 있습니다.\n2028년 상장을 목표로 하는 보스턴 다이내믹스는 최대 170조 원의 잠재 가치를 가질 수 있으며, 이는 <span class=\"text-cyan-300 font-semibold\">현대차</span> 주가의 재평가 동력으로 작용할 전망입니다.",
     "key_claims": [
-      "현대차의 향후 기업 가치는 완성차가 아닌 <span class=\"text-cyan-300 font-semibold\">보스턴 다이내믹스</span>의 로봇 사업 가치에 의해 재평가될 것임",
+      "<span class=\"text-cyan-300 font-semibold\">현대차</span>의 향후 기업 가치는 완성차가 아닌 보스턴 다이내믹스의 로봇 사업 가치에 의해 재평가될 것임",
       "보스턴 다이내믹스는 확정된 대규모 제조 수요를 통해 경쟁사 대비 데이터 플라이휠과 대량 생산 프리미엄을 조기 확보함",
-      "9월 상장 예정인 미국 어질러티 로보틱스와 중국 유니트리의 IPO 흥행이 휴머노이드 업계 전체의 새로운 밸류에이션 기준점이 될 것임"
+      "9월 상장 예정인 미국 어질러티 로보틱스와 <span class=\"text-violet-300 font-medium\">중국</span> 유니트리의 IPO 흥행이 휴머노이드 업계 전체의 새로운 밸류에이션 기준점이 될 것임"
     ],
     "data_points": [
       "Figure AI의 기업 가치는 약 55조 원 평가",
@@ -24,7 +24,7 @@
     ],
     "signal": "bullish",
     "signal_confidence": "high",
-    "signal_reason": "현대차는 경쟁사 대비 <span class=\"text-amber-300 font-bold\">자체 제조 라인 수요</span>를 완비하고 있어, 실제 제조 공정 데이터를 통한 데이터 플라이휠 선점과 안정적 현금 흐름 창출이 가능합니다.",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">현대차</span>는 경쟁사 대비 자체 제조 라인 수요를 완비하고 있어, 실제 제조 공정 데이터를 통한 데이터 플라이휠 선점과 안정적 현금 흐름 창출이 가능합니다.",
     "key_companies": [
       "현대차(005380)",
       "Boston Dynamics",
@@ -36,8 +36,8 @@
       "Google(GOOGL)",
       "Amazon(AMZN)"
     ],
-    "insight": "로봇 가치 사슬에서 가장 중요한 것은 로봇이 실제 제조 환경에서 취득하는 데이터이며, 현대차의 제조 인프라는 보스턴 다이내믹스에게 타사가 가지지 못한 독점적 <span class=\"text-cyan-300 font-semibold\">피지컬 AI 데이터 프리미엄</span>을 제공합니다.",
-    "action_point": "9월 상장 예정인 어질러티 로보틱스의 주가 흐름을 업계의 벤치마크 지표로 관찰하고, 현대차를 완성차 제조업에서 미래 <span class=\"text-cyan-300 font-semibold\">글로벌 로봇 플랫폼 지주사</span>로 전환되는 과도기로 해석하여 장기 매수 기회로 접근해야 합니다."
+    "insight": "로봇 가치 사슬에서 가장 중요한 것은 로봇이 실제 제조 환경에서 취득하는 데이터이며, <span class=\"text-cyan-300 font-semibold\">현대차</span>의 제조 인프라는 보스턴 다이내믹스에게 타사가 가지지 못한 독점적 피지컬 AI 데이터 프리미엄을 제공합니다.",
+    "action_point": "9월 상장 예정인 어질러티 로보틱스의 주가 흐름을 업계의 벤치마크 지표로 관찰하고, <span class=\"text-cyan-300 font-semibold\">현대차</span>를 완성차 제조업에서 미래 글로벌 로봇 플랫폼 지주사로 전환되는 과도기로 해석하여 장기 매수 기회로 접근해야 합니다."
   },
   "classification": {
     "primary_topic": "robot",

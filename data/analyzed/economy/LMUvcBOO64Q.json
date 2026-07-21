@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/LMUvcBOO64Q/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "미-이란 종전 합의 타결에도 불구하고 원유 수송 해로의 정상화 물리적 시간(1~3개월)과 이란의 통행료 수수료 징수 우려로 국제 유가가 여전히 배럴당 80달러선 위에서 버티고 있습니다. 미국 정부는 <span class=\"text-cyan-300 font-semibold\">앤스로픽</span>의 최고 성능 모델(페이블 5)에 대해 <span class=\"text-rose-400 font-medium\">수출 통제</span>를 내려 AI 모델을 국가 안보 전략 자산화하고 있으며, 이에 대응해 앤스로픽은 7월부터 엄격한 신원/국적 인증 제도를 시행합니다. 이번 주 일본은행(BOJ)의 금리 결정과 연준의 FOMC 회의를 앞두고 자본 시장 전반에는 기대와 경계감이 교차하고 있습니다.",
+    "summary": "미-<span class=\"text-violet-300 font-medium\">이란</span> 종전 합의 타결에도 불구하고 원유 수송 해로의 정상화 물리적 시간(1~3개월)과 <span class=\"text-violet-300 font-medium\">이란</span>의 통행료 수수료 징수 우려로 국제 <span class=\"text-amber-300 font-bold\">유가</span>가 여전히 배럴당 80달러선 위에서 버티고 있습니다. 미국 정부는 앤스로픽의 최고 성능 모델(페이블 5)에 대해 수출 통제를 내려 AI 모델을 국가 안보 전략 자산화하고 있으며, 이에 대응해 앤스로픽은 7월부터 엄격한 신원/국적 인증 제도를 시행합니다. 이번 주 일본은행(BOJ)의 금리 결정과 연준의 FOMC 회의를 앞두고 자본 시장 전반에는 기대와 경계감이 교차하고 있습니다.",
     "key_claims": [
-      "이란 합의에도 불구하고 각국이 지정학 위험을 인지하여 비축유 수요를 올릴 것이므로 유가가 70달러대 이하로 쉽게 내려가지 않을 수 있음.",
-      "미국 정부가 AI 모델의 보안 취약성을 근거로 수출 통제를 단행한 사건은 개별 기업의 규제를 넘어 AI 경쟁이 국가 대 국가 패권 경쟁임을 보여줌.",
-      "비트코인은 가치 평가상 저점 부근이나, 기관 수요 부진과 현물 ETF 순유출세로 인해 즉각적인 급등을 보장하기 어려움."
+      "<span class=\"text-violet-300 font-medium\">이란</span> 합의에도 불구하고 각국이 지정학 <span class=\"text-rose-400 font-medium\">위험</span>을 인지하여 비축유 수요를 올릴 것이므로 <span class=\"text-amber-300 font-bold\">유가</span>가 70달러대 이하로 쉽게 내려가지 않을 수 있음.",
+      "미국 정부가 AI 모델의 보안 <span class=\"text-rose-400 font-medium\">취약성</span>을 근거로 수출 통제를 단행한 사건은 개별 기업의 규제를 넘어 AI 경쟁이 국가 대 국가 패권 경쟁임을 보여줌.",
+      "비트코인은 가치 평가상 저점 부근이나, 기관 수요 부진과 현물 ETF 순<span class=\"text-rose-400 font-medium\">유출</span>세로 인해 즉각적인 급등을 보장하기 어려움."
     ],
     "data_points": [
       "WTI 유가 레벨: 배럴당 80.3달러선 수준",
@@ -22,7 +22,7 @@
     ],
     "signal": "neutral",
     "signal_confidence": "medium",
-    "signal_reason": "중동 종전 합의와 우주 테마 흥행이라는 긍정적 소식에도 불구하고, AI 모델에 대한 정부의 직접 규제 리스크와 유가 안정 속도 지연, 주요국 통화 정책 결정을 앞둔 매크로 관망세가 팽팽히 맞서고 있기 때문임.",
+    "signal_reason": "<span class=\"text-violet-300 font-medium\">중동</span> 종전 합의와 우주 테마 흥행이라는 긍정적 소식에도 불구하고, AI 모델에 대한 정부의 직접 규제 <span class=\"text-rose-400 font-medium\">리스크</span>와 <span class=\"text-amber-300 font-bold\">유가</span> 안정 속도 지연, 주요국 통화 정책 결정을 앞둔 매크로 관망세가 팽팽히 맞서고 있기 때문임.",
     "key_companies": [
       "앤스로픽",
       "아마존(AMZN)",
@@ -31,8 +31,8 @@
       "캐피털원",
       "로쿠"
     ],
-    "insight": "이제 AI 소프트웨어 모델도 반도체 하드웨어와 마찬가지로 전략 물자 규제 대상이 됨에 따라, 각국은 독자적인 AI 인프라를 구축하려는 '소버린 AI' 투자 동기를 더 강력히 지니게 될 것이고, 이는 결국 반도체 및 장비 밸류체인 전반의 수요를 장기적으로 밀어 올리는 동력이 됨.",
-    "action_point": "규제 영향을 많이 받는 모델 개발사보다는, 국가 주도 인프라 구축의 직접 수혜를 입는 <span class=\"text-cyan-300 font-semibold\">엔비디아</span> 및 장비 밸류체인 수혜주 위주로 안정적인 비중 유지를 제안함."
+    "insight": "이제 AI 소프트웨어 모델도 <span class=\"text-cyan-300 font-semibold\">반도체</span> 하드웨어와 마찬가지로 전략 물자 규제 대상이 됨에 따라, 각국은 독자적인 AI 인프라를 구축하려는 '소버린 AI' 투자 동기를 더 강력히 지니게 될 것이고, 이는 결국 <span class=\"text-cyan-300 font-semibold\">반도체</span> 및 장비 밸류체인 전반의 수요를 장기적으로 밀어 올리는 동력이 됨.",
+    "action_point": "규제 영향을 많이 받는 모델 개발사보다는, 국가 주도 인프라 구축의 직접 수혜를 입는 엔비디아 및 장비 밸류체인 수혜주 위주로 안정적인 비중 유지를 제안함."
   },
   "classification": {
     "primary_topic": "economy",

@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/ktNAkVbVRvc/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "미국과 이란의 <span class=\"text-violet-300 font-medium\">전격 종전 합의 기대감</span>과 스페이스X의 상장 성공으로 미국 3대 지수가 일제히 랠리를 펼쳤다. 국제 유가가 배럴당 90달러 이하로 급락하여 글로벌 인플레이션 압력이 크게 낮아졌고, 이는 FOMC의 긴축 완화 기대를 지지했다. 글로벌 반도체 시장이 메모리 중심 80% 이상 고성장에 힘입어 3분기 연속 강한 모멘텀을 유지하고 있으나, 국내 코스피는 외국인 수급 변동성으로 급등락하는 흐름을 보인다.",
+    "summary": "미국과 <span class=\"text-violet-300 font-medium\">이란</span>의 전격 종전 합의 기대감과 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 상장 성공으로 미국 3대 지수가 일제히 랠리를 펼쳤다. 국제 <span class=\"text-amber-300 font-bold\">유가</span>가 배럴당 90달러 이하로 <span class=\"text-rose-400 font-medium\">급락</span>하여 글로벌 <span class=\"text-amber-300 font-bold\">인플레이션</span> 압력이 크게 낮아졌고, 이는 FOMC의 긴축 완화 기대를 지지했다. 글로벌 <span class=\"text-cyan-300 font-semibold\">반도체</span> 시장이 메모리 중심 80% 이상 고성장에 힘입어 3분기 연속 강한 모멘텀을 유지하고 있으나, 국내 코스피는 외국인 수급 변동성으로 급등락하는 흐름을 보인다.",
     "key_claims": [
-      "<span class=\"text-violet-300 font-medium\">지정학적 리스크 완화</span>로 WTI 유가가 90달러를 깨고 내려와 소비자 심리지수가 큰 폭 개선됐다.",
-      "반도체 매출이 4분기 급증하여 2002년 이후 최고 성장세를 달성, 메모리 반도체가 성장을 견인했다.",
-      "국내 증시는 개인들의 B2투자 확대로 <span class=\"text-rose-400 font-medium\">반대매매 리스크</span>가 커져 철저한 리스크 관리가 필요하다."
+      "지정학적 <span class=\"text-rose-400 font-medium\">리스크</span> 완화로 WTI <span class=\"text-amber-300 font-bold\">유가</span>가 90달러를 깨고 내려와 소비자 심리지수가 큰 폭 개선됐다.",
+      "<span class=\"text-cyan-300 font-semibold\">반도체</span> 매출이 4분기 급증하여 2002년 이후 최고 성장세를 달성, <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span>가 성장을 견인했다.",
+      "국내 증시는 개인들의 B2투자 확대로 반대매매 <span class=\"text-rose-400 font-medium\">리스크</span>가 커져 철저한 <span class=\"text-rose-400 font-medium\">리스크</span> 관리가 필요하다."
     ],
     "data_points": [
       "미국 6월 소비자심리지수 예비치 48.9로 개선",
@@ -21,7 +21,7 @@
       "외국인 국내 주식 시장 24거래일 연속 순매도 기록 후 첫 매수 전환"
     ],
     "signal": "bullish",
-    "signal_reason": "지정학적 악재 완화에 따른 유가 하향 안정화와 반도체 하드웨어의 초고속 성장이 연말 랠리의 단단한 지지대 역할을 한다.",
+    "signal_reason": "지정학적 악재 완화에 따른 <span class=\"text-amber-300 font-bold\">유가</span> 하향 안정화와 <span class=\"text-cyan-300 font-semibold\">반도체</span> 하드웨어의 초고속 성장이 연말 랠리의 단단한 지지대 역할을 한다.",
     "key_companies": [
       "Tesla",
       "SpaceX",
@@ -29,8 +29,8 @@
       "Adobe",
       "Albemarle"
     ],
-    "insight": "시장의 가장 큰 걸림돌이었던 고유가와 지정학적 충돌이 소멸 단계에 접어듦에 따라, 펀더멘탈이 튼튼한 IT 및 리튬 배터리 소부장 업종의 수급 회복이 예상된다.",
-    "action_point": "단기 고점 부담이 있는 유가 민감주 비중을 줄이고, 지정학적 리스크 소멸의 최대 수혜를 입을 <span class=\"text-cyan-300 font-semibold\">메모리 반도체 및 빅테크 성장주</span>로 포트폴리오를 압축하라."
+    "insight": "시장의 가장 큰 걸림돌이었던 고<span class=\"text-amber-300 font-bold\">유가</span>와 지정학적 충돌이 소멸 단계에 접어듦에 따라, 펀더멘탈이 튼튼한 IT 및 리튬 배터리 소부장 업종의 수급 회복이 예상된다.",
+    "action_point": "단기 고점 부담이 있는 <span class=\"text-amber-300 font-bold\">유가</span> 민감주 비중을 줄이고, 지정학적 <span class=\"text-rose-400 font-medium\">리스크</span> 소멸의 최대 수혜를 입을 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span> 및 빅테크 성장주로 포트폴리오를 압축하라."
   },
   "classification": {
     "primary_topic": "economy",

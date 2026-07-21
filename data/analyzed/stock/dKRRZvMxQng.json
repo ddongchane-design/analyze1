@@ -8,9 +8,9 @@
     "thumbnail": "https://img.youtube.com/vi/dKRRZvMxQng/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "미국 반도체주 급락 여파와 <span class=\"text-rose-400 font-medium\">역대급 반대매매 공포</span>로 국내 증시가 5~7%대 동반 폭락했으며, 젠슨 황 방한과 관련된 기대 수혜주의 차익 실현 현상을 짚어봅니다.",
+    "summary": "미국 <span class=\"text-cyan-300 font-semibold\">반도체</span>주 <span class=\"text-rose-400 font-medium\">급락</span> 여파와 역대급 반대매매 공포로 국내 증시가 5~7%대 동반 폭락했으며, 젠슨 황 방한과 관련된 기대 수혜주의 차익 실현 현상을 짚어봅니다.",
     "key_claims": [
-      "미 증시 반도체 차익 매물 출회 및 반도체 D램 고점 우려 보고서가 국내 반도체 투톱의 급락을 야기했다.",
+      "미 증시 <span class=\"text-cyan-300 font-semibold\">반도체</span> 차익 매물 출회 및 <span class=\"text-cyan-300 font-semibold\">반도체</span> D램 고점 우려 보고서가 국내 <span class=\"text-cyan-300 font-semibold\">반도체</span> 투톱의 <span class=\"text-rose-400 font-medium\">급락</span>을 야기했다.",
       "국내 시장의 기술적 지지선 훼손과 선물 매도로 인해 기계적 매도가 출회되며 언더슈팅이 심화되었다.",
       "젠슨 황의 방한을 앞둔 '감성 매매' 테마주들의 대대적인 차익 실현(셀온뉴스)이 발생했다."
     ],
@@ -26,7 +26,7 @@
       "원익IPS"
     ],
     "insight": "단기 패닉 셀링은 펀더멘탈 훼손이 아니며, 장기 CapEx 수혜를 직접 받는 KOSDAQ 전공정 소부장 장비 대표주들에겐 좋은 분할 매수 기회가 됩니다.",
-    "action_point": "반도체 투톱은 미장 추이를 보며 재진입 타이밍을 관망하되, 낙폭이 과도한 기판 및 전공정 장비 우량주는 분할 매수를 검토하십시오."
+    "action_point": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 투톱은 미장 추이를 보며 재진입 타이밍을 관망하되, 낙폭이 과도한 기판 및 전공정 장비 우량주는 분할 매수를 검토하십시오."
   },
   "classification": {
     "primary_topic": "stock",

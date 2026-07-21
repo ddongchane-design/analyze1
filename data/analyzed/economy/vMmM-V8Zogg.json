@@ -8,25 +8,25 @@
     "thumbnail": "https://img.youtube.com/vi/vMmM-V8Zogg/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "글로벌 반도체 급락이 펀더멘털 훼손이 아닌 포지셔닝 과열 정리에 따른 <span class=\"text-amber-300 font-bold\">건강한 기술적 조정</span>이었음을 진단하고, 트럼프의 이스라엘 중재 의지와 사우디 아람코 OSP 인하에 따른 매크로 유가 안정화 가능성을 전망합니다.",
+    "summary": "글로벌 <span class=\"text-cyan-300 font-semibold\">반도체</span> <span class=\"text-rose-400 font-medium\">급락</span>이 펀더멘털 훼손이 아닌 포지셔닝 <span class=\"text-rose-400 font-medium\">과열</span> 정리에 따른 건강한 기술적 <span class=\"text-rose-400 font-medium\">조정</span>이었음을 진단하고, 트럼프의 이스라엘 중재 의지와 사우디 아람코 OSP 인하에 따른 매크로 <span class=\"text-amber-300 font-bold\">유가</span> 안정화 가능성을 전망합니다.",
     "key_claims": [
       "모건스탠리(Mike Wilson) 등 월가 주요 CIO들은 이번 하락이 쏠림 포지션의 레버리지 정리일 뿐, 기업들의 이익 전망치는 견고하다고 평가했다.",
-      "트럼프 전 대통령이 네타냐후 이스라엘 총리에게 강하게 확전 자제를 경고(Be careful or on your own)하면서 지정학적 유가 폭등 우려가 일시 무마되었다.",
-      "사우디 아람코가 중국의 정유 수요 부진에 대응하여 7월 아시아향 원유 판매가(OSP)를 배럴당 6달러가량 전격 인하하며 점유율 방어에 나섰다."
+      "트럼프 전 대통령이 네타냐후 이스라엘 총리에게 강하게 확전 자제를 경고(Be careful or on your own)하면서 지정학적 <span class=\"text-amber-300 font-bold\">유가</span> 폭등 우려가 일시 무마되었다.",
+      "사우디 아람코가 <span class=\"text-violet-300 font-medium\">중국</span>의 정유 수요 부진에 대응하여 7월 아시아향 원유 판매가(OSP)를 배럴당 6달러가량 전격 인하하며 점유율 방어에 나섰다."
     ],
     "data_points": [
       "마이크론과 인텔 등이 폭락 후 장중 10~11% 반등세 기록",
       "아람코의 7월 아시아 선적분 원유 OSP를 연내 두 번째로 인하"
     ],
     "signal": "bullish",
-    "signal_reason": "과열된 수급 리스크 해소와 원유 수급의 구조적 약화(OSP 인하)는 시장 인플레이션 유발 요인인 유가를 하향 안정화시켜 통화 긴축 압박을 완화해 줄 호재입니다.",
+    "signal_reason": "<span class=\"text-rose-400 font-medium\">과열</span>된 수급 <span class=\"text-rose-400 font-medium\">리스크</span> 해소와 원유 수급의 구조적 약화(OSP 인하)는 시장 <span class=\"text-amber-300 font-bold\">인플레이션</span> 유발 요인인 <span class=\"text-amber-300 font-bold\">유가</span>를 하향 안정화시켜 통화 긴축 압박을 완화해 줄 호재입니다.",
     "key_companies": [
       "NVIDIA",
       "사우디 아람코",
       "마이크론"
     ],
-    "insight": "반도체 이익 추정치가 오버슈팅되었다는 <span class=\"text-rose-400 font-medium\">낙관론 버블 경고</span>(아카디안)도 공존하나, 중동 리스크 통제 및 공급망 가격 우위 전략을 선택한 아람코의 OSP 하향은 매크로 회복에 우호적 뼈대를 형성합니다.",
-    "action_point": "포지션 과열 해소로 밸류에이션 매력이 부각된 주요 성장주 및 금리 고공행진 국면에서 헷지가 가능한 고배당 유가 연계 에너지 대형주의 균형 있는 포트폴리오 유지를 건의합니다."
+    "insight": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 이익 추정치가 오버슈팅되었다는 낙관론 버블 경고(아카디안)도 공존하나, <span class=\"text-violet-300 font-medium\">중동</span> <span class=\"text-rose-400 font-medium\">리스크</span> 통제 및 공급망 가격 우위 전략을 선택한 아람코의 OSP 하향은 매크로 회복에 우호적 뼈대를 형성합니다.",
+    "action_point": "포지션 <span class=\"text-rose-400 font-medium\">과열</span> 해소로 밸류에이션 매력이 부각된 주요 성장주 및 금리 고공행진 국면에서 헷지가 가능한 고배당 <span class=\"text-amber-300 font-bold\">유가</span> 연계 에너지 대형주의 균형 있는 포트폴리오 유지를 건의합니다."
   },
   "classification": {
     "primary_topic": "economy",

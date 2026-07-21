@@ -8,9 +8,9 @@
     "thumbnail": "https://img.youtube.com/vi/7wll7kOggHY/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "<span class=\"text-cyan-300 font-semibold\">삼성그룹</span>은 향후 10년간 반도체, AI, 데이터센터 등 핵심 미래 기술에 역대 최대 규모인 <span class=\"text-amber-300 font-bold\">1,000조 원 투자 계획</span>을 발표할 예정임. 또한, GS그룹은 강원 및 충청 지역에 기가와트급 AI 데이터센터 구축을 추진하며 IT 인프라 확장에 가세하는 등 글로벌 공급망 쇼티지에 대응한 대규모 CapEx 경쟁이 가열되고 있음.",
+    "summary": "삼성그룹은 향후 10년간 <span class=\"text-cyan-300 font-semibold\">반도체</span>, AI, 데이터센터 등 핵심 미래 기술에 역대 최대 규모인 1,000조 원 투자 계획을 발표할 예정임. 또한, GS그룹은 강원 및 충청 지역에 기가와트급 AI 데이터센터 구축을 추진하며 IT 인프라 확장에 가세하는 등 글로벌 공급망 쇼티지에 대응한 대규모 CapEx 경쟁이 가열되고 있음.",
     "key_claims": [
-      "삼성이 10년간 1,000조 원을 반도체와 AI 인프라에 쏟아붓는 메가 플랜을 통해 초격차 유지를 선언함.",
+      "삼성이 10년간 1,000조 원을 <span class=\"text-cyan-300 font-semibold\">반도체</span>와 AI 인프라에 쏟아붓는 메가 플랜을 통해 초격차 유지를 선언함.",
       "GS의 기가와트급 AI 데이터센터 추진은 국내 데이터센터 전력/송배전 소부장 밸류체인에 큰 낙수효과를 제공할 것임."
     ],
     "data_points": [
@@ -19,7 +19,7 @@
     ],
     "signal": "bullish",
     "signal_confidence": "high",
-    "signal_reason": "대기업들의 조 단위 CapEx 투자가 향후 10년간 이어짐에 따라 국내 반도체 전공정/후공정 장비사 및 데이터센터용 전력 설비 밸류체인의 확실한 수주 장고가 담보되기 때문임.",
+    "signal_reason": "대기업들의 조 단위 CapEx 투자가 향후 10년간 이어짐에 따라 국내 <span class=\"text-cyan-300 font-semibold\">반도체</span> 전공정/후공정 장비사 및 데이터센터용 전력 설비 밸류체인의 확실한 수주 장고가 담보되기 때문임.",
     "key_companies": [
       "삼성전자",
       "GS건설",
@@ -27,7 +27,7 @@
       "SK하이닉스"
     ],
     "insight": "빅테크들의 인프라 경쟁에 발맞춰 국내 대기업들도 송배전, 청정에너지 공급원 및 초미세 파운드리 공정 팹 투자를 대대적으로 연계하여, AI 인프라 쇼티지의 기회를 선점하고자 하는 포석임.",
-    "action_point": "삼성의 대규모 투자 집행의 핵심 창구가 될 <span class=\"text-cyan-300 font-semibold\">반도체 후공정 소부장</span> 및 GS의 기가와트급 전력 설비 공급을 맡을 <span class=\"text-cyan-300 font-semibold\">전력기기 대장주</span>에 대한 비중 확대를 유지함."
+    "action_point": "삼성의 대규모 투자 집행의 핵심 창구가 될 <span class=\"text-cyan-300 font-semibold\">반도체</span> 후공정 소부장 및 GS의 기가와트급 전력 설비 공급을 맡을 전력기기 대장주에 대한 비중 확대를 유지함."
   },
   "classification": {
     "primary_topic": "stock",

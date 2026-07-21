@@ -8,25 +8,25 @@
     "thumbnail": "https://img.youtube.com/vi/SU-w2plyIGw/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "커피 원두 가격 폭등락 속에서 프랜차이즈 기업들은 비용 부담을 겪는 반면, 선물 거래를 중개하는 <span class=\"text-cyan-300 font-semibold\">인터컨티넨탈 익스체인지(ICE)</span>는 거래량과 수수료 증가로 실질적인 승자임을 분석함. ICE는 전자 거래 플랫폼으로 출발하여 뉴욕커피거래소(NYBOT)와 뉴욕증권거래소(NYSE)를 차례로 인수하며 거대한 금융 인프라 제국을 구축함. 상품 가격의 방향성이 아니라 변동성 자체를 상품으로 다뤄 20년 연속 사상 최대 매출을 달성하는 <span class=\"text-amber-300 font-bold\">올웨더(All-weather) 비즈니스 모델</span>을 설명함.",
+    "summary": "커피 원두 가격 폭등락 속에서 프랜차이즈 기업들은 비용 부담을 겪는 반면, 선물 거래를 중개하는 인터컨티넨탈 익스체인지(ICE)는 거래량과 수수료 증가로 실질적인 승자임을 분석함. ICE는 전자 거래 플랫폼으로 출발하여 뉴욕커피거래소(NYBOT)와 뉴욕증권거래소(NYSE)를 차례로 인수하며 거대한 금융 인프라 제국을 구축함. 상품 가격의 방향성이 아니라 변동성 자체를 상품으로 다뤄 20년 연속 사상 최대 매출을 달성하는 올웨더(All-weather) 비즈니스 모델을 설명함.",
     "key_claims": [
-      "<span class=\"text-cyan-300 font-semibold\">스타벅스</span> 같은 소비재 기업은 원재료 및 인건비 상승 압박을 고스란히 받지만, 거래소는 가격의 등락과 무관하게 리스크 헤지 수요로 수익을 올림.",
-      "미국 자본주의의 상징인 뉴욕증권거래소(NYSE)를 소유한 모회사는 1990년대 후반 헐값에 인수된 소규모 전자 전력거래소에서 출발한 상장사 <span class=\"text-cyan-300 font-semibold\">ICE</span>임.",
-      "원자재 시장의 급격한 변동은 실물 가공 업체에게는 위기이나, 거래소에는 <span class=\"text-amber-300 font-bold\">거래 청산 및 데이터 매출</span>을 증대시키는 기회로 작용함."
+      "스타벅스 같은 소비재 기업은 원재료 및 인건비 상승 압박을 고스란히 받지만, 거래소는 가격의 등락과 무관하게 <span class=\"text-rose-400 font-medium\">리스크</span> 헤지 수요로 수익을 올림.",
+      "미국 자본주의의 상징인 뉴욕증권거래소(NYSE)를 소유한 모회사는 1990년대 후반 헐값에 인수된 소규모 전자 전력거래소에서 출발한 상장사 ICE임.",
+      "원자재 시장의 급격한 변동은 실물 가공 업체에게는 위기이나, 거래소에는 거래 <span class=\"text-rose-400 font-medium\">청산</span> 및 데이터 매출을 증대시키는 기회로 작용함."
     ],
     "data_points": [
       "아라비카 커피 선물 가격 변동성 (2025년 2월 파운드당 4달러 돌파 후 7월 2달러대 후반 폭락, 11월 관세 이슈로 6% 급락 등)",
       "ICE의 2025년 순매출 99억 달러 (전년 대비 7% 증가, 20년 연속 사상 최고 매출 기록)"
     ],
     "signal": "bullish",
-    "signal_reason": "기후 변화 및 지정학 변수로 원자재 가격 변동성이 지속되는 한 <span class=\"text-cyan-300 font-semibold\">ICE</span>의 거래 및 청산 데이터 매출 기반은 지속 확장될 수밖에 없음.",
+    "signal_reason": "기후 변화 및 지정학 변수로 원자재 가격 변동성이 지속되는 한 ICE의 거래 및 <span class=\"text-rose-400 font-medium\">청산</span> 데이터 매출 기반은 지속 확장될 수밖에 없음.",
     "key_companies": [
       "인터컨티넨탈익스체인지",
       "스타벅스",
       "뉴욕증권거래소"
     ],
-    "insight": "인플레이션과 지정학적 리스크 속에서 개별 제조/서비스 업체의 비용 대응력보다는 거래량 자체에서 안정적으로 마진을 취하는 <span class=\"text-cyan-300 font-semibold\">금융 시장 인프라 기업</span>의 가치가 돋보임.",
-    "action_point": "가격 전가력이 낮은 소비재 브랜드 투자보다 리스크 헤지 수요 증가로 장기 수혜를 보는 <span class=\"text-cyan-300 font-semibold\">거래소 인프라 주식(ICE 등)</span>을 변동성 헷지 수단으로 포트폴리오에 고려할 만함."
+    "insight": "<span class=\"text-amber-300 font-bold\">인플레이션</span>과 지정학적 <span class=\"text-rose-400 font-medium\">리스크</span> 속에서 개별 제조/서비스 업체의 비용 대응력보다는 거래량 자체에서 안정적으로 마진을 취하는 금융 시장 인프라 기업의 가치가 돋보임.",
+    "action_point": "가격 전가력이 낮은 소비재 브랜드 투자보다 <span class=\"text-rose-400 font-medium\">리스크</span> 헤지 수요 증가로 장기 수혜를 보는 거래소 인프라 주식(ICE 등)을 변동성 헷지 수단으로 포트폴리오에 고려할 만함."
   },
   "classification": {
     "primary_topic": "stock",

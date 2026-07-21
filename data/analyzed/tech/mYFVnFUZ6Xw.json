@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/mYFVnFUZ6Xw/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "알파벳은 AI 인프라 확장을 위해 <span class=\"text-cyan-300 font-semibold\">800억 달러 규모의 증자</span>를 발표하였으며, 버크셔 해서웨이가 <span class=\"text-cyan-300 font-semibold\">100억 달러를 사모 매수</span>하였습니다. 사법 리스크(광고 기술 및 검색 독점 소송)에도 불구하고 알파벳은 선행 P/E 26배로 넷플릭스(30배) 대비 저평가되어 있습니다. 연 600억 달러 매출의 <span class=\"text-cyan-300 font-semibold\">유튜브</span>와 자율주행 가치 1,260억 달러의 <span class=\"text-cyan-300 font-semibold\">웨이모</span>, 점유율 21%로 급성장 중인 <span class=\"text-cyan-300 font-semibold\">제미나이</span>의 가치가 충분히 반영되지 않았다는 평가입니다.",
+    "summary": "알파벳은 AI 인프라 확장을 위해 800억 달러 규모의 증자를 발표하였으며, <span class=\"text-cyan-300 font-semibold\">버크셔 해서웨이</span>가 100억 달러를 사모 매수하였습니다. 사법 <span class=\"text-rose-400 font-medium\">리스크</span>(광고 기술 및 검색 독점 소송)에도 불구하고 알파벳은 선행 P/E 26배로 넷플릭스(30배) 대비 저평가되어 있습니다. 연 600억 달러 매출의 유튜브와 자율주행 가치 1,260억 달러의 웨이모, 점유율 21%로 급성장 중인 제미나이의 가치가 충분히 반영되지 않았다는 평가입니다.",
     "key_claims": [
-      "알파벳은 검색 외에 유튜브, 클라우드, 자율주행, AI 연구소가 결합된 상태로 <span class=\"text-amber-300 font-bold\">심각한 가치 저평가 상태</span>에 놓여 있습니다.",
-      "검색 클릭률 절반 감소 리스크를 <span class=\"text-amber-300 font-bold\">AI 오버뷰 답변 내 광고 모델</span>로 전환해 성공적으로 방어하고 있습니다.",
-      "법무부의 광고 기술 독점 소송은 구글의 수익 스택을 분할할 수 있어 <span class=\"text-rose-400 font-medium\">검색 소송보다 더 위협적</span>입니다."
+      "알파벳은 검색 외에 유튜브, 클라우드, 자율주행, AI 연구소가 결합된 상태로 심각한 가치 저평가 상태에 놓여 있습니다.",
+      "검색 클릭률 절반 감소 <span class=\"text-rose-400 font-medium\">리스크</span>를 AI 오버뷰 답변 내 광고 모델로 전환해 성공적으로 방어하고 있습니다.",
+      "법무부의 광고 기술 독점 소송은 <span class=\"text-cyan-300 font-semibold\">구글</span>의 수익 스택을 분할할 수 있어 검색 소송보다 더 위협적입니다."
     ],
     "data_points": [
       "알파벳 신주 발행 규모 800억 달러, 버크셔 해서웨이의 사모 인수 금액 100억 달러(버크셔의 알파벳 총 보유액 266억 달러)",
@@ -23,15 +23,15 @@
       "알파벳 선행 P/E 약 26배 (넷플릭스 30배 대비 저평가), 애널리스트 목표가 430달러(상승여력 16%)"
     ],
     "signal": "bullish",
-    "signal_reason": "자본력의 재배치(증자)를 통해 AI 투자를 고도화하고 있고, 제미나이의 높은 침투율과 버크셔 해서웨이의 강력한 우군 참여가 주가 하방을 지지하므로 <span class=\"text-cyan-300 font-semibold\">긍정적(Bullish)</span>입니다.",
+    "signal_reason": "자본력의 재배치(증자)를 통해 AI 투자를 고도화하고 있고, 제미나이의 높은 침투율과 <span class=\"text-cyan-300 font-semibold\">버크셔 해서웨이</span>의 강력한 우군 참여가 주가 하방을 지지하므로 긍정적(Bullish)입니다.",
     "key_companies": [
       "알파벳(GOOGL)",
       "버크셔 해서웨이(BRK.A)",
       "넷플릭스(NFLX)",
       "오픈AI"
     ],
-    "insight": "구글의 1,900억 달러 설비투자는 AI 인프라 선점을 위한 생존 전략입니다. 버크셔의 15조 원 투입은 AI 검색 시장의 수익화 가능성과 <span class=\"text-amber-300 font-bold\">구글의 해자(Moat)가 유지</span>될 것이라는 후계자 그레그 아벨의 강한 확신을 보여줍니다.",
-    "action_point": "독점 소송 구제책 단계에서 발생하는 주가 조정을 <span class=\"text-cyan-300 font-semibold\">장기 매수의 기회</span>로 삼고, 빅테크 중 밸류에이션 매력이 높은 알파벳 비중을 늘려가야 합니다."
+    "insight": "<span class=\"text-cyan-300 font-semibold\">구글</span>의 1,900억 달러 설비투자는 AI 인프라 선점을 위한 생존 전략입니다. 버크셔의 15조 원 투입은 AI 검색 시장의 수익화 가능성과 <span class=\"text-cyan-300 font-semibold\">구글</span>의 해자(Moat)가 유지될 것이라는 후계자 그레그 아벨의 강한 확신을 보여줍니다.",
+    "action_point": "독점 소송 구제책 단계에서 발생하는 주가 <span class=\"text-rose-400 font-medium\">조정</span>을 장기 매수의 기회로 삼고, 빅테크 중 밸류에이션 매력이 높은 알파벳 비중을 늘려가야 합니다."
   },
   "classification": {
     "primary_topic": "tech",

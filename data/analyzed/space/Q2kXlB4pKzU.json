@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/Q2kXlB4pKzU/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "스페이스X는 지상의 규제 및 전력 부족 한계를 극복하기 위해 <span class=\"text-cyan-300 font-semibold\">우주 AI 데이터 센터</span> 구축을 본격적으로 추진하고 있습니다.\nxAI와의 합병을 거쳐 단순 우주 인터넷 기업에서 글로벌 <span class=\"text-cyan-300 font-semibold\">AI 인프라 기업</span>으로 피봇하며 28조 달러 규모의 목표 시장을 겨냥하고 있습니다.\n우주 방사능을 극복할 고부가가치 메모리 및 HBM 수요 급증은 한국의 반도체 대기업들에게 새로운 돌파구가 될 전망입니다.",
+    "summary": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>는 지상의 규제 및 전력 부족 한계를 극복하기 위해 우주 AI 데이터 센터 구축을 본격적으로 추진하고 있습니다.\nxAI와의 합병을 거쳐 단순 우주 인터넷 기업에서 글로벌 AI 인프라 기업으로 피봇하며 28조 달러 규모의 목표 시장을 겨냥하고 있습니다.\n우주 방사능을 극복할 고부가가치 메모리 및 <span class=\"text-cyan-300 font-semibold\">HBM</span> 수요 급증은 한국의 <span class=\"text-cyan-300 font-semibold\">반도체</span> 대기업들에게 새로운 돌파구가 될 전망입니다.",
     "key_claims": [
-      "지상의 송전망 건설 지연(7~10년 소요)과 규제를 피해 우주 궤도에서 24시간 <span class=\"text-amber-300 font-bold\">태양광 발전</span>을 활용하는 것이 우주 데이터 센터의 핵심 동기입니다.",
-      "스페이스X는 엔비디아 루벤(Ruben) 및 GB300 칩 기반의 초거대 AI 클러스터를 구축하고 있으며, 군사용 실시간 추론 등으로 수익모델을 다각화하고 있습니다.",
-      "우주 혹독한 환경을 견디기 위한 방사능 차폐 패키징 기술이 적용되면서 메모리 반도체 단가가 지상 대비 약 <span class=\"text-amber-300 font-bold\">5배 높은 고부가 가치</span> 사업으로 진화할 것입니다."
+      "지상의 송전망 건설 지연(7~10년 소요)과 규제를 피해 우주 궤도에서 24시간 태양광 발전을 활용하는 것이 우주 데이터 센터의 핵심 동기입니다.",
+      "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>는 엔비디아 루벤(Ruben) 및 GB300 칩 기반의 초거대 AI 클러스터를 구축하고 있으며, 군사용 실시간 추론 등으로 수익모델을 다각화하고 있습니다.",
+      "우주 혹독한 환경을 견디기 위한 방사능 차폐 패키징 기술이 적용되면서 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span> 단가가 지상 대비 약 5배 높은 고부가 가치 사업으로 진화할 것입니다."
     ],
     "data_points": [
       "2019년",
@@ -37,7 +37,7 @@
     ],
     "signal": "bullish",
     "signal_confidence": "high",
-    "signal_reason": "규제 병목이 심한 지상 데이터 센터의 대안으로 <span class=\"text-cyan-300 font-semibold\">우주 데이터 센터</span>가 부상하며, 우주 방사능 차폐 패키징 등 고단가 반도체 수요가 장기적인 성장 동력을 제공합니다.",
+    "signal_reason": "규제 병목이 심한 지상 데이터 센터의 대안으로 우주 데이터 센터가 부상하며, 우주 방사능 차폐 패키징 등 고단가 <span class=\"text-cyan-300 font-semibold\">반도체</span> 수요가 장기적인 성장 동력을 제공합니다.",
     "key_companies": [
       "SpaceX",
       "xAI",
@@ -45,8 +45,8 @@
       "SK Hynix(000660)",
       "NVIDIA(NVDA)"
     ],
-    "insight": "빅테크의 우주 데이터 센터 추진은 지구상의 물리적·규제적 영토 한계를 초월하는 <span class=\"text-violet-300 font-medium\">초국가적 AI 인프라 독점</span>의 서막이며, 한국 반도체 업계는 단순 제조사에서 우주 환경용 특수 패키징 솔루션을 공급하는 고수익 파트너로 진화할 기회를 맞이하고 있습니다.",
-    "action_point": "투자자는 단기적으로는 지상 데이터 센터 병목 우려를 주시하면서, 장기적으로 스페이스X의 <span class=\"text-cyan-300 font-semibold\">스타십(Starship)</span> 발사 비용 하락 속도와 우주 방사능 특화 메모리 패키징을 선점하는 한국 반도체 기업들의 연구개발 성과를 점검해야 합니다."
+    "insight": "빅테크의 우주 데이터 센터 추진은 지구상의 물리적·규제적 영토 한계를 초월하는 초국가적 AI 인프라 독점의 서막이며, 한국 <span class=\"text-cyan-300 font-semibold\">반도체</span> 업계는 단순 제조사에서 우주 환경용 특수 패키징 솔루션을 공급하는 고수익 파트너로 진화할 기회를 맞이하고 있습니다.",
+    "action_point": "투자자는 단기적으로는 지상 데이터 센터 병목 우려를 주시하면서, 장기적으로 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 <span class=\"text-cyan-300 font-semibold\">스타십</span>(Starship) 발사 비용 하락 속도와 우주 방사능 특화 메모리 패키징을 선점하는 한국 <span class=\"text-cyan-300 font-semibold\">반도체</span> 기업들의 연구개발 성과를 점검해야 합니다."
   },
   "classification": {
     "primary_topic": "space",

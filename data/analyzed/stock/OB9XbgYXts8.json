@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/OB9XbgYXts8/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "반도체 조정 장기화 우려와 중동 미-이란 물리 충돌 에스컬레이션 리스크가 겹치며, 코스피 지수가 횡보 기조 속에 매수 공백 상태를 맞이한 어제 시황 분석과 하반기 변동성 방어 대책을 요약합니다.",
+    "summary": "<span class=\"text-cyan-300 font-semibold\">반도체</span> <span class=\"text-rose-400 font-medium\">조정</span> 장기화 우려와 <span class=\"text-violet-300 font-medium\">중동</span> 미-<span class=\"text-violet-300 font-medium\">이란</span> 물리 충돌 에스컬레이션 <span class=\"text-rose-400 font-medium\">리스크</span>가 겹치며, 코스피 지수가 횡보 기조 속에 매수 공백 상태를 맞이한 어제 시황 분석과 하반기 변동성 방어 대책을 요약합니다.",
     "key_claims": [
       "외국인이 현물은 소폭 매수하나 코스피200 선물을 기계적으로 대량 매도하여 기관의 프로그램 매도를 지속 유발함.",
-      "중동 리스크에 따른 해운/원유 공급 불안이 금리 인하 기대 경로를 계속 교란하고 있음."
+      "<span class=\"text-violet-300 font-medium\">중동</span> <span class=\"text-rose-400 font-medium\">리스크</span>에 따른 해운/원유 공급 불안이 <span class=\"text-amber-300 font-bold\">금리 인하</span> 기대 경로를 계속 교란하고 있음."
     ],
     "data_points": [
       "코스피 지수 하락 마감 수치: 전일 대비 -0.42% 횡보 기록",
@@ -24,7 +24,7 @@
       "HMM"
     ],
     "insight": "선물과 현물의 아비트라지 물량이 지수 상단을 막고 있는 수급의 답답한 터널 구간입니다. 이럴 때는 섣부른 지수 레버리지보다 개별 실적주로 버티는 것이 상책입니다.",
-    "action_point": "예수금을 안전하게 지키며, 중동 긴장 수혜주인 해운 및 LNG 방산 특수선 섹터를 제외하고는 포트폴리오의 불필요한 잦은 거래를 정지합니다."
+    "action_point": "예수금을 안전하게 지키며, <span class=\"text-violet-300 font-medium\">중동</span> 긴장 수혜주인 해운 및 LNG 방산 특수선 섹터를 제외하고는 포트폴리오의 불필요한 잦은 거래를 정지합니다."
   },
   "classification": {
     "primary_topic": "stock",

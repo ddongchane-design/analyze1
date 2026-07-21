@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/onr-XSRe3PI/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "1. 글로벌 가상자산 거래소 바이비트가 백드 에셋(Backed Asset)과 협업하여 스페이스X의 상장 전 주가 익스포저를 제공하는 <span class=\"text-cyan-300 font-semibold\">프리 IPO 추종 토큰(X스톡)</span> 청약을 출시했습니다.\n2. 본 상품은 100% 실물 주식 1:1 담보 매칭이 아닌 현금성 자산을 믹스한 <span class=\"text-violet-300 font-medium\">구조화 채무 증서(Tracker Certificate)</span> 형태로 의결권 등 실제 주주 권리는 보장되지 않습니다.\n3. 전통 비상장 주식 투자의 진입 장벽을 낮춘 혁신이나, 비상장 특성상의 단일 오라클 가격 의존과 얕은 유동성으로 인한 <span class=\"text-rose-400 font-medium\">가격 괴리/청산 리스크</span>가 존재합니다.",
+    "summary": "1. 글로벌 가상자산 거래소 바이비트가 백드 에셋(Backed Asset)과 협업하여 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 상장 전 주가 익스포저를 제공하는 프리 IPO 추종 토큰(X스톡) 청약을 출시했습니다.\n2. 본 상품은 100% 실물 주식 1:1 담보 매칭이 아닌 현금성 자산을 믹스한 구조화 채무 증서(Tracker Certificate) 형태로 의결권 등 실제 주주 권리는 보장되지 않습니다.\n3. 전통 비상장 주식 투자의 진입 장벽을 낮춘 혁신이나, 비상장 특성상의 단일 오라클 가격 의존과 얕은 유동성으로 인한 가격 괴리/<span class=\"text-rose-400 font-medium\">청산</span> <span class=\"text-rose-400 font-medium\">리스크</span>가 존재합니다.",
     "key_claims": [
-      "글로벌 블록체인 거래소들이 RWA(실물자산 토큰화) 기술을 이용해 비상장 주식에 대한 <span class=\"text-cyan-300 font-semibold\">개인 리테일 접근성</span>을 빠르게 확대하고 있습니다.",
-      "토큰화 주식 RWA 시장 규모는 올해 초 22억 달러에서 6개월 만에 <span class=\"text-cyan-300 font-semibold\">145% 급성장</span>하며 RWA 섹터 내 핵심으로 부상했습니다.",
-      "미국 CFTC/SEC 규제권 밖의 거래소 합성 자산은 기초 주식과의 큰 시세 이격이 발생해도 법적인 <span class=\"text-rose-400 font-medium\">투자자 보호 장치</span>를 받기 어렵습니다."
+      "글로벌 블록체인 거래소들이 RWA(실물자산 토큰화) 기술을 이용해 비상장 주식에 대한 개인 리테일 접근성을 빠르게 확대하고 있습니다.",
+      "토큰화 주식 RWA 시장 규모는 올해 초 22억 달러에서 6개월 만에 145% 급성장하며 RWA 섹터 내 핵심으로 부상했습니다.",
+      "미국 CFTC/SEC 규제권 밖의 거래소 합성 자산은 기초 주식과의 큰 시세 이격이 발생해도 법적인 투자자 보호 장치를 받기 어렵습니다."
     ],
     "data_points": [
       "바이비트 스페이스X 프리 IPO 토큰 청약 개시 (최소 투자 금액 100달러, USDC 기준)",
@@ -21,7 +21,7 @@
     ],
     "signal": "neutral",
     "signal_confidence": "high",
-    "signal_reason": "전통 비상장 투자 장벽 해소 측면은 긍정적이나, 의결권이 없고 발행사(백드 에셋)의 신용도 및 비상장 주식 시세 괴리율, 거래소의 CS 미비 우려 등 리스크 요인이 많아 경계가 필요합니다.",
+    "signal_reason": "전통 비상장 투자 장벽 해소 측면은 긍정적이나, 의결권이 없고 발행사(백드 에셋)의 신용도 및 비상장 주식 시세 괴리율, 거래소의 CS 미비 우려 등 <span class=\"text-rose-400 font-medium\">리스크</span> 요인이 많아 경계가 필요합니다.",
     "key_companies": [
       "바이비트",
       "백드에셋(Backed)",
@@ -29,8 +29,8 @@
       "앤스로픽",
       "크라켄"
     ],
-    "insight": "스페이스X RWA 토큰 상품은 SPV를 통한 지분 직접 양도가 아니므로 비상장사의 양도 금지 조항(Transfer restrictions) 규제를 회회하는 영리한 우회 전술입니다. 그러나 제도권 밖의 유동성이 얕은 합성 자산 시장은 호재/악재 시점에 극단적인 청산 스퀴즈가 발생할 수 있음을 보여줍니다.",
-    "action_point": "소액으로 스페이스X 상장 모멘텀에 올라타는 용도로는 고려해 볼 수 있으나, 거래소 오라클 왜곡으로 인한 강제 청산 리스크가 있으므로 레버리지 활용이나 고액 투자는 극히 삼가야 합니다."
+    "insight": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span> RWA 토큰 상품은 SPV를 통한 지분 직접 양도가 아니므로 비상장사의 양도 금지 조항(Transfer restrictions) 규제를 회회하는 영리한 우회 전술입니다. 그러나 제도권 밖의 유동성이 얕은 합성 자산 시장은 호재/악재 시점에 극단적인 <span class=\"text-rose-400 font-medium\">청산</span> 스퀴즈가 발생할 수 있음을 보여줍니다.",
+    "action_point": "소액으로 <span class=\"text-cyan-300 font-semibold\">스페이스X</span> 상장 모멘텀에 올라타는 용도로는 고려해 볼 수 있으나, 거래소 오라클 왜곡으로 인한 강제 <span class=\"text-rose-400 font-medium\">청산</span> <span class=\"text-rose-400 font-medium\">리스크</span>가 있으므로 레버리지 활용이나 고액 투자는 극히 삼가야 합니다."
   },
   "classification": {
     "primary_topic": "crypto",

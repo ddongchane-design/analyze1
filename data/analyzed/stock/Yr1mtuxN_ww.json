@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/Yr1mtuxN_ww/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "최근 반도체 주가의 급락은 AI 사이클의 정점이나 <span class=\"text-rose-400 font-medium\">버블 붕괴</span>가 아니라, 그동안 누적된 수급 쏠림 현상과 마이크론 실적 경계감이 트리거가 된 건강한 조정입니다. 중국산 오픈 웨이트 모델의 약진으로 인해 AI 토큰 단가가 급락하며 빅테크의 수익성에 의문이 제기되었으나, 하이퍼스케일러들의 <span class=\"text-cyan-300 font-semibold\">설비투자(CapEx) 계획</span>은 여전히 꺾이지 않고 탄탄하게 유지되고 있습니다. S&P 500 신고가 경신에도 이익 전망이 빠르게 상향되며 주가수익비율(PER)은 오히려 1월보다 낮아졌습니다.",
+    "summary": "최근 <span class=\"text-cyan-300 font-semibold\">반도체</span> 주가의 <span class=\"text-rose-400 font-medium\">급락</span>은 AI 사이클의 정점이나 버블 붕괴가 아니라, 그동안 누적된 수급 쏠림 현상과 마이크론 실적 경계감이 트리거가 된 건강한 <span class=\"text-rose-400 font-medium\">조정</span>입니다. <span class=\"text-violet-300 font-medium\">중국</span>산 오픈 웨이트 모델의 약진으로 인해 AI 토큰 단가가 <span class=\"text-rose-400 font-medium\">급락</span>하며 빅테크의 수익성에 의문이 제기되었으나, 하이퍼스케일러들의 설비투자(CapEx) 계획은 여전히 꺾이지 않고 탄탄하게 유지되고 있습니다. S&P 500 신고가 경신에도 이익 전망이 빠르게 상향되며 주가수익비율(PER)은 오히려 1월보다 낮아졌습니다.",
     "key_claims": [
-      "최근 반도체 주가의 급락은 AI 사이클의 정점이나 버블 붕괴가 아니라, 그동안 누적된 수급 쏠림 현상과 마이크론 실적 경계감이 트리거가 된 건강한 조정이다.",
-      "중국산 오픈 웨이트 모델의 유입 등으로 인해 AI 토큰 단가가 하락하며 빅테크의 수익성에 의문이 제기되었으나, 하이퍼스케일러들의 설비투자(CapEx) 계획은 전혀 꺾이지 않았다.",
+      "최근 <span class=\"text-cyan-300 font-semibold\">반도체</span> 주가의 <span class=\"text-rose-400 font-medium\">급락</span>은 AI 사이클의 정점이나 버블 붕괴가 아니라, 그동안 누적된 수급 쏠림 현상과 마이크론 실적 경계감이 트리거가 된 건강한 <span class=\"text-rose-400 font-medium\">조정</span>이다.",
+      "<span class=\"text-violet-300 font-medium\">중국</span>산 오픈 웨이트 모델의 유입 등으로 인해 AI 토큰 단가가 하락하며 빅테크의 수익성에 의문이 제기되었으나, 하이퍼스케일러들의 설비투자(CapEx) 계획은 전혀 꺾이지 않았다.",
       "S&P 500이 신고가를 경신했음에도 불구하고 기업들의 이익 전망이 동반 상향되면서 주가수익비율(PER)은 오히려 1월보다 낮아진 상태로 버블과 거리가 멀다."
     ],
     "data_points": [
@@ -25,7 +25,7 @@
       "마이크론"
     ],
     "insight": "AI 토큰 단가 하락과 수익성 회의론(딥시크 모먼트 등)이 단기적인 주가 하락의 핑계가 되었으나, 실제 빅테크들의 인프라 지출(CapEx) 의지는 강력하게 유지되고 있습니다. 기업 이익이 주가보다 빠르게 올라와 밸류에이션 부담이 오히려 낮아졌으므로, 단기 변동성은 거품 붕괴의 전조가 아닌 쏠림 매물의 해소 과정으로 이해해야 합니다.",
-    "action_point": "버블 붕괴 공포에 휩쓸려 반도체 주식을 투매하기보다는, <span class=\"text-cyan-300 font-semibold\">실질 자본 지출(CapEx)의 강세</span>와 낮아진 <span class=\"text-amber-300 font-bold\">선행 PER 밸류에이션</span>을 기회로 삼아 주도주를 분할 매수하는 관점이 타당합니다."
+    "action_point": "버블 붕괴 공포에 휩쓸려 <span class=\"text-cyan-300 font-semibold\">반도체</span> 주식을 투매하기보다는, 실질 자본 지출(CapEx)의 강세와 낮아진 선행 PER 밸류에이션을 기회로 삼아 주도주를 분할 매수하는 관점이 타당합니다."
   },
   "classification": {
     "primary_topic": "stock",

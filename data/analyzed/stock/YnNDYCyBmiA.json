@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/YnNDYCyBmiA/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "주말 간 해외 시장에서 한국 반도체 ADR이 <span class=\"text-rose-400 font-medium\">급락(-10%~-20%)</span>하며 월요일 국내 증시 및 글로벌 증시의 연쇄 조정 우려가 고조됨.\n과거 닷컴 버블 및 금융 위기 당시와의 <span class=\"text-rose-400 font-medium\">프랙탈 차트 유사성</span>이 제기되며 단기 하락 경고가 나오나, 차트의 인위적 짜맞추기 성격도 감안해야 함.\n미 대선 후보 트럼프는 국부 펀드를 통해 AI 기업의 지분을 확보하고 국민에게 배당하는 등 <span class=\"text-cyan-300 font-semibold\">AI 국가 전략화</span> 및 산업 지지를 구상 중임.",
+    "summary": "주말 간 해외 시장에서 한국 <span class=\"text-cyan-300 font-semibold\">반도체</span> ADR이 <span class=\"text-rose-400 font-medium\">급락</span>(-10%~-20%)하며 월요일 국내 증시 및 글로벌 증시의 연쇄 <span class=\"text-rose-400 font-medium\">조정</span> 우려가 고조됨.\n과거 닷컴 버블 및 금융 위기 당시와의 프랙탈 차트 유사성이 제기되며 단기 하락 경고가 나오나, 차트의 인위적 짜맞추기 성격도 감안해야 함.\n미 대선 후보 트럼프는 국부 펀드를 통해 AI 기업의 지분을 확보하고 국민에게 배당하는 등 AI 국가 전략화 및 산업 지지를 구상 중임.",
     "key_claims": [
-      "삼성전자와 SK하이닉스 해외DR 급락이 월요일 코스피 폭락으로 이어지고, 이것이 다시 미국 증시 하락을 자극하는 <span class=\"text-rose-400 font-medium\">악순환의 고리</span>가 나타날 수 있음.",
-      "현재 미국 경제성장(GDP)의 핵심 동력은 <span class=\"text-cyan-300 font-semibold\">AI 하드웨어 및 인프라 투자</span>이므로 중장기 성장 추세 자체가 무너진 것은 아님.",
-      "골드만삭스 분석에 따르면 시장의 AI 포지션 쏠림이 과도하지 않아 대기 매수 자금이 존재하며, 이번 급락은 <span class=\"text-amber-300 font-bold\">저가 매수(Buy the dip)</span> 기회일 수 있음."
+      "<span class=\"text-cyan-300 font-semibold\">삼성전자</span>와 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 해외DR <span class=\"text-rose-400 font-medium\">급락</span>이 월요일 코스피 폭락으로 이어지고, 이것이 다시 미국 증시 하락을 자극하는 악순환의 고리가 나타날 수 있음.",
+      "현재 미국 경제성장(GDP)의 핵심 동력은 AI 하드웨어 및 인프라 투자이므로 중장기 성장 추세 자체가 무너진 것은 아님.",
+      "골드만삭스 분석에 따르면 시장의 AI 포지션 쏠림이 과도하지 않아 대기 매수 자금이 존재하며, 이번 <span class=\"text-rose-400 font-medium\">급락</span>은 저가 매수(Buy the dip) 기회일 수 있음."
     ],
     "data_points": [
       "프랑크푸르트 상장 SK하이닉스 DR 약 -20% 기록 (거래량 협소 감안 필요)",
@@ -20,15 +20,15 @@
       "골드만삭스 복합 투자 심리 게이지 0.2 수준 (쏠림이 심하지 않음)"
     ],
     "signal": "neutral",
-    "signal_reason": "해외DR 폭락으로 인한 월요일 국내 증시의 <span class=\"text-rose-400 font-medium\">단기 충격</span>이 불가피하나, 골드만삭스가 제시한 낮은 시장 쏠림도와 트럼프 행정부의 중장기 <span class=\"text-cyan-300 font-semibold\">AI 산업 보증</span> 의지는 중장기 하방을 지지함.",
+    "signal_reason": "해외DR 폭락으로 인한 월요일 국내 증시의 단기 충격이 불가피하나, 골드만삭스가 제시한 낮은 시장 쏠림도와 트럼프 행정부의 중장기 AI 산업 보증 의지는 중장기 하방을 지지함.",
     "key_companies": [
       "삼성전자",
       "SK하이닉스",
       "골드만삭스",
       "오픈AI"
     ],
-    "insight": "최근 시장은 반도체 주도의 기술적 폭락 조짐을 보이고 있으나, 과거 닷컴 버블과 달리 현재의 AI 투자는 실제 인프라 건설과 미국 GDP 성장의 실질적 알파를 창출하고 있음. 특히 차기 미 행정부(트럼프)가 AI를 <span class=\"text-cyan-300 font-semibold\">국가 전략적 인프라</span>이자 국부 창출의 도구로 삼아 강하게 뒷받침할 가능성이 높기 때문에, 기술적 조정 국면은 오히려 주도주를 매수하는 <span class=\"text-amber-300 font-bold\">전략적 분할 매수 기회</span>로 전환될 가능성이 큼.",
-    "action_point": "월요일 코스피 반도체 투톱의 시초가 충격을 확인한 후 감정적 투매를 자제하고, <span class=\"text-rose-400 font-medium\">글로벌 반도체 지수의 추세선 이탈 여부</span>를 모니터링하며 분할 매수 관점으로 접근하되, <span class=\"text-cyan-300 font-semibold\">트럼프의 AI 국유화 및 배당 구상</span>과 같은 규제/정책 변화를 주시해야 함."
+    "insight": "최근 시장은 <span class=\"text-cyan-300 font-semibold\">반도체</span> 주도의 기술적 폭락 조짐을 보이고 있으나, 과거 닷컴 버블과 달리 현재의 AI 투자는 실제 인프라 건설과 미국 GDP 성장의 실질적 알파를 창출하고 있음. 특히 차기 미 행정부(트럼프)가 AI를 국가 전략적 인프라이자 국부 창출의 도구로 삼아 강하게 뒷받침할 가능성이 높기 때문에, 기술적 <span class=\"text-rose-400 font-medium\">조정</span> 국면은 오히려 주도주를 매수하는 전략적 분할 매수 기회로 전환될 가능성이 큼.",
+    "action_point": "월요일 코스피 <span class=\"text-cyan-300 font-semibold\">반도체</span> 투톱의 시초가 충격을 확인한 후 감정적 투매를 자제하고, 글로벌 <span class=\"text-cyan-300 font-semibold\">반도체</span> 지수의 추세선 이탈 여부를 모니터링하며 분할 매수 관점으로 접근하되, 트럼프의 AI 국유화 및 배당 구상과 같은 규제/정책 변화를 주시해야 함."
   },
   "classification": {
     "primary_topic": "stock",

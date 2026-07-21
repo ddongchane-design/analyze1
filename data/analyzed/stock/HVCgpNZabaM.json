@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/HVCgpNZabaM/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "SK하이닉스의 미국 ADR 가격이 하루 만에 27% 폭등하며 국내 본주와의 가격 격차(괴리율)가 51%에 이른 기형적 수급 현상을 분석합니다. 또한 도널드 트럼프의 호르무즈 해협 관세 부과 철회 선언과 국내 최저임금 타결안을 정리합니다.",
+    "summary": "<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>의 미국 ADR 가격이 하루 만에 27% 폭등하며 국내 본주와의 가격 격차(괴리율)가 51%에 이른 기형적 수급 현상을 분석합니다. 또한 도널드 트럼프의 <span class=\"text-violet-300 font-medium\">호르무즈 해협</span> 관세 부과 철회 선언과 국내 최저임금 타결안을 정리합니다.",
     "key_claims": [
-      "SK하이닉스 나스닥 ADR이 폭등했으나 본주 유입 제한으로 인해 약 50%가 넘는 역사적 괴리율 프리미엄이 형성되어 거래되고 있습니다.",
-      "트럼프 전 대통령이 '호르무즈 관세 20%' 위협을 하루 만에 번복하고, 중동 투자 협정으로 이를 대체하겠다고 밝혀 유가 불안을 잠재웠습니다.",
+      "<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 나스닥 ADR이 폭등했으나 본주 유입 제한으로 인해 약 50%가 넘는 역사적 괴리율 프리미엄이 형성되어 거래되고 있습니다.",
+      "트럼프 전 대통령이 '<span class=\"text-violet-300 font-medium\">호르무즈</span> 관세 20%' 위협을 하루 만에 번복하고, <span class=\"text-violet-300 font-medium\">중동</span> 투자 협정으로 이를 대체하겠다고 밝혀 <span class=\"text-amber-300 font-bold\">유가</span> 불안을 잠재웠습니다.",
       "국내 최저임금위원회는 내년도 최저임금을 1만 700원(3% 성장률 수준)으로 전격 합의 타결했습니다."
     ],
     "data_points": [
@@ -19,13 +19,13 @@
       "내년도 최저임금 확정액: 10,700원 합의 타결"
     ],
     "signal": "bullish",
-    "signal_reason": "트럼프의 호르무즈 관세 철회로 유가 발 인플레이션 공포가 해소되었고, 미국 시장 내 한국 메모리 반도체에 대한 강력한 프리미엄(괴리율 51%) 수요가 확인되었기 때문입니다.",
+    "signal_reason": "트럼프의 <span class=\"text-violet-300 font-medium\">호르무즈</span> 관세 철회로 <span class=\"text-amber-300 font-bold\">유가</span> 발 <span class=\"text-amber-300 font-bold\">인플레이션</span> 공포가 해소되었고, 미국 시장 내 한국 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span>에 대한 강력한 프리미엄(괴리율 51%) 수요가 확인되었기 때문입니다.",
     "key_companies": [
       "SK하이닉스(000660)",
       "삼성전자(005930)"
     ],
     "insight": "미국 시장에서 하이닉스 ADR에 50% 이상의 웃돈(Premium)을 얹어 매수한다는 것은 글로벌 투자자들이 한국 메모리의 독점력을 얼마나 강력하게 신뢰하고 있는지를 뜻합니다. 국내 시장의 단기 폭락은 일시적인 로컬 수급의 왜곡일 뿐입니다.",
-    "action_point": "본주와 ADR 간의 격차는 조만간 좁혀질 것이므로, 현재 과도하게 눌린 국내 SK하이닉스 및 삼성전자 본주를 저가 매수하는 전략이 극도로 유리합니다."
+    "action_point": "본주와 ADR 간의 격차는 조만간 좁혀질 것이므로, 현재 과도하게 눌린 국내 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 및 <span class=\"text-cyan-300 font-semibold\">삼성전자</span> 본주를 저가 매수하는 전략이 극도로 유리합니다."
   },
   "classification": {
     "primary_topic": "stock",

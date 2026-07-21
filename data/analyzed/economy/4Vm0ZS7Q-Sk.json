@@ -8,20 +8,20 @@
     "thumbnail": "https://img.youtube.com/vi/4Vm0ZS7Q-Sk/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "자본주의 구조하에서 물가 상승과 <span class=\"text-amber-300 font-bold\">자산 인플레이션</span>은 자산 보유자에게 유리하게 작용하여 양극화를 심화시킵니다.\n연준 의장의 교체 시점 및 <span class=\"text-violet-300 font-medium\">친트럼프 인사</span>의 임명 여부가 연준의 독립성과 통화정책의 큰 갈림길이 될 전망입니다.\n통화정책의 독립성 훼손 우려 속에서 향후 금리와 물가를 효과적으로 통제할 수 있을지에 대한 시장의 의문이 제기되고 있습니다.",
+    "summary": "자본주의 구조하에서 물가 상승과 자산 <span class=\"text-amber-300 font-bold\">인플레이션</span>은 자산 보유자에게 유리하게 작용하여 양극화를 심화시킵니다.\n연준 의장의 교체 시점 및 친트럼프 인사의 임명 여부가 연준의 독립성과 통화정책의 큰 갈림길이 될 전망입니다.\n통화정책의 독립성 훼손 우려 속에서 향후 금리와 물가를 효과적으로 통제할 수 있을지에 대한 시장의 의문이 제기되고 있습니다.",
     "key_claims": [
-      "자산 인플레이션은 자산가들에게 유리하게 작용하여 사회적 양극화를 더욱 심화시킨다.",
+      "자산 <span class=\"text-amber-300 font-bold\">인플레이션</span>은 자산가들에게 유리하게 작용하여 사회적 양극화를 더욱 심화시킨다.",
       "연준 의장 교체와 연준의 독립성 훼손 가능성은 향후 금리와 물가 경로에 커다란 불확실성을 초래할 것이다."
     ],
     "data_points": [],
     "signal": "bearish",
     "signal_confidence": "medium",
-    "signal_reason": "연준의 독립성 약화 우려와 <span class=\"text-rose-400 font-medium\">자산 인플레이션</span> 심화는 통화정책의 신뢰도를 저하시키고 거시경제적 불안정성을 높이기 때문입니다.",
+    "signal_reason": "연준의 독립성 약화 우려와 자산 <span class=\"text-amber-300 font-bold\">인플레이션</span> 심화는 통화정책의 신뢰도를 저하시키고 거시경제적 불안정성을 높이기 때문입니다.",
     "key_companies": [
       "Federal Reserve"
     ],
-    "insight": "연준의 정치적 독립성 훼손 우려는 <span class=\"text-rose-400 font-medium\">인플레이션 통제 실패</span>로 이어질 수 있으며, 이는 화폐 가치 하락과 실물 자산 가격의 비이성적 폭등을 야기하는 악순환을 유발할 수 있습니다.",
-    "action_point": "연준의 정책적 불확실성에 대응하기 위해 포트폴리오 내 실물 자산 및 <span class=\"text-cyan-300 font-semibold\">금(Gold)</span>, 원자재 등의 인플레이션 헤지 자산 비중을 유지해야 합니다.\n금리 변동성에 취약한 고부채 기업이나 기술주보다는 탄탄한 현금흐름을 가진 방어주 위주의 접근이 유효합니다."
+    "insight": "연준의 정치적 독립성 훼손 우려는 <span class=\"text-amber-300 font-bold\">인플레이션</span> 통제 실패로 이어질 수 있으며, 이는 화폐 가치 하락과 실물 자산 가격의 비이성적 폭등을 야기하는 악순환을 유발할 수 있습니다.",
+    "action_point": "연준의 정책적 불확실성에 대응하기 위해 포트폴리오 내 실물 자산 및 금(Gold), 원자재 등의 <span class=\"text-amber-300 font-bold\">인플레이션</span> 헤지 자산 비중을 유지해야 합니다.\n금리 변동성에 취약한 고부채 기업이나 기술주보다는 탄탄한 현금흐름을 가진 방어주 위주의 접근이 유효합니다."
   },
   "classification": {
     "primary_topic": "economy",

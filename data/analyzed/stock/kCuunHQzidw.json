@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/kCuunHQzidw/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "<span class=\"text-cyan-300 font-semibold\">엔비디아</span>는 칩 판매를 넘어 자사 투자 포트폴리오의 평가 가치 상승(Q1 2026 기준 약 24조 원)으로 대규모 수익을 올리는 투자 펀드형 생태계 강자로 진화했습니다. 스타트업에 투자하면 그 자금이 다시 자사 칩 구매로 이어지는 독특한 '순환 투자(Loop Investment)' 모델을 구축했으나, 이는 AI 수요 둔화 시 <span class=\"text-rose-400 font-medium\">연쇄 붕괴를 초래할 위험 요인</span>으로도 지목됩니다. 미국의 대중 규제로 인한 중국 매출 급감 및 칩 세대교체 단축에 따른 구형 칩의 자산 가치 하락(감가상각 리스크) 등 단기 재무 리스크가 공존하고 있습니다.",
+    "summary": "엔비디아는 칩 판매를 넘어 자사 투자 포트폴리오의 평가 가치 상승(Q1 2026 기준 약 24조 원)으로 대규모 수익을 올리는 투자 펀드형 생태계 강자로 진화했습니다. 스타트업에 투자하면 그 자금이 다시 자사 칩 구매로 이어지는 독특한 '순환 투자(Loop Investment)' 모델을 구축했으나, 이는 AI 수요 둔화 시 연쇄 붕괴를 초래할 <span class=\"text-rose-400 font-medium\">위험</span> 요인으로도 지목됩니다. 미국의 <span class=\"text-violet-300 font-medium\">대중</span> 규제로 인한 <span class=\"text-violet-300 font-medium\">중국</span> 매출 급감 및 칩 세대교체 단축에 따른 구형 칩의 자산 가치 하락(감가상각 <span class=\"text-rose-400 font-medium\">리스크</span>) 등 단기 재무 <span class=\"text-rose-400 font-medium\">리스크</span>가 공존하고 있습니다.",
     "key_claims": [
       "엔비디아는 AI 스타트업(오픈AI, 네오클라우드 등)에 자금을 공급하고 자사 칩을 사게 만드는 순환 투자로 견고한 매출 고리를 형성하고 있다.",
-      "독과점 칩 성능 자체보다 20년 동안 구축한 400만 AI 개발자의 <span class=\"text-cyan-300 font-semibold\">쿠다(CUDA) 소프트웨어 해자</span>가 엔비디아의 진짜 경쟁력이다.",
-      "엔비디아의 칩 공급망은 대만 <span class=\"text-violet-300 font-medium\">TSMC의 독점 생산 리스크</span>와 한국(하이닉스/삼성)의 HBM 메모리 공급선에 완전히 종속되어 있다."
+      "독과점 칩 성능 자체보다 20년 동안 구축한 400만 AI 개발자의 쿠다(CUDA) 소프트웨어 해자가 엔비디아의 진짜 경쟁력이다.",
+      "엔비디아의 칩 공급망은 대만 <span class=\"text-cyan-300 font-semibold\">TSMC</span>의 독점 생산 <span class=\"text-rose-400 font-medium\">리스크</span>와 한국(하이닉스/삼성)의 <span class=\"text-cyan-300 font-semibold\">HBM</span> 메모리 공급선에 완전히 종속되어 있다."
     ],
     "data_points": [
       "Q1 2026 엔비디아 비칩 부문 투자 평가이익 159억 달러(약 24조 원)",
@@ -23,7 +23,7 @@
     ],
     "signal": "bullish",
     "signal_confidence": "high",
-    "signal_reason": "단기적인 AI 버블 논란과 중국 매출 급감에도 불구하고, <span class=\"text-cyan-300 font-semibold\">쿠다(CUDA) 소프트웨어 생태계 장벽</span>이 확고하며 전체 AI 파이의 성장 수혜를 독식하는 구조이기 때문입니다.",
+    "signal_reason": "단기적인 AI 버블 논란과 <span class=\"text-violet-300 font-medium\">중국</span> 매출 급감에도 불구하고, 쿠다(CUDA) 소프트웨어 생태계 장벽이 확고하며 전체 AI 파이의 성장 수혜를 독식하는 구조이기 때문입니다.",
     "key_companies": [
       "엔비디아(NVDA)",
       "오픈AI(OpenAI)",
@@ -32,8 +32,8 @@
       "삼성전자(005930)",
       "코닝(GLW)"
     ],
-    "insight": "엔비디아는 단순한 하드웨어 제조사를 넘어 AI 금융 자본을 회전시키는 생태계의 중앙은행이자 포트폴리오 펀드입니다. 따라서 투자자는 칩 공급 과잉보다 <span class=\"text-cyan-300 font-semibold\">순환 구조의 금융적 연결성</span>과 쿠다의 지배력 유지를 핵심 팩터로 봐야 합니다.",
-    "action_point": "시장 기대치 충족 수준이 낮아지며 단기 주가 흐름은 둔화될 수 있으나, <span class=\"text-cyan-300 font-semibold\">CUDA 생태계 대체 불가성</span>을 감안할 때 조정 시 매수 관점을 유지하고 HBM 공급망 핵심 협력사들의 수혜 강도에 주목해야 합니다."
+    "insight": "엔비디아는 단순한 하드웨어 제조사를 넘어 AI 금융 자본을 회전시키는 생태계의 중앙은행이자 포트폴리오 펀드입니다. 따라서 투자자는 칩 공급 과잉보다 순환 구조의 금융적 연결성과 쿠다의 지배력 유지를 핵심 팩터로 봐야 합니다.",
+    "action_point": "시장 기대치 충족 수준이 낮아지며 단기 주가 흐름은 둔화될 수 있으나, CUDA 생태계 대체 불가성을 감안할 때 <span class=\"text-rose-400 font-medium\">조정</span> 시 매수 관점을 유지하고 <span class=\"text-cyan-300 font-semibold\">HBM</span> 공급망 핵심 협력사들의 수혜 강도에 주목해야 합니다."
   },
   "classification": {
     "primary_topic": "stock",

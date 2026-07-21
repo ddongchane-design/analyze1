@@ -8,25 +8,25 @@
     "thumbnail": "https://img.youtube.com/vi/biZ2uf5H7xM/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "연말 S&P500의 8,100포인트 초강세 낙관론, 중국 딥시크(DeepSeek)의 독자 AI 칩 설계 진입 보도, 그리고 이란에 의한 호르무즈 해협의 민간 상선 피격 재개가 글로벌 해운 및 원자재 시장에 미칠 지정학적 파장을 분석합니다. 지정학적 리스크 심화는 공급망을 자극하여 원자재가 상승 및 선박 운임 상승을 주도할 것입니다.",
+    "summary": "연말 S&P500의 8,100포인트 초강세 낙관론, <span class=\"text-violet-300 font-medium\">중국</span> 딥시크(DeepSeek)의 독자 AI 칩 설계 진입 보도, 그리고 <span class=\"text-violet-300 font-medium\">이란</span>에 의한 <span class=\"text-violet-300 font-medium\">호르무즈 해협</span>의 민간 상선 피격 재개가 글로벌 해운 및 원자재 시장에 미칠 지정학적 파장을 분석합니다. 지정학적 <span class=\"text-rose-400 font-medium\">리스크</span> 심화는 공급망을 자극하여 원자재가 상승 및 선박 운임 상승을 주도할 것입니다.",
     "key_claims": [
       "오펜하이머는 자본 유동성의 기술주 쏠림과 기업 생산성 향상을 근거로 S&P 500 연말 가이던스를 역사적 고점인 8,100으로 상향함.",
-      "중국 딥시크가 미국의 대중 반도체 장벽을 우회하기 위해 자체 아키텍처 기반 AI 가속 칩셋 설계를 개시하여 자립 노선을 개척 중임.",
-      "이란 혁명수비대가 호르무즈 해협을 지나는 민간 유조선 및 상선에 무인 드론 피격을 재개함에 따라 아시아-유럽 해역 해운 운임이 급증세를 맞이함."
+      "<span class=\"text-violet-300 font-medium\">중국</span> 딥시크가 미국의 <span class=\"text-violet-300 font-medium\">대중</span> <span class=\"text-cyan-300 font-semibold\">반도체</span> 장벽을 우회하기 위해 자체 아키텍처 기반 AI 가속 칩셋 설계를 개시하여 자립 노선을 개척 중임.",
+      "<span class=\"text-violet-300 font-medium\">이란</span> 혁명수비대가 <span class=\"text-violet-300 font-medium\">호르무즈 해협</span>을 지나는 민간 유조선 및 상선에 무인 드론 피격을 재개함에 따라 아시아-유럽 해역 해운 운임이 급증세를 맞이함."
     ],
     "data_points": [
       "오펜하이머 가이드: 연말 S&P 500 타겟 8,100 포인트 제시 (업계 최고치)",
       "호르무즈 통행 제한에 따른 상해컨테이너운임지수(SCFI) 급등률: 단기 8.4% 반등"
     ],
     "signal": "neutral",
-    "signal_reason": "글로벌 유동성의 낙관론과 기술 자립 시도는 증시에 호재이나, 호르무즈 해협의 실질 물리 충돌 위기가 전 세계 공급망 비용 인상을 촉발해 물가 둔화 속도를 저해하고 해운 운임 상승을 동시에 자극하기 때문입니다.",
+    "signal_reason": "글로벌 유동성의 낙관론과 기술 자립 시도는 증시에 호재이나, <span class=\"text-violet-300 font-medium\">호르무즈 해협</span>의 실질 물리 충돌 위기가 전 세계 공급망 비용 인상을 촉발해 물가 둔화 속도를 저해하고 해운 운임 상승을 동시에 자극하기 때문입니다.",
     "key_companies": [
       "DeepSeek",
       "Oppenheimer",
       "HMM",
       "한화오션"
     ],
-    "insight": "중동 긴장 재발은 해운/조선업계에 다시 한번 **선박 우회로에 따른 톤마일 상승 및 친환경 고효율 선박 가치 상승**이라는 구조적 모멘텀을 주입합니다. 또한 미 대선 정국과 엮인 이란의 통제 강도는 해상 안보 동맹의 한계를 드높여 특수선 방산 수주전에서의 자주 국방 수요를 견인하게 됩니다.",
+    "insight": "<span class=\"text-violet-300 font-medium\">중동</span> 긴장 재발은 해운/조선업계에 다시 한번 **선박 우회로에 따른 톤마일 상승 및 친환경 고효율 선박 가치 상승**이라는 구조적 모멘텀을 주입합니다. 또한 미 대선 정국과 엮인 <span class=\"text-violet-300 font-medium\">이란</span>의 통제 강도는 해상 안보 동맹의 한계를 드높여 특수선 방산 수주전에서의 자주 국방 수요를 견인하게 됩니다.",
     "action_point": "유조선 및 컨테이너 운임 상승의 수혜를 입는 국적선사(HMM 등) 및 특수선 건조 조선사(한화오션 등)의 주가 하방 지지력을 보며 해운/조선 섹터 비중을 유지 및 관리합니다."
   },
   "classification": {

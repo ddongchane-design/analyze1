@@ -8,24 +8,24 @@
     "thumbnail": "https://img.youtube.com/vi/rLwxMsZ-Xrw/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "서킷 브레이커 발동 등 단기 변동성 우려를 일축하고, 대한민국 반도체 산업의 구조적 모멘텀을 점검함. 정부와 기업이 연계해 10년간 4,700조 원을 투입하는 **대도약 3대 메가 프로젝트**의 세부 전개 방향을 다루고, 7월 10일 예정된 SK하이닉스의 나스닥 ADR 상장이 강력한 글로벌 패시브 수급을 자극할 핵심 기폭제가 될 것임을 강조함.",
+    "summary": "서킷 브레이커 발동 등 단기 변동성 우려를 일축하고, 대한민국 <span class=\"text-cyan-300 font-semibold\">반도체</span> 산업의 구조적 모멘텀을 점검함. 정부와 기업이 연계해 10년간 4,700조 원을 투입하는 **대도약 3대 메가 프로젝트**의 세부 전개 방향을 다루고, 7월 10일 예정된 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>의 나스닥 ADR 상장이 강력한 글로벌 패시브 수급을 자극할 핵심 기폭제가 될 것임을 강조함.",
     "key_claims": [
       "AI 버블 우려, 사스포칼립스, 칩플레이션 등 주기적으로 제기되는 비관론은 결국 이익 펀더멘탈의 성장세에 밀려 해소되었으며 현 업황은 이상무 상태임.",
-      "대한민국 3대 메가 프로젝트(4,700조 투자)는 단순 반도체 증설을 넘어 호남(에너지 백본), 충청(후공정 패키징), 구미(로봇/피지컬 AI)를 융합하는 국가적 퀀텀 점프 계획임.",
-      "SK하이닉스의 미국 나스닥 ADR 상장은 1주당 단가를 1/10 수준으로 낮춘 원화 환산 접근성 제고를 바탕으로 외국인 수급의 대폭 확장을 이끌어냄."
+      "대한민국 3대 메가 프로젝트(4,700조 투자)는 단순 <span class=\"text-cyan-300 font-semibold\">반도체</span> 증설을 넘어 호남(에너지 백본), 충청(후공정 패키징), 구미(로봇/피지컬 AI)를 융합하는 국가적 퀀텀 점프 계획임.",
+      "<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>의 미국 나스닥 ADR 상장은 1주당 단가를 1/10 수준으로 낮춘 원화 환산 접근성 제고를 바탕으로 외국인 수급의 대폭 확장을 이끌어냄."
     ],
     "data_points": [
       "메가 프로젝트 투자 규모: 10년간 삼성전자 약 2,600조 원, SK하이닉스 약 2,100조 원 규모의 대내외 투자 총액 공표",
       "SK하이닉스 ADR 상장 세부 사항: 7월 10일 상장 확정, 보통주 0.1주당 1 ADR 매칭을 통해 접근성 확대, 시가 총액 기준 약 45조~52조 원 상당 규모 수급 연동 예정"
     ],
     "signal": "bullish",
-    "signal_reason": "SK하이닉스의 7월 10일 ADR 상장 모멘텀과 조 단위의 메가 프로젝트 인프라 발주가 본격화되면서 반도체 장비 및 소부장 전반의 국내 수급이 강력하게 개선될 것이기 때문입니다.",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>의 7월 10일 ADR 상장 모멘텀과 조 단위의 메가 프로젝트 인프라 발주가 본격화되면서 <span class=\"text-cyan-300 font-semibold\">반도체</span> 장비 및 소부장 전반의 국내 수급이 강력하게 개선될 것이기 때문입니다.",
     "key_companies": [
       "SK하이닉스(000660)",
       "삼성전자(005930)"
     ],
-    "insight": "삼성전자의 2분기 잠정 실적에서 성과급/파업 충당금 등 일시적 회계 조정으로 영업이익이 7조 원대로 소폭 조정되더라도 이는 일회성 노이즈에 불과합니다. 오히려 하반기 메모리 가격의 지속적인 상승과 함께, <span class=\"text-cyan-300 font-semibold\">SK하이닉스의 ADR 신규 상장</span>에 따른 글로벌 자금 유입은 한국 메모리 업종 전반의 밸류에이션 상향(리레이팅)을 가속화할 것입니다.",
-    "action_point": "7월 7일 삼성전자 잠정 실적 및 7월 10일 하이닉스 ADR 상장 전후의 일시적 매물 출회 구간을 <span class=\"text-cyan-300 font-semibold\">SK하이닉스 및 반도체 후공정 소부장</span> 선도 기업들의 비중 확대 기회로 포착해야 합니다."
+    "insight": "<span class=\"text-cyan-300 font-semibold\">삼성전자</span>의 2분기 잠정 실적에서 성과급/파업 충당금 등 일시적 회계 <span class=\"text-rose-400 font-medium\">조정</span>으로 영업이익이 7조 원대로 소폭 <span class=\"text-rose-400 font-medium\">조정</span>되더라도 이는 일회성 노이즈에 불과합니다. 오히려 하반기 메모리 가격의 지속적인 상승과 함께, <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>의 ADR 신규 상장에 따른 글로벌 자금 유입은 한국 메모리 업종 전반의 밸류에이션 상향(리레이팅)을 가속화할 것입니다.",
+    "action_point": "7월 7일 <span class=\"text-cyan-300 font-semibold\">삼성전자</span> 잠정 실적 및 7월 10일 하이닉스 ADR 상장 전후의 일시적 매물 출회 구간을 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 및 <span class=\"text-cyan-300 font-semibold\">반도체</span> 후공정 소부장 선도 기업들의 비중 확대 기회로 포착해야 합니다."
   },
   "classification": {
     "primary_topic": "stock",

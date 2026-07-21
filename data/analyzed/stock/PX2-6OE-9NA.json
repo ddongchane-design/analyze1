@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/PX2-6OE-9NA/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "코스피 9,000선 돌파에도 불구하고 포모(FOMO)를 느끼는 투자자가 증가하는 가운데, 연간 9,200억 달러 규모의 <span class=\"text-cyan-300 font-semibold\">빅테크 CapEx 투자</span>라는 거대한 메가트렌드 파도에 포트폴리오를 안착시키는 전략이 유효함.\n10대 자녀 계좌의 상반기 수익률이 1위를 기록한 원인은 비밀번호 망각 등에 따른 잦은 매매 배제와 장기 관점의 <span class=\"text-amber-300 font-bold\">시대 주도 대형주 장기보유</span> 효과임.\n국내 반도체 대형주는 대만 TSMC 대비 시총 대비 영업이익 기여도가 높아 여전히 <span class=\"text-cyan-300 font-semibold\">선행 P/E 5~6배</span> 수준의 현격한 저평가 상태임.",
+    "summary": "코스피 9,000선 돌파에도 불구하고 포모(FOMO)를 느끼는 투자자가 증가하는 가운데, 연간 9,200억 달러 규모의 빅테크 CapEx 투자라는 거대한 메가트렌드 파도에 포트폴리오를 안착시키는 전략이 유효함.\n10대 자녀 계좌의 상반기 수익률이 1위를 기록한 원인은 비밀번호 망각 등에 따른 잦은 매매 배제와 장기 관점의 시대 주도 대형주 장기보유 효과임.\n국내 <span class=\"text-cyan-300 font-semibold\">반도체</span> 대형주는 대만 <span class=\"text-cyan-300 font-semibold\">TSMC</span> 대비 시총 대비 영업이익 기여도가 높아 여전히 선행 P/E 5~6배 수준의 현격한 저평가 상태임.",
     "key_claims": [
-      "30대 남성 투자자는 과도한 정보 수집으로 인한 높은 매매 회전율 때문에 상반기 수익률 최하위를 기록하며 <span class=\"text-rose-400 font-medium\">트레이딩 근육 부재</span>의 한계를 보임.",
-      "하반기 IT 하드웨어 쏠림의 숨고르기 국면에서는 AI의 필수 파생 분야인 <span class=\"text-cyan-300 font-semibold\">피지컬 AI(로보틱스)</span> 섹터가 강력한 순환매 주도주로 부각될 것임.",
-      "삼성전자와 SK하이닉스의 시가총액 격차가 30조 원(95% 수준) 이내로 좁혀지며 <span class=\"text-cyan-300 font-semibold\">시총 1위 쟁탈전</span>이 국내 증시의 수급적 메기 효과를 유발함."
+      "30대 남성 투자자는 과도한 정보 수집으로 인한 높은 매매 회전율 때문에 상반기 수익률 최하위를 기록하며 트레이딩 근육 부재의 한계를 보임.",
+      "하반기 IT 하드웨어 쏠림의 숨고르기 국면에서는 AI의 필수 파생 분야인 피지컬 AI(로보틱스) 섹터가 강력한 순환매 주도주로 부각될 것임.",
+      "<span class=\"text-cyan-300 font-semibold\">삼성전자</span>와 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>의 시가총액 격차가 30조 원(95% 수준) 이내로 좁혀지며 시총 1위 쟁탈전이 국내 증시의 수급적 메기 효과를 유발함."
     ],
     "data_points": [
       "코스피 상반기 돌파 지수: 9,000 포인트",
@@ -21,14 +21,14 @@
       "삼성전자 및 SK하이닉스의 코스피 전체 영업이익 기여 비율: 71% (시총 비중은 50%)"
     ],
     "signal": "bullish",
-    "signal_reason": "연간 1,300조 원의 글로벌 빅테크 CapEx 유입과 반도체 투톱의 PER 5~6배 극심한 저평가 상태, 시총 1위 쟁탈전에 의한 메기 효과가 지수를 뒷받침하기 때문입니다.",
+    "signal_reason": "연간 1,300조 원의 글로벌 빅테크 CapEx 유입과 <span class=\"text-cyan-300 font-semibold\">반도체</span> 투톱의 PER 5~6배 극심한 저평가 상태, 시총 1위 쟁탈전에 의한 메기 효과가 지수를 뒷받침하기 때문입니다.",
     "key_companies": [
       "삼성전자",
       "SK하이닉스",
       "LG전자"
     ],
-    "insight": "단기 지수 급등에 겁먹고 포트폴리오를 다변화하기보다는 대만 TSMC 사례처럼 이익 집중도가 극대화된 국내 반도체 투톱에 장기 투자하는 것이 10대 자녀 계좌의 성공 방식과 일맥상통하며, 다음 수혜는 로봇 분야가 될 것입니다.",
-    "action_point": "잦은 매매를 멈추고 반도체 투톱 비중을 유지하되, 엔비디아와의 협력이 논의되는 LG전자와 현대차 그룹 등 <span class=\"text-cyan-300 font-semibold\">로보틱스 및 피지컬 AI 관련 대형주</span>를 포트폴리오에 선제 편입해야 합니다."
+    "insight": "단기 지수 급등에 겁먹고 포트폴리오를 다변화하기보다는 대만 <span class=\"text-cyan-300 font-semibold\">TSMC</span> 사례처럼 이익 집중도가 극대화된 국내 <span class=\"text-cyan-300 font-semibold\">반도체</span> 투톱에 장기 투자하는 것이 10대 자녀 계좌의 성공 방식과 일맥상통하며, 다음 수혜는 로봇 분야가 될 것입니다.",
+    "action_point": "잦은 매매를 멈추고 <span class=\"text-cyan-300 font-semibold\">반도체</span> 투톱 비중을 유지하되, 엔비디아와의 협력이 논의되는 LG전자와 <span class=\"text-cyan-300 font-semibold\">현대차</span> 그룹 등 로보틱스 및 피지컬 AI 관련 대형주를 포트폴리오에 선제 편입해야 합니다."
   },
   "classification": {
     "primary_topic": "stock",

@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/PmGUOade6Gw/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "AI가 데이터 센터를 넘어 <span class=\"text-cyan-300 font-semibold\">AI 에이전트</span>로 고도화되면서 <span class=\"text-cyan-300 font-semibold\">HBM</span>뿐 아니라 표준 D램 및 <span class=\"text-cyan-300 font-semibold\">랜드 플래시</span> 등 모든 반도체의 심각한 공급 부족을 유발함.\n최첨단 멀티에이전트 구동에 따른 토큰 소모량 급증과 상태 추적 기록 요구로 인해 전통적인 반도체 사이클 이론은 더 이상 유효하지 않음.\n미국 전역의 <span class=\"text-cyan-300 font-semibold\">데이터 센터</span> 건설 열풍 속에 변압기, 전력망뿐만 아니라 배관공·용접공 등 물리적 건설 인력까지 심각한 <span class=\"text-rose-400 font-medium\">건설 및 인력 병목</span>을 겪고 있음.",
+    "summary": "AI가 데이터 센터를 넘어 AI 에이전트로 고도화되면서 <span class=\"text-cyan-300 font-semibold\">HBM</span>뿐 아니라 표준 D램 및 랜드 플래시 등 모든 <span class=\"text-cyan-300 font-semibold\">반도체</span>의 심각한 공급 부족을 유발함.\n최첨단 멀티에이전트 구동에 따른 토큰 소모량 급증과 상태 추적 기록 요구로 인해 전통적인 <span class=\"text-cyan-300 font-semibold\">반도체</span> 사이클 이론은 더 이상 유효하지 않음.\n미국 전역의 데이터 센터 건설 열풍 속에 변압기, 전력망뿐만 아니라 배관공·용접공 등 물리적 건설 인력까지 심각한 건설 및 인력 병목을 겪고 있음.",
     "key_claims": [
       "과거 스마트폰/PC 중심의 전통적 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span> 사이클은 AI 데이터 센터라는 초강력 변수의 등장으로 붕괴함.",
-      "실패율을 낮춘 장시간 장기 태스크 수행(<span class=\"text-amber-300 font-bold\">태스크 타임 호라이즌</span>)이 대세가 되면서 토큰 소모 및 메모리 저장 수요가 비약적으로 증가함.",
+      "실패율을 낮춘 장시간 장기 태스크 수행(태스크 타임 호라이즌)이 대세가 되면서 토큰 소모 및 메모리 저장 수요가 비약적으로 증가함.",
       "빅테크들의 AI 인프라 카팩스(CAPEX) 지출 부담 우려가 존재하지만, 실제로는 임대 수요와 수익성이 강력하여 빠른 자금 회수가 이루어지고 있음."
     ],
     "data_points": [
@@ -24,7 +24,7 @@
     ],
     "signal": "bullish",
     "signal_confidence": "high",
-    "signal_reason": "AI 서비스의 핵심이 챗봇에서 <span class=\"text-cyan-300 font-semibold\">AI 에이전트</span>로 진화함에 따라 온디바이스와 데이터 센터 전 영역에서 반도체 품귀 현상이 고착화되고 있음.",
+    "signal_reason": "AI 서비스의 핵심이 챗봇에서 AI 에이전트로 진화함에 따라 온디바이스와 데이터 센터 전 영역에서 <span class=\"text-cyan-300 font-semibold\">반도체</span> 품귀 현상이 고착화되고 있음.",
     "key_companies": [
       "마이크론(MU)",
       "엔비디아(NVDA)",
@@ -36,7 +36,7 @@
       "구글(GOOGL)",
       "메타(META)"
     ],
-    "insight": "단순한 모델 크기 경쟁을 넘어 멀티에이전트 검증 및 상태 기록과 같은 소프트웨어 구동 메커니즘의 변화가 전체 하드웨어 공급망(반도체, 전력, 노동력)의 <span class=\"text-rose-400 font-medium\">물리적 한계</span>를 앞당기고 있음.",
+    "insight": "단순한 모델 크기 경쟁을 넘어 멀티에이전트 검증 및 상태 기록과 같은 소프트웨어 구동 메커니즘의 변화가 전체 하드웨어 공급망(<span class=\"text-cyan-300 font-semibold\">반도체</span>, 전력, 노동력)의 물리적 한계를 앞당기고 있음.",
     "action_point": "D램 부족 현상으로 중저가 IT 기기 제조사는 퇴출되고 부품 가격 전가가 가능한 독점 빅테크와 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span> 3사에 이익이 집중될 것이므로, 이들 핵심 밸류체인에 집중 투자해야 함."
   },
   "classification": {

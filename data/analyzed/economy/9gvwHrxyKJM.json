@@ -8,24 +8,24 @@
     "thumbnail": "https://img.youtube.com/vi/9gvwHrxyKJM/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "<span class=\"text-amber-300 font-bold\">고금리 환경</span> 속에서도 글로벌 AI 자본 투자가 멈추지 않고 지속되는 이유와 <span class=\"text-violet-300 font-medium\">미중 AI 패권 전쟁</span>의 전략적 중요성을 분석합니다. 과거 연준 중심의 통화 정책에서 벗어나 정부 재정 정책 및 제도 개선을 통한 기업 지원 흐름(트럼프 풋 등)과 새로운 경기 순환 경로를 조명합니다.",
+    "summary": "<span class=\"text-amber-300 font-bold\">고금리</span> 환경 속에서도 글로벌 AI 자본 투자가 멈추지 않고 지속되는 이유와 미중 AI 패권 전쟁의 전략적 중요성을 분석합니다. 과거 연준 중심의 통화 정책에서 벗어나 정부 재정 정책 및 제도 개선을 통한 기업 지원 흐름(트럼프 풋 등)과 새로운 경기 순환 경로를 조명합니다.",
     "key_claims": [
-      "<span class=\"text-violet-300 font-medium\">미국과 중국의 AI 패권 경쟁</span>은 1위 수성을 위해 멈출 수 없는 투자 사이클을 형성하고 있음",
-      "연준의 긴축 정책 장기화에도 불구하고 미래 성장성에 대한 높은 기대감으로 인해 <span class=\"text-cyan-300 font-semibold\">AI 산업으로의 자본 유입</span>이 지속됨",
-      "고금리 부담을 완화하기 위해 향후 연준의 통화 완화보다 정부의 강력한 <span class=\"text-amber-300 font-bold\">재정 확장 및 규제 완화(정책적 부양)</span>가 주도적 역할을 할 가능성이 높음"
+      "미국과 <span class=\"text-violet-300 font-medium\">중국</span>의 AI 패권 경쟁은 1위 수성을 위해 멈출 수 없는 투자 사이클을 형성하고 있음",
+      "연준의 긴축 정책 장기화에도 불구하고 미래 성장성에 대한 높은 기대감으로 인해 AI 산업으로의 자본 유입이 지속됨",
+      "<span class=\"text-amber-300 font-bold\">고금리</span> 부담을 완화하기 위해 향후 연준의 통화 완화보다 정부의 강력한 재정 확장 및 규제 완화(정책적 부양)가 주도적 역할을 할 가능성이 높음"
     ],
     "data_points": [
       "미국 AI 시장 1위 고수 및 중국과의 기술 패권 경쟁 구조",
       "과거 고금리 시기 대비 강력해진 미래 성장 희망으로 인한 경기 방어 현상"
     ],
     "signal": "bullish",
-    "signal_reason": "고금리 리스크보다 <span class=\"text-violet-300 font-medium\">미중 패권 경쟁</span>에 따른 국가적 재정 지원 및 미래 기술 투자 유인이 더 강하게 작용하여 기술주 중심의 성장 사이클이 우상향을 유지하고 있음",
+    "signal_reason": "<span class=\"text-amber-300 font-bold\">고금리</span> <span class=\"text-rose-400 font-medium\">리스크</span>보다 미중 패권 경쟁에 따른 국가적 재정 지원 및 미래 기술 투자 유인이 더 강하게 작용하여 기술주 중심의 성장 사이클이 우상향을 유지하고 있음",
     "key_companies": [
       "Federal Reserve",
       "US Government"
     ],
-    "insight": "현재의 AI 투자는 단순한 기업 간 경쟁이 아닌 <span class=\"text-violet-300 font-medium\">국가 안보 및 기술 패권</span>과 직결된 메가트렌드이며, 이는 <span class=\"text-rose-400 font-medium\">고금리 장기화</span>라는 거시경제적 부담마저 압도하는 전례 없는 성장 동력으로 작용하고 있습니다.",
-    "action_point": "매크로 금리 변동성에 지나치게 위축되기보다는, 정부의 <span class=\"text-cyan-300 font-semibold\">재정 지출 확대 정책</span> 및 기술 안보 수혜주를 중심으로 한 중장기 포트폴리오를 유지하는 것이 바람직합니다."
+    "insight": "현재의 AI 투자는 단순한 기업 간 경쟁이 아닌 국가 안보 및 기술 패권과 직결된 메가트렌드이며, 이는 <span class=\"text-amber-300 font-bold\">고금리 장기화</span>라는 거시경제적 부담마저 압도하는 전례 없는 성장 동력으로 작용하고 있습니다.",
+    "action_point": "매크로 금리 변동성에 지나치게 위축되기보다는, 정부의 재정 지출 확대 정책 및 기술 안보 수혜주를 중심으로 한 중장기 포트폴리오를 유지하는 것이 바람직합니다."
   },
   "classification": {
     "primary_topic": "economy",

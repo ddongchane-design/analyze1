@@ -1,0 +1,41 @@
+{
+  "video": {
+    "id": "CANvagurt5E",
+    "title": "세계에서 중국에만 있다는 암시장",
+    "published": "2026-07-20T11:00:21+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=CANvagurt5E",
+    "thumbnail": "https://img.youtube.com/vi/CANvagurt5E/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-violet-300 font-medium\">중국</span> 내에서 미국 AI 서비스(Anthropic Claude 등) 접속 제한을 우회하기 위해 해외 우회 계정을 공식 가격의 10% 수준으로 재판매하는 '클로드 암시장'이 성행하고 있습니다. 이는 개발자들의 단순 우회 사용을 넘어, 중간 업자들이 <span class=\"text-violet-300 font-medium\">중국</span> 유저들의 입력 쿼리와 답변 데이터를 자사 서버로 수집하고 이를 <span class=\"text-violet-300 font-medium\">중국</span>의 자체 언어 모델 학습에 도용하여 재훈련하는 불법 데이터 탈취 수단으로 기능하고 있어 심각한 데이터 보안 <span class=\"text-rose-400 font-medium\">리스크</span>를 유발합니다.",
+    "key_claims": [
+      "<span class=\"text-violet-300 font-medium\">중국</span>의 중간 대리 업자들이 미국 IP 우회 및 대리 결제를 통해 클로드 접근 권한을 <span class=\"text-violet-300 font-medium\">중국</span> 개발자들에게 정상가의 10% 수준으로 불법 재판매하고 있다.",
+      "유저들은 클로드를 저렴하게 사용한다고 믿지만, 모든 입력값(질문)과 출력값(답변)이 중간 업자의 서버를 경유하게 설계되어 데이터 <span class=\"text-rose-400 font-medium\">유출</span> <span class=\"text-rose-400 font-medium\">리스크</span>가 극도로 높다.",
+      "수집된 고품질 클로드 데이터는 <span class=\"text-violet-300 font-medium\">중국</span>의 신규 거대 언어 모델(LLM)을 학습 및 미세<span class=\"text-rose-400 font-medium\">조정</span>(Fine-tuning)하는 데이터셋으로 무단 활용되고 있다."
+    ],
+    "data_points": [
+      "재판매 가격: 미국 공식 구독 가격의 약 10% 수준으로 도매성 할인 적용 제공."
+    ],
+    "signal": "negative",
+    "signal_reason": "미국 원천 AI 기술의 심각한 IP 무단 탈취와 고품질 데이터의 보안 침해 <span class=\"text-rose-400 font-medium\">리스크</span>를 증명하며, 차후 빅테크들의 API 접근 통제 강화 및 미-중 갈등의 기술 안보 분쟁을 더욱 촉진하는 악재이기 때문입니다.",
+    "key_companies": [
+      "앤트로픽(Anthropic)"
+    ],
+    "insight": "<span class=\"text-violet-300 font-medium\">중국</span>의 우회 접근 시장은 단순한 편법을 넘어 인공지능 모델 학습용 고품질 '합성 데이터(Synthetic Data)'를 편취하기 위한 조직적 인프라로 오용되고 있습니다. 이는 미국 빅테크의 API 보안 설계 수정과 해외 IP 블랙리스트 강화로 이어질 것입니다.",
+    "action_point": "인공지능 API 보안 솔루션 관련 보안 테마와 미-중 기술 제한 조치 확대에 따른 국내외 규제 변화에 주의해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "클로드암시장",
+      "중국우회계정",
+      "데이터수집",
+      "AI학습도용",
+      "API보안"
+    ]
+  }
+}

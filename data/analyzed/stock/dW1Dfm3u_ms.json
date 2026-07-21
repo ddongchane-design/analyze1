@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/dW1Dfm3u_ms/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "미-이란 원유 제재 면제 합의로 호르무즈 해협이 정상화되며 유가가 배럴당 70달러대로 하락하는 등 <span class=\"text-amber-300 font-bold\">인플레이션 하방 압력</span>이 커져 매크로 환경이 개선되고 있음. 반도체 쏠림이 여전한 가운데 마이크론의 실물 실적 확인 대기 장세이며, 애플 CEO 팀 쿡이 반도체 가격의 역사적 급등세를 인정하며 주요 제품의 가격 인상을 시사함.",
+    "summary": "미-<span class=\"text-violet-300 font-medium\">이란</span> 원유 제재 면제 합의로 <span class=\"text-violet-300 font-medium\">호르무즈 해협</span>이 정상화되며 <span class=\"text-amber-300 font-bold\">유가</span>가 배럴당 70달러대로 하락하는 등 <span class=\"text-amber-300 font-bold\">인플레이션</span> 하방 압력이 커져 매크로 환경이 개선되고 있음. <span class=\"text-cyan-300 font-semibold\">반도체</span> 쏠림이 여전한 가운데 마이크론의 실물 실적 확인 대기 장세이며, 애플 CEO 팀 쿡이 <span class=\"text-cyan-300 font-semibold\">반도체</span> 가격의 역사적 급등세를 인정하며 주요 제품의 가격 인상을 시사함.",
     "key_claims": [
-      "호르무즈 해협 재개방 합의로 인해 글로벌 원유 공급 쇼크 및 고물가 리스크가 크게 진정됨.",
-      "애플의 팀 쿡 시오가 지난 6개월간 반도체 칩 가격 급등 폭을 역사상 처음 경험했다고 인정하며, 하반기 IT 기기 판가 인상을 예고함.",
-      "한국 반도체 대표 2사(삼성, 하이닉스)의 올해 연간 합산 영업이익이 코스피 전체의 70%에 달할 정도로 초집중 현상이 나타남."
+      "<span class=\"text-violet-300 font-medium\">호르무즈 해협</span> 재개방 합의로 인해 글로벌 원유 공급 쇼크 및 고물가 <span class=\"text-rose-400 font-medium\">리스크</span>가 크게 진정됨.",
+      "애플의 팀 쿡 시오가 지난 6개월간 <span class=\"text-cyan-300 font-semibold\">반도체</span> 칩 가격 급등 폭을 역사상 처음 경험했다고 인정하며, 하반기 IT 기기 판가 인상을 예고함.",
+      "한국 <span class=\"text-cyan-300 font-semibold\">반도체</span> 대표 2사(삼성, 하이닉스)의 올해 연간 합산 영업이익이 코스피 전체의 70%에 달할 정도로 초집중 현상이 나타남."
     ],
     "data_points": [
       "일본 니케이 225 지수 및 나스닥 상승률: 각각 연초 대비 40% 및 30% 내외 기록",
@@ -20,15 +20,15 @@
       "2026년 코스피 예상 영업이익 합산: 약 943조 원 (그 중 삼성/하이닉스 예상 이익 약 671조 원)"
     ],
     "signal": "bullish",
-    "signal_reason": "에너지 공급 충격 완화(유가 하락)와 인프라 가격 상승을 견디는 세트 메이커(애플 등)의 반도체 고가 수용 기조가 확고하여 반도체 이익 가시성이 극도로 상승했기 때문임.",
+    "signal_reason": "에너지 공급 충격 완화(<span class=\"text-amber-300 font-bold\">유가</span> 하락)와 인프라 가격 상승을 견디는 세트 메이커(애플 등)의 <span class=\"text-cyan-300 font-semibold\">반도체</span> 고가 수용 기조가 확고하여 <span class=\"text-cyan-300 font-semibold\">반도체</span> 이익 가시성이 극도로 상승했기 때문임.",
     "key_companies": [
       "SK하이닉스(000660)",
       "삼성전자(005930)",
       "마이크론(MU)",
       "애플(AAPL)"
     ],
-    "insight": "물가 불안을 가중시켰던 에너지 리스크가 제거되었음에도 금리 지수가 높게 버티는 것은 AI capex 투자 등 자본 수요 자체가 높기 때문이며, 이는 반도체 공급 기업에게는 사상 최대의 실적 수확기를 선사함.",
-    "action_point": "마이크론 실적 발표를 분기점으로 반도체 슈퍼사이클의 지속성에 확신을 가지고, 코스피 지수 쏠림의 핵심인 반도체 대장주 비중을 유지함."
+    "insight": "물가 불안을 가중시켰던 에너지 <span class=\"text-rose-400 font-medium\">리스크</span>가 제거되었음에도 금리 지수가 높게 버티는 것은 AI capex 투자 등 자본 수요 자체가 높기 때문이며, 이는 <span class=\"text-cyan-300 font-semibold\">반도체</span> 공급 기업에게는 사상 최대의 실적 수확기를 선사함.",
+    "action_point": "마이크론 실적 발표를 분기점으로 <span class=\"text-cyan-300 font-semibold\">반도체</span> 슈퍼사이클의 지속성에 확신을 가지고, 코스피 지수 쏠림의 핵심인 <span class=\"text-cyan-300 font-semibold\">반도체</span> 대장주 비중을 유지함."
   },
   "classification": {
     "primary_topic": "stock",

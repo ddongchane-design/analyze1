@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/2Dj09apoVMs/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "미국의 5월 생산자물가지수(PPI) 상승률이 예상을 웃돌았음에도 불구하고, 트럼프 행정부의 미국-이란 평화합의 체결 임박 소식과 유가 급락에 힘입어 <span class=\"text-amber-300 font-bold\">뉴욕 증시가 동반 상승 마감</span>했습니다. 기업 공개를 눈앞에 둔 스페이스X(SpaceX)에 대해 투자은행 제프리스 등은 공모가인 135달러 대비 높은 <span class=\"text-cyan-300 font-semibold\">165달러의 목표주가</span>를 제시하며 첫 커버리지를 개시했습니다. AI 경쟁 심화 속에서 오픈AI가 경쟁력을 확보하기 위해 서비스 가격 인하를 검토 중인 가운데, 뱅크오브아메리카(BofA)가 <span class=\"text-cyan-300 font-semibold\">인텔(INTEL)의 투자 의견을 상향</span>하며 기술주 랠리를 자극했습니다.",
+    "summary": "미국의 5월 생산자물가지수(PPI) 상승률이 예상을 웃돌았음에도 불구하고, 트럼프 행정부의 미국-<span class=\"text-violet-300 font-medium\">이란</span> 평화합의 체결 임박 소식과 <span class=\"text-amber-300 font-bold\">유가</span> <span class=\"text-rose-400 font-medium\">급락</span>에 힘입어 뉴욕 증시가 동반 상승 마감했습니다. 기업 공개를 눈앞에 둔 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>(SpaceX)에 대해 투자은행 제프리스 등은 공모가인 135달러 대비 높은 165달러의 목표주가를 제시하며 첫 커버리지를 개시했습니다. AI 경쟁 심화 속에서 오픈AI가 경쟁력을 확보하기 위해 서비스 가격 인하를 검토 중인 가운데, 뱅크오브아메리카(BofA)가 <span class=\"text-cyan-300 font-semibold\">인텔</span>(INTEL)의 투자 의견을 상향하며 기술주 랠리를 자극했습니다.",
     "key_claims": [
-      "유가 급락과 중동 종전 양해각서(MOU) 타결 소식이 인플레이션 지표 악재보다 더 큰 <span class=\"text-amber-300 font-bold\">투자 심리 회복제</span>로 작용했다.",
-      "스페이스X 상장은 단기적으로 시장의 유동성을 강하게 빨아들이는 요인이 되며, 상장 초기 <span class=\"text-rose-400 font-medium\">극심한 변동성</span>을 보일 것이다.",
-      "오픈AI의 가격 인하 검토는 AI 인프라 확대로 인한 공급 과잉과 <span class=\"text-rose-400 font-medium\">플랫폼 단가 인하 압력(치킨 게임)</span>의 신호탄일 수 있다."
+      "<span class=\"text-amber-300 font-bold\">유가</span> <span class=\"text-rose-400 font-medium\">급락</span>과 <span class=\"text-violet-300 font-medium\">중동</span> 종전 양해각서(MOU) 타결 소식이 <span class=\"text-amber-300 font-bold\">인플레이션</span> 지표 악재보다 더 큰 투자 심리 회복제로 작용했다.",
+      "<span class=\"text-cyan-300 font-semibold\">스페이스X</span> 상장은 단기적으로 시장의 유동성을 강하게 빨아들이는 요인이 되며, 상장 초기 극심한 변동성을 보일 것이다.",
+      "오픈AI의 가격 인하 검토는 AI 인프라 확대로 인한 공급 과잉과 플랫폼 단가 인하 압력(치킨 게임)의 신호탄일 수 있다."
     ],
     "data_points": [
       "미국 5월 PPI 전월 대비 1.1% 상승 (시장 예상치 0.7% 상회)",
@@ -21,7 +21,7 @@
       "오라클 실적 호조에도 대규모 자금 조달 발표로 8.53% 급락"
     ],
     "signal": "bullish",
-    "signal_reason": "지정학적 긴장 완화에 따른 국제유가 하락과 <span class=\"text-cyan-300 font-semibold\">스페이스X IPO 호재</span>, 빅테크 기업들의 강력한 AI 성장 잠재력이 지수 상승을 주도하고 있습니다.",
+    "signal_reason": "지정학적 긴장 완화에 따른 국제<span class=\"text-amber-300 font-bold\">유가</span> 하락과 <span class=\"text-cyan-300 font-semibold\">스페이스X</span> IPO 호재, 빅테크 기업들의 강력한 AI 성장 잠재력이 지수 상승을 주도하고 있습니다.",
     "key_companies": [
       "스페이스X",
       "인텔",
@@ -29,8 +29,8 @@
       "오라클",
       "어도비"
     ],
-    "insight": "PPI 물가 지표 충격을 이겨낸 뉴욕 증시의 상승세는 단순한 지표 의존성을 넘어 <span class=\"text-cyan-300 font-semibold\">지정학적 리스크 해소와 대형 테크 IPO</span>라는 새로운 모멘텀에 시장이 더 민감하게 반응하고 있음을 나타내며, 특히 AI PC 및 CPU 시장으로의 AI 밸류체인 다변화 조짐(인텔 상향)을 눈여겨봐야 합니다.",
-    "action_point": "단기 고평가 논란과 유동성 분산이 예상되는 스페이스X 직접 투자보다는, 하방 압력을 극복하고 투자 의견이 상향된 <span class=\"text-cyan-300 font-semibold\">인텔 등 전통 실적 반도체주</span> 및 AI 서비스 가격 인하 경쟁에 따른 최대 수혜처인 클라우드/인프라 기업에 주목해야 합니다."
+    "insight": "PPI 물가 지표 충격을 이겨낸 뉴욕 증시의 상승세는 단순한 지표 의존성을 넘어 지정학적 <span class=\"text-rose-400 font-medium\">리스크</span> 해소와 대형 테크 IPO라는 새로운 모멘텀에 시장이 더 민감하게 반응하고 있음을 나타내며, 특히 AI PC 및 CPU 시장으로의 AI 밸류체인 다변화 조짐(<span class=\"text-cyan-300 font-semibold\">인텔</span> 상향)을 눈여겨봐야 합니다.",
+    "action_point": "단기 고평가 논란과 유동성 분산이 예상되는 <span class=\"text-cyan-300 font-semibold\">스페이스X</span> 직접 투자보다는, 하방 압력을 극복하고 투자 의견이 상향된 <span class=\"text-cyan-300 font-semibold\">인텔</span> 등 전통 실적 <span class=\"text-cyan-300 font-semibold\">반도체</span>주 및 AI 서비스 가격 인하 경쟁에 따른 최대 수혜처인 클라우드/인프라 기업에 주목해야 합니다."
   },
   "classification": {
     "primary_topic": "stock",

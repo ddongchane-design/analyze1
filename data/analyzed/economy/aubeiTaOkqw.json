@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/aubeiTaOkqw/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "미-이란 간의 지정학적 임시 합의(MOU)가 물꼬를 트며 <span class=\"text-violet-300 font-medium\">호르무즈 해협 재개방</span> 기대로 국제 유가가 배럴당 70달러대로 하락 안착함. 유가의 하향 안정화는 에너지 비용 인플레이션 압력을 차단하여 미국의 <span class=\"text-amber-300 font-bold\">완화적 통화 정책</span>(금리 인하)을 유도하는 강력한 매크로 배경을 제공함. 이에 따라 증시 및 채권 시장에는 '의심 없이 파티를 즐겨라'라는 수준의 유동성 우호적 랠리 국면이 펼쳐질 전망임.",
+    "summary": "미-<span class=\"text-violet-300 font-medium\">이란</span> 간의 지정학적 임시 합의(MOU)가 물꼬를 트며 <span class=\"text-violet-300 font-medium\">호르무즈 해협</span> 재개방 기대로 국제 <span class=\"text-amber-300 font-bold\">유가</span>가 배럴당 70달러대로 하락 안착함. <span class=\"text-amber-300 font-bold\">유가</span>의 하향 안정화는 에너지 비용 <span class=\"text-amber-300 font-bold\">인플레이션</span> 압력을 차단하여 미국의 완화적 통화 정책(<span class=\"text-amber-300 font-bold\">금리 인하</span>)을 유도하는 강력한 매크로 배경을 제공함. 이에 따라 증시 및 채권 시장에는 '의심 없이 파티를 즐겨라'라는 수준의 유동성 우호적 랠리 국면이 펼쳐질 전망임.",
     "key_claims": [
-      "지정학 갈등 봉합으로 유가는 배럴당 60달러선까지 떨어질 것이라는 예측이 들어맞고 있으며, WTI 기준 77달러선이 무저짐.",
-      "공급 측면의 유가 불안 해소는 미 연준의 금리 동결 및 인하 유도를 앞당기는 핵심 지표로 작용할 것임.",
-      "매크로 리스크(유가, 인플레) 완화에 따라 주식 시장은 일시적 조정을 딛고 추가적인 상승 랠리('음란한 상승장')를 이어갈 것임."
+      "지정학 갈등 봉합으로 <span class=\"text-amber-300 font-bold\">유가</span>는 배럴당 60달러선까지 떨어질 것이라는 예측이 들어맞고 있으며, WTI 기준 77달러선이 무저짐.",
+      "공급 측면의 <span class=\"text-amber-300 font-bold\">유가</span> 불안 해소는 미 연준의 금리 동결 및 인하 유도를 앞당기는 핵심 지표로 작용할 것임.",
+      "매크로 <span class=\"text-rose-400 font-medium\">리스크</span>(<span class=\"text-amber-300 font-bold\">유가</span>, 인플레) 완화에 따라 주식 시장은 일시적 <span class=\"text-rose-400 font-medium\">조정</span>을 딛고 추가적인 상승 랠리('음란한 상승장')를 이어갈 것임."
     ],
     "data_points": [
       "국제 유가 하락 수준: WTI 기준 배럴당 77.5달러 (80달러선 붕괴)",
@@ -21,10 +21,10 @@
     ],
     "signal": "bullish",
     "signal_confidence": "high",
-    "signal_reason": "미-이란 종전 타결과 <span class=\"text-violet-300 font-medium\">유가 배럴당 70달러선 붕괴</span>로 인플레이션 우려가 현저히 감소하여 연준의 긴축 강도 완화와 유동성 랠리(금리 하락 및 증시 상승)의 여건이 성숙했기 때문임.",
+    "signal_reason": "미-<span class=\"text-violet-300 font-medium\">이란</span> 종전 타결과 <span class=\"text-amber-300 font-bold\">유가</span> 배럴당 70달러선 붕괴로 <span class=\"text-amber-300 font-bold\">인플레이션</span> 우려가 현저히 감소하여 연준의 긴축 강도 완화와 유동성 랠리(금리 하락 및 증시 상승)의 여건이 성숙했기 때문임.",
     "key_companies": [],
-    "insight": "유가는 전쟁 시 3배 급등한다는 시장의 과도한 공포를 뒤엎고, 지정학적 완화와 미국의 묵인 하에 대량 공급이 이미 유통되고 있었다는 사실이 증명됨. 공급 안정화가 이끄는 디스인플레이션은 기술주 및 성장주의 멀티플을 높여주는 강력한 촉매제 역할을 함.",
-    "action_point": "지정학 불안이 해소되며 유가가 안정화되는 국면이므로 에너지/원자재 인버스 포지션 또는 <span class=\"text-cyan-300 font-semibold\">금리 하락 수혜주</span>(빅테크 및 반도체 장비주)를 적극적으로 매수하는 '롱(Long)' 플레이가 적절함."
+    "insight": "<span class=\"text-amber-300 font-bold\">유가</span>는 전쟁 시 3배 급등한다는 시장의 과도한 공포를 뒤엎고, 지정학적 완화와 미국의 묵인 하에 대량 공급이 이미 유통되고 있었다는 사실이 증명됨. 공급 안정화가 이끄는 디스<span class=\"text-amber-300 font-bold\">인플레이션</span>은 기술주 및 성장주의 멀티플을 높여주는 강력한 촉매제 역할을 함.",
+    "action_point": "지정학 불안이 해소되며 <span class=\"text-amber-300 font-bold\">유가</span>가 안정화되는 국면이므로 에너지/원자재 인버스 포지션 또는 금리 하락 수혜주(빅테크 및 <span class=\"text-cyan-300 font-semibold\">반도체</span> 장비주)를 적극적으로 매수하는 '롱(Long)' 플레이가 적절함."
   },
   "classification": {
     "primary_topic": "economy",

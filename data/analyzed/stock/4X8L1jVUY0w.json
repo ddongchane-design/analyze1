@@ -8,28 +8,38 @@
     "thumbnail": "https://img.youtube.com/vi/4X8L1jVUY0w/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "1년간 원웨이 상승을 지속했던 반도체 대형주(<span class=\"text-cyan-300 font-semibold\">삼성전자, SK하이닉스</span>)의 강세론 일색에서 탈피하여, 하반기 진입을 앞두고 리스크 관리 필요성을 제기하는 <span class=\"text-rose-400 font-medium\">미세한 견해 균열</span>을 분석합니다. 최근 <span class=\"text-cyan-300 font-semibold\">ETF 자금</span>과 레버리지 주식 선물 등 파생 수급이 급증하여 코스닥/코스피의 <span class=\"text-rose-400 font-medium\">장중 변동성 폭증</span>을 유발하는 구조적 원인을 진단합니다. 투자자들의 심리적 대응 한계(10~15% 단기 조정 시 패닉)와 함께, 수수료 구조 차이에서 비롯된 펀드/랩어카운트 등의 장기 퍼포먼스 비교를 다룹니다.",
+    "summary": "1년간 원웨이 상승을 지속했던 <span class=\"text-cyan-300 font-semibold\">반도체</span> 대형주(<span class=\"text-cyan-300 font-semibold\">삼성전자</span>, <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>)의 강세론 일색에서 탈피하여, 하반기 진입을 앞두고 <span class=\"text-rose-400 font-medium\">리스크</span> 관리 필요성을 제기하는 미세한 견해 균열을 분석합니다. 최근 ETF 자금과 레버리지 주식 선물 등 파생 수급이 급증하여 코스닥/코스피의 장중 변동성 폭증을 유발하는 구조적 원인을 진단합니다. 투자자들의 심리적 대응 한계(10~15% 단기 <span class=\"text-rose-400 font-medium\">조정</span> 시 패닉)와 함께, 수수료 구조 차이에서 비롯된 펀드/랩어카운트 등의 장기 퍼포먼스 비교를 다룹니다.",
     "key_claims": [
-      "기존에 학습된 '조정 시 매수' 및 '들고 있으면 버틴다'는 강세장 경험칙이 하반기 <span class=\"text-amber-300 font-bold\">매크로 변동성 심화</span> 국면에서는 작동하지 않을 수 있다.",
-      "프로그램 매매와 연동된 <span class=\"text-cyan-300 font-semibold\">레버리지 ETF 및 주식 선물 회전율</span>의 비정상적 폭증이 지수 왜곡과 단기 급락의 뇌관 역할을 하고 있다.",
-      "증권사 라이선스의 층위가 발행어음이나 IMA(개인종합자산관리계좌) 가능 규모로 재편되면서, 증권업종은 단순 위탁수수료가 아닌 <span class=\"text-cyan-300 font-semibold\">종합 IB 자산 관리 비즈니스</span> 위주로 장기 성장성이 차별화될 것이다."
+      "기존에 학습된 '<span class=\"text-rose-400 font-medium\">조정</span> 시 매수' 및 '들고 있으면 버틴다'는 강세장 경험칙이 하반기 매크로 변동성 심화 국면에서는 작동하지 않을 수 있다.",
+      "프로그램 매매와 연동된 레버리지 ETF 및 주식 선물 회전율의 비정상적 폭증이 지수 왜곡과 단기 <span class=\"text-rose-400 font-medium\">급락</span>의 뇌관 역할을 하고 있다.",
+      "증권사 라이선스의 층위가 발행어음이나 IMA(개인종합자산관리계좌) 가능 규모로 재편되면서, 증권업종은 단순 위탁수수료가 아닌 종합 IB 자산 관리 비즈니스 위주로 장기 성장성이 차별화될 것이다."
     ],
     "data_points": [
       "최근 국내 상장지수펀드(ETF) 시장 내 개인 자금 유입 규모 약 110조 원",
       "전체 ETF 설정액 규모 약 500조 원 돌파"
     ],
     "signal": "neutral",
-    "signal_reason": "반도체의 기조적 강세를 인정하면서도 하반기 매크로 경로 및 기형적 파생 수급으로 인한 단기 조정 변동성에 주의를 당부하는 신중론이 고르게 대립하고 있습니다.",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">반도체</span>의 기조적 강세를 인정하면서도 하반기 매크로 경로 및 기형적 파생 수급으로 인한 단기 <span class=\"text-rose-400 font-medium\">조정</span> 변동성에 주의를 당부하는 신중론이 고르게 대립하고 있습니다.",
     "key_companies": [
       "삼성전자",
       "SK하이닉스"
     ],
-    "insight": "반도체 랠리는 여전히 강력한 펀더멘털을 보장하지만, 지수 선물이 미국 야간 선물과 실시간 연동되며 단기적인 하방 리스크를 이례적으로 확대시키고 있습니다. 개인들의 급격한 <span class=\"text-rose-400 font-medium\">포모(FOMO)성 미수 거래</span>와 기계적인 프로그램 매매가 충돌하는 구간에서는 대세 상승과 무관하게 개인 투자자들이 심리적으로 털리기 쉽기 때문에, 철저히 <span class=\"text-amber-300 font-bold\">분할 매수 원칙</span>과 예약 매매로 대응해야 합니다.",
-    "action_point": "단기 과열된 반도체 소부장이나 장대양봉이 발생한 급등주는 부분적인 <span class=\"text-rose-400 font-medium\">차익 실현(비중 축소)</span>으로 현금 총알을 비축하고, 향후 해외 IB의 레버리지 규제나 수급 청산 등으로 5~10% 이상 하락하는 조정 시점을 기다려 길목 지키기 분할 매수로 접근해야 합니다."
+    "insight": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 랠리는 여전히 강력한 펀더멘털을 보장하지만, 지수 선물이 미국 야간 선물과 실시간 연동되며 단기적인 하방 <span class=\"text-rose-400 font-medium\">리스크</span>를 이례적으로 확대시키고 있습니다. 개인들의 급격한 포모(FOMO)성 미수 거래와 기계적인 프로그램 매매가 충돌하는 구간에서는 대세 상승과 무관하게 개인 투자자들이 심리적으로 털리기 쉽기 때문에, 철저히 분할 매수 원칙과 예약 매매로 대응해야 합니다.",
+    "action_point": "단기 <span class=\"text-rose-400 font-medium\">과열</span>된 <span class=\"text-cyan-300 font-semibold\">반도체</span> 소부장이나 장대양봉이 발생한 급등주는 부분적인 차익 실현(비중 축소)으로 현금 총알을 비축하고, 향후 해외 IB의 레버리지 규제나 수급 <span class=\"text-rose-400 font-medium\">청산</span> 등으로 5~10% 이상 하락하는 <span class=\"text-rose-400 font-medium\">조정</span> 시점을 기다려 길목 지키기 분할 매수로 접근해야 합니다."
   },
   "classification": {
     "primary_topic": "stock",
-    "secondary_topics": ["tech", "economy"],
-    "tags": ["반도체과열논쟁", "삼성전자", "SK하이닉스", "ETF수급", "주식선물", "리스크관리"]
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "반도체과열논쟁",
+      "삼성전자",
+      "SK하이닉스",
+      "ETF수급",
+      "주식선물",
+      "리스크관리"
+    ]
   }
 }

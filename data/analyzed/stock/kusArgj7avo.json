@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/kusArgj7avo/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "SK하이닉스 급락 대비 삼성전자가 주가 하방 경직성을 유지하며 수혜를 보는 이유를 분석하고, 대형 폭락장 속에서 연기금 및 기관들이 조용히 매집하는 핵심 독점 소부장(전공정/후공정 장비) 전략을 소개합니다.",
+    "summary": "<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> <span class=\"text-rose-400 font-medium\">급락</span> 대비 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>가 주가 하방 경직성을 유지하며 수혜를 보는 이유를 분석하고, 대형 폭락장 속에서 연기금 및 기관들이 조용히 매집하는 핵심 독점 소부장(전공정/후공정 장비) 전략을 소개합니다.",
     "key_claims": [
-      "삼성전자는 엔비디아 공급망 다변화 기대로 하이닉스의 HBM LTA 우려 노이즈에서 한발 빗겨나 억울한 하락세의 원상 복구가 빠를 것입니다.",
-      "식각 및 세정 공정 장비의 강자인 PSK, 테스 등은 미국의 비중국화 규제에 대응해 아시아 반도체 공급망 수혜를 입고 있습니다.",
+      "<span class=\"text-cyan-300 font-semibold\">삼성전자</span>는 엔비디아 공급망 다변화 기대로 하이닉스의 <span class=\"text-cyan-300 font-semibold\">HBM</span> LTA 우려 노이즈에서 한발 빗겨나 억울한 하락세의 원상 복구가 빠를 것입니다.",
+      "식각 및 세정 공정 장비의 강자인 PSK, 테스 등은 미국의 비<span class=\"text-violet-300 font-medium\">중국</span>화 규제에 대응해 아시아 <span class=\"text-cyan-300 font-semibold\">반도체</span> 공급망 수혜를 입고 있습니다.",
       "폭락장에서도 기술 해자가 확실한 독점 장비사들은 분할 저가 매수로 대응할 경우 가장 강한 반등 탄력성을 보일 것입니다."
     ],
     "data_points": [
@@ -26,8 +26,8 @@
       "테스(095610)",
       "HPSP"
     ],
-    "insight": "반도체 업황은 대장주들의 고점 논란에도 불구하고, 제조 공정 장비(소부장)들의 국산화 수주 증가로 펀더멘털의 기초가 매우 튼튼합니다. 주가가 눌린 소부장은 확실한 안전자산 대안입니다.",
-    "action_point": "식각 공정 1위 PSK 및 후공정 PSK홀딩스, HPSP 등의 종목이 고점 대비 30% 이상 조정받은 가격대에 도달할 때마다 장기 현금 분할 매수로 비중을 늘려갈 것을 권장합니다."
+    "insight": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 업황은 대장주들의 고점 논란에도 불구하고, 제조 공정 장비(소부장)들의 국산화 수주 증가로 펀더멘털의 기초가 매우 튼튼합니다. 주가가 눌린 소부장은 확실한 안전자산 대안입니다.",
+    "action_point": "식각 공정 1위 PSK 및 후공정 PSK홀딩스, HPSP 등의 종목이 고점 대비 30% 이상 <span class=\"text-rose-400 font-medium\">조정</span>받은 가격대에 도달할 때마다 장기 현금 분할 매수로 비중을 늘려갈 것을 권장합니다."
   },
   "classification": {
     "primary_topic": "stock",

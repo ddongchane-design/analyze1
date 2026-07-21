@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/xeedjSrwklc/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "월가의 대표 강세론자인 톰 리(Tom Lee)가 한국 삼성전자 급락 사태를 두고 '수급 꼬임에 불과하니 절대 겁먹지 말고 매수하라'고 조언한 배경과, 엔비디아의 차세대 H200 AI 가속기 중국 수출 승인 임박 뉴스를 요약합니다.",
+    "summary": "월가의 대표 강세론자인 톰 리(Tom Lee)가 한국 <span class=\"text-cyan-300 font-semibold\">삼성전자</span> <span class=\"text-rose-400 font-medium\">급락</span> 사태를 두고 '수급 꼬임에 불과하니 절대 겁먹지 말고 매수하라'고 조언한 배경과, 엔비디아의 차세대 H200 AI 가속기 <span class=\"text-violet-300 font-medium\">중국</span> 수출 승인 임박 뉴스를 요약합니다.",
     "key_claims": [
-      "톰 리는 전 세계 AI 반도체 쇼티지 수혜가 결국 2인자 삼성전자 퀄 테스트 통과로 번져 하반기 랠리를 장담함.",
-      "엔비디아의 대중 H200 우회 수출 칩 허가는 칩 부족 압박을 겪는 중국 텐센트/바이두향 장기 오더로 이어짐."
+      "톰 리는 전 세계 <span class=\"text-cyan-300 font-semibold\">AI 반도체</span> 쇼티지 수혜가 결국 2인자 <span class=\"text-cyan-300 font-semibold\">삼성전자</span> 퀄 테스트 통과로 번져 하반기 랠리를 장담함.",
+      "엔비디아의 <span class=\"text-violet-300 font-medium\">대중</span> H200 우회 수출 칩 허가는 칩 부족 압박을 겪는 <span class=\"text-violet-300 font-medium\">중국</span> 텐센트/바이두향 장기 오더로 이어짐."
     ],
     "data_points": [
       "톰 리 제시 코스피 하반기 반등 타겟: 현 지점 대비 +18% 이상 강세 회복 전망",
@@ -23,8 +23,8 @@
       "Nvidia",
       "Samsung Electronics"
     ],
-    "insight": "톰 리의 말대로 실적 성장이 보장된 1등 반도체의 일시적 수급 급락은 공포가 아닌 축복입니다. 대중 규제 완화 기류는 추가 랠리를 지탱합니다.",
-    "action_point": "외인 이탈 노이즈로 약세를 보인 반도체 대형주 중심의 분할 매수 한도를 복원하여 공격적 적립을 지속합니다."
+    "insight": "톰 리의 말대로 실적 성장이 보장된 1등 <span class=\"text-cyan-300 font-semibold\">반도체</span>의 일시적 수급 <span class=\"text-rose-400 font-medium\">급락</span>은 공포가 아닌 축복입니다. <span class=\"text-violet-300 font-medium\">대중</span> 규제 완화 기류는 추가 랠리를 지탱합니다.",
+    "action_point": "외인 이탈 노이즈로 약세를 보인 <span class=\"text-cyan-300 font-semibold\">반도체</span> 대형주 중심의 분할 매수 한도를 복원하여 공격적 적립을 지속합니다."
   },
   "classification": {
     "primary_topic": "stock",

@@ -8,24 +8,24 @@
     "thumbnail": "https://img.youtube.com/vi/hK0cTLfimZA/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "코스피 지수가 보통주 시총 1위 역전 노이즈와 반기 말 리밸런싱 매물, 여기에 금융당국의 <span class=\"text-rose-400 font-medium\">레버리지 ETF 규제안 및 금투세 노이즈</span>가 겹쳐 역사적인 급락세를 기록함. 그러나 삼성전자의 HBM4 분기 실적 10억 달러 돌파 및 연말 100억 달러 예상 등 기초 실적 펀더멘탈은 압도적이므로, 이번 조정을 주도주에 대한 강력한 바겐세일 매수 기회로 삼는 역발상이 유효함.",
+    "summary": "코스피 지수가 보통주 시총 1위 역전 노이즈와 반기 말 리밸런싱 매물, 여기에 금융당국의 레버리지 ETF 규제안 및 금투세 노이즈가 겹쳐 역사적인 <span class=\"text-rose-400 font-medium\">급락세</span>를 기록함. 그러나 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>의 <span class=\"text-cyan-300 font-semibold\">HBM</span>4 분기 실적 10억 달러 돌파 및 연말 100억 달러 예상 등 기초 실적 펀더멘탈은 압도적이므로, 이번 <span class=\"text-rose-400 font-medium\">조정</span>을 주도주에 대한 강력한 바겐세일 매수 기회로 삼는 역발상이 유효함.",
     "key_claims": [
       "금리 인상 공포 및 ETF 규제 논란이 개인/기관 투심을 자극해 지수 패시브 자금의 투매성 매도세를 불러일으킴.",
-      "미국 빅테크의 차익 조정 핑계로 국내 반도체와 지배구조주까지 과도하게 매도당하는 기계적 디스카운트가 발생함.",
-      "과거 대형 조정기 때마다 낙폭 복구 속도가 가장 신속했던 섹터는 확실한 이익 체력을 입증한 메모리 반도체였음."
+      "미국 빅테크의 차익 <span class=\"text-rose-400 font-medium\">조정</span> 핑계로 국내 <span class=\"text-cyan-300 font-semibold\">반도체</span>와 지배구조주까지 과도하게 매도당하는 기계적 디스카운트가 발생함.",
+      "과거 대형 <span class=\"text-rose-400 font-medium\">조정</span>기 때마다 낙폭 복구 속도가 가장 신속했던 섹터는 확실한 이익 체력을 입증한 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span>였음."
     ],
     "data_points": [
       "삼성전자 HBM4 분기 실적 속보치: 업계 최초 단일 분기 매출 10억 달러 돌파 (연말 누적 100억 달러 달성 목표 제시)"
     ],
     "signal": "bullish",
-    "signal_reason": "일시적인 규제 및 세금 정책 센티멘트 훼손에 따른 수급 폭락일 뿐, HBM4 최초 10억 달러 돌파 등 실질 메모리 반도체의 메가 사이클 마진 증폭 흐름은 이상이 없기 때문임.",
+    "signal_reason": "일시적인 규제 및 세금 정책 센티멘트 훼손에 따른 수급 폭락일 뿐, <span class=\"text-cyan-300 font-semibold\">HBM</span>4 최초 10억 달러 돌파 등 실질 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span>의 메가 사이클 마진 증폭 흐름은 이상이 없기 때문임.",
     "key_companies": [
       "삼성전자(005930)",
       "SK하이닉스(000660)",
       "현대자동차"
     ],
-    "insight": "시장이 공포에 휩쓸려 지수형 패시브 상품(ETF 등)을 무차별 매도할 때, 독보적인 HBM4 매출 및 이익 성장이 확인된 대장주의 가격 갭은 초우량 자산을 헐값에 살 수 있는 절호의 기회를 제공함.",
-    "action_point": "공포에 동조해 패닉셀하지 말고, HBM4 공급 가시성이 열린 삼성전자 및 주도주 SK하이닉스를 중심으로 포트폴리오를 압축 재편해 바겐세일 물량을 편입할 것."
+    "insight": "시장이 공포에 휩쓸려 지수형 패시브 상품(ETF 등)을 무차별 매도할 때, 독보적인 <span class=\"text-cyan-300 font-semibold\">HBM</span>4 매출 및 이익 성장이 확인된 대장주의 가격 갭은 초우량 자산을 헐값에 살 수 있는 절호의 기회를 제공함.",
+    "action_point": "공포에 동조해 패닉셀하지 말고, <span class=\"text-cyan-300 font-semibold\">HBM</span>4 공급 가시성이 열린 <span class=\"text-cyan-300 font-semibold\">삼성전자</span> 및 주도주 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>를 중심으로 포트폴리오를 압축 재편해 바겐세일 물량을 편입할 것."
   },
   "classification": {
     "primary_topic": "stock",

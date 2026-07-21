@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/EyejLd5XGeQ/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "트럼프 대통령의 개입으로 미·이란 평화 합의가 완료되어 호르무즈 해협 즉각 무료 통행 및 미 해군 봉쇄 해제가 전격 승인됨.\n스페이스X가 시총 6위(약 2.1조 달러, 종가 160.95달러)로 미국 나스닥/S&P 편입 기대를 모으며 성공적으로 상장함.\n국내 개인 공모주 물량은 전문투자자 자격 제한 및 골드만삭스 주관사 배정 컷오프로 인해 <span class=\"text-rose-400 font-medium\">전액 미배정 환불</span> 처리되어 대형 투자 사태를 촉발함.",
+    "summary": "트럼프 대통령의 개입으로 미·<span class=\"text-violet-300 font-medium\">이란</span> 평화 합의가 완료되어 <span class=\"text-violet-300 font-medium\">호르무즈 해협</span> 즉각 무료 통행 및 미 해군 봉쇄 해제가 전격 승인됨.\n<span class=\"text-cyan-300 font-semibold\">스페이스X</span>가 시총 6위(약 2.1조 달러, 종가 160.95달러)로 미국 나스닥/S&P 편입 기대를 모으며 성공적으로 상장함.\n국내 개인 공모주 물량은 전문투자자 자격 제한 및 골드만삭스 주관사 배정 컷오프로 인해 전액 미배정 환불 처리되어 대형 투자 사태를 촉발함.",
     "key_claims": [
-      "이란 외무부가 연구적 전쟁 중단을 발표하면서 WTI 국제 유가가 <span class=\"text-cyan-300 font-semibold\">80달러선 붕괴 직전</span>까지 하락해 인플레 부담을 덜어줌.",
+      "<span class=\"text-violet-300 font-medium\">이란</span> 외무부가 연구적 전쟁 중단을 발표하면서 WTI 국제 <span class=\"text-amber-300 font-bold\">유가</span>가 80달러선 붕괴 직전까지 하락해 인플레 부담을 덜어줌.",
       "미래에셋증권이 유치한 7,600억 원의 청약금은 한 주도 받지 못했고, 일본 미즈호 증권은 22억 달러를 배정받아 극명한 대조를 보임.",
-      "이스라엘 네타냐후의 베이루트 남부 도발에도 불구하고 트럼프의 <span class=\"text-violet-300 font-medium\">선제적 봉쇄 해제 유인책</span>이 작동하며 19일 스위스 조인식에 골인함."
+      "이스라엘 네타냐후의 베이루트 남부 도발에도 불구하고 트럼프의 선제적 봉쇄 해제 유인책이 작동하며 19일 스위스 조인식에 골인함."
     ],
     "data_points": [
       "스페이스X 상장 첫날 종가: 160.95달러 (공모가 135달러 대비 19.2% 상승)",
@@ -22,13 +22,13 @@
       "공식 평화협정 서명일: 6월 19일 (스위스 진행 예정)"
     ],
     "signal": "bullish",
-    "signal_reason": "호르무즈 전면 개방과 미·이란 한시 휴전 MOU 조인으로 원유 공급 병목 해소와 유가 하향 안정화가 기대되기 때문입니다.",
+    "signal_reason": "<span class=\"text-violet-300 font-medium\">호르무즈</span> 전면 개방과 미·<span class=\"text-violet-300 font-medium\">이란</span> 한시 휴전 MOU 조인으로 원유 공급 병목 해소와 <span class=\"text-amber-300 font-bold\">유가</span> 하향 안정화가 기대되기 때문입니다.",
     "key_companies": [
       "스페이스X",
       "미래에셋증권"
     ],
-    "insight": "스페이스X 상장 및 이란 합의라는 초대형 빅 이벤트들이 트럼프의 정치적 시간표(생일 등)와 결합해 일사천리로 해결됨. 국내 공모주의 0주 배정 사태는 환율 방어를 위해 당국이 <span class=\"text-rose-400 font-medium\">개인 청약 자격(전문투자자 한정)</span>을 좁히고 모집 규모를 보수적으로 잡아 해외 주관사(골드만삭스) 경쟁에서 배제된 행정적 패착임.",
-    "action_point": "유가 폭락에 따른 수혜주인 반도체/빅테크 중심의 바이 포지션을 공고히 하되, 공모주 청약 실패금(환불금)의 환류에 따른 단기 예치금 수혜주 및 글로벌 우주 ETF로 우회 진입을 고려해야 함."
+    "insight": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span> 상장 및 <span class=\"text-violet-300 font-medium\">이란</span> 합의라는 초대형 빅 이벤트들이 트럼프의 정치적 시간표(생일 등)와 결합해 일사천리로 해결됨. 국내 공모주의 0주 배정 사태는 <span class=\"text-amber-300 font-bold\">환율</span> 방어를 위해 당국이 개인 청약 자격(전문투자자 한정)을 좁히고 모집 규모를 보수적으로 잡아 해외 주관사(골드만삭스) 경쟁에서 배제된 행정적 패착임.",
+    "action_point": "<span class=\"text-amber-300 font-bold\">유가</span> 폭락에 따른 수혜주인 <span class=\"text-cyan-300 font-semibold\">반도체</span>/빅테크 중심의 바이 포지션을 공고히 하되, 공모주 청약 실패금(환불금)의 환류에 따른 단기 예치금 수혜주 및 글로벌 우주 ETF로 우회 진입을 고려해야 함."
   },
   "classification": {
     "primary_topic": "economy",

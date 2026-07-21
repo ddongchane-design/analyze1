@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/r3HbquYwBwk/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "우크라이나 드론 공격으로 인한 <span class=\"text-rose-400 font-medium\">러시아 정유시설 파괴</span>와 석유 제품 가격의 고공행진, 그리고 급증하는 AI 투자가 물가를 견인하는 '치플레이션(Chip-flation)'이 결합하여 미국의 인플레이션 경로를 교란하고 있습니다. 시장 일각에서는 연준이 기준금리를 추가 인상하거나 고금리를 내년까지 장기화할 것이라는 매파적 우려를 제기하고 있습니다. 비록 단기 경기 침체 확률은 역사적 평균보다 낮으나, 장기 고금리 상태의 유지는 성장주와 <span class=\"text-cyan-300 font-semibold\">AI 인프라 투자 유동성</span>을 위축시킬 잠재적 리스크 요인입니다.",
+    "summary": "우크라이나 드론 공격으로 인한 러시아 정유시설 파괴와 석유 제품 가격의 고공행진, 그리고 급증하는 AI 투자가 물가를 견인하는 '치플레이션(Chip-flation)'이 결합하여 미국의 <span class=\"text-amber-300 font-bold\">인플레이션</span> 경로를 교란하고 있습니다. 시장 일각에서는 연준이 기준금리를 추가 인상하거나 <span class=\"text-amber-300 font-bold\">고금리</span>를 내년까지 장기화할 것이라는 매파적 우려를 제기하고 있습니다. 비록 단기 경기 침체 확률은 역사적 평균보다 낮으나, 장기 <span class=\"text-amber-300 font-bold\">고금리</span> 상태의 유지는 성장주와 AI 인프라 투자 유동성을 위축시킬 잠재적 <span class=\"text-rose-400 font-medium\">리스크</span> 요인입니다.",
     "key_claims": [
-      "드론 공습으로 인한 러시아 정유 생산 차질 및 디젤 수출 금지 조치는 원유 가격 이상의 <span class=\"text-rose-400 font-medium\">석유 정제 마진 급등</span>을 유발하여 실물 물가를 압박합니다.",
-      "모건스탠리는 AI 투자가 생산성 향상에 따른 소비 증가 및 중립 금리 상승을 유발하여 디플레가 아닌 <span class=\"text-amber-300 font-bold\">인플레이션 요인</span>으로 작용한다고 분석했습니다.",
-      "만약 연준이 시장 신뢰 회복을 위해 고금리를 내년까지 동결 또는 추가 인상할 경우, 빅테크 기업들의 <span class=\"text-rose-400 font-medium\">채권 조달 비용 급등</span>으로 AI CAPEX 붐이 냉각될 위험이 있습니다."
+      "드론 공습으로 인한 러시아 정유 생산 차질 및 디젤 수출 금지 조치는 원유 가격 이상의 석유 정제 마진 급등을 유발하여 실물 물가를 압박합니다.",
+      "모건스탠리는 AI 투자가 생산성 향상에 따른 소비 증가 및 중립 금리 상승을 유발하여 디플레가 아닌 <span class=\"text-amber-300 font-bold\">인플레이션</span> 요인으로 작용한다고 분석했습니다.",
+      "만약 연준이 시장 신뢰 회복을 위해 <span class=\"text-amber-300 font-bold\">고금리</span>를 내년까지 동결 또는 추가 인상할 경우, 빅테크 기업들의 채권 조달 비용 급등으로 AI CAPEX 붐이 냉각될 <span class=\"text-rose-400 font-medium\">위험</span>이 있습니다."
     ],
     "data_points": [
       "미국 경기 침체 발생 확률 전망치: 약 15% 수준 (역사적 평균 18% 대비 양호한 수준)",
@@ -20,12 +20,12 @@
       "미국 10년물 국채 금리 수준: 4.5% 선 돌파, 2년물 국채 금리는 4.2% 선 초과 유지"
     ],
     "signal": "neutral",
-    "signal_reason": "유가 및 칩 가격 상승이 유발하는 복합적인 매크로 인플레이션 우려와 고금리 장기화 리스크를 설명하고 있어 균형 잡힌 중립적 분석이 요구되기 때문입니다.",
+    "signal_reason": "<span class=\"text-amber-300 font-bold\">유가</span> 및 칩 가격 상승이 유발하는 복합적인 매크로 <span class=\"text-amber-300 font-bold\">인플레이션</span> 우려와 <span class=\"text-amber-300 font-bold\">고금리 장기화</span> <span class=\"text-rose-400 font-medium\">리스크</span>를 설명하고 있어 균형 잡힌 중립적 분석이 요구되기 때문입니다.",
     "key_companies": [
       "Apple(AAPL)"
     ],
-    "insight": "AI 버블 붕괴론의 실질적 위협은 단순한 기술적 한계가 아니라, 지속되는 서비스 및 칩 가격 물가 상승으로 인한 <span class=\"text-rose-400 font-medium\">연준의 고금리 장기화 압박</span>입니다. 자금 조달 금리가 임계점을 넘어설 경우 레버리지를 일으키는 인프라 투자의 지속력에 균열이 생길 수 있습니다.",
-    "action_point": "연준의 금리 가이던스 변화를 모니터링하며, 물가 전가력을 갖춘 기술 대기업 외에 높은 부채 비율을 지닌 <span class=\"text-rose-400 font-medium\">고레버리지 중소형 성장주</span>의 포트폴리오 비중을 선제적으로 조절하는 위험 관리가 필요합니다."
+    "insight": "AI 버블 붕괴론의 실질적 위협은 단순한 기술적 한계가 아니라, 지속되는 서비스 및 칩 가격 물가 상승으로 인한 연준의 <span class=\"text-amber-300 font-bold\">고금리 장기화</span> 압박입니다. 자금 조달 금리가 임계점을 넘어설 경우 레버리지를 일으키는 인프라 투자의 지속력에 균열이 생길 수 있습니다.",
+    "action_point": "연준의 금리 가이던스 변화를 모니터링하며, 물가 전가력을 갖춘 기술 대기업 외에 높은 부채 비율을 지닌 고레버리지 중소형 성장주의 포트폴리오 비중을 선제적으로 조절하는 <span class=\"text-rose-400 font-medium\">위험</span> 관리가 필요합니다."
   },
   "classification": {
     "primary_topic": "economy",

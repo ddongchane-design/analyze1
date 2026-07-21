@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/IZPPSBPTLZE/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "이번 주 미국 증시는 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 성공적인 상장과 반도체 레버리지 ETF(<span class=\"text-cyan-300 font-semibold\">SOXL</span>)에 대한 한국 투자자들의 2.7조 원 규모 역대급 순매수세가 돋보였습니다. 또한, <span class=\"text-cyan-300 font-semibold\">마벨 테크놀로지</span>의 S&P 500 지수 편입, 워런 버핏의 미국 주택 건설사 인수 및 구글 추가 매수 등 빅테크와 실물 경제 전반의 자금 대이동이 포착되고 있습니다.",
+    "summary": "이번 주 미국 증시는 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 성공적인 상장과 <span class=\"text-cyan-300 font-semibold\">반도체</span> 레버리지 ETF(SOXL)에 대한 한국 투자자들의 2.7조 원 규모 역대급 순매수세가 돋보였습니다. 또한, <span class=\"text-cyan-300 font-semibold\">마벨</span> 테크놀로지의 S&P 500 지수 편입, 워런 버핏의 미국 주택 건설사 인수 및 <span class=\"text-cyan-300 font-semibold\">구글</span> 추가 매수 등 빅테크와 실물 경제 전반의 자금 대이동이 포착되고 있습니다.",
     "key_claims": [
-      "한국인 투자자들이 한 주간 SOXL 반도체 레버리지를 약 2.7조 원 순매수하며 공격적인 반등 베팅을 전개했다.",
-      "빅테크 기업들이 AI 투자를 위해 대규모 채권 발행 및 부채 조달로 전환함에 따라 이자 비용과 <span class=\"text-rose-400 font-medium\">현금흐름 악화 리스크</span>가 점증하고 있다.",
-      "워런 버핏의 버크셔 해서웨이가 주택 건설사 테일러 모리슨을 10조 원에 인수하며 미국 주택 시장 회복에 강력한 베팅을 단행했다."
+      "한국인 투자자들이 한 주간 SOXL <span class=\"text-cyan-300 font-semibold\">반도체</span> 레버리지를 약 2.7조 원 순매수하며 공격적인 반등 베팅을 전개했다.",
+      "빅테크 기업들이 AI 투자를 위해 대규모 채권 발행 및 부채 조달로 전환함에 따라 이자 비용과 현금흐름 악화 <span class=\"text-rose-400 font-medium\">리스크</span>가 점증하고 있다.",
+      "워런 버핏의 <span class=\"text-cyan-300 font-semibold\">버크셔 해서웨이</span>가 주택 건설사 테일러 모리슨을 10조 원에 인수하며 미국 주택 시장 회복에 강력한 베팅을 단행했다."
     ],
     "data_points": [
       "한국 투자자 SOXL 순매수액: 2조 6,695억 원",
@@ -22,15 +22,15 @@
       "아마존의 1분기 자금 조달 규모: 370억 달러"
     ],
     "signal": "bullish",
-    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span> 상장의 메가 이벤트 성공과 반도체 순매수세 유입, 그리고 버크셔 해서웨이의 부동산 및 구글 투자 재개는 성장 섹터의 주도력이 유지되고 있음을 보여줍니다.",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span> 상장의 메가 이벤트 성공과 <span class=\"text-cyan-300 font-semibold\">반도체</span> 순매수세 유입, 그리고 <span class=\"text-cyan-300 font-semibold\">버크셔 해서웨이</span>의 부동산 및 <span class=\"text-cyan-300 font-semibold\">구글</span> 투자 재개는 성장 섹터의 주도력이 유지되고 있음을 보여줍니다.",
     "key_companies": [
       "스페이스X",
       "마벨 테크놀로지",
       "버크셔 해서웨이",
       "오라클"
     ],
-    "insight": "빅테크의 AI 경쟁이 가속화되면서 자체 현금이 아닌 <span class=\"text-rose-400 font-medium\">부채 조달</span>에 의존하는 기업(아마존, 오라클 등)과 현금 여력이 탄탄한 기업(엔비디아, 애플, 구글 등) 간의 차별화가 진행되고 있습니다. 또한 지수 편입 이벤트(마벨 등)는 단기 호재에 그치는 경향이 있으므로 장기적인 실적 실현 여부가 주가 안착의 핵심 열쇠가 될 것입니다.",
-    "action_point": "부채 부담이 급증하는 빅테크보다 현금성 자산이 풍부하고 버핏이 비중을 확대한 <span class=\"text-cyan-300 font-semibold\">구글</span>(Alphabet)이나, 주택 경기 회복 수혜를 누리는 <span class=\"text-cyan-300 font-semibold\">ITB</span>(미국 주택 건설 ETF), 그리고 유로화 강세 수혜를 대비한 우량 유럽 자산 분산 투자가 유효합니다."
+    "insight": "빅테크의 AI 경쟁이 가속화되면서 자체 현금이 아닌 부채 조달에 의존하는 기업(아마존, 오라클 등)과 현금 여력이 탄탄한 기업(엔비디아, 애플, <span class=\"text-cyan-300 font-semibold\">구글</span> 등) 간의 차별화가 진행되고 있습니다. 또한 지수 편입 이벤트(<span class=\"text-cyan-300 font-semibold\">마벨</span> 등)는 단기 호재에 그치는 경향이 있으므로 장기적인 실적 실현 여부가 주가 안착의 핵심 열쇠가 될 것입니다.",
+    "action_point": "부채 부담이 급증하는 빅테크보다 현금성 자산이 풍부하고 버핏이 비중을 확대한 <span class=\"text-cyan-300 font-semibold\">구글</span>(Alphabet)이나, 주택 경기 회복 수혜를 누리는 ITB(미국 주택 건설 ETF), 그리고 유로화 강세 수혜를 대비한 우량 유럽 자산 분산 투자가 유효합니다."
   },
   "classification": {
     "primary_topic": "stock",

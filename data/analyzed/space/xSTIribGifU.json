@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/xSTIribGifU/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "나스닥에 상장한 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 핵심 사업구조는 위성 통신(스타링크), 로켓 발사, AI 인프라(Grok 및 데이터센터 임대)로 구분됨. 구글·앤트로픽과의 연간 260억 달러(약 40조 원) 규모 데이터센터 임대 계약을 통해 막대한 현금 흐름을 창출하고 있으며, 7월 4일 <span class=\"text-amber-300 font-bold\">나스닥 100 지수 편입</span>에 따른 295억 달러의 패시브 자금 유입 기대감과 8월 말부터 시작되는 <span class=\"text-rose-400 font-medium\">보호예수(락업) 해제 물량</span>이 맞설 예정임. 우주 산업은 2016년 AI 태동기 수준으로, 변동성을 고려해 국내외 우주 테마 ETF(ACE, KODEX 등)를 활용한 분산 투자가 권장됨.",
+    "summary": "나스닥에 상장한 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 핵심 사업구조는 위성 통신(<span class=\"text-cyan-300 font-semibold\">스타링크</span>), 로켓 발사, AI 인프라(Grok 및 데이터센터 임대)로 구분됨. <span class=\"text-cyan-300 font-semibold\">구글</span>·앤트로픽과의 연간 260억 달러(약 40조 원) 규모 데이터센터 임대 계약을 통해 막대한 현금 흐름을 창출하고 있으며, 7월 4일 나스닥 100 지수 편입에 따른 295억 달러의 패시브 자금 유입 기대감과 8월 말부터 시작되는 보호예수(락업) 해제 물량이 맞설 예정임. 우주 산업은 2016년 AI 태동기 수준으로, 변동성을 고려해 국내외 우주 테마 ETF(ACE, KODEX 등)를 활용한 분산 투자가 권장됨.",
     "key_claims": [
-      "스페이스X는 단순 우주선 발사 기업이 아니라, 글로벌 위성 통신망(점유율 71%)과 연간 40조 원 규모의 AI 데이터센터 임대 사업을 영위하는 테크 인프라 기업임.",
+      "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>는 단순 우주선 발사 기업이 아니라, 글로벌 위성 통신망(점유율 71%)과 연간 40조 원 규모의 AI 데이터센터 임대 사업을 영위하는 테크 인프라 기업임.",
       "상장 유통 물량이 4.9%로 극히 적어 초기 변동성이 심하며, 7월 초 나스닥 100 지수 편입 호재와 8월 말 이후의 단계적 락업 해제 악재가 줄다리기를 벌일 것임.",
-      "스페이스X 편입 여부에 따라 국내외 우주 항공 ETF의 수익률이 갈리고 있어, 비중 및 투자 성향에 맞춘 ETF 선택이 현실적 대안임."
+      "<span class=\"text-cyan-300 font-semibold\">스페이스X</span> 편입 여부에 따라 국내외 우주 항공 ETF의 수익률이 갈리고 있어, 비중 및 투자 성향에 맞춘 ETF 선택이 현실적 대안임."
     ],
     "data_points": [
       "스타링크 위성 인터넷 매출 성장률: 전년 대비 71.4%",
@@ -26,7 +26,7 @@
     ],
     "signal": "bullish",
     "signal_confidence": "medium",
-    "signal_reason": "스타링크의 독점적 성장과 연간 40조 원에 달하는 <span class=\"text-cyan-300 font-semibold\">AI 데이터센터 임대 캐시카우</span>를 확보했고, 7월 초 대규모 지수 편입 패시브 수급이 유입될 예정이기 때문임. 단, 8월 말 락업 해제 시점의 변동성은 경계해야 함.",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">스타링크</span>의 독점적 성장과 연간 40조 원에 달하는 AI 데이터센터 임대 캐시카우를 확보했고, 7월 초 대규모 지수 편입 패시브 수급이 유입될 예정이기 때문임. 단, 8월 말 락업 해제 시점의 변동성은 경계해야 함.",
     "key_companies": [
       "스페이스X",
       "알파벳(GOOGL)",
@@ -34,8 +34,8 @@
       "로켓랩(RKLB)",
       "비아셋"
     ],
-    "insight": "스페이스X 상장이 우주 산업의 강력한 촉매제이나, 본업인 발사 매출보다 구글/앤트로픽에 GPU 연산력을 공급하는 데이터센터 임대(CapEx 비즈니스)가 캐시카우 역할을 하고 있다는 점이 기업 가치평가의 핵심임. 또한 타 우주 기업 임원들의 최고점 내부자 매도가 포착되고 있어, 우주 테마 전반에 거품이 꼈는지 개별 기업의 재무 상태를 엄격히 분별할 필요가 있음.",
-    "action_point": "직접 투자는 유통 물량 부족과 락업 해제 변동성으로 위험하므로, 스페이스X 비중이 높은 국내외 우주 항공 ETF(<span class=\"text-cyan-300 font-semibold\">ACE 미국우주테크액티브</span> 또는 <span class=\"text-cyan-300 font-semibold\">KODEX 우주항공</span>)를 활용해 포트폴리오의 5~10% 수준에서 장기 적립식으로 투자하는 전략이 안전함."
+    "insight": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span> 상장이 우주 산업의 강력한 촉매제이나, 본업인 발사 매출보다 <span class=\"text-cyan-300 font-semibold\">구글</span>/앤트로픽에 GPU 연산력을 공급하는 데이터센터 임대(CapEx 비즈니스)가 캐시카우 역할을 하고 있다는 점이 기업 가치평가의 핵심임. 또한 타 우주 기업 임원들의 최고점 내부자 매도가 포착되고 있어, 우주 테마 전반에 거품이 꼈는지 개별 기업의 재무 상태를 엄격히 분별할 필요가 있음.",
+    "action_point": "직접 투자는 유통 물량 부족과 락업 해제 변동성으로 <span class=\"text-rose-400 font-medium\">위험</span>하므로, <span class=\"text-cyan-300 font-semibold\">스페이스X</span> 비중이 높은 국내외 우주 항공 ETF(ACE 미국우주테크액티브 또는 KODEX 우주항공)를 활용해 포트폴리오의 5~10% 수준에서 장기 적립식으로 투자하는 전략이 안전함."
   },
   "classification": {
     "primary_topic": "space",

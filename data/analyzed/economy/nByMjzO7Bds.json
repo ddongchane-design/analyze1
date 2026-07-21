@@ -8,9 +8,9 @@
     "thumbnail": "https://img.youtube.com/vi/nByMjzO7Bds/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "5월 PCE 물가 발표를 앞둔 시점에 연준 위원들의 매파적 성향(18명 중 9명이 추가 금리 인상 투표)이 강해지며 나스닥 선물이 요동침. 헤드라인 PCE 4.1% 및 근원 PCE 3.4% 상승 전망으로 고금리 장기화 우려가 크나, 다행히 지정학 리스크 완화로 <span class=\"text-amber-300 font-bold\">WTI 유가가 69달러대</span>로 하향 안정화되어 5월 물가가 정점을 찍고 하향할 것이라는 안도감이 교차함.",
+    "summary": "5월 PCE 물가 발표를 앞둔 시점에 연준 위원들의 매파적 성향(18명 중 9명이 추가 금리 인상 투표)이 강해지며 나스닥 선물이 요동침. 헤드라인 PCE 4.1% 및 근원 PCE 3.4% 상승 전망으로 <span class=\"text-amber-300 font-bold\">고금리 장기화</span> 우려가 크나, 다행히 지정학 <span class=\"text-rose-400 font-medium\">리스크</span> 완화로 WTI <span class=\"text-amber-300 font-bold\">유가</span>가 69달러대로 하향 안정화되어 5월 물가가 정점을 찍고 하향할 것이라는 안도감이 교차함.",
     "key_claims": [
-      "연준의 물가 목표치(2.0%) 대비 5월 PCE(3.4%)는 여전히 높아 연내 조기 금리 인하는 물 건너갔다는 평가임.",
+      "연준의 물가 목표치(2.0%) 대비 5월 PCE(3.4%)는 여전히 높아 연내 조기 <span class=\"text-amber-300 font-bold\">금리 인하</span>는 물 건너갔다는 평가임.",
       "원자재 및 칩플레이션의 여파가 서비스 물가로 번져 3분기까지는 인플레 정점 부근 횡보가 불가피함."
     ],
     "data_points": [
@@ -20,13 +20,13 @@
     ],
     "signal": "neutral",
     "signal_confidence": "high",
-    "signal_reason": "근원 물가의 상방 압력과 연준의 긴축 기조는 시장에 하방 압력을 주지만, 유가 하락 안정과 GDP 견조 지표가 시장의 급격한 무너짐을 방어하며 매크로 줄다리기가 팽팽하기 때문임.",
+    "signal_reason": "근원 물가의 상방 압력과 연준의 긴축 기조는 시장에 하방 압력을 주지만, <span class=\"text-amber-300 font-bold\">유가</span> 하락 안정과 GDP 견조 지표가 시장의 급격한 무너짐을 방어하며 매크로 줄다리기가 팽팽하기 때문임.",
     "key_companies": [
       "마이크론",
       "골드만삭스"
     ],
-    "insight": "원자재발 인플레 충격은 유가 급락으로 임시 소강상태이나, 메모리 칩과 데이터센터 인프라 장비 가격 상승이 이끄는 치플레이션이 새로운 근원 물가 끈적임(Stickiness) 요인으로 지적되고 있음.",
-    "action_point": "연준의 금리 가이드가 완전히 확인될 때까지 고금리 조달 비용 영향이 큰 부채 과다 기업은 피하고, 유가 하락의 수혜를 보는 <span class=\"text-cyan-300 font-semibold\">항공 및 경기 소비재</span> 대장주와 밸류에이션이 저평가된 IT 대형주 중심 구성을 유지할 것."
+    "insight": "원자재발 인플레 충격은 <span class=\"text-amber-300 font-bold\">유가</span> <span class=\"text-rose-400 font-medium\">급락</span>으로 임시 소강상태이나, 메모리 칩과 데이터센터 인프라 장비 가격 상승이 이끄는 치플레이션이 새로운 근원 물가 끈적임(Stickiness) 요인으로 지적되고 있음.",
+    "action_point": "연준의 금리 가이드가 완전히 확인될 때까지 <span class=\"text-amber-300 font-bold\">고금리</span> 조달 비용 영향이 큰 부채 과다 기업은 피하고, <span class=\"text-amber-300 font-bold\">유가</span> 하락의 수혜를 보는 항공 및 경기 소비재 대장주와 밸류에이션이 저평가된 IT 대형주 중심 구성을 유지할 것."
   },
   "classification": {
     "primary_topic": "economy",

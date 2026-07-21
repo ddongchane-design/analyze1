@@ -8,10 +8,10 @@
     "thumbnail": "https://img.youtube.com/vi/ZqqgffrAZuE/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "마이크론이 시장 예상을 뛰어넘는 호실적과 향후 가이드를 제시함에 따라, 세온(Sell on) 우려를 불식시키고 반도체 업계 전반에 대형 호재를 확인시켰습니다. 삼성전자와 SK하이닉스 투톱이 실적을 굳힌 후, 턴어라운드의 온기가 중소형 반도체 소부장(소재/부품/장비) 기업들로 본격 확산되는 단계에 접어들었습니다. 다만 소부장 섹터는 본질적으로 <span class=\"text-rose-400 font-medium\">변동성 리스크가 크고</span> 기업별 실적 차별화가 심할 것입니다.",
+    "summary": "마이크론이 시장 예상을 뛰어넘는 호실적과 향후 가이드를 제시함에 따라, 세온(Sell on) 우려를 불식시키고 <span class=\"text-cyan-300 font-semibold\">반도체</span> 업계 전반에 대형 호재를 확인시켰습니다. <span class=\"text-cyan-300 font-semibold\">삼성전자</span>와 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 투톱이 실적을 굳힌 후, 턴어라운드의 온기가 중소형 <span class=\"text-cyan-300 font-semibold\">반도체</span> 소부장(소재/부품/장비) 기업들로 본격 확산되는 단계에 접어들었습니다. 다만 소부장 섹터는 본질적으로 변동성 <span class=\"text-rose-400 font-medium\">리스크</span>가 크고 기업별 실적 차별화가 심할 것입니다.",
     "key_claims": [
-      "마이크론이 시장 예상을 뛰어넘는 호실적과 향후 가이드를 제시함에 따라, 세온(Sell on) 우려를 불식시키고 반도체 업계 전반에 대형 호재를 확인시켰다.",
-      "삼성전자와 SK하이닉스 투톱이 자리를 잡은 이후, 실적 턴어라운드의 온기가 중소형 반도체 소부장(소재/부품/장비) 기업들로 본격 확산되는 단계에 접어들었다.",
+      "마이크론이 시장 예상을 뛰어넘는 호실적과 향후 가이드를 제시함에 따라, 세온(Sell on) 우려를 불식시키고 <span class=\"text-cyan-300 font-semibold\">반도체</span> 업계 전반에 대형 호재를 확인시켰다.",
+      "<span class=\"text-cyan-300 font-semibold\">삼성전자</span>와 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 투톱이 자리를 잡은 이후, 실적 턴어라운드의 온기가 중소형 <span class=\"text-cyan-300 font-semibold\">반도체</span> 소부장(소재/부품/장비) 기업들로 본격 확산되는 단계에 접어들었다.",
       "소부장 섹터는 본질적으로 변동성이 크고 기업별 실적 회복 속도가 크게 차별화되므로, 일괄적인 테마성 매수보다 실질적 매출 성장을 내는 기업 선별이 중요하다."
     ],
     "data_points": [
@@ -25,8 +25,8 @@
       "삼성전자",
       "SK하이닉스"
     ],
-    "insight": "대장주의 랠리 이후 소부장으로 낙수 효과가 번지는 것은 메모리 반도체 업황 개선 주기마다 반복되는 전형적인 흐름입니다. 다만 소부장 업체들의 주가는 철저히 개별 실적 회복의 강도에 따라 양극화될 것이므로, 막연한 업황 턴어라운드 기대보다는 수혜가 확실한 공정 소재 및 HBM 관련 전공정/후공정 핵심 장비사로 타겟을 좁혀야 합니다.",
-    "action_point": "반도체 랠리의 확산 국면에서 실질 실적 개선세가 뚜렷한 <span class=\"text-cyan-300 font-semibold\">HBM 관련 핵심 소부장 기업</span>을 선별하고, 높은 <span class=\"text-rose-400 font-medium\">소부장 변동성 리스크</span>를 고려해 포트폴리오를 분산 구성해야 합니다."
+    "insight": "대장주의 랠리 이후 소부장으로 낙수 효과가 번지는 것은 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span> 업황 개선 주기마다 반복되는 전형적인 흐름입니다. 다만 소부장 업체들의 주가는 철저히 개별 실적 회복의 강도에 따라 양극화될 것이므로, 막연한 업황 턴어라운드 기대보다는 수혜가 확실한 공정 소재 및 <span class=\"text-cyan-300 font-semibold\">HBM</span> 관련 전공정/후공정 핵심 장비사로 타겟을 좁혀야 합니다.",
+    "action_point": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 랠리의 확산 국면에서 실질 실적 개선세가 뚜렷한 <span class=\"text-cyan-300 font-semibold\">HBM</span> 관련 핵심 소부장 기업을 선별하고, 높은 소부장 변동성 <span class=\"text-rose-400 font-medium\">리스크</span>를 고려해 포트폴리오를 분산 구성해야 합니다."
   },
   "classification": {
     "primary_topic": "stock",

@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/jIRollX6Y6E/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "미중 갈등이 단순한 냉전을 넘어 사실상의 양강이 대치하는 <span class=\"text-violet-300 font-medium\">준양극 체제(Semi-bipolar)</span>로 진입함에 따라, 미국은 국가 안보 차원의 AI 총력전인 '제네시스 미션(Genesis Mission)'을 선포했습니다. 과거의 일방적 규제를 넘어 압도적인 인프라 격차를 조성하려는 미국의 AI 군비 경쟁(CAPEX 투자가 국방비 상회 전망)은 반도체 동맹국들을 묶는 '젠슨 황 라인'을 형성하고 있습니다. 또한 핵심 광물의 중국 의존도를 해소하기 위해 텍사스 스맥오버 지층 등의 <span class=\"text-cyan-300 font-semibold\">지하 염수 리튬 상업 채취 법제화</span>를 추진하며 장기 공급망 자립화에 시동을 걸었습니다.",
+    "summary": "미중 갈등이 단순한 냉전을 넘어 사실상의 양강이 대치하는 준양극 체제(Semi-bipolar)로 진입함에 따라, 미국은 국가 안보 차원의 AI 총력전인 '제네시스 미션(Genesis Mission)'을 선포했습니다. 과거의 일방적 규제를 넘어 압도적인 인프라 격차를 조성하려는 미국의 AI 군비 경쟁(CAPEX 투자가 국방비 상회 전망)은 <span class=\"text-cyan-300 font-semibold\">반도체</span> 동맹국들을 묶는 '젠슨 황 라인'을 형성하고 있습니다. 또한 핵심 광물의 <span class=\"text-violet-300 font-medium\">중국</span> 의존도를 해소하기 위해 텍사스 스맥오버 지층 등의 지하 염수 리튬 상업 채취 법제화를 추진하며 장기 공급망 자립화에 시동을 걸었습니다.",
     "key_claims": [
-      "중국의 실질 국력(GDP 및 실질 체력 복합 지표)은 과거 전성기 소련을 상회하므로, 현재의 미중 패권 경쟁은 더욱 치열하고 장기적인 <span class=\"text-violet-300 font-medium\">기술 블록화 양상</span>을 보입니다.",
-      "미국의 신규 국가 AI 행정명령인 '제네시스 미션'과 'AI 액션 플랜'은 AI 컴퓨터와 HBM 메모리 공급망을 전략적 안보 자산으로 명문화하여 <span class=\"text-cyan-300 font-semibold\">수조 달러 규모의 연방 재정 및 민간 유동성 유입</span>을 강제합니다.",
-      "중국의 핵심 광물 무기화에 맞서 미 육군 군수지 내 '스맥오버 지층' 등에서 지하 염수 리튬을 시추·추출하는 대규모 프로젝트가 셰일 오일 혁명에 준하는 <span class=\"text-amber-300 font-bold\">미국 내 광물 독립의 트리거</span>가 될 수 있습니다."
+      "<span class=\"text-violet-300 font-medium\">중국</span>의 실질 국력(GDP 및 실질 체력 복합 지표)은 과거 전성기 소련을 상회하므로, 현재의 미중 패권 경쟁은 더욱 치열하고 장기적인 기술 블록화 양상을 보입니다.",
+      "미국의 신규 국가 AI 행정명령인 '제네시스 미션'과 'AI 액션 플랜'은 AI 컴퓨터와 <span class=\"text-cyan-300 font-semibold\">HBM</span> 메모리 공급망을 전략적 안보 자산으로 명문화하여 수조 달러 규모의 연방 재정 및 민간 유동성 유입을 강제합니다.",
+      "<span class=\"text-violet-300 font-medium\">중국</span>의 핵심 광물 무기화에 맞서 미 육군 군수지 내 '스맥오버 지층' 등에서 지하 염수 리튬을 시추·추출하는 대규모 프로젝트가 셰일 오일 혁명에 준하는 미국 내 광물 독립의 트리거가 될 수 있습니다."
     ],
     "data_points": [
       "냉전기 미-소 GDP 격차 수준: 소련은 전성기에도 미국 GDP의 40% ~ 50% 수준에 불과",
@@ -20,14 +20,14 @@
       "리튬 수요 증가 속도: 연평균 30% 이상 폭증하며 2030년 공급 부족 국면 도달 예상"
     ],
     "signal": "bullish",
-    "signal_reason": "미국 정부가 AI 기술 패권 사수를 위해 반도체, HBM, 전력 기기뿐 아니라 자국 내 핵심 광물(리튬 추출) 공급망 구축에 무제한적인 재정적·법적 지원을 투입하기 시작했기 때문입니다.",
+    "signal_reason": "미국 정부가 AI 기술 패권 사수를 위해 <span class=\"text-cyan-300 font-semibold\">반도체</span>, <span class=\"text-cyan-300 font-semibold\">HBM</span>, 전력 기기뿐 아니라 자국 내 핵심 광물(리튬 추출) 공급망 구축에 무제한적인 재정적·법적 지원을 투입하기 시작했기 때문입니다.",
     "key_companies": [
       "Tesla(TSLA)",
       "MP Materials(MP)",
       "Albemarle(ALB)"
     ],
-    "insight": "AI 인프라 경쟁은 민간의 비즈니스 영역을 넘어 국가 생존이 걸린 <span class=\"text-violet-300 font-medium\">현대판 맨해튼 프로젝트</span>로 격상되었습니다. 셰일 혁명이 원유 시장의 판도를 바꿨듯, 텍사스 염수 리튬 상업화 법안은 원자재 공급망 구도를 근본적으로 뒤흔들 수 있는 중장기 메가 트렌드입니다.",
-    "action_point": "미국 내 리튬 시추 및 신공법(Direct Lithium Extraction, DLE)을 적용하여 사업권을 획득하는 미국 독립계 에너지/광업 선도 기업들을 선제 발굴하고, <span class=\"text-cyan-300 font-semibold\">전력 인프라 및 핵심 메모리 반도체 동맹주</span>에 대한 투자 비중을 늘려야 합니다."
+    "insight": "AI 인프라 경쟁은 민간의 비즈니스 영역을 넘어 국가 생존이 걸린 현대판 맨해튼 프로젝트로 격상되었습니다. 셰일 혁명이 원유 시장의 판도를 바꿨듯, 텍사스 염수 리튬 상업화 법안은 원자재 공급망 구도를 근본적으로 뒤흔들 수 있는 중장기 메가 트렌드입니다.",
+    "action_point": "미국 내 리튬 시추 및 신공법(Direct Lithium Extraction, DLE)을 적용하여 사업권을 획득하는 미국 독립계 에너지/광업 선도 기업들을 선제 발굴하고, 전력 인프라 및 핵심 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span> 동맹주에 대한 투자 비중을 늘려야 합니다."
   },
   "classification": {
     "primary_topic": "economy",
