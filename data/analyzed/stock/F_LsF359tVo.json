@@ -1,0 +1,40 @@
+{
+  "video": {
+    "id": "F_LsF359tVo",
+    "title": "반등의 불씨 살아났다…상승 랠리 본격화 될 수 있는 이유ㅣ명민준, 박가영, 황유현 [주린이 구조대]",
+    "published": "2026-07-21T12:30:27+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=F_LsF359tVo",
+    "thumbnail": "https://img.youtube.com/vi/F_LsF359tVo/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "주린이 구조대 브리핑은 펀더멘탈 훼손 없는 투매 <span class=\"text-rose-400 font-medium\">조정</span>이 마무리되고, 외국인의 <span class=\"text-cyan-300 font-semibold\">반도체</span>·조선·방산 섹터 순매수 유입에 힘입어 본격적인 랠리 복귀 국면이 개화했다고 분석했습니다. 7월 말부터 전개될 국내외 빅테크 및 주력 기업들의 호실적 발표가 증시의 추세적 상승을 견인할 것으로 전망됩니다.",
+    "key_claims": [
+      "단기 수급 꼬임에 따른 과매도 구간이 끝남에 따라 <span class=\"text-cyan-300 font-semibold\">반도체</span>, 방산, 조선 등 주도주의 상승 랠리가 복귀하고 있다.",
+      "외국인의 현선물 저가 매수가 다시 유입되기 시작하여 8월 랠리의 기틀을 마련했다."
+    ],
+    "data_points": [],
+    "signal": "positive",
+    "signal_reason": "수급 악재 소멸과 주력 3대 섹터(<span class=\"text-cyan-300 font-semibold\">반도체</span>, 조선, 방산)로의 외국인 매수세 재유입이 확인되었기 때문입니다.",
+    "key_companies": [
+      "SK하이닉스(000660)",
+      "한화오션(042660)",
+      "LIG넥스원(079550)"
+    ],
+    "insight": "하락장에서 털리지 않은 우량 주도주(<span class=\"text-cyan-300 font-semibold\">반도체</span>/조선/방산)가 랠리 재개 시 가장 가파른 반등 탄력을 보입니다.",
+    "action_point": "<span class=\"text-cyan-300 font-semibold\">반도체</span>와 방산 주도주 포트폴리오를 유지하고, 호실적이 예상되는 대형 조선주의 비중 확대를 권장합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "상승랠리본격화",
+      "외국인순매수",
+      "반도체조선방산",
+      "실적시즌모멘텀",
+      "수급개선"
+    ]
+  }
+}

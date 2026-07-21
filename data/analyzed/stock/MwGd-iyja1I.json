@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "MwGd-iyja1I",
+    "title": "빅테크 실적발표 임박, 이 '신호'가 가장 중요하다! | 신영증권 김효진 박사 [글로벌 인터뷰]",
+    "published": "2026-07-21T23:09:36+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=MwGd-iyja1I",
+    "thumbnail": "https://img.youtube.com/vi/MwGd-iyja1I/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "신영증권 김효진 박사는 빅테크 실적 발표를 앞두고 4대 하이퍼스케일러의 계약 잔고(RPO)가 연간 CAPEX의 2.5배(약 1,000조 원 이상)에 달해 AI 투자 철회 우려는 과도하다고 분석했습니다. 특히 현금 여력이 가장 높고 자산 대비 투자 비율이 57%로 낮은 마이크로소프트(MSFT)가 AI 투자를 주도할 것이며, 실적 발표 시 GPU·서버 등 '단수명 자산(Short-life assets)' 비중이 유지·상승하는지가 <span class=\"text-cyan-300 font-semibold\">반도체</span> 수혜의 핵심 관전 포인트입니다. 한편 코스피는 7,600~8,400선에 쌓인 약 10조 원 규모의 개인 매물 소화 과정에서 지글거리는 횡보 반등을 나타낼 전망입니다.",
+    "key_claims": [
+      "빅테크 4사의 수주 잔고(RPO)는 1,000조 원을 초과하며 클라우드 매출의 2~6년치가 이미 확정되어 있어 단기 CAPEX 감축 가능성은 매우 낮다.",
+      "마이크로소프트는 영업 현금 대비 CAPEX 비율이 57%로 4사 중 가장 낮아 추가 투자 여력이 가장 우수하며, 가장 친절하고 상세한 실적 가이드라인을 제공한다.",
+      "투자의 내용 중 GPU, CPU, 서버 등 교체 주기가 짧은 '단수명 자산' 비중(현재 약 2/3 수준)이 유지되는지가 메모리(<span class=\"text-cyan-300 font-semibold\">HBM</span>/DRAM) 업황의 실질 잣대이다."
+    ],
+    "data_points": [
+      "빅테크 4사 수주 잔고(RPO): 약 1,000조 원 이상 (연간 CAPEX의 2.5배 수준)",
+      "코스피 매물대 수급: 7,600~7,800선 (2.5조 원), 8,200~8,400선 (4.5조 원), 8,400~8,600선 (3조 원 보유)",
+      "마이크로소프트 잉여 현금 대비 CAPEX 비율: 57% (빅테크 중 가장 우량)"
+    ],
+    "signal": "bullish",
+    "signal_reason": "빅테크의 견고한 수주 잔고와 마이크로소프트 중심의 풍부한 현금 여력이 <span class=\"text-cyan-300 font-semibold\">AI 반도체</span> 투자 하방을 든든히 받치고 있어 실적 발표 후 불확실성 해소가 기대되기 때문입니다.",
+    "key_companies": [
+      "Microsoft(MSFT)",
+      "Alphabet(GOOGL)",
+      "Amazon(AMZN)",
+      "Meta(META)"
+    ],
+    "insight": "단순 CAPEX 금액의 증감보다 서버/GPU 등 단수명 자산에 얼마의 예산이 할당되었는지가 핵심입니다. 가장 탄탄한 재무구조를 지닌 마이크로소프트의 컨퍼런스 콜이 <span class=\"text-cyan-300 font-semibold\">반도체</span> 밸류체인의 이정표가 될 것입니다.",
+    "action_point": "마이크로소프트의 실적 성명서 내 단수명 자산 비율 및 RPO 증가율을 확인한 후, <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span> 및 고성능 서버 기판 섹터에 대해 적극적인 눌림목 매수 관점을 유지해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "빅테크실적전망",
+      "계약잔고RPO",
+      "단수명자산",
+      "마이크로소프트자금력",
+      "코스피매물대"
+    ]
+  }
+}

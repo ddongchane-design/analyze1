@@ -1,28 +1,22 @@
-import sys
 import json
+import sys
 from pathlib import Path
 
+# Set output to utf-8
 if hasattr(sys.stdout, 'reconfigure'):
     sys.stdout.reconfigure(encoding='utf-8')
 
-def main():
-    if len(sys.argv) < 2:
-        print("Usage: python read_one.py filename.json")
+def print_file_details(filename):
+    f_path = Path(f"data/pending/{filename}")
+    if not f_path.exists():
+        print(f"{filename} not found")
         return
-    
-    filepath = Path("data/pending") / sys.argv[1]
-    if not filepath.exists():
-        print(f"File not found: {sys.argv[1]}")
-        return
-        
-    data = json.loads(filepath.read_text(encoding="utf-8"))
-    video = data.get("video", {})
-    transcript = data.get("transcript", "")
-    print(f"TITLE: {video.get('title')}")
-    print(f"CHANNEL: {video.get('channel_name')}")
-    print(f"TRANSCRIPT LENGTH: {len(transcript)}")
-    print("-" * 50)
-    print(transcript[:5000]) # Print first 5000 chars
+    data = json.loads(f_path.read_text(encoding="utf-8"))
+    print(f"\n======================================")
+    print(f"FILE: {filename}")
+    print(f"TITLE: {data['video'].get('title')}")
+    print(f"CHANNEL: {data['video'].get('channel_name')}")
+    print(f"TRANSCRIPT:\n{data.get('transcript', '')}")
 
-if __name__ == "__main__":
-    main()
+for f in ["Az9LBgm3_h0.json", "BLvI5dBN8Ws.json", "boq4Dn4H238.json"]:
+    print_file_details(f)

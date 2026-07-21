@@ -1,28 +1,40 @@
-import json
 import sys
+import json
 from pathlib import Path
 
+# Prevent UnicodeEncodeError on Windows
 if hasattr(sys.stdout, 'reconfigure'):
     sys.stdout.reconfigure(encoding='utf-8')
 
-pending_dir = Path("data/pending")
-json_files = sorted(list(pending_dir.glob("*.json")))
+def main():
+    pending_dir = Path("data/pending")
+    files = list(pending_dir.glob("*.json"))
+    
+    metadata_list = []
+    for f in files:
+        try:
+            data = json.loads(f.read_text(encoding="utf-8"))
+            video = data.get("video", {})
+            metadata_list.append({
+                "file_name": f.name,
+                "id": video.get("id"),
+                "title": video.get("title"),
+                "channel": video.get("channel_name"),
+                "published": video.get("published"),
+                "transcript_len": len(data.get("transcript", ""))
+            })
+        except Exception as e:
+            print(f"Error reading {f.name}: {e}")
+            
+    # Sort by published date descending
+    metadata_list.sort(key=lambda x: x["published"] or "", reverse=True)
+    
+    print(f"Total pending files found: {len(metadata_list)}")
+    print("-" * 100)
+    for idx, meta in enumerate(metadata_list):
+        # Clean title to prevent printing crashes
+        clean_title = meta['title'].replace('\u2026', '...').replace('\u22ef', '...')
+        print(f"{idx+1:02d} | Channel: {meta['channel']:<25} | Date: {meta['published'][:10]} | Title: {clean_title} ({meta['file_name']})")
 
-print(f"Total pending files: {len(json_files)}")
-print("-" * 60)
-
-for idx, file_path in enumerate(json_files, 1):
-    try:
-        data = json.loads(file_path.read_text(encoding="utf-8"))
-        video = data.get("video", {})
-        transcript = data.get("transcript", "")
-        print(f"[{idx}] FILE: {file_path.name}")
-        print(f"    TITLE: {video.get('title')}")
-        print(f"    CHANNEL: {video.get('channel_name')}")
-        print(f"    PUBLISHED: {video.get('published')}")
-        print(f"    TRANSCRIPT LENGTH: {len(transcript)}")
-        print(f"    PREVIEW: {transcript[:1200]}")
-        print("-" * 60)
-    except Exception as e:
-        print(f"[{idx}] Error reading {file_path.name}: {e}")
-        print("-" * 60)
+if __name__ == "__main__":
+    main()

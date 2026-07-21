@@ -1,0 +1,39 @@
+{
+  "video": {
+    "id": "OaIcmzUOYqI",
+    "title": "주택담보대출 9% 시대? 금리 폭탄이 터질 수밖에 없는 이유 #교양이를부탁해",
+    "published": "2026-07-21T23:00:16+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=OaIcmzUOYqI",
+    "thumbnail": "https://img.youtube.com/vi/OaIcmzUOYqI/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "국가 GDP의 2배에 달하는 대규모 유동성이 <span class=\"text-cyan-300 font-semibold\">반도체</span>·하드웨어 단 한 축으로 과밀 집중되면서 시중 자금을 고사시키는 '구축 효과(Crowding-out effect)'가 발생하고 있습니다. 이로 인해 한국은행이 기준금리를 최고 5% 수준까지 인상해야 할 압박에 직면해 저금리 시대가 종료되었으며, 코스닥 상장사 중 30%(600여 개사)에 달하는 한계기업(영업이익으로 이자도 못 갚는 기업)의 연쇄 구조<span class=\"text-rose-400 font-medium\">조정</span> 및 <span class=\"text-rose-400 font-medium\">부실</span> 폭탄 위기가 가시화되고 있습니다.",
+    "key_claims": [
+      "<span class=\"text-cyan-300 font-semibold\">반도체</span> 단일 산업으로의 막대한 자금 쏠림이 시중 유동성을 고갈시켜 금리 상승을 유발하는 구축 효과가 가속화되고 있다.",
+      "고성장·고물가·<span class=\"text-amber-300 font-bold\">고금리</span> 구조로의 이행에 따라 한국은행이 기준금리를 5% 수준까지 상향 조율할 가능성이 높아지고 있다.",
+      "코스닥 1,800개 상장사 중 30%에 해당하는 600여 개 기업이 영업이익으로 이자도 감당하지 못하는 한계기업으로 금리 폭탄의 직접 충격을 받게 된다."
+    ],
+    "data_points": [
+      "코스닥 한계기업 비중: 전체 1,800여 개 기업 중 약 30% (600개 이상)"
+    ],
+    "signal": "negative",
+    "signal_reason": "하드웨어 투자 쏠림에 따른 구축 효과로 시중 금리가 고착화되고, 코스닥 한계기업 30%의 구조적 <span class=\"text-rose-400 font-medium\">부실</span> <span class=\"text-rose-400 font-medium\">위험</span>이 금융 시장 전반의 체력을 약화시키기 때문입니다.",
+    "key_companies": [],
+    "insight": "자금이 특정 대형 산업으로만 쏠리면 나머지 내수 기업들은 <span class=\"text-amber-300 font-bold\">고금리</span>와 자금 가뭄의 이중고를 겪습니다. 부채 비율이 높고 현금 흐름이 적자인 소형 코스닥 기업들의 생존 확률이 급속히 낮아지고 있습니다.",
+    "action_point": "이자보상배율이 1 미만인 코스닥 적자 한계 기업 및 고부채 중소형주를 포트폴리오에서 즉시 제외하고, 무부채 우량 대형주 중심의 리밸런싱을 단행해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "구축효과",
+      "유동성집중",
+      "금리인상가능성",
+      "코스닥한계기업",
+      "한은기준금리"
+    ]
+  }
+}

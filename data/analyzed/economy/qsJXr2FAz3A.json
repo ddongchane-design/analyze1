@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "qsJXr2FAz3A",
+    "title": "브라질 앱 하나 때문에 미국이 발칵 뒤집혔다 (해담경제연구소 어예진 소장)",
+    "published": "2026-07-21T07:55:33+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=qsJXr2FAz3A",
+    "thumbnail": "https://img.youtube.com/vi/qsJXr2FAz3A/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "브라질 중앙은행이 출시한 수수료 0원의 국가 즉시 결제 인프라 '픽스(Pix)'가 폭발적 인기를 끌며 비자(Visa) 및 마스터카드(Mastercard) 등 전통 신용카드사의 결제 망 독점 구조를 뒤흔들고 있습니다. 인도의 UPI, 브라질의 Pix 등 중앙은행 주도의 무료 즉시 결제 망 확산은 카드 수수료 기반 글로벌 수수료 네트워크에 위협이 되고 있습니다.",
+    "key_claims": [
+      "브라질 중앙은행의 'Pix' 결제 시스템은 카드 수수료 0원 및 QR 기반 즉시 송금으로 신용카드 비중을 위축시켰다.",
+      "국가 주도 무료 디지털 결제망 확산은 기존 글로벌 카드사(비자, 마스터)의 결제 수수료 독점 패권을 위협하고 있다."
+    ],
+    "data_points": [
+      "브라질 카드 결제 비중: Pix 도입 후 기존 대비 급감 (무료 24시간 실시간 송금 대체)"
+    ],
+    "signal": "negative",
+    "signal_reason": "글로벌 결제망 시장에서 국가 주도 무료 즉시 결제망(Pix, UPI)의 확산이 기존 카드 네트워크사(Visa, Mastercard)의 수수료 기반 결제 독점을 약화시키기 때문입니다.",
+    "key_companies": [
+      "Visa(V)",
+      "Mastercard(MA)"
+    ],
+    "insight": "중앙은행 주도의 무료 디지털 인프라는 핀테크 결제 지형을 송두리째 바꿉니다. 전통 결제 카드 네트워크사의 수수료 수혜 모델에 장기 균열이 발생하고 있습니다.",
+    "action_point": "Visa 및 Mastercard 등 카드 네트워크사 비중을 조절하고, 국가 즉시 결제 인프라 솔루션 기업을 주목해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "tech",
+      "stock"
+    ],
+    "tags": [
+      "브라질Pix결제",
+      "중앙은행즉시결제",
+      "비자마스터독점붕괴",
+      "탈달러화",
+      "핀테크혁명"
+    ]
+  }
+}

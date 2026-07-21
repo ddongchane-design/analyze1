@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "jBK9j9d1c2I",
+    "title": "[지식뉴스] \"갑자기 급등해도 이건 꼭 알고 계세요\" 미국발 AI 공포의 실체..시장이 무너질 때 가장 먼저 벌어지는 일 / 교양이를 부탁해",
+    "published": "2026-07-21T12:15:20+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=jBK9j9d1c2I",
+    "thumbnail": "https://img.youtube.com/vi/jBK9j9d1c2I/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 신용 융자 잔고가 GDP 수준인 1.4조 달러로 폭증하며 닷컴버블(1999) 및 금융위기(2007) 직전과 유사한 강제 <span class=\"text-rose-400 font-medium\">청산</span>(마진콜) 위기 경보가 발령되었습니다. 무리한 채권 발행으로 데이터센터를 짓던 오라클의 신용등급이 투기 등급 직전인 'BBB-'로 강등되며 소프트뱅크와 함께 주가가 3월 수준으로 폭락했습니다. 외국인들은 한국 <span class=\"text-cyan-300 font-semibold\">반도체</span> 기업의 피를 흘리는 적자 구간에 지분을 사들여 고수익 흑자 구간에서 차익 실현하는 패턴을 재현하고 있습니다.",
+    "key_claims": [
+      "미국 주식 담보 대출(Margin Debt)이 1.4조 달러로 폭증해 전년 대비 50% 이상 늘어난 역대 4번째 구간 진입 (과거 3번은 -40% 폭락 유발).",
+      "S&P가 무리한 CAPEX 채권 발행을 감행한 오라클의 신용등급을 정크펀드 직전인 BBB-로 강등해 빅테크 채권 <span class=\"text-rose-400 font-medium\">리스크</span>를 촉발했다.",
+      "외국인 투자자들은 국내 <span class=\"text-cyan-300 font-semibold\">반도체</span>가 장기 적자 상태일 때 50% 이상 지분을 확보해 최적의 흑자 고점 구간에서 차익을 실현하는 박스피 매매를 반복 중이다."
+    ],
+    "data_points": [
+      "미국 주식 담보 대출 규모: 1.4조 달러 (미국 GDP 상당 수준)",
+      "오라클 신용등급: BBB- (투기 등급 바로 전 단계로 강등)"
+    ],
+    "signal": "negative",
+    "signal_reason": "미국 신용 융자의 역사적 고점 도달에 따른 반대매매 <span class=\"text-rose-400 font-medium\">청산</span> <span class=\"text-rose-400 font-medium\">위험</span>과 오라클 등 빅테크 채권 신용등급 강등에 따른 금융 경색 우려가 높아졌기 때문입니다.",
+    "key_companies": [
+      "Oracle(ORCL)",
+      "SoftBank(9984.T)",
+      "Samsung(005930)"
+    ],
+    "insight": "레버리지 비율이 GDP 수준까지 오른 장세는 작은 악재에도 시장가 반대매매 <span class=\"text-rose-400 font-medium\">청산</span> 도미노를 유발합니다. 특히 신용등급이 강등된 오라클의 채권 <span class=\"text-rose-400 font-medium\">부실</span>화에 유의해야 합니다.",
+    "action_point": "고부채 테크 채권 및 레버리지 상품의 비중을 대폭 낮추고, 펀더멘탈이 확실한 무부채 <span class=\"text-cyan-300 font-semibold\">반도체</span> 대형주 중심의 안정성을 확보해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "신용융자1.4조달러",
+      "오라클신용강등",
+      "BBB-투기직전",
+      "반대매매리스크",
+      "외국인차익실현"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "jO-pL17erjY",
+    "title": "쿠팡 / 로봇 수백 대 / 24시간 가동",
+    "published": "2026-07-21T10:31:03+00:00",
+    "channel_name": "엔지니어TV",
+    "url": "https://www.youtube.com/watch?v=jO-pL17erjY",
+    "thumbnail": "https://img.youtube.com/vi/jO-pL17erjY/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "인천 쿠팡 물류센터 화재 사건을 계기로 축구장 4배 크기의 물류 현장에 24시간 가동되는 수백 대의 자율 이동 로봇(AMR)과 소팅(Sorting) 로봇의 가치가 조명되었습니다. 로봇 1대당 5kWh(전기차 20대 분량) 배터리가 탑재되는 만큼, 화재 <span class=\"text-rose-400 font-medium\">위험</span>이 없는 '전고체 배터리' 도입 필요성이 급부상했으며, 보스턴다이내믹스의 스트레치(Stretch) 및 레인보우로보틱스 양팔 로봇의 투입으로 물류 현장의 완벽한 100% 무인화가 눈앞에 다가왔습니다.",
+    "key_claims": [
+      "쿠팡 물류창고에 수백 대의 AMR 및 소팅 로봇이 24시간 실시간 가동 중이며, 리튬배터리 화재 <span class=\"text-rose-400 font-medium\">위험</span>을 완쇄하기 위한 전고체 배터리 수요가 부각된다.",
+      "보스턴다이내믹스의 트럭 하역 로봇 스트레치(Stretch)와 레인보우로보틱스의 양팔 상체 로봇이 상용화되어 물류 상하차 및 하차 공정이 완전 자동화되고 있다."
+    ],
+    "data_points": [
+      "물류 로봇 탑재 배터리 용량: 1대당 약 5kWh (수백 대 가동 시 전기차 20대 분량)"
+    ],
+    "signal": "positive",
+    "signal_reason": "쿠팡 등 물류 거점의 24시간 로봇 풀 가동 실증과 스트레치·휴머노이드 상용화로 물류 로봇 및 전고체 배터리 시장의 구조적 성장이 명확해졌기 때문입니다.",
+    "key_companies": [
+      "레인보우로보틱스(277810)",
+      "현대차(005380)",
+      "삼성SDI(006400)"
+    ],
+    "insight": "물류 창고는 휴머노이드와 AMR 로봇이 가장 빠르게 인건비를 대체하는 전초기지입니다. 로봇 안전성 유지를 위한 전고체 배터리와 자율 이동 소프트웨어가 핵심 기술입니다.",
+    "action_point": "물류 자율화 로봇 대장주(레인보우로보틱스, <span class=\"text-cyan-300 font-semibold\">현대차</span> 보스턴다이내믹스 밸류체인)와 안전 배터리(전고체) 공급사의 비중을 확충해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "robot",
+    "secondary_topics": [
+      "stock",
+      "tech"
+    ],
+    "tags": [
+      "쿠팡로봇24시간",
+      "전고체배터리필수",
+      "AMR소팅로봇",
+      "보스턴스트레치",
+      "물류자율화"
+    ]
+  }
+}

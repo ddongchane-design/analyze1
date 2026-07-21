@@ -1,15 +1,16 @@
+import glob
 import json
-from pathlib import Path
+import os
 
-pending_dir = Path("data/pending")
-files = sorted(list(pending_dir.glob("*.json")), key=lambda x: x.stat().st_size)
-
+files = glob.glob('data/pending/*.json')
 print(f"Total files: {len(files)}")
 for f in files:
     try:
-        data = json.loads(f.read_text(encoding="utf-8"))
-        video = data.get("video", {})
-        transcript = data.get("transcript", "")
-        print(f"{f.name:<20} | size: {f.stat().st_size:<6} | len: {len(transcript):<6} | {video.get('channel_name')}: {video.get('title')[:30]}")
+        with open(f, 'r', encoding='utf-8') as file:
+            data = json.load(file)
+            title = data['video']['title']
+            transcript = data.get('transcript', '')
+            transcript_len = len(transcript)
+            print(f"{os.path.basename(f)}: len={transcript_len} | Title: {title}")
     except Exception as e:
-        print(f"Error {f.name}: {e}")
+        print(f"Error {f}: {e}")

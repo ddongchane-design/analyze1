@@ -1,0 +1,69 @@
+import json
+from pathlib import Path
+
+def save_analysis(video_id, primary_topic, video_data, analysis_data, classification_data):
+    analyzed_dir = Path(f"data/analyzed/{primary_topic}")
+    analyzed_dir.mkdir(parents=True, exist_ok=True)
+    
+    result_path = analyzed_dir / f"{video_id}.json"
+    result_path.write_text(
+        json.dumps({
+            "video": video_data,
+            "analysis": analysis_data,
+            "classification": classification_data
+        }, ensure_ascii=False, indent=2),
+        encoding="utf-8"
+    )
+    print(f"Saved: {result_path}")
+    
+    pending_file = Path(f"data/pending/{video_id}.json")
+    if pending_file.exists():
+        pending_file.unlink()
+        print(f"Removed pending: {pending_file}")
+        
+    synthesis_cache = Path(f"data/synthesis/{primary_topic}.json")
+    if synthesis_cache.exists():
+        try:
+            synthesis_cache.unlink()
+            print(f"Invalidated cache: {synthesis_cache}")
+        except Exception as e:
+            print(f"Error invalidating cache: {e}")
+
+analyses = {
+  "01SZrd6962A": {
+    "primary": "stock",
+    "video": {
+      "id": "01SZrd6962A",
+      "title": "삼성전자,SK하이닉스와 함께 만스피 끌고갈 주도주! 하반기 ‘여기’에 주목하세요 [판도]",
+      "published": "2026-06-08T00:00:00+00:00",
+      "channel_name": "깨비증권 마블TV [KB증권]",
+      "url": "https://www.youtube.com/watch?v=01SZrd6962A",
+      "thumbnail": "https://img.youtube.com/vi/01SZrd6962A/hqdefault.jpg"
+    },
+    "analysis": {
+      "summary": "하반기 주식 시장은 제조 하드웨어와 인공지능이 결합하는 <span class=\"text-amber-300 font-bold\">피지컬 AI</span> 및 자율주행이 주요 모멘텀이 될 것이며, 중국의 빠른 소프트웨어 팽창과 서방의 지정학적 보안 제재 사이에서 현대차가 유연한 기술 수용을 통해 다크호스로 부상할 전망입니다.",
+      "key_claims": [
+        "중국 전기차 시장은 모멘타(Momenta)와 같은 자율주행 파운드리 및 화웨이의 생태계를 결합하여 L2 수준의 자율주행 침투율 70%를 달성하며 기술 표준을 주도하고 있다.",
+        "중국 자율주행 기술의 해외 진출에 있어서 <span class=\"text-violet-300 font-medium\">사이버 보안 및 해킹 리스크</span>는 서방 진영 도입의 강력한 진입 장벽이자, 한국 자동차 업계에 거대한 반사이익 룸(Room)을 제공한다.",
+        "현대차는 소프트웨어 부문의 한계를 극복하기 위해 포티투닷(42dot)을 중심으로 엔비디아와 구글 플랫폼을 동시 채택하는 등 유연한 <span class=\"text-cyan-300 font-semibold\">패스트 팔로워(Fast Follower) 전략</span>을 전개해 시장 지배력을 강화하고 있다."
+      ],
+      "data_points": [
+        "베이징 모터쇼에서 출시된 신차 규모: 글로벌 모터쇼 평균(20~40개)을 압도하는 181개 신차 발표",
+        "중국 전기차 시장 내 L2 자율주행 침투율: 약 70% 수준 도달"
+      ],
+      "signal": "bullish",
+      "signal_reason": "중국산의 보안 결함으로 인한 서방 제재가 지속되는 한, 하드웨어 제조 능력과 엔비디아/구글 등 글로벌 협업 소프트웨어 유연성을 고루 갖춘 현대차의 가치 재평가 및 장기 상승 모멘텀이 뚜렷하기 때문입니다.",
+      "key_companies": ["현대자동차", "Momenta", "화웨이", "테슬라", "샤오미"],
+      "insight": "자율주행과 로봇은 기술적 아키텍처가 결합되는 <span class=\"text-amber-300 font-bold\">보행형 자동차(로봇)</span> 개념으로 수렴하므로, 자율주행 완성도는 향후 제조업 전반의 스마트 팩토리 및 피지컬 로봇 시장의 패권을 결정하는 필수 관문입니다.",
+      "action_point": "중국 시장의 규제 완화 수혜를 직접 입는 자율주행 부품 공급사 및 현대차 그룹의 소프트웨어 체질 개선(SDV 전환) 프로젝트 수혜가 예상되는 그룹사 IT 서비스 대형주 비중 확대를 권고합니다."
+    },
+    "classification": {
+      "primary_topic": "stock",
+      "secondary_topics": ["tech", "robot"],
+      "tags": ["자율주행", "피지컬AI", "현대자동차", "모멘타", "화웨이", "보안리스크", "판도"]
+    }
+  }
+}
+
+for vid, info in analyses.items():
+    save_analysis(vid, info["primary"], info["video"], info["analysis"], info["classification"])

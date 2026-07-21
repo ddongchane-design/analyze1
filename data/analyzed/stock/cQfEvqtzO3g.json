@@ -1,0 +1,48 @@
+{
+  "video": {
+    "id": "cQfEvqtzO3g",
+    "title": "미국 증시 유가 상승에도 반도체 중심 반등 | 데일리 라이브 | 2026.7.22(수)",
+    "published": "2026-07-21T23:09:04+00:00",
+    "channel_name": "Smart Money by MiraeAsset ",
+    "url": "https://www.youtube.com/watch?v=cQfEvqtzO3g",
+    "thumbnail": "https://img.youtube.com/vi/cQfEvqtzO3g/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "뉴욕 증시는 <span class=\"text-cyan-300 font-semibold\">반도체</span> 지수(SOX)가 5.21% 급등하고 마이크론(+12.17%), AMD(+8%)가 폭등하며 4일 만에 강한 반등세를 시도했습니다. 엔비디아의 차세대 '베라 루빈(Vera Rubin)' AI 가속기 양산 및 4대 클라우드 공급 소식과 UBS의 S&P 500 목표가 상향(8,100pt)이 호재로 작용한 반면, <span class=\"text-violet-300 font-medium\">중동</span> <span class=\"text-amber-300 font-bold\">유가</span> 급등(WTI $84.9, 브렌트 $90 돌파)과 미국 재무부의 <span class=\"text-violet-300 font-medium\">중국</span> AI 모델 기술 탈취 조사 착수 및 <span class=\"text-cyan-300 font-semibold\">TSMC</span>의 10% 가격 인상 방침이 지정학적·비용적 <span class=\"text-rose-400 font-medium\">리스크</span>로 대립하고 있습니다.",
+    "key_claims": [
+      "엔비디아가 차세대 베라 루빈(Vera Rubin) AI 플랫폼의 완전 양산 및 <span class=\"text-cyan-300 font-semibold\">구글</span>, 마이크로소프트, 오라클 공급을 공식 발표하여 기술주 심리를 반등시켰다.",
+      "미국 재무장관 스콧 베센트가 <span class=\"text-violet-300 font-medium\">중국</span> AI 모델(Kimi K3 등)의 미국 프런티어 모델 기술 및 데이터 무단 탈취 조사 및 제재 방침을 전격 발표했다.",
+      "<span class=\"text-cyan-300 font-semibold\">TSMC</span>가 원자재·전력비 상승과 미국 공장 대규모 투자 비용 보전을 위해 2027년부터 성숙·첨단 공정 가격을 최대 10% 인상하기로 결정했다."
+    ],
+    "data_points": [
+      "주요 지수: 나스닥 +1.29%, 필라델피아 반도체 지수 +5.21%, S&P 500 +0.89%",
+      "주요 종목: 마이크론 +12.17%, AMD +1.58%, 인텔 +8.6%, 샌디스크 +14%, 아마존 -0.98%",
+      "원자재 및 환율: WTI 유가 $84.9 (+2%), 브렌트유 $90 돌파, 엔달러 환율 163.21엔"
+    ],
+    "signal": "positive",
+    "signal_reason": "엔비디아 베라 루빈의 본격 양산 출하와 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span> 저가 매수세 유입, S&P 500 상향 <span class=\"text-rose-400 font-medium\">조정</span> 등 기술주 중심의 실적 모멘텀이 유동성 <span class=\"text-rose-400 font-medium\">리스크</span>를 압도하고 있기 때문입니다.",
+    "key_companies": [
+      "NVIDIA(NVDA)",
+      "Micron(MU)",
+      "AMD(AMD)",
+      "TSMC(TSM)",
+      "Intel(INTC)"
+    ],
+    "insight": "<span class=\"text-cyan-300 font-semibold\">TSMC</span>의 10% 단가 인상은 빅테크의 <span class=\"text-cyan-300 font-semibold\">반도체</span> 조달 비용을 높이지만, 역설적으로 <span class=\"text-cyan-300 font-semibold\">반도체</span> 제조사의 강력한 가격 결정력을 증명합니다. 엔비디아 베라 루빈으로의 세대 교체는 차세대 <span class=\"text-cyan-300 font-semibold\">HBM</span>4 수요를 조기 자극할 것입니다.",
+    "action_point": "마이크론 및 엔비디아 밸류체인(<span class=\"text-cyan-300 font-semibold\">HBM</span>, 초고속 메모리) 중심의 매수세를 강화하고, <span class=\"text-amber-300 font-bold\">유가</span> 상방 압력에 따른 에너지 헷지 포트폴리오를 일부 병행하는 것이 유리합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "필라델피아반도체급등",
+      "중동지정학위험",
+      "베라루빈양산",
+      "중국AI기술탈취조사",
+      "TSMC가격을상"
+    ]
+  }
+}

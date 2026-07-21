@@ -1,0 +1,38 @@
+{
+  "video": {
+    "id": "tfy0Qi7L7Bc",
+    "title": "\"실적 코웃음 치는 코스피\" 반등의 열쇠는 여기 있다 | 빈센트 [더블밸류업]",
+    "published": "2026-07-21T08:31:49+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=tfy0Qi7L7Bc",
+    "thumbnail": "https://img.youtube.com/vi/tfy0Qi7L7Bc/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "빈센트 전문가는 주가와 실적 간의 이격(괴리)이 극도로 벌어져 불거진 시장 공포는 심리적 착시에 불과하다고 진단했습니다. <span class=\"text-cyan-300 font-semibold\">반도체</span> 및 대형주 실적 성장은 확고하므로 주가는 반드시 실적을 추종하여 폭등할 것이라는 분석 아래, 공포를 딛고 1년 분할 매수로 포트폴리오를 채워 넣을 것을 강하게 권고합니다.",
+    "key_claims": [
+      "현재의 코스피 하락은 기업 실적 펀더멘탈과 주가 간의 이격도가 극대로 벌어진 심리적 왜곡 현상이다.",
+      "주가는 결국 기업 실적의 궤적을 따라 수렴하므로 공포에 털리지 말고 안분 분할 매수로 우량주를 모아가야 한다."
+    ],
+    "data_points": [],
+    "signal": "positive",
+    "signal_reason": "주가와 펀더멘탈 실적 간의 극단적 이격이 조만간 주가의 실적 수렴 랠리로 해소될 것으로 확신하기 때문입니다.",
+    "key_companies": [
+      "SK하이닉스(000660)",
+      "삼성전자(005930)"
+    ],
+    "insight": "실적은 치솟는데 주가만 떨어진 자리는 역사적으로 최적의 분할 매수 기회였습니다. 공포감 수급 불안은 이격 해소 랠리로 수렴합니다.",
+    "action_point": "실적 대비 과<span class=\"text-rose-400 font-medium\">조정</span>된 <span class=\"text-cyan-300 font-semibold\">반도체</span> 대형주를 중심으로 분할 매수를 꾸준히 집행해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "실적과주가이격",
+      "실적추종믿음",
+      "분할매수전략",
+      "심리적공포극복"
+    ]
+  }
+}

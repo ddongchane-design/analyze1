@@ -1,7 +1,21 @@
 import json
 from pathlib import Path
 
-def save_analysis(video_id, primary_topic, video_data, analysis_data, classification_data):
+def save_and_delete(video_id, primary_topic, secondary_topics, tags, analysis_data):
+    pending_path = Path(f"data/pending/{video_id}.json")
+    if not pending_path.exists():
+        print(f"Error: {pending_path} does not exist.")
+        return
+        
+    pending_data = json.loads(pending_path.read_text(encoding="utf-8"))
+    video_data = pending_data["video"]
+    
+    classification_data = {
+        "primary_topic": primary_topic,
+        "secondary_topics": secondary_topics,
+        "tags": tags
+    }
+    
     analyzed_dir = Path(f"data/analyzed/{primary_topic}")
     analyzed_dir.mkdir(parents=True, exist_ok=True)
     
@@ -16,249 +30,141 @@ def save_analysis(video_id, primary_topic, video_data, analysis_data, classifica
     )
     print(f"Saved: {result_path}")
     
-    pending_file = Path(f"data/pending/{video_id}.json")
-    if pending_file.exists():
-        pending_file.unlink()
-        print(f"Removed pending: {pending_file}")
-        
+    pending_path.unlink()
+    print(f"Deleted pending: {pending_path}")
+    
     synthesis_cache = Path(f"data/synthesis/{primary_topic}.json")
     if synthesis_cache.exists():
-        try:
-            synthesis_cache.unlink()
-            print(f"Invalidated cache: {synthesis_cache}")
-        except Exception as e:
-            print(f"Error invalidating cache: {e}")
+        synthesis_cache.unlink()
+        print(f"Invalidated cache: {synthesis_cache}")
 
-analyses = {
-  "hZtJtpHzRGw": {
-    "primary": "robot",
-    "video": {
-      "id": "hZtJtpHzRGw",
-      "title": "아틀라스가 안 나온 진짜 이유 현대차 엔비디아 대만 GTC",
-      "published": "2026-06-03T05:30:00+00:00",
-      "channel_name": "엔지니어TV",
-      "url": "https://www.youtube.com/watch?v=hZtJtpHzRGw",
-      "thumbnail": "https://img.youtube.com/vi/hZtJtpHzRGw/hqdefault.jpg"
-    },
+# Batch 4 analyses
+batch_4 = {
+  "_alQSdz53YQ": {
+    "primary_topic": "crypto",
+    "secondary_topics": ["economy", "tech"],
+    "tags": ["이더리움", "이드랩스", "비탈릭부테린", "재단공백", "가치환원", "파이널리티"],
     "analysis": {
-      "summary": "엔비디아의 로봇 OS/플랫폼 표준화 야망(그루트, 코스모스 3 등) 속에서 현대차가 인수한 보스턴 다이나믹스의 <span class=\"text-cyan-300 font-semibold\">아틀라스</span>(Atlas)가 엔비디아 메인 키노트에 직접 나서지 않은 이유를 조명합니다. 보스턴 다이나믹스는 단순 하드웨어 제조사를 넘어 자체 AI 연구소와 구글 기술을 융합하여 독자적인 '로봇 두뇌' 생태계를 유지하려는 독립적 전략적 포지션을 취하고 있습니다.",
+      "summary": "이더리움 가격 하락과 재단 공백 논란을 해결하기 위해, 비트마인과 샤프링크 등 주요 지분 보유자들이 공동 펀딩을 통해 가치 환원 응용 조직인 <span class=\"text-cyan-300 font-semibold\">이드랩스(EthLabs)</span>를 설립했습니다. 이더리움 재단이 보안과 순수 기술 연구를 맡는 한편, 이드랩스는 가격 상승과 직접 연결되는 상업적 응용 및 <span class=\"text-amber-300 font-bold\">가치 환원 구조 개선</span>을 집중 지원할 것입니다. L2 활성화로 위축되었던 이더리움 메인넷의 정산 역할 강화와 <span class=\"text-cyan-300 font-semibold\">파이널리티(Finality) 개선</span>이 핵심 과제입니다.",
       "key_claims": [
-        "엔비디아의 궁극적인 목표는 모든 로봇 위에 얹어질 소프트웨어 OS와 AI 두뇌(코스모스, 그루트)의 표준화 장악이다.",
-        "보스턴 다이나믹스는 엔비디아의 부품/자율주행 고객이지만, 휴머노이드 분야에서는 자체 피지컬 AI 연구 역량(rai 조직, 로봇 훈련소)을 보유해 전면 의존을 거부한다.",
-        "엔비디아가 피규어, 유니트리 등을 표준 파트너로 세운 반면, 현대차는 아틀라스만의 독립적인 AI 월드 모델 구축을 추구하며 협력과 긴장 관계를 병행하고 있다."
-      ],
-      "data_points": [],
-      "signal": "neutral",
-      "signal_reason": "엔비디아의 로봇 플랫폼 장악 전략과 보스턴 다이나믹스의 독자 노선 간의 역학 구도를 분석한 내용으로, 즉각적인 주가 상승이나 하락 신호보다는 업계 표준 선점 경쟁을 시사합니다.",
-      "key_companies": [
-        "엔비디아",
-        "현대자동차",
-        "보스턴다이나믹스",
-        "유니트리"
-      ],
-      "insight": "엔비디아는 PC 시대의 윈도우(OS)처럼 로봇 시장 전체의 소프트웨어 표준을 독점하려 합니다. 하지만 대량의 실전 생산 인프라와 자체 로봇 AI 연구소(AI Institute)를 보유한 현대차-보스턴 다이나믹스는 엔비디아의 독점 생태계에 종속되지 않고 독자적인 월드 모델을 수립하려 하며, 이는 향후 로봇 표준화 주도권을 둘러싼 미묘한 전선 형성을 의미합니다.",
-      "action_point": "엔비디아 로봇 연합에 참여해 즉각적인 양산 기회를 얻는 유니트리 등 중국 로봇 공급망의 수혜 가능성을 평가하고, 보스턴 다이나믹스 독자 생태계(현대차 그룹) 내의 감속기 및 전용 핵심 모터 수혜주들을 선별해야 합니다."
-    },
-    "classification": {
-      "primary_topic": "robot",
-      "secondary_topics": ["tech", "stock"],
-      "tags": ["아틀라스", "보스턴다이나믹스", "엔비디아", "그루트", "로봇플랫폼", "피지컬AI", "현대자동차"]
-    }
-  },
-  "olseOKUNniQ": {
-    "primary": "tech",
-    "video": {
-      "id": "olseOKUNniQ",
-      "title": "AI가 AI를 만든다. 이제 중요한 것은?｜유토피아ㅣ2026.6.3(수)",
-      "published": "2026-06-03T10:00:00+00:00",
-      "channel_name": "Smart Money by MiraeAsset ",
-      "url": "https://www.youtube.com/watch?v=olseOKUNniQ",
-      "thumbnail": "https://img.youtube.com/vi/olseOKUNniQ/hqdefault.jpg"
-    },
-    "analysis": {
-      "summary": "안드레 카파시의 앤스로픽(Anthropic) 합류를 기점으로 AI 연구 자동화(AI가 스스로 AI를 개선하는 재귀적 자기 개선)가 AI 패러다임의 핵심 화두로 부상했습니다. 이로 인해 AI 개발의 병목이 인간 연구원의 시간에서 컴퓨트, 데이터, 전력 등 <span class=\"text-cyan-300 font-semibold\">AI 인프라</span> 단으로 급격히 이전하고 있으며, 기업 업무 지식과 실질적 데이터 검증 권한을 틀어쥔 '딥 사스(Deep SaaS)'의 가치가 부각되고 있습니다.",
-      "key_claims": [
-        "AI가 다음 세대 AI를 개선하기 위해 코드를 읽고 실험을 자동 설계·수행하는 'AI 연구 자동화' 경쟁이 가속화되고 있다.",
-        "실험 자동화는 개발 비용을 줄이는 것이 아니라 실험 횟수의 폭증을 가져와 GPU, HBM, 전력 등 물리적 인프라 수요를 추가 유발한다.",
-        "UI 중심의 얕은 사스(Thin SaaS)는 AI로 도태되나, 팔란티어(온톨로지)나 시놉시스처럼 기업 핵심 데이터와 검증 시스템을 쥔 '딥 사스(Deep SaaS)'의 moats는 강화된다."
+        "이더리움 재단의 상업성 및 가치 부양 노력 부족에 대한 비판 속에서, 이해관계자들의 자생적 기부로 이드랩스가 빠르게 출범했다.",
+        "이드랩스는 이더리움 메인넷으로의 수수료 환원율을 높이고 파이널리티 속도를 크게 단축하는 등 사용성과 가치 극대화를 직접 주도한다.",
+        "비탈릭 부테린의 탈중앙화 순수주의와 배치되지 않는 이원화된 분화(대학의 순수과학 vs 응용과학)를 통해 이더리움의 회복 탄력성을 확인했다."
       ],
       "data_points": [
-        "안드로 카파시 앤스로픽 합류 공식화",
-        "클로드 코드(Claude Code) 어시스턴트 도입"
+        "이더리움 주요 지분 소유자: 비트마인 및 샤프링크 등 (0.16%~17% 소유 및 1~4% 기부)",
+        "이더리움 노드 개수: 현재 약 20,000개 내외"
       ],
       "signal": "bullish",
-      "signal_reason": "AI의 자기 개선 경쟁 심화는 일회성 소프트웨어 붐을 넘어 반도체, 전력, 데이터센터 인프라 지출 장기화로 이어지며, 독점적 업무 프로세스 지적재산권을 가진 딥 사스 기업들에게 큰 기회가 됩니다.",
-      "key_companies": [
-        "앤스로픽",
-        "오픈AI",
-        "팔란티어",
-        "시놉시스",
-        "엔비디아"
-      ],
-      "insight": "AI는 가벼운 소프트웨어처럼 보이지만 본질적으로는 전력과 하드웨어를 집어삼키는 제조업적 특성을 띱니다. 카파시의 행보는 기술적 한계 돌파구가 '인간 연구원의 머리'가 아니라 '자동화된 AI 인프라 실험 엔진'으로 전환되고 있음을 보여주며, 이는 데이터센터와 고부가가치 데이터 및 규칙을 통제하는 기업들의 협상력을 높여줄 것입니다.",
-      "action_point": "단순 챗봇 서비스사 투자를 지양하고, 대규모 실험 폭증으로 전력 및 HBM 수요 수혜를 입는 인프라 대형주와 강력한 기업 데이터 록인을 지닌 팔란티어(PLTR) 등 딥 사스 강자에 장기 대응해야 합니다."
-    },
-    "classification": {
-      "primary_topic": "tech",
-      "secondary_topics": ["stock", "energy"],
-      "tags": ["안드레카파시", "앤스로픽", "재귀적자기개선", "딥사스", "팔란티어", "AI인프라", "클로드"]
+      "signal_confidence": "medium",
+      "signal_reason": "이더리움의 실질적 가치 부양 및 상업적 문제를 전담하는 이드랩스의 출범으로, L2 쏠림에 따른 메인넷 가치 훼손 우려가 극복되고 3분기 대규모 업데이트와 맞물려 강한 반등 시그널로 작용하기 때문입니다.",
+      "key_companies": ["이드랩스(EthLabs)", "코인베이스", "비트마인", "샤프링크", "유니스왑"],
+      "insight": "그동안 이더리움 생태계는 과도한 탈중앙성과 순수주의 철학에 매몰되어 가격 부양에 소홀하다는 비판을 받았습니다. 그러나 이드랩스라는 상업용 독립 개발 조직이 등장함으로써, 플랫폼 거버넌스의 분열이 아닌 효율적인 역할 분담(L1 개발 고도화 및 최종 정산 기능 강화)을 꾀할 수 있게 되었으며, 이는 제도권 기관 자금의 유입 신뢰도를 한층 높여줄 것입니다.",
+      "action_point": "단기 가격 조정에 흔들리지 말고, 3분기 이더리움 <span class=\"text-cyan-300 font-semibold\">메이저 업그레이드</span>와 <span class=\"text-cyan-300 font-semibold\">이드랩스</span>의 상업성 개선 시그널을 관찰하며 포트폴리오 내 이더리움 비중을 분할 매집하는 전략이 유효합니다."
     }
   },
-  "TFTAXglmr2Y": {
-    "primary": "tech",
-    "video": {
-      "id": "TFTAXglmr2Y",
-      "title": "\"2배 이상 올린다\" 최태원 폭탄 선언, 세계 AI 판도 바꾼 하이닉스 🇹🇼Computex",
-      "published": "2026-06-03T11:00:00+00:00",
-      "channel_name": "Softdragon SOD",
-      "url": "https://www.youtube.com/watch?v=TFTAXglmr2Y",
-      "thumbnail": "https://img.youtube.com/vi/TFTAXglmr2Y/hqdefault.jpg"
-    },
+  "_YVCZBxUFM0": {
+    "primary_topic": "stock",
+    "secondary_topics": ["economy", "tech"],
+    "tags": ["마이크론", "삼성전자", "SK하이닉스", "반도체실적", "PER밸류에이션", "할인율"],
     "analysis": {
-      "summary": "대만 컴퓨텍스 현장에서 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>가 엔비디아 젠슨 황의 전폭적인 지지(\"Please make more HBM\")와 친필 서명을 받으며 AI 팩토리의 독보적 파트너임을 재입증했습니다. AI 생산성(에이전트 구동)을 결정짓는 핵심 병목인 열 제어(Advanced MR-MUF) 기술 경쟁력을 통해, 하이닉스는 단순 부품 공급사를 넘어 AI 성능을 좌우하는 인프라 설계자로 입지를 굳혔습니다.",
+      "summary": "마이크론의 3분기 실적과 4분기 가이던스가 시장 컨센서스를 모두 20% 가까이 상회하며 반도체 <span class=\"text-rose-400 font-medium\">피크아웃 및 AI 버블 우려</span>를 불식시켰습니다. 호실적의 근간은 AI 서버용 HBM 및 고부가가치 메모리 수요의 강력한 지속에 기인합니다. 마이크론의 12개월 선행 PER은 7배 중반 수준으로 매력적이며, 이는 국내 투톱인 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>와 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>에 대한 외국인 매수세 유입과 동반 랠리 기대감을 강력하게 키우고 있습니다.",
       "key_claims": [
-        "엔비디아 젠슨 황 CEO는 메모리 병목 심화를 해결하기 위해 하이닉스 부스에 가장 오랜 시간 머무르며 HBM 대량 증산을 거듭 요청했다.",
-        "HBM 고단 적층 시 발생하는 발열과 TSV 신호 왜곡을 완벽히 해결한 하이닉스의 열 제어 패키징 기술이 엔비디아 독점 공급망의 최대 무기이다.",
-        "HBM4(2048-bit) 도입에 따라 대역폭이 2.9TB/s로 기하급수적으로 폭증하며, SK하이닉스는 하이퍼스케일러들의 전력·성능 한계를 뚫어주는 인프라사로 격상되었다."
+        "마이크론의 어닝 서프라이즈와 가이던스 상향은 AI 데이터센터 투자가 일시적인 버블이 아닌 강력한 펀더멘탈에 기반함을 입증한다.",
+        "포워드 PER 기준 7배 중반까지 주가 평가가 낮아진 마이크론의 밸류에이션 매력이 글로벌 반도체 전반의 재평가를 유도할 것이다.",
+        "과거 마이크론 대비 20~30%에 달했던 한국 반도체 기업들의 할인율이 최근 5~10% 수준으로 크게 좁혀지며 상대적 강세가 부각되고 있다."
       ],
       "data_points": [
-        "현행 HBM 속도: 1.2TB/s → HBM4 목표 속도: 2.9TB/s에서 최대 4.0TB/s",
-        "HBM4 I/O 수: 1024-bit에서 2048-bit로 확장",
-        "HBM 밀도 및 대역폭 증가폭: 33% ~ 38%"
+        "마이크론 3분기 실적 및 가이던스: 시장 예상치 대비 약 20% 상회",
+        "마이크론 4분기 EPS 가이던스: 3.10달러 (이전 분기 2.25달러 대비 대폭 성장)",
+        "한국 반도체 기업 할인율: 과거 20~30% 수준 -> 최근 5~10% 이내 축소"
       ],
       "signal": "bullish",
-      "signal_reason": "메모리가 AI 데이터센터 전체 성능과 전력 마진의 병목(Bottleneck)이 됨에 따라 독점적 1위인 SK하이닉스의 가격 결정력과 영업이익 마진 40%대 안착 가능성은 매우 높습니다.",
-      "key_companies": [
-        "SK하이닉스",
-        "엔비디아",
-        "TSMC"
-      ],
-      "insight": "과거 데이터센터 시대의 D램은 단순 부품이었으나, AI 팩토리 시대의 HBM은 GPU 패키징(CoWoS)에 밀착되어 시스템 구동 한계를 규정하는 인프라입니다. 최태원 회장의 증산 기조 선언과 젠슨 황의 구애는 하이닉스가 독점적 HBM 패키징 기술력을 레버리지하여 메모리 업계의 주도권을 완전히 장악했음을 방증합니다.",
-      "action_point": "SK하이닉스의 HBM4 선제 개발 수혜를 염두에 두고 관련 장비 공급망(MR-MUF 리플로우 장비, TSV 세정 및 검사 장비사)의 지분을 지속 확보해야 합니다."
-    },
-    "classification": {
-      "primary_topic": "tech",
-      "secondary_topics": ["stock"],
-      "tags": ["SK하이닉스", "HBM4", "엔비디아", "발열제어", "MR-MUF", "컴퓨텍스", "AI인프라"]
+      "signal_confidence": "high",
+      "signal_reason": "AI 고점 논란을 완벽히 해소하는 실적 발표와 4분기 가이던스 제시로, 메모리 반도체 사이클이 2027년까지 강력하게 연장될 것임을 시사하기 때문입니다.",
+      "key_companies": ["마이크론", "SK하이닉스", "삼성전자"],
+      "insight": "단순히 어닝 서프라이즈가 나왔다는 사실을 넘어, HBM 시장과 전반적인 AI 인프라 부품의 병목 현상이 여전함을 보여주고 있습니다. 이는 한국의 하드웨어 제조사들이 공급망의 절대적 열쇠를 쥐고 있음을 재확인시켜 줍니다. 향후 SK하이닉스의 미국 상장 및 삼성전자의 추가 자사주 매입 정책 등이 밸류에이션 할인을 더욱 축소시키는 촉매제가 될 것입니다.",
+      "action_point": "공포에 흔들려 포트를 줄이기보다, 확실한 주도주인 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>와 밸류에이션 매력이 높은 <span class=\"text-cyan-300 font-semibold\">삼성전자</span> 중심으로 반도체 비중을 50% 이상 유지하며 긴 호흡으로 대응해야 합니다."
     }
   },
-  "D47e_f8lM8A": {
-    "primary": "stock",
-    "video": {
-      "id": "D47e_f8lM8A",
-      "title": "[LIVE] 어플라이드 에어로스페이스, '우주 IPO 러시' 신호탄? | 이나연 특파원",
-      "published": "2026-06-03T11:30:00+00:00",
-      "channel_name": "매경월가월부",
-      "url": "https://www.youtube.com/watch?v=D47e_f8lM8A",
-      "thumbnail": "https://img.youtube.com/vi/D47e_f8lM8A/hqdefault.jpg"
-    },
+  "cwaS1cqEE5E": {
+    "primary_topic": "economy",
+    "secondary_topics": ["tech", "stock"],
+    "tags": ["우발성", "자본비용", "WACC", "AI인프라", "전력과부하", "마이크론실적"],
     "analysis": {
-      "summary": "우주 국방 항공 관련 기업들의 연쇄 IPO가 지속되는 가운데, 사모펀드 엑시트 성격의 어플라이드 에어로스페이스가 상장 첫날 공모가 상단 부근 시초가 대비 -4.95% 하락 마감했습니다. 이는 기관의 높은 수요에도 불구하고 일반 시장의 차익 실현 경향이 뚜렷함을 보여주며, 다가오는 6월 12일 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 초대형 나스닥 상장을 앞두고 신중한 접근이 필요함을 시사합니다. 한편 워런 버핏의 후계자 그랙 아벨은 전통적 스타일과 달리 테일러 모리슨 인수를 통한 옛 시거버트(싼 기업 줍기) 회귀 및 구글에 $100억 규모 AI 자금 추가 배팅(FOMO 회피)을 감행해 주목받고 있습니다.",
+      "summary": "마이크론의 기록적인 호실적 뒤에는 급격히 늘어나는 <span class=\"text-rose-400 font-medium\">자본비용(WACC)</span> 및 AI 구동 방식의 근본적 비효율성이라는 거대한 그림자가 숨어 있습니다. 하이퍼스케일러들은 저렴한 채권 대신 고비용의 주식 발행과 희석(구글의 850억 달러 발행, 오픈AI의 재파이낸싱/IPO 압박 등)을 통해 무한 경쟁을 이어가고 있습니다. 연준의 금리 인상 리스크와 전력망 과부하가 맞물려, 향후 예상치 못한 <span class=\"text-rose-400 font-medium\">우발적 리스크</span>가 발발할 가능성에 대비해야 합니다.",
       "key_claims": [
-        "어플라이드 에어로스페이스, 호크아이 360 등 사모펀드 자금이 회수 단계에 들어서며 우주 국방 섹터의 IPO 러시가 이어지고 있다.",
-        "어플라이드 에어로스페이스의 첫날 종가 하락(-4.95%)은 적자 지속 및 대주주 락업 해제 시의 물량 부담 우려가 작용한 결과다.",
-        "버크셔의 그랙 아벨은 버핏의 불간섭 원칙과 달리 피인수 주택 회사들의 사업 통합 시너지와 미검증 AI 기술 참여(구글 $100억 투자)에 전향적 자세를 보였다."
+        "AI 기업들이 높은 요구 수익률을 가진 주주 자본에 과도하게 의존하면서 전체적인 자본비용(WACC) 부담이 가중되고 있다.",
+        "현재의 대용량 메모리 기반 실시간 구동 방식은 극심한 전력 과부하를 초래하므로 기술의 파기적 혁신 없이는 인프라가 감당하기 어렵다.",
+        "역사적 금융 위기들은 언제나 예상치 못한 우발성에서 출발했으므로, AI 투자 쏠림 속에서 주변부 자산의 이탈과 인프라 지연을 주시해야 한다."
       ],
       "data_points": [
-        "어플라이드 에어로스페이스 공모가: 20달러 (가이던스 $18~$21의 상단 부근)",
-        "어플라이드 에어로스페이스 첫날 종가 등락률: -4.95% (시초가는 +3.75% 상승 출발)",
-        "스페이스X 기업 가치 평가액: 1조 7,500억 달러 (어플라이드의 약 500배)",
-        "스페이스X 나스닥 상장 예정일: 2026년 6월 12일 (로드쇼 6월 4일 시작)",
-        "그랙 아벨의 테일러 모리슨 인수 금액: 68억 달러 (현금 인수)",
-        "버크셔의 구글(알파벳) 추가 투자액: 100억 달러 (기존 $170억 지분에 추가)"
+        "구글의 주식 발행 규모: 850억 달러 (포워드 PER 25배 수준)",
+        "삼성전자 반도체 부문 마진율: 약 83% 수준 (공급망의 극단적 독식 구조를 시사)"
       ],
-      "signal": "neutral",
-      "signal_reason": "우주/국방 섹터의 IPO 활성화는 장기적으로 산업 개화에 긍정적이나 첫날 단기 급락은 신규 상장주에 대한 경계감을 높입니다. 버크셔의 행보는 테크 및 자산 배분 변화 흐름을 뒷받침합니다.",
-      "key_companies": [
-        "스페이스X",
-        "어플라이드에어로스페이스",
-        "구글",
-        "버크셔해서웨이",
-        "테일러모리슨"
-      ],
-      "insight": "사모펀드 Greenbriar의 어플라이드 에어로스페이스 상장 구도는 전형적인 고평가 엑시트 시도에 가깝습니다. 하지만 스페이스X는 시총 규모(1조 7500억 달러)가 비교 불가능하게 크고 글로벌 우주 패권을 쥔 독보적 독점주이므로, 초기 단기 변동성을 지나면 강력한 자금 유입이 기대됩니다. 버크셔 아벨의 알파벳 투자는 4,000억 달러의 현금 잉여를 배분하기 위해 'AI 불참 리스크(FOMO)'를 방어하려는 2세대 리더십의 실용적 변화를 나타냅니다.",
-      "action_point": "6월 12일로 예정된 스페이스X 상장 전후로 국내 저궤도 위성 안테나 및 항공우주 부품사들의 주가 동조화 가능성을 주시하고, 단기 신규상장 우주주의 낙폭 과대 시 분할 매수를 검토할 수 있습니다."
-    },
-    "classification": {
-      "primary_topic": "stock",
-      "secondary_topics": ["space", "tech"],
-      "tags": ["스페이스X상장", "우주산업IPO", "어플라이드에어로스페이스", "그랙아벨", "버크셔해서웨이", "구글추가투자"]
+      "signal": "bearish",
+      "signal_confidence": "medium",
+      "signal_reason": "기술 혁신으로 생산성 개선 속도가 비용 상승을 압도하지 못하고 있으며, 자본비용 급등과 전력 부족 등 AI 생태계 내부의 병목 요인들이 누적되어 자산 가격 조정 리스크를 높이고 있기 때문입니다.",
+      "key_companies": ["구글", "오픈AI", "애플", "엔비디아", "삼성전자", "SK하이닉스"],
+      "insight": "AI 골디락스 네러티브 이면에 있는 고비용 구조를 파헤쳐야 합니다. 특히 애플이 현재의 고비용 메모리 독식 생태계(마진 83%에 달하는 반도체 가격)에 대한 반대 의사를 표명한 것은, 대형 플랫폼사들이 비용 통제를 위해 자체 반도체 개발이나 알고리즘 경량화에 혈안이 될 것임을 예고합니다. 자본비용이 올라가는 중금리 환경에서 단순 테마주는 소외되고, 명확한 현금 흐름을 창출하는 기업 위주로의 자금 쏠림이 한층 심화될 것입니다.",
+      "action_point": "성장 테마에 지나치게 편중된 포트폴리오를 조정하여 확실한 <span class=\"text-cyan-300 font-semibold\">하드웨어 공급사</span> 및 <span class=\"text-cyan-300 font-semibold\">전력망 수혜주</span>로 포트를 좁히고, 자산의 20~30%는 <span class=\"text-amber-300 font-bold\">현금 비중</span>으로 보유하여 우발적 변동성에 대비하는 방어적 전략이 적절합니다."
     }
   },
-  "wieaUTwTpiY": {
-    "primary": "stock",
-    "video": {
-      "id": "wieaUTwTpiY",
-      "title": "부족해도 너무 부족한 AI발 전력난, 조선업에 해결의 실마리가 있습니다ㅣ엄경아 신영증권 연구위원 [1부]",
-      "published": "2026-06-03T09:00:00+00:00",
-      "channel_name": "이효석아카데미",
-      "url": "https://www.youtube.com/watch?v=wieaUTwTpiY",
-      "thumbnail": "https://img.youtube.com/vi/wieaUTwTpiY/hqdefault.jpg"
-    },
+  "e-M-ZEvxLPk": {
+    "primary_topic": "stock",
+    "secondary_topics": ["economy", "tech"],
+    "tags": ["마이크론", "어닝서프라이즈", "시간외급등", "퀄컴", "온디바이스AI"],
     "analysis": {
-      "summary": "국제해사기구(IMO)의 환경 규제 강화와 전 세계 에너지 패러다임 변화에 따라, 한국 조선업계가 단순 화석연료 선박 제조에서 수소 연료전지, 암모니아 추진선, SMR(소형 모듈 원자로) 탑재 선박 등 차세대 친환경 선박 기술을 중심으로 구조적 롱사이클 초입에 진입했습니다. 특히 신영증권 엄경아 위원은 지주사 격인 HD한국조선해양을 수소 연료전지 및 무탄소 에너지 전환 자회사 가치를 온전히 누릴 수 있는 장기 최선호주로 꼽았습니다.",
+      "summary": "마이크론의 주당순이익(EPS)이 위스퍼링 넘버마저 가볍게 뛰어넘는 25달러(가정 수치 포함 서프라이즈)를 달성하며 시간외 11% 이상 급등했습니다. 이와 동시에 <span class=\"text-cyan-300 font-semibold\">퀄컴</span>의 온디바이스 AI 시장 확대 가이드가 겹쳐 반도체 동반 랠리의 기폭제가 되었습니다. 강달러 기조 용인 하에 미국 국채 금리 안정화($4.3대)와 국제 유가의 60달러대 진입 등 <span class=\"text-amber-300 font-bold\">우호적 매크로 지표</span>들이 겹치며 골디락스 진입 신호가 감지됩니다.",
       "key_claims": [
-        "한국 조선업은 다년간의 침체기를 지나 선가 상승과 친환경 교체 수요가 맞물린 장기 수주 사이클의 이제 막 출발선에 서 있다.",
-        "IMO의 넷제로 규제 대응을 위해 선박 추진 에너지원이 LNG를 거쳐 무탄소(수소, 암모니아, SMR 원자력)로 급격히 전환되고 있다.",
-        "HD한국조선해양은 100% 지분을 보유한 비상장 차세대 수소 연료전지 자회사를 통해 미래 친환경 선박 시장의 핵심 특허와 기술력을 내재화하고 있다."
+        "마이크론은 시장의 혹독한 위스퍼링 넘버(22)마저 넘어서는 25를 달성하며 반도체 불확실성을 일거에 소멸시켰다.",
+        "온디바이스 AI 성장성에 대한 퀄컴의 긍정적 가이드가 마이크론의 HBM 모멘텀과 시너지를 내며 IT 전반의 수요를 증명했다.",
+        "유가가 3개월 만에 60달러선으로 급락하고 국채 금리가 하향 안정화되며 매크로 리스크가 눈에 띄게 완화되었다."
       ],
       "data_points": [
-        "조선업 최선호주 선정: HD한국조선해양",
-        "글로벌 친환경 선박 배출 제로 규제 기관: IMO (국제해사기구)"
+        "마이크론 EPS 예상치: 20.4달러 vs 실제 25달러 발표",
+        "미국 10년물 국채 금리: 4.5% 수준 -> 4.3%대로 하락",
+        "WTI 유가: 3개월 만에 60달러대(60달러 초반) 진입"
       ],
       "signal": "bullish",
-      "signal_reason": "전 세계적인 탄소 규제 장기화로 노후 선박들의 무탄소 연료선 교체 사이클이 도래했고, 독점적 고난도 선박 제조 역량을 가진 국내 대형 조선3사(특히 HD현대 계열)의 수주 잔고와 선가 상승세가 장기적으로 우상향을 지지합니다.",
-      "key_companies": [
-        "HD한국조선해양",
-        "HD현대중공업"
-      ],
-      "insight": "조선업은 오랜 고정비 부담을 이겨내고 선별 수주가 가능한 판매자 우위 시장(Seller's Market)으로 돌아섰습니다. 특히 단순한 조립 공장이 아닌 미래 해상 SMR 발전선이나 수소 추진 밸류체인의 원천 지식과 자회사를 틀어쥔 지주사(HD한국조선해양)에 투자하는 것이 양적 성장을 넘어 질적 고부가가치 마진을 온전히 획득하는 가장 확실한 전략입니다.",
-      "action_point": "전통 디젤엔진 부품 중심에서 친환경 메탄올·암모니아 기자재 및 무탄소 선박 기자재(예: 보냉재, 고압 밸브, 극저온 가스 밸브사) 특화 기업들로 포트폴리오를 전환하고, 한국조선해양 지분을 점진적으로 분할 매집해야 합니다."
-    },
-    "classification": {
-      "primary_topic": "stock",
-      "secondary_topics": ["energy", "tech"],
-      "tags": ["조선업사이클", "HD한국조선해양", "친환경선박", "IMO환경규제", "수소연료전지", "SMR선박", "엄경아"]
+      "signal_confidence": "high",
+      "signal_reason": "반도체 어닝 서프라이즈와 매크로 여건 개선(유가 하락, 금리 안정)이 동시에 맞아떨어져 주식 시장의 위험 자산 투자 심리가 강력한 상승 동력을 확보했기 때문입니다.",
+      "key_companies": ["마이크론", "퀄컴", "엔비디아", "SK하이닉스"],
+      "insight": "최근 3일간의 주가 조정은 마이크론 실적 발표를 앞둔 공포 섞인 대기 장세에 불과했습니다. 이 억눌렸던 불확실성이 해소되자마자 전반적인 하이테크 기업들의 강력한 밸류에이션 매력이 부상하고 있습니다. 강달러의 부작용보다 유가 급락과 금리 인하 기대 등 인플레이션 제어 요인들이 더 강력한 우군으로 작용할 것입니다.",
+      "action_point": "불안 심리에 따른 추격 매도를 멈추고, <span class=\"text-cyan-300 font-semibold\">마이크론 및 퀄컴</span> 등 실적으로 증명한 글로벌 핵심 반도체/부품 공급사로 비중을 재조정하여 어닝 시즌의 직접적 수혜를 누려야 합니다."
     }
   },
-  "jyU-nJNYOqQ": {
-    "primary": "crypto",
-    "video": {
-      "id": "jyU-nJNYOqQ",
-      "title": "비트코인 32개 매도, 끝이 아닙니다. JP모건이 필사적으로 숨기려는 '진짜 속내'",
-      "published": "2026-06-03T11:40:00+00:00",
-      "channel_name": "디파이 농부 조선생 | Professor Jo",
-      "url": "https://www.youtube.com/watch?v=jyU-nJNYOqQ",
-      "thumbnail": "https://img.youtube.com/vi/jyU-nJNYOqQ/hqdefault.jpg"
-    },
+  "kDZVAHZBB50": {
+    "primary_topic": "stock",
+    "secondary_topics": ["economy", "tech"],
+    "tags": ["조선주", "HD현대중공업", "HD한국조선해양", "발전용엔진", "캐나다군함수주", "LNG운반선"],
     "analysis": {
-      "summary": "마이크로스트레티지(MSTR)의 32 BTC($250만) 소량 매도로 비트코인 시장이 흔들렸으나, 이는 신념 약화가 아닌 주당 보유 비통코인 지표인 BPS(Bitcoin Per Share)를 지키기 위한 정교한 자본 조달 결정이었습니다. MSTR의 부채 및 우선주 선순위 구조를 고려할 때, NAV 프리미엄이 **1.22** 임계점 부근으로 내려오면 보통주 추가 증자(ATM) 대신 비트코인을 소량 매도해 자금을 조달하는 것이 주주 가치 훼손을 최소화하는 최선책입니다.",
+      "summary": "상선 가격(신조선가) 상승과 압도적인 기술 우위를 통한 LNG 운반선 쇼티지에 힘입어 국내 조선주들의 2027~2028년 실적 상향 추세는 흔들림 없이 우상향하고 있습니다. 특히 <span class=\"text-cyan-300 font-semibold\">HD현대중공업</span>이 데이터센터 발전용 가스 엔진(20MW) 대규모 수주에 성공하며, 조선업이 <span class=\"text-cyan-300 font-semibold\">AI 전력 인프라의 새로운 해결책</span>으로 부각되기 시작했습니다. 캐나다 잠수함 수주 및 미국 비전투함 조달 참여 등 방산 모멘텀도 여전히 잠재되어 있어 투자 매력이 급증하는 시점입니다.",
       "key_claims": [
-        "MSTR의 32개 비트코인 매도는 운영비 조달을 위해 주주 가치 BPS를 극대화하려는 금융 논리적 선택이었다.",
-        "MSTR은 부채와 우선주가 보통주에 선순위하는 복합 금융 구조를 지녀, 단순 NAV 배수가 높은 수준을 유지해야 증자 혜택을 누릴 수 있다.",
-        "주당 가치를 가늠하는 NAV 프리미엄 임계점은 **1.22**이며, 이 수치보다 높을 때는 ATM 보통주 발행을 통해 코인을 매수하고, 낮을 때는 코인을 팔아 현금을 확보하는 밴드 트레이딩 구조다."
+        "LNG 운반선과 초대형 컨테이너선 등 한국 조선사들이 독점력을 가진 고부가 선종의 수주 잔고가 가득 차 있어 향후 실적이 보장된다.",
+        "선박용 엔진 기술을 데이터센터의 자체 전력 발전용 엔진으로 응용 납품(HD현대중공업 가스 엔진 수주)하는 AI 내러티브가 생성되었다.",
+        "미국 국방수권법(NDAA)의 비전투함 조달 개방 및 트럼프의 군함 수주 발언 등 해외 방산 시장 개척 기대감이 구체화되고 있다."
       ],
       "data_points": [
-        "MSTR 비트코인 매도 물량: 32 BTC (약 250만 달러 상당)",
-        "매도 보도 시점의 비트코인 시총 증발액: 약 420억 달러",
-        "ATM 증자 유리성 NAV 프리미엄 임계선: 1.22 (현재 NAV 수준 약 1.25)"
+        "HD현대중공업 데이터센터 엔진 수주: 가스 발전 엔진 20MW 규모 총 33대 (2028~2030년 분할 인도)",
+        "HD현대중공업 연간 엔진 제작 능력: 약 3GW (이번 데이터센터 엔진 비중이 연간 능력의 약 7%에 달함)"
       ],
       "signal": "bullish",
-      "signal_reason": "시장은 MSTR의 코인 매도를 악재로 오해했으나, 이는 BPS 주당 비트코인 보유 가치를 최대로 보호하려는 정밀한 재무 최적화의 결과이며 MSTR의 자금 조달 및 보유고 성장 방정식은 견고하게 유지되고 있습니다.",
-      "key_companies": [
-        "마이크로스트레티지",
-        "JP모건"
-      ],
-      "insight": "마이크로스트레티지는 단순한 비트코인 보유 금고가 아니라, 부채와 보통주 차익거래(Arbitrage)를 통해 주당 비트코인 보유량(BPS)을 지속적으로 증식하는 복합 레버리지 금융공학 회사입니다. NAV 프리미엄 1.22 임계선을 활용한 그들의 동적 자본 배분 전략은 하락장과 정체기에도 주당 가치를 지켜내는 영리한 해자입니다.",
-      "action_point": "MSTR의 코인 매도를 단순 악재로 해석한 대중의 패닉 셀링 기회를 비트코인 현물 및 MSTR 주식의 분할 저점 매수 기회로 포착하고, MSTR의 분기별 NAV 배수가 1.22 지지선 위에서 안착하는지를 계속 모니터링해야 합니다."
-    },
-    "classification": {
-      "primary_topic": "crypto",
-      "secondary_topics": ["stock"],
-      "tags": ["마이크로스트레티지", "MSTR", "BPS", "NAV프리미엄", "비트코인매도", "금융공학", "자본조달"]
+      "signal_confidence": "high",
+      "signal_reason": "기존의 선박 제조 사이클에 더해 '데이터센터 자체 전력 공급원(엔진)' 및 '방산 수출 확장'이라는 멀티플 확장 스토리가 결합되면서 강력한 밸류에이션 재평가 국면에 들어섰기 때문입니다.",
+      "key_companies": ["HD한국조선해양", "HD현대중공업", "한화오션"],
+      "insight": "조선업을 단순히 낡은 굴뚝 산업으로 치부해서는 안 됩니다. 전력 병목에 빠진 글로벌 빅테크 기업들이 전력망 증설을 기다리지 못하고 조선소의 고출력 발전 엔진을 선제적으로 발주하기 시작한 것은 엄청난 패러다임 시프트입니다. HD한국조선해양의 경우 시가총액이 지분 할인을 과도하게 받아 청산 가치보다 낮은 가격에 거래되고 있어 장기적 투자 가치가 매우 높습니다.",
+      "action_point": "조정 레벨에 있는 조선주들을 비중 확대 기회로 삼되, 자체 엔진 제작 능력과 강력한 자회사 가치를 지닌 업계 탑픽 <span class=\"text-cyan-300 font-semibold\">HD한국조선해양</span>과 실적 모멘텀이 뚜렷한 <span class=\"text-cyan-300 font-semibold\">HD현대중공업</span>으로 압축 대응하는 것이 정석입니다."
     }
   }
 }
 
-for vid, info in analyses.items():
-    save_analysis(vid, info["primary"], info["video"], info["analysis"], info["classification"])
+for vid, data in batch_4.items():
+    save_and_delete(
+        video_id=vid,
+        primary_topic=data["primary_topic"],
+        secondary_topics=data["secondary_topics"],
+        tags=data["tags"],
+        analysis_data=data["analysis"]
+    )
+print("Batch 4 completed!")

@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "UytqcG_sekI",
+    "title": "정부 로봇 구매 시작, 군용 1000대, 현대차, 삼성전자, LG전자, 레인보우로보틱스",
+    "published": "2026-07-21T12:37:26+00:00",
+    "channel_name": "엔지니어TV",
+    "url": "https://www.youtube.com/watch?v=UytqcG_sekI",
+    "thumbnail": "https://img.youtube.com/vi/UytqcG_sekI/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "대한민국 정부가 정찰·폭발물 처리 및 경계 작전을 위해 군용 로봇 1,000대 규모의 공공 구매를 시동 걸었습니다. <span class=\"text-cyan-300 font-semibold\">현대차</span>, <span class=\"text-cyan-300 font-semibold\">삼성전자</span>, LG전자 및 레인보우로보틱스 등 국내 대표 기업들이 B2B/B2G 로봇 조달 사업에 본격 참여하고 있으며, 쿠팡의 24시간 물류 로봇 가동과 맞물려 산업 및 군사 로봇 상용화가 급물살을 타고 있습니다.",
+    "key_claims": [
+      "정부가 군용 및 공공 부문용 로봇 1,000대 구매 사업을 확정하여 공공 조달 시장의 로봇 생태계 확장을 자극하고 있다.",
+      "<span class=\"text-cyan-300 font-semibold\">삼성전자</span>의 레인보우로보틱스 지분 활용 및 <span class=\"text-cyan-300 font-semibold\">현대차</span> 보스턴다이내믹스 기술 결합으로 B2B 무인화 솔루션 계약이 구체화되고 있다.",
+      "쿠팡 등 물류 대기업들이 수백 대의 자율 이동 로봇(AMR)을 24시간 풀 가동하며 물류 자동화의 생산성을 실증했다."
+    ],
+    "data_points": [
+      "정부 군용 로봇 조달 사업 규모: 1,000대 확정"
+    ],
+    "signal": "positive",
+    "signal_reason": "정부 주도의 1,000대 군용 로봇 대규모 조달로 로봇 기업들의 실질 매출 발생(B2G)과 산업용 로봇 생태계 확장이 명확해졌기 때문입니다.",
+    "key_companies": [
+      "레인보우로보틱스(277810)",
+      "현대차(005380)",
+      "삼성전자(005930)",
+      "두산로보틱스(454910)"
+    ],
+    "insight": "로봇 산업이 연구실 시연을 넘어 정부 공공 조달(B2G)과 대기업 물류 현장(B2B)의 실질 수주 단계로 진입했습니다. 매출 실현 속도가 빠른 협동/군용 로봇 부품사가 수혜를 입습니다.",
+    "action_point": "정부 조달 수혜를 직접 입는 레인보우로보틱스 및 로봇 핵심 부품(감속기, 액추에이터) 공급사들의 비중 확대를 추천합니다."
+  },
+  "classification": {
+    "primary_topic": "robot",
+    "secondary_topics": [
+      "stock",
+      "tech"
+    ],
+    "tags": [
+      "정부로봇구매",
+      "군용로봇1000대",
+      "현대차로봇",
+      "삼성전자레인보우",
+      "쿠팡로봇자동화"
+    ]
+  }
+}

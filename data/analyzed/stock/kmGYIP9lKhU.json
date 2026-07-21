@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "kmGYIP9lKhU",
+    "title": "[빈난새의 개장전요것만-7월21일] 미중 AI 수출통제 강화 의미 | 금 저가매수? | 마이크론 TSMC 3M 네비우스 바이코 샌디스크 노스럽그루먼 GM 테슬라 일라이릴리 어도비",
+    "published": "2026-07-21T14:30:08+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=kmGYIP9lKhU",
+    "thumbnail": "https://img.youtube.com/vi/kmGYIP9lKhU/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "한경 빈난새 기자는 장 개장 전 나스닥(+1.4%)과 <span class=\"text-cyan-300 font-semibold\">반도체</span>주 상승세를 전하며, 러시아 정제 시설 타격으로 국제 정제 마진이 폭증해 <span class=\"text-amber-300 font-bold\">유가</span>(WTI $84.1, 브렌트 $90.9) 상승 압력이 지속되고 있다고 분석했습니다. 월스트리트저널(WSJ)이 금($4,062)의 저가 매수 타당성을 보도한 가운데, <span class=\"text-cyan-300 font-semibold\">TSMC</span>의 10% 가격 인상 공시는 고물가·<span class=\"text-amber-300 font-bold\">고금리</span> 매크로 속에서도 가격 결정력(Pricing Power)을 지닌 <span class=\"text-cyan-300 font-semibold\">반도체</span>가 유일한 '실적 킹(King)'임을 증명했습니다.",
+    "key_claims": [
+      "러시아 정제 시설 타격 및 정제유 수출 금지로 원유보다 정제 마진(휘발유, 디젤, 항공유)이 급등하여 <span class=\"text-amber-300 font-bold\">인플레이션</span> 우려를 자극하고 있다.",
+      "<span class=\"text-cyan-300 font-semibold\">TSMC</span>의 내년 10% 가격 인상 단행은 <span class=\"text-amber-300 font-bold\">고금리</span>·고<span class=\"text-amber-300 font-bold\">환율</span> 국면에서도 원가 인상분을 고객사로 온전히 전가할 수 있는 독점적 가격 결정력을 증명했다.",
+      "미국 달러와 채권 금리가 동시에 고점을 갱신하고 있으나, 마이크론(+6%), 샌디스크(+7%) 등 실적이 확실한 <span class=\"text-cyan-300 font-semibold\">반도체</span>로 자금이 쏠리고 있다."
+    ],
+    "data_points": [
+      "유가 및 금속: WTI $84.1/bbl, 브렌트유 $90.9/bbl, 금 $4,062/oz (+1%), 은 $59.3/oz (+4%)",
+      "국채 금리: 미 10년물 국채 금리 4.60%선 회복"
+    ],
+    "signal": "positive",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">TSMC</span>의 가격 인상 능력이 증명하듯 <span class=\"text-cyan-300 font-semibold\">반도체</span> 업종의 독보적인 가격 결정력과 펀더멘탈 우위가 국채 금리 및 <span class=\"text-amber-300 font-bold\">인플레이션</span> 악재를 무력화하고 있기 때문입니다.",
+    "key_companies": [
+      "TSMC(TSM)",
+      "Micron(MU)",
+      "GE Vernova(GEV)",
+      "Caterpillar(CAT)"
+    ],
+    "insight": "<span class=\"text-amber-300 font-bold\">인플레이션</span>과 <span class=\"text-amber-300 font-bold\">고금리</span> 국면에서 승리하는 기업은 원가 상승분을 고객에게 100% 넘길 수 있는 독점적 가격 결정력을 지닌 기업뿐입니다. <span class=\"text-cyan-300 font-semibold\">TSMC</span>와 <span class=\"text-cyan-300 font-semibold\">HBM</span> 공급사가 그 대표적인 예시입니다.",
+    "action_point": "독점적 전가 능력이 확인된 첨단 <span class=\"text-cyan-300 font-semibold\">반도체</span> 파운드리 및 대표 메모리 밸류체인 비중을 굳건히 유지하고, 금 및 인프라 기기(GE버노바)주를 우량 보조 축으로 삼아야 합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy",
+      "tech"
+    ],
+    "tags": [
+      "개장전요것만",
+      "정제마진폭등",
+      "금저가매수론",
+      "TSMC가격인상",
+      "반도체실적킹"
+    ]
+  }
+}

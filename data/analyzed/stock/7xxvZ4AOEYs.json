@@ -1,0 +1,48 @@
+{
+  "video": {
+    "id": "7xxvZ4AOEYs",
+    "title": "[문지웅의 빅머니 LIVE] 하이닉스ADR 14% 마이크론 12% 급등 | 반도체 LTA 파기 막는 3가지 비법",
+    "published": "2026-07-21T21:52:45+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=7xxvZ4AOEYs",
+    "thumbnail": "https://img.youtube.com/vi/7xxvZ4AOEYs/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "하이닉스 ADR(+13.8%)과 마이크론(+12.2%), SOXL(+15.6%)이 폭등한 가운데 7월 20일 기준 한국 DRAM 수출 단가가 전년 대비 527%, 전월 대비 22% 폭등해 <span class=\"text-cyan-300 font-semibold\">반도체</span> 실적 가시성이 탄탄함을 입증했습니다. 번스타인(Bernstein)은 현물 가격 <span class=\"text-rose-400 font-medium\">급락</span>과 위약금 조건을 비교해 LTA(장기공급계약)의 파기 가능성을 분석하며 현재는 현물가가 높아 LTA가 매우 견고하다고 진단했습니다. 반면 7월 24일 무역법 관세 만료에 따른 트럼프 301조 추가 관세 지정 <span class=\"text-rose-400 font-medium\">위험</span>과 AI 데이터센터 SPV의 3,000억 달러 우회 그림자 부채(마이클 버리가 지적) <span class=\"text-rose-400 font-medium\">리스크</span>는 지속 관찰 과제입니다.",
+    "key_claims": [
+      "한국 7월 20일 누적 DRAM 수출 단가는 전년비 527%, 전월비 22% 폭등하여 범용 DRAM 중심의 폭발적인 수익성 개선을 입증했다.",
+      "번스타인 분석에 따르면 LTA(장기공급계약)는 현물 가격이 LTA 최저 구매가 및 위약금 차감액 이하로 폭락하지 않는 한 파기되지 않으므로 현재의 LTA 구속력은 강고하다.",
+      "마이클 버리는 하이퍼스케일러들이 데이터센터 구축 시 장부에 부채를 잡지 않기 위해 특수목적법인(SPV)과 사모펀드(아폴로 등)를 거쳐 3,000억 달러의 그림자 부채(Shadow Debt)를 유발한 순환 거래 구조의 <span class=\"text-rose-400 font-medium\">위험</span>성을 경고했다."
+    ],
+    "data_points": [
+      "한국 DRAM 수출 단가 상승률: 전년비 +527%, 전월비 +22% (반도체 수출 중 DRAM 비중 55%)",
+      "NAND 및 HBM 수출 단가: 전년비 수백% 높은 수준이나 전월비 NAND -22%, HBM -8% 소폭 조정",
+      "주요 지표: 하이닉스 ADR +13.75%, 마이크론 +12.17%, 샌디스크 +14.27%, SOXL +15.58%, 램ETF +21.72%",
+      "트렌드포스 전망: 낸드(NAND) 공급 부족 해소 시점은 2027년 하반기 전망"
+    ],
+    "signal": "positive",
+    "signal_reason": "DRAM 수출 단가의 폭발적 상승과 LTA 계약의 탄탄한 구속력, 마이크론·하이닉스 ADR 폭등이 수급 악재를 압도하며 강력한 주가 반등을 이끌고 있기 때문입니다.",
+    "key_companies": [
+      "SK하이닉스(000660)",
+      "삼성전자(005930)",
+      "Micron(MU)",
+      "Super Micro Computer(SMCI)"
+    ],
+    "insight": "월가의 부정적 리포트에도 불구하고 DRAM 수출 단가 전월비 +22% 폭등이라는 실증 데이터가 하이닉스와 마이크론의 실적을 증명하고 있습니다. LTA 파기 우려는 현물가가 고공행진하는 현 시점에서는 시기상조입니다.",
+    "action_point": "DRAM 수출 단가 호조에 직결되는 메모리 대형주(<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>)의 적극적 매수 관점을 유지하고, 7월 24일 관세 발표 및 SPV 부채 논란의 추이를 주시해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "DRAM수출단가폭등",
+      "LTA파기조건분석",
+      "SMCI시간외급등",
+      "트럼프관세만료",
+      "마이클버리그림자부채"
+    ]
+  }
+}

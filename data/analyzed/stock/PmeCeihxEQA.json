@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "PmeCeihxEQA",
+    "title": "7월 말 실적 발표 전 반드시 봐야 할 반도체 주가 반등 시나리오ㅣ김장열 유니스토리자산운용 리서치센터장 [집중 오늘의 주식]",
+    "published": "2026-07-21T11:30:25+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=PmeCeihxEQA",
+    "thumbnail": "https://img.youtube.com/vi/PmeCeihxEQA/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "유니스토리자산운용 김장열 센터장은 <span class=\"text-violet-300 font-medium\">중국</span> Kimi K3가 코드 전체를 주는 오픈소스가 아닌 가중치만 제공하는 '오픈 웨이트(Open-Weight)' 모델임을 명확히 분석했습니다. 기업들이 이를 다운받아 자체 GPU 서버에 호스팅함에 따라 중앙 집중형 대비 메모리(<span class=\"text-cyan-300 font-semibold\">HBM</span>/DRAM)의 전체 시장(TAM)이 오히려 크게 확대됩니다. 2.8조 파라미터를 저장하느라 <span class=\"text-cyan-300 font-semibold\">HBM</span>의 75% 이상이 소진되어 KV 캐시 용량이 부족해지므로, 시스템 DDR5 및 eSSD로의 메모리 확장 수요가 더욱 비약적으로 늘어납니다.",
+    "key_claims": [
+      "Kimi K3는 오픈소스가 아닌 '오픈 웨이트' 모델로, 기업들이 자체 서버에 다운로드하여 독자 호스팅하므로 엔드포인트별 독립적 <span class=\"text-cyan-300 font-semibold\">HBM</span>/DRAM 수요를 폭증시킨다.",
+      "MoE(전문가 혼합) 구조가 단위당 연산량은 줄여주지만, 2.8조 파라미터를 기억하기 위해 <span class=\"text-cyan-300 font-semibold\">HBM</span> 용량(2TB 중 1.5TB)을 독점하므로 대화 임시 메모리(KV 캐시) 고사를 방지하기 위해 외장 DDR5/eSSD 추가 구매가 필연적이다."
+    ],
+    "data_points": [
+      "Kimi K3 파라미터 수: 2.8조 개 (이전 모델 대비 4배 증가)",
+      "HBM 용량 할당: 2TB 용량 중 1.5TB가 파라미터 기억용으로 즉시 소진"
+    ],
+    "signal": "positive",
+    "signal_reason": "Kimi K3 오픈 웨이트 모델의 보급이 기업들의 독립적인 <span class=\"text-cyan-300 font-semibold\">HBM</span> 및 외장 DDR5/eSSD 메모리 탑재 수요를 획기적으로 늘리는 촉매제임이 입증되었기 때문입니다.",
+    "key_companies": [
+      "SK하이닉스(000660)",
+      "삼성전자(005930)"
+    ],
+    "insight": "오픈 웨이트 모델의 유행은 각 기업마다 개별 AI 서버를 구축하도록 만들어 메모리 시장의 전체 파이(TAM)를 키웁니다. 파라미터가 커질수록 <span class=\"text-cyan-300 font-semibold\">HBM</span>과 eSSD의 병목 현상은 심화됩니다.",
+    "action_point": "Kimi K3 등 오픈 웨이트 모델 확산에 따른 고용량 서버용 DDR5 및 eSSD 제조업체(<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>, <span class=\"text-cyan-300 font-semibold\">삼성전자</span>)의 중장기 비중을 확대해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "키미K3오픈웨이트",
+      "자체서버호스팅",
+      "KVCache부족",
+      "HBM수요증가",
+      "메모리TAM확대"
+    ]
+  }
+}

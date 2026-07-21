@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "X8NEHXVbGKk",
+    "title": "로이터 \"美-中, 9월 AI 회담 개최 예정\"ㅣ인텔, '인력감축 확대' 보도에 주가상승ㅣ인튜이티브서지컬, 시술 증가 둔화에 신중론ㅣ홍키자의 매일뉴욕",
+    "published": "2026-07-21T14:24:12+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=X8NEHXVbGKk",
+    "thumbnail": "https://img.youtube.com/vi/X8NEHXVbGKk/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국과 <span class=\"text-violet-300 font-medium\">중국</span>의 9월 AI 샌프란시스코/베이징 회담 일정 타결 소식 속에, <span class=\"text-cyan-300 font-semibold\">인텔</span>(INTC)이 비용 구조 개선을 위한 대규모 인력 감축 공시 및 포티넷(Fortinet)과의 차세대 보안 칩 파운드리 수주 계약 체결 소식으로 주가가 8.64% 급등했습니다. 그동안 시장 하락을 이끌던 <span class=\"text-cyan-300 font-semibold\">반도체</span> 수급 꼬임이 완화되며 기술주 전반으로 저가 매수세가 가파르게 유입되는 흐름입니다.",
+    "key_claims": [
+      "<span class=\"text-cyan-300 font-semibold\">인텔</span>이 대대적인 구조<span class=\"text-rose-400 font-medium\">조정</span>(인력 감축)과 함께 포티넷의 차세대 보안 칩 파운드리 수주 성과를 내며 주가가 8.64% 폭등했다.",
+      "미중 양국이 9월 AI 정상급 회담을 결정함에 따라 기술 안보 규제에 대한 불확실성이 일단 소강 상태에 접어들었다.",
+      "매도세가 과도했던 필라델피아 <span class=\"text-cyan-300 font-semibold\">반도체</span> 지수와 주요 밸류체인으로 전반적인 숏커버링 및 기술적 반등 자금이 강하게 유입되었다."
+    ],
+    "data_points": [
+      "인텔(INTC) 주가 상승률: +8.64%"
+    ],
+    "signal": "positive",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">인텔</span>의 파운드리 수주 및 구조<span class=\"text-rose-400 font-medium\">조정</span> 성과와 <span class=\"text-cyan-300 font-semibold\">반도체</span> 주도주 전반의 강한 기술적 반등세가 시장 불안 심리를 빠르게 잠재우고 있기 때문입니다.",
+    "key_companies": [
+      "Intel(INTC)",
+      "Fortinet(FTNT)",
+      "NVIDIA(NVDA)"
+    ],
+    "insight": "<span class=\"text-cyan-300 font-semibold\">인텔</span>의 파운드리 수주는 미 정부의 <span class=\"text-cyan-300 font-semibold\">반도체</span> 국산화(CHIPS Act) 지원 의지와 맞물려 의미 있는 바닥 신호를 제공합니다. 비용 절감과 고객사 확보가 동시에 이뤄지는 턴어라운드 흐름입니다.",
+    "action_point": "턴어라운드 모멘텀이 발생한 <span class=\"text-cyan-300 font-semibold\">인텔</span>과 보안 칩 밸류체인의 단기 반등 추세를 모니터링하며 기술주 포트폴리오를 유지해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "인텔인력감축",
+      "포티넷파운드리수주",
+      "미중9월회담",
+      "반도체급반등"
+    ]
+  }
+}

@@ -1,7 +1,21 @@
 import json
 from pathlib import Path
 
-def save_analysis(video_id, primary_topic, video_data, analysis_data, classification_data):
+def save_and_delete(video_id, primary_topic, secondary_topics, tags, analysis_data):
+    pending_path = Path(f"data/pending/{video_id}.json")
+    if not pending_path.exists():
+        print(f"Error: {pending_path} does not exist.")
+        return
+        
+    pending_data = json.loads(pending_path.read_text(encoding="utf-8"))
+    video_data = pending_data["video"]
+    
+    classification_data = {
+        "primary_topic": primary_topic,
+        "secondary_topics": secondary_topics,
+        "tags": tags
+    }
+    
     analyzed_dir = Path(f"data/analyzed/{primary_topic}")
     analyzed_dir.mkdir(parents=True, exist_ok=True)
     
@@ -16,213 +30,139 @@ def save_analysis(video_id, primary_topic, video_data, analysis_data, classifica
     )
     print(f"Saved: {result_path}")
     
-    pending_file = Path(f"data/pending/{video_id}.json")
-    if pending_file.exists():
-        pending_file.unlink()
-        print(f"Removed pending: {pending_file}")
-        
+    pending_path.unlink()
+    print(f"Deleted pending: {pending_path}")
+    
     synthesis_cache = Path(f"data/synthesis/{primary_topic}.json")
     if synthesis_cache.exists():
-        try:
-            synthesis_cache.unlink()
-            print(f"Invalidated cache: {synthesis_cache}")
-        except Exception as e:
-            print(f"Error invalidating cache: {e}")
+        synthesis_cache.unlink()
+        print(f"Invalidated cache: {synthesis_cache}")
 
-analyses = {
-  "lF2WtAUJQWg": {
-    "primary": "economy",
-    "video": {
-      "id": "lF2WtAUJQWg",
-      "title": "[김종학의 뉴욕, 지금-6월4일] ‘인플레이션 우려' 연준 페이지북에서 재확인 | 스페이스X, 오는 12일 상장 예정 | 브로드컴, 크라우드 스트라이크, AT&T, 허니웰, 메타",
-      "published": "2026-06-04T08:30:00+00:00",
-      "channel_name": "한경 글로벌마켓",
-      "url": "https://www.youtube.com/watch?v=lF2WtAUJQWg",
-      "thumbnail": "https://img.youtube.com/vi/lF2WtAUJQWg/hqdefault.jpg"
-    },
+# Batch 5 analyses
+batch_5 = {
+  "oMrP_-w580U": {
+    "primary_topic": "space",
+    "secondary_topics": ["tech", "stock"],
+    "tags": ["스페이스X", "AST스페이스모바일", "위성인터넷", "나스닥상장", "스타링크", "직접연결"],
     "analysis": {
-      "summary": "연준 베이지북을 통해 견조한 고용과 완만한 성장 속에서 인플레이션 우려가 재확인되며 시장 금리 상승 및 연말 금리 인상론(74% 확률)이 대두되었습니다. 또한 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>가 주당 135달러(시총 1.8조 달러 규모)로 12일 나스닥 상장을 가시화한 가운데, 장 마감 후 실적을 발표한 <span class=\"text-cyan-300 font-semibold\">브로드컴</span>과 <span class=\"text-cyan-300 font-semibold\">크라우드스트라이크</span>는 높은 기대치(위스퍼 넘버) 미달 및 가이던스 실망으로 시간외 거래에서 급락세를 보이고 있습니다.",
+      "summary": "스페이스X가 시가총액 2조 달러를 돌파하며 상장했으며, 우주와 AI(xAI 그록, 콜로서스 등)를 결합한 거대한 생태계를 구축하고 있습니다. 한편 <span class=\"text-cyan-300 font-semibold\">AST 스페이스모바일(ASTS)</span>은 스마트폰을 위성에 직접 연결하는(Direct-to-Cell) 고유한 틈새 시장을 공략하며 AT&T, 버라이즌 등 통신사 연합의 강력한 지지를 받고 있습니다. 다만 ASTS는 위성 발사 비용 조달에 따른 <span class=\"text-rose-400 font-medium\">지분 희석 리스크</span>가 상존합니다.",
       "key_claims": [
-        "연준 베이지북에서 12개 연은 관할 중 10개 지역이 완만히 성장했으나 고금리와 중동 분쟁에 따른 유가/물류비 인플레 경계감이 확인되었다.",
-        "스페이스X는 750억 달러 조달을 목표로 상장 절차를 밟고 있으며, 웨드부시는 장기적으로 테슬라와의 합병 가능성(80%)을 높게 평가했다.",
-        "앤스로픽이 모건스탠리와 골드만삭스를 주관사로 낙점하고 가을경 최대 1조 달러 밸류의 IPO를 준비 중이다."
+        "스페이스X는 단순 로켓 회사를 넘어 AI(xAI) 및 소셜망(X)을 융합한 2조 달러 규모의 종합 기술 복합 기업으로 도약했다.",
+        "AST 스페이스모바일은 일반 스마트폰을 우주 위성에 직접 연결하는 틈새 영역에서 스타링크보다 기술적으로 약 2년 앞선 우위를 보인다.",
+        "ASTS는 통신사 공동 플랫폼 구축 등 우호적 환경을 만났으나, 본격적인 이익 창출 전까지 위성 발사를 위한 추가 자금 수급(희석 위험)을 경계해야 한다."
       ],
       "data_points": [
-        "미국 12월 기준 금리 인상 확률: 74%",
-        "5월 ISM 서비스업 PMI: 54.5",
-        "4월 공장주문 증가율: 4.8%",
-        "스페이스X 희망 공모가: 주당 135달러 (목표 조달액 750억 달러)",
-        "스페이스X 평가 가치: 1조 7,700억 ~ 1조 8,000억 달러",
-        "스페이스X 나스닥 상장 예정일: 2026년 6월 12일",
-        "브로드컴 2분기 매출액: 221억 8,700만 달러 (전년비 +48%)",
-        "브로드컴 AI 반도체 매출: 108억 달러 (시장 기대치/위스퍼 110억 달러 소폭 하회)",
-        "앤스로픽 기업가치 관측액: 최대 1조 달러"
+        "스페이스X 나스닥 상장 조달액: 약 857억 달러",
+        "스페이스X 시가총액: 2조 달러 돌파",
+        "스페이스X 스타링크 통신 부문 매출 비중 (2025): 약 114억 달러 (전체 61% 차지)"
       ],
-      "signal": "bearish",
-      "signal_reason": "베이지북의 긴축 연장 시그널과 관세 인상 리스크(한국/일본 등에 12.5% 관세안 제시), 그리고 브로드컴 및 크라우드스트라이크의 실적 발표 후 시간외 폭락이 복합 작용해 기술주 단기 조정 압력을 높입니다.",
-      "key_companies": [
-        "스페이스X",
-        "앤스로픽",
-        "브로드컴",
-        "크라우드스트라이크",
-        "테슬라"
-      ],
-      "insight": "현재 시장은 고용 강세와 서비스업 확장을 호재가 아닌 '금리 인하 지연 및 인상 위험'이라는 매크로 악재로 해석하는 역방향 장세입니다. 특히 브로드컴의 AI 매출 143% 성장이라는 놀라운 수치마저도 시장의 극단적인 '위스퍼 넘버(Whisper Number)' 기대에 미치지 못해 10% 폭락한 현상은, AI 하드웨어 장기 성장성과 별개로 단기 밸류에이션 피로감이 극에 달했음을 보여줍니다.",
-      "action_point": "브로드컴 등 핵심 AI 하드웨어 밸류체인의 실적 미스로 인한 단기 폭락은 실질적 펀더멘탈 훼손이 아닌 높은 기대치 조율 과정이므로, 투매에 동참하기보다 락업 우려가 적은 시점에 분할 매수 기회로 삼는 것이 유리합니다."
-    },
-    "classification": {
-      "primary_topic": "economy",
-      "secondary_topics": ["stock", "tech"],
-      "tags": ["연준베이지북", "스페이스X상장", "앤스로픽IPO", "브로드컴실적", "크라우드스트라이크", "금리인상우려", "관세리스크"]
+      "signal": "neutral",
+      "signal_confidence": "high",
+      "signal_reason": "스페이스X와 ASTS 모두 우주 연결 테마의 핵심 성장주이나, 극단적인 고평가(매출 대비 90배 멀티플)와 본격적 이익 부재에 따른 추가 희석 리스크가 상존하여 방어적 균형 감각이 필요한 구간이기 때문입니다.",
+      "key_companies": ["스페이스X", "AST스페이스모바일(ASTS)", "AT&T", "버라이즌"],
+      "insight": "우주 산업이 점차 고도화되면서 수직 계열화된 거인(스페이스X)과 전문적인 틈새 레이어(AST 스페이스모바일)로 시장이 분화되고 있습니다. 특히 ASTS는 통신사 가입자를 그대로 흡수하는 구조로 마케팅 비용이 들지 않는 강력한 비즈니스 모델을 가졌으나, 천문학적인 위성 발사 비용 조달에 따른 주주 가치 희석 리스크가 상존하므로, 거품 낀 멀티플을 추격하기보다 냉정한 자금 조달 스케줄과 스타링크의 기술 추격을 검증해야 합니다.",
+      "action_point": "스페이스X와 ASTS는 전혀 다른 리스크 프로필을 지닌 자산입니다. AI 시너지를 믿는다면 <span class=\"text-cyan-300 font-semibold\">스페이스X(합병 형태)</span>를, 위성 통신 직접 연결 틈새의 독점을 노린다면 <span class=\"text-cyan-300 font-semibold\">ASTS</span>에 배팅하되, ASTS의 경우 위성 발사 일정에 맞춘 <span class=\"text-rose-400 font-medium\">지분 희석 리스크</span>를 고려해 포트폴리오 비중을 조절해야 합니다."
     }
   },
-  "tS-WU2dtgqA": {
-    "primary": "economy",
-    "video": {
-      "id": "tS-WU2dtgqA",
-      "title": "[지식뉴스] 주식•부동산? 미 자산 가격 대폭등 시대 \"애초에 미국은 제조업 살릴 생각 없었다\"..트럼프가 AI에 몰빵하는 진짜 이유 (ft.유신익 박사) / 교양이를 부탁해",
-      "published": "2026-06-03T10:30:00+00:00",
-      "channel_name": "교양이를 부탁해",
-      "url": "https://www.youtube.com/watch?v=tS-WU2dtgqA",
-      "thumbnail": "https://img.youtube.com/vi/tS-WU2dtgqA/hqdefault.jpg"
-    },
+  "q8K1kbL3T4Y": {
+    "primary_topic": "etc",
+    "secondary_topics": ["stock"],
+    "tags": ["미래에셋증권", "담보대출", "이용가이드", "M-STOCK"],
     "analysis": {
-      "summary": "글로벌 매크로 관점에서 자산 가치(주식, 고급 부동산) 폭등과 근로 소득의 심각한 양극화 메커니즘을 규명합니다. 미국은 실질 제조업 부활보다는 글로벌 금융 유동성을 미국 내 AI/테크 인프라 자산으로 집중 유치하여 달러 패권 붕괴를 방어하고 자국 자산을 띄우는 금융 패권 수성 전략에 집중하고 있으며, 일론 머스크의 기본 소득(UBI) 구상은 분배 권한과 자산 인프라 독점 한계 측면에서 경제적 모순을 지니고 있습니다.",
+      "summary": "미래에셋증권 모바일 앱 M-STOCK을 통해 보유 주식을 담보로 활용하여 일반 대출 및 매도 대출 약정을 맺는 실무 프로세스 가이드입니다. 약정 과정에서 투자 성향 및 신용공여 정보 확인서를 제출하고, 5천만 원 초과 시에는 인지세가 차등 부과되며 <span class=\"text-amber-300 font-bold\">5천만 원 이하 시 인지세가 면제</span>됩니다. 대출 시 추가 담보 납부(마진콜) 및 만기 안내 등 알림 설정이 가능합니다.",
       "key_claims": [
-        "중앙은행의 돈 풀기는 실물 생산 기계나 노동 가치(정체 상태)보다 경영자와 자본가의 지분 가치(주식 250% 폭등)만 극대화시켰다.",
-        "현재 물가 상승의 실체는 생필품이 아니라 부유층의 자산 증식에 의한 고가 주택 및 프리미엄 서비스 가격 폭등(자산 인플레이션)이다.",
-        "미국의 패권 수호 전략은 실질 제조업 회복이 아닌 달러 보유국들의 유동성을 자국 AI/테크 자산으로 환류시켜 달러화 신뢰를 방어하는 것이다."
+        "보유 중인 주식을 담보로 대출받는 일반 담보대출과 매도 완료 후 즉시 인출 가능한 매도 담보대출을 모바일 앱에서 간편히 약정할 수 있다.",
+        "대출 금액 합산 기준 5천만 원 이하의 소액 대출 건에 대해서는 인지세가 전액 발생하지 않는다.",
+        "해외 주식을 담보로 포함할 수 있으나, 담보 비율 하락에 따른 추가 담보 미납 시 반대매매가 진행될 수 있으므로 유의해야 한다."
       ],
       "data_points": [
-        "글로벌 자산 분배율: 상위 10%가 전체 부의 75% 소유, 하위 50%는 2% 소유",
-        "금융위기 이후 글로벌 외환보유고 내 달러화 비중: 60% 하방 경계선 부근 완만히 우하향"
+        "인지세 면제 기준: 대출 약정 총합산 금액 5,000만 원 이하"
       ],
-      "signal": "bearish",
-      "signal_reason": "전 세계적인 부의 양극화 극대화와 자산발 인플레이션 고착화는 가계 실질 소비력을 억제하며, 대외 환율 방어로 인한 국내 수입 물가 상승 압박은 한국 중산층 경제에 지속적인 고통을 야기합니다.",
-      "key_companies": []
-      ,
-      "insight": "미국의 대외 정책(IRA, 반도체법 등)의 이면에는 달러 리저브 비중 하락을 방어하기 위해 미국 내 AI 인프라 자산 매력도를 높여 글로벌 유동성을 가두려는 금융공학적 설계가 깔려 있습니다. 이 구조는 노동 소득을 통한 중산층 진입을 차단하고 주식과 지분 중심의 자산 양극화를 고착화시켜 거시적인 사회 구조적 불균형을 심화시키고 있습니다.",
-      "action_point": "노동 소득 및 예적금 위주의 자산 포트폴리오를 유지하는 것은 화폐 가치 하락과 자산 양극화에 취약하므로, 미국 내 대체 불가능한 AI 인프라 및 핵심 지분을 소유한 빅테크 지분 중심으로 포트폴리오 체질을 장기적으로 혁신해야 합니다."
-    },
-    "classification": {
-      "primary_topic": "economy",
-      "secondary_topics": ["stock", "tech"],
-      "tags": ["자산인플레이션", "양극화", "달러패권", "유신익", "기본소득모순", "미국금융전략", "화폐가치하락"]
+      "signal": "neutral",
+      "signal_confidence": "high",
+      "signal_reason": "증권사의 신용 담보대출 가이드로서 시장 전반의 호재나 악재 시그널보다는, 투자자 본인의 담보 자금 관리와 레버리지 위험 통제 영역을 다룬 실무적인 내용이기 때문입니다.",
+      "key_companies": ["미래에셋증권"],
+      "insight": "개인 투자자들이 주식 담보대출 기능을 활용할 때의 복잡한 절차와 인지세 면제 기준(5천만 원 이하)을 설명하는 실무적인 가이드입니다. 증권사 입장에서는 이와 같은 담보대출 서비스 활성화를 통해 안정적인 이자 마진(신용공여 수익)을 추가로 확보하는 비즈니스 구조를 구축하고 있습니다.",
+      "action_point": "대출 금액 합산 5천만 원 이하에서 <span class=\"text-amber-300 font-bold\">인지세 면제 혜택</span>을 활용하고, 담보 비율 하락에 따른 추가 담보 납부 통보 등 <span class=\"text-rose-400 font-medium\">반대매매 리스크</span>에 상시 대비하는 약정 통보 서비스를 반드시 신청해야 합니다."
     }
   },
-  "3sRr0JbdCaU": {
-    "primary": "stock",
-    "video": {
-      "id": "3sRr0JbdCaU",
-      "title": "반도체가 많아도, 주도주가 있어도 혹은 바이오에 울고 있어도 무조건 버티고 지켜볼 것 | 장우진 작가",
-      "published": "2026-06-03T09:10:00+00:00",
-      "channel_name": "이효석아카데미",
-      "url": "https://www.youtube.com/watch?v=3sRr0JbdCaU",
-      "thumbnail": "https://img.youtube.com/vi/3sRr0JbdCaU/hqdefault.jpg"
-    },
+  "qmXbuBN1sOg": {
+    "primary_topic": "space",
+    "secondary_topics": ["tech"],
+    "tags": ["우주공장", "무중력제조", "단백질결정", "항암제키트루다", "지블란광섬유"],
     "analysis": {
-      "summary": "한국 조선업의 밸류에이션 평가 방식이 과거 수주 잔고 위주의 PBR(0.3~0.4배 수준)에서 실질적 흑자 지속에 따른 PER 기반으로 전환되며 구조적 기업가치 상승 국면에 도달했습니다. 선주사(그리스 선박왕 등)들은 글로벌 해운 운임이 높은 수준을 유지함에 따라 비싼 가격에도 신규 발주를 지속하고 있으며, IMO의 2030년 환경 규제 등급 강화로 노후선 교체가 강제되어 조선사들의 판매자 우위 구도가 장기화될 전망입니다.",
+      "summary": "우주 정거장의 무중력(마이크로 중력) 환경을 활용해 고순도 의약품 및 정밀 신소재를 생산하는 <span class=\"text-cyan-300 font-semibold\">우주 제조(Space Manufacturing)</span> 기술을 조명합니다. 머크는 중력 영향이 배제된 우주 정거장에서 항암제 키트루다의 단백질 입자를 39마이크로미터로 극도로 고르게 결정화했습니다. 신호 결함이 없는 <span class=\"text-cyan-300 font-semibold\">지블란(ZBLAN) 광섬유</span> 등 중력 제약이 없는 신소재 혁신이 가시화되고 있습니다.",
       "key_claims": [
-        "조선업은 역사상 처음으로 장기 흑자 구조의 영속성을 입증하며 자산 가치(PBR)가 아닌 수익 가치(PER) 리레이팅을 시도하고 있다.",
-        "해운사들이 선가 상승(2020년 대비 70~80% 급증) 부담보다 정시 배달 프리미엄(운임 정상화)을 중요시함에 따라 발주 모멘텀이 유지된다.",
-        "글로벌 조선소 구조조정으로 대형선 수용 능력을 갖춘 한국의 과점 조선사들이 글로벌 환경 규제 강화(노후선 교체)의 최대 수혜를 누린다."
+        "우주 무중력 공간에서는 중력에 의한 대류나 물질 가라앉음이 없어 단백질 결정 등을 지상보다 균일하게 합성할 수 있어 제약 회사들의 러시가 이어지고 있다.",
+        "항암제 키트루다 등의 고성능 약품 성분을 무중력에서 결정화할 경우 고른 균일성 덕분에 인체 투여 효율이 비약적으로 향상된다.",
+        "이론상 최강의 광섬유 소재인 지블란은 지구 중력 하에서 생기는 미세 균열(결함)을 극복하고 무중력에서 완벽한 신호 전달체로 양산이 가능하다."
       ],
       "data_points": [
-        "2020년 대비 개별 선박 가격 상승률: 70% ~ 80%",
-        "선가 지수 상승률: 50% ~ 60%"
+        "지상 키트루다 입자 분산: 13~102마이크로미터 (불균일)",
+        "우주정거장 키트루다 입자 크기: 39마이크로미터 (고도의 균일 결정 생성)"
       ],
       "signal": "bullish",
-      "signal_reason": "글로벌 선박 공급 병목 속에서 친환경 규제 교체 주기와 고운임 환경이 결합되어 국내 조선사들의 수주 단가 상승 및 실질 이익 턴어라운드가 향후 2~3년간 지속될 가능성이 높습니다.",
-      "key_companies": [
-        "HD한국조선해양",
-        "삼성중공업",
-        "한화오션"
-      ],
-      "insight": "글로벌 물류 시장은 '저비용 운송'에서 지정학적 갈등(이란 등) 우회를 위한 '정시 공급 보장'으로 패러다임이 이동했습니다. 이는 선주사들이 고선가에도 불구하고 선대 투자를 아끼지 않게 만드는 뇌관이 되었으며, 조선사들이 적자 수주 경쟁에서 완전히 벗어나 고마진 선별 수주를 독식하는 배경이 됩니다.",
-      "action_point": "조선주 주가 상승에 따른 밸류에이션 부담 우려로 조기 매도하기보다, 선가 상승분이 본격 영업이익으로 꽂히는 실적 장세 국면까지 보유를 유지하고 조정 시 추가 매수 기회로 삼아야 합니다."
-    },
-    "classification": {
-      "primary_topic": "stock",
-      "secondary_topics": ["energy", "economy"],
-      "tags": ["조선업밸류에이션", "PER리레이팅", "선가상승", "친환경선박", "IMO규제", "선주사발주", "해운운임"]
+      "signal_confidence": "high",
+      "signal_reason": "무중력 우주 환경을 이용한 바이오 및 정보통신 신소재 제조 기술이 지상의 물리적 한계를 극복하는 실체적 결과물(어닝서프라이즈 및 성능 개선)로 확인되며 장기 성장 동력으로 입증되었기 때문입니다.",
+      "key_companies": ["머크"],
+      "insight": "우주 산업이 단순 탐사와 통신을 넘어 고부가가치 의약품 및 정밀 하드웨어를 생산하는 '무중력 제조(Space Manufacturing)' 기지로 확장되고 있습니다. 이는 지상에서 중력의 한계로 불가능했던 초고순도 단백질 결정이나 무결함 광소재의 상업화를 가속화할 것입니다.",
+      "action_point": "우주 공간에서의 생산 비용 절감 및 무중력 제조 기술을 선점하는 글로벌 <span class=\"text-cyan-300 font-semibold\">제약사(머크 등)</span>와 <span class=\"text-cyan-300 font-semibold\">초정밀 신소재 개발 기업</span>의 우주 프로젝트 진척도를 주목해야 합니다."
     }
   },
-  "eNNcin54184": {
-    "primary": "stock",
-    "video": {
-      "id": "eNNcin54184",
-      "title": "지금같은 시장에서 주식 수익률을 높이는 가장 확실한 방법은 \"아무것도 하지 않기\"",
-      "published": "2026-06-03T08:30:00+00:00",
-      "channel_name": "이효석아카데미",
-      "url": "https://www.youtube.com/watch?v=eNNcin54184",
-      "thumbnail": "https://img.youtube.com/vi/eNNcin54184/hqdefault.jpg"
-    },
+  "sywYGB6JHTo": {
+    "primary_topic": "stock",
+    "secondary_topics": ["economy"],
+    "tags": ["V코스피", "코스피변동성", "마이크론실적", "풋콜레이시오", "레버리지ETF"],
     "analysis": {
-      "summary": "엔비디아의 젠슨 황 CEO가 대만 타이베이에서 한국 주요 대기업 총수들(삼성, SK, LG, 네이버, 두산)을 초청해 사상 최초의 만찬(소맥 회동)을 가지고 한국 방문 일정을 조율하는 등 한국 공급망에 대한 강력한 러브콜을 보냈습니다. AI 기술 도입으로 전 세계 3천만 개발자의 생산성이 3배 증가해 $9조 규모의 가치가 창출될 전망인 가운데, 투자자들은 무지성 테마 추종 대신 실질적 수혜주 중심의 선별 투자가 중요함을 역설합니다.",
+      "summary": "코스피의 변동성 지수인 <span class=\"text-rose-400 font-medium\">V코스피</span>가 과거 글로벌 금융위기 수준(89선 부근)에 근접하게 폭증하며 글로벌 시장 대비 유별난 변동성을 보였습니다. 이례적인 것은 주가 폭락이 아니라 반도체 중심의 사상 최대 이익(컨센서스 과열)과 5월 이후 대형 <span class=\"text-rose-400 font-medium\">레버리지 ETF 수급 노이즈</span>가 겹쳐 발생했다는 점입니다. 마이크론 실적 직전 옵션 시장에서는 풋 옵션 비중이 2배 이상 몰리며 하방 공포가 극대화되었습니다.",
       "key_claims": [
-        "엔비디아는 반도체뿐만 아니라 과학, 로보틱스, AI 팩토리를 아우르는 한국 공급망 파트너십을 미래 핵심 동력으로 재정의했다.",
-        "젠슨 황의 방한 일정과 한국 주요 총수들과의 연쇄 회동은 메모리(HBM) 및 온디바이스 AI, 로보틱스 협력을 구체화하기 위한 행보다.",
-        "전 세계 개발자 3천만 명의 연봉 합계는 $3조이며, AI 생산성 3배 향상은 연간 $9조의 경제적 파급 효과를 야기한다."
+        "V코스피가 역대급 변동성을 나타냈으나, 이는 금융위기처럼 펀더멘탈 붕괴가 아닌 레버리지 파생 수급이 부추긴 단기적 바람(노이즈)에 불깝하다.",
+        "현재 코스피는 기업 이익 컨센서스가 전례 없는 수치로 폭증하는 이례적인 '이익 과열' 및 펀더멘탈 강세 상태를 보이고 있다.",
+        "옵션 시장 내 마이크론의 풋콜 비율(풋옵션이 콜옵션의 2배)이 극대화되면서 실적 발표 직전까지 공포성 눈치싸움 매물이 출하되었다."
       ],
       "data_points": [
-        "전 세계 소프트웨어 개발자 수: 약 3,000만 명",
-        "글로벌 개발자 총 연봉 규모: 약 3조 달러",
-        "AI 생산성 증대에 따른 개발 가치 스케일: 약 9조 달러"
+        "V코스피 변동성 지수: 금융위기 수준 근접 급증",
+        "마이크론 실적 전 옵션 풋콜 비중: 풋옵션 비중이 콜옵션 대비 약 2배 우세"
       ],
-      "signal": "bullish",
-      "signal_reason": "글로벌 시총 1위 엔비디아가 한국 반도체 및 로봇, IT 인프라 파트너들을 강력한 동맹군(깜부)으로 지정하고 협업을 수직 계열화함에 따라, 국내 대형 IT 및 반도체 섹터의 실적 성장은 확실한 가시성을 얻었습니다.",
-      "key_companies": [
-        "엔비디아",
-        "삼성전자",
-        "SK하이닉스",
-        "네이버",
-        "두산"
-      ],
-      "insight": "젠슨 황의 '소맥 마케팅'과 한국 기자 샤라웃은 대만 파운드리와 한국 메모리·IT 연합을 조율해 독점적 생태계를 완성하려는 정교한 비즈니스 제스처입니다. 개발자 연봉 $3조 대비 AI 도입 가치 $9조라는 생산성 공식은 빅테크들이 AI 인프라(GPU/HBM) 구매를 멈추지 못하는 명확한 ROI적 근거를 제시합니다.",
-      "action_point": "단순 만남 소식에 급등락하는 중소형 테크 테마주에 대한 무지성 투자를 멈추고, 엔비디아의 핵심 밸류체인과 연결되어 실질적 매출 성장을 입증하는 메모리 대장주와 인프라 대형주 지분을 뚝심 있게 지켜야 합니다."
-    },
-    "classification": {
-      "primary_topic": "stock",
-      "secondary_topics": ["tech", "economy"],
-      "tags": ["젠슨황방한", "한국대기업만찬", "HBM동맹", "개발자생산성", "AI팩토리", "선별투자", "이효석"]
+      "signal": "neutral",
+      "signal_confidence": "medium",
+      "signal_reason": "V코스피 수치만 보면 공포 시그널이나, 기업 이익(펀더멘탈) 성장세는 사상 최대 수준을 지속하고 있고 파생상품 발 수급 왜곡이 원인이므로 변동성이 지속되되 추세 붕괴로 이어지지 않기 때문입니다.",
+      "key_companies": ["마이크론", "삼성전자", "SK하이닉스"],
+      "insight": "역사적으로 변동성 지수의 폭증은 항상 실적 급감과 주가 폭락을 동반했으나, 현재 코스피는 사상 최대의 기업 실적(반도체 중심)을 배경으로 변동성이 치솟는 이례적인 '펀더멘탈 과열' 상태입니다. 레버리지 수급 요인으로 등락 폭이 극대화된 상태이므로 주가의 일시적 등락에 투매하거나 추격하기보다는, 기업 이익의 훼손 여부를 냉정히 체크해야 합니다.",
+      "action_point": "수급 노이즈로 빚어진 변동성을 역이용하여 투매에 동참하기보다, <span class=\"text-cyan-300 font-semibold\">반도체 투톱(삼성전자, SK하이닉스)</span>의 <span class=\"text-amber-300 font-bold\">실적 턴어라운드 흐름</span>을 믿고 변동성을 버텨내거나 조정 시 분할 매수 기회로 활용해야 합니다."
     }
   },
-  "sLnpiyRT_nM": {
-    "primary": "tech",
-    "video": {
-      "id": "sLnpiyRT_nM",
-      "title": "젠슨황 직접 보고 왔습니다… GTC Taipei 키노트 핵심 | AI Agent가 인프라 모든 걸 바꾸다",
-      "published": "2026-06-03T06:00:00+00:00",
-      "channel_name": "안될공학 - IT 테크 신기술",
-      "url": "https://www.youtube.com/watch?v=sLnpiyRT_nM",
-      "thumbnail": "https://img.youtube.com/vi/sLnpiyRT_nM/hqdefault.jpg"
-    },
+  "vxRs-slyCRY": {
+    "primary_topic": "stock",
+    "secondary_topics": ["economy", "tech"],
+    "tags": ["반도체", "추격매수금지", "삼성전자", "SK하이닉스", "ADR상장", "수남매"],
     "analysis": {
-      "summary": "엔비디아 컴퓨텍스(GTC Taipei) 키노트 분석을 통해 AI 컴퓨팅이 단순 비용(Cost Center)에서 24시간 토큰을 찍어내 매출을 내는 디지털 공장인 '매출 센터(Revenue Center)'로 전환되었음을 설명합니다. 전력당 토큰 생산비용을 낮추는 **'전력당 토큰(Tokens per Watt)'**과 **'에이전트 처리량(Agent Throughput)'**이 AI 팩토리의 새로운 지표로 제시되었으며, 엔비디아는 하네스 기반 AI 에이전트와 DSX 플랫폼을 앞세워 인프라 수직 계열화를 공고히 하고 있습니다.",
+      "summary": "마이크론 실적 서프라이즈로 인해 삼성전자와 SK하이닉스 등 국내 대표 반도체 기업들이 5~11% 급등하며 강세를 보이고 있습니다. <span class=\"text-cyan-300 font-semibold\">SK하이닉스의 7월 나스닥 ADR 상장</span> 일정 확정 소식이 강력한 외인 수급 촉매제로 작용하고 있습니다. 다만 주도주 쏠림이 극대화되고 있으며 바이오 등 타 섹터로의 순환매는 지체되는 내로우(Narrow) 장세이므로, 섣부른 <span class=\"text-rose-400 font-medium\">추격매수는 절대 금물</span>입니다.",
       "key_claims": [
-        "AI 컴퓨팅은 사용자가 서비스를 구동해 추론이 발생할 때마다 매출이 찍히는 '컴퓨트가 곧 매출(Computing is Revenue)' 패러다임으로 안착했다.",
-        "AI 팩토리 평가는 단일 칩 속도를 넘어, 한정된 전력 한계 하에 최대 토큰 매출을 내는 전력당 토큰(Tokens per Watt) 설계 경쟁이다.",
-        "엔비디아는 AI 팩토리의 효율적 설계를 지원하는 플랫폼 'DSX'와 차세대 베라 루빈(Vera Rubin) 시스템 스택을 통해 표준화를 가속하고 있다."
+        "마이크론의 강력한 가이드가 IT 전반의 자신감을 충전하며 삼성전자 및 SK하이닉스가 일제히 상승 양봉을 그렸다.",
+        "SK하이닉스가 7월 10일경 나스닥에 ADR을 상장하기로 확정하면서 해외 주식 담보 및 추가 외국인 자금 조달 창구가 열렸다.",
+        "시장 전체가 강하게 올라가는 듯 보이나 실상 반도체 대장주 외의 바이오, 중소형주 등은 철저히 소외되는 내로우 장세가 계속되고 있다."
       ],
       "data_points": [
-        "AI 팩토리 핵심 최적화 지표: Tokens per Watt, Agent Throughput",
-        "AI 에이전트 정의: LLM (두뇌) + Harness (규칙/제약조건)"
+        "SK하이닉스 나스닥 ADR 상장 목표 일정: 2026년 7월 10일경",
+        "삼성전자/SK하이닉스 실적 발표일 상승률: 삼성전자 5~6%, SK하이닉스 9~11%대 급등"
       ],
       "signal": "bullish",
-      "signal_reason": "엔비디아가 전력 및 시스템 단위 설계 최적화(DSX)를 독점 제공하며 AI 에이전트 구동에 따른 토큰 매출 극대화 프레임을 완성함에 따라, 엔비디아 풀스택 인프라 플랫폼의 독점력과 단가는 더욱 탄탄해질 전망입니다.",
-      "key_companies": [
-        "엔비디아"
-      ],
-      "insight": "엔비디아는 GPU 파는 하드웨어 업체를 넘어 AI 전력과 인프라 효율성을 표준화하는 OS 플랫폼사로 자리 잡았습니다. 'Computing is Revenue' 논리는 고객들이 인프라 투자를 단순 비용이 아닌 실시간 토큰 인쇄기(Token Printer) 구매로 인식하게 만들어, 매크로 둔화 우려 속에서도 빅테크들의 지속 투자를 강제하는 마법의 프레임입니다.",
-      "action_point": "엔비디아의 DSX 플랫폼 및 루빈 랙 스케일 아키텍처 도입에 따른 고성능 냉각 솔루션(수냉식 등), 액체 냉각 장비주 및 전력 최적화 관련 반도체 기판(CCL 등) 및 부품 밸류체인의 기술적 주도 기업군을 집중 탐색해야 합니다."
-    },
-    "classification": {
-      "primary_topic": "tech",
-      "secondary_topics": ["stock", "energy"],
-      "tags": ["컴퓨텍스", "ComputingIsRevenue", "AI팩토리", "TokensPerWatt", "DSX플랫폼", "베라루빈", "AI에이전트"]
+      "signal_confidence": "high",
+      "signal_reason": "AI 반도체 공급 부족 수혜와 Hynix의 나스닥 ADR 상장이라는 확실한 글로벌 밸류업 모멘텀이 추가 유입되어 주도주의 상승 탄력이 강화되었기 때문입니다.",
+      "key_companies": ["삼성전자", "SK하이닉스", "SK스퀘어", "삼성전기"],
+      "insight": "글로벌 공급망 병목 해소와 ADR 상장 모멘텀을 지닌 SK하이닉스 등 주도주 위주의 자금 쏠림이 장기화되고 있습니다. 순환매가 넓고 강하게 도는 시장이 아니기 때문에, 낙폭과대라는 이유만으로 바이오나 중소형주를 조급하게 매수하는 것은 소외 기간을 늘릴 뿐입니다.",
+      "action_point": "시장의 주인공인 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>와 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>, 그리고 지주사인 <span class=\"text-cyan-300 font-semibold\">SK스퀘어</span>에 포트폴리오를 집중하고, 타 섹터의 섣부른 <span class=\"text-rose-400 font-medium\">추격 매수는 지양</span>해야 합니다."
     }
   }
 }
 
-for vid, info in analyses.items():
-    save_analysis(vid, info["primary"], info["video"], info["analysis"], info["classification"])
+for vid, data in batch_5.items():
+    save_and_delete(
+        video_id=vid,
+        primary_topic=data["primary_topic"],
+        secondary_topics=data["secondary_topics"],
+        tags=data["tags"],
+        analysis_data=data["analysis"]
+    )
+print("Batch 5 completed!")

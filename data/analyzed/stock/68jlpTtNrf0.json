@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "68jlpTtNrf0",
+    "title": "반도체부터 다시 담는 외국인…수급 개선 본격화 기대감ㅣ명민준, 박가영, 이지환 [주린이 구조대]",
+    "published": "2026-07-21T13:30:30+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=68jlpTtNrf0",
+    "thumbnail": "https://img.youtube.com/vi/68jlpTtNrf0/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "오로라투자자문 이지환 대표는 미 옵션 만기(매달 3번째 금요일) 전후로 풋 프리미엄을 노린 노이즈(DeepSeek, Kimi K3 등)가 부풀려진 뒤 만기가 지나면 악재가 자취를 감추는 '웩더독(Whip the dog)' 패턴을 분석했습니다. 외국인은 선물을 통해 국내 기관의 프로그램 매도를 유발한 뒤 밑에서 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>·하이닉스를 싹쓸이 저가 매집 중이며, 개인 레버리지 물량이 미국 ADR로 이동하며 국내 수급 체질이 개선되고 있습니다.",
+    "key_claims": [
+      "미국 옵션 만기 1~2주 전마다 악재(Kimi K3, 데이터센터 지연 등)를 부풀려 풋 프리미엄을 취한 뒤, 만기가 지나면 호재로 급반전되는 수급 왜곡이 되풀이되고 있다.",
+      "외국인은 선물 투매로 국내 금융투자의 프로그램 매도를 유발한 후 밑에서 <span class=\"text-cyan-300 font-semibold\">반도체</span> 현물을 저가 매집하는 전형적인 매집 기법을 가동하고 있다.",
+      "국내 단일 종목 2배 레버리지 ETF에 갇혀있던 수급이 해소되고 외국인 액티브 자금이 유입되며 <span class=\"text-cyan-300 font-semibold\">반도체</span> 바닥이 확고해졌다."
+    ],
+    "data_points": [
+      "외국인 수급 변화: 프로그램 매도 유도 후 반도체 현물 순매수로 전환",
+      "지수 조정폭: 코스닥 ~40%, 코스피 ~30% 조정 후 바닥 잡기 국면 진입"
+    ],
+    "signal": "positive",
+    "signal_reason": "옵션 만기 수급 노이즈가 해소되고 외국인의 프로그램 저가 매집 전환이 확인되어 <span class=\"text-cyan-300 font-semibold\">반도체</span> 주도의 펀더멘탈 반등이 재개되고 있기 때문입니다.",
+    "key_companies": [
+      "SK하이닉스(000660)",
+      "삼성전자(005930)"
+    ],
+    "insight": "옵션 만기 직전 쏟아지는 악재 뉴스에 공포 투매를 하면 안 됩니다. 외국인은 공포를 유발해 기관의 프로그램 매도를 끌어낸 뒤 최저점에서 주식을 담고 있습니다.",
+    "action_point": "수급 왜곡으로 과<span class=\"text-rose-400 font-medium\">조정</span>받은 <span class=\"text-cyan-300 font-semibold\">반도체</span> 대형주를 털리지 말고 고수하며, 옵션 만기 직후 반등 파동에 적극적으로 탑승해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "옵션만기웩더독",
+      "외국인저가매집",
+      "프로그램매도유도",
+      "레버리지이동",
+      "악재소멸패턴"
+    ]
+  }
+}

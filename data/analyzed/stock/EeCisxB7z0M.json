@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "EeCisxB7z0M",
+    "title": "[26.07.21 오전 방송 전체보기] '반도체주 반등' 불구 중동 긴장감 고조에 뉴욕증시 소폭 하락",
+    "published": "2026-07-21T03:18:45+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=EeCisxB7z0M",
+    "thumbnail": "https://img.youtube.com/vi/EeCisxB7z0M/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "뉴욕증시 브리핑은 <span class=\"text-violet-300 font-medium\">중동</span> 긴장감 속에서도 <span class=\"text-violet-300 font-medium\">중국</span> Kimi K3가 과제당 $0.95 비용으로 오픈AI($1.04) 대비 불과 10% 저렴한 수준에 머물러 딥시크식 '치킨 게임' 우려를 무력화했다고 전했습니다. 스마트카르마의 더글라스 킴은 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 미국 ADR 프리미엄(30~50%)이 15%선으로 축소되는 차익거래가 전개되며 본주 반등 탄력이 강화될 것으로 분석했습니다.",
+    "key_claims": [
+      "Kimi K3의 운용 비용은 오픈AI 최첨단 모델 대비 10% 저렴한 수준으로, 시장을 왜곡하는 덤핑이 아니며 오픈 웨이트 특성상 메모리 시장 전체 파이를 키운다.",
+      "미국 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> ADR에 붙었던 30~50%의 과도한 프리미엄이 15%로 축소되며 본주와 ADR 간 차익거래 매수세가 강하게 유입되고 있다.",
+      "<span class=\"text-cyan-300 font-semibold\">구글</span>이 2028년 배치를 목표로 제미나이 최적화 전용 칩을 개발하여 비구조적 데이터 속도를 개선하고 있다."
+    ],
+    "data_points": [
+      "Kimi K3 vs OpenAI 과제당 운용 비용: $0.95 vs $1.04 (불과 10% 차이)",
+      "SK하이닉스 ADR 프리미엄: 기존 30~50%에서 15% 수준으로 축소 진행 중"
+    ],
+    "signal": "positive",
+    "signal_reason": "Kimi K3 노이즈 해소와 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> ADR 차익거래 유입, <span class=\"text-cyan-300 font-semibold\">구글</span> 등의 AI 투자 확대가 확인되어 <span class=\"text-cyan-300 font-semibold\">반도체</span> 본주 반등을 자극하기 때문입니다.",
+    "key_companies": [
+      "SK하이닉스(000660)",
+      "Alphabet(GOOGL)",
+      "Broadcom(AVGO)"
+    ],
+    "insight": "<span class=\"text-violet-300 font-medium\">중국</span> AI 모델의 비용 덤핑 공포는 10% 차이에 불과한 해프닝이었습니다. <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 본주의 갭 메우기 반등 랠리가 속도를 낼 것입니다.",
+    "action_point": "ADR 프리미엄 축소 수혜를 입는 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 본주 및 AI 빅테크(<span class=\"text-cyan-300 font-semibold\">구글</span>, 알파벳)에 대한 매수 관점을 더욱 강화해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "키미K3가격비교",
+      "오픈웨이트메모리",
+      "하이닉스ADR스프레드",
+      "구글자체TPU",
+      "중동협상"
+    ]
+  }
+}

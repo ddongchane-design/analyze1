@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "R067Gf1VmwM",
+    "title": "[7월 21일 마감시황] 이번 고비만 넘기면 8월 랠리 시작! 오늘 반등에도 내 종목은 왜 그대로일까? 수급이 살아나야 '진짜'ㅣ홍선애, 이권희, 김장열 [클로징벨 라이브]",
+    "published": "2026-07-21T08:26:31+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=R067Gf1VmwM",
+    "thumbnail": "https://img.youtube.com/vi/R067Gf1VmwM/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "7월 21일 클로징벨 라이브는 코스피가 매수 사이드카 발동과 함께 3.7% 폭등한 6,761선으로 마감했으며, 외국인과 기관이 개인의 2조 원 투매 물량을 그대로 수용하며 강한 이중 바닥을 다졌다고 보도했습니다. 마이크론의 잉여현금흐름(FCF) 호조와 일본 키옥시아의 급반등에 힘입어 <span class=\"text-cyan-300 font-semibold\">반도체</span>가 7,000pt 지지대를 구축하고 8월 8,000pt 탈환 랠리에 나설 것입니다.",
+    "key_claims": [
+      "개인 2조 원 매도세를 외국인과 기관이 전액 흡수하며 매수 사이드카를 발동시켰다.",
+      "마이크론의 강력한 FCF(잉여현금흐름) 실적과 일본 키옥시아 폭등이 글로벌 <span class=\"text-cyan-300 font-semibold\">반도체</span> 투자 심리를 일제히 회복시켰다.",
+      "7월 말 실적 발표 고비를 넘기면 7,000pt를 안착하고 8월 본격적인 8,000pt 탈환 장세가 시작된다."
+    ],
+    "data_points": [
+      "지수 종가: 코스피 6,761pt (+3.7%), 코스닥 753pt (+0.5%)",
+      "수급: 개인 2조 3,000억 원 순매도, 외국인 및 기관 동반 순매수"
+    ],
+    "signal": "positive",
+    "signal_reason": "매수 사이드카 발동과 외국인·기관 2조 원대 수급 유입으로 바닥 반등이 확정되었고 8월 랠리의 기틀이 마련되었기 때문입니다.",
+    "key_companies": [
+      "SK하이닉스(000660)",
+      "삼성전자(005930)",
+      "Micron(MU)"
+    ],
+    "insight": "개인 투매 물량을 외국인 액티브 자금이 싹쓸이한 자리가 강력한 반등 바닥입니다. FCF가 탄탄한 <span class=\"text-cyan-300 font-semibold\">반도체</span> 대형주 중심의 보유 전략이 맞습니다.",
+    "action_point": "외국인이 매집을 재개한 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>와 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 비중을 공고히 유지하고 8월 랠리를 준비해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "코스피매수사이드카",
+      "외국인2조순매수",
+      "키옥시아급반등",
+      "마이크론FCF호조",
+      "8월8000포인트"
+    ]
+  }
+}

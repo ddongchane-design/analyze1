@@ -1,0 +1,48 @@
+{
+  "video": {
+    "id": "TkDRltnF5Ng",
+    "title": "[김종학의 뉴욕, 지금-7월22일] 미-중, 9월 AI 회담 개최 | 클래리티 법안 막판 진통 | SMCI, TSMC, 인텔, 알파벳, 엔비디아, 블랙록, 메타, 스페이스X, 애플",
+    "published": "2026-07-21T21:20:09+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=TkDRltnF5Ng",
+    "thumbnail": "https://img.youtube.com/vi/TkDRltnF5Ng/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국과 <span class=\"text-violet-300 font-medium\">중국</span>이 오는 9월 AI 안전 및 지적재산권 회담 개최에 합의한 가운데, 미 재무부가 <span class=\"text-violet-300 font-medium\">중국</span> LLM(Kimi K3 등) 내 미국 모델 워터마크 기술 도용 조사를 가동했습니다. 크립토 규제안인 클래리티 법안(Clarity Act)의 상원 막판 타결 기대감으로 <span class=\"text-cyan-300 font-semibold\">코인베이스</span>(+9%) 및 암호화폐 관련주가 급등했으며, 슈퍼마이크로컴퓨터(SMCI)가 마진 폭증으로 시간에 15~20% 폭등하고 <span class=\"text-cyan-300 font-semibold\">TSMC</span>가 10% 가격 인상을 단행하는 등 테크 호재가 쏟아졌습니다. 애플은 기가당 단가 상승 극복을 위해 '아이폰 구독/리스 프로그램'을 전격 추진 중입니다.",
+    "key_claims": [
+      "미국과 <span class=\"text-violet-300 font-medium\">중국</span>이 9월 양자 AI 회담을 열어 안보, 군사 및 워터마크 도용 문제를 논의할 예정이나 양국 간 기술 자원 전쟁은 가속되고 있다.",
+      "크립토 클래리티 법안의 상원 윤리 조항 타결 임박 소식에 비트코인이 $66,000를 회복하고 <span class=\"text-cyan-300 font-semibold\">코인베이스</span>(+9%), 서클(+8.5%) 등 관련주가 강세를 보였다.",
+      "슈퍼마이크로컴퓨터(SMCI)는 4분기 마진율이 15~17%로 컨센서스를 대폭 상회하며 장외에서 15~20% 폭등했다.",
+      "애플은 고가 단말기 부담 완화 및 재고 축소를 위해 아이폰 구독·리스형 보상 판매 프로그램을 전격 도입했다."
+    ],
+    "data_points": [
+      "주요 종목 상승률: 코인베이스 +9%, 서클 +8.5%, SMCI 시간외 +15~20%, TSMC +5.48%, 인텔 +8.64%, 네비우스 +18%",
+      "구글 알파벳 신규 모델: 제미나이 3.5 플래시 사이버 및 3.6 플래시 (토큰 사용량 17% 절감)"
+    ],
+    "signal": "positive",
+    "signal_reason": "크립토 법안 타결 호재와 슈퍼마이크로컴퓨터의 마진 폭등, 비트코인 및 테크 주도주들의 일제히 일어난 폭등세가 지수 반등을 견인하고 있기 때문입니다.",
+    "key_companies": [
+      "Super Micro Computer(SMCI)",
+      "TSMC(TSM)",
+      "Coinbase(COIN)",
+      "Apple(AAPL)",
+      "Intel(INTC)"
+    ],
+    "insight": "애플의 하드웨어 구독 모델 도입은 높은 칩셋 및 장비 단가 상승을 소비자에게 매달 리스료 형태로 분할 전가하려는 신규 수익화 전략입니다. 테크사들은 가격 인상분을 소비자와 기업에 성공적으로 전가하고 있습니다.",
+    "action_point": "가상자산 법안 수혜주(<span class=\"text-cyan-300 font-semibold\">코인베이스</span>) 및 마진 폭증이 확인된 AI 서버 랙 밸류체인(SMCI, 델)에 매수세를 배분하고, 미중 AI 회담 관련 보복 조치 발표를 모니터링해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "crypto"
+    ],
+    "tags": [
+      "미중9월AI회담",
+      "워터마크조사",
+      "클래리티법안타결",
+      "슈퍼마이크로급등",
+      "애플리스구독"
+    ]
+  }
+}

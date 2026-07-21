@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "yh6Uy6L3As4",
+    "title": "'백악관, 윤리 조항 동의' 지난밤 클래리티 법안이 다시 살아났다 | 서동주, 김동환, 김제이 블록미디어 편집장 [크립토 PLUS]",
+    "published": "2026-07-21T03:25:07+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=yh6Uy6L3As4",
+    "thumbnail": "https://img.youtube.com/vi/yh6Uy6L3As4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "백악관이 크립토 클래리티 법안(Clarity Act)의 윤리 조항 패키지에 전격 동의하며 법안 상원 상정 가능성이 급부상했습니다. 미군 사상자 발생 및 후티의 바브엘만데브 해협 봉쇄 악재 속에서도 물밑 10일 휴전 협상 소식이 전달되며 시장 불안 심리가 다소 안정화되고 있습니다.",
+    "key_claims": [
+      "백악관이 클래리티 법안의 핵심 걸림돌이었던 윤리 조항에 합의함에 따라 가상자산 규제 명확성 법안 통과 가시성이 대폭 높아졌다.",
+      "미<span class=\"text-violet-300 font-medium\">중동</span> 군사 갈등 속에서도 물밑 10일 휴전안 타진이 전개되며 원유 공급 차질 공포가 기술적 반등으로 완화되었다."
+    ],
+    "data_points": [
+      "트럼프 지지율: 40.5% (취임 직후 53% 대비 하락세 유지)"
+    ],
+    "signal": "positive",
+    "signal_reason": "백악관의 클래리티 법안 윤리 조항 합의로 가상자산 제도화 통과 가능성이 극대화되고 지정학적 휴전 타진이 호재로 작용하기 때문입니다.",
+    "key_companies": [
+      "Coinbase(COIN)",
+      "Circle"
+    ],
+    "insight": "크립토 클래리티 법안 통과 가능성은 가상자산의 법적 지위를 보장하는 역사적 이정표입니다. 기관 자금 유입의 대물꼬가 틉니다.",
+    "action_point": "법안 통과 수혜주인 <span class=\"text-cyan-300 font-semibold\">코인베이스</span> 및 비트코인 현물 ETF 관망 자금의 유입에 맞춰 매수 관점을 유지합니다."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "stock",
+      "economy"
+    ],
+    "tags": [
+      "클래리티법안합의",
+      "백악관윤리조항",
+      "중동휴전모멘텀",
+      "트럼프지지율",
+      "가상자산법안"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "Dpb3r3wbjic",
+    "title": "미국주식 ETF 매주 사면 이렇게 됩니다. (포트 비중, 환율, 매수 타이밍)",
+    "published": "2026-07-21T10:00:02+00:00",
+    "channel_name": "수페TV",
+    "url": "https://www.youtube.com/watch?v=Dpb3r3wbjic",
+    "thumbnail": "https://img.youtube.com/vi/Dpb3r3wbjic/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "수페TV는 238주(4.5년) 동안 미국 지수 ETF를 매주 적립식 매수한 실제 결과를 공개했습니다. 나스닥 100이 +72.1%(연 20% 이상), S&P 500이 +57.3%의 높은 성과를 거두었습니다. 최근 <span class=\"text-amber-300 font-bold\">환율</span>이 1,470원대로 하락했으나, 역사적 통계상 한 달간 <span class=\"text-amber-300 font-bold\">환율</span>이 3% 이상 하락한 뒤 다음 달 반등할 확률은 76.5%에 달하므로 현재 시점에서는 환노출 상품(지수 ETF) 비중을 높여 환차익과 주가 상승을 동시에 노리는 전략이 유리합니다.",
+    "key_claims": [
+      "238주간 매주 정립식 매수한 나스닥 100 수익률은 +72.1%, S&P 500은 +57.3%로 꾸준함이 시장 예측을 압도했다.",
+      "1981년 이후 <span class=\"text-amber-300 font-bold\">원달러 환율</span> 데이터 분석 결과, 한 달간 3% 이상 <span class=\"text-amber-300 font-bold\">환율</span>이 하락한 직후 다음 달 <span class=\"text-amber-300 font-bold\">환율</span>이 반등할 확률은 76.5%이다.",
+      "<span class=\"text-amber-300 font-bold\">환율</span> 1,470원대 이탈 국면에서는 환헤지보다 환노출 ETF 비중을 늘려 장기 우상향 환차익 및 지수 상승을 동시에 취해야 한다."
+    ],
+    "data_points": [
+      "238주 정립식 수익률: 나스닥 100 +72.1% (연 20%+), S&P 500 +57.3% (연 20%+)",
+      "환율 하락 후 반등 확률: 1개월간 3% 이상 하락 시 다음 달 상승 확률 76.5%"
+    ],
+    "signal": "positive",
+    "signal_reason": "미국 지수 ETF의 매주 정립식 매수 성과의 우수성이 입증되었고, 1,470원대 <span class=\"text-amber-300 font-bold\">환율</span> 구간이 환노출 매수의 높은 통계적 승률을 보이기 때문입니다.",
+    "key_companies": [
+      "Kodex 미국나스닥100(TR)",
+      "Kodex 미국S&P500TR"
+    ],
+    "insight": "<span class=\"text-amber-300 font-bold\">환율</span> 1,470원 하락 국면은 공포가 아닌 환노출 ETF 저가 매수의 최적 기회입니다. 정립식 매수는 고점 저점 예측 없이도 연 20% 수익을 안겨줍니다.",
+    "action_point": "<span class=\"text-amber-300 font-bold\">원달러 환율</span> 1,470원대에서 Kodex 미국나스닥100 및 S&P500 환노출 ETF를 매주 정립식으로 꾸준히 모아가는 전략을 추천합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "미국ETF정립식",
+      "환율매수타이밍",
+      "나스닥100수익률",
+      "환노출vs환헤지",
+      "환율패턴분석"
+    ]
+  }
+}

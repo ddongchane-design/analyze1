@@ -1,0 +1,36 @@
+{
+  "video": {
+    "id": "h_sI7zIdZLI",
+    "title": "수학 천재가 찾아냈다 절대 잃지 않는 투자법 | 북언더스탠딩 | 독하게 돈 공부 | 신영증권 박소연 이사",
+    "published": "2026-07-21T12:25:03+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=h_sI7zIdZLI",
+    "thumbnail": "https://img.youtube.com/vi/h_sI7zIdZLI/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "신영증권 박소연 이사는 켈리 공식(Kelly Criterion)과 섀넌의 마귀(Shannon's Demon) 등 수학적 포트폴리오 이론을 바탕으로, 시장 변동성 극복을 위해서는 100% 주식 올인보다 항상 적정 현금 비중을 유지하고 주기적 리밸런싱을 단행해야 자산의 기하평균(복리) 수익률을 극대화할 수 있음을 증명했습니다.",
+    "key_claims": [
+      "자산의 장기 복리 성장은 단순 산술평균이 아닌 기하평균으로 결정되며, 변동성이 클수록 100% 주식 보유는 파산 <span class=\"text-rose-400 font-medium\">위험</span>(Ruin Risk)을 높인다.",
+      "켈리 공식과 섀넌의 마귀 원리에 따라 현금 비중(예: 30~50%)을 유지하고 정기적 리밸런싱을 시행하면 변동성 자체가 수익으로 전환된다."
+    ],
+    "data_points": [],
+    "signal": "neutral",
+    "signal_reason": "개별 종목의 호재/악재가 아닌 포트폴리오 리밸런싱과 현금 관리의 중요성을 강조하는 수학적 투자 원론 분석이기 때문입니다.",
+    "key_companies": [],
+    "insight": "상승장과 하락장 모두에서 생존하는 비결은 적정 현금을 항시 보유하고 리밸런싱을 기계적으로 단행해 변동성을 복리 수익으로 바꾸는 것입니다.",
+    "action_point": "포트폴리오 내 20~30% 수준의 안정적인 현금/채권 비중을 상시 확보하여 변동성 장세에서의 저가 매수 여력을 유지해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "켈리공식",
+      "섀넌의마귀",
+      "포트폴리오재분배",
+      "현금비중관리",
+      "산술평균vs기하평균"
+    ]
+  }
+}

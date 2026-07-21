@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "oZ94ARjpBPQ",
+    "title": "반도체로 번 돈 전부 다... 결국 미국이 가져갑니다 #교양이를부탁해",
+    "published": "2026-07-21T11:00:13+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=oZ94ARjpBPQ",
+    "thumbnail": "https://img.youtube.com/vi/oZ94ARjpBPQ/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "AI 에이전트가 개발자의 야간 24시간 자율 가동 체제로 진화하면서 토큰 소비량이 폭증하고 있으나, 한국이 <span class=\"text-cyan-300 font-semibold\">반도체</span> 판매로 번 자금이 미국 빅테크의 API 결제 대금으로 전액 환수되는 종속 구조가 심화되고 있습니다. 특히 모태펀드 등 국내 VC 자금이 정부 정책을 따라 <span class=\"text-cyan-300 font-semibold\">반도체</span> 하드웨어로만 전격 쏠림으로써, 정작 고부가가치 AI 소프트웨어·모델 생태계가 고사하는 '하드웨어 몰빵 국가'의 <span class=\"text-rose-400 font-medium\">위험</span>성이 제기됩니다.",
+    "key_claims": [
+      "개발자가 밤새 AI 에이전트를 가동하는 24시간 근무 체제로 전환되면서 토큰 소비량이 직전 대비 3배 이상 폭증하고 있다.",
+      "한국이 <span class=\"text-cyan-300 font-semibold\">반도체</span> 수출로 번 돈이 오픈AI, 클로드 등 미국 플랫폼 기업의 결제 대금으로 도로 <span class=\"text-rose-400 font-medium\">유출</span>되는 부의 종속이 지속된다.",
+      "국내 투자 자금이 <span class=\"text-cyan-300 font-semibold\">반도체</span>·하드웨어 메가 프로젝트로만 집중되어 AI 소프트웨어 파워 및 독자 모델 생태계가 자금 가뭄에 시달리고 있다."
+    ],
+    "data_points": [],
+    "signal": "negative",
+    "signal_reason": "하드웨어 비중 편중으로 국내 AI 소프트웨어 생태계가 고사하고, <span class=\"text-cyan-300 font-semibold\">반도체</span> 이익이 미국 빅테크의 토큰 비용으로 환수되는 매크로 불균형이 커지고 있기 때문입니다.",
+    "key_companies": [
+      "OpenAI",
+      "Anthropic",
+      "Alphabet(GOOGL)"
+    ],
+    "insight": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 칩만 판 돈으로 미국 AI 빅테크의 토큰 비용을 대주는 구조를 탈피하려면 국내 소프트웨어 생태계육성과 엔터프라이즈 AI 서비스 수직계열화가 시급합니다.",
+    "action_point": "단순 국내 소형 IT 소프트웨어 기업 투자는 보수적으로 임하되, 미국 독점 LLM 플랫폼 및 글로벌 비즈니스 SaaS 기업 중심의 포트폴리오를 유지해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "economy",
+      "stock"
+    ],
+    "tags": [
+      "24시간에이전트",
+      "토큰사용량폭증",
+      "하드웨어몰빵위험",
+      "소프트웨어약세",
+      "미국AI종속"
+    ]
+  }
+}

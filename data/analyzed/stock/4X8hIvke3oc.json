@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "4X8hIvke3oc",
+    "title": "월가 리서치 10개 더 읽었습니다. 반도체 사이클.. 아무리 봐도 이상합니다",
+    "published": "2026-07-21T11:12:38+00:00",
+    "channel_name": "월텍남",
+    "url": "https://www.youtube.com/watch?v=4X8hIvke3oc",
+    "thumbnail": "https://img.youtube.com/vi/4X8hIvke3oc/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "월텍남 분석은 시장이 2027~2028년 하반기 공급 과잉 우려를 5~6개 분기나 성급하게 선반영하여 메모리 주가를 과도하게 하락시켰다고 지적했습니다. JP모건 리포트 역시 2028년 전까지 의미 있는 공급 확대가 없으며 마이크론(PER 5.8배), 하이닉스·<span class=\"text-cyan-300 font-semibold\">삼성전자</span>(PER 3.8배) 등 밸류에이션이 역대 최저 수준으로 떨어져 있어 실적 발표를 기점으로 강력한 랠리가 올 것을 선언했습니다.",
+    "key_claims": [
+      "<span class=\"text-cyan-300 font-semibold\">반도체</span> 사이클은 통상 2~3분기 앞서 선반영하나, 현재 시장은 2027~2028년 증설 우려를 6분기 이상 지나치게 빨리 반영하는 오류를 범했다.",
+      "JP모건 미슬라브 마테이커 팀은 2028년 전까지 대규모 공급 추가가 불가능하므로 현 시점의 주가 하락 반영은 비논리적이며 밸류에이션 매력이 극대화되었다고 진단했다.",
+      "과거 메모리 턴어라운드와 달리 이번 사이클은 적자 전환 없이 2028년까지 하이닉스 400조 원대, <span class=\"text-cyan-300 font-semibold\">삼성전자</span> 800조 원대의 훌륭한 영업이익이 지속된다."
+    ],
+    "data_points": [
+      "메모리 포워드 PER: 마이크론 5.8배, SK하이닉스 3.8배, 삼성전자 3.8배 (역사적 바닥권)",
+      "빅테크 기술주 포워드 PER: 평균 12배 수준 (5년 평균 27배 대비 반토막 저평가)"
+    ],
+    "signal": "positive",
+    "signal_reason": "메모리 포워드 PER 3.8배라는 역사적 과매도 상태와 2028년까지 꺾이지 않는 실적 전망, JP모건의 강한 바닥 진단이 강력한 주가 반등을 담보하기 때문입니다.",
+    "key_companies": [
+      "SK하이닉스(000660)",
+      "삼성전자(005930)",
+      "Micron(MU)",
+      "NVIDIA(NVDA)"
+    ],
+    "insight": "과거 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span>는 적자를 반영해 PER 3배일 때 고점이었으나, 이번 사이클은 <span class=\"text-cyan-300 font-semibold\">HBM</span>과 AI 장기 계약 덕분에 막대한 흑자가 유지되는 PER 3.8배의 절호의 저가 매수 기회입니다.",
+    "action_point": "과도한 5분기 선반영으로 주가가 짓눌린 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>, <span class=\"text-cyan-300 font-semibold\">삼성전자</span> 및 마이크론을 적극 저가 매수하여 밸류에이션 정상화 랠리에 대비해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "반도체선반영오류",
+      "JP모건보고서",
+      "PR3.8배역대최저",
+      "2028년쇼티지지속",
+      "밸류에이션극저평가"
+    ]
+  }
+}

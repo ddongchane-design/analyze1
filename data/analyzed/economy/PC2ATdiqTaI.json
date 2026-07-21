@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "PC2ATdiqTaI",
+    "title": "400조 벌어도 못 메운다 5천조 투자의 숨은 청구서 #교양이를부탁해",
+    "published": "2026-07-21T10:00:08+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=PC2ATdiqTaI",
+    "thumbnail": "https://img.youtube.com/vi/PC2ATdiqTaI/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "한국의 장기 <span class=\"text-cyan-300 font-semibold\">반도체</span> 인프라 투자 계획(5,000조 원 상당)은 국가 GDP(약 2,300조 원)의 2배를 상회하여, <span class=\"text-cyan-300 font-semibold\">삼성전자</span>와 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>의 연간 400조 원대 영업이익을 10년 이상 전액 쏟아부어도 모자란 극단적 부채 의존도를 유발하고 있습니다. 이 이익은 장부상 이익일 뿐 매출채권 및 주주환원(배당·자사주)으로 분산되므로, 국책 대출과 정책 금융에 의존한 무리한 인프라 집행이 무역 수지 적자 반전 및 국가 신용 <span class=\"text-rose-400 font-medium\">리스크</span> 청구서로 돌아올 수 있습니다.",
+    "key_claims": [
+      "한국의 5,000조 원대 <span class=\"text-cyan-300 font-semibold\">반도체</span> 인프라 프로젝트는 국가 GDP의 2배 수준으로, 삼전·하이닉스 합산 영업이익 400조 원을 10년 넘게 전액 투입해야 하는 과밀 베팅이다.",
+      "영업이익 중 상당수는 장부상 이익이며 주주환원 및 주주 배당에 사용되므로, 인프라 비용의 대부분은 국책 대출과 시중 부채로 충당되어 매크로 신용 <span class=\"text-rose-400 font-medium\">리스크</span>를 키운다."
+    ],
+    "data_points": [
+      "한국 총 인프라 투자 계획: 5,000조 원 (한국 GDP 2,300조 원의 2배 초과)",
+      "삼성전자+SK하이닉스 피크 영업이익 합산: 약 400조 원 추정"
+    ],
+    "signal": "negative",
+    "signal_reason": "GDP의 2배에 달하는 부채 기반 인프라 과밀 투자가 무역수지 적자 반전과 기업의 주주환원 재원 고갈을 유발하는 중장기 매크로 <span class=\"text-rose-400 font-medium\">리스크</span>이기 때문입니다.",
+    "key_companies": [
+      "SK하이닉스(000660)",
+      "삼성전자(005930)"
+    ],
+    "insight": "<span class=\"text-cyan-300 font-semibold\">반도체</span> 호황에 착시되어 국가 GDP 2배의 부채 인프라를 지으면 수급 둔화 시 감당 불가능한 이자 청구서로 돌아옵니다. 자본 효율성 점검이 필요합니다.",
+    "action_point": "과도한 CAPEX 집행으로 재무 비효율이 우려되는 하드웨어 전용 밸류체인보다 현금 유동성이 우수한 종목으로 포트폴리오를 안분해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "5000조투자청구서",
+      "무역수지적자위험",
+      "GDP대비투자",
+      "주주환원차질",
+      "정책금융부채"
+    ]
+  }
+}

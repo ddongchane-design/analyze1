@@ -1,0 +1,49 @@
+{
+  "video": {
+    "id": "8Yx2c_tozP0",
+    "title": "반도체, 저가 매수에 일제히 급등…10년물 국채금리 4.6% 돌파 [월가 뉴스레터]",
+    "published": "2026-07-21T22:10:27+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=8Yx2c_tozP0",
+    "thumbnail": "https://img.youtube.com/vi/8Yx2c_tozP0/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "월가 뉴스레터 브리핑은 <span class=\"text-cyan-300 font-semibold\">반도체</span> 섹터의 폭발적인 저가 매수세(마이크론 +12%, AMD +8%, <span class=\"text-cyan-300 font-semibold\">인텔</span> +8.6%, 샌디스크 +14%)로 뉴욕 증시가 일제히 급반등했다고 전했습니다. 그러나 <span class=\"text-amber-300 font-bold\">유가 상승</span>(WTI $84.5, 브렌트 $90)으로 미국 10년물 국채 금리가 4.63%를 돌파하고 비트코인이 $66,000선으로 치솟는 등 통화 긴축 경계감도 공존합니다. 한편 미국 재무부가 <span class=\"text-violet-300 font-medium\">중국</span> Kimi K3의 앤스로픽 기술 도용 조사에 착수하고, 샘 알트만이 다음 주 국회/백악관에 차세대 GPT-6 모델을 직접 브리핑하는 등 글로벌 AI 주도권 행보가 무더기로 전개 중입니다.",
+    "key_claims": [
+      "마이크론, AMD, <span class=\"text-cyan-300 font-semibold\">인텔</span>, 샌디스크 등 <span class=\"text-cyan-300 font-semibold\">반도체</span> 주도주가 일제히 8~14% 폭등하며 기술주 심리를 강하게 견인했다.",
+      "<span class=\"text-amber-300 font-bold\">유가 상승</span> 여파로 미 10년물 국채 금리가 4.63%까지 치솟고 금값($4,082)과 비트코인($66,000)이 일제히 신기록을 경신했다.",
+      "샘 알트만이 다음 주 미국 정부 및 의회 인사들에게 직접 차세대 AI 모델(GPT-6)을 브리핑하며, 5.6 Sol 업데이트 이후 ChatGPT MAU가 1,000만 명을 급격히 돌파했다.",
+      "모건스탠리는 소프트웨어 과매도 속에서도 8대 우량주(MSFT, Palo Alto, CrowdStrike, Cloudflare, Datadog, ServiceNow, Snowflake, Shopify)는 독점 해자로 살아남을 것을 확언했다."
+    ],
+    "data_points": [
+      "주요 종목 상승률: 마이크론 +12.17%, 샌디스크 +14%, 웨스턴디지털 +12%, 인텔 +8.6%, AMD +8%, 마벨 +6.7%",
+      "금리 및 자산: 미 10년물 국채 금리 4.63%, 금 선물 $4,082/oz, 비트코인 $66,000",
+      "슈퍼마이크로컴퓨터(SMCI): 마진율 15~17%로 시장 예상치(8.2%) 2배 달성하며 시간외 +10% 급등"
+    ],
+    "signal": "positive",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">반도체</span>주에 대한 글로벌 기관들의 전폭적인 저가 매입 유입과 슈퍼마이크로컴퓨터의 마진 2배 폭증, ChatGPT 사용자 폭발 등 AI 실질 수요의 가시성이 국채 금리 상승 악재를 압도했기 때문입니다.",
+    "key_companies": [
+      "Micron(MU)",
+      "AMD(AMD)",
+      "Intel(INTC)",
+      "Super Micro Computer(SMCI)",
+      "Microsoft(MSFT)"
+    ],
+    "insight": "SMCI의 마진이 8%에서 17%로 2배 폭등한 것은 AI 서버 및 CPU 쇼티지가 얼마나 극심한지를 보여주는 empircal 증거입니다. 국채 금리가 4.6%로 높아져도 확실한 이익 폭증을 보여주는 <span class=\"text-cyan-300 font-semibold\">반도체</span>/서버 밸류체인으로 수급이 블랙홀처럼 빨려 들어가고 있습니다.",
+    "action_point": "상승세를 탄 <span class=\"text-cyan-300 font-semibold\">반도체</span>(마이크론, <span class=\"text-cyan-300 font-semibold\">인텔</span>, AMD) 및 슈퍼마이크로컴퓨터 관련 서버 부품사에 대한 보유 비중을 늘리고, 모건스탠리가 선정한 8대 우량 AI 소프트웨어(보안, 데이터 플랫폼)주를 골라 담아야 합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "월가뉴스레터",
+      "반도체저가매수",
+      "국채금리4.6%",
+      "키미K3기술조사",
+      "오픈AI_MAU천만"
+    ]
+  }
+}

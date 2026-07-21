@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "Av1yzHS6-RQ",
+    "title": "프롬프트 시대는 끝났다... 이제 '이것'의 시대 #교양이를부탁해",
+    "published": "2026-07-21T10:30:29+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=Av1yzHS6-RQ",
+    "thumbnail": "https://img.youtube.com/vi/Av1yzHS6-RQ/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "AI 엔지니어링의 패러다임이 프롬프트/컨텍스트를 넘어 10~100개의 에이전트를 동시 조율하여 환각을 없애고 자율 과제를 완수하는 '하네스 엔지니어링(Harness Engineering)'으로 전격 진화했습니다. 에이전트가 과제당 수십 번의 추론 연산을 수행함에 따라 개별 개발자의 토큰 사용량이 100배 폭증했으며, 골드만삭스(25배 증가 예측) 등 글로벌 기관들은 연산 및 메모리 하드웨어의 무제한 팽창을 전망하고 있습니다.",
+    "key_claims": [
+      "AI 프롬프트 시대를 지나 수십 개 에이전트를 유기적으로 통제해 생산성을 극대화하는 '하네스 엔지니어링'이 테크의 핵심 화두로 정착했다.",
+      "자율 목표를 수행하는 에이전틱 AI의 특성상 추론 연산과 메모리 사용량이 직전 대비 25~100배 폭증하고 있다."
+    ],
+    "data_points": [
+      "골드만삭스 에이전트 토큰 사용량 예측: 25배 폭증",
+      "개별 개발자 실제 토큰 사용량 증가: 100배 폭증"
+    ],
+    "signal": "positive",
+    "signal_reason": "하네스 엔지니어링 및 에이전틱 AI 도입으로 인한 토큰 및 메모리 사용량의 25~100배 폭증이 AI 하드웨어와 <span class=\"text-cyan-300 font-semibold\">반도체</span> 업계의 초장기 슈퍼사이클을 보장하기 때문입니다.",
+    "key_companies": [
+      "SK하이닉스(000660)",
+      "NVIDIA(NVDA)",
+      "Microsoft(MSFT)"
+    ],
+    "insight": "단순 질문-답변 시대는 끝났습니다. 수십 개의 에이전트가 24시간 독립 연산을 수행하는 하네스 엔지니어링 시대의 개막은 메모리와 GPU의 기하급수적 소비를 의미합니다.",
+    "action_point": "에이전틱 AI 구동에 필수적인 초고속 <span class=\"text-cyan-300 font-semibold\">HBM</span>, 고용량 DDR5 및 에이전트 오케스트레이션 플랫폼 기업(MSFT)을 장기 매수해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "하네스엔지니어링",
+      "AI에이전트원년",
+      "토큰사용량100배",
+      "골드만삭스예측",
+      "연산메모리폭증"
+    ]
+  }
+}

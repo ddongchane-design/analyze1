@@ -1,0 +1,37 @@
+{
+  "video": {
+    "id": "GvufwAgVwSA",
+    "title": "50kg vs 70kg, 충격적인 결과 ㄷㄷ",
+    "published": "2026-07-21T11:00:04+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=GvufwAgVwSA",
+    "thumbnail": "https://img.youtube.com/vi/GvufwAgVwSA/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "체중 관리와 첫인상이 사회적 결혼 확률(29%p 증가) 및 1.5년 후 취업률(26.9%p 증가)에 미치는 정량적 영향을 사회 심리학 데이터로 분석한 교양 숏폼 영상입니다.",
+    "key_claims": [
+      "체중 관리를 통한 외모 개선이 결혼 및 취업 확률을 25%p 이상 유의미하게 급증시키는 통계적 결과가 확인되었다."
+    ],
+    "data_points": [
+      "결혼/연애 확률 영향: 체중 관리 시 29%p 급증",
+      "1.5년 후 취업률 영향: 26.9%p 급증"
+    ],
+    "signal": "neutral",
+    "signal_reason": "사회심리학적 통계 교양 콘텐츠로 금융 시장에 직접적인 영향이 없기 때문입니다.",
+    "key_companies": [],
+    "insight": "자기 관리 및 헬스케어 메가트렌드(GLP-1 등)가 개인의 사회적 생산성 지표와 정밀 연동되고 있음을 보여줍니다.",
+    "action_point": "개인 건강 관리 및 글로벌 헬스케어 유관 지표를 참고합니다."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "외모와취업률",
+      "사회심리학",
+      "비만율분석",
+      "데이터분석"
+    ]
+  }
+}

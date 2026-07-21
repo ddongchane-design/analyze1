@@ -1,0 +1,39 @@
+{
+  "video": {
+    "id": "nSF8_BlFix8",
+    "title": "당뇨 없는 일반인이 살 빼려고 비만약 맞아도 저혈당 안올까?",
+    "published": "2026-07-21T14:15:21+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=nSF8_BlFix8",
+    "thumbnail": "https://img.youtube.com/vi/nSF8_BlFix8/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "GLP-1 비만 치료제(위고비 등)는 혈당이 상승했을 때만 인슐린 분비를 폭증시키는 '터보 차저' 메커니즘으로 작동하므로, 당뇨가 없는 정상인이 살 빼는 용도로 복용하더라도 저혈당 쇼크에 빠지지 않는 독보적 생리적 안전성을 입증했습니다. 이러한 메커니즘 덕분에 글로벌 <span class=\"text-violet-300 font-medium\">대중</span>화 및 적응증 확장이 가속화되고 있습니다.",
+    "key_claims": [
+      "GLP-1 제제는 췌장의 베타 세포가 혈당을 인지해 켜진 상태에서만 인슐린 분비를 증폭시키는 터보 차저 역할을 수행한다.",
+      "정상인이 복용하더라도 스위치가 켜지지 않아 저혈당을 유발하지 않으므로 기존 당뇨약과 차별화되는 <span class=\"text-violet-300 font-medium\">대중</span>적 안전성을 보장한다."
+    ],
+    "data_points": [],
+    "signal": "positive",
+    "signal_reason": "저혈당 부작용이 없는 기전적 안전성이 확인되어 비만 치료제의 일반인 타깃 <span class=\"text-violet-300 font-medium\">대중</span>화 및 글로벌 바이오 시장 파이 확장이 보장되기 때문입니다.",
+    "key_companies": [
+      "노보노디스크(NVO)",
+      "일라이릴리(LLY)"
+    ],
+    "insight": "저혈당 <span class=\"text-rose-400 font-medium\">위험</span>이 없다는 것은 일반 소비자 대상 <span class=\"text-violet-300 font-medium\">대중</span> 의약품으로서의 침투율 한계가 없음을 뜻합니다. GLP-1 밸류체인의 성장성은 확고합니다.",
+    "action_point": "GLP-1 생산 CDMO 및 펩타이드 원료 공급사에 대한 장기 매수 관점을 지속 유지해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "GLP1저혈당안전성",
+      "인슐린터보차저",
+      "비만약대중화",
+      "바이오메가트렌드",
+      "노보노디스크"
+    ]
+  }
+}
