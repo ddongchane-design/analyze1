@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "izAtyKRZxiE",
+    "title": "[속보효] 다른건 모르겠습니다. 다만 '돈'은 거짓말을 하지 않습니다",
+    "published": "2026-07-26T10:02:44+00:00",
+    "channel_name": "이효석아카데미",
+    "url": "https://www.youtube.com/watch?v=izAtyKRZxiE",
+    "thumbnail": "https://img.youtube.com/vi/izAtyKRZxiE/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "샌프란시스코에서 열린 글로벌 AI 정상급 면담에서 <span class=\"text-cyan-300 font-semibold\">젠슨 황(엔비디아)</span>, 샘 올트먼, 브로드컴 수장 및 국내 재계 총수들이 한자리에 모여 초대형 AI 인프라 펀딩과 반도체 공급망 협력을 논의했습니다. 한국의 HBM 메모리 반도체와 글로벌 GPU 플랫폼 간의 결합이 더욱 공고해지고 있습니다. 글로벌 기술 자본의 거대한 자금 흐름이 AI 밸류체인으로 집결하고 있음을 확인했습니다.",
+    "key_claims": [
+      "엔비디아 및 빅테크 최고경영진과 한국 최고 재계 리더들의 <span class=\"text-violet-300 font-medium\">전대미문의 AI 협력 얼라이언스</span>",
+      "HBM4 등 차세대 메모리 반도체 시장에서의 한국 기업 독점적 기술 우위 확인",
+      "글로벌 AI 데이터센터 확충을 위한 <span class=\"text-amber-300 font-bold\">천문학적 수조 달러 단위 자금 유입</span>"
+    ],
+    "data_points": [
+      "글로벌 빅테크 연간 AI 데이터센터 투자 규모 2,000억 달러 초과 전망",
+      "HBM3e/HBM4 공급계약 물량 향후 2년간 완료 수준"
+    ],
+    "signal": "bullish",
+    "signal_reason": "글로벌 테크 거인들과 한국 반도체 기업 간의 <span class=\"text-cyan-300 font-semibold\">강력한 파트너십과 대규모 투자 집행</span> 확정.",
+    "key_companies": [
+      "엔비디아",
+      "SK하이닉스",
+      "삼성전자",
+      "브로드컴"
+    ],
+    "insight": "자본 시장의 돈은 거짓말을 하지 않으며, 현재 글로벌 메가머니의 지향점은 오직 <span class=\"text-amber-300 font-bold\">AI 인프라와 첨단 반도체</span>로 집결되고 있습니다.",
+    "action_point": "HBM 장비사, 패키징 관련주 및 AI 파운드리 밸류체인 수혜주 중심의 지속적인 비중 확대가 추천됩니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock",
+      "economy"
+    ],
+    "tags": [
+      "샌프란시스코",
+      "이재명대통령",
+      "젠슨황",
+      "최태원",
+      "이재용",
+      "AI투자"
+    ]
+  }
+}

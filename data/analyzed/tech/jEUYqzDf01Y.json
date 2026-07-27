@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "jEUYqzDf01Y",
+    "title": "미국이 한국 반도체에 관세 100% 검토중???",
+    "published": "2026-07-25T11:00:00+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=jEUYqzDf01Y",
+    "thumbnail": "https://img.youtube.com/vi/jEUYqzDf01Y/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 백악관과 상무부가 2026년 7월 자국 내 데이터센터용 수입 반도체에 대해 최대 100%의 관세 부과를 검토 중인 것으로 나타나 한국 메모리 반도체 업계에 비상이 걸렸습니다. 미-중 패권 경쟁 고도화 속에서 자국 생산 인센티브 강화를 위한 무역장벽 카드로 활용하려는 의도입니다. 다만 미국 내 Big Tech들의 HBM 등 첨단 반도체 수급 대안이 부족해 실제 시행 여부 및 수율 조건 완화 negotiation이 관건입니다.",
+    "key_claims": [
+      "미 미국 상무부, 수입 데이터센터용 반도체 대상 <span class=\"text-rose-400 font-medium\">최대 100% 관세 검토</span> 공식화",
+      "한국 <span class=\"text-cyan-300 font-semibold\">SK하이닉스/삼성전자</span>의 미 현지 생산 공장 설립 가속화 압박",
+      "미국 빅테크 기업들의 인프라 구축 비용 증가에 따른 발등의 불"
+    ],
+    "data_points": [
+      "검토 중인 데이터센터용 첨단 메모리 관세율 최대 100%",
+      "한국 기업의 대미 메모리 반도체 수출 비중 전체 수출의 35%"
+    ],
+    "signal": "bearish",
+    "signal_reason": "<span class=\"text-rose-400 font-medium\">보호무역주의 관세 리스크</span> 가시화에 따른 반도체 수출 센티멘트 악화.",
+    "key_companies": [
+      "SK하이닉스",
+      "삼성전자",
+      "엔비디아",
+      "마이크론"
+    ],
+    "insight": "미국의 관세 위협은 자국 내 파운드리 및 메모리 생산기지 이전을 강제하기 위한 <span class=\"text-violet-300 font-medium\">지정학적 통상 압박</span>의 일환입니다.",
+    "action_point": "미국 현지 공장 신설이 빠르게 이루어지는 반도체 밸류체인 및 관세 면제 가능성을 고려한 유연한 리스크 관리가 필요합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "economy",
+      "stock"
+    ],
+    "tags": [
+      "미국관세",
+      "반도체관세",
+      "트럼프관세",
+      "메모리반도체",
+      "통상리스크"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "FDSa5yDlokA",
+    "title": "한국 갯벌 아래 1만 년 동안 쌓인 것",
+    "published": "2026-07-26T06:00:39+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=FDSa5yDlokA",
+    "thumbnail": "https://img.youtube.com/vi/FDSa5yDlokA/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "지구와 우주 환경의 긴 시간에 걸친 형성 과정과 함께 <span class=\"text-cyan-300 font-semibold\">스페이스X 스타십</span>이 보여주는 거대 우주 재사용 발사체의 기술적 성과를 다룹니다. 우주 공학 기술의 진보는 지구 역사의 오랜 미해결 과제들을 탐사하는 수단을 제공합니다. 인류가 다행성 종족으로 나아가는 과정에서 거대 발사체 플랫폼의 중요성이 점점 더 부각되고 있습니다.",
+    "key_claims": [
+      "수만 년의 축적된 지구 생태계 지식을 바탕으로 한 인류 우주 기술 발전",
+      "<span class=\"text-cyan-300 font-semibold\">스타십</span>을 통한 우주 수송 비용의 획기적 절감과 대형 화물 수송 실현",
+      "심우주 탐사 및 우주 인프라 구축의 경제성 확보"
+    ],
+    "data_points": [
+      "스타십 1회 발사 당 수송 가능 화물 용량 100톤 이상",
+      "재사용을 통한 우주 수송 단가 기존 대비 1/10 이하 절감 목표"
+    ],
+    "signal": "bullish",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">우주 발사체 완전 재사용</span> 기술의 고도화로 우주 경제 인프라가 비약적으로 확충되는 추세.",
+    "key_companies": [
+      "SpaceX",
+      "Tesla"
+    ],
+    "insight": "우주 기술의 발전은 단지 우주로 나아가는 것을 넘어 지구와 우주 생태계에 대한 <span class=\"text-amber-300 font-bold\">인류의 통찰력</span>을 전면적으로 확장시킵니다.",
+    "action_point": "민간 우주 발사체 관련 공급망 부품사 및 우주 인터넷/데이터 관련 기업들의 중장기 성장성에 주목해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "space",
+    "secondary_topics": [
+      "tech",
+      "etc"
+    ],
+    "tags": [
+      "스페이스X",
+      "스타십",
+      "우주탐사",
+      "지구과학",
+      "우주공학"
+    ]
+  }
+}

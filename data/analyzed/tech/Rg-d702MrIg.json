@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "Rg-d702MrIg",
+    "title": "갤럭시 워치의 퀄컴 신의 한수, 왜 엑시노스를 뺐나 | 갤럭시 워치 울트라2  미친 배터리 효율",
+    "published": "2026-07-25T23:17:27+00:00",
+    "channel_name": "안될공학 - IT 테크 신기술",
+    "url": "https://www.youtube.com/watch?v=Rg-d702MrIg",
+    "thumbnail": "https://img.youtube.com/vi/Rg-d702MrIg/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "삼성전자가 신형 갤럭시 워치 울트라2에 자체 <span class=\"text-cyan-300 font-semibold\">엑시노스</span> 대신 <span class=\"text-cyan-300 font-semibold\">퀄컴</span>의 3nm 웨어러블 칩셋을 전격 채택하며 배터리 성능을 대폭 끌어올렸습니다. 일상적인 잦은 충전 문제를 해결하여 최대 3일간 작동할 수 있는 전력 관리 효율성을 갖췄습니다. 칩셋 이원화와 고객 경험 극대화를 위한 이번 선택이 글로벌 프리미엄 스마트워치 시장에서 긍정적 평가를 받고 있습니다.",
+    "key_claims": [
+      "<span class=\"text-cyan-300 font-semibold\">퀄컴 초저전력 AP</span> 도입으로 배터리 성능 전작 대비 2배 이상 획기적 증가",
+      "스마트워치 최대 단점이었던 <span class=\"text-amber-300 font-bold\">배터리 조기 방전 이슈</span> 해결",
+      "삼성전자의 실용적인 글로벌 반도체 얼라이언스 전략 강화"
+    ],
+    "data_points": [
+      "갤럭시 워치 울트라2 배터리 타임 최대 80시간 달성",
+      "퀄컴 3nm 프로세서의 전력 효율 개선율 30% 증가"
+    ],
+    "signal": "bullish",
+    "signal_reason": "소비자 니즈 중심의 <span class=\"text-cyan-300 font-semibold\">칩셋 채택 전략</span>으로 완성도 제고 및 제품 판매량 증대 기대.",
+    "key_companies": [
+      "삼성전자",
+      "퀄컴",
+      "애플"
+    ],
+    "insight": "자체 수율에 얽매이지 않고 최상의 파트너 솔루션을 선택하는 <span class=\"text-amber-300 font-bold\">유연한 결단</span>이 하드웨어 경쟁력을 살린 본보기입니다.",
+    "action_point": "퀄컴 웨어러블 반도체 밸류체인 및 삼성전자 모바일 신제품 흥행 가능성에 따른 부품 공급사에 관심이 필요합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock",
+      "etc"
+    ],
+    "tags": [
+      "갤럭시워치울트라2",
+      "퀄컴",
+      "엑시노스",
+      "스마트워치",
+      "배터리효율"
+    ]
+  }
+}

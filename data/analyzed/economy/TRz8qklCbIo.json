@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "TRz8qklCbIo",
+    "title": "유가 치솟아도 조용한 트럼프..타코는 시장을 살려줄까 | 월가백브리핑",
+    "published": "2026-07-26T03:00:05+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=TRz8qklCbIo",
+    "thumbnail": "https://img.youtube.com/vi/TRz8qklCbIo/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "중동 및 국제 유가 상승세에도 불구하고 트럼프의 관망 태도 속에서 다음 주 열릴 FOMC 금리 결정에 금융 시장의 시선이 집중되고 있습니다. 트럼프 전 대통령이 에너지 가격 안정에 즉각적인 발언을 아끼는 가운데, 증시 살리기를 위한 정책적 카드('타코' 등 시장 달래기 조치)가 유효할지 관심입니다. 인플레이션 재발 우려와 금리 인하 경로 간의 신경전이 지속되는 상황입니다.",
+    "key_claims": [
+      "국제 유가 반등에도 불확실한 <span class=\"text-rose-400 font-medium\">트럼프의 에너지 무역 정책</span> 행보",
+      "미 연준 FOMC 금리 결정 전 시장의 통화정책 힌트 부재로 <span class=\"text-amber-300 font-bold\">관망세 심화</span>",
+      "증시 하방을 방어할 수 있는 정책적 모멘텀 부재 우려"
+    ],
+    "data_points": [
+      "WTI 국제 유가 배럴당 80달러선 근접 반등",
+      "연준 7월 금리 동결 확률 90% 이상 형성"
+    ],
+    "signal": "neutral",
+    "signal_reason": "유가 상승에 따른 인플레 우려와 <span class=\"text-amber-300 font-bold\">FOMC 대기 심리</span>가 맞물려 시장 변동성 확대.",
+    "key_companies": [
+      "ExxonMobil",
+      "Chevron",
+      "Apple",
+      "Microsoft"
+    ],
+    "insight": "정치적 셈법과 유가 인플레이션, 연준의 통화정책 사이에서 금융 시장은 확실한 <span class=\"text-amber-300 font-bold\">시그널이 나오기 전까지 숨고르기</span>를 이어나갈 것입니다.",
+    "action_point": "에너지 유가 수혜주와 지수 하방 방어력이 뛰어난 고배당/현금흐름 우수주 중심으로 위험을 분산할 필요가 있습니다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock",
+      "energy"
+    ],
+    "tags": [
+      "월가백브리핑",
+      "국제유가",
+      "트럼프",
+      "FOMC",
+      "타코법안"
+    ]
+  }
+}

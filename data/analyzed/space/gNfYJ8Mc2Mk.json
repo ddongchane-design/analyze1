@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "gNfYJ8Mc2Mk",
+    "title": "스페이스X 스타십 마지막 순간에도 폭발이 없었다?! 13차 발사 중계 하이라이트! [항성의 우주속으로]",
+    "published": "2026-07-25T04:03:17+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=gNfYJ8Mc2Mk",
+    "thumbnail": "https://img.youtube.com/vi/gNfYJ8Mc2Mk/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 스타십 13차 시험 발사가 폭발 없이 해상 수직 착수까지 완벽하게 성공하며 우주 발사체 역사의 이정표를 세웠습니다. 33개 라프터 엔진의 동시 점화와 메가 랩터의 안정적인 작동이 검증되었습니다. 이는 우주 인공위성 네트워크 배치는 물론 향후 달과 화성 수송 프로젝트의 실현 가능성을 극적으로 끌어올렸습니다.",
+    "key_claims": [
+      "스타십 13차 발사에서 비행 중 폭발 없이 <span class=\"text-cyan-300 font-semibold\">목표 궤도 안착 및 수직 착수</span> 성공",
+      "33개 랩터 엔진의 완벽한 추력 제어와 핫 스태이징 분리 검증",
+      "<span class=\"text-amber-300 font-bold\">스타링크</span> 차세대 거대 위성 대량 수송 능력 입증"
+    ],
+    "data_points": [
+      "13차 시험 비행 성공으로 최고 비행 고도 및 복귀 스케줄 완수",
+      "차세대 랩터 3 엔진 도입으로 추력 20% 이상 향상"
+    ],
+    "signal": "bullish",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">스타십 재사용 발사</span>의 핵심 기술적 허들을 통과함에 따라 우주산업 전반에 강한 호재로 작용.",
+    "key_companies": [
+      "SpaceX",
+      "Tesla"
+    ],
+    "insight": "스타십의 연이은 성공은 인류의 우주 접근 비용을 <span class=\"text-amber-300 font-bold\">패러다임 전환</span> 수준으로 낮추어 민간 우주 경제의 폭발적 성장을 견인할 것입니다.",
+    "action_point": "우주 항공 관련 국내외 소재/부품/장비 채널 및 위성 통신 관련 서비스 기업에 주목할 시점입니다."
+  },
+  "classification": {
+    "primary_topic": "space",
+    "secondary_topics": [
+      "tech",
+      "stock"
+    ],
+    "tags": [
+      "스페이스X",
+      "스타십13차",
+      "우주발사",
+      "스타링크",
+      "재사용로켓"
+    ]
+  }
+}

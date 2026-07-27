@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "EYcKxWoXPxs",
+    "title": "2분기 실적 좋아도 주가 안 오르는 이유는 | 월가백브리핑",
+    "published": "2026-07-25T03:00:05+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=EYcKxWoXPxs",
+    "thumbnail": "https://img.youtube.com/vi/EYcKxWoXPxs/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 증시 상장 기업들의 2분기 실적이 시장 예상치를 상회함에도 불구하고 향후 <span class=\"text-rose-400 font-medium\">가이던스 불확실성</span>으로 인해 주가 상승동력이 제한되고 있습니다. 특히 빅테크 기업들의 AI 투자가 가시적인 매출로 연결되는 시점에 대한 투심의 경계감이 지속되고 있습니다. 미 연준의 금리 결정 및 경기 연착륙 여부가 실적 시즌 이후 증시 향방의 핵심 열쇠로 작용할 전망입니다.",
+    "key_claims": [
+      "실적 호조에도 불구하고 미래 <span class=\"text-rose-400 font-medium\">실적 전망치 하향</span>이 주가 발목을 잡음",
+      "AI 캡엑스(CapEx) 지출 대비 본격적인 <span class=\"text-amber-300 font-bold\">수익화 시점</span>에 대한 시장의 엄격한 검증",
+      "FMC 금리 인하 기대감과 높은 밸류에이션 간의 팽팽한 힘겨루기 진행"
+    ],
+    "data_points": [
+      "S&P500 기업 80% 이상이 어닝 서프라이즈 기록했으나 주가 반응은 미미",
+      "빅테크 자본지출(CapEx) 연간 전년 대비 30% 이상 증액 지속"
+    ],
+    "signal": "neutral",
+    "signal_reason": "견조한 기업 실적에도 불구하고 높은 밸류에이션 부담과 <span class=\"text-rose-400 font-medium\">경기 둔화 우려</span>가 교차하여 박스권 흐름 예상.",
+    "key_companies": [
+      "엔비디아",
+      "마이크로소프트",
+      "알파벳",
+      "애플"
+    ],
+    "insight": "단순 실적 상회보다 향후 <span class=\"text-amber-300 font-bold\">수익성 가이던스</span>와 현금 흐름 창출 능력이 주가 차별화의 핵심 변수로 부상하고 있습니다.",
+    "action_point": "실적 발표 후 주가 변동성이 확대된 우량 빅테크 종목에 대한 분할 매수 관점 접근이 유효합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy",
+      "tech"
+    ],
+    "tags": [
+      "월가백브리핑",
+      "2분기실적",
+      "빅테크",
+      "가이던스",
+      "증시전망"
+    ]
+  }
+}

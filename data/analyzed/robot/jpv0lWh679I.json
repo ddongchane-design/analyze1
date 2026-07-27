@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "jpv0lWh679I",
+    "title": "현대차 엔비디아 피지컬AI 질서 바꾼다",
+    "published": "2026-07-25T10:48:19+00:00",
+    "channel_name": "엔지니어TV",
+    "url": "https://www.youtube.com/watch?v=jpv0lWh679I",
+    "thumbnail": "https://img.youtube.com/vi/jpv0lWh679I/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">현대차그룹</span>과 <span class=\"text-cyan-300 font-semibold\">엔비디아</span>가 피지컬 AI 및 자율주행, 로보틱스 전반에서의 대대적인 파트너십 확대를 선언했습니다. 젠슨 황과 이재명 대통령, 현대차 경영진 간의 연쇄 면담을 통해 제네시스 차세대 자율주행 차량 공동 개발 및 보스턴 다이내믹스 로봇에 엔비디아의 드라이브/아이작(Isaac) 플랫폼을 이식하기로 했습니다. 이는 완성차 제조 역량과 세계 최고 AI 파운드리의 결합으로 로보틱스 산업의 패러다임을 전환시킬 핵심 동맹입니다.",
+    "key_claims": [
+      "<span class=\"text-cyan-300 font-semibold\">현대차-엔비디아</span> 동맹: 자율주행 차량 및 피지컬 AI 로봇 공동 개발",
+      "보스턴 다이내믹스 휴머노이드 로봇에 <span class=\"text-cyan-300 font-semibold\">엔비디아 Isaac 로보틱스 엔진</span> 통합",
+      "한국을 글로벌 로보틱스 및 피지컬 AI의 전초기지로 육성"
+    ],
+    "data_points": [
+      "글로벌 피지컬 AI 시장 규모 2030년까지 1조 달러 성장 전망",
+      "현대차그룹 자율주행 및 로보틱스 분야 누적 투자액 10조 원 상회"
+    ],
+    "signal": "bullish",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">현대차와 엔비디아</span>의 구체적인 글로벌 로보틱스/자율주행 사업화 파트너십 구축.",
+    "key_companies": [
+      "현대차",
+      "엔비디아",
+      "보스턴다이내믹스",
+      "현대모비스"
+    ],
+    "insight": "피지컬 AI의 핵심은 소프트웨어 파워와 정밀 하드웨어의 접목이며, <span class=\"text-amber-300 font-bold\">현대차-엔비디아 동맹</span>은 이 분야 글로벌 리더십을 쥐게 될 것입니다.",
+    "action_point": "현대차그룹 로보틱스 부품 공급망 및 엔비디아 로보틱스 파트너로 참여하는 국내 핵심 부품사에 주목하세요."
+  },
+  "classification": {
+    "primary_topic": "robot",
+    "secondary_topics": [
+      "tech",
+      "stock"
+    ],
+    "tags": [
+      "현대차",
+      "엔비디아",
+      "피지컬AI",
+      "보스턴다이내믹스",
+      "자율주행"
+    ]
+  }
+}

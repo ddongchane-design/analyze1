@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "jb_UnAK0pQ4",
+    "title": "한국판 팔란티어? 페르소나AI가 만드는 'AI가 일하는 시대' 하이퍼오토메이션",
+    "published": "2026-07-26T10:41:39+00:00",
+    "channel_name": "엔지니어TV",
+    "url": "https://www.youtube.com/watch?v=jb_UnAK0pQ4",
+    "thumbnail": "https://img.youtube.com/vi/jb_UnAK0pQ4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "기업의 실제 업무를 자동화하는 '하이퍼 오토메이션' 시장이 열리면서 <span class=\"text-cyan-300 font-semibold\">페르소나AI</span>가 한국판 팔란티어로 급부상하고 있습니다. 기존의 단순 대화형 생성 AI를 넘어 AI 에이전트가 기업 내부 데이터베이스 및 ERP와 연동되어 업무 판단과 실행까지 담당합니다. 시가총액 400조 원의 팔란티어처럼 B2B 및 공공기관의 디지털 전환을 주도하는 기업용 AI 소프트웨어 수요가 폭증하고 있습니다.",
+    "key_claims": [
+      "단순 챗봇을 넘어 업무 실행까지 맡는 <span class=\"text-amber-300 font-bold\">자율형 AI 에이전트</span>의 등장",
+      "<span class=\"text-cyan-300 font-semibold\">팔란티어</span> 모델처럼 기업/국가 데이터 융합 및 실시간 의사결정 플랫폼화",
+      "국내 금융 및 제조 현장에 하이퍼오토메이션 빠르게 침투 중"
+    ],
+    "data_points": [
+      "팔란티어 주가 최근 1년간 200% 이상 상승하며 B2B AI 시장 가치 입증",
+      "국내 기업 AI 솔루션 도입률 연 40% 고성장"
+    ],
+    "signal": "bullish",
+    "signal_reason": "B2B 실질 매출을 창출하는 <span class=\"text-cyan-300 font-semibold\">기업용 AI 에이전트 서비스</span> 시장의 가파른 성장세.",
+    "key_companies": [
+      "Palantir",
+      "페르소나AI",
+      "삼성SDS",
+      "포스코DX"
+    ],
+    "insight": "AI의 가치는 단순 생성 능력이 아니라 기업의 생산성을 직접 높이는 <span class=\"text-amber-300 font-bold\">업무 자동화 플랫폼</span> 구현에 결정되어 있습니다.",
+    "action_point": "국내 B2B AI 에이전트 개발사 및 SI 스마트팩토리 관련 솔루션기업에 지속적인 관심을 가질 필요가 있습니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock",
+      "robot"
+    ],
+    "tags": [
+      "페르소나AI",
+      "팔란티어",
+      "하이퍼오토메이션",
+      "AI에이전트",
+      "기업용AI"
+    ]
+  }
+}

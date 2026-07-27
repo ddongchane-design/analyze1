@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "gM7onAWIOKs",
+    "title": "우버 vs 웨이모, 10년 뒤 모빌리티 제국을 지배할 승자는 | 실리콘밸리뷰 | 원호섭 특파원",
+    "published": "2026-07-25T23:00:37+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=gM7onAWIOKs",
+    "thumbnail": "https://img.youtube.com/vi/gM7onAWIOKs/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">웨이모</span>의 압도적인 자율주행 기술력과 <span class=\"text-cyan-300 font-semibold\">우버</span>의 세계 최대 승차 공유 플랫폼 네트워크 간의 모빌리티 주도권 경쟁이 본격화되고 있습니다. 웨이모는 센서 알고리즘 중심의 기술 우위를 기반으로 로보택시를 확장하는 반면, 우버는 플랫폼 및 fleet 운영 효율성을 내세워 파트너십 확장에 집중하고 있습니다. 10년 뒤 모빌리티 시장은 독자 기술 보유자와 플랫폼 독점자 간의 융합 또는 패권 다툼이 결정지을 것입니다.",
+    "key_claims": [
+      "<span class=\"text-cyan-300 font-semibold\">웨이모</span>: 풀스택 독자 자율주행 기술 및 센서 인프라 우위",
+      "<span class=\"text-cyan-300 font-semibold\">우버</span>: 월간 1억 5천만 명의 이용자를 가진 글로벌 배차 플랫폼 파워",
+      "로보택시 상용화의 핵심은 <span class=\"text-amber-300 font-bold\">운행 단가 낮추기</span>와 안전성 검증"
+    ],
+    "data_points": [
+      "웨이모 주간 유료 로보택시 운행 건수 10만 건돌파",
+      "우버 글로벌 승차 공유 시장 점유율 70% 수준 유지"
+    ],
+    "signal": "bullish",
+    "signal_reason": "<span class=\"text-amber-300 font-bold\">로보택시 생태계</span>가 실험실을 벗어나 실제 상업 매출과 대량 확장 단계로 진입함.",
+    "key_companies": [
+      "Uber",
+      "Waymo (Alphabet)",
+      "Tesla"
+    ],
+    "insight": "자율주행 기술 자체 못지않게 이를 대중에게 서비스화할 수 있는 <span class=\"text-cyan-300 font-semibold\">플랫폼 네트워크</span>가 모빌리티 승패의 핵심 열쇠가 되고 있습니다.",
+    "action_point": "웨이모의 자율주행 솔루션을 적용하는 차량 제조사 및 우버의 로보택시 플랫폼 얼라이언스 참여 기업에 대한 관찰이 필요합니다."
+  },
+  "classification": {
+    "primary_topic": "robot",
+    "secondary_topics": [
+      "tech",
+      "stock"
+    ],
+    "tags": [
+      "우버",
+      "웨이모",
+      "자율주행",
+      "로보택시",
+      "피지컬AI"
+    ]
+  }
+}

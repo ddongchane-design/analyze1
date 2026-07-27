@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "Ujexfy_JOGE",
+    "title": "스페티스X 스타십 13차 발사, 해상에 수직으로 착수까지?!",
+    "published": "2026-07-25T11:00:10+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=Ujexfy_JOGE",
+    "thumbnail": "https://img.youtube.com/vi/Ujexfy_JOGE/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">스페이스X 스타십</span> 13차 시험 발사에서 33개 랩터 엔진 점화부터 분리, 목표 궤도 진입 및 해상 수직 착수까지 단 한 번의 폭발 없이 완벽하게 수행되었습니다. 초대형 발사체 완전 재사용 구상이 실제 현실화되고 있음을 보여주었습니다. 우주 수송의 경제성이 기하급수적으로 개선되면서 우주 탐사 및 위성 네트워크 분야에 큰 변혁이 시작되었습니다.",
+    "key_claims": [
+      "스타십 13차 시험 비행 완벽 성공 및 <span class=\"text-cyan-300 font-semibold\">해상 수직 연착수</span> 달성",
+      "33개 메가 랩터 엔진의 안정적인 추력 및 제어 능력 입증",
+      "<span class=\"text-amber-300 font-bold\">민간 우주 수송 시대</span> 본격 개막"
+    ],
+    "data_points": [
+      "발사체 33개 라프터 엔진 100% 정상 작동 검증",
+      "해상 수직 착수 정밀도 목표 범위 내 달성"
+    ],
+    "signal": "bullish",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">스타십 시험 비행의 완벽한 성취</span>로 우주항공 산업 투자 심리 대폭 개선.",
+    "key_companies": [
+      "SpaceX",
+      "Tesla"
+    ],
+    "insight": "스타십의 수직 착수 성공은 발사체 재사용을 통한 <span class=\"text-amber-300 font-bold\">우주 수송 비용 1/10 절감</span> 목표가 완성에 매우 가까워졌음을 의미합니다.",
+    "action_point": "우주 항공 위성 통신 플랫폼 및 국내 우주 발사체 부품 공급 기업에 대한 적극적 투자가 유망합니다."
+  },
+  "classification": {
+    "primary_topic": "space",
+    "secondary_topics": [
+      "tech",
+      "stock"
+    ],
+    "tags": [
+      "스페이스X",
+      "스타십13차",
+      "해상착수",
+      "재사용로켓",
+      "안될과학"
+    ]
+  }
+}

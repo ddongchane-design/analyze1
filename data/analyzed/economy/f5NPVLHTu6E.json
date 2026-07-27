@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "f5NPVLHTu6E",
+    "title": "[어바웃 뉴욕] 뉴욕까지 덮친 캐나다 산불…보험사들은 왜 베리스크의 숫자를 사나 | 이나연 특파원",
+    "published": "2026-07-25T03:00:13+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=f5NPVLHTu6E",
+    "thumbnail": "https://img.youtube.com/vi/f5NPVLHTu6E/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "캐나다 대형 산불 등 기후 변화로 인한 자연재해가 연례화되면서 월가 금융 및 보험 업계가 재해 리스크 산출 기업인 <span class=\"text-cyan-300 font-semibold\">베리스크(Verisk)</span>의 데이터 모델링에 크게 의존하고 있습니다. 기후 리스크가 커질수록 손해보험사들의 손해율이 급증하고 기존 보험료 산정 방식이 한계에 부딪히고 있습니다. 정밀한 리스크 평가 데이터가 금융 자산 가격 책정의 새로운 표준으로 자리잡고 있습니다.",
+    "key_claims": [
+      "<span class=\"text-rose-400 font-medium\">기후 재난 손실</span> 급증으로 전통적 재물보험사의 손익 구조 악화",
+      "<span class=\"text-cyan-300 font-semibold\">베리스크</span>와 같은 데이터 분석 플랫폼이 월가 재해 손실 추계 표준 제공",
+      "재해 우려 지역의 보험 가입 거절 및 보험료 급등으로 부동산 가치에도 영향"
+    ],
+    "data_points": [
+      "북미 산불 및 기후 재난으로 인한 최근 연간 손실액 1,000억 달러 초과",
+      "재난 데이터 분석 기업 베리스크의 데이터 솔루션 수요 연 15% 이상 증가"
+    ],
+    "signal": "bearish",
+    "signal_reason": "<span class=\"text-rose-400 font-medium\">기후 변화에 따른 재해보험 손실</span> 가중 및 리스크 인프라 비용 부담증가.",
+    "key_companies": [
+      "Verisk Analytics",
+      "Berkshire Hathaway",
+      "Chubb"
+    ],
+    "insight": "기후 위험이 단순 환경 문제를 넘어 금융 자산의 <span class=\"text-amber-300 font-bold\">리스크 프라이싱</span>과 보험 시장 구조 재편을 가속화하고 있습니다.",
+    "action_point": "기후 리스크에 노출된 전통 재해보험사 대비 빅데이터 분석 능력을 갖춘 핀테크/재해 분석 데이터 기업에 관심이 필요합니다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "etc",
+      "stock"
+    ],
+    "tags": [
+      "캐나다산불",
+      "기후변화",
+      "손해보험",
+      "베리스크",
+      "재난모델링"
+    ]
+  }
+}
