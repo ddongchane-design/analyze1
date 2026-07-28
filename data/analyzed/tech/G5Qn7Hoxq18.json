@@ -1,0 +1,51 @@
+{
+  "video": {
+    "id": "G5Qn7Hoxq18",
+    "title": "중국이 DUV 국산화에 성공합니다… ASML 독점 흔드나 | 실제 가능한 공정은 어디까지?",
+    "published": "2026-07-28T13:11:01+00:00",
+    "channel_name": "안될공학 - IT 테크 신기술",
+    "url": "https://www.youtube.com/watch?v=G5Qn7Hoxq18",
+    "thumbnail": "https://img.youtube.com/vi/G5Qn7Hoxq18/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-violet-300 font-medium\">중국</span>의 이머전 DUV 노광장비 국산화는 ASML이 20년 전 상용화한 <span class=\"text-cyan-300 font-semibold\">전 세대 레거시 기술 공급망 복제</span> 수준으로, 28nm 자립 생산에는 의미가 있으나 <span class=\"text-rose-400 font-medium\">오버레이(정렬 오차)와 수율 한계</span>로 EUV 및 첨단 반도체 패권을 위협하기엔 격차가 명확합니다.",
+    "key_claims": [
+      "<span class=\"text-violet-300 font-medium\">중국</span>의 DUV 국산화는 193nm 파장의 이머전 기술로, 2000년대 중반 <span class=\"text-cyan-300 font-semibold\">ASML이 상용화한 전 세대 장비의 국산화 시도</span>이다.",
+      "멀티 패터닝을 통해 7nm 공정을 시도할 수 있으나, 공정 복잡도 증가, 마스크 수율 저하, <span class=\"text-rose-400 font-medium\">오버레이(나노 정렬 오차) 정밀도 미흡</span>으로 경제적 양산에는 한계가 크다.",
+      "중국 DUV 장비의 실제 목적은 최첨단 EUV 대체가 아니라 <span class=\"text-amber-300 font-bold\">28nm급 레거시 반도체(차량/통신/전력)의 제재 우회 자립 기반 확보</span>이다."
+    ],
+    "data_points": [
+      "이머전 DUV 파장: 193nm ARF 레이저 및 초순수 물 굴절률 사용 (EUV 13.5nm 파장 대비 20년 전 기술)",
+      "ASML 이머전 DUV 상용화 시점: 2003~2005년 최초 공개 및 양산 도입",
+      "중국 장비의 타깃 공정: 28nm 레거시 공정이 1차 양산 목표, 14nm/7nm는 멀티 패터닝 적용 시 이론적 시도 가능"
+    ],
+    "signal": "neutral",
+    "signal_reason": "중국의 레거시 반도체 자립 속도는 빨라지나, ASML 독점력과 EUV 기반 첨단 반도체/HBM 시장에서의 경쟁 격차는 여전히 고착화되어 있기 때문입니다.",
+    "key_companies": [
+      "ASML",
+      "SMIC",
+      "CXMT",
+      "화흥반도체",
+      "니콘"
+    ],
+    "insight": "중국 DUV 국산화 보도는 ASML 도태나 반도체 공급과잉이라는 극단적 과장 우려와 달리, 28nm 레거시 자립에 국한되므로 첨단 EUV 공정을 독점한 ASML 및 HBM 메모리 선도 기업들의 펀더멘털은 훼손되지 않습니다.",
+    "action_point": "노광장비 정렬 정확도(오버레이) 및 실질 수율 데이터 발표 전까지 DUV 국산화 노이즈로 인한 글로벌 반도체 및 ASML 관련주의 단기 과매도 구간을 저까 매수 기회로 활용할 수 있습니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock",
+      "economy"
+    ],
+    "tags": [
+      "DUV",
+      "노광장비",
+      "ASML",
+      "중국반도체",
+      "SMIC",
+      "CXMT",
+      "오버레이",
+      "안될공학"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "mB9i5tETY60",
+    "title": "에어컨만 틀면 손해 보는 이유?",
+    "published": "2026-07-28T02:00:12+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=mB9i5tETY60",
+    "thumbnail": "https://img.youtube.com/vi/mB9i5tETY60/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "국제 표준(ASHRAE 55) 및 IEA 모델 분석 결과, <span class=\"text-cyan-300 font-semibold\">에어컨 26도 설정 후 선풍기/서큘레이터를 동시 가동</span>하면 체감 온도가 1~3도 낮아져 <span class=\"text-amber-300 font-bold\">최고의 에너지를 절감</span>할 수 있습니다.",
+    "key_claims": [
+      "선풍기/서큘레이터의 바람으로 인한 땀 증발 효과는 동일 실내 온도에서 체감 온도를 <span class=\"text-cyan-300 font-semibold\">1~3도 낮추는 효과(ASHRAE 55)</span>를 제공한다.",
+      "에어컨 26도+선풍기 조합은 에어컨 24도 단독 사용 대비 훨씬 적은 전력을 소비하면서도 <span class=\"text-amber-300 font-bold\">동일한 시원함(IEA 검증)</span>을 누릴 수 있다.",
+      "소비 전력이 매우 적은 순환형 바람 기기를 에어컨과 병용하는 것이 가성비 최상위 실내 냉방 절약법이다."
+    ],
+    "data_points": [
+      "국제 기준(ASHRAE 55): 바람 순환 시 체감 온도 1~3도 하락 효과 입증",
+      "권장 조합: 에어컨 26도 세팅 + 선풍기/서큘레이터 동시 가동"
+    ],
+    "signal": "bullish",
+    "signal_reason": "전력 소모가 적은 대류 순환 기기 병용으로 에너지를 과학적으로 효율화하는 절약 방식이기 때문입니다.",
+    "key_companies": [
+      "IEA",
+      "ASHRAE"
+    ],
+    "insight": "단순히 에어컨 설정 온도를 낮추는 물리적 냉방 대신, 공기 순환을 통한 체감 온도 제어 기법을 활용함으로써 여름철 전력 대란 예방 및 가정용 전기료 절감을 유도할 수 있습니다.",
+    "action_point": "여름철 전력 사용량 급증 시 에어컨 설정 온도를 26도로 유지하면서 서큘레이터를 동시 가동하여 효율적인 에너지 사용을 권고합니다."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "energy"
+    ],
+    "tags": [
+      "에어컨절약",
+      "서큘레이터",
+      "ASHRAE55",
+      "IEA",
+      "체감온도",
+      "안될과학"
+    ]
+  }
+}

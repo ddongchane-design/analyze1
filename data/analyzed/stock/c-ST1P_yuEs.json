@@ -1,0 +1,51 @@
+{
+  "video": {
+    "id": "c-ST1P_yuEs",
+    "title": "[김종학의 뉴욕, 지금-7월29일] Fed 흔드는 케빈 워시 | 미국-이란 회담 낙관적 전망에 유가 하락 | 시게이트, NXPI, KLA, 블룸에너지, 테라다인, 비자, 애플",
+    "published": "2026-07-28T21:25:35+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=c-ST1P_yuEs",
+    "thumbnail": "https://img.youtube.com/vi/c-ST1P_yuEs/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미-이란 외교 회담 타결 기대로 <span class=\"text-violet-300 font-medium\">유가가 70달러선으로 하향 안정</span>되고 다우 지수가 상승세를 탄 반면, 반도체 및 장비주의 대규모 실망 매물로 나스닥 약세가 이어지며 <span class=\"text-amber-300 font-bold\">실적별 종목 차별화 장세</span>가 격화되고 있습니다.",
+    "key_claims": [
+      "오만 중재의 미-이란 지정학적 대화로 국제유가가 배럴당 79달러선으로 내려오며 <span class=\"text-cyan-300 font-semibold\">시장 지정학적 안도감</span>이 확산되었다.",
+      "씨게이트(가이던스 상회 +7.8%), 블룸에너지(+5%), 포드(+6.8%)는 호실적으로 폭등한 반면, KLA, NXP, 코닝은 <span class=\"text-rose-400 font-medium\">높아진 컨센서스 하회로 폭락</span>하는 극심한 쏠림이 발생했다.",
+      "애플이 15개월 만에 <span class=\"text-cyan-300 font-semibold\">종가 기준 글로벌 시총 1위에 복귀</span>하며 펀더멘털 안전판 역할을 톡톡히 하고 있다."
+    ],
+    "data_points": [
+      "국제유가(WTI): 배럴당 79.16달러로 80달러선 하회",
+      "주요 기업 시간외/정규장 변동률: 씨게이트 +7.8%, 블룸에너지 +5%, 포드 +6.89%, 샌디스크 -14%, KLA -8%",
+      "S&P 500 및 다우 지수: 다우 +537pt (+1.0%), S&P 500 +0.21% 상승"
+    ],
+    "signal": "neutral",
+    "signal_reason": "유가 안정 및 호실적 우량주(씨게이트, 애플, 블룸에너지)의 반등이 탄탄하나, FOMC 경계감과 반도체 장비주의 대규모 주가 조정이 공존하기 때문입니다.",
+    "key_companies": [
+      "씨게이트",
+      "블룸에너지",
+      "애플",
+      "KLA",
+      "포드",
+      "코카콜라"
+    ],
+    "insight": "단순 AI 테마 밸류에이션 호재만으로는 월가의 높아진 실적 눈높이를 충족하지 못하므로, 가시적인 현금흐름과 가이던스 상향이 확인되는 실적주 중심의 옥석 가리기가 필수적입니다.",
+    "action_point": "FOMC 결과 발표 및 MSFT/메타 실적 공개 전까지 눈높이가 과도하게 높아진 반도체 장비주 조심과 함께, 가이던스가 상향된 호실적 기업(씨게이트/블룸에너지 등)으로 분산 전략을 취할 것을 권고합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy",
+      "energy"
+    ],
+    "tags": [
+      "씨게이트",
+      "블룸에너지",
+      "애플",
+      "유가하락",
+      "FOMC",
+      "포드",
+      "한경글로벌마켓"
+    ]
+  }
+}

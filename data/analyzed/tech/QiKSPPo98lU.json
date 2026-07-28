@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "QiKSPPo98lU",
+    "title": "90년 수학 난제를 무너뜨린 AI, 그런데 2차원은 남았다?",
+    "published": "2026-07-28T11:00:27+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=QiKSPPo98lU",
+    "thumbnail": "https://img.youtube.com/vi/QiKSPPo98lU/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "앤트로픽의 최신 AI 모델 <span class=\"text-cyan-300 font-semibold\">Claude Fable 5</span>가 약 90년 동안 미해결 과제였던 3차원 <span class=\"text-amber-300 font-bold\">야코비안 추측(Jacobian Conjecture)의 반례</span>를 발견하며, AI가 과학·수학 학술 연구의 강력한 지능형 파트너로 진화했음을 증명했습니다.",
+    "key_claims": [
+      "앤트로픽 AI(Claude Fable 5)가 3변수 7차 다항식에서 정밀한 반례를 찾아내어 <span class=\"text-amber-300 font-bold\">90년 수학 난제인 3차원 야코비안 추측을 반증</span>했다.",
+      "단순한 브루트 포스 계산이 아닌, 탐색 공간 축소 및 수학적 보조 정리 결합을 통해 <span class=\"text-cyan-300 font-semibold\">인간 연구자와의 대화형 프롬프팅 협업</span>으로 난제를 해결했다.",
+      "3차원 이상은 반증되었으나 2차원 야코비안 추측(최소 108차 이상 방정식 필요)은 여전히 미해결로 남아 <span class=\"text-violet-300 font-medium\">새로운 학술적 탐구 영역</span>을 개척했다."
+    ],
+    "data_points": [
+      "야코비안 추측 난제 지속 기간: 약 90년간 미해결 상태 유지",
+      "반례 방정식 특징: 3변수(x, y, z) 7차 다항식 형태 (일반형 개수 120개 항)",
+      "2차원 야코비안 추측 반례 최소 조건: 108차식 이상의 고차 방정식 필요"
+    ],
+    "signal": "bullish",
+    "signal_reason": "프런티어 AI 모델이 단순 텍스트 처리를 넘어 기초 과학 및 수학 난제 탐색 영역에서 실질적인 학술적 성과와 지적 가치를 창출하고 있기 때문입니다.",
+    "key_companies": [
+      "Anthropic",
+      "OpenAI",
+      "Google"
+    ],
+    "insight": "AI는 단순한 검색이나 자동화 도구를 넘어 기초 과학 분야에서 반례 탐색 및 가설 검증을 수행하는 지능형 연구 파트너로 안착하고 있으며, 인간 연구자의 검증 및 프롬프팅 설계 역량이 결합될 때 폭발적인 지적 생산성을 발휘합니다.",
+    "action_point": "프런티어 AI 모델(앤트로픽 클로드 등) 기반의 연구개발(R&D) 자동화 및 기초 과학 AI 플랫폼 분야를 주도하는 테크 리더 기업들에 대한 긍정적 시각을 유지할 필요가 있습니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "etc"
+    ],
+    "tags": [
+      "야코비안추측",
+      "ClaudeFable5",
+      "수학난제",
+      "앤트로픽",
+      "AI수학",
+      "이승재교수",
+      "안될과학"
+    ]
+  }
+}

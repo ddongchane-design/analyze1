@@ -1,0 +1,53 @@
+{
+  "video": {
+    "id": "WJviAEfpJ1U",
+    "title": "[문지웅의 빅머니 LIVE] '록펠러 전략' 애플 시총 1위 탈환 | FOMC D-2일 위원들 표심 심층분석",
+    "published": "2026-07-28T09:55:22+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=WJviAEfpJ1U",
+    "thumbnail": "https://img.youtube.com/vi/WJviAEfpJ1U/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">애플</span>이 본업 충실 '록펠러 전략'에 힘입어 엔비디아를 제치고 <span class=\"text-amber-300 font-bold\">시가총액 1위를 탈환</span>한 반면, <span class=\"text-violet-300 font-medium\">중국 창신메모리(CXMT)</span>의 DUV 장비 국산화 및 <span class=\"text-rose-400 font-medium\">빅테크 간 순환 거래(Circular Deal) 논란</span>으로 반도체 투심은 악화되었습니다.",
+    "key_claims": [
+      "<span class=\"text-cyan-300 font-semibold\">애플</span>은 과도한 AI CapEx 대신 본업 경쟁력을 고수하는 '록펠러 전략'으로 1년 3개월 만에 <span class=\"text-amber-300 font-bold\">종가 기준 글로벌 시총 1위</span>를 복귀했다.",
+      "<span class=\"text-violet-300 font-medium\">중국 CXMT</span>의 굴기(과창판 폭등 및 DUV 장비 도입)로 인한 메모리 공급과잉 우려와, 마이클 버리가 경고한 <span class=\"text-rose-400 font-medium\">엔비디아-빅테크 순환 거래 논란</span>이 반도체 급락을 유발했다.",
+      "7월 FOMC를 앞두고 연준 위원들의 매파적 성향(로리 로건 등)이 강해지며 금리 동결 속에서도 <span class=\"text-rose-400 font-medium\">매파적 동결 및 만장일치 균열 가능성</span>이 높아졌다."
+    ],
+    "data_points": [
+      "애플 시가총액: 4조 9,480억 달러로 엔비디아(4조 7,600억 달러)를 제치고 1위 탈환 (YTD +23.9%)",
+      "SK하이닉스 ADR 주가: 143.02달러로 급락 (-7.47%), IPO 공모가(149달러) 하회",
+      "마이크론 주가: 1,255달러 고점 대비 28% 하락한 900달러선 위협",
+      "엔비디아 CDS 프리미엄: 연 0.82%로 치솟으며 작년 11월 이후 최대 폭 상승"
+    ],
+    "signal": "neutral",
+    "signal_reason": "애플 등 우량 빅테크의 실적 펀더멘털은 견조하나, 반도체 순환 거래 논란 및 중국 메모리 공급 확대, FOMC 앞둔 매파적 통화정책 경계감이 팽팽하기 때문입니다.",
+    "key_companies": [
+      "애플",
+      "엔비디아",
+      "SK하이닉스",
+      "마이크론",
+      "CXMT",
+      "아마존"
+    ],
+    "insight": "AI 거품 및 CapEx 순환 거래 논란으로 하드웨어/반도체주가 변동성을 겪는 가운데, 확실한 현금흐름(FCF)과 비즈니스 ROI를 입증하는 플랫폼 기업(애플) 및 소비재로 주도주 지형이 재편되고 있습니다.",
+    "action_point": "FOMC 결과 발표 및 애플·마이크로소프트 실적 발표 전까지 반도체 고변동성 종목에 대한 보수적 대응과 함께, 실적 가시성이 높아진 대형 밸류 플랫폼주 중심의 포트폴리오 조율을 권고합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "애플",
+      "시총1위",
+      "엔비디아",
+      "순환거래",
+      "CXMT",
+      "FOMC",
+      "록펠러전략",
+      "빅머니LIVE"
+    ]
+  }
+}

@@ -8,38 +8,37 @@
     "thumbnail": "https://img.youtube.com/vi/3wUkRpFR1L0/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>가 <span class=\"text-cyan-300 font-semibold\">스타십</span>을 활용해 기존보다 4배 이상 커진 차세대 위성인 <span class=\"text-cyan-300 font-semibold\">스타링크 V3</span>의 우주 궤도 사출 및 시운전에 성공했습니다. 스타링크 V3는 대역폭 확장과 셀룰러(Direct-to-Cell) 수신 성능을 기하급수적으로 끌어올려 일반 스마트폰으로도 위성 통신이 직접 가능한 글로벌 음영 지역 없는 우주 인터넷 상용화를 앞당겼습니다. 완전히 재사용되는 스타십 수송체와의 결합으로 위성 배포 단가가 대폭 인하되었습니다.",
+    "summary": "스페이스X가 차세대 <span class=\"text-cyan-300 font-semibold\">스타링크 V3 위성 20기</span>를 궤도에 사출하고 우주 레이저 통신 실증 시험에 최초 성공하며, <span class=\"text-amber-300 font-bold\">저궤도 위성 통신망 상용화</span>를 눈앞에 두었습니다.",
     "key_claims": [
-      "스타십 탑재체를 통해 <span class=\"text-cyan-300 font-semibold\">스타링크 V3</span> 거대 위성 궤도 전개 시험 성공",
-      "Direct-to-Cell 기능을 통한 <span class=\"text-amber-300 font-bold\">지상 기지국 없는 모바일 통신</span> 서비스 본격화",
-      "스타십의 발사 단가 혁신으로 우주 인터넷 망 구축 속도 5배 가속"
+      "스페이스X는 1·2단 완전 재사용 발사체(스타쉽) 기반으로 <span class=\"text-cyan-300 font-semibold\">차세대 스타링크 V3 위성 20기 사출</span> 및 궤도 진입을 성공적으로 완료했다.",
+      "V3 위성 간 <span class=\"text-amber-300 font-bold\">우주 레이저 교신 시스템 실증</span>을 통해 전 지구 고속 저궤도 데이터 통신 망 상용화 단계에 진입했다.",
+      "발사 단가 혁신과 스타링크 V3의 대량 배치를 바탕으로 글로벌 우주 인프라 시장에서 <span class=\"text-violet-300 font-medium\">스페이스X의 압도적 독점력</span>이 강화되고 있다."
     ],
     "data_points": [
-      "스타링크 V3 1기당 통신 데이터 처리 용량 기존 V2 대비 4배 증가",
-      "글로벌 서비스 대기 지연시간(Latency) 20ms 이하로 하향"
+      "최초 시험 위성 수량: 스타링크 V3 위성 20기 우주 궤도 동시 사출",
+      "핵심 검증 요소: V3 궤도 전개, 태양전지판 전개 및 위성 간 우주 레이저 통신(Laser Mesh Network)"
     ],
     "signal": "bullish",
-    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">우주 통신 인프라</span> 상용화 속도 가속 및 지상 모바일 통신사들과의 협력 확대 기대.",
+    "signal_reason": "스타링크 V3 위성 실증 성공으로 글로벌 우주 인프라 및 저궤도 통신망 시장의 기술적 상용화 장악력이 더욱 확고해졌기 때문입니다.",
     "key_companies": [
-      "SpaceX",
-      "T-Mobile",
-      "Tesla"
+      "스페이스X(SpaceX)",
+      "스타링크(Starlink)"
     ],
-    "insight": "스타링크 V3의 배포는 단순 통신 망 구축을 넘어 자율주행차, 도심항공교통(UAM), 스마트 인프라 연결의 <span class=\"text-amber-300 font-bold\">우주 백본 백업선</span>으로 작동할 것입니다.",
-    "action_point": "저궤도 위성 통신 안테나, RF 부품 및 위성 앤드포인트 장비 관련 기업의 장기 성장성에 관심을 둘 필요가 있습니다."
+    "insight": "스페이스X의 스타링크 V3 배치는 단순 통신망 확장을 넘어 우주 데이터센터 및 글로벌 무선 연결 생태계를 독점하는 핵심 인프라 기틀을 완성하고 있습니다.",
+    "action_point": "저궤도 위성 통신 부품, 레이저 교신 기기 및 방산/우주 항공 소재를 전개하는 우주 산업 밸류체인 핵심 종목에 대한 긍정적 접근이 유효합니다."
   },
   "classification": {
     "primary_topic": "space",
     "secondary_topics": [
-      "tech",
-      "stock"
+      "tech"
     ],
     "tags": [
-      "스페이스X",
       "스타링크V3",
-      "스타십",
-      "위성통신",
-      "저궤도위성"
+      "스페이스X",
+      "우주인프라",
+      "저궤도위성",
+      "레이저통신",
+      "안될과학"
     ]
   }
 }
