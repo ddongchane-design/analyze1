@@ -1,0 +1,53 @@
+{
+  "video": {
+    "id": "F1F0TOASXbA",
+    "title": "[문지웅의 빅머니 LIVE] 시타델 \"연준 25bp 인상할 수도\" | 중국 DUV 대량생산 우려는 기우?",
+    "published": "2026-07-28T21:53:05+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=F1F0TOASXbA",
+    "thumbnail": "https://img.youtube.com/vi/F1F0TOASXbA/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-rose-400 font-medium\">반도체 셀오프</span>로 나스닥이 약세를 보인 반면, 헬스케어·금융·산업재·필수소비재로의 <span class=\"text-amber-300 font-bold\">강력한 순환매(Rotation)</span>가 진행 중이며, <span class=\"text-violet-300 font-medium\">중국</span> DUV 국산화 우로는 과장된 것으로 평가되나 <span class=\"text-amber-300 font-bold\">FOMC 금리 인상 리스크</span>가 시장 불확실성을 높이고 있습니다.",
+    "key_claims": [
+      "<span class=\"text-rose-400 font-medium\">반도체 섹터 급락</span>에도 불구하고 S&P 500 동일가중 지수가 상승하는 등 대형주 쏠림 완화 및 섹터 순환매 장세가 뚜렷하게 확인된다.",
+      "<span class=\"text-violet-300 font-medium\">중국</span>의 DUV 노광장비 국산화 및 HBM 대량생산 우려는 기술 격차(20년)와 고난도 공정 한계로 인해 실질적 영향이 제한적인 <span class=\"text-amber-300 font-bold\">과도한 우려(기우)</span>이다.",
+      "시타델 등 주요 기관은 7월 FOMC에서 연준이 인플레이션 억제 의지를 피력하기 위해 <span class=\"text-rose-400 font-medium\">surprise 25bp 금리 인상</span>을 단행할 가능성을 배제할 수 없다고 경고한다."
+    ],
+    "data_points": [
+      "S&P 500 동일가중 지수 최근 3개월 수익률: 10.37% (시가총액 가중 지수 6.86%를 크게 상회)",
+      "산업재 섹터(YTD): 17.77% 상승하며 S&P 500 평균 상승률(8.3%)의 2배 달성",
+      "반도체 관련 종목 하락률: 마이크론 -8.85%, SK하이닉스 ADR -8.98%, SOXL -14.52%",
+      "코카콜라 실적: 제로콜라 판매 16% 증가 힘입어 주가 +5% 이상 상승, YTD 수익률 +26% 돌파"
+    ],
+    "signal": "neutral",
+    "signal_reason": "빅테크 CapEx 부담 및 반도체 조정, 연준 매파적 리스크가 존재하나, 필수소비재 및 산업재 등 장 전반의 기초체력(순환매)은 매우 탄탄하기 때문입니다.",
+    "key_companies": [
+      "코카콜라",
+      "마이크론",
+      "SK하이닉스",
+      "애플",
+      "셔윈윌리엄스",
+      "캐터필러"
+    ],
+    "insight": "증시 자금이 반도체/빅테크 쏠림에서 탈피하여 실적 및 가시적 현금흐름이 우수한 산업재·필수소비재로 이동하는 균형 잡힌 로테이션이 전개되고 있으므로, 단기 반도체 조정에 과도하게 위축되기보다는 우량 실적주 중심의 섹터 다변화가 유효합니다.",
+    "action_point": "FOMC 금리 결정 전후 변동성에 대비하여 반도체 비중을 분할 접근하고, 실적 상향이 확인된 필수소비재(<span class=\"text-cyan-300 font-semibold\">코카콜라</span>) 및 산업재/건설장비 대표주로 포트폴리오를 분산할 필요가 있습니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy",
+      "tech"
+    ],
+    "tags": [
+      "순환매",
+      "반도체셀오프",
+      "FOMC",
+      "시타델",
+      "DUV",
+      "코카콜라",
+      "산업재",
+      "빅머니LIVE"
+    ]
+  }
+}
