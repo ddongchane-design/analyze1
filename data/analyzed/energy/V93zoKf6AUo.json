@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "V93zoKf6AUo",
+    "title": "사우디 핵협상에 술렁이는 워싱턴…\"한국 핵농축 가능성 열리나\"ㅣ이상은의 워싱턴나우",
+    "published": "2026-07-27T03:00:30+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=V93zoKf6AUo",
+    "thumbnail": "https://img.youtube.com/vi/V93zoKf6AUo/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국과 사우디아라비아가 민간 원자력 협정을 전격 체결하면서, 동맹국의 우라늄 농축 및 재처리 접근권에 대한 워싱턴의 기조가 크게 누그러졌습니다. 이에 따라 한국의 <span class=\"text-cyan-300 font-semibold\">원전 수주 경쟁력</span>과 농축 자율권 확보 가능성이 열리고 있습니다. 사우디 등 중동 국가들의 거대 SMR 및 대형 원전 발주가 가시화되면서 글로벌 원자력 르네상스가 본격화되고 있습니다.",
+    "key_claims": [
+      "미-사우디 원자력 협정 타결: <span class=\"text-amber-300 font-bold\">중동 원전 시장 개화의 모멘텀</span>",
+      "한국 원전 업계의 <span class=\"text-cyan-300 font-semibold\">농축/재처리 기술 지분 확보</span> 및 원전 시공 수출 경쟁력 상승",
+      "SMR(소형모듈원자로) 및 차세대 우라늄 밸류체인 부각"
+    ],
+    "data_points": [
+      "사우디 예정 원자력 건설 프로젝트 규모 800억 달러 달성 예상",
+      "한국형 원전(APR1400) 시공 단가 경쟁사 대비 30% 저렴"
+    ],
+    "signal": "bullish",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">원전 수주 환경 완화</span> 및 중동 국가들의 대규모 원자력 발주 혜택 모멘텀.",
+    "key_companies": [
+      "두산에너빌리티",
+      "한국전력",
+      "현대건설",
+      "Westinghouse"
+    ],
+    "insight": "탈탄소와 AI 전력난 해소를 위한 원자력 선택은 거스를 수 없는 대세이며, <span class=\"text-amber-300 font-bold\">한국의 시공 및 기전 기술력</span>이 글로벌 시장에서 강점을 발휘할 것입니다.",
+    "action_point": "두산에너빌리티 등 한국 원전 기자재 수주 기업 및 SMR 파트너십 관련 종목에 장기 매수 관점을 제시합니다."
+  },
+  "classification": {
+    "primary_topic": "energy",
+    "secondary_topics": [
+      "economy",
+      "etc"
+    ],
+    "tags": [
+      "사우디핵협상",
+      "원자력협정",
+      "한국핵농축",
+      "워싱턴나우",
+      "원전수출"
+    ]
+  }
+}

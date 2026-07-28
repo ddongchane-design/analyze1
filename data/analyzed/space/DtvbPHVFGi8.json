@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "DtvbPHVFGi8",
+    "title": "스타십, 이번에는 터지지 않았다",
+    "published": "2026-07-26T11:00:39+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=DtvbPHVFGi8",
+    "thumbnail": "https://img.youtube.com/vi/DtvbPHVFGi8/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">스페이스X 스타십</span>이 13차 시험 발사에서 비행 전체 공정을 무사히 수행하고, 인도양 목표 해상에 90도 수직으로 바로 서며 착수하는 기염을 토했습니다. 과거 추진체 재진입 시 발생하던 열차폐막 파손 및 폭발 이슈를 극복하고, 33개 랩터 엔진의 정밀 분사 제어로 해상에 안전하게 안착했습니다. 이는 발사체 완전 재사용 실현을 증명하는 결정적 분기점입니다.",
+    "key_claims": [
+      "스타십 13차 비행 중 폭발 없이 <span class=\"text-cyan-300 font-semibold\">목표 해상 수직 연착수</span> 완수",
+      "대기권 재진입 열 제어 소재 개선 및 엔진 역추진 정밀 제어 성공",
+      "<span class=\"text-amber-300 font-bold\">인류 최초의 대형 발사체 완전 재사용</span> 현실화 달성"
+    ],
+    "data_points": [
+      "33개 랩터 엔진 재점화 및 역추진 착수 오차 범위 수 미터 이내",
+      "대기권 재진입 과정 고온 섭씨 1,400도 극한 환경 견딤"
+    ],
+    "signal": "bullish",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">우주 운송의 비용 구조 및 안정성</span>이 입증됨에 따라 민간 우주산업 투자 심리가 크게 고조됨.",
+    "key_companies": [
+      "SpaceX",
+      "Tesla"
+    ],
+    "insight": "스타십의 성공적 수직 착수는 우주 여행 및 달/화성 화물 운송 비용을 <span class=\"text-amber-300 font-bold\">획기적인 수준</span>으로 낮추는 실질적 시발점입니다.",
+    "action_point": "우주 항공 재료/부품 및 저궤도 우주 인프라 얼라이언스 참여 기업에 대한 긍정적 시각을 유지합니다."
+  },
+  "classification": {
+    "primary_topic": "space",
+    "secondary_topics": [
+      "tech",
+      "etc"
+    ],
+    "tags": [
+      "스타십",
+      "스페이스X",
+      "13차발사",
+      "수직착수",
+      "안될과학"
+    ]
+  }
+}

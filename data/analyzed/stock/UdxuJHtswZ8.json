@@ -1,0 +1,48 @@
+{
+  "video": {
+    "id": "UdxuJHtswZ8",
+    "title": "[김종학의 뉴욕, 지금-7월28일] 미국·이란, 호르무즈 해협 갈등.. 공습은 중단 | 엔비디아, ASML, 마이크론, 마이크로소프트, 써클, D웨이브 퀀텀, GM, 로켓랩, 엠코",
+    "published": "2026-07-27T21:22:09+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=UdxuJHtswZ8",
+    "thumbnail": "https://img.youtube.com/vi/UdxuJHtswZ8/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "뉴욕 증시는 미국과 이란 간 호르무즈 해협 공습 중단 및 갈등 소강 호재에도 불구하고, 반도체 장비사 <span class=\"text-cyan-300 font-semibold\">ASML</span>의 대중국 수출 제한 우려와 <span class=\"text-cyan-300 font-semibold\">엔비디아/마이크론</span> 등 주요 반도체주의 실적 발표를 앞둔 차익 실현 매물로 기술주 중심의 변동성을 보였습니다. 마이크로소프트와 엠코 등 인프라 기업들의 실적 가이던스에 따라 증시 향방이 엇갈리고 있습니다.",
+    "key_claims": [
+      "호르무즈 해협 무력 충돌 중단으로 <span class=\"text-amber-300 font-bold\">국제 지정학 유가 불안 요소 완화</span>",
+      "<span class=\"text-rose-400 font-medium\">ASML 대중국 수출 규제 강화 이슈</span>로 반도체 장비주 단기 센티멘트 악화",
+      "빅테크 기업들의 주중 2분기 실적 및 CapEx 가이던스 확인 심리 팽배"
+    ],
+    "data_points": [
+      "필라델피아 반도체 지수 단기 1.5% 하락 조정",
+      "ASML 중국향 장비 매출 비중 기존 40%에서 20%대로 감소 전망"
+    ],
+    "signal": "neutral",
+    "signal_reason": "유가 안정을 통한 지정학 해소와 <span class=\"text-rose-400 font-medium\">반도체 규제 및 실적 확인 심리</span>가 팽팽히 대립.",
+    "key_companies": [
+      "NVIDIA",
+      "ASML",
+      "Micron",
+      "Microsoft",
+      "Amkor"
+    ],
+    "insight": "반도체 업종의 단기 변동성은 정치적 통상 규제 노이즈에서 비롯되나, 이익 창출의 기본 축인 <span class=\"text-amber-300 font-bold\">AI 인프라 수요</span>는 견고하게 유지되고 있습니다.",
+    "action_point": "실적 발표 전 단기 센티멘트 악화로 하락한 우량 반도체 칩셋 및 장비주에 대한 눌림목 분할 매수가 유효합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy",
+      "tech"
+    ],
+    "tags": [
+      "월가뉴스",
+      "호르무즈해협",
+      "엔비디아",
+      "ASML",
+      "마이크론",
+      "마이크로소프트"
+    ]
+  }
+}

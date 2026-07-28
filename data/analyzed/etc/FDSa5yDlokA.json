@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "FDSa5yDlokA",
+    "title": "한국 갯벌 아래 1만 년 동안 쌓인 것",
+    "published": "2026-07-26T06:00:39+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=FDSa5yDlokA",
+    "thumbnail": "https://img.youtube.com/vi/FDSa5yDlokA/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "한국 갯벌 퇴적층 심층에 수천 년~1만 년 동안 갇혀 미생물에 의해 분해되지 않은 거대한 <span class=\"text-cyan-300 font-semibold\">블루탄소(Blue Carbon)</span> 흡수원의 메커니즘을 과학적으로 해명했습니다. 갯벌 무산소층 환경 덕분에 탄소가 대기 중으로 재배출되지 않고 지속 축적되어 삼림보다 최대 50배 빠르게 탄소를 포집합니다. 국가 탄소중립 과제 및 글로벌 탄소배출권 시장에서 한국 갯벌의 경제적 가치가 재평가받고 있습니다.",
+    "key_claims": [
+      "한국 갯벌 하부 무산소 퇴적층의 <span class=\"text-cyan-300 font-semibold\">압도적 탄소 영구 저장</span> 메커니즘",
+      "기존 산림 대비 단위 면적당 <span class=\"text-amber-300 font-bold\">최대 50배 높은 블루탄소 흡수력</span>",
+      "국제 기후 협약에서 갯벌의 정식 블루탄소 인정 추진 및 경제적 배출권 가치 부각"
+    ],
+    "data_points": [
+      "한국 갯벌 연간 탄소 흡수량 약 26만 톤(자동차 11만 대 배출량)",
+      "퇴적층 1만 년 동안 축적된 블루탄소의 경제적 가치 수조 원 산정"
+    ],
+    "signal": "bullish",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">블루탄소 및 친환경 자산</span>의 가치가 정식 자산화됨에 따라 기후 테크 및 탄소배출권 분야 호재.",
+    "key_companies": [
+      "한화솔루션",
+      "ECOPRO HN"
+    ],
+    "insight": "자연 생태계가 제공하는 <span class=\"text-amber-300 font-bold\">탄소 포집 메커니즘</span>을 규명하는 과학적 연구는 탄소배출권 금융 시장의 새로운 가치 기준이 됩니다.",
+    "action_point": "탄소배출권 거래 솔루션, 기후 변화 모니터링 및 친환경 ESG 펀드 포트폴리오에 관심을 기울일 필요가 있습니다."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "갯벌",
+      "블루탄소",
+      "지구과학",
+      "탄소포집",
+      "기후변화"
+    ]
+  }
+}

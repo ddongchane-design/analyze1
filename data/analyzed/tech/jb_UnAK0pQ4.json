@@ -8,26 +8,25 @@
     "thumbnail": "https://img.youtube.com/vi/jb_UnAK0pQ4/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "기업의 실제 업무를 자동화하는 '하이퍼 오토메이션' 시장이 열리면서 <span class=\"text-cyan-300 font-semibold\">페르소나AI</span>가 한국판 팔란티어로 급부상하고 있습니다. 기존의 단순 대화형 생성 AI를 넘어 AI 에이전트가 기업 내부 데이터베이스 및 ERP와 연동되어 업무 판단과 실행까지 담당합니다. 시가총액 400조 원의 팔란티어처럼 B2B 및 공공기관의 디지털 전환을 주도하는 기업용 AI 소프트웨어 수요가 폭증하고 있습니다.",
+    "summary": "기업 업무를 스스로 수행하는 '하이퍼 오토메이션' 플랫폼 <span class=\"text-cyan-300 font-semibold\">페르소나AI</span>가 한국판 팔란티어로 거듭나고 있습니다. 단순 질의응답을 넘어 기업의 기존 ERP 및 데이터베이스와 연동되어 사내 공정 제어, 금융 업무, 행정 결재를 자동화합니다. 400조 원 시총의 팔란티어처럼 실질적인 B2B AI 매출을 올리는 소프트웨어 기업들의 몸값이 폭등하고 있습니다.",
     "key_claims": [
-      "단순 챗봇을 넘어 업무 실행까지 맡는 <span class=\"text-amber-300 font-bold\">자율형 AI 에이전트</span>의 등장",
-      "<span class=\"text-cyan-300 font-semibold\">팔란티어</span> 모델처럼 기업/국가 데이터 융합 및 실시간 의사결정 플랫폼화",
-      "국내 금융 및 제조 현장에 하이퍼오토메이션 빠르게 침투 중"
+      "기업 생산성을 높이는 <span class=\"text-amber-300 font-bold\">자율형 AI 에이전트 서비스</span> 대중화",
+      "<span class=\"text-cyan-300 font-semibold\">팔란티어</span> 모델처럼 기업 내 핵심 데이터베이스와 연동된 실시간 업무 자동화",
+      "금융, 제조, 공공부문의 디지털 전환 수혜"
     ],
     "data_points": [
-      "팔란티어 주가 최근 1년간 200% 이상 상승하며 B2B AI 시장 가치 입증",
-      "국내 기업 AI 솔루션 도입률 연 40% 고성장"
+      "팔란티어 연간 B2B 매출 성장률 45% 돌파",
+      "국내 하이퍼 오토메이션 시장 연평균 35% 성숙 중"
     ],
     "signal": "bullish",
-    "signal_reason": "B2B 실질 매출을 창출하는 <span class=\"text-cyan-300 font-semibold\">기업용 AI 에이전트 서비스</span> 시장의 가파른 성장세.",
+    "signal_reason": "실질적 기업 생산성을 제고하는 <span class=\"text-cyan-300 font-semibold\">B2B AI 소프트웨어 시장</span>의 구조적 고성장.",
     "key_companies": [
       "Palantir",
       "페르소나AI",
-      "삼성SDS",
-      "포스코DX"
+      "삼성SDS"
     ],
-    "insight": "AI의 가치는 단순 생성 능력이 아니라 기업의 생산성을 직접 높이는 <span class=\"text-amber-300 font-bold\">업무 자동화 플랫폼</span> 구현에 결정되어 있습니다.",
-    "action_point": "국내 B2B AI 에이전트 개발사 및 SI 스마트팩토리 관련 솔루션기업에 지속적인 관심을 가질 필요가 있습니다."
+    "insight": "AI의 가치는 단순 생성 기능을 넘어 실제 업무 프로세스를 대체하는 <span class=\"text-amber-300 font-bold\">하이퍼 오토메이션</span> 구축에 의해서 평가될 것입니다.",
+    "action_point": "B2B AI 에이전트 및 기업용 데이터 플랫폼 구축 관련 소프트웨어 주식에 대한 긍정적 관심을 추천합니다."
   },
   "classification": {
     "primary_topic": "tech",
@@ -40,7 +39,7 @@
       "팔란티어",
       "하이퍼오토메이션",
       "AI에이전트",
-      "기업용AI"
+      "엔지니어TV"
     ]
   }
 }

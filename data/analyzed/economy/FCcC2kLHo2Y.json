@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "FCcC2kLHo2Y",
+    "title": "[박신영의 개장전요것만-7월27일] 美, AI서 제2의 스푸트니크 쇼크 | 이란전 소강,  FOMC 의식했나",
+    "published": "2026-07-27T13:58:35+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=FCcC2kLHo2Y",
+    "thumbnail": "https://img.youtube.com/vi/FCcC2kLHo2Y/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 워싱턴과 월가가 중국의 저비용 AI 모델 급상승에 대해 1950년대 소련의 인공위성 선점에 비유되는 <span class=\"text-rose-400 font-medium\">'제2의 스푸트니크 쇼크'</span>를 느끼며 AI 기술을 국가 안보 기술로 지정하고 초대형 재정 지원 법안을 추진 중입니다. 한편, 이란과의 호르무즈 해협 갈등이 소강상태에 접어들며 국제 유가 급등세가 진정되는 가운데, 시장은 주중 열릴 연준의 <span class=\"text-amber-300 font-bold\">FOMC 금리 동결 및 향후 매파적 힌트</span>에 집중하고 있습니다.",
+    "key_claims": [
+      "미 미국 정치권, AI 기술 위기감 반영한 <span class=\"text-rose-400 font-medium\">'제2의 스푸트니크 쇼크'</span> 지정학적 대응",
+      "이란과의 무력 충돌 소강으로 유가 인플레이션 압력 일단 완화",
+      "이번 주 <span class=\"text-amber-300 font-bold\">FOMC 금리 결정</span>을 앞둔 증시의 강한 눈치보기 흐름"
+    ],
+    "data_points": [
+      "미 국방부 및 백악관 AI 안보 관련 특별 예산 500억 달러 증액 검토",
+      "WTI 유가 배럴당 75달러선으로 안정세 전환"
+    ],
+    "signal": "neutral",
+    "signal_reason": "유가 지정학 리스크 완화라는 호재와 <span class=\"text-rose-400 font-medium\">FOMC 통화정책 경계감</span>이 상충하여 시장은 횡보 가능성 높음.",
+    "key_companies": [
+      "NVIDIA",
+      "Microsoft",
+      "Palantir",
+      "Lockheed Martin"
+    ],
+    "insight": "미국의 AI 패권 유지는 단순한 민간 기업 간 경쟁이 아닌 <span class=\"text-amber-300 font-bold\">미국 국가 안보 재정 지원</span>과 직접적으로 직결되는 국면입니다.",
+    "action_point": "FOMC 결정 발표 전까지 변동성 확대를 방어할 수 있는 미국 국방 AI 및 고배당 방어주에 대한 비중 조절이 필요합니다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock",
+      "tech"
+    ],
+    "tags": [
+      "스푸트니크쇼크",
+      "미국AI안보",
+      "FOMC",
+      "이란전소강",
+      "박신영특파원"
+    ]
+  }
+}
