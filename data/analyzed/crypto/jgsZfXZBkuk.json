@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "jgsZfXZBkuk",
+    "title": "비트코인·반도체 동반 하락…이번 주 시장 최대 변수는? |  서동주, 김동환, 김제이 블록미디어 편집장 [크립토 PLUS]",
+    "published": "2026-07-28T03:02:09+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=jgsZfXZBkuk",
+    "thumbnail": "https://img.youtube.com/vi/jgsZfXZBkuk/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "비트코인과 반도체 섹터의 동반 하락은 <span class=\"text-rose-400 font-medium\">위험자산 전반의 단기 유동성 위축</span>을 반영하며, 7월 FOMC 결과가 최대 변수입니다.",
+    "key_claims": [
+      "비트코인 63,000달러선 유동성과 기술주 조정이 결합되어 <span class=\"text-rose-400 font-medium\">위험자산 회피 심리</span> 형성.",
+      "MSTR(마이크로스트레티지) 등 비트코인 트레저리 기업들의 <span class=\"text-cyan-300 font-semibold\">하방 지지력 유효</span>.",
+      "FOMC 통화 정책 신호에 따라 <span class=\"text-amber-300 font-bold\">크립토 및 반도체의 동시에 반등</span> 가능성 타진."
+    ],
+    "data_points": [
+      "비트코인 가격: 63,000달러선 보합권 형상",
+      "MSTR 전환사채 조달: BPS 성장 연계 자금 집행 지속"
+    ],
+    "signal": "neutral",
+    "signal_reason": "FOMC 정책 지표에 따라 단기 유동성 흐름이 재결정되는 길목에 서 있기 때문입니다.",
+    "key_companies": [
+      "블록미디어",
+      "MSTR",
+      "Coinbase"
+    ],
+    "insight": "크립토와 기술주는 글로벌 유동성에 함께 연동되므로, 거시 금리 정책의 완화 신호가 시장 반등의 핵심 촉매입니다.",
+    "action_point": "FOMC 발표 전 비트코인 및 크립토 관련 자산의 관망세 유지 및 눌림목 매수 전략을 권고합니다."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "비트코인",
+      "반도체동반하락",
+      "크립토PLUS",
+      "블록미디어",
+      "FOMC변수"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "h9qH9ObG_oM",
+    "title": "유가 급락에도 웃지 못한 증시 | 데일리 라이브 | 2026.7.28(화)",
+    "published": "2026-07-28T11:14:23+00:00",
+    "channel_name": "Smart Money by MiraeAsset ",
+    "url": "https://www.youtube.com/watch?v=h9qH9ObG_oM",
+    "thumbnail": "https://img.youtube.com/vi/h9qH9ObG_oM/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "국제 유가 급락에도 불구하고 <span class=\"text-rose-400 font-medium\">FOMC 금리 경계감과 반도체 실망 매물</span>로 인해 증시가 상승 탄력을 얻지 못하고 혼조세를 보였습니다.",
+    "key_claims": [
+      "유가 하락으로 인플레이션 압력은 완화되었으나 <span class=\"text-rose-400 font-medium\">통화 정책 불확실성</span>이 증시를 압박했다.",
+      "반도체주 약세에도 불고하고 <span class=\"text-cyan-300 font-semibold\">산업재·소비재 순환매</span>가 지수 하방을 받쳤다.",
+      "FOMC 발표 전까지 <span class=\"text-amber-300 font-bold\">관망세 및 분목 차별화 장세</span>가 유지될 전망이다."
+    ],
+    "data_points": [
+      "WTI 유가 하락률: 배럴당 79달러선으로 6% 이상 급락",
+      "증시 지수 변동: 다우 상승 vs 나스닥 약보합"
+    ],
+    "signal": "neutral",
+    "signal_reason": "에너지 비용 하락이라는 긍정적 요인과 반도체 조정이라는 악재가 팽팽히 대립하고 있기 때문입니다.",
+    "key_companies": [
+      "미래에셋증권"
+    ],
+    "insight": "유가 안정은 소비 여력을 높여주므로 순환매 장세에서 소비자 및 산업재 종목이 우수한 성과를 냅니다.",
+    "action_point": "FOMC 결과 확인 전까지 유가 하락 수혜주(항공/소비재) 중심의 제한적 접근을 추천합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "유가급락",
+      "증시혼조",
+      "미래에셋",
+      "데일리라이브",
+      "FOMC경계"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "1EXYsVlV1Rc",
+    "title": "비이성적인 급락장…대응 전략은? | 김종문, 이창휘, 여도은, 허재무 [아침N투자]",
+    "published": "2026-07-28T02:25:12+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=1EXYsVlV1Rc",
+    "thumbnail": "https://img.youtube.com/vi/1EXYsVlV1Rc/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "국내 증시의 비이성적 급락은 해외 반도체 노이즈에 따른 과도한 공포에 기인하며, <span class=\"text-cyan-300 font-semibold\">실적 우수 대형주 중심의 보유 및 분할 매수</span>가 유효합니다.",
+    "key_claims": [
+      "중국 메모리 및 DUV 장비 우려로 인한 <span class=\"text-rose-400 font-medium\">투매는 비이성적 과매도</span> 구간이다.",
+      "패닉셀링에 동참하기보다 <span class=\"text-amber-300 font-bold\">실적 기반 밸류체인 핵심주</span>의 현금 흐름을 재점검해야 한다.",
+      "글로벌 패시브 자금의 재유입 시 국내 반도체/자동차 대장주의 <span class=\"text-cyan-300 font-semibold\">빠른 회복세</span>가 기대된다."
+    ],
+    "data_points": [
+      "코스피 PBR: 역사적 하단 0.85배 수준 진입",
+      "외국인 순매도 규모: 반도체 쏠림 매도 진행되나 기관 수급 받침 관찰"
+    ],
+    "signal": "bullish",
+    "signal_reason": "비이성적 밸류에이션 하단 진입으로 추가 하방 압력보다는 반등 리바운드 기대감이 압도적이기 때문입니다.",
+    "key_companies": [
+      "삼성전자",
+      "SK하이닉스",
+      "현대차"
+    ],
+    "insight": "공포 투매 장세에서는 시장 심리에 흔들리지 않고 기업의 본질적 영업이익 창출 능력에 집중하는 자산 배분 전략이 핵심입니다.",
+    "action_point": "투매 가속화 시 뇌동매도를 자제하고 현금 비중을 활용해 코스피 반도체 및 대표 우량주를 저가 매수할 것을 권고합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "급락장대응",
+      "삼프로TV",
+      "아침N투자",
+      "반도체투매",
+      "포트폴리오"
+    ]
+  }
+}

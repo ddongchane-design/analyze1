@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "XYlXpDyB_sM",
+    "title": "[26.07.28 오후 방송 전체보기] \"말이 되나?\" 또 '검은 화요일'...외세 침략에 투매 쏟아지는 국내 증시",
+    "published": "2026-07-28T11:01:59+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=XYlXpDyB_sM",
+    "thumbnail": "https://img.youtube.com/vi/XYlXpDyB_sM/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "외국인의 무차별 매도와 해외 노이즈로 '검은 화요일'을 겪은 국내 증시는 <span class=\"text-cyan-300 font-semibold\">기업 펀더멘털을 벗어난 수급 붕괴</span> 상태로, 과도한 투매 지양을 당부합니다.",
+    "key_claims": [
+      "해외 악재 수입과 외국인 선물 매도로 인한 <span class=\"text-rose-400 font-medium\">국내 증시의 비이성적 투매</span>.",
+      "삼성전자 등 주요 기업 이익 대비 <span class=\"text-cyan-300 font-semibold\">주가 하락 폭이 지나치게 과도</span>한 기형적 장세.",
+      "수급 쏠림 현상이 진정되면 <span class=\"text-amber-300 font-bold\">빠른 이격 축소 반등</span>이 전개될 수밖에 없음."
+    ],
+    "data_points": [
+      "외국인 순매도 규모: 코스피 시장에서 단기 대규모 수급 유출",
+      "하락 종목 비율: 코스피/코스닥 90% 이상 종목 하락 기록"
+    ],
+    "signal": "bullish",
+    "signal_reason": "펀더멘털과 무관한 외부 수급 붕괴에 따른 투매는 강력한 기술적 가격 반등을 수반하기 때문입니다.",
+    "key_companies": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "insight": "외국인 수급 붕괴로 발생한 과도한 낙폭은 냉정함을 되찾은 시장에서 가장 매력적인 반등 보상으로 돌아옵니다.",
+    "action_point": "투매에 편승한 손절을 피하고, 펀더멘털이 우수한 코스피 대표주를 침착하게 보유할 것을 권고합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "검은화요일",
+      "외세침략투매",
+      "삼프로TV",
+      "오후방송",
+      "국내증시"
+    ]
+  }
+}

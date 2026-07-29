@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "NLmprEofQgc",
+    "title": "[지식뉴스] \"AI 랠리가 오래 남았다고 생각하진 않아요\"…전반부 끝난 AI 사이클, 지금부터 냉정하게 봐야 할 진짜 신호들 / 교양이를 부탁해",
+    "published": "2026-07-28T14:57:26+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=NLmprEofQgc",
+    "thumbnail": "https://img.youtube.com/vi/NLmprEofQgc/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "AI 랠리의 1단계 인프라 구축 사이클 전반부가 일단락되고, <span class=\"text-amber-300 font-bold\">실질 수익성과 서비스 ROI를 입증해야 하는 냉정한 2단계</span> 진입을 경고합니다.",
+    "key_claims": [
+      "GPU 및 서버 칩 싹쓸이 중심의 AI 1단계 랠리가 <span class=\"text-rose-400 font-medium\">소강 상태 및 수익성 검증</span> 국면에 진입했다.",
+      "하이퍼스케일러들의 CapEx 지출 속도가 <span class=\"text-cyan-300 font-semibold\">실질 서비스 과금 매출</span>로 연결되어야 추가 랠리가 가능하다.",
+      "단순 칩 제조사보다 <span class=\"text-amber-300 font-bold\">AI 소프트웨어 플랫폼 선도 기업</span>으로 시장 주도권이 이동한다."
+    ],
+    "data_points": [
+      "AI 인프라 사이클 기간: 2023~2025년 1단계 팽창 완료 후 2단계 진입",
+      "AI 소프트웨어 마진율 예상: 서비스 안정화 시 50% 이상 고마진 기대"
+    ],
+    "signal": "neutral",
+    "signal_reason": "AI 산업의 지형 변화로 인한 단기 주가 밸류에이션 리셋과 옥석 가리기가 동시에 일어날 것이기 때문입니다.",
+    "key_companies": [
+      "엔비디아",
+      "마이크로소프트",
+      "OpenAI",
+      "Meta"
+    ],
+    "insight": "AI 사이클의 2단계에서는 단순 설비 투자 기업보다 실질 사용자 과금 기반을 굳힌 플랫폼 사가 승자가 됩니다.",
+    "action_point": "하드웨어 단독 쏠림을 줄이고 AI 서비스 및 킬러 앱을 보유한 소프트웨어 대표주로 포트폴리오를 분산하십시오."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "AI사이클",
+      "지식뉴스",
+      "교양이를부탁해",
+      "AI전반부종료",
+      "냉정한신호"
+    ]
+  }
+}

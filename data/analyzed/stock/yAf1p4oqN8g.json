@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "yAf1p4oqN8g",
+    "title": "창신메모리 띄우고 삼전닉스 던진 외국인의 '큰 그림' ㅣ명민준, 박가영, 이지환 [주린이 구조대]",
+    "published": "2026-07-28T13:30:08+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=yAf1p4oqN8g",
+    "thumbnail": "https://img.youtube.com/vi/yAf1p4oqN8g/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "외국인이 창신메모리(CXMT) 이슈를 핑계로 국내 반도체 대장주를 흔든 것은 <span class=\"text-cyan-300 font-semibold\">저가 재매수를 노린 외국인의 수급 플레이</span>일 가능성이 높습니다.",
+    "key_claims": [
+      "CXMT 우려는 핑계일 뿐 <span class=\"text-rose-400 font-medium\">외국인의 단기 시세 조작 및 차익 실현</span> 수급 플레이.",
+      "HBM 기술 격차로 인해 <span class=\"text-cyan-300 font-semibold\">CXMT가 삼성/하이닉스를 대체하는 것은 불가능</span>하다.",
+      "외국인 매도세 정과 함께 <span class=\"text-amber-300 font-bold\">강력한 숏커버링 및 재매수 장세</span>가 연출될 전망이다."
+    ],
+    "data_points": [
+      "CXMT 기술 수준: DUV 기반 레거시 DRAM 집중 (HBM 제조 불가능)",
+      "외국인 반도체 포지션: 선물 매도 및 현물 차익실현 동시 진행"
+    ],
+    "signal": "bullish",
+    "signal_reason": "외국인의 의도적 노이즈 흔들기 이후 저가 재매수가 유입되며 반도체 대장주가 가파르게 회복될 것이기 때문입니다.",
+    "key_companies": [
+      "CXMT",
+      "SK하이닉스",
+      "삼성전자"
+    ],
+    "insight": "외국인 수급 판읽기가 중요하며, 기술 격차가 입증된 국내 반도체 기업의 펀더멘털을 신뢰해야 합니다.",
+    "action_point": "외국인 매도세가 잦아드는 시점에서 SK하이닉스 및 삼성전자의 매수를 추천합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "창신메모리",
+      "외국인큰그림",
+      "삼전닉스던짐",
+      "삼프로TV",
+      "주린이구조대"
+    ]
+  }
+}

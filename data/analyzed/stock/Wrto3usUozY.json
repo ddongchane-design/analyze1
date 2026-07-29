@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "Wrto3usUozY",
+    "title": "[7월 28일 마감시황] 코스피 10% 폭락…삼전닉스 무너지자 전부 던졌다ㅣ홍선애, 이권희, 김장열 [클로징벨 라이브]",
+    "published": "2026-07-28T08:39:28+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=Wrto3usUozY",
+    "thumbnail": "https://img.youtube.com/vi/Wrto3usUozY/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "삼성전자와 SK하이닉스의 급락으로 코스피가 10% 폭락하며 투매가 연출되었으나, <span class=\"text-amber-300 font-bold\">과도한 수급 공포의 피크권</span>을 통과 중입니다.",
+    "key_claims": [
+      "반도체 투매가 지수 폭락을 유도하며 <span class=\"text-rose-400 font-medium\">전 종목 무차별 하락 패닉</span> 발생.",
+      "신용 반대매매 및 외국인 선물 매도로 인한 <span class=\"text-cyan-300 font-semibold\">기술적 이격 과대 구간</span> 진입.",
+      "패닉 투매가 일단락되는 시점에서 <span class=\"text-amber-300 font-bold\">급반등의 리바운드 장세</span>가 전개될 가능성 우세."
+    ],
+    "data_points": [
+      "코스피 단기 낙폭: 고점 대비 10% 폭락 기록",
+      "삼성전자/SK하이닉스 하락 기여도: 지수 하락 폭의 60% 이상 차지"
+    ],
+    "signal": "bullish",
+    "signal_reason": "무차별 투매가 극에 달한 시점은 전형적인 지수 바닥 신호로 강력한 기술적 반등이 임박했기 때문입니다.",
+    "key_companies": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "insight": "패닉 투매의 마지막 단계에서는 이성적인 기업 가치가 무시되나, 수급 클리어링 후 가장 빠른 복원력을 보여줍니다.",
+    "action_point": "마감 투매에 동참하지 말고 투매가 그친 후 코스피 200 지수형 ETF 및 반도체 대장주의 저점 매수를 준비하십시오."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "코스피폭락",
+      "삼전닉스무너짐",
+      "삼프로TV",
+      "클로징벨",
+      "마감시황"
+    ]
+  }
+}

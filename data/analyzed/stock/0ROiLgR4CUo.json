@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "0ROiLgR4CUo",
+    "title": "K-증시, 디레버리징 현황 점검 | 월스트리트파인더ㅣ2026.7.27(월)",
+    "published": "2026-07-27T00:45:21+00:00",
+    "channel_name": "Smart Money by MiraeAsset ",
+    "url": "https://www.youtube.com/watch?v=0ROiLgR4CUo",
+    "thumbnail": "https://img.youtube.com/vi/0ROiLgR4CUo/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "국내 증시가 신용 반대매매와 <span class=\"text-rose-400 font-medium\">강제 디레버리징(신용 청산)</span>으로 극심한 유동성 조 조정을 겪고 있으나, 디레버리징 마무리는 <span class=\"text-amber-300 font-bold\">기술적 바닥 형성</span>의 신호입니다.",
+    "key_claims": [
+      "신용 융자 잔고의 급격한 감소는 <span class=\"text-rose-400 font-medium\">투매 및 반대매매</span>에 의한 전형적인 장세 바닥권 특징이다.",
+      "외국인 수급 유출과 함께 개인의 Leveraged 포지션 해소가 <span class=\"text-cyan-300 font-semibold\">수급 체질 개선</span>을 유도한다.",
+      "디레버리징 청산 이후 실적 가시성이 명확한 대형주 중심으로 <span class=\"text-amber-300 font-bold\">빠른 V자 반등</span>이 전개될 수 있다."
+    ],
+    "data_points": [
+      "코스피/코스닥 신용 융자 잔고: 반대매매 폭증으로 전월 대비 급감",
+      "디레버리징 마감 시점 역사적 수익률: 청산 후 3개월 평균 +15% 회복"
+    ],
+    "signal": "neutral",
+    "signal_reason": "단기 강제 청산에 따른 고변동성이 우려되나, 수급 클리어링 이후 강력한 기술적 반등 기반이 마련되기 때문입니다.",
+    "key_companies": [
+      "미래에셋증권",
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "insight": "신용 청산 물량이 쏟아지는 투매 국면은 펀더멘털 훼손이 없는 우량 대형주를 극저평가 구간에서 담을 수 있는 최적의 기회입니다.",
+    "action_point": "반대매매 출하가 일단락되는 신용잔고 감소 정체 구간에서 코스피 대형주 및 패시브 ETF의 분할 매수를 추천합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "디레버리징",
+      "K증시",
+      "미래에셋",
+      "신용잔고",
+      "트렌드나우"
+    ]
+  }
+}

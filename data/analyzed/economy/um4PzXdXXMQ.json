@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "um4PzXdXXMQ",
+    "title": "미사일 다 쓴 사우디 후티반군에 쩔쩔맨다",
+    "published": "2026-07-28T14:15:24+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=um4PzXdXXMQ",
+    "thumbnail": "https://img.youtube.com/vi/um4PzXdXXMQ/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "사우디아라비아가 후티 반군의 드론/미사일 공격에 대응하며 고가의 미사일을 소모함에 따라 <span class=\"text-rose-400 font-medium\">비대칭 전력 및 비대칭 군사비 부담</span> 문제가 부각되고 있습니다.",
+    "key_claims": [
+      "고가 방공 미사일로 저가 드론을 방어하는 구조는 <span class=\"text-rose-400 font-medium\">지속 불가능한 비대칭 비용 부담</span>을 유발한다.",
+      "중동 방산 시장에서 <span class=\"text-cyan-300 font-semibold\">저비용 고효율 안티드론 및 레이저 방공 체계</span>의 중요성이 급증한다.",
+      "지정학적 불안 지속으로 <span class=\"text-amber-300 font-bold\">글로벌 방산 기업들의 수주 모멘텀</span>이 장기화되고 있다."
+    ],
+    "data_points": [
+      "방공 미사일 vs 후티 드론 단가 격차: 요격 미사일 1발(수십억 원) vs 드론 1대(수천만 원)",
+      "중동 방산비 지출 성장률: 비대칭 위협 대응으로 연 10% 이상 증가"
+    ],
+    "signal": "bullish",
+    "signal_reason": "비대칭 안티드론 및 정밀 방공 체계를 갖춘 국내외 방산 기업들의 해외 수출 기회가 확대되기 때문입니다.",
+    "key_companies": [
+      "한화에어로스페이스",
+      "LIG넥스원",
+      "현대로템"
+    ],
+    "insight": "현대전의 양상이 비대칭 드론 및 저비용 미사일전으로 재편되면서 안티드론 및 가성비 방산 솔루션의 가치가 치솟고 있습니다.",
+    "action_point": "안티드론 시스템 및 고효율 방공 미사일 기술을 보유한 K-방산 기업에 대한 중장기 유효 투자를 권고합니다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "etc"
+    ],
+    "tags": [
+      "사우디",
+      "후티반군",
+      "중동군사",
+      "언더스탠딩",
+      "방산지정학"
+    ]
+  }
+}

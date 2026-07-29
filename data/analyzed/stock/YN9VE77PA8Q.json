@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "YN9VE77PA8Q",
+    "title": "미국 반도체 지수, 약세장 진입...블룸에너지·시게이트·테라다인 등 시간 외 호실적 [월가 뉴스레터]",
+    "published": "2026-07-28T22:13:28+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=YN9VE77PA8Q",
+    "thumbnail": "https://img.youtube.com/vi/YN9VE77PA8Q/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 필라델피아 반도체 지수가 약세장에 진입했으나, <span class=\"text-cyan-300 font-semibold\">시게이트, 블룸에너지, 테라다인 등 실적 선도 기업의 시간 외 폭등</span>이 차별화 장세를 증명하고 있습니다.",
+    "key_claims": [
+      "반도체 지수 약세 진입에도 불구하고 <span class=\"text-cyan-300 font-semibold\">확실한 실적(시게이트/블룸에너지)을 낸 기업</span>은 시간에 폭등했다.",
+      "단순 테마주에서 <span class=\"text-amber-300 font-bold\">실질 어닝 서프라이즈 기업으로 자금 이동</span>이 명확히 관찰된다.",
+      "빅테크 실적 시즌 진행으로 <span class=\"text-cyan-300 font-semibold\">실적주 위주의 증시 분위기 반전</span>이 기대된다."
+    ],
+    "data_points": [
+      "시게이트 시간 외 주가 상승률: +7.8% 급등 (가이던스 대폭 상회)",
+      "블룸에너지 시간 외 주가 상승률: +5% 이상 폭등 (매출 116% 증가)"
+    ],
+    "signal": "bullish",
+    "signal_reason": "어닝 서프라이즈를 달성한 실적주들에 대한 강력한 시장 보상이 증시 안도감을 형성하기 때문입니다.",
+    "key_companies": [
+      "시게이트",
+      "블룸에너지",
+      "테라다인",
+      "엔비디아"
+    ],
+    "insight": "지수 약세장 속에서도 시장의 눈높이를 뛰어넘는 가시적 실적을 증명한 기업은 독보적인 주가 상승을 누립니다.",
+    "action_point": "실적 발표 후 가이던스를 상향한 시게이트 및 전력/자동화 우량 실적주에 집중 투자하십시오."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "미국반도체지수",
+      "블룸에너지",
+      "시게이트",
+      "테라다인",
+      "호실적",
+      "삼프로TV"
+    ]
+  }
+}

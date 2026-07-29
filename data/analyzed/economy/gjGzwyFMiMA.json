@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "gjGzwyFMiMA",
+    "title": "때릴수록 강해지는 이란 트럼프는 덫에 빠졌다 (서강대학교 유로메나연구소 박현도 교수, 성일광 교수) ※2026년 7월 27일 방송입니다",
+    "published": "2026-07-28T07:55:13+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=gjGzwyFMiMA",
+    "thumbnail": "https://img.youtube.com/vi/gjGzwyFMiMA/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국-이란 간 호르무즈 해협 지정학적 갈등과 중동 복잡성이 <span class=\"text-violet-300 font-medium\">유가 변동성 및 미국 외교 통상 압박</span>으로 작용하고 있습니다.",
+    "key_claims": [
+      "이란과의 무력 충돌 장기화는 트럼프 행정부의 <span class=\"text-rose-400 font-medium\">외교적 덫과 유가 상승 압력</span>을 가중시킨다.",
+      "중제국(오만 등)을 통한 해협 관리 타결 여부가 <span class=\"text-cyan-300 font-semibold\">글로벌 에너지 인플레 완화</span>의 분수령이다.",
+      "중동 불안정이 장기화될 경우 <span class=\"text-amber-300 font-bold\">글로벌 공급망 및 방산 수요</span>에 직간접적 영향을 준다."
+    ],
+    "data_points": [
+      "호르무즈 해협 원유 수송량: 전 세계 원유 유통량의 20% 담당",
+      "유가 변동 폭: 사태 진전 따라 배럴당 75~85달러 박스권 형성"
+    ],
+    "signal": "neutral",
+    "signal_reason": "외교적 타결 시도가 전개되어 극단적 유가 폭등 가능성은 낮으나 지정학적 잔여 리스크가 존재하기 때문입니다.",
+    "key_companies": [
+      "서강대유로메나연구소"
+    ],
+    "insight": "중동 지정학 이슈는 단기 유가 노이즈를 일으키나, 대화 모색 국면 진입 시 금융 시장은 안도감을 찾게 됩니다.",
+    "action_point": "국제유가 80달러 이하 유지 여부를 관찰하며 지정학 위험 완화 수혜주 및 방산주 비중을 조절할 필요가 있습니다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "etc"
+    ],
+    "tags": [
+      "이란",
+      "트럼프",
+      "중동지정학",
+      "호르무즈",
+      "언더스탠딩",
+      "박현도",
+      "성일광"
+    ]
+  }
+}

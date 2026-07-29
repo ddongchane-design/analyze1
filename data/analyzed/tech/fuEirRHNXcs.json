@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "fuEirRHNXcs",
+    "title": "\"반도체 끝났다?\"... 시장이 놓친 AI 네러티브의 실체 #교양이를부탁해 #반도체 #AI버블 #코스피폭락 #외국인매도 #숏돌이 #알상무",
+    "published": "2026-07-28T11:45:37+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=fuEirRHNXcs",
+    "thumbnail": "https://img.youtube.com/vi/fuEirRHNXcs/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "반도체 피크아웃 피로감에도 불구하고, <span class=\"text-cyan-300 font-semibold\">실질 AI 비즈니스 ROI와 실적 선행성</span>을 바탕으로 AI 네러티브의 2차 성장이 진행 중입니다.",
+    "key_claims": [
+      "AI 랠리 종료 우려는 <span class=\"text-rose-400 font-medium\">단기 주가 조정에 따른 착시</span>일 뿐 펀더멘털은 탄탄하다.",
+      "엔비디아, TSMC, 메모리 삼사의 <span class=\"text-amber-300 font-bold\">실적 선행 지표</span>는 하반기에도 견조한 성장을 입증한다.",
+      "단순 기대감 장세에서 <span class=\"text-cyan-300 font-semibold\">실제 수주 및 현금 흐름 창출 기업</span> 중심의 옥석 가리기가 진행된다."
+    ],
+    "data_points": [
+      "TSMC 및 메모리 공급사 수주 잔고: 2027년 물량까지 타이트한 계약 체결",
+      "AI 반도체 전방 수요 성장률: 서버용 HBM 및 컴퓨팅 칩 연 35% 성장"
+    ],
+    "signal": "bullish",
+    "signal_reason": "AI 네러티브가 실질 기업 이익으로 입증되고 있어 기술주 장기 우상향 추세가 훼손되지 않았기 때문입니다.",
+    "key_companies": [
+      "TSMC",
+      "엔비디아",
+      "SK하이닉스"
+    ],
+    "insight": "시장의 노이즈성 비관론을 뚫고 실적 데이터가 보여주는 AI 펀더멘털의 실체에 주목해야 합니다.",
+    "action_point": "반도체 조정으로 인한 주가 눌림목을 활용해 TSMC 및 HBM 수혜주 매수를 추천합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "반도체끝났다",
+      "AI네러티브",
+      "교양이를부탁해",
+      "알상무",
+      "실적선행"
+    ]
+  }
+}

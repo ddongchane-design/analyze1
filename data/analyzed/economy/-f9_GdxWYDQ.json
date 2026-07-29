@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "-f9_GdxWYDQ",
+    "title": "금리인상은 무조건 시장에 악재일까? 이런 경로의 인상은 오히려 낫다 | 신영증권 김효진 박사 [글로벌 인터뷰]",
+    "published": "2026-07-28T23:21:40+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=-f9_GdxWYDQ",
+    "thumbnail": "https://img.youtube.com/vi/-f9_GdxWYDQ/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "연준의 금리 인상이 항상 증시 악재인 것은 아니며, <span class=\"text-amber-300 font-bold\">경기 호황과 동반된 매파적 금리 인상</span>은 시장의 불확실성을 해소하는 긍정적 신호가 될 수 있습니다.",
+    "key_claims": [
+      "인플레이션 억제 의지를 명확히 하는 금리 조정은 <span class=\"text-cyan-300 font-semibold\">증시 불확실성 해소</span> 효과를 제공한다.",
+      "노동 시장의 견조함과 거시 생산성 개선이 전제된 금리 정책은 <span class=\"text-amber-300 font-bold\">실적장세로의 연착륙</span>을 이끈다.",
+      "FOMC의 금리 경로 불확실성이 해소되는 시점에서 <span class=\"text-rose-400 font-medium\">단기 변동성 완화</span>가 나타날 전망이다."
+    ],
+    "data_points": [
+      "과거 금리 인상 국면 증시 수익률: 경기 확장기 동반 인상 시 평균 +12% 이상 상승",
+      "연준 통화 정책 민감도: 국채 10년물 금리 4.5%선 환율 및 증시 영향"
+    ],
+    "signal": "bullish",
+    "signal_reason": "금리 경로의 명확성이 확보될 경우 경제 기초체력에 기반한 증시 반등 탄력이 강화될 것이기 때문입니다.",
+    "key_companies": [
+      "신영증권",
+      "연준(Fed)"
+    ],
+    "insight": "금리 인상 자체보다 금리 인상의 원인(경기 확장 vs 인플레이션)이 중요하며, 펀더멘털이 우수한 섹터로 자금이 재편되는 계기가 됩니다.",
+    "action_point": "FOMC 결과 발표 직후 금리 불확실성이 제거되는 시점을 활용해 가치주 및 거시 수혜주 비중 확대를 권고합니다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "금리인상",
+      "연준",
+      "신영증권",
+      "김효진",
+      "글로벌인터뷰",
+      "FOMC"
+    ]
+  }
+}

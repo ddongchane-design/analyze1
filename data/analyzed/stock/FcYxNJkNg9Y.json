@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "FcYxNJkNg9Y",
+    "title": "'카센터' 된 국장...또 다시 미장, 부동산인가? | 김민수 레몬리서치 대표 [더블 업]",
+    "published": "2026-07-28T09:45:54+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=FcYxNJkNg9Y",
+    "thumbnail": "https://img.youtube.com/vi/FcYxNJkNg9Y/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "국내 증시의 구조적 변동성과 세제 불확실성으로 인해 <span class=\"text-cyan-300 font-semibold\">미국 우량주 및 부동산 자산으로의 자금 이동</span> 트렌드가 가속화되고 있습니다.",
+    "key_claims": [
+      "국내 증시의 고질적인 디스카운트와 지배구조 이슈로 <span class=\"text-rose-400 font-medium\">개인 자금의 해외 탈출</span>이 지속된다.",
+      "확실한 현금흐름과 주주환율이 보장되는 <span class=\"text-amber-300 font-bold\">미국 빅테크 및 패시브 자산</span> 선호도 심화.",
+      "국내 주식은 철저히 실적 성장주 및 정책 수혜주에 한정된 <span class=\"text-cyan-300 font-semibold\">선별적 접근</span>이 필요하다."
+    ],
+    "data_points": [
+      "서학개미 미국 주식 보유액: 사상 최대치 1,000억 달러 육박",
+      "코스피 대형주 주주환원율: 미국(70%) 대비 30% 수준으로 정체"
+    ],
+    "signal": "neutral",
+    "signal_reason": "국내 증시 수급 이탈 우려가 크나, 미국 우량자산 편입 확대를 통한 글로벌 자산 다변화 계기가 되기 때문입니다.",
+    "key_companies": [
+      "레몬리서치",
+      "삼성전자",
+      "애플",
+      "마이크로소프트"
+    ],
+    "insight": "자산 보유자는 국장 쏠림에서 벗어나 주주가치가 보장되는 글로벌 우량 자산으로의 포트폴리오 재편이 필수적입니다.",
+    "action_point": "미국 시장 패시브 ETF(QQQ, SPY) 및 주주환원이 명확한 미국 우량 기술주 비중 확대를 권고합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "국장탈출",
+      "미국증시",
+      "부동산",
+      "삼프로TV",
+      "김민수"
+    ]
+  }
+}

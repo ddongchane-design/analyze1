@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "CQ7VIUJsftM",
+    "title": "에너지 패러다임의 변화와 빅테크 AI투자｜애널리스트리포트 ｜2026.07.28(화)",
+    "published": "2026-07-28T00:00:06+00:00",
+    "channel_name": "Smart Money by MiraeAsset ",
+    "url": "https://www.youtube.com/watch?v=CQ7VIUJsftM",
+    "thumbnail": "https://img.youtube.com/vi/CQ7VIUJsftM/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "AI 빅테크의 전력 수요 폭증으로 에너지 패러다임이 친환경 재생에너지에서 <span class=\"text-amber-300 font-bold\">원자력, SMR, 독립 전력망</span> 중심으로 급속히 전환되고 있습니다.",
+    "key_claims": [
+      "AI 데이터센터 전력 소요량 급증으로 <span class=\"text-cyan-300 font-semibold\">24/7 기저 전력원(원자력/SMR)</span>의 가치가 급상승했다.",
+      "전력 송배전망 기기 및 VPP(가상발전소) 제어 솔루션 수요가 <span class=\"text-amber-300 font-bold\">구조적 장기 호황</span>에 진입했다.",
+      "친기업적 세제와 독립 전력망을 갖춘 지역(텍사스 등)으로 <span class=\"text-violet-300 font-medium\">빅테크 AI 인프라 유입</span>이 집중된다."
+    ],
+    "data_points": [
+      "AI 데이터센터 2030 전력 예상 소모량: 현재 대비 3배 이상 증가",
+      "SMR 및 원전 관련 전력망 기기 수주 잔고: 연간 25% 이상 성장"
+    ],
+    "signal": "bullish",
+    "signal_reason": "AI 인프라 확장에 필수적인 전력원 및 송배전 설비사들의 수주 가시성이 매우 명확하기 때문입니다.",
+    "key_companies": [
+      "지멘스",
+      "GE에어로스페이스",
+      "HD현대일렉트릭",
+      "두산에너빌리티"
+    ],
+    "insight": "AI 산업 혁명의 실질적 최대 수혜 분야는 컴퓨팅 칩을 넘어 지속 가능한 고효율 전력 인프라 산업입니다.",
+    "action_point": "원자력/SMR 관련주 및 초고압 변압기, 송배전 기기 선도 종목 중심의 중장기 투자를 추천합니다."
+  },
+  "classification": {
+    "primary_topic": "energy",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "에너지패러다임",
+      "AI전력",
+      "미래에셋",
+      "애널리스트리포트",
+      "SMR"
+    ]
+  }
+}

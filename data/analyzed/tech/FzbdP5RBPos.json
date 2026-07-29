@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "FzbdP5RBPos",
+    "title": "애플과 삼성의 격차",
+    "published": "2026-07-28T11:00:09+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=FzbdP5RBPos",
+    "thumbnail": "https://img.youtube.com/vi/FzbdP5RBPos/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "애플이 높은 마진과 본업 중심 '록펠러 전략'으로 <span class=\"text-cyan-300 font-semibold\">삼성전자와의 영업이익 및 시가총액 격차</span>를 지속적으로 벌려나가고 있습니다.",
+    "key_claims": [
+      "애플은 서비스 수익화와 자체 칩셋(M시리즈) 생태계로 <span class=\"text-amber-300 font-bold\">압도적인 영업이익률(30%+)</span>을 유지한다.",
+      "삼성전자는 파운드리 및 메모리 변동성으로 인해 세트 부문의 <span class=\"text-rose-400 font-medium\">수익성 기복</span>을 경험하고 있다.",
+      "소프트웨어 패권과 브랜딩 결합이 <span class=\"text-cyan-300 font-semibold\">글로벌 시총 1위 복귀</span>의 핵심 원동력이다."
+    ],
+    "data_points": [
+      "애플 서비스 부문 매출 비중: 전체 매출의 25% 돌파하며 고마진 유지",
+      "시가총액 격차: 애플 4.9조 달러 vs 삼성전자 4,000억 달러 안팎"
+    ],
+    "signal": "bullish",
+    "signal_reason": "애플의 수직 통합 생태계와 안정적인 FCF 창출 능력이 독보적 주가 프리미엄을 정당화하기 때문입니다.",
+    "key_companies": [
+      "애플",
+      "삼성전자"
+    ],
+    "insight": "하드웨어 단가 경쟁보다 소프트웨어 생태계와 락인 효과를 거둔 기업이 장기 밸류에이션 재평가를 받습니다.",
+    "action_point": "애플 중심의 글로벌 플랫폼 성장주 포트폴리오 유지를 적극 권고합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "애플",
+      "삼성전자",
+      "격차분석",
+      "록펠러전략",
+      "SOD"
+    ]
+  }
+}

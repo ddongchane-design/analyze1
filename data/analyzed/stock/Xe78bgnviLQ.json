@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "Xe78bgnviLQ",
+    "title": "미중 AI·반도체 후폭풍에 코스피 10% 급락 | 일본 강진에 TSMC·토요타 공장 멈췄다 | [단독] 구글 웨이모, 국내 진출 | 류종은 삼프로TV 기자 [뉴스3]",
+    "published": "2026-07-28T23:38:40+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=Xe78bgnviLQ",
+    "thumbnail": "https://img.youtube.com/vi/Xe78bgnviLQ/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미중 AI·반도체 갈등과 일본 강진에 따른 TSMC/토요타 생산 차질 노이즈 속에서, <span class=\"text-cyan-300 font-semibold\">구글 웨이모의 한국 자율주행 시장 진출</span>이 새로운 변수로 부각되었습니다.",
+    "key_claims": [
+      "미중 기술 갈등과 일본 지진이 겹치며 <span class=\"text-rose-400 font-medium\">반도체 및 자동차 공급망 불안</span> 유발.",
+      "구글 웨이모의 한국 시장 진출 타진으로 <span class=\"text-cyan-300 font-semibold\">국내 자율주행 및 모빌리티 생태계</span> 재편 촉발.",
+      "단기 공급망 차질 악재 속에서도 <span class=\"text-amber-300 font-bold\">차세대 자율주행 모멘텀</span> 부상."
+    ],
+    "data_points": [
+      "TSMC/토요타 일본 공장: 강진 영향으로 일시 가동 중단 점검",
+      "구글 웨이모 자율주행 한국 진출: 국내 모빌리티 파트너십 타진"
+    ],
+    "signal": "neutral",
+    "signal_reason": "자연재해 및 미중 제재 단기 악재와 자율주행 시장 팽창 호재가 교차하고 있기 때문입니다.",
+    "key_companies": [
+      "Google",
+      "Waymo",
+      "TSMC",
+      "토요타",
+      "현대차"
+    ],
+    "insight": "단기 자연재해 및 지정학 노이즈는 일시적이나, 자율주행 등 피지컬 AI 생태계의 한국 진출은 장기적 산업 변화를 이끕니다.",
+    "action_point": "구글 웨이모 국내 진출 관련 자율주행 센서, 부품, 지도 데이터 수혜주에 대한 선제적 관심을 권고합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "미중AI후폭풍",
+      "TSMC지진",
+      "구글웨이모국내진출",
+      "삼프로TV",
+      "뉴스3"
+    ]
+  }
+}

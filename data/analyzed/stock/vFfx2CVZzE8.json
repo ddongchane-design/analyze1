@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "vFfx2CVZzE8",
+    "title": "[26.07.28 오전 방송 전체보기] 엔비디아 5% 급락 속 나스닥 지수만 조정...WTI 유가 8% 하락",
+    "published": "2026-07-28T03:15:49+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=vFfx2CVZzE8",
+    "thumbnail": "https://img.youtube.com/vi/vFfx2CVZzE8/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "엔비디아 5% 급락으로 나스닥 지수만 단기 조정을 받는 가운데, <span class=\"text-cyan-300 font-semibold\">WTI 유가가 8% 폭락하며 인플레이션 완화 안도감</span>을 제공했습니다.",
+    "key_claims": [
+      "엔비디아 등 반도체주 급락이 기술주 지수 하락을 견인했으나 <span class=\"text-cyan-300 font-semibold\">타 섹터로의 순환매</span>는 양호했다.",
+      "WTI 유가 8% 폭락은 <span class=\"text-amber-300 font-bold\">거시 인플레이션 피크아웃 신호</span>로 작용해 시중 금리 안정에 기여한다.",
+      "증시는 기술주 독주에서 벗어나 <span class=\"text-violet-300 font-medium\">다변화된 업종 밸런스</span>를 갖춰가고 있다."
+    ],
+    "data_points": [
+      "WTI 유가 하락률: 장중 8% 폭락하며 78달러선 안착",
+      "엔비디아 주가 변동: 단기 5% 급락으로 기술주 지수 압박"
+    ],
+    "signal": "neutral",
+    "signal_reason": "엔비디아 조정에 따른 기술주 투심 악화와 유가 폭락으로 인한 인플레 완화 호재가 호각을 이루기 때문입니다.",
+    "key_companies": [
+      "엔비디아",
+      "삼프로TV"
+    ],
+    "insight": "유가 폭락은 거시 환경 개선 신호이며, 기술주 단기 조정 후 증시 전반의 바닥 지지력을 강화해 줄 것입니다.",
+    "action_point": "유가 하락 수혜주 편입과 함께 엔비디아의 기술적 지지선 확인 후 분할 재매수 전략을 추천합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "오전방송",
+      "엔비디아급락",
+      "WTI유가폭락",
+      "삼프로TV",
+      "증시조정"
+    ]
+  }
+}

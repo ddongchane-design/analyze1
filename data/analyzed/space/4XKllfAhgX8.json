@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "4XKllfAhgX8",
+    "title": "스페이스X는 왜 혼자만 성공했을까 (스펙스 이강환 최고전략책임자) (1부)",
+    "published": "2026-07-28T12:25:23+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=4XKllfAhgX8",
+    "thumbnail": "https://img.youtube.com/vi/4XKllfAhgX8/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "스페이스X의 독보적 성공 비결은 <span class=\"text-cyan-300 font-semibold\">수직 통합 공급망과 1·2단 완전 재사용 발사체 기술</span>을 바탕으로 압도적인 발사 단가 혁신을 달성한 데 있습니다.",
+    "key_claims": [
+      "스페이스X는 핵심 부품 내재화(수직통합)를 통해 <span class=\"text-cyan-300 font-semibold\">우주 발사 단가를 1/10 이하로 절감</span>했다.",
+      "스타십의 완전 재사용 시스템은 기존 정부 주도 우주 개발 패러다임을 <span class=\"text-amber-300 font-bold\">민간 상업 우주 시대로 전면 재편</span>했다.",
+      "독점적 발사 플랫폼을 기반으로 스타링크 등 저궤도 우주 인프라를 대량 배치해 <span class=\"text-violet-300 font-medium\">우주 안보/통신 시장을 평정</span>했다."
+    ],
+    "data_points": [
+      "스타십 1회 탑재 화량: 100톤 이상 대량 수송 가능",
+      "발사 단가 절감 비율: 기존 전통 엑스팬더블 로켓 대비 90% 이상 절감 목표"
+    ],
+    "signal": "bullish",
+    "signal_reason": "우주 수송 비용의 획기적 하락이 우주 제조, 위성 통신, 방산 등 연관 산업의 폭발적 성장을 견인하기 때문입니다.",
+    "key_companies": [
+      "스페이스X",
+      "스타링크"
+    ],
+    "insight": "스페이스X는 단순 로켓 제조사를 넘어 우주 경제 전체의 물류 및 통신 인프라를 독점하는 무서운 플랫폼 기업입니다.",
+    "action_point": "우주 항공 밸류체인 및 저궤도 위성 통신 부품 관련 국내외 우량 기업에 대한 장기 관점 투자를 권고합니다."
+  },
+  "classification": {
+    "primary_topic": "space",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "스페이스X",
+      "스타십",
+      "재사용발사체",
+      "이강환",
+      "언더스탠딩"
+    ]
+  }
+}

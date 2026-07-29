@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "9pWpU5fLskY",
+    "title": "휴머노이드의 새로운 기준을 묻다 | New Standard #뉴스탠다드",
+    "published": "2026-07-27T09:15:03+00:00",
+    "channel_name": "Smart Money by MiraeAsset ",
+    "url": "https://www.youtube.com/watch?v=9pWpU5fLskY",
+    "thumbnail": "https://img.youtube.com/vi/9pWpU5fLskY/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "휴머노이드 로봇이 단순 기술 시연을 넘어 <span class=\"text-cyan-300 font-semibold\">피지컬 AI 기반의 실질적 4S 유통망 및 현장 양산</span> 표준(New Standard)으로 안착하고 있습니다.",
+    "key_claims": [
+      "휴머노이드는 관절 제어 알고리즘과 피지컬 AI의 결합으로 <span class=\"text-cyan-300 font-semibold\">공장/서비스 현장에 직접 투입</span> 가능한 수준으로 도약했다.",
+      "양산 램프업을 이끄는 <span class=\"text-amber-300 font-bold\">정밀 모듈형 액추에이터와 관절 부품</span>이 로봇 기업의 경쟁력을 좌우한다.",
+      "산업 현장 적용 확대로 <span class=\"text-violet-300 font-medium\">글로벌 로봇 밸류체인 주도권 다툼</span>이 격화되고 있다."
+    ],
+    "data_points": [
+      "휴머노이드 로봇 시장 성장률: 연평균 40% 이상 가속화",
+      "핵심 원가 비중: 액추에이터 및 정밀 감속기가 전체 제조 원가의 60% 차지"
+    ],
+    "signal": "bullish",
+    "signal_reason": "피지컬 AI의 상용화가 임박함에 따라 로봇 완성품 및 핵심 부품 제조사들의 장기 이익 성장이 뚜렷하기 때문입니다.",
+    "key_companies": [
+      "테슬라",
+      "보스턴다이내믹스",
+      "유닛트리"
+    ],
+    "insight": "휴머노이드 표준화의 핵심은 소프트웨어 지능과 고밀도 하드웨어 액추에이터의 완벽한 융합에 있습니다.",
+    "action_point": "로봇 완성사 및 정밀 감속기, 모터, 관절 센서 분야의 핵심 소부장 종목 비중 확대를 권고합니다."
+  },
+  "classification": {
+    "primary_topic": "robot",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "휴머노이드",
+      "피지컬AI",
+      "미래에셋",
+      "뉴스탠다드",
+      "로봇양산"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "Ae1VrybpCao",
+    "title": "작년엔 100원, 올해는 700원? 하이퍼스케일러들이 비명 지르는 이유 #교양이를부탁해 #반도체 #AI버블 #코스피폭락 #외국인매도 #숏돌이 #알상무",
+    "published": "2026-07-28T12:15:08+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=Ae1VrybpCao",
+    "thumbnail": "https://img.youtube.com/vi/Ae1VrybpCao/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "빅테크 하이퍼스케일러들의 AI CapEx 폭증과 자금 조달 비용 상승으로 인한 <span class=\"text-rose-400 font-medium\">투자 수익성(ROI) 의구심</span>이 시장의 단기 조정을 유발하고 있습니다.",
+    "key_claims": [
+      "클라우드 서비스 및 AI 인프라 구축 비용 급증으로 <span class=\"text-rose-400 font-medium\">빅테크의 FCF(자유현금흐름) 압박</span> 가중.",
+      "단기 과도한 AI 투자가 실질적 매출로 전환되는 시점에 대한 <span class=\"text-amber-300 font-bold\">시장의 엄격한 검증 국면</span> 진입.",
+      "반도체 쏠림 해소와 함께 실질 현금흐름 창출 기업으로의 <span class=\"text-cyan-300 font-semibold\">자금 이동 전개</span>."
+    ],
+    "data_points": [
+      "빅테크 자본지출(CapEx) 성장률: 연간 전년 대비 40% 초과",
+      "하이퍼스케일러 채권 발행 및 CDS 프리미엄: 최근 사상 최고치 경신"
+    ],
+    "signal": "neutral",
+    "signal_reason": "AI 장기 생태계 확장은 유효하나, 단기 CapEx 과열 노이즈로 인한 기술주 밸류에이션 리셋이 불가피하기 때문입니다.",
+    "key_companies": [
+      "마이크로소프트",
+      "메타",
+      "알파벳",
+      "엔비디아"
+    ],
+    "insight": "AI 투자 검증 국면에서는 단순 설비증설 기업보다 과금 모델과 플랫폼 수익화 기반을 입증한 기업이 승자가 됩니다.",
+    "action_point": "AI 수익화 비즈니스 모델을 확보한 소프트웨어 및 플랫폼 우량주 중심의 포트폴리오 재편이 유효합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "하이퍼스케일러",
+      "CapEx",
+      "AI버블",
+      "교양이를부탁해",
+      "반도체네러티브"
+    ]
+  }
+}

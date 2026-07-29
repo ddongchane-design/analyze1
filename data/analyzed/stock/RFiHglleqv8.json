@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "RFiHglleqv8",
+    "title": "코스피 대체 어디까지 떨어질까? 차트로 본 '바닥과 천장' #교양이를부탁해 #코스피 #구글 #숏돌이 #알상무",
+    "published": "2026-07-28T11:00:01+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=RFiHglleqv8",
+    "thumbnail": "https://img.youtube.com/vi/RFiHglleqv8/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "코스피 지수가 10% 급락하며 기술적 지지선에 도달한 가운데, <span class=\"text-cyan-300 font-semibold\">역사적 PBR 하단 지지선(바닥) 확인</span>에 따른 매수 관점이 부각되고 있습니다.",
+    "key_claims": [
+      "코스피 급락은 수급적 과매도에 의한 것으로 <span class=\"text-cyan-300 font-semibold\">역사적 PBR 바닥권(0.85배)</span>에 도달했다.",
+      "차트 및 수급 분석 상 과도한 투매 구간은 <span class=\"text-amber-300 font-bold\">중장기 기술적 반등의 기틀</span>을 형성한다.",
+      "외국인 수급의 매도세 정체 시점부터 <span class=\"text-cyan-300 font-semibold\">지수 리바운드</span>가 강력하게 진행될 수 있다."
+    ],
+    "data_points": [
+      "코스피 PBR 지지선: 0.83~0.85배 수준 (역사적 강력한 바닥 형성 구간)",
+      "외국인 순매도 규모: 지수 10% 폭락 과정에서 극단적 과매도 기록"
+    ],
+    "signal": "bullish",
+    "signal_reason": "기술적 밸류에이션 바닥권 도달로 추가 하락 위험보다 반등 리턴이 월등히 큰 구간이기 때문입니다.",
+    "key_companies": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "insight": "지수 폭락의 끝자락에서는 공포에 투매하기보다 역사적 PBR 바닥 지표를 신뢰하는 저가 매수가 승리합니다.",
+    "action_point": "코스피 레버리지 및 시가총액 상위 대형주의 분할 매수를 추천합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "코스피바닥",
+      "차트분석",
+      "교양이를부탁해",
+      "바닥과천장",
+      "알상무"
+    ]
+  }
+}

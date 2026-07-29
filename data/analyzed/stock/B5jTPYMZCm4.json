@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "B5jTPYMZCm4",
+    "title": "하루 만에 주가 500% 떡상한 cxmt 근황",
+    "published": "2026-07-27T11:00:12+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=B5jTPYMZCm4",
+    "thumbnail": "https://img.youtube.com/vi/B5jTPYMZCm4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "중국 창신메모리(CXMT)의 과창판 상장과 주가 폭등은 이슈화되었으나, <span class=\"text-violet-300 font-medium\">레거시 공정 한계와 기술 격차</span>로 글로벌 첨단 메모리 시장 위협은 과장된 수준입니다.",
+    "key_claims": [
+      "CXMT의 과창판 상장 및 DUV 장비 도입은 <span class=\"text-amber-300 font-bold\">중국 내수용 레거시 자립</span>에 국한된다.",
+      "20년 이상의 기술 격차와 EUV 부재로 인해 <span class=\"text-cyan-300 font-semibold\">HBM 및 첨단 DRAM 시장 침투는 불가능</span>하다.",
+      "중국발 과도한 공급 과잉 공포는 국내 반도체 대장주에 대한 <span class=\"text-rose-400 font-medium\">단기 과매도 노이즈</span>일 뿐이다."
+    ],
+    "data_points": [
+      "CXMT 과창판 상장 당일 주가 상승률: 466% 폭등",
+      "글로벌 DRAM 점유율: CXMT 약 8~9% 수준으로 레거시 제품에 집중"
+    ],
+    "signal": "bullish",
+    "signal_reason": "CXMT 우려가 과도한 기우로 확인됨에 따라 억눌렸던 SK하이닉스 및 삼성전자의 밸류에이션 리바운드가 기대되기 때문입니다.",
+    "key_companies": [
+      "CXMT",
+      "SK하이닉스",
+      "삼성전자",
+      "마이크론"
+    ],
+    "insight": "중국 반도체 굴기 노이즈는 레거시 영역에 한정되며, 첨단 HBM 생태계를 독점한 국내 기업의 실적 펀더멘털은 훼손되지 않았습니다.",
+    "action_point": "CXMT 노이즈로 급락한 국내 메모리 반도체 및 HBM 밸류체인 대표 종목의 저가 매수를 권고합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "CXMT",
+      "중국반도체",
+      "과창판",
+      "DUV",
+      "SOD"
+    ]
+  }
+}

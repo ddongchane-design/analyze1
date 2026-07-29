@@ -1,0 +1,41 @@
+{
+  "video": {
+    "id": "lKCUguooVwM",
+    "title": "반도체주 하락...미국증시 혼조 마감| 데일리 라이브 | 2026.7.27(월)",
+    "published": "2026-07-27T11:46:57+00:00",
+    "channel_name": "Smart Money by MiraeAsset ",
+    "url": "https://www.youtube.com/watch?v=lKCUguooVwM",
+    "thumbnail": "https://img.youtube.com/vi/lKCUguooVwM/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 증시가 반도체주 급락에도 불구하고 필수소비재 및 금융주의 강세로 <span class=\"text-amber-300 font-bold\">섹터 간 균형을 이루며 혼조 마감</span>했습니다.",
+    "key_claims": [
+      "엔비디아 및 마이크론 급락이 나스닥 지수를 끌어내렸으나 <span class=\"text-rose-400 font-medium\">지수 폭락은 방지</span>되었다.",
+      "S&P 500 동일가중 지수의 우위가 증명하듯 <span class=\"text-cyan-300 font-semibold\">수순환매 장세</span> 지속 전개.",
+      "빅테크 실적 발표를 앞두고 <span class=\"text-amber-300 font-bold\">투심 관망 및 업종 다변화</span> 강화."
+    ],
+    "data_points": [
+      "나스닥 지수: -0.18% 약보합 마감",
+      "필수소비재/헬스케어 섹터: +1.2% 상승하며 반도체 약세 상쇄"
+    ],
+    "signal": "neutral",
+    "signal_reason": "섹터 로테이션으로 시장 전체 붕괴 위험은 낮으나 기술주의 단기 변동성이 이어지기 때문입니다.",
+    "key_companies": [
+      "미래에셋증권"
+    ],
+    "insight": "반도체 일변도의 장세에서 벗어나 시장 자금이 다양한 우량 실적주로 분산되는 건강한 조정 과정입니다.",
+    "action_point": "기술주 편중 포트폴리오를 필수소비재 및 우량 밸류주로 일부 다변화할 것을 권고합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "미국증시혼조",
+      "반도체하락",
+      "미래에셋",
+      "데일리라이브"
+    ]
+  }
+}

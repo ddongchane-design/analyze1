@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "DaaqJSNcWqU",
+    "title": "중국 반도체·AI 투자 둔화까지 반영…삼전닉스 과도하게 빠졌다ㅣ김장열 유니스토리자산운용 리서치센터장 [집중 오늘의 주식]",
+    "published": "2026-07-28T11:30:17+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=DaaqJSNcWqU",
+    "thumbnail": "https://img.youtube.com/vi/DaaqJSNcWqU/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "중국 반도체 투자 둔화 및 AI 피크아웃 우려가 선반영되어 <span class=\"text-cyan-300 font-semibold\">삼성전자와 SK하이닉스 주가가 펀더멘털 대비 과도하게 하락</span>한 극저평가 구간입니다.",
+    "key_claims": [
+      "HBM 공급 부족과 레거시 DRAM 판가 상승 기조는 견조하며 <span class=\"text-cyan-300 font-semibold\">영업이익 호조세</span>는 지속된다.",
+      "중국 DUV 우려 및 빅테크 CapEx 속도조절론은 시장의 <span class=\"text-rose-400 font-medium\">과도한 감정적 투매</span>를 유발했다.",
+      "현재 주가 수준은 실적 가시성 대비 <span class=\"text-amber-300 font-bold\">강력한 가격 메리트</span>를 제공한다."
+    ],
+    "data_points": [
+      "SK하이닉스 PBR: 최근 낙폭 과대로 역사적 평균 이하 하락",
+      "메모리 반도체 2분기 영업이익률: HBM 비중 확대로 35% 이상 폭증"
+    ],
+    "signal": "bullish",
+    "signal_reason": "실적 호조에도 불구하고 심리적 투매로 주가가 급락한 현 시점은 매우 매력적인 저가 매수 기회이기 때문입니다.",
+    "key_companies": [
+      "삼성전자",
+      "SK하이닉스",
+      "유니스토리자산운용"
+    ],
+    "insight": "노이즈에 의한 일시적 투매 국면은 실적 펀더멘털이 확실한 반도체 대장주의 지분을 확대할 최적의 타이밍입니다.",
+    "action_point": "삼성전자 및 SK하이닉스의 분할 저가 매수를 적극 추진할 것을 권고합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "삼성전자",
+      "SK하이닉스",
+      "과도한낙폭",
+      "삼프로TV",
+      "김장열"
+    ]
+  }
+}

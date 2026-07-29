@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "ppxqGKs9KgM",
+    "title": "[Z1뉴스 LIVE] 시장 상황과 중국과 미국",
+    "published": "2026-07-28T02:51:19+00:00",
+    "channel_name": "이효석아카데미",
+    "url": "https://www.youtube.com/watch?v=ppxqGKs9KgM",
+    "thumbnail": "https://img.youtube.com/vi/ppxqGKs9KgM/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국과 중국 간의 반도체 및 AI 기술 패권 전쟁이 <span class=\"text-violet-300 font-medium\">글로벌 공급망 재편과 자산 시장 변동성</span>을 지속해서 유도하고 있습니다.",
+    "key_claims": [
+      "미국의 대중 반도체 제재와 중국의 DUV/레거시 국산화 시도가 <span class=\"text-violet-300 font-medium\">지정학적 리스크</span>를 고착화한다.",
+      "미중 기술 분리로 인한 글로벌 공급망 이원화가 <span class=\"text-rose-400 font-medium\">기업들의 설비 투자 비용을 가중</span>시킨다.",
+      "한국 기업들은 미중 사의에서 <span class=\"text-cyan-300 font-semibold\">전략적 반사이익과 수급 변동성</span>을 동시에 경험하고 있다."
+    ],
+    "data_points": [
+      "미중 기술 제재 품목: 첨단 EUV 노광장비 및 HBM 메모리 포함",
+      "글로벌 공급망 재편 비용: 주요 기업 생산 거점 분산으로 CapEx 15% 증가"
+    ],
+    "signal": "neutral",
+    "signal_reason": "지정학적 불확실성이 상존하나, 우방국 공급망 중심의 한국 반도체/배터리 반사이익 기회도 명확하기 때문입니다.",
+    "key_companies": [
+      "이효석아카데미"
+    ],
+    "insight": "미중 패권 전쟁 속에서는 우방국 밸류체인에 포함된 정밀 제조업체들의 가치가 더욱 부각됩니다.",
+    "action_point": "지정학적 리스크에 둔감하고 미국 우방국 공급망에 직결된 소부장 우량주 중심의 투자 전략이 유효합니다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "미중갈등",
+      "시장상황",
+      "이효석아카데미",
+      "Z1뉴스",
+      "패권경쟁"
+    ]
+  }
+}
