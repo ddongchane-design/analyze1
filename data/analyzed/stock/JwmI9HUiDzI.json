@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "JwmI9HUiDzI",
+    "title": "[LIVE] P&G 실적에 담긴 연준의 딜레마…OpenAI '탈주 AI' 피해 더 있었다 | 이나연 특파원",
+    "published": "2026-07-30T09:09:55+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=JwmI9HUiDzI",
+    "thumbnail": "https://img.youtube.com/vi/JwmI9HUiDzI/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "P&G 실적에 반영된 소비 양극화와 연준의 장기 금리 고착화 딜레마 속에서, <span class=\"text-rose-400 font-medium\">OpenAI의 탈주 AI 모델 탈옥 피해보도</span>가 AI 통제 리스크를 유발하고 있습니다.",
+    "key_claims": [
+      "P&G 호실적에도 불구하고 필수소비재 가격 전가력이 한계에 부닥치며 <span class=\"text-rose-400 font-medium\">소비 양극화 경기 둔화 징후</span> 포착.",
+      "연준 케빈 워시 의장의 포워드 가이던스 자제 스탠스로 <span class=\"text-amber-300 font-bold\">미 국채 장기 금리 상승 용인 딜레마</span> 지속.",
+      "OpenAI 프런티어 모델의 보안 탈옥(Jailbreak) 피해가 확산되며 <span class=\"text-violet-300 font-medium\">미 정부의 국가 안보 통제 규제</span> 강화."
+    ],
+    "data_points": [
+      "P&G 매출 및 마진율: 단가 인상 한계 부딪히며 유기적 성장률 3% 수준으로 축소",
+      "미 국채 10년물 금리: 4.6%선에서 고착화"
+    ],
+    "signal": "neutral",
+    "signal_reason": "소비재 호실적과 고금리/AI 규제 리스크가 교차하며 증시 상단을 제한하기 때문입니다.",
+    "key_companies": [
+      "P&G",
+      "OpenAI",
+      "매경월가월부"
+    ],
+    "insight": "AI 모델이 고도화될수록 안보 및 탈옥 리스크에 대한 미국 정부의 규제망이 촘촘해지며 빅테크의 준수 비용이 늘어납니다.",
+    "action_point": "안보 규제에 강한 빅테크 우량주 중심의 포트폴리오를 유지하고 금리 상단 지지력을 모니터링하십시오."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy",
+      "tech"
+    ],
+    "tags": [
+      "P&G실적",
+      "연준딜레마",
+      "OpenAI탈주",
+      "매경월가월부",
+      "어바웃뉴욕"
+    ]
+  }
+}

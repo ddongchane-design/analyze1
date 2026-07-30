@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "Of_LDvvZmYA",
+    "title": "한국을 거대한 AI 공장으로… 엔비디아가 한국 전체를 AI로 묶는 이유 | 삼성·SK·현대차·네이버의 역할 | 샌프란시스코 AI Summit",
+    "published": "2026-07-30T07:44:44+00:00",
+    "channel_name": "안될공학 - IT 테크 신기술",
+    "url": "https://www.youtube.com/watch?v=Of_LDvvZmYA",
+    "thumbnail": "https://img.youtube.com/vi/Of_LDvvZmYA/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "샌프란시스코 AI Summit에서 엔비디아가 <span class=\"text-cyan-300 font-semibold\">한국 전체를 거대한 AI 인프라 및 피지컬 로봇 공장</span>으로 묶는 대규모 한국 기업 동맹을 구체화했습니다.",
+    "key_claims": [
+      "엔비디아는 삼성(파운드리/HBM), SK(HBM), 현대차(피지컬AI/자율주행), 네이버(소버린AI)를 <span class=\"text-cyan-300 font-semibold\">글로벌 AI 풀스택 동맹</span>으로 통합.",
+      "한국의 정밀 제조 하드웨어와 엔비디아의 CUDA/Omniverse 소프트웨어가 결합해 <span class=\"text-amber-300 font-bold\">글로벌 AI 공장 모델</span> 구축.",
+      "K-반도체와 K-제조업이 엔비디아 생태계의 <span class=\"text-cyan-300 font-semibold\">대체 불가능한 핵심 하드웨어 기둥</span>으로 안착."
+    ],
+    "data_points": [
+      "샌프란시스코 AI Summit 발표: 엔비디아-한국 주요 대기업 4사 풀스택 협력 프로젝트 발표",
+      "HBM 및 피지컬 AI 칩 공급량: 2027년까지 전량 사전 수주 확정"
+    ],
+    "signal": "bullish",
+    "signal_reason": "엔비디아가 한국을 독점적 HW 파트너로 격상시킴에 따라 반도체, 자동차, IT 대표주들의 이익 가시성이 가파르게 상향되기 때문입니다.",
+    "key_companies": [
+      "엔비디아",
+      "삼성전자",
+      "SK하이닉스",
+      "현대차",
+      "네이버"
+    ],
+    "insight": "엔비디아는 한국을 단순 칩 구매자가 아니라 글로벌 AI 인프라와 피지컬 로봇을 동시 공급하는 핵심 제조 거점으로 점지했습니다.",
+    "action_point": "엔비디아 동맹의 중심축인 SK하이닉스, 삼성전자, 현대차 중심의 포트폴리오 비중 확대를 강력 권고합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock",
+      "robot"
+    ],
+    "tags": [
+      "엔비디아한국동맹",
+      "AI공장",
+      "SF_AI_Summit",
+      "삼성SK현대차네이버",
+      "안될공학"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "R4KQIYGwi_w",
+    "title": "머스크의 한마디가 바꿨다… Cybercab 성공하면 현대차와 테슬라, 다시 만날까?",
+    "published": "2026-07-30T10:45:19+00:00",
+    "channel_name": "엔지니어TV",
+    "url": "https://www.youtube.com/watch?v=R4KQIYGwi_w",
+    "thumbnail": "https://img.youtube.com/vi/R4KQIYGwi_w/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "일론 머스크의 Cybercab 상용화 발언으로 <span class=\"text-cyan-300 font-semibold\">현대차와 테슬라의 자율주행 위탁 생산 및 부품 파트너십</span> 재결합 가능성이 부각되고 있습니다.",
+    "key_claims": [
+      "테슬라의 Cybercab 양산을 위해 <span class=\"text-cyan-300 font-semibold\">글로벌 완성차(현대차 등) 파운드리 위탁 생산</span> 타진.",
+      "테슬라 FSD 생태계 확장이 <span class=\"text-amber-300 font-bold\">자율주행 센서, 카메라, 부품 밸류체인</span> 수요 폭증 유발.",
+      "현대차그룹의 수직통합 제조 역량이 <span class=\"text-cyan-300 font-semibold\">글로벌 모빌리티 빅테크의 핵심 러브콜 대상</span>."
+    ],
+    "data_points": [
+      "Cybercab 양산 목표 시점: 2026~2027년 연간 백만 대 체제 구축",
+      "현대차 글로벌 생산 플랫폼 가동률: 미국 E-GMP 공장 가동률 호조"
+    ],
+    "signal": "bullish",
+    "signal_reason": "테슬라의 자율주행 상용화 가속이 현대차 및 국내 자율주행 소부장 기업들의 주가 재평가를 이끌기 때문입니다.",
+    "key_companies": [
+      "테슬라",
+      "현대차",
+      "엔지니어TV"
+    ],
+    "insight": "테슬라가 자율주행 모빌리티 시대를 열수록, 이를 안정적으로 생산할 수 있는 한국 대표 자동차 및 부품사의 가치가 치솟습니다.",
+    "action_point": "현대차 및 테슬라 자율주행 카메라, 센서 공급망 대표주 중심의 중장기 투자를 추천합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "robot",
+      "stock"
+    ],
+    "tags": [
+      "머스크Cybercab",
+      "현대차테슬라",
+      "자율주행동맹",
+      "로보택시",
+      "엔지니어TV"
+    ]
+  }
+}
