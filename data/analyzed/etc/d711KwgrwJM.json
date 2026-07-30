@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "d711KwgrwJM",
+    "title": "슈퍼 태풍 돌핀, 한중일 셋 중 어디로? 태풍 돌핀 진로 시나리오!",
+    "published": "2026-07-30T11:00:04+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=d711KwgrwJM",
+    "thumbnail": "https://img.youtube.com/vi/d711KwgrwJM/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "해수면 심층 해양 열용량(D26) 수심 확대로 슈퍼 태풍 '돌핀'의 <span class=\"text-amber-300 font-bold\">급강화(24시간 내 풍속 초속 20m+ 급증)</span> 현상이 나타난 가운데, 북대평양 고기압 위치에 따른 진로 시나리오와 재난 대비 수칙을 설명합니다.",
+    "key_claims": [
+      "기후 변화로 26도 이상 수심이 깊어지면서(D26 80m+) 태풍이 찬물과 섞이지 않고 <span class=\"text-amber-300 font-bold\">초강력(강도 5) 급강화</span>를 이뤄냈다.",
+      "한중일 진로는 태풍 자체 세력보다 <span class=\"text-cyan-300 font-semibold\">북대평양 고기압 서쪽 가장자리의 확장 수치</span>에 의해 최종 결정된다.",
+      "지하 주차장 차 빼기 자제, 만조 시각과 상륙 시각 겹침 확인, <span class=\"text-rose-400 font-medium\">태풍의 눈 통과 직후 일시적 소강 시 외출 금지</span>가 생존의 핵심이다."
+    ],
+    "data_points": [
+      "태풍 돌핀 강도: 중심 기압 915hPa, 최대 풍속 초속 55m (기상청 강도 5 최고 단계)",
+      "태풍 에너지 규모: 하루 잠열 내놓는 에너지 약 600TW (인류 전체 전력 소비의 30배)",
+      "역대 최대 강수량 기록: 2002년 태풍 루사 강릉 하루 870.5mm 쏟아짐"
+    ],
+    "signal": "neutral",
+    "signal_reason": "자연 재해 기후 리스크에 관한 분석 정보이며, 대형 태풍 진로의 고기압 영향성을 조심스럽게 모니터링해야 하기 때문입니다.",
+    "key_companies": ["기상청", "안될과학", "NOAA"],
+    "insight": "지구 온난화로 인한 심해 열용량 증가는 향후 고위도 태풍의 세력 유지력을 높여 재해 방재 시스템과 지하시설 안전 규제의 전면 재정비를 요구하고 있습니다.",
+    "action_point": "해안가 저지대 및 지하시설 만조 시각 겹침 위험을 상시 점검하고 재난 가이드라인을 준수하십시오."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "space",
+      "economy"
+    ],
+    "tags": [
+      "태풍돌핀",
+      "슈퍼태풍",
+      "급강화",
+      "북대평양고기압",
+      "기후변화",
+      "안될과학"
+    ]
+  }
+}
