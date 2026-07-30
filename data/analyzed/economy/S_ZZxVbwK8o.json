@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "S_ZZxVbwK8o",
+    "title": "한국 보유세 낮다고? 직접 계산해봤습니다 (싱가포르국립대 경영대학 부동산학과 이관옥 교수) (1부)",
+    "published": "2026-07-29T07:55:15+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=S_ZZxVbwK8o",
+    "thumbnail": "https://img.youtube.com/vi/S_ZZxVbwK8o/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "한국의 부동산 보유세 실효 세율을 싱가포르 등 글로벌 기준과 실증 비교하여 <span class=\"text-cyan-300 font-semibold\">실질 조세 부담과 부동산 가격에 미치는 영향</span>을 심층 분석합니다.",
+    "key_claims": [
+      "명목 보유세율과 달리 실효 보유세율은 <span class=\"text-cyan-300 font-semibold\">공시가격 현실화율과 자산 가격</span>에 따라 좌우된다.",
+      "한국 보유세 구조는 거래세(취득세/양도세) 대비 <span class=\"text-amber-300 font-bold\">상대적 균형점 찾기</span>가 진행 중이다.",
+      "조세 정책 변화가 <span class=\"text-violet-300 font-medium\">부동산 자산 양극화 및 똘똘한 한 채 선호</span>를 강화한다."
+    ],
+    "data_points": [
+      "한국 부동산 실효 보유세율: 약 0.15%~0.25% 수준 (미국 1% 대비 낮으나 거래세 높음)",
+      "싱가포르 누진 보유세율: 고가 주택 대상 최고 36% 적용"
+    ],
+    "signal": "neutral",
+    "signal_reason": "조세 정책이 부동산 자산 시장의 대세 상승을 결정하기보다 양극화를 유도하는 변수이기 때문입니다.",
+    "key_companies": [
+      "싱가포르국립대",
+      "언더스탠딩"
+    ],
+    "insight": "보유세와 거래세의 조세 조합은 부동산 시장의 거래량과 핵심 입지 쏠림 현상을 결정하는 중요 요인입니다.",
+    "action_point": "부동산 리츠 및 자산 관리 전략 수립 시 실효 조세 부담과 정책 가이던스를 면밀히 반영하십시오."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "etc"
+    ],
+    "tags": [
+      "한국보유세",
+      "부동산보유세",
+      "이관옥교수",
+      "언더스탠딩",
+      "부동산조세"
+    ]
+  }
+}

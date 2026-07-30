@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "gdtYv4LnarE",
+    "title": "\"개인은 숏 못 칩니다\"... 알상무가 전하는 현실 조언 #교양이를부탁해 #반도체 #AI버블 #코스피폭락 #외국인매도 #숏돌이 #알상무",
+    "published": "2026-07-29T11:30:22+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=gdtYv4LnarE",
+    "thumbnail": "https://img.youtube.com/vi/gdtYv4LnarE/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "하락장에서 개인 투자자가 숏(Short) 포지션으로 이익을 내기는 매우 어려우므로 <span class=\"text-cyan-300 font-semibold\">현금 비중 확보 및 우량주 장기 보유</span>가 최선의 전략입니다.",
+    "key_claims": [
+      "개인의 숏/인버스 투자는 타임 디케이와 수수료로 인해 <span class=\"text-rose-400 font-medium\">손실 확률이 극도로 높다</span>.",
+      "하락장에서는 섣부른 숏 포지션보다 <span class=\"text-amber-300 font-bold\">현금을 쥐고 바닥을 기다리는 것</span>이 정답이다.",
+      "장기 투자 관점에서 <span class=\"text-cyan-300 font-semibold\">실적주를 저렴하게 담는 전략</span>이 승리한다."
+    ],
+    "data_points": [
+      "개인 인버스/곱버스 상품 승률: 통계상 80% 이상 손실 기록",
+      "증시 복원력: 폭락 후 1년 이내 평균 85% 이상 이전 고점 회복"
+    ],
+    "signal": "bullish",
+    "signal_reason": "하락장 끝자락에서 파생 숏보다 우량 현물 주식의 장기 보유가 확실한 이익을 안겨주기 때문입니다.",
+    "key_companies": [
+      "교양이를부탁해"
+    ],
+    "insight": "파생 상품으로 시장 하락을 맞히려는 오만을 버리고, 펀더멘털을 가진 현물 자산을 지키는 것이 핵심입니다.",
+    "action_point": "인버스 및 레버리지 파생 매매를 지양하고 흑자 대형주 현물 매수를 유지하십시오."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "개인숏못침",
+      "알상무현실조언",
+      "교양이를부탁해",
+      "하락장대응",
+      "숏돌이"
+    ]
+  }
+}

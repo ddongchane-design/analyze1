@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "xA5W3TSPIIs",
+    "title": "왕따 아파트? 한 동만 빼고 재건축",
+    "published": "2026-07-29T14:15:32+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=xA5W3TSPIIs",
+    "thumbnail": "https://img.youtube.com/vi/xA5W3TSPIIs/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "재건축 추진 과정에서 분의금 갈등 및 입지적 이해관계로 <span class=\"text-rose-400 font-medium\">특정 동을 제외하고 진행하는 분리 재건축</span> 사례와 부동산 사업성 영향을 다룹니다.",
+    "key_claims": [
+      "분담금 갈등과 토지 지분율 이견으로 <span class=\"text-rose-400 font-medium\">한 동 제외 단독 재건축</span> 사례 증가.",
+      "분리 재건축 진행 시 <span class=\"text-cyan-300 font-semibold\">사업 속도는 빨라지나 단지 가치 훼손</span> 리스크 공존.",
+      "재건축 사업성의 핵심은 <span class=\"text-amber-300 font-bold\">속도와 조합원 간 합의 구조</span>에 있음."
+    ],
+    "data_points": [
+      "분리 재건축 소송 비율: 최근 재건축 단지 중 15% 이상 경험",
+      "재건축 사업 소요 기간: 합의 단지 5년 vs 갈등 단지 10년 이상 지연"
+    ],
+    "signal": "neutral",
+    "signal_reason": "재건축 속도는 빨라질 수 있으나 단지 완성도 차질이라는 양면성이 존재하기 때문입니다.",
+    "key_companies": [
+      "언더스탠딩"
+    ],
+    "insight": "부동산 재건축 투자 시 단지 전체의 합의율과 지분 갈등 여부가 실질적 사업 수익률을 결정합니다.",
+    "action_point": "재건축 아파트 투자 시 조합원 동의율과 분담금 합의 상태를 사전에 철저히 검증하십시오."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "왕따아파트",
+      "한동빼고재건축",
+      "부동산재건축",
+      "언더스탠딩",
+      "재건축갈등"
+    ]
+  }
+}

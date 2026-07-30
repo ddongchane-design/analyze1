@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "kY-VMYogl8U",
+    "title": "[26.07.29 오후 방송 전체보기] SK하이닉스 실적도 소용 없었다, 국내증시는 웁니다...시장 괴로움 언제까지?",
+    "published": "2026-07-29T10:58:35+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=kY-VMYogl8U",
+    "thumbnail": "https://img.youtube.com/vi/kY-VMYogl8U/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "SK하이닉스가 역대급 호실적을 발표했음에도 수급 악재로 주가가 하락하였으나, <span class=\"text-cyan-300 font-semibold\">실적과 주가의 괴리는 조만간 해소될 과매도 구간</span>입니다.",
+    "key_claims": [
+      "SK하이닉스의 어닝 서프라이즈에도 불구하고 <span class=\"text-rose-400 font-medium\">외국인 수급 매도로 주가 왜곡</span> 발생.",
+      "HBM3E 독점적 지위와 영업이익 폭증은 변함없어 <span class=\"text-amber-300 font-bold\">주가 펀더멘털 회복은 필연적</span>이다.",
+      "실적 미반영에 따른 억울한 하락은 <span class=\"text-cyan-300 font-semibold\">최상의 바닥 매수 신호</span>이다."
+    ],
+    "data_points": [
+      "SK하이닉스 2분기 영업이익: 5조 원 돌파 사상 최대급 기록",
+      "주가 반응: 호실적에도 불구하고 외국인 매도로 -3% 이상 하락"
+    ],
+    "signal": "bullish",
+    "signal_reason": "어닝 서프라이즈에도 불구하고 수급으로 왜곡된 주가는 반드시 펀더멘털로 수렴하기 때문입니다.",
+    "key_companies": [
+      "SK하이닉스",
+      "삼성전자"
+    ],
+    "insight": "실적이 잘 나왔는데 주가가 빠지는 것은 악재가 아니라 시장의 일시적 눈속임이며 강력한 매수 기회입니다.",
+    "action_point": "호실적이 확인된 SK하이닉스의 저가 매수 기회로 활용할 것을 적극 권고합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "오후방송",
+      "SK하이닉스실적",
+      "국내증시괴로움",
+      "삼프로TV",
+      "실적반영안됨"
+    ]
+  }
+}

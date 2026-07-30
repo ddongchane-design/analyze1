@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "hBroDVlzGD4",
+    "title": "달에 일부러 충돌한 이유?!",
+    "published": "2026-07-29T02:00:28+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=hBroDVlzGD4",
+    "thumbnail": "https://img.youtube.com/vi/hBroDVlzGD4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "인류가 달 표면에 탐사선을 의도적으로 충돌시킨 목적은 <span class=\"text-cyan-300 font-semibold\">달 내부 성분 분석 및 지하 얼음(수자원) 존재 입증</span>에 있었습니다.",
+    "key_claims": [
+      "인공 충돌 충격파 분석을 통해 <span class=\"text-cyan-300 font-semibold\">달 남극 지하의 대규모 얼음 수자원</span> 확인.",
+      "달 지각 성분 데이터를 바탕으로 <span class=\"text-amber-300 font-bold\">향후 달 기지 건설 및 영구 거주</span> 기반 마련.",
+      "우주 탐사 기술이 자원 추출 및 <span class=\"text-violet-300 font-medium\">우주 경제 상업화</span> 단계로 진화."
+    ],
+    "data_points": [
+      "달 충돌 탐사 미션: LCROSS 등 나사 충돌 미션 데이터 활용",
+      "달 얼음 매장량 예상: 수억 톤 규모의 수자원 존재 추정"
+    ],
+    "signal": "bullish",
+    "signal_reason": "달 수자원 확인이 심우주 탐사 및 우주 인프라 상업화의 경제성을 입증해주기 때문입니다.",
+    "key_companies": [
+      "NASA",
+      "SpaceX",
+      "안될과학"
+    ],
+    "insight": "달 자원 확보는 향후 화성 탐사 및 우주 경제의 전초기지로서 필수적인 경제적 가치를 가집니다.",
+    "action_point": "우주 탐사 소재, 위성 인프라 및 우주 방산 밸류체인에 지속적 관심이 필요합니다."
+  },
+  "classification": {
+    "primary_topic": "space",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "달충돌실험",
+      "우주탐사",
+      "달자원",
+      "안될과학",
+      "나사"
+    ]
+  }
+}

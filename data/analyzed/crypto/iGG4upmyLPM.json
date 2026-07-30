@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "iGG4upmyLPM",
+    "title": "온체인 주식에 SK하이닉스도 입성…한국 주식 토큰화, 글로벌 시장에서 벌어지는 일 | 서동주, 김동환, 이성산 솔라나 코리아 대표 [크립토 PLUS]",
+    "published": "2026-07-29T03:23:14+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=iGG4upmyLPM",
+    "thumbnail": "https://img.youtube.com/vi/iGG4upmyLPM/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "SK하이닉스 등 한국 주요 주식이 온체인 토큰화(RWA)로 글로벌 솔라나 등 블록체인에 입성하며 <span class=\"text-cyan-300 font-semibold\">24/7 글로벌 온체인 주식 거래</span> 시대가 열리고 있습니다.",
+    "key_claims": [
+      "솔라나 등 고속 온체인 프로토콜 상에서 <span class=\"text-cyan-300 font-semibold\">국내 대표 주식 토큰화(RWA)</span> 실증.",
+      "전 세계 투자자가 시공간 제약 없이 <span class=\"text-amber-300 font-bold\">24시간 K-주식 거래 접근성</span> 확보.",
+      "전통 금융 시장과 온체인 크립토 유동성의 <span class=\"text-violet-300 font-medium\">역사적 결합 전개</span>."
+    ],
+    "data_points": [
+      "솔라나 온체인 RWA 트랜잭션 속도: 초당 만 건 이상 고속 처리",
+      "토큰화 대상 주식: SK하이닉스, 삼성전자 등 코스피 시총 상위주"
+    ],
+    "signal": "bullish",
+    "signal_reason": "K-주식의 글로벌 유동성 접근성이 온체인을 통해 비약적으로 확장되기 때문입니다.",
+    "key_companies": [
+      "솔라나(Solana)",
+      "SK하이닉스",
+      "시큐리타이즈"
+    ],
+    "insight": "주식 토큰화는 글로벌 자본이 국내 우량 주식에 24시간 언제든 유입될 수 있는 혁신적 창구입니다.",
+    "action_point": "RWA 토큰화 플랫폼 및 온체인 금융 인프라 수혜 분야에 장기적 관점으로 접근하십시오."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "온체인주식",
+      "SK하이닉스토큰",
+      "주식토큰화",
+      "솔라나코리아",
+      "크립토PLUS"
+    ]
+  }
+}

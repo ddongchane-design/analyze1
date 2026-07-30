@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "n8Gx6PeHsio",
+    "title": "[박신영의 개장전요것만-7월29일] 마이크로소프트 공매도, AI 투자 우려에 11년 만에 최고치 | 주가 떨어져도 AI군비경쟁은 계속되나",
+    "published": "2026-07-29T14:18:36+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=n8Gx6PeHsio",
+    "thumbnail": "https://img.youtube.com/vi/n8Gx6PeHsio/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "마이크로소프트에 대한 공매도가 AI CapEx 지출 우려로 11년 만에 최고치를 기록했으나, <span class=\"text-cyan-300 font-semibold\">클라우드 수주잔고와 실적 상회</span>로 안도감을 안겼습니다.",
+    "key_claims": [
+      "AI CapEx 수익성 우려로 MSFT 공매도가 <span class=\"text-rose-400 font-medium\">11년 만에 최고 수준</span>까지 급증했다.",
+      "실제 실적 발표에서 클라우드(애저) 및 AI 매출이 <span class=\"text-cyan-300 font-semibold\">시장 전망을 상회하며 반전</span>을 이끌었다.",
+      "빅테크의 AI 군비 경쟁은 우려를 딛고 <span class=\"text-amber-300 font-bold\">지속적 성장 국면</span>을 유지 중이다."
+    ],
+    "data_points": [
+      "마이크로소프트 공매도 비율: 11년 만의 최고치 기록 후 실적 발표로 숏커버링 유출",
+      "애저(Azure) 클라우드 성장률: 30% 이상 고성장 유지"
+    ],
+    "signal": "bullish",
+    "signal_reason": "공매도 우려를 비웃듯 마이크로소프트의 클라우드 AI 매출이 견조하게 상회했기 때문입니다.",
+    "key_companies": [
+      "Microsoft",
+      "한경글로벌마켓"
+    ],
+    "insight": "AI 군비경쟁에 대한 우려는 크지만, 마이크로소프트처럼 클라우드 매출로 입증하는 기업은 흔들리지 않습니다.",
+    "action_point": "공매도 우려 해소 후 반등하는 마이크로소프트 등 플랫폼 핵심주의 장기 보유를 권고합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "마이크로소프트공매도",
+      "AI투자우려",
+      "개장전요것만",
+      "한경글로벌마켓",
+      "AI군비경쟁"
+    ]
+  }
+}

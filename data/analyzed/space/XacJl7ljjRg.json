@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "XacJl7ljjRg",
+    "title": "스페이스X 추락해도 머스크는 화성 간다 (스펙스 이강환 최고전략책임자) (2부)",
+    "published": "2026-07-29T12:25:02+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=XacJl7ljjRg",
+    "thumbnail": "https://img.youtube.com/vi/XacJl7ljjRg/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "스페이스X의 스타십 시험 발사 과정의 실패와 추락에도 불구하고 <span class=\"text-cyan-300 font-semibold\">빠른 반복 실증과 화성 이주 청사진</span>은 흔들림 없이 추진 중입니다.",
+    "key_claims": [
+      "스페이스X의 실패는 철저히 계획된 <span class=\"text-cyan-300 font-semibold\">데이터 수집형 실패(Fast Iteration)</span>이다.",
+      "머스크의 화성 이주 목표는 단순 이상이 아니라 <span class=\"text-amber-300 font-bold\">거대 수송 발사체 양산</span>으로 실현 단계 진입.",
+      "우주 발사 시장에서 독보적 수송 비용 절감으로 <span class=\"text-violet-300 font-medium\">우주 안보/산업 생태계 독점</span>."
+    ],
+    "data_points": [
+      "스타십 발사 횟수 및 데이터 수집: 반복 발사를 통해 수천 가지 시스템 개선",
+      "화성 수송 단가 목표: 톤당 수송 비용 기존 1/50 축소 목표"
+    ],
+    "signal": "bullish",
+    "signal_reason": "반복 시험을 통한 독보적 기술 격차가 우주 산업 전체의 독점력을 높여주기 때문입니다.",
+    "key_companies": [
+      "SpaceX",
+      "언더스탠딩"
+    ],
+    "insight": "스페이스X의 연쇄 발사 시험은 실패가 아니라 완벽한 발사체를 만들기 위한 가장 빠른 데이터 축적 과정입니다.",
+    "action_point": "우주 항공 및 저궤도 위성 통신 관련 밸류체인 기업에 대한 장기적 투자를 유지하십시오."
+  },
+  "classification": {
+    "primary_topic": "space",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "스페이스X추락",
+      "머스크화성",
+      "이강환",
+      "스펙스",
+      "언더스탠딩"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "5wM1z1034BU",
+    "title": "美 연준, 기준금리 3.50~3.75% 9대 3 동결 l 7월 FOMC 성명서 해설 및 기자회견 동시통역",
+    "published": "2026-07-29T20:28:46+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=5wM1z1034BU",
+    "thumbnail": "https://img.youtube.com/vi/5wM1z1034BU/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "연준이 7월 FOMC에서 <span class=\"text-cyan-300 font-semibold\">기준금리를 3.50~3.75%로 9대 3 동결</span>하였으나, 2016년 이후 최다 반대표(3명 인상 의견)가 출현하며 매파적 경계감이 고조되었습니다.",
+    "key_claims": [
+      "연준 위원 12명 중 <span class=\"text-rose-400 font-medium\">3명이 금리 인상 반대표</span>를 던지며 매파적 균열 표출.",
+      "케빈 워시 의장은 포워드 가이던스 제시를 피하며 <span class=\"text-amber-300 font-bold\">데이터 의존적 통화 정책</span> 강조.",
+      "인플레이션 우려가 잔존하나 <span class=\"text-cyan-300 font-semibold\">시장 불확실성 1차 해소</span>로 해석."
+    ],
+    "data_points": [
+      "기준금리 동결 수준: 3.50% ~ 3.75% 유지",
+      "투표 결과: 9대 3 (3명 금리 인상 찬성표 제출)"
+    ],
+    "signal": "neutral",
+    "signal_reason": "금리 동결로 단기 불확실성은 낮아졌으나 매파적 반대표 출현으로 추가 긴축 경계감이 상존하기 때문입니다.",
+    "key_companies": [
+      "연준(Fed)",
+      "매경월가월부"
+    ],
+    "insight": "만장일치 동결이 아닌 3표의 매파적 반대표 출현은 향후 통화 정책의 변동성 요인이 될 수 있습니다.",
+    "action_point": "FOMC 이후 국채 금리 및 환율 변동성을 관찰하며 고배당주 및 우량 밸류주 비중을 유지하십시오."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "7월FOMC",
+      "금리동결",
+      "기준금리",
+      "매파적동결",
+      "매경월가월부"
+    ]
+  }
+}

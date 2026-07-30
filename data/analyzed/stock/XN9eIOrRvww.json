@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "XN9eIOrRvww",
+    "title": "[김종학의 뉴욕, 지금-7월30일] FOMC 금리 동결..2016년 이후 최다 반대표 | 메타, MSFT, 퀄컴, ARM, 로빈후드, 포티넷, 암페놀, 소파이, BSX, 치폴레",
+    "published": "2026-07-29T21:16:22+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=XN9eIOrRvww",
+    "thumbnail": "https://img.youtube.com/vi/XN9eIOrRvww/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "7월 FOMC의 2016년 이후 최다 매파 반대표(3명) 속에서도, <span class=\"text-cyan-300 font-semibold\">마이크로소프트의 실적 상회 및 퀄컴/ARM 등 빅테크 실적</span>이 증시를 이끌었습니다.",
+    "key_claims": [
+      "FOMC에서 3명의 금리 인상 반대표가 출현하며 <span class=\"text-rose-400 font-medium\">매파적 동결 성명</span> 발표.",
+      "마이크로소프트 실적 상회가 기술주 하방을 지지했으나 <span class=\"text-rose-400 font-medium\">메타의 가이던스 보수성</span>으로 시간에 혼조.",
+      "빅테크 간 실적 차별화 속에 <span class=\"text-amber-300 font-bold\">어닝 서프라이즈 종목으로 자금 이동</span> 격화."
+    ],
+    "data_points": [
+      "FOMC 반대표: 2016년 이후 최대인 3명의 위원이 금리 인상 표 던짐",
+      "마이크로소프트 / 메타 시간 외 주가: MSFT +4% 상승 vs Meta -6% 하락"
+    ],
+    "signal": "bullish",
+    "signal_reason": "매파적 연준 성명 악재에도 불구하고 마이크로소프트 등 핵심 빅테크 실적이 시장을 방어해주기 때문입니다.",
+    "key_companies": [
+      "Microsoft",
+      "Meta",
+      "Qualcomm",
+      "ARM",
+      "한경글로벌마켓"
+    ],
+    "insight": "연준의 매파적 포지션보다 빅테크 기업들의 실제 영업이익 지표가 시장 향방을 결정짓고 있습니다.",
+    "action_point": "어닝 서프라이즈를 달성한 마이크로소프트 등 실적 선도 기술주 중심의 투자를 권고합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "김종학뉴욕지금",
+      "FOMC동결반대표",
+      "메타실적",
+      "MSFT실적",
+      "한경글로벌마켓"
+    ]
+  }
+}

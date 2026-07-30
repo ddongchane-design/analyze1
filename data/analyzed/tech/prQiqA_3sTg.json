@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "prQiqA_3sTg",
+    "title": "오픈 AI 위기설? 시장이 두려워하는 최악의 시나리오 #교양이를부탁해 #반도체 #AI버블 #코스피폭락 #외국인매도 #숏돌이 #알상무",
+    "published": "2026-07-29T10:30:01+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=prQiqA_3sTg",
+    "thumbnail": "https://img.youtube.com/vi/prQiqA_3sTg/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "오픈AI의 천문학적 적자와 비영리 구조 마찰로 <span class=\"text-rose-400 font-medium\">오픈AI 위기설 및 최악의 AI 캐즘 시나리오</span>에 대한 시장의 경계감이 존재합니다.",
+    "key_claims": [
+      "오픈AI의 연간 50억 달러 적자와 거대한 모델 훈련 비용이 <span class=\"text-rose-400 font-medium\">재정적 한계</span>를 유발한다.",
+      "오픈AI 구조조정 및 영리 법인 전환 차질 시 <span class=\"text-rose-400 font-medium\">글로벌 AI 투심에 단기 쇼크</span> 가능성.",
+      "마이크로소프트 등 빅테크 파트너십을 통한 <span class=\"text-cyan-300 font-semibold\">수익 구조 전환이 시급</span>한 과제이다."
+    ],
+    "data_points": [
+      "오픈AI 연간 소모 현금(Burn rate): 약 50억 달러 적자 추정",
+      "MSFT의 오픈AI 지분 및 클라우드 연계: 130억 달러 투자 집행"
+    ],
+    "signal": "neutral",
+    "signal_reason": "오픈AI 재정 리스크 우려가 있으나 마이크로소프트의 구원 및 수익화 전환 시도가 진행 중이기 때문입니다.",
+    "key_companies": [
+      "OpenAI",
+      "Microsoft"
+    ],
+    "insight": "스타트업 형태의 AI 모델 개발사는 자금난 위험에 노출될 수 있으나, 현금이 풍부한 빅테크가 이를 흡수할 것입니다.",
+    "action_point": "단독 AI 모델 개발사보다는 현금 창출 능력이 우수한 빅테크 클라우드 기업 중심의 포트폴리오를 유지하십시오."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "오픈AI위기설",
+      "최악의시나리오",
+      "교양이를부탁해",
+      "AI버블",
+      "알상무"
+    ]
+  }
+}

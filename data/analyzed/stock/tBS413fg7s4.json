@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "tBS413fg7s4",
+    "title": "[7월 29일 마감시황] 실적보다 먼저 반응한 시장…투자자들이 놓친 신호는?ㅣ홍선애, 이권희, 장우진 [클로징벨 라이브]",
+    "published": "2026-07-29T08:22:13+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=tBS413fg7s4",
+    "thumbnail": "https://img.youtube.com/vi/tBS413fg7s4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "증시가 실적 발표 전 공포 심리로 선반영되어 낙폭을 키웠으나, <span class=\"text-cyan-300 font-semibold\">실적 확인 후 시장 안도감과 이격 회복</span>이 기대됩니다.",
+    "key_claims": [
+      "실적 공개 전 과도한 악재 선반영으로 <span class=\"text-rose-400 font-medium\">지수 과매도 이격 발생</span>.",
+      "실제 주요 기업들의 2분기 영업이익은 <span class=\"text-cyan-300 font-semibold\">시장의 우려보다 훨씬 양호</span>하다.",
+      "실적 신호 확인 후 <span class=\"text-amber-300 font-bold\">빠른 기술적 복원력</span>이 연출될 전망."
+    ],
+    "data_points": [
+      "S&P 500 기업 어닝 서프라이즈 비율: 78% 기록",
+      "코스피 상장사 2분기 영업이익 합계: 전년 대비 40% 이상 성장"
+    ],
+    "signal": "bullish",
+    "signal_reason": "실적 악재 선반영이 끝난 후 양호한 실제 실적이 주가 반등의 강한 촉매가 될 것이기 때문입니다.",
+    "key_companies": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "insight": "실적 발표 전의 공포는 종종 시장이 제공하는 가장 저렴한 매수 기회로 작용합니다.",
+    "action_point": "실적 확인 후 반등 모멘텀이 강한 시가총액 상위주 위주로 매수 대응을 추천합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "마감시황",
+      "실적보다선반응",
+      "놓친신호",
+      "클로징벨",
+      "삼프로TV"
+    ]
+  }
+}

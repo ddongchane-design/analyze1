@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "s2vwCq8zT-A",
+    "title": "[문지웅의 빅머니 LIVE] 실적도 가이던스 나빴다...메타 시간외 급락 | 마소 시장전망 훌쩍넘긴 실적에 시장 환호",
+    "published": "2026-07-29T21:51:09+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=s2vwCq8zT-A",
+    "thumbnail": "https://img.youtube.com/vi/s2vwCq8zT-A/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "메타가 가이던스 미흡으로 시간 외 급락한 반면, 마이크로소프트는 <span class=\"text-cyan-300 font-semibold\">클라우드 실적 호조로 시장 전망을 상회하며 환호</span>를 받았습니다.",
+    "key_claims": [
+      "메타는 AI CapEx 증가 대비 주력 광고 가이던스 보수적 제시로 <span class=\"text-rose-400 font-medium\">시간 외 급락</span>.",
+      "마이크로소프트는 애저(Azure) 클라우드 AI 매출 급증으로 <span class=\"text-cyan-300 font-semibold\">실적 서프라이즈 달성</span>.",
+      "빅테크 내에서도 <span class=\"text-amber-300 font-bold\">실질 수익화 속도에 따라 주가 엇갈림</span> 극명화."
+    ],
+    "data_points": [
+      "마이크로소프트 시간 외 주가: 실적 발표 후 +4% 상승",
+      "메타 시간 외 주가: CapEx 부담 및 가이던스 보수성에 -6% 하락"
+    ],
+    "signal": "bullish",
+    "signal_reason": "마이크로소프트의 클라우드 실적 호조가 AI 생태계의 실질적 이익 창출 능력을 증명해주었기 때문입니다.",
+    "key_companies": [
+      "Microsoft",
+      "Meta",
+      "매경월가월부"
+    ],
+    "insight": "CapEx 지출이 많은 기업이라도 마이크로소프트처럼 클라우드 매출로 바로 입증하는 기업이 주가 상승을 주도합니다.",
+    "action_point": "실적과 가이던스가 검증된 마이크로소프트의 비중을 늘리고 메타의 주가 안정화를 확인하십시오."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "메타급락",
+      "마소실적환호",
+      "빅머니LIVE",
+      "문지웅",
+      "매경월가월부"
+    ]
+  }
+}

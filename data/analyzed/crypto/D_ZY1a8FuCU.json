@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "D_ZY1a8FuCU",
+    "title": "클래리티 법안 지연… 코인시장 흔들리나 | 서동주, 김동환, 박상혁 디지털애셋 편집장 [크립토 PLUS]",
+    "published": "2026-07-29T03:04:48+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=D_ZY1a8FuCU",
+    "thumbnail": "https://img.youtube.com/vi/D_ZY1a8FuCU/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미 상원에서 클래리티 법안(Clarity Act) 처리가 밀리면서 <span class=\"text-rose-400 font-medium\">크립토 규제 불확실성에 따른 단기 약세</span>가 연출되었습니다.",
+    "key_claims": [
+      "러시아 제재 법안 우선 처리로 <span class=\"text-rose-400 font-medium\">클래리티 법안의 8월 내 통과 무산</span>.",
+      "법안 지연으로 가상자산 제도권 편입 일정에 <span class=\"text-rose-400 font-medium\">단기 노이즈</span> 발생.",
+      "9월 재개 시 명확한 규제 가이드라인이 완성되면 <span class=\"text-amber-300 font-bold\">장기 호재로 재전환</span>될 전망."
+    ],
+    "data_points": [
+      "상원 휴회 일정: 8월 7일부터 여름 휴회 진입",
+      "비트코인 가격 영향: 62,000~64,000달러 박스권 횡보"
+    ],
+    "signal": "neutral",
+    "signal_reason": "법안 지연에 따른 단기 수급 위축은 있으나 제도권 법안 논의 자체는 9월에 지속되기 때문입니다.",
+    "key_companies": [
+      "디지털애셋",
+      "Coinbase"
+    ],
+    "insight": "크립토 규제 법안의 지연은 일시적 일정 연기일 뿐, 제도권 편입이라는 거대한 대세는 불변합니다.",
+    "action_point": "단기 조정을 활용해 비트코인 및 가상자산 대표 인프라 종목의 관망 후 매수 접근을 권고합니다."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "클래리티법안",
+      "코인시장흔들",
+      "크립토PLUS",
+      "디지털애셋",
+      "삼프로TV"
+    ]
+  }
+}

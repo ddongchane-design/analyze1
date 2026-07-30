@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "bcn9WFX8AJs",
+    "title": "빅테크의 현금 흐름이 달라졌다…한국 증시 반등을 결정할 변수?ㅣ명민준, 박가영, 정태근 [주린이 구조대]",
+    "published": "2026-07-29T13:30:16+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=bcn9WFX8AJs",
+    "thumbnail": "https://img.youtube.com/vi/bcn9WFX8AJs/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 빅테크의 자유현금흐름(FCF) 변화와 CapEx 속도 조절이 <span class=\"text-cyan-300 font-semibold\">한국 반도체 및 증시 반등의 결정적 변수</span>로 작동하고 있습니다.",
+    "key_claims": [
+      "빅테크의 FCF 추이가 AI 투자 지속성 및 <span class=\"text-cyan-300 font-semibold\">한국 반도체 수주</span>를 결정한다.",
+      "CapEx 지출 부담 완화와 FCF 회복 신호가 나오면 <span class=\"text-amber-300 font-bold\">국내 증시의 가파른 반등</span>이 전개된다.",
+      "실질 현금 흐름을 창출하는 <span class=\"text-cyan-300 font-semibold\">빅테크 펀더멘털 확인</span>이 선행되어야 함."
+    ],
+    "data_points": [
+      "빅테크 전체 FCF 합계: CapEx 증가에도 1,500억 달러 이상 유지",
+      "한국 반도체 수출 연동성: 빅테크 FCF와 80% 이상 고 correlation"
+    ],
+    "signal": "bullish",
+    "signal_reason": "빅테크의 현금 창출 능력이 탄탄하여 하반기 반도체 설비 투자 기조가 유지될 것이기 때문입니다.",
+    "key_companies": [
+      "마이크로소프트",
+      "메타",
+      "SK하이닉스",
+      "삼성전자"
+    ],
+    "insight": "빅테크의 FCF가 건강하다면 AI 투자 피크아웃 우려는 일시적 노이즈에 그칠 것입니다.",
+    "action_point": "빅테크 실적 발표에서 FCF 지표 확인 후 한국 반도체 대장주의 비중을 확대하십시오."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "빅테크현금흐름",
+      "FCF",
+      "국장반등변수",
+      "주린이구조대",
+      "삼프로TV"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "6Xpzw8HYclQ",
+    "title": "[어바웃 뉴욕] 뉴욕 최고 명당에서도 미슐랭 셰프는 못 버텼다, 그 자리에 ‘풍선’이 들어온 이유 | 이나연 특파원",
+    "published": "2026-07-29T03:00:38+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=6Xpzw8HYclQ",
+    "thumbnail": "https://img.youtube.com/vi/6Xpzw8HYclQ/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "뉴욕 초고가 명당 상권에서 미슐랭 셰프 식당마저 임대료와 고물가를 견디지 못하고 철수하며, <span class=\"text-rose-400 font-medium\">상업용 부동산 고비용 리스크</span>를 단적으로 보여줍니다.",
+    "key_claims": [
+      "뉴욕 상업용 임대료 및 인건비 폭증으로 <span class=\"text-rose-400 font-medium\">전통 고급 요식업체의 폐업</span> 가속화.",
+      "고정비 부담이 적은 팝업스토어 및 체험형 엑티비티 매장이 <span class=\"text-cyan-300 font-semibold\">대체 임차인으로 부상</span>.",
+      "상업용 부동산 시장의 <span class=\"text-amber-300 font-bold\">양극화 및 구조 재편</span> 진행."
+    ],
+    "data_points": [
+      "뉴욕 명품 거리 임대료 상승률: 전년 대비 15% 이상 폭등",
+      "요식업 평균 영업이익률: 고물가로 인해 3% 이하로 축소"
+    ],
+    "signal": "bearish",
+    "signal_reason": "고물가 및 임대료 폭등이 실물 자영업 및 상업용 부동산 임대 시장에 부담으로 작동하기 때문입니다.",
+    "key_companies": [
+      "매경월가월부"
+    ],
+    "insight": "상업용 부동산의 고비용 구조는 오프라인 매장의 패러다임을 체험형 팝업 중심으로 바꾸고 있습니다.",
+    "action_point": "전통 리츠 및 오프라인 유통 리츠 투자 시 상권별 임대율과 고정비 구조를 꼼꼼히 점검하십시오."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "어바웃뉴욕",
+      "뉴욕상권",
+      "임대료폭등",
+      "풍선매장",
+      "매경월가월부"
+    ]
+  }
+}

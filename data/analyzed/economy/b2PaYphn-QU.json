@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "b2PaYphn-QU",
+    "title": "보이지 않는 세금 '인플레이션'이 내 월급을 갉아먹고 있다",
+    "published": "2026-07-29T09:00:08+00:00",
+    "channel_name": "이효석아카데미",
+    "url": "https://www.youtube.com/watch?v=b2PaYphn-QU",
+    "thumbnail": "https://img.youtube.com/vi/b2PaYphn-QU/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "인플레이션은 실질 구매력을 갉아먹는 <span class=\"text-rose-400 font-medium\">보이지 않는 세금</span>으로, 자산 가격 방어를 위한 배당 및 우량주 투자가 필수적입니다.",
+    "key_claims": [
+      "물가 상승률이 명목 임금 상승률을 초월해 <span class=\"text-rose-400 font-medium\">실질 소득 축소 현상</span> 고착화.",
+      "현금 보유는 자산 가치를 훼손시키므로 <span class=\"text-cyan-300 font-semibold\">인플레 헤지형 우량 자산</span>으로 이동해야 함.",
+      "가격 결정력을 지닌 기업만이 <span class=\"text-amber-300 font-bold\">인플레이션 환경에서 마진을 방어</span>한다."
+    ],
+    "data_points": [
+      "누적 물가 상승률: 최근 3년간 15% 이상 폭등",
+      "실질 임금 성장률: 마이너스 지속"
+    ],
+    "signal": "neutral",
+    "signal_reason": "거시 구매력 둔화 우려가 있으나, 인플레 헤지 자산 투자의 중요성이 명확해지기 때문입니다.",
+    "key_companies": [
+      "이효석아카데미"
+    ],
+    "insight": "인플레이션을 극복하는 유일한 길은 가격 결정력을 보유한 독점 기업의 지분을 소유하는 것입니다.",
+    "action_point": "가격 전가력을 지닌 고마진 빅테크 및 인플레이션 헤지형 배당 ETF 보유를 추천합니다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "인플레이션",
+      "보이지않는세금",
+      "실질임금하락",
+      "이효석아카데미",
+      "구매력약화"
+    ]
+  }
+}

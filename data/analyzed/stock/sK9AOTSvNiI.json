@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "sK9AOTSvNiI",
+    "title": "이틀 연속 서킷브레이커…단일종목 레버리지 투자 제한 추진 | 미 연준, 5연속 금리 동결…30년물 국채는 19년 만의 최고치 | 류종은 삼프로TV 기자 [뉴스3]",
+    "published": "2026-07-29T23:27:30+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=sK9AOTSvNiI",
+    "thumbnail": "https://img.youtube.com/vi/sK9AOTSvNiI/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "국내 증시의 이틀 연속 서킷브레이커 발동에 따라 <span class=\"text-rose-400 font-medium\">단일종목 레버리지 제한 정책</span>이 추진되며, 연준 5연속 금리 동결 속 30년물 금리는 최고치를 기록했습니다.",
+    "key_claims": [
+      "증시 극단적 변동성에 대응해 <span class=\"text-cyan-300 font-semibold\">고위험 레버리지 상품 규제</span> 전격 검토.",
+      "연준 5연속 동결에도 불구하고 <span class=\"text-rose-400 font-medium\">미 30년물 국채 금리 19년 만의 최고치</span> 기록하며 장기 금리 압박.",
+      "고금리 장기화 우려 속에 <span class=\"text-amber-300 font-bold\">변동성 완화 제도 도입</span> 추진."
+    ],
+    "data_points": [
+      "미국 30년물 국채 금리: 4.8% 돌파하며 19년 만에 최고치",
+      "국내 증시 변동성: 이틀 연속 서킷브레이커/사이드카 발동"
+    ],
+    "signal": "neutral",
+    "signal_reason": "장기 국채 금리 부담이 존재하나 금융 당국의 시장 안정화 제도 조치가 병행되기 때문입니다.",
+    "key_companies": [
+      "연준",
+      "삼프로TV"
+    ],
+    "insight": "장기 국채 금리 고착화는 고부채 기업에 부담을 주므로, 무부채/고현금 유보 기업의 가치가 더욱 커집니다.",
+    "action_point": "레버리지 파생 상품 투자를 지양하고 현금 보유 비율이 높은 탄탄한 우량주 중심 투자를 추천합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "서킷브레이커",
+      "레버리지제한",
+      "연준5연속동결",
+      "국채30년물",
+      "뉴스3"
+    ]
+  }
+}

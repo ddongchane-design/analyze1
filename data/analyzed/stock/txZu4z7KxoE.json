@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "txZu4z7KxoE",
+    "title": "코스피는 역사적 저평가…그런데도 지금 매수를 서두르면 안 되는 이유ㅣ홍선애, 목대균 KCGI자산운용 대표 [여의도 인사이트]",
+    "published": "2026-07-29T08:58:41+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=txZu4z7KxoE",
+    "thumbnail": "https://img.youtube.com/vi/txZu4z7KxoE/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "코스피가 역사적 저평가 영역에 진입했으나, <span class=\"text-cyan-300 font-semibold\">수급 클리어링과 거시 불확실성 해소를 확인하며 호흡을 길게 가져가는 분할 접근</span>이 바람직합니다.",
+    "key_claims": [
+      "PBR 0.85배의 역사적 저평가이나 <span class=\"text-rose-400 font-medium\">수급 청산 확인 전 일시적 성급한 매수는 자제</span>.",
+      "외국인 매도세 정체와 연준 통화 정책 신호를 <span class=\"text-cyan-300 font-semibold\">확인한 뒤 진입해도 늦지 않다</span>.",
+      "호흡을 길게 잡고 <span class=\"text-amber-300 font-bold\">실적 우수 대형주 중심 단계적 매수</span> 권고."
+    ],
+    "data_points": [
+      "코스피 PBR: 0.85배 진입 (역사적 하단선)",
+      "KCGI 자산운용 권고: 수급 클리어링 후 승률 높은 타점 노림"
+    ],
+    "signal": "bullish",
+    "signal_reason": "역사적 저평가로 중장기 승률은 매우 높으며 호흡을 다듬는 전략적 매수가 최적이기 때문입니다.",
+    "key_companies": [
+      "KCGI자산운용",
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "insight": "저평가라 해서 한 번에 올인하기보다 수급 멈춤을 확인하며 느긋하게 나누어 담는 호흡이 안전합니다.",
+    "action_point": "지수 분할 매수를 추진하되 일단 수급 멈춤 신호를 확인하며 분할 집행하십시오."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "역사적저평가",
+      "서두르면안되는이유",
+      "목대균",
+      "KCGI자산운용",
+      "삼프로TV"
+    ]
+  }
+}

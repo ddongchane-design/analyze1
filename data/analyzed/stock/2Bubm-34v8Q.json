@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "2Bubm-34v8Q",
+    "title": "[26.07.29 오전 방송 전체보기] 반도체주 조정 속 나스닥만 0.2% 하락...애플의 승승장구 지속",
+    "published": "2026-07-29T03:12:33+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=2Bubm-34v8Q",
+    "thumbnail": "https://img.youtube.com/vi/2Bubm-34v8Q/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "반도체주 조정으로 나스닥 지수가 약보합 마감했으나, <span class=\"text-cyan-300 font-semibold\">애플의 펀더멘털 독주</span>가 전체 증시 하방을 단단히 지지했습니다.",
+    "key_claims": [
+      "엔비디아/마이크론 약세 속에 <span class=\"text-cyan-300 font-semibold\">애플의 상승세</span>가 지수 방어율을 높였다.",
+      "빅테크 간 CapEx 투자 및 <span class=\"text-amber-300 font-bold\">실적 펀더멘털 차별화</span>가 극명하게 전개된다.",
+      "미국 증시는 <span class=\"text-violet-300 font-medium\">견조한 로테이션 장세</span>로 하방 경직성을 유지 중이다."
+    ],
+    "data_points": [
+      "나스닥 지수 변동: -0.2% 약보합 마감",
+      "애플 시가총액: 4.95조 달러 돌파하며 독주"
+    ],
+    "signal": "bullish",
+    "signal_reason": "빅테크 대장주의 우수한 펀더멘털이 증시 하방 지지력을 공고히 하고 있기 때문입니다.",
+    "key_companies": [
+      "애플",
+      "엔비디아",
+      "마이크론"
+    ],
+    "insight": "반도체 단기 조정에도 빅테크 대표주의 펀더멘털이 든든한 버팀목 역할을 해주고 있습니다.",
+    "action_point": "애플 등 시총 상위 우량 펀더멘털 기업 편입을 지속 유지하십시오."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "오전방송",
+      "반도체조정",
+      "애플승승장구",
+      "나스닥",
+      "삼프로TV"
+    ]
+  }
+}

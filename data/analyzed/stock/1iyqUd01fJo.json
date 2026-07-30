@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "1iyqUd01fJo",
+    "title": "하락을 멈추지 못하는 시장, 반도체 집중된 투자는 어떻게 대응해야할까?  | 백찬규, 여도은, 허재무 [아침N투자]",
+    "published": "2026-07-29T02:22:28+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=1iyqUd01fJo",
+    "thumbnail": "https://img.youtube.com/vi/1iyqUd01fJo/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "반도체 쏠림이 컸던 포트폴리오의 변동성에 대응하여 <span class=\"text-cyan-300 font-semibold\">실적 가치 기준의 위험 관리와 필수소비재/산업재 분산 전략</span>이 필요합니다.",
+    "key_claims": [
+      "반도체 단기 변동성 확대로 인한 <span class=\"text-rose-400 font-medium\">계좌 평가손실 심리적 공포</span> 심화.",
+      "손절매보다는 <span class=\"text-cyan-300 font-semibold\">하반기 실적 가시성이 높은 HBM 대장주</span> 위주로 포트폴리오 압축.",
+      "지수 반등 시 <span class=\"text-amber-300 font-bold\">실적주 위주 빠른 수급 회복</span> 기대."
+    ],
+    "data_points": [
+      "반도체 비중 손실폭: 고점 대비 25~30% 이상 조정",
+      "삼성전자/SK하이닉스 하반기 예상 영업이익: 분기별 고점 형성 지속"
+    ],
+    "signal": "bullish",
+    "signal_reason": "단기 쏠림에 따른 변동성일 뿐 반도체 이익 상향 기조는 유효하기 때문입니다.",
+    "key_companies": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "insight": "투매에 휩쓸리지 않고 펀더멘털이 확실한 대장주 중심으로 포트폴리오를 슬림화해야 합니다.",
+    "action_point": "반도체 대장주의 조정을 매수 기회로 활용하고, 일부 자금을 산업재/배당주로 분산하십시오."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "반도체집중",
+      "급락장대응",
+      "아침N투자",
+      "포트폴리오",
+      "삼프로TV"
+    ]
+  }
+}

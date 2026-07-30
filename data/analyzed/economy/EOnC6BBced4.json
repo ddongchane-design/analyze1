@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "EOnC6BBced4",
+    "title": "[7월 FOMC 생중계] 워시 의장 기자회견 집중분석 | 해설 김현석·박신영 뉴욕특파원",
+    "published": "2026-07-29T19:55:20+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=EOnC6BBced4",
+    "thumbnail": "https://img.youtube.com/vi/EOnC6BBced4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "7월 FOMC 성명서 및 케빈 워시 의장의 기자회견은 <span class=\"text-cyan-300 font-semibold\">데이터 의존적 동결과 매파적 반대표</span>를 확인시켜 주었습니다.",
+    "key_claims": [
+      "워시 의장은 포워드 가이던스를 자제하며 <span class=\"text-cyan-300 font-semibold\">향후 경제 지표에 따른 동적 정책</span> 강조.",
+      "3명의 매파적 반대표에도 불구하고 <span class=\"text-amber-300 font-bold\">시장 발작 없는 동결</span>을 달성했다.",
+      "유가 하락세가 지속된다면 <span class=\"text-cyan-300 font-semibold\">하반기 금리 인하 가능성</span>도 열려 있다."
+    ],
+    "data_points": [
+      "FOMC 기준금리: 3.50%~3.75% 동결 결정",
+      "미국 국채 10년물 금리 반응: 4.6%선에서 안정적 흐름 유지"
+    ],
+    "signal": "neutral",
+    "signal_reason": "통화 정책의 매파적 잔재가 있으나 충격 없이 동결을 통과했기 때문입니다.",
+    "key_companies": [
+      "한경글로벌마켓",
+      "연준"
+    ],
+    "insight": "연준의 데이터 의존 스탠스는 향후 물가 지표 하락 시 유연한 금리 인하로 전환될 수 있습니다.",
+    "action_point": "FOMC 통과 후 불확실성이 감소한 미국 증시 패시브 자산 중심의 포트폴리오를 유지하십시오."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "FOMC생중계",
+      "워시의장",
+      "기자회견분석",
+      "한경글로벌마켓",
+      "금리동결"
+    ]
+  }
+}

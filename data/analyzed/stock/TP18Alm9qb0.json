@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "TP18Alm9qb0",
+    "title": "왜 한국 증시만 롤러코스터를 탈까? 개인 투자자의 현실 #교양이를부탁해 #반도체 #AI버블 #코스피폭락 #외국인매도 #숏돌이 #알상무",
+    "published": "2026-07-29T11:00:02+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=TP18Alm9qb0",
+    "thumbnail": "https://img.youtube.com/vi/TP18Alm9qb0/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "한국 증시가 글로벌 악재에 유독 롤러코스터를 타는 이유는 <span class=\"text-rose-400 font-medium\">외국인 수급의 기둥 역할 부재와 높은 개인 빚투 비중</span> 때문입니다.",
+    "key_claims": [
+      "외국인의 국장 파생상품 플레이와 개인의 신용 빚투가 <span class=\"text-rose-400 font-medium\">증시 변동성을 극대화</span>한다.",
+      "지배구조 및 주주환원 미흡으로 <span class=\"text-rose-400 font-medium\">장기 기관 자금 유입 부족</span> 한계.",
+      "변동성을 극복하기 위해 <span class=\"text-amber-300 font-bold\">원칙 있는 자산 배분과 분할 매수</span>가 필수적이다."
+    ],
+    "data_points": [
+      "한국 증시 변동성 지수(VKOSPI): 주요국 증시 대비 1.5배 높음",
+      "개인 신용 융자 비중: 코스닥 시가총액 대비 높은 수준 유지"
+    ],
+    "signal": "neutral",
+    "signal_reason": "국장 변동성이 높으나 저평가 구간에서의 단기 가격 회복 탄력도 크기 때문입니다.",
+    "key_companies": [
+      "교양이를부탁해"
+    ],
+    "insight": "한국 증시의 높은 롤러코스터 변동성을 역이용하여, 극단적 저점 폭락 시 담고 반등 시 수익을 챙기는 전략이 유효합니다.",
+    "action_point": "신용 매수를 철저히 배제하고 현금 보유를 통한 변동성 저가 매수 전략을 유지하십시오."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "한국증시롤러코스터",
+      "개인투자자현실",
+      "교양이를부탁해",
+      "국장변동성",
+      "알상무"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "8WA1zvNc0Us",
+    "title": "미국이 중국 로봇 막았다… 미·중 로봇 전쟁 시작, 한국은 어디에?",
+    "published": "2026-07-29T10:38:05+00:00",
+    "channel_name": "엔지니어TV",
+    "url": "https://www.youtube.com/watch?v=8WA1zvNc0Us",
+    "thumbnail": "https://img.youtube.com/vi/8WA1zvNc0Us/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국이 중국산 로봇 및 핵심 부품 통제에 착수함에 따라 <span class=\"text-cyan-300 font-semibold\">한국의 정밀 로봇 부품 공급망</span>이 반사이익의 핵심 파트너로 부각됩니다.",
+    "key_claims": [
+      "미국의 가드 액트(GUARD Act) 추진으로 <span class=\"text-rose-400 font-medium\">중국산 로봇 부품의 미국 진출 차단</span>.",
+      "자동차/반도체 제조 역량을 검증받은 <span class=\"text-cyan-300 font-semibold\">한국의 정밀 감속기·액추에이터</span>가 대체 공급망으로 채택.",
+      "미·중 로봇 패권 전쟁 속에서 <span class=\"text-amber-300 font-bold\">K-로봇 소부장 기업의 글로벌 확장</span> 가속화."
+    ],
+    "data_points": [
+      "미국 로봇 규제 범위: 중국산 영구자석, 액추에이터, 관절 모터 포함",
+      "국내 로봇 부품사 미국 수출 성장률: 연간 30% 이상 확대 기대"
+    ],
+    "signal": "bullish",
+    "signal_reason": "미국의 탈중국 로봇 공급망 재편으로 한국 정밀 부품 기업들의 글로벌 수주가 확정적이기 때문입니다.",
+    "key_companies": [
+      "테슬라",
+      "현대차",
+      "엔지니어TV"
+    ],
+    "insight": "미중 분쟁의 불확실성 속에서 한국의 정밀 제조업 역량이 로봇 시장의 핵심 안보 자산이 되고 있습니다.",
+    "action_point": "국내 정밀 감속기 및 모듈형 액추에이터 제조사 비중 확대를 추천합니다."
+  },
+  "classification": {
+    "primary_topic": "robot",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "미중로봇전쟁",
+      "미국중국로봇제재",
+      "한국로봇수혜",
+      "엔지니어TV",
+      "가드액트"
+    ]
+  }
+}

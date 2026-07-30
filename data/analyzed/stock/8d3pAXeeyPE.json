@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "8d3pAXeeyPE",
+    "title": "고점 대비 -30% 빠진 증시 정말 바닥에 가까워졌나? #교양이를부탁해 #반도체 #코스피 #금리 #증시",
+    "published": "2026-07-29T12:00:25+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=8d3pAXeeyPE",
+    "thumbnail": "https://img.youtube.com/vi/8d3pAXeeyPE/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "고점 대비 30% 가까이 폭락한 증시는 수급 청산의 막바지로, <span class=\"text-cyan-300 font-semibold\">역사적 기술적 바닥권에 근접</span>했습니다.",
+    "key_claims": [
+      "30% 급락은 반대매매와 패닉셀이 몰린 <span class=\"text-cyan-300 font-semibold\">전형적인 투매의 피크</span>이다.",
+      "밸류에이션 상 지수 PBR은 바닥에 진입하여 <span class=\"text-amber-300 font-bold\">강력한 하방 경직성</span>을 보여준다.",
+      "투매 마감 후 <span class=\"text-cyan-300 font-semibold\">실적주 중심의 빠른 리바운드</span>가 연출된다."
+    ],
+    "data_points": [
+      "지수 낙폭: 고점 대비 -28.5% 기록",
+      "역사적 바닥 PBR: 0.85배 근접"
+    ],
+    "signal": "bullish",
+    "signal_reason": "극단적 과매도 구간 도달로 수급 정상화 시 강력한 반등 보상이 수반되기 때문입니다.",
+    "key_companies": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "insight": "고점 대비 30% 하락은 시장의 공포가 극에 달한 시점으로, 장기 관점의 비중 확대 적기입니다.",
+    "action_point": "지수형 ETF 및 반도체 대장주의 분할 매수를 추천합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "고점대비30퍼",
+      "코스피바닥",
+      "교양이를부탁해",
+      "증시바닥",
+      "알상무"
+    ]
+  }
+}

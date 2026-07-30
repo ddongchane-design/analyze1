@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "ntab3CG8DZ4",
+    "title": "실적보다 공포를 거래하는 시장...폭락은 끝났는데 착각은 시작됐다ㅣ명민준, 박가영, 이권희 [주린이 구조대]",
+    "published": "2026-07-29T12:30:35+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=ntab3CG8DZ4",
+    "thumbnail": "https://img.youtube.com/vi/ntab3CG8DZ4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "증시가 실적 펀더멘털 대신 공포 심리를 거래하며 폭락했으나, <span class=\"text-cyan-300 font-semibold\">실질 악재 소멸과 함께 이성적 밸류에이션 회복</span>이 전개될 것입니다.",
+    "key_claims": [
+      "시장이 이성적 실적 평가를 마비시키고 <span class=\"text-rose-400 font-medium\">공포와 투매 심리 자체를 거래</span>하고 있다.",
+      "폭락은 이미 악재를 과도하게 반영해 종료되었으며 <span class=\"text-cyan-300 font-semibold\">착각 구간에서의 저가 매수</span>가 유효하다.",
+      "실적이 탄탄한 기업부터 <span class=\"text-amber-300 font-bold\">빠른 주가 정상화</span>가 연출될 전망이다."
+    ],
+    "data_points": [
+      "코스피 공포지수(VIX): 역사적 고점 부근 형성",
+      "기업 이익 추정치: 지수 폭락에도 이익 상향 기조 유지"
+    ],
+    "signal": "bullish",
+    "signal_reason": "공포거래가 극에 달한 시점은 전형적인 이격 축소 반등의 전조이기 때문입니다.",
+    "key_companies": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "insight": "시장이 공포를 거래할 때 침착하게 실적 펀더멘털을 거래하는 투자자가 최후의 승자가 됩니다.",
+    "action_point": "공포에 휩쓸린 투매를 지양하고 흑자 대형주 중심의 분할 매수를 강력히 추천합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "공포를거래",
+      "실적보다공포",
+      "착각의시작",
+      "주린이구조대",
+      "삼프로TV"
+    ]
+  }
+}

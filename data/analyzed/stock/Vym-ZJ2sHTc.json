@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "Vym-ZJ2sHTc",
+    "title": "연준이 금리를 동결해도 안 된다…마이크로소프트, 호실적에 시간외 상승 [월가 뉴스레터]",
+    "published": "2026-07-29T22:03:32+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=Vym-ZJ2sHTc",
+    "thumbnail": "https://img.youtube.com/vi/Vym-ZJ2sHTc/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "연준의 매파적 금리 동결에도 불구하고 마이크로소프트의 <span class=\"text-cyan-300 font-semibold\">클라우드 실적 대폭 상회가 시간 외 급등</span>을 이끌며 기술주 투심을 살려냈습니다.",
+    "key_claims": [
+      "금리 동결 악재보다 <span class=\"text-cyan-300 font-semibold\">마이크로소프트의 어닝 서프라이즈</span>가 증시를 견인했다.",
+      "애저(Azure) 클라우드 매출 성장률이 AI 실질 수익화 우려를 <span class=\"text-amber-300 font-bold\">완전 해소</span>시켰다.",
+      "실적이 입증된 빅테크를 중심으로 <span class=\"text-cyan-300 font-semibold\">기술주 반등 모멘텀</span> 재가동."
+    ],
+    "data_points": [
+      "마이크로소프트 시간 외 주가 상승률: +4.2% 상승",
+      "애저 클라우드 성장률: 30%+ 이상 상회 달성"
+    ],
+    "signal": "bullish",
+    "signal_reason": "마이크로소프트의 압도적 실적이 AI 팽창과 기술주 상승의 정당성을 증명해주었기 때문입니다.",
+    "key_companies": [
+      "Microsoft",
+      "삼프로TV"
+    ],
+    "insight": "거시 고금리 환경도 마이크로소프트 같은 독점적 실적 성장 기업의 주가 상승을 막을 수 없습니다.",
+    "action_point": "마이크로소프트 중심의 핵심 기술주 포트폴리오를 지속 확장하십시오."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "금리동결",
+      "마이크로소프트호실적",
+      "시간외상승",
+      "월가뉴스레터",
+      "삼프로TV"
+    ]
+  }
+}

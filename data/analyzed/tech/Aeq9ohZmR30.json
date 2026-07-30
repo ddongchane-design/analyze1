@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "Aeq9ohZmR30",
+    "title": "앤트로픽이 AMD 헬리오스 주문, 내년 4배 성장하는 AMD",
+    "published": "2026-07-29T06:11:49+00:00",
+    "channel_name": "월텍남",
+    "url": "https://www.youtube.com/watch?v=Aeq9ohZmR30",
+    "thumbnail": "https://img.youtube.com/vi/Aeq9ohZmR30/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "앤트로픽이 AMD의 차세대 헬리오스(Helios) AI 가속기를 대량 주문하면서, <span class=\"text-cyan-300 font-semibold\">AMD의 내년 AI 칩 매출이 4배 급증</span>할 것으로 기대됩니다.",
+    "key_claims": [
+      "앤트로픽의 AMD 헬리오스 채택으로 <span class=\"text-cyan-300 font-semibold\">엔비디아 독점 구도 균열</span> 본격화.",
+      "AMD의 AI 가속기 매출이 내년 <span class=\"text-amber-300 font-bold\">전년 대비 4배 이상 폭발적 성장</span>할 전망.",
+      "빅테크의 멀티 벤더 전략으로 <span class=\"text-cyan-300 font-semibold\">대체 AI 칩 생태계</span>가 급속히 팽창 중이다."
+    ],
+    "data_points": [
+      "AMD 내년 예상 AI 칩 매출: 200억 달러 돌파 전망 (올해 대비 4배)",
+      "앤트로픽 헬리오스 주문 규모: 대형 멀티 클러스터 구축용"
+    ],
+    "signal": "bullish",
+    "signal_reason": "엔비디아 외 대체 AI 칩 시장이 본격 개화하면서 AMD의 이익 성장이 매우 명확해졌기 때문입니다.",
+    "key_companies": [
+      "AMD",
+      "Anthropic",
+      "엔비디아"
+    ],
+    "insight": "빅테크는 단일 벤더 독점을 피하기 위해 AMD 등 2순위 AI 칩 공급망을 적극 육성하고 있습니다.",
+    "action_point": "AMD 및 관련 밸류체인 수혜주에 대한 긍정적 포트폴리오 편입을 권고합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "앤트로픽",
+      "AMD헬리오스",
+      "AMD4배성장",
+      "월텍남",
+      "AI칩경쟁"
+    ]
+  }
+}

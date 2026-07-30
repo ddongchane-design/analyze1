@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "uKljNsucYks",
+    "title": "[속보효] 7월 FOMC 리뷰, 심판을 보지 말고, 공을 봐라",
+    "published": "2026-07-29T21:32:53+00:00",
+    "channel_name": "이효석아카데미",
+    "url": "https://www.youtube.com/watch?v=uKljNsucYks",
+    "thumbnail": "https://img.youtube.com/vi/uKljNsucYks/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "FOMC 결과(심판)의 말 한마디에 흔들리지 말고, <span class=\"text-cyan-300 font-semibold\">실제 기업들의 실적과 경제의 기초체력(공)</span>에 집중해야 합니다.",
+    "key_claims": [
+      "연준의 매파적 코멘트(심판)보다 <span class=\"text-cyan-300 font-semibold\">기업들의 실제 현금 창출력(공)</span>이 더 중요하다.",
+      "금리 동결에도 불구하고 <span class=\"text-amber-300 font-bold\">실적 호조 기업들의 주가 강세</span> 지속.",
+      "거시 노이즈를 뚫고 <span class=\"text-cyan-300 font-semibold\">실적 펀더멘털주로 포커스 이동</span> 필요."
+    ],
+    "data_points": [
+      "미국 기업 2분기 영업이익률: 역사적 고점 유지",
+      "연준 금리 결정: 3.50~3.75% 동결 통과"
+    ],
+    "signal": "bullish",
+    "signal_reason": "거시 통화 정책의 성명서 노이즈보다 기업들의 이익 실체가 탄탄하기 때문입니다.",
+    "key_companies": [
+      "이효석아카데미",
+      "연준"
+    ],
+    "insight": "시장을 움직이는 진정한 힘은 중앙은행의 입이 아니라 기업들의 실적 방정식입니다.",
+    "action_point": "FOMC 노이즈로 주가가 흔들릴 때 실적이 견조한 우량주를 저가 매수하십시오."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "7월FOMC리뷰",
+      "심판대신공을봐라",
+      "이효석아카데미",
+      "속보효",
+      "FOMC분석"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "0u98f5AjNAQ",
+    "title": "정자가 계속 줄어든다? 2045년 인류 멸망 진실일까?",
+    "published": "2026-07-29T11:00:30+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=0u98f5AjNAQ",
+    "thumbnail": "https://img.youtube.com/vi/0u98f5AjNAQ/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "환경호르몬 및 생활 습관 변화로 인한 <span class=\"text-rose-400 font-medium\">남성 정자 수 감소 및 생식력 저하</span> 현상을 인류학적·의학적 데이터로 분석하고 대책을 제시합니다.",
+    "key_claims": [
+      "글로벌 연구 결과 최근 40년간 남성 정자 농도가 <span class=\"text-rose-400 font-medium\">50% 이상 급감</span>했다.",
+      "미세플라스틱 및 환경호르몬(프탈레이트 등)이 <span class=\"text-amber-300 font-bold\">내분비계 교란의 핵심 원인</span>으로 지목된다.",
+      "단순 공포론에서 벗어나 <span class=\"text-cyan-300 font-semibold\">생활 습관 개선 및 화학물질 규제</span>가 시급하다."
+    ],
+    "data_points": [
+      "정자 농도 하락세: 1973년 ㎖당 9,900만 개에서 최근 4,700만 개로 52% 감소",
+      "글로벌 합계출산율: 선진국 중심 1.5명 이하 하락"
+    ],
+    "signal": "neutral",
+    "signal_reason": "장기 인구 구조적 위기 요인이나 의학 기술 및 환경 규제로 개선 시도가 이뤄지고 있기 때문입니다.",
+    "key_companies": [
+      "안될과학"
+    ],
+    "insight": "인구 감소는 단순 사회적 문제를 넘어 화학 소재 규제 및 헬스케어 진단 시장의 구조적 성장을 유도합니다.",
+    "action_point": "환경호르몬 대체 친환경 소재 기업 및 난임/생식 헬스케어 관련 분야에 장기적 관심을 추천합니다."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "인구절벽",
+      "정자수감소",
+      "환경호르몬",
+      "생식보건",
+      "안될과학"
+    ]
+  }
+}
