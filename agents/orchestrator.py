@@ -163,6 +163,18 @@ def render_dashboard():
     render_index(topics, topic_card_counts, topic_last_updates, output_dir, etf_summary=etf_summary)
     print("\n[HTML 생성 완료]")
 
+    # 일자별 단일 페이지 종합 Executive Report 자동 생성
+    try:
+        from generate_daily_report import main as generate_daily_report_main
+        generate_daily_report_main()
+    except Exception as e:
+        import subprocess
+        try:
+            subprocess.run(["python", "generate_daily_report.py"], check=False)
+        except Exception as ex:
+            print(f"  [warn] 일자별 단일 브리핑 리포트 생성 중 예외 발생: {ex}")
+
+
 
 def run():
     # 1. Collect videos to data/pending (API 비용 발생을 방지하기 위해 자막 수집만 수행)

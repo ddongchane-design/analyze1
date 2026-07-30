@@ -1,0 +1,50 @@
+{
+  "video": {
+    "id": "_rXgrFCQenE",
+    "title": "반도체 대폭락 범인은 22세 천재?..\"바닥 확인 후 대폭등 중\"",
+    "published": "2026-07-30T17:49:46+00:00",
+    "channel_name": "월텍남",
+    "url": "https://www.youtube.com/watch?v=_rXgrFCQenE",
+    "thumbnail": "https://img.youtube.com/vi/_rXgrFCQenE/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "최근 반도체 및 AI주 대폭락의 원인은 <span class=\"text-rose-400 font-medium\">22세 천재 매니저(레오폴드)의 4배 레버리지 포지션 노출</span>에 따른 시타델의 마진콜 유발 및 헐값 인수 때문이었으며, 수급 청산 후 <span class=\"text-cyan-300 font-semibold\">대폭등 리바운드 장세</span>가 시작되었습니다.",
+    "key_claims": [
+      "월가 해지펀드(시츄에이셔널 어웨어니스)의 60조 원 규모 4배 레버리지 포지션을 겨냥해 <span class=\"text-rose-400 font-medium\">시타델(켄 그리핀)이 의도적인 마진콜을 유발</span>하고 포지션을 헐값에 강제 상각 인수했다.",
+      "시타델의 숏커버링 전환으로 블루에너지, 네비우스, 샌디스크 등 <span class=\"text-cyan-300 font-semibold\">AI 인프라주가 25% 이상 시간 외 폭등</span>하며 수급 왜곡이 해소되고 있다.",
+      "삼성전자/SK하이닉스의 HBM 장기계약 70% 체결 및 빅테크 ROIC(25~46%)가 증명하듯 <span class=\"text-amber-300 font-bold\">AI 펀더멘털은 견조하며 바닥을 통과</span>했다."
+    ],
+    "data_points": [
+      "레오폴드 펀드 규모: 피크 시 450억 달러(약 60조 원) 달성 후 4배 레버리지 마진콜 청산",
+      "AI 인프라주 반등 폭: 시타델 숏커버링 직후 샌디스크, 블루에너지 등 25% 이상 폭등",
+      "삼성전자 HBM 전망: 가격 2배 상승 및 70% 장기계약(LTA) 체결, SK 최태원 회장 46억 장내 매수"
+    ],
+    "signal": "bullish",
+    "signal_reason": "의도적 레버리지 마진콜에 의한 비이성적 폭락이 끝나고, 시타델의 숏커버링과 탄탄한 실적 기반의 대폭등 리바운드가 본격화되었기 때문입니다.",
+    "key_companies": [
+      "시타델",
+      "삼성전자",
+      "SK하이닉스",
+      "블룸에너지",
+      "마이크론"
+    ],
+    "insight": "반도체 폭락은 기업 펀더멘털 훼손이 아닌 월가 대형 해지펀드의 레버리지 털어먹기 수급 공작이었으며, 헐값에 매물을 삼킨 기관의 숏커버링이 가파른 시세 회복을 견인합니다.",
+    "action_point": "마진콜 해소와 함께 폭등이 시작된 반도체 대장주(SK하이닉스/삼성전자) 및 AI 인프라 핵심주의 저가 매수 포지션을 적극 확대하십시오."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "반도체폭락",
+      "시타델",
+      "레오폴드",
+      "마진콜",
+      "숏커버링",
+      "삼성전자",
+      "월텍남"
+    ]
+  }
+}
