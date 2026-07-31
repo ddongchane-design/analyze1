@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "Cp3z18HItfg",
+    "title": "동결이지만 분위기는 인상? 시장의 시선은 9월로 | 서동주, 김동환, 김제이 블록미디어 편집장 [크립토 PLUS]",
+    "published": "2026-07-30T02:58:07+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=Cp3z18HItfg",
+    "thumbnail": "https://img.youtube.com/vi/Cp3z18HItfg/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "연준 7월 금리 동결에도 불구하고 시장의 시선은 <span class=\"text-cyan-300 font-semibold\">9월 금리 인하 신호론</span>으로 향하며 가상자산 반등 기반을 타진 중입니다.",
+    "key_claims": [
+      "7월 동결 성명서 내 매파적 어조에도 불구하고 <span class=\"text-cyan-300 font-semibold\">9월 인하 기대감 상존</span>.",
+      "비트코인 등 가상자산이 <span class=\"text-amber-300 font-bold\">유동성 환경 개선 신호</span>에 민감하게 반응.",
+      "제도권 자금 유입과 함께 <span class=\"text-violet-300 font-medium\">크립토 시장 하방 경직성</span> 강화."
+    ],
+    "data_points": [
+      "9월 금리 인하 확률: 피드워치 기준 75% 반영",
+      "비트코인 지지선: 63,000달러선 탄탄한 지지"
+    ],
+    "signal": "neutral",
+    "signal_reason": "9월 피벗 기대를 모니터링해야 하는 과도기 구간이기 때문입니다.",
+    "key_companies": [
+      "블록미디어",
+      "Coinbase"
+    ],
+    "insight": "크립토 자산은 연준의 9월 금리 인하 기대감이 가시화될 때 가장 강한 탄력을 보여줍니다.",
+    "action_point": "비트코인 및 가상자산 대표 인프라 종목의 분할 관망 매수를 추천합니다."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "크립토PLUS",
+      "FOMC동결",
+      "9월인하설",
+      "블록미디어",
+      "삼프로TV"
+    ]
+  }
+}

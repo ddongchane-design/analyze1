@@ -1,0 +1,41 @@
+{
+  "video": {
+    "id": "V0yLXZHQvAs",
+    "title": "유가 장기금리 급등...미국증시 낙폭 확대 | 데일리 라이브 | 2026.7.30(목)",
+    "published": "2026-07-30T11:32:13+00:00",
+    "channel_name": "Smart Money by MiraeAsset ",
+    "url": "https://www.youtube.com/watch?v=V0yLXZHQvAs",
+    "thumbnail": "https://img.youtube.com/vi/V0yLXZHQvAs/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "유가 상승 및 장기 국채 금리 급등 노이즈로 미국 증시가 낙폭을 확대했으나, <span class=\"text-cyan-300 font-semibold\">빅테크 실적 수주가 하방을 받치는 국면</span>입니다.",
+    "key_claims": [
+      "미 국채 10년물 금리 및 유가 반응으로 <span class=\"text-rose-400 font-medium\">단기 유동성 위축</span> 발생.",
+      "지수 하락 속에서도 <span class=\"text-amber-300 font-bold\">실적 호조 빅테크 및 전력주</span>는 하방 방어.",
+      "거시 지표 확인 후 <span class=\"text-cyan-300 font-semibold\">다변화 순환매 장세</span> 지속."
+    ],
+    "data_points": [
+      "미국 국채 10년물 금리: 4.65% 기록하며 기술주 압박",
+      "WTI 유가: 지정학 우려로 배럴당 80달러선 재진입"
+    ],
+    "signal": "neutral",
+    "signal_reason": "금리/유가 압박 악재와 빅테크 실적 호재가 대립하고 있기 때문입니다.",
+    "key_companies": [
+      "미래에셋증권"
+    ],
+    "insight": "거시 유동성 악재 시기에는 실적이 확실한 독점 기업에 자금이 쏠리게 마련입니다.",
+    "action_point": "빅테크 및 전력 인프라 우량주 중심의 포트폴리오 유지를 추천합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "유가장기금리급등",
+      "미국증시낙폭확대",
+      "미래에셋",
+      "데일리라이브"
+    ]
+  }
+}

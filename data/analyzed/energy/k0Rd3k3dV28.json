@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "k0Rd3k3dV28",
+    "title": "\"4년 뒤 한국 원전 올스톱?!\" 72조짜리 재앙의 실체 | 김현권 고준위 방사성폐기물 관리위원회 [주말인터뷰]",
+    "published": "2026-07-30T13:00:09+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=k0Rd3k3dV28",
+    "thumbnail": "https://img.youtube.com/vi/k0Rd3k3dV28/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "고준위 방사성 폐기물 관리 특별법 제정이 지연될 경우 <span class=\"text-rose-400 font-medium\">4년 뒤 국내 원전의 가동 중단 위기</span>에 직면할 수 있음을 경고합니다.",
+    "key_claims": [
+      "원전 포화율 임계치 도달로 <span class=\"text-rose-400 font-medium\">특별법 미비 시 원전 멈춤 위험</span> 가중.",
+      "AI 전력 수요 폭증과 맞춰 <span class=\"text-cyan-300 font-semibold\">원전 저장 시설 확충 법안</span>이 조속히 통과되어야 함.",
+      "원전 안정성 확보 시 <span class=\"text-amber-300 font-bold\">K-원전 체인 및 SMR 성장</span> 지속."
+    ],
+    "data_points": [
+      "국내 원전 사용후핵연료 포화율: 2030년부터 순차적 저장 한계 도달",
+      "고준위 특별법 관련 경제 규모: 70조 원 규모 원전 인프라 연계"
+    ],
+    "signal": "neutral",
+    "signal_reason": "법안 지연 리스크가 존재 하나 입법 추진 요구가 강해 해결될 가능성이 높기 때문입니다.",
+    "key_companies": [
+      "한국전력",
+      "두산에너빌리티"
+    ],
+    "insight": "원전 지속 가능성을 위한 저장 시설 법제화는 AI 전력망을 지키기 위한 필수 정책입니다.",
+    "action_point": "원전 정책 법안 처리 추이를 모니터링하며 원자력 선도 기업 투자를 유지하십시오."
+  },
+  "classification": {
+    "primary_topic": "energy",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "원전올스톱",
+      "고준위방사성폐기물",
+      "원전재앙",
+      "김현권",
+      "삼프로TV"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "i9Gcc9tUCyM",
+    "title": "엔비디아 독주 흔드는 AMD의 반격ㅣ김인엽의 실리콘밸리나우",
+    "published": "2026-07-30T09:00:04+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=i9Gcc9tUCyM",
+    "thumbnail": "https://img.youtube.com/vi/i9Gcc9tUCyM/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "AMD가 차세대 MI300X/헬리오스 가속기로 엔비디아의 독점 구도를 흔들며 <span class=\"text-cyan-300 font-semibold\">AI 칩 2위 주도권</span>을 강화하고 있습니다.",
+    "key_claims": [
+      "AMD의 AI 가속기 수주가 앤스로픽 등 빅테크로 확대되며 <span class=\"text-cyan-300 font-semibold\">엔비디아 대항마로 정착</span>.",
+      "가격 경쟁력과 가동 효율을 앞세워 <span class=\"text-amber-300 font-bold\">AI 칩 시장 점유율 20% 돌파</span> 목표.",
+      "빅테크의 멀티 벤더 채택 가속화로 <span class=\"text-cyan-300 font-semibold\">AI 반도체 생태계 다변화</span> 전개."
+    ],
+    "data_points": [
+      "AMD AI 칩 예상 매출: 내년 200억 달러 돌파 전망",
+      "MI300X 단가: 엔비디아 H100 대비 30% 저렴한 가성비 제안"
+    ],
+    "signal": "bullish",
+    "signal_reason": "AMD의 시장 점유율 확대와 이익 성장이 매우 가파르기 때문입니다.",
+    "key_companies": [
+      "AMD",
+      "NVIDIA",
+      "한경글로벌마켓"
+    ],
+    "insight": "빅테크는 독점을 막기 위해 AMD를 적극 선택하고 있으며, 이는 AMD 주가 재평가로 이어집니다.",
+    "action_point": "AMD 및 관련 반도체 수혜주의 매수를 적극 추천합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "엔비디아독주흔듬",
+      "AMD반격",
+      "실리콘밸리나우",
+      "김인엽",
+      "한경글로벌마켓"
+    ]
+  }
+}

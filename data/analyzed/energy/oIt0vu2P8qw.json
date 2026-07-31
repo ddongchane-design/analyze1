@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "oIt0vu2P8qw",
+    "title": "30조 사우디 원전 한국이 다 먹나 (언더스탠딩 김상훈 기자)",
+    "published": "2026-07-30T07:55:04+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=oIt0vu2P8qw",
+    "thumbnail": "https://img.youtube.com/vi/oIt0vu2P8qw/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "30조 원 규모의 사우디아라비아 원전 사업에서 한국 팀코리아가 <span class=\"text-cyan-300 font-semibold\">독보적인 공기 및 단가 경쟁력으로 최종 수주 유력</span> 후보로 떠오르고 있습니다.",
+    "key_claims": [
+      "사우디 30조 원 원전 건설 프로젝트에서 <span class=\"text-cyan-300 font-semibold\">한국 K-원전의 수주 가능성 극대화</span>.",
+      "체코 원전 수주에 이은 사우디 수주는 <span class=\"text-amber-300 font-bold\">국내 원전 밸류체인의 10년 장기 호황</span>을 보증.",
+      "AI 전력 소요 폭증과 맞춰 <span class=\"text-violet-300 font-medium\">글로벌 원전 및 SMR 시장</span> 재평가."
+    ],
+    "data_points": [
+      "사우디 원전 사업 규모: 약 30조 원 (2기 대형 원전 건설)",
+      "K-원전 공기 준수율: 글로벌 1위 (On time, On budget)"
+    ],
+    "signal": "bullish",
+    "signal_reason": "30조 사우디 원전 수주 시 국내 원전 및 전력망 기자재사들의 대규모 이익이 확정되기 때문입니다.",
+    "key_companies": [
+      "두산에너빌리티",
+      "한국전력",
+      "한전기술",
+      "언더스탠딩"
+    ],
+    "insight": "K-원전은 글로벌 AI 전력난 시대에 가장 확실한 공기와 가격을 보장하는 우방국 자산입니다.",
+    "action_point": "두산에너빌리티 및 한전 그룹 원전 수혜주의 중장기 매수를 적극 권고합니다."
+  },
+  "classification": {
+    "primary_topic": "energy",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "30조사우디원전",
+      "K원전수주",
+      "언더스탠딩",
+      "김상훈기자"
+    ]
+  }
+}

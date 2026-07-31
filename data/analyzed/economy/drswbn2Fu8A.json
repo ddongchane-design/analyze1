@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "drswbn2Fu8A",
+    "title": "절벽 꼭대기 후티 반군 미군도 두손 들었다",
+    "published": "2026-07-30T14:15:18+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=drswbn2Fu8A",
+    "thumbnail": "https://img.youtube.com/vi/drswbn2Fu8A/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "예멘 후티 반군의 비대칭 드론/미사일 전략으로 <span class=\"text-rose-400 font-medium\">홍해 해상 물류 마비 및 군사비 비대칭성</span> 문제가 장기화되고 있습니다.",
+    "key_claims": [
+      "저가 드론과 지대함 미사일을 활용한 후티의 비대칭 공격에 <span class=\"text-rose-400 font-medium\">미군 및 우방국 방공 비용 부담</span> 가중.",
+      "홍해 우회 항로 이용으로 <span class=\"text-amber-300 font-bold\">글로벌 해운 운임 및 물류비 상승</span> 고착화.",
+      "비대칭 방공 및 안티드론 시스템의 <span class=\"text-cyan-300 font-semibold\">군사적 가치 급상승</span>."
+    ],
+    "data_points": [
+      "홍해 통과 물동량 감소율: 평시 대비 60% 이하 급감",
+      "해운 운임 지수(SCFI): 연초 대비 2배 이상 폭등 유지를 기록"
+    ],
+    "signal": "neutral",
+    "signal_reason": "지정학적 물류비 상승 압력이 존재하나 관련 해운/방산주 수혜 기회가 명확하기 때문입니다.",
+    "key_companies": [
+      "HMM",
+      "언더스탠딩"
+    ],
+    "insight": "비대칭 중동 분쟁은 글로벌 해운 운임 보장과 방산 안티드론 시장의 성장 촉매로 작용합니다.",
+    "action_point": "해운 및 가성비 방체 체계 보유 방산주 투자에 주목하십시오."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "etc"
+    ],
+    "tags": [
+      "후티반군",
+      "미군두손",
+      "언더스탠딩",
+      "중동지정학"
+    ]
+  }
+}

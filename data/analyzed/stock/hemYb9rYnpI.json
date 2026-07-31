@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "hemYb9rYnpI",
+    "title": "삼성전자 \"피크아웃 없다\"…최태원, SK하이닉스 48조 매수 | K배터리 3사 2Q 동반 흑자…'암흑 터널' 지났다 | 류종은 삼프로TV 기자 [뉴스3]",
+    "published": "2026-07-30T23:29:46+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=hemYb9rYnpI",
+    "thumbnail": "https://img.youtube.com/vi/hemYb9rYnpI/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "삼성전자가 \"메모리 피크아웃은 없다\"고 선언하고 SK 최태원 회장이 <span class=\"text-cyan-300 font-semibold\">자사주 48억 장내 매수를 단행</span>하며 반도체/배터리 펀더멘털을 입증했습니다.",
+    "key_claims": [
+      "삼성전자는 메모리 공급 부족과 HBM 수요로 <span class=\"text-cyan-300 font-semibold\">피크아웃 가능성을 일축</span>했다.",
+      "SK 최태원 회장은 책임 경영 일환으로 <span class=\"text-amber-300 font-bold\">SK하이닉스 주식 장내 직접 매수</span> 집행.",
+      "K-배터리 3사 역시 2분기 동반 흑자 전환에 성공하며 <span class=\"text-cyan-300 font-semibold\">암흑 터널 탈출</span>."
+    ],
+    "data_points": [
+      "최태원 회장 장내 매수 규모: 약 48억 원 전격 집행",
+      "K-배터리 3사 2분기 영업이익: AMPC 수혜 힘입어 동반 흑자 달성"
+    ],
+    "signal": "bullish",
+    "signal_reason": "최고 경영진의 자사주 매수와 기업의 공식 피크아웃 부정 선언이 강력한 신뢰를 주었기 때문입니다.",
+    "key_companies": [
+      "삼성전자",
+      "SK하이닉스",
+      "LG에너지솔루션"
+    ],
+    "insight": "경영진의 직접 장내 매수와 공식 가이던스는 주가 바닥을 알리는 가장 강력한 신호입니다.",
+    "action_point": "삼성전자 및 SK하이닉스의 강력 매수를 추천합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "삼성전자피크아웃없다",
+      "최태원48조매수",
+      "K배터리동반흑자",
+      "뉴스3",
+      "삼프로TV"
+    ]
+  }
+}

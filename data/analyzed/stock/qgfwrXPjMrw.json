@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "qgfwrXPjMrw",
+    "title": "마이크로소프트, 호실적에 18% 급등…반도체 등 AI HW 섹터 동반 랠리 [월가 뉴스레터]",
+    "published": "2026-07-30T21:57:25+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=qgfwrXPjMrw",
+    "thumbnail": "https://img.youtube.com/vi/qgfwrXPjMrw/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "마이크로소프트가 호실적으로 18% 급등하며 반도체 등 <span class=\"text-cyan-300 font-semibold\">AI 하드웨어 섹터의 동반 랠리</span>를 강하게 주도했습니다.",
+    "key_claims": [
+      "마이크로소프트의 클라우드 실적 대폭 상회가 <span class=\"text-cyan-300 font-semibold\">AI 하드웨어 우려를 한방에 불식</span>시켰다.",
+      "엔비디아, 마이크론, SK하이닉스 등 <span class=\"text-amber-300 font-bold\">AI HW 수혜주의 강력한 동반 랠리</span> 재개.",
+      "빅테크의 CapEx 지출 정당성이 입증되어 <span class=\"text-cyan-300 font-semibold\">기술주 장기 우상향</span> 지속."
+    ],
+    "data_points": [
+      "마이크로소프트 주가 반응: 호실적 발표 후 급등 기록",
+      "AI 하드웨어 섹터 반등 폭: 반도체 지수 +5% 이상 동반 랠리"
+    ],
+    "signal": "bullish",
+    "signal_reason": "마이크로소프트의 뛰어난 실적이 AI 인프라 전체의 강력한 동반 상승을 견인하기 때문입니다.",
+    "key_companies": [
+      "Microsoft",
+      "NVIDIA",
+      "SK하이닉스"
+    ],
+    "insight": "마이크로소프트의 호실적은 AI 하드웨어 밸류체인 전체의 실적과 주가를 보증해 줍니다.",
+    "action_point": "마이크로소프트 및 AI 하드웨어 대장주(SK하이닉스/엔비디아) 비중 확대를 권고합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "MSFT실적급등",
+      "AIHW동반랠리",
+      "월가뉴스레터",
+      "삼프로TV"
+    ]
+  }
+}

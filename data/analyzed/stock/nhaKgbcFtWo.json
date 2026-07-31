@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "nhaKgbcFtWo",
+    "title": "[속보효] 그동안 이유도 없이 주가가 급락했던 이유가 어쩌면, 이 친구 때문일 수도...",
+    "published": "2026-07-30T15:35:46+00:00",
+    "channel_name": "이효석아카데미",
+    "url": "https://www.youtube.com/watch?v=nhaKgbcFtWo",
+    "thumbnail": "https://img.youtube.com/vi/nhaKgbcFtWo/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "이유도 없이 주가가 급락했던 주범이 <span class=\"text-rose-400 font-medium\">월가 22세 해지펀드 매니저의 4배 레버리지 마진콜 청산</span> 때문이었음이 밝혀졌습니다.",
+    "key_claims": [
+      "반도체 및 AI주 폭락은 펀더멘털 문제가 아니라 <span class=\"text-rose-400 font-medium\">특정 해지펀드의 레버리지 마진콜 청산</span> 때문이었다.",
+      "시타델 등 거대 해지펀드가 이를 청산 인수하면서 <span class=\"text-cyan-300 font-semibold\">숏커버링 및 폭등세로 전환</span>.",
+      "실적 우수 반도체/AI 인프라주의 <span class=\"text-amber-300 font-bold\">비이성적 할인 구간 종료</span>."
+    ],
+    "data_points": [
+      "레오폴드 펀드 마진콜 크기: 450억 달러 포지션 중 30% 폭락에 따른 강제 청산",
+      "숏커버링 반등 폭: 마이크론, 블루에너지 등 주요 종목 폭등"
+    ],
+    "signal": "bullish",
+    "signal_reason": "근거 없는 수급 폭락의 원인이 마진콜로 확인되어 가파른 시세 회복이 전개될 것이기 때문입니다.",
+    "key_companies": [
+      "이효석아카데미",
+      "시타델",
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "insight": "이유 없는 폭락은 월가 수급 전쟁의 결과였으며, 마진콜 해소는 강력한 매수 신호입니다.",
+    "action_point": "억울하게 하락했던 메모리 반도체 및 AI 인프라 대장주를 적극 저가 매수하십시오."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "이유없는급락범인",
+      "레오폴드마진콜",
+      "속보효",
+      "이효석아카데미"
+    ]
+  }
+}

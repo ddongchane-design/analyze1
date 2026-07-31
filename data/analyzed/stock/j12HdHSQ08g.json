@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "j12HdHSQ08g",
+    "title": "[7월 30일 마감시황] 채권 자경단이 움직였다...반도체 주가 결정할 숨은 변수ㅣ홍선애, 이권희, 김장열 [클로징벨 라이브]",
+    "published": "2026-07-30T08:44:55+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=j12HdHSQ08g",
+    "thumbnail": "https://img.youtube.com/vi/j12HdHSQ08g/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "채권 자경단(Bond Vigilantes)의 미 장기 국채 매도로 국채 금리가 오르며 <span class=\"text-rose-400 font-medium\">반도체 등 기술주 밸류에이션 부담</span>을 유발하고 있습니다.",
+    "key_claims": [
+      "미 미국 재정 적자 우려로 채권 자경단이 국채를 매도해 <span class=\"text-rose-400 font-medium\">장기 금리 상승 유도</span>.",
+      "장기 금리 상승은 기술주의 <span class=\"text-rose-400 font-medium\">단기 밸류에이션 멀티플을 압박</span>하는 숨은 변수이다.",
+      "금리 안정 시 <span class=\"text-cyan-300 font-semibold\">반도체주의 강력한 밸류 리셋 반등</span> 연출."
+    ],
+    "data_points": [
+      "미국 10년물 국채 금리: 4.6%선에서 고착화",
+      "채권 자경단 매도 규모: 미국 국채 발행 증가에 따른 장기물 쏠림"
+    ],
+    "signal": "neutral",
+    "signal_reason": "장기 금리 노이즈가 있으나 반도체 실적 펀더멘털이 상쇄해주기 때문입니다.",
+    "key_companies": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "insight": "장기 금리 상승은 기술주 멀티플을 압박하나, 실적 성장이 높은 대장주는 이를 극복합니다.",
+    "action_point": "미국 국채 금리 상단 지지력을 관찰하며 반도체 대장주를 분할 매수하십시오."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "채권자경단",
+      "반도체주가변수",
+      "클로징벨",
+      "삼프로TV"
+    ]
+  }
+}

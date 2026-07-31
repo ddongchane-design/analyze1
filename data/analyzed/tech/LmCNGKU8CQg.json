@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "LmCNGKU8CQg",
+    "title": "테슬라가 진짜 무서운 이유",
+    "published": "2026-07-30T11:00:26+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=LmCNGKU8CQg",
+    "thumbnail": "https://img.youtube.com/vi/LmCNGKU8CQg/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "테슬라가 진짜 무서운 이유는 자율주행(FSD) 데이터와 피지컬 AI(옵티머스)가 결합해 <span class=\"text-cyan-300 font-semibold\">현실 세계를 지배하는 독점 생태계</span>를 구축하고 있기 때문입니다.",
+    "key_claims": [
+      "FSD V12의 신경망 기반 주행으로 <span class=\"text-cyan-300 font-semibold\">자율주행 데이터 축적 속도가 독보적</span>이다.",
+      "자동차에서 검증된 신경망 AI가 옵티머스 휴머노이드 로봇에 그대로 이전되어 <span class=\"text-amber-300 font-bold\">피지컬 AI 주도권 선점</span>.",
+      "소프트웨어와 하드웨어 수직통합이 <span class=\"text-violet-300 font-medium\">압도적인 밸류에이션 프리미엄</span>을 정당화."
+    ],
+    "data_points": [
+      "테슬라 FSD 누적 주행 거리: 15억 마일 돌파",
+      "옵티머스 로봇 공장 투입 수: 2025년 수천 대 1차 배치 예정"
+    ],
+    "signal": "bullish",
+    "signal_reason": "FSD 및 피지컬 AI의 독보적 데이터 격차가 테슬라의 독점력을 높여주기 때문입니다.",
+    "key_companies": [
+      "Tesla",
+      "SOD"
+    ],
+    "insight": "테슬라는 자동차 제조사가 아니라 현실 세계의 물리 법칙을 학습하는 피지컬 AI 무적의 플랫폼입니다.",
+    "action_point": "테슬라 및 자율주행/로봇 부품 밸류체인에 장기 투자를 추천합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "robot",
+      "stock"
+    ],
+    "tags": [
+      "테슬라진짜무서운이유",
+      "FSD12",
+      "옵티머스",
+      "피지컬AI",
+      "SOD"
+    ]
+  }
+}

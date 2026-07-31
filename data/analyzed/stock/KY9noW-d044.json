@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "KY9noW-d044",
+    "title": "[26.07.30 오전 방송 전체보기] 금리 동결·전쟁 우려 속 뉴욕증시 일제 하락...빅테크 '엇갈린' 실적",
+    "published": "2026-07-30T03:15:55+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=KY9noW-d044",
+    "thumbnail": "https://img.youtube.com/vi/KY9noW-d044/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "FOMC 금리 동결과 중동 전쟁 우려 속에서 빅테크 실적 엇갈림으로 <span class=\"text-rose-400 font-medium\">뉴욕증시가 단기 조정을 겪는 혼조세</span>를 보였습니다.",
+    "key_claims": [
+      "MSFT 호실적에도 불구하고 메타/아마존 가이던스로 <span class=\"text-rose-400 font-medium\">증시 전반의 숨고르기</span> 연출.",
+      "중동 지정학 불안과 고금리 지연으로 <span class=\"text-amber-300 font-bold\">투심 관망세 상존</span>.",
+      "실적 선도주 중심의 <span class=\"text-cyan-300 font-semibold\">차별화 장세 유지</span>."
+    ],
+    "data_points": [
+      "S&P 500 지수 변동: -0.5% 하락 조정",
+      "WTI 유가: 중동 지정학 영향으로 배럴당 79달러선 부근 유지"
+    ],
+    "signal": "neutral",
+    "signal_reason": "실적 장세 속에서 지정학 악재와 금리 경계감이 팽팽하기 때문입니다.",
+    "key_companies": [
+      "Microsoft",
+      "Meta",
+      "Amazon"
+    ],
+    "insight": "빅테크 실적이 엇갈리는 장세에서는 옥석 가리기를 통해 확실한 실적주에 집중해야 합니다.",
+    "action_point": "실적 서프라이즈 기업(MSFT) 위주로 포트폴리오를 압축하십시오."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "오전방송",
+      "금리동결전쟁우려",
+      "뉴욕증시하락",
+      "빅테크실적엇갈림",
+      "삼프로TV"
+    ]
+  }
+}

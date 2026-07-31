@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "18d4SRbPszs",
+    "title": "[26.07.30 오후 방송 전체보기] 삼성전자 확정 실적에도 반도체는 혼란의 시간...내일 시장의 운명은?",
+    "published": "2026-07-30T11:03:24+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=18d4SRbPszs",
+    "thumbnail": "https://img.youtube.com/vi/18d4SRbPszs/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "삼성전자의 호실적 발표에도 불구하고 외국인 수급 변동성으로 시장 혼란이 지속되었으나, <span class=\"text-cyan-300 font-semibold\">실적 가치 하단 지지력</span>이 확인되었습니다.",
+    "key_claims": [
+      "삼성전자 2분기 확실한 실적에도 수급 불균형으로 <span class=\"text-rose-400 font-medium\">단기 주가 왜곡</span> 발생.",
+      "메모리 판가 상승 및 HBM 공급 타이트는 변함없어 <span class=\"text-cyan-300 font-semibold\">주가 반등의 기본 체력</span> 형성.",
+      "8월 수급 회복 시 <span class=\"text-amber-300 font-bold\">빠른 이격 축소 리바운드</span> 기대."
+    ],
+    "data_points": [
+      "삼성전자 2분기 영업이익: 확정 실적 발표 및 메모리 마진 대폭 상향",
+      "코스피 반도체 하방 지지선: PBR 0.85배 수준에서 매수세 형성"
+    ],
+    "signal": "bullish",
+    "signal_reason": "확정 실적 발표로 이익 상향 가시성이 확보되었기 때문입니다.",
+    "key_companies": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "insight": "수급 왜곡으로 실적이 무시되는 장세는 정석적인 저가 분할 매수의 최적 타점입니다.",
+    "action_point": "삼성전자 및 반도체 대표주의 분할 매수를 추천합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "삼성전자확정실적",
+      "반도체혼란",
+      "오후방송",
+      "삼프로TV"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "sQG-R3l6_3o",
+    "title": "세금 깎아줘야 집값 잡힙니다 (싱가포르국립대 경영대학 부동산학과 이관옥 교수) (2부)",
+    "published": "2026-07-30T12:25:13+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=sQG-R3l6_3o",
+    "thumbnail": "https://img.youtube.com/vi/sQG-R3l6_3o/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "부동산 시장 안정을 위해서는 단순 규제보다 <span class=\"text-cyan-300 font-semibold\">거래세 감면 및 유동성 공급 유도</span>가 실질 집값 안정에 효과적입니다.",
+    "key_claims": [
+      "과도한 취득세/양도세는 <span class=\"text-rose-400 font-medium\">매물 동결 현상(Lock-in effect)</span>을 유발해 매물 부족 초과 심화.",
+      "거래세 완화를 통해 <span class=\"text-cyan-300 font-semibold\">다주택자 매물 출회를 유도</span>해야 집값이 안정된다.",
+      "조세 세제 정상화가 <span class=\"text-amber-300 font-bold\">주택 거래량 회복 및 시장 정상화</span>의 열쇠."
+    ],
+    "data_points": [
+      "거래세 감면 시 매물 출회 증가율: 과거 규제 완화 시 매물 20% 증가",
+      "서울 아파트 매물 동결 비율: 높은 양도세로 매물 잠김 지속"
+    ],
+    "signal": "neutral",
+    "signal_reason": "부동산 세제 개편 논의가 시장의 매물 흐름을 바꾸는 세부 변수이기 때문입니다.",
+    "key_companies": [
+      "싱가포르국립대",
+      "언더스탠딩"
+    ],
+    "insight": "양도세/취득세 감면 정책이 도입되면 매물이 유통되며 부동산 가격 과열을 잡을 수 있습니다.",
+    "action_point": "부동산 정책 세제 개편 가이드라인을 주시하며 자산 전략을 점검하십시오."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "etc"
+    ],
+    "tags": [
+      "세금깎아줘야집잡힘",
+      "이관옥교수",
+      "부동산조세2부",
+      "언더스탠딩"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "8F-cYdY6MX4",
+    "title": "[김현석의 브레이킹 뉴스] 2분기 미국 GDP · 6월 PCE(개인소비지출) 물가 발표! 7월 30일 오후 9시30분 L.I.V.E",
+    "published": "2026-07-30T12:38:14+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=8F-cYdY6MX4",
+    "thumbnail": "https://img.youtube.com/vi/8F-cYdY6MX4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 2분기 GDP 견조함과 6월 PCE 물가 안정이 확인되며 <span class=\"text-cyan-300 font-semibold\">골디락스 연착륙 가능성</span>이 높아졌습니다.",
+    "key_claims": [
+      "6월 PCE 물가가 예상치에 부합하며 <span class=\"text-cyan-300 font-semibold\">인플레이션 완화 안도감</span> 제공.",
+      "2분기 GDP 성장률이 소비에 힘입어 견조하여 <span class=\"text-amber-300 font-bold\">경기 후퇴 우려를 상쇄</span>.",
+      "연준 통화 정책의 <span class=\"text-cyan-300 font-semibold\">유연한 정책 운용 여지</span> 확보."
+    ],
+    "data_points": [
+      "미국 2분기 GDP 성장률: 연율 2.8% 기록 (예상 상회)",
+      "6월 근원 PCE 물가 상승률: 전년 대비 2.6%로 하향 안정"
+    ],
+    "signal": "bullish",
+    "signal_reason": "미국 거시 경기의 튼튼함과 물가 완화라는 골디락스 환경이 증시 하방을 지지하기 때문입니다.",
+    "key_companies": [
+      "한경글로벌마켓",
+      "연준"
+    ],
+    "insight": "거시 지표가 골디락스를 가리키고 있어 고금리 속에서도 우량 기업들의 실적 우상향이 가능합니다.",
+    "action_point": "미국 증시 패시브 자산 및 글로벌 우량주 편입을 지속하십시오."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "미국GDP",
+      "PCE물가",
+      "김현석브레이킹",
+      "한경글로벌마켓"
+    ]
+  }
+}
