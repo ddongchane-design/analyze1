@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "hN_fGhqQH1M",
+    "title": "폭락의 주범이 꺾이고 반등의 시작일까? 이 지표를 봐야 합니다",
+    "published": "2026-08-02T15:46:47+00:00",
+    "channel_name": "이효석아카데미",
+    "url": "https://www.youtube.com/watch?v=hN_fGhqQH1M",
+    "thumbnail": "https://img.youtube.com/vi/hN_fGhqQH1M/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "주가 폭락을 유도했던 <span class=\"text-rose-400 font-medium\">엔화 캐리 트레이드 청산 및 장기 국채 금리 급등세</span>가 일시적으로 진정되는 시점에서, 추세적 반등을 확인하기 위해 필수적으로 추적해야 할 <span class=\"text-cyan-300 font-semibold\">핵심 마크로 지표(엔/달러 환율, 실질 금리, 빅테크 이익 수정 비율)</span>를 제시함.",
+    "key_claims": [
+      "엔화 강발 폭락 압력이 멈추면서 자산 시장 변동성 지수(VIX)가 진정되고 있음.",
+      "주가 반등의 지속성은 단순 가격 낙폭이 아니라 EPS(주당순이익) 상향 조정 비율이 유지되는지에 달려 있음."
+    ],
+    "data_points": [
+      "엔/달러 환율 변동 폭 및 미국 10년물 실질금리 수치",
+      "글로벌 빅테크 이익 수정 비율(Earnings Revision Ratio)"
+    ],
+    "signal": "bullish",
+    "signal_reason": "폭락의 핵심 주범이었던 환율 및 실질 금리 불안감이 꺾이고 실적 모멘텀 지표가 살아나고 있기 때문임.",
+    "key_companies": [
+      "엔비디아(NVDA)",
+      "SK하이닉스(000660)",
+      "삼성전자(005930)"
+    ],
+    "insight": "시장의 공포감이 극에 달할 때 매도 주범 지표(엔화/금리)의 피크아웃을 확인하면 주가 최적의 기술적 반등 타점을 잡을 수 있음.",
+    "action_point": "엔/달러 환율 및 빅테크 이익 수정 비율 지표를 모니터링하며 주도주 매수 대응."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "엔화캐리",
+      "반등지표",
+      "실질금리",
+      "이익수정비율",
+      "이효석"
+    ]
+  }
+}

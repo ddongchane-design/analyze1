@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "qEE3rkGo8AY",
+    "title": "현대차 아틀라스 공장이 끝이 아니다… 다음 목적지는 주방",
+    "published": "2026-08-02T10:14:19+00:00",
+    "channel_name": "엔지니어TV",
+    "url": "https://www.youtube.com/watch?v=qEE3rkGo8AY",
+    "thumbnail": "https://img.youtube.com/vi/qEE3rkGo8AY/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">현대차그룹 보스턴다이나믹스</span>의 차세대 휴머노이드 로봇 아틀라스(Atlas)가 자동차 제조 공장 투입을 넘어, 주방 및 가정/서비스 산업으로 적용 범위를 조기 확장을 추진 중임을 해설함. 구글 Gemini Robotics 2 등 최첨단 물리 AI 모델 탑재와 결합하여 범용 가정/상업용 로봇으로 상용화 속도를 올리고 있음.",
+    "key_claims": [
+      "아틀라스의 목적지는 단순 현대차 공장 자동화를 넘어 주방 및 가정용 범용 서비스 로봇임.",
+      "전동식 파워트레인 도입으로 유압식의 단점(소음, 오일 누유)을 완벽히 극복하여 가정 진입 여건이 완성됨."
+    ],
+    "data_points": [
+      "보스턴다이나믹스 전동식 아틀라스 관절 가동 범위 및 탑재 피지컬 AI 모델 규격"
+    ],
+    "signal": "bullish",
+    "signal_reason": "휴머노이드 로봇의 적용 처가 공장에서 주방/가정으로 급격히 확대되며 현대차그룹의 피지컬 AI 가치가 급상승하기 때문임.",
+    "key_companies": [
+      "현대차(005380)",
+      "보스턴다이나믹스",
+      "구글(GOOGL)"
+    ],
+    "insight": "현대차는 자동차 제조사를 넘어 보스턴다이나믹스의 전동식 휴머노이드와 구글 브레인을 결합한 글로벌 피지컬 AI 로봇 거인으로 재평가됨.",
+    "action_point": "현대차그룹의 로봇 상용화 로드맵과 보스턴다이나믹스 밸류체인(부품/액추에이터) 매수 관점 접근."
+  },
+  "classification": {
+    "primary_topic": "robot",
+    "secondary_topics": [
+      "stock",
+      "tech"
+    ],
+    "tags": [
+      "아틀라스",
+      "보스턴다이나믹스",
+      "현대차",
+      "서비스로봇",
+      "피지컬AI"
+    ]
+  }
+}

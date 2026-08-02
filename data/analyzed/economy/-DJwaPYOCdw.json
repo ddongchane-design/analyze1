@@ -1,0 +1,37 @@
+{
+  "video": {
+    "id": "-DJwaPYOCdw",
+    "title": "이란은 때릴수록 더 강해집니다 (※2026년 7월 27일 방송입니다)",
+    "published": "2026-07-27T00:00:00+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=-DJwaPYOCdw",
+    "thumbnail": "https://img.youtube.com/vi/-DJwaPYOCdw/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "중동 지정학적 충돌 상황에서 <span class=\"text-violet-300 font-medium\">이란에 대한 외부 압박</span>과 군사적 제재가 오히려 이란 내부의 정권 결속력과 대항력을 강화하는 역설을 설명함. 미국 및 서방 국가들의 제재 장기화가 원유 공급망 및 국제 유가 변동성에 지속적인 잠재 리스크로 작용하고 있음.",
+    "key_claims": [
+      "외부 군사적·경제적 타격이 이란 내부의 정치적 통제력 강화를 초래함.",
+      "중동 정세 안정을 위한 외교적 협상(JCPOA 등)의 재가동 가능성이 불확실함."
+    ],
+    "data_points": [
+      "2015년 JCPOA 합의 및 2026년 현재 재제재 국면 비판"
+    ],
+    "signal": "neutral",
+    "signal_reason": "지정학적 리스크 장기화가 유가 하단을 지지하나, 즉각적인 전면전 확대 가능성은 제한적임.",
+    "key_companies": [],
+    "insight": "중동 제재는 단순한 원유 차단을 넘어 지정학적 블록화 및 에너지 가격의 상방 위험을 상시 유지시키는 구조적 원인임.",
+    "action_point": "국제 유가 변동성과 에너지 관련 종목의 지정학적 헤지 역할을 주시할 필요가 있음."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "energy"
+    ],
+    "tags": [
+      "이란",
+      "지정학리스크",
+      "중동정세",
+      "국제유가"
+    ]
+  }
+}

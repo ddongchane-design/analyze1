@@ -1,0 +1,38 @@
+{
+  "video": {
+    "id": "y_plKrU-Qk4",
+    "title": "인간의 뇌는 원래 주식하면 망하게 설계됐다 (김나영 경제전문작가)",
+    "published": "2026-08-02T11:55:32+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=y_plKrU-Qk4",
+    "thumbnail": "https://img.youtube.com/vi/y_plKrU-Qk4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "행동경제학과 뇌과학 관점에서 인간의 편향(손실 회피 심리, 처분 효과, 군중 심리)이 주식 투자 시 <span class=\"text-rose-400 font-medium\">손실을 극대화하는 본능적 오류</span>를 일으킴을 설명함. 뇌의 본능을 역행하여 원칙 기반의 시스템 매매와 장기 투자 규율을 확립하는 방법을 솔루션으로 제시함.",
+    "key_claims": [
+      "인간의 뇌는 손실의 고통을 이익의 기쁨보다 2배 이상 크게 느껴 이익은 조기 확정하고 손실은 끝까지 방치함(처분 효과).",
+      "투자의 성공은 뇌의 본능(군중 추종, 뇌동매매)을 극복하고 규칙에 따라 원칙 매매를 집행하는 능력에 달렸음."
+    ],
+    "data_points": [
+      "행동경제학 손실 회피 계수 (약 2.25배 손실 고통 인식)"
+    ],
+    "signal": "neutral",
+    "signal_reason": "행동경제학 및 투자 심리 원칙을 전하는 교육적 내용임.",
+    "key_companies": [],
+    "insight": "투자에서 가장 큰 적은 외부 시장이 아닌 인간 본능의 뇌 편향이며, 이를 통제하는 시스템 규율이 성공적인 장기 성과를 결정함.",
+    "action_point": "뇌동매매 방지를 위한 손절/익절 원칙 수립 및 적립식 자동화 매매 프로세스 도입."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "행동경제학",
+      "투자심리",
+      "처분효과",
+      "김나영",
+      "뇌동매매방지"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "5NZ0BgpeenY",
+    "title": "7월 반도체 폭락과 급등의 숨겨진 비밀",
+    "published": "2026-08-01T05:22:47+00:00",
+    "channel_name": "이효석아카데미",
+    "url": "https://www.youtube.com/watch?v=5NZ0BgpeenY",
+    "thumbnail": "https://img.youtube.com/vi/5NZ0BgpeenY/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "7월 진행된 글로벌 <span class=\"text-cyan-300 font-semibold\">반도체 주가 변동성</span>(급락 후 반등)의 근본 원인을 하이퍼스케일러의 CapEx 이익 회수 우려, 분기말 리밸런싱 수급, 그리고 메모리 가격(ASP) 구조를 통해 정밀하게 파헤침. 단기 변동성에도 불구하고 AI 가속기용 <span class=\"text-cyan-300 font-semibold\">HBM</span> 수요 극대화와 공급 제약으로 인해 한국 메모리 기업들의 실적 우상향 기조는 유효함을 역설함.",
+    "key_claims": [
+      "7월 반도체 급락은 펀더멘털 훼손이 아닌 분기말 수급 청산 및 차익 실현 기회였음.",
+      "HBM3E 공급 둔화 우려는 헛소문이며 SK하이닉스와 삼성전자의 이익 체력은 사상 최고 수준임.",
+      "변동성 장세에서는 단순 센티먼트보다 실제 이익 수정치(EPS 상향)를 추적해야 함."
+    ],
+    "data_points": [
+      "2026년 7월 코스피 반도체 변동폭: 고점 대비 10% 내외 조정 후 반등",
+      "HBM3E 공급 가격 및 이익률: 역사적 고점 경신 중"
+    ],
+    "signal": "bullish",
+    "signal_reason": "AI 반도체 펀더멘털(HBM 공급 부족 및 실적 상향)이 견고하며 주가 조정을 매수 기회로 활용할 수 있는 구간임.",
+    "key_companies": [
+      "SK하이닉스(000660)",
+      "삼성전자(005930)",
+      "엔비디아(NVDA)",
+      "마이크론(MU)"
+    ],
+    "insight": "반도체 주가의 7월 조정은 수급 쏠림과 리밸런싱에 의한 일시적 소용돌이였으며, 이익 추정치가 지속 상향되는 한 반도체 주도주 장세는 멈추지 않음.",
+    "action_point": "주가 조정 시 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 및 <span class=\"text-cyan-300 font-semibold\">삼성전자</span> 등 메모리 핵심 대장주에 대한 분할 매수 전략이 유효함."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "반도체폭락",
+      "HBM",
+      "SK하이닉스",
+      "삼성전자",
+      "이효석"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "SHE76Ss4dPE",
+    "title": "\"딱 이것만\" 해주면 20년뒤 당신의 자녀는 억단위 자산가가 됩니다",
+    "published": "2026-08-01T05:22:47+00:00",
+    "channel_name": "이효석아카데미",
+    "url": "https://www.youtube.com/watch?v=SHE76Ss4dPE",
+    "thumbnail": "https://img.youtube.com/vi/SHE76Ss4dPE/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "장기 적립식 주식 투자의 복리 효과와 글로벌 시장 1등 자산(<span class=\"text-cyan-300 font-semibold\">미국 빅테크 S&P500/나스닥 ETF</span>)을 장기 적립하는 자녀 증여 및 자산 배분 노하우를 공개함. 단기 시장 변동성에 흔들리지 않고 자본주의 성장의 결실을 장기 보유하는 복리의 위력을 실증 사례로 설명함.",
+    "key_claims": [
+      "자녀 명의의 지수 연동 ETF 장기 적립식 배분은 복리 시간 가치를 극대화하는 최고의 증여 전략임.",
+      "개별 종목의 단기 노이즈보다 글로벌 우상향 시장 인덱스를 20년 이상 꾸준히 모아가는 실행력이 결정적임."
+    ],
+    "data_points": [
+      "월 10~30만 원 20년 복리적립 투자 시 예상 자산 형성 스케일 (복리 수익률 10% 가정)"
+    ],
+    "signal": "bullish",
+    "signal_reason": "글로벌 대표 기술주 및 인덱스 장기 투자 펀더멘털의 구조적 유효성을 재확인해주기 때문임.",
+    "key_companies": [
+      "애플(AAPL)",
+      "엔비디아(NVDA)",
+      "마이크로소프트(MSFT)"
+    ],
+    "insight": "투자의 핵심 비밀은 타이밍 잡기가 아닌 '시간과 복리'에 있으며, 글로벌 독점기업 장기 보유가 자산 격차를 극복하는 가장 강력한 수단임.",
+    "action_point": "자녀 증여 계좌 활용 S&P500 / 미국 빅테크 ETF 장기 적립식 스케줄 실행."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "장기투자",
+      "복리효과",
+      "자녀증여",
+      "S&P500",
+      "이효석"
+    ]
+  }
+}

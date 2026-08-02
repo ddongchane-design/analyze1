@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "FiC7qjeaQdE",
+    "title": "아마존, 컨퍼런스콜 환호에 15%↑...30년물 국채금리 또 고점 돌파 [월가 뉴스레터]",
+    "published": "2026-08-02T22:03:21+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=FiC7qjeaQdE",
+    "thumbnail": "https://img.youtube.com/vi/FiC7qjeaQdE/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">아마존(AMZN)</span>이 클라우드 AWS 매출 재가속 및 효율적인 CapEx 집행에 힘입어 실적 발표 후 주가가 15% 급등한 반면, 미국 <span class=\"text-rose-400 font-medium\">30년물 국채 금리</span>가 또다시 고점을 돌파하며 장기 금리 상방 압력이 기술주 밸류에이션을 위협하는 엇갈린 월가 상황을 전함. 빅테크 실적 차별화 장세가 가속화되고 있음.",
+    "key_claims": [
+      "아마존 AWS의 영업이익률과 AI 클라우드 수주 가속화가 주가 폭등의 주된 동력임.",
+      "미국 장기 국채 발행 부담으로 30년물 금리가 고점을 재차 갱신하여 거시 금융 환경은 부담스러운 상태임.",
+      "실적이 기대치에 못 미치는 빅테크는 급락하고 실적으로 입증한 빅테크는 급등하는 극단적 차별화 지속."
+    ],
+    "data_points": [
+      "아마존(AMZN) 실적 발표 후 주가 상승률: +15%",
+      "미국 30년물 국채 금리: 4.6%선 돌파 및 고점 재경신"
+    ],
+    "signal": "bullish",
+    "signal_reason": "장기 금리 상승이라는 거시 악재에도 불구하고 AI 클라우드 실적이 증명된 대형 빅테크의 이익 창출력이 시장을 압도하기 때문임.",
+    "key_companies": [
+      "아마존(AMZN)",
+      "마이크로소프트(MSFT)",
+      "알파벳(GOOGL)",
+      "엔비디아(NVDA)"
+    ],
+    "insight": "금리가 높아진 시장 환경에서는 단순 스토리가 아닌 확실한 실적(AWS 클라우드 마진 등)을 뽑아내는 1등 빅테크만 상승세를 독식함.",
+    "action_point": "AI 투자가 실제 클라우드 매출 실적으로 연결되는 아마존 등 실적 확인 기업 위주로 투자 집중."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy",
+      "tech"
+    ],
+    "tags": [
+      "아마존",
+      "AWS실적",
+      "국채금리",
+      "월가뉴스레터",
+      "빅테크실적"
+    ]
+  }
+}

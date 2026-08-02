@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "VrloORxOLoA",
+    "title": "구글 로봇 경쟁자는 테슬라가 아닙니다... Gemini Robotics 2에서 밝혀진, 로봇판 안드로이드 등장",
+    "published": "2026-08-01T09:18:24+00:00",
+    "channel_name": "안될공학 - IT 테크 신기술",
+    "url": "https://www.youtube.com/watch?v=VrloORxOLoA",
+    "thumbnail": "https://img.youtube.com/vi/VrloORxOLoA/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">구글 Gemini Robotics 2</span>의 핵심 경쟁력이 특정 수직통합 하드웨어(테슬라 방식)가 아닌, 다양한 로봇 폼팩터에 이식 가능한 <span class=\"text-cyan-300 font-semibold\">'로봇판 안드로이드(범용 VLA 모델)'</span> 생태계 구축에 있음을 분석함. 전신 제어(Whole Body Intelligence)와 정밀 양손 조작 능력이 공장 및 가정용 휴머노이드 상용화를 가속화할 것임.",
+    "key_claims": [
+      "구글은 로봇 하드웨어 직접 제조보다 범용 피지컬 AI 파운데이션 모델(VLA)을 공급하는 플랫폼 거인이 되고자 함.",
+      "테슬라의 옵티머스 수직통합 모델에 대항하여, 현대차 아틀라스 및 글로벌 로봇 폼팩터들이 구글 브레인 생태계로 진입 중임."
+    ],
+    "data_points": [
+      "Gemini Robotics 2 기반 VLA 추론 및 전신 제어 모듈 반응 속도 데이터"
+    ],
+    "signal": "bullish",
+    "signal_reason": "범용 로봇 OS 및 VLA 파운데이션 모델 경쟁 가열로 피지컬 AI 분야 투자가 폭발할 것이기 때문임.",
+    "key_companies": [
+      "구글(GOOGL)",
+      "테슬라(TSLA)",
+      "현대차(005380)"
+    ],
+    "insight": "스마트폰 시장에서 iOS 대 안드로이드 구도가 형성되었듯, 휴머노이드 로봇 시장에서도 테슬라 수직통합과 구글 범용 OS 동맹의 양강 체제가 개막됨.",
+    "action_point": "구글 로봇 OS 오픈 생태계에 참여하는 로봇 부품사(감속기, 액추에이터, 센서) 중심 투자 검토."
+  },
+  "classification": {
+    "primary_topic": "robot",
+    "secondary_topics": [
+      "tech",
+      "stock"
+    ],
+    "tags": [
+      "GeminiRobotics2",
+      "로봇안드로이드",
+      "안될공학",
+      "피지컬AI",
+      "VLA"
+    ]
+  }
+}

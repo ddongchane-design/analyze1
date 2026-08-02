@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "NSiLb7YEfC8",
+    "title": "중국 애들이 요즘 이상하다",
+    "published": "2026-08-02T11:00:13+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=NSiLb7YEfC8",
+    "thumbnail": "https://img.youtube.com/vi/NSiLb7YEfC8/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "중국 내부 기술 기업들과 청년 노동력이 저비용 고효율 AI 소프트웨어 개발 및 <span class=\"text-cyan-300 font-semibold\">딥시크(DeepSeek)</span> 등 오픈소스 AI 생태계에 사활을 걸며 글로벌 빅테크의 독점에 파동을 일으키는 최신 테크 동향을 다룸. 미국 제재를 회피하기 위한 저비용 모델 혁신이 거세지고 있음.",
+    "key_claims": [
+      "중국 AI 씬은 고성능 GPU 부족을 소프트웨어 알고리즘 최적화 및 오픈소스 진영 결집으로 돌파하고 있음.",
+      "딥시크 등 저비용 AI 모델의 등장으로 미국 빅테크의 API 가격 인하 치킨게임이 촉발됨."
+    ],
+    "data_points": [
+      "중국 딥시크(DeepSeek) 모델 개발 비용: 미국 빅테크 대비 1/10 이하 수준"
+    ],
+    "signal": "neutral",
+    "signal_reason": "중국의 오픈소스 AI 모델 추격이 인프라 비용 단가를 낮추는 긍정 효과와 빅테크 마진 압박이라는 위험을 동시 내포함.",
+    "key_companies": [
+      "딥시크(DeepSeek)",
+      "엔비디아(NVDA)",
+      "텐센트",
+      "알리바바"
+    ],
+    "insight": "미국의 미세 공정 규제가 역설적으로 중국 개발자들로 하여금 모델 경량화 및 오픈소스 효율 혁신을 가속화시키게 만듦.",
+    "action_point": "오픈소스 모델 확산으로 인한 클라우드 토큰 단가 인하 및 온디바이스 AI 응용 소프트웨어 기업들의 기회를 포착."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock",
+      "economy"
+    ],
+    "tags": [
+      "중국AI",
+      "딥시크",
+      "오픈소스AI",
+      "DeepSeek",
+      "테크혁신"
+    ]
+  }
+}

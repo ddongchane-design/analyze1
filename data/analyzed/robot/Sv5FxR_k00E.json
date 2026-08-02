@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "Sv5FxR_k00E",
+    "title": "구글 Gemini Robotics 2 공개... 다음은 아틀라스일까?",
+    "published": "2026-08-01T10:22:41+00:00",
+    "channel_name": "엔지니어TV",
+    "url": "https://www.youtube.com/watch?v=Sv5FxR_k00E",
+    "thumbnail": "https://img.youtube.com/vi/Sv5FxR_k00E/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "구글 딥마인드가 발표한 차세대 물리 AI 모델 <span class=\"text-cyan-300 font-semibold\">Gemini Robotics 2 (ER)</span>의 실체를 다룸. 정밀 양손 조작(쓰레기봉투 묶기, 전구 교체, 지퍼백 제어)과 전신 제어(Whole Body Control) 능력을 시연하며, 하드웨어 중립적 안드로이드 방식 로봇 OS 플랫폼으로 보스턴다이나믹스 아틀라스(Atlas) 등 다양한 휴머노이드에 이식될 가능성을 분석함.",
+    "key_claims": [
+      "구글 Gemini Robotics 2는 비정형 유체/물체에 대한 정밀 촉각·시각 교차 피드백 제어에서 비약적 진전을 이룸.",
+      "테슬라(수직통합 아이폰 방식)와 달리 구글은 다양한 로봇 하드웨어 파트너에 범용 Brain을 공급하는 '로봇판 안드로이드' 전략을 추진함."
+    ],
+    "data_points": [
+      "Gemini Robotics 2 시연 성능: 자율 1배속 실제 환경 정밀 양손 조작 성공"
+    ],
+    "signal": "bullish",
+    "signal_reason": "피지컬 AI 브레인 파운데이션 모델의 상용화가 임박함에 따라 휴머노이드 로봇 생태계 확장이 가속화될 것이기 때문임.",
+    "key_companies": [
+      "구글(GOOGL)",
+      "보스턴다이나믹스",
+      "현대차(005380)",
+      "Apptronik"
+    ],
+    "insight": "구글의 로봇 OS 플랫폼 진입은 휴머노이드 하드웨어 제조사들에게 신속한 범용 지능 탑재 기회를 제공하여 상용화 시점을 앞당김.",
+    "action_point": "구글 피지컬 AI 파트너십을 맺은 로봇 하드웨어/액추에이터 및 현대차 그룹(보스턴다이나믹스) 모멘텀 주목."
+  },
+  "classification": {
+    "primary_topic": "robot",
+    "secondary_topics": [
+      "tech",
+      "stock"
+    ],
+    "tags": [
+      "GeminiRobotics2",
+      "구글딥마인드",
+      "피지컬AI",
+      "아틀라스",
+      "휴머노이드"
+    ]
+  }
+}

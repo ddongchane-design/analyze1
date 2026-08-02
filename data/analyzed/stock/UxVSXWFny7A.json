@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "UxVSXWFny7A",
+    "title": "레버리지 청산 끝..이 모든 건 시타델의 작전이었던 걸까 | 월가백브리핑",
+    "published": "2026-08-01T03:00:28+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=UxVSXWFny7A",
+    "thumbnail": "https://img.youtube.com/vi/UxVSXWFny7A/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "월가 헤지펀드(시타델 등)의 수급 플레이와 대규모 레버리지 파생상품 청산이 단기 기술주 급락을 유발한 메커니즘을 분석함. 청산 폭풍이 마무리 단계에 접어들며 수급 악재가 소멸하고, 빅테크 펀더멘털로의 <span class=\"text-amber-300 font-bold\">주가 회귀 및 매수세 유입</span>이 가시화됨을 설명함.",
+    "key_claims": [
+      "시타델 등 대형 헤지펀드의 옵션 변동성 매매와 레버리지 청산이 과도한 낙폭을 유발했음.",
+      "수급성 폭락 종료 후 펀더멘털 실적이 뛰어난 반도체 및 빅테크 종목 중심으로 급반등이 전개될 것임."
+    ],
+    "data_points": [
+      "월가 레버리지 청산 규모 및 VIX 지수 변동폭 데이터"
+    ],
+    "signal": "bullish",
+    "signal_reason": "인위적 파생 수급 악재 청산이 완료됨에 따라 억눌렸던 빅테크 매수세가 재개될 구간이기 때문임.",
+    "key_companies": [
+      "시타델",
+      "엔비디아(NVDA)",
+      "애플(AAPL)"
+    ],
+    "insight": "월가 헤지펀드의 포지션 청산은 단기 주가 가곡현상을 만들지만, 수급 안개 소멸 후 주가는 본래의 기업 실력(EPS)으로 수렴함.",
+    "action_point": "헤지펀드 수급 청산 종료 시점을 기술주 저점 매수 기회로 삼는 대응 권장."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "월가백브리핑",
+      "시타델",
+      "레버리지청산",
+      "헤지펀드",
+      "변동성매매"
+    ]
+  }
+}

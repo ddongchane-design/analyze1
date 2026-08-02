@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "kHk-7FPHA3w",
+    "title": "[어바웃 뉴욕] 미국 젊은이들이 콜라 대신 마시는 것 | 펩시는 2조를 냈고, 코카콜라는 따라 만들었다 | 이나연 특파원",
+    "published": "2026-08-01T03:00:07+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=kHk-7FPHA3w",
+    "thumbnail": "https://img.youtube.com/vi/kHk-7FPHA3w/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 MZ세대를 기점으로 탄산음료 대신 프리바이오틱스 및 저당 유기농 음료(<span class=\"text-cyan-300 font-semibold\">올리팝 Olipop / 포비 오비 Poppi</span>) 시장이 폭발적으로 성장하는 트렌드를 전함. 펩시코와 코카콜라 등 글로벌 기성 음료 거인들이 조 단위 M&A 및 미투 제품으로 신흥 건강 탄산음료 시장을 선점하려는 전쟁을 다룸.",
+    "key_claims": [
+      "미국 젊은 층의 탈(脫)설탕 건강 음료 선호가 펩시/코카콜라의 전통 콜라 매출을 위협함.",
+      "기성 음료 빅테크 기업들이 프리바이오틱스 신생 음료 브랜드를 인수하거나 자체 라인업을 강화하며 소비재 재편 진행 중."
+    ],
+    "data_points": [
+      "올리팝/포비 매출 성장률 및 인수 제안 규모: 약 2조 원(20억 달러) 평가"
+    ],
+    "signal": "bullish",
+    "signal_reason": "웰빙 헬스케어 음료라는 확실한 소비 패턴 변화로 신흥 음료 및 펩시/코카콜라의 신사업 인수 모멘텀이 발생하기 때문임.",
+    "key_companies": [
+      "코카콜라(KO)",
+      "펩시코(PEP)",
+      "올리팝(Olipop)",
+      "포비(Poppi)"
+    ],
+    "insight": "소비재 트렌드는 설탕 과다 음료에서 대사 건강을 돕는 기능성 음료로 이동하고 있으며, 이는 필수 소비재 거인들의 지형을 바꾸는 M&A 촉매임.",
+    "action_point": "코카콜라, 펩시코 등 글로벌 소비재 기업들의 신규 브랜딩/인수 행보와 웰빙 음료 기업 밸류체인 체크."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "미국소비재",
+      "올리팝",
+      "코카콜라",
+      "펩시코",
+      "프리바이오틱스"
+    ]
+  }
+}

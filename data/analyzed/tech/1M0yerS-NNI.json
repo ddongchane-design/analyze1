@@ -1,0 +1,41 @@
+{
+  "video": {
+    "id": "1M0yerS-NNI",
+    "title": "강남 대장 아파트 값이라는 엔비디아 신제품 ㄷㄷ",
+    "published": "2026-08-02T11:00:13+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=1M0yerS-NNI",
+    "thumbnail": "https://img.youtube.com/vi/1M0yerS-NNI/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">엔비디아</span>의 최신 차세대 AI 가속기 Rack(NVL72 / NVL144 등) 신제품 단가가 강남 아파트 가격에 육박하는 초고가 랙 수준으로 형성되어 있음을 조명함. 수냉식 냉각 시스템과 전력 소비 효율이 AI 데이터센터 구축의 핵심 경쟁력으로 떠오르고 있음.",
+    "key_claims": [
+      "엔비디아의 초고가 랙 스케일 AI 가속기는 개별 칩 단가를 넘어 랙 단위 시스템 파워로 과금됨.",
+      "대규모 AI 팩토리 구축을 위해서는 수냉식 쿨링 및 전력 인프라 확충이 필수적임."
+    ],
+    "data_points": [
+      "엔비디아 NVL72/144 랙 스케일 가격: 시스템 랙당 200만~300만 달러(한화 약 30억~40억 원) 육박",
+      "소비 전력 요구치: 랙당 600kW~1000kW 수준"
+    ],
+    "signal": "bullish",
+    "signal_reason": "AI 하드웨어의 초고가 단가 유지와 초고성능 랙 스케일 시스템 수요가 하이퍼스케일러 투자 유인을 지속시키고 있음.",
+    "key_companies": [
+      "엔비디아(NVDA)"
+    ],
+    "insight": "AI 반도체는 개별 GPU 칩 판매에서 랙 스케일 수냉 솔루션 전체를 아우르는 초고가 'AI 팩토리' 시스템 사업으로 전환함.",
+    "action_point": "엔비디아 NVL 랙 스케일 출하량 증가에 따른 수냉 쿨링 장비 및 초고용량 메모리 공급망을 점검해야 함."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "엔비디아",
+      "NVL72",
+      "AI팩토리",
+      "수냉식쿨링",
+      "B200"
+    ]
+  }
+}

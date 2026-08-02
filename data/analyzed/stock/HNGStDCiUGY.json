@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "HNGStDCiUGY",
+    "title": "반도체 급락세 진정되었나? 하반기 반도체투자는 빅테크만 봐서는 안됩니다 | 김장열 유니스토리자산운용 리서치센터 [글로벌 인터뷰]",
+    "published": "2026-08-02T22:51:21+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=HNGStDCiUGY",
+    "thumbnail": "https://img.youtube.com/vi/HNGStDCiUGY/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "하반기 반도체 투자 전략으로 빅테크 7개사에만 매몰되지 말고, <span class=\"text-cyan-300 font-semibold\">소부장 독점 기술 기업과 메모리 벨류체인 핵심 수혜주</span>로 시선을 넓혀야 함을 강조함. 7월 급락세가 진정되면서 HBM 수급 숏티지와 파운드리 수주 실적이 뒷받침되는 펀더멘털주 위주의 하반기 랠리가 기대됨.",
+    "key_claims": [
+      "빅테크의 CapEx 부담 지적은 과도하며 실제 서버 및 가속기 주문량은 2027년까지 꽉 차 있음.",
+      "하반기 수익률 측면에서는 1등 대장주보다 주가 하락폭이 컸던 핵심 반도체 소부장(장비/소재)의 반등 탄력이 더 클 수 있음."
+    ],
+    "data_points": [
+      "2026년 하반기 HBM3E 및 HBM4 수주 가이던스 상향",
+      "글로벌 빅테크 CapEx 총액 상향 추세"
+    ],
+    "signal": "bullish",
+    "signal_reason": "반도체 급락세가 일단락되고 이익 추정치 상승에 따른 소부장 순환매 랠리 여건이 무르익었기 때문임.",
+    "key_companies": [
+      "SK하이닉스(000660)",
+      "삼성전자(005930)",
+      "TSMC",
+      "엔비디아(NVDA)"
+    ],
+    "insight": "반도체 급락 이후의 진정한 주가 상승은 단순 지수 상승이 아닌 실적 개선이 뚜렷한 소부장 알짜 기업들의 밸류에이션 갭 메우기로 진행됨.",
+    "action_point": "빅테크 외에도 HBM 공급망에 엮인 핵심 중소형 반도체 소부장 종목들을 눌림목 매수 타겟으로 설정."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "반도체하반기전망",
+      "김장열",
+      "HBM수혜주",
+      "반도체소부장",
+      "빅테크CapEx"
+    ]
+  }
+}

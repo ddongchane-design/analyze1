@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "-4hOsrJbflA",
+    "title": "[일본경제상황] \"하이닉스, 키옥시아 목숨줄 잡고 있다\"...40년 만에 다시 '금융대국'으로 부활한 일본, 시가총액 순위에 숨겨진 비밀 / 교양이를 부탁해",
+    "published": "2026-08-02T13:00:08+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=-4hOsrJbflA",
+    "thumbnail": "https://img.youtube.com/vi/-4hOsrJbflA/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "일본 주식시장의 총가치가 급증하며 40년 만에 <span class=\"text-amber-300 font-bold\">금융대국</span>으로 재부상하는 과정에서, 메모리 반도체 기업 키옥시아(Kioxia)와 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>의 지분 연관성 및 사업 협력이 핵심 변수로 부각됨. 엔화 약세 기반의 외국인 자금 유입과 일본 상장사들의 주주환원 확대가 도쿄 증시 상승을 견인하고 있으나, 낸드 파운드리 시장 경쟁 심화로 인한 지배구조 재편 압력이 커지고 있음.",
+    "key_claims": [
+      "<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>가 펀드를 통해 키옥시아 지분을 우회 보유하고 있어 키옥시아의 상장 및 경영 향방에 결정적 영향을 미침.",
+      "일본 증시의 부활은 디플레이션 탈출과 기업 지배구조 개선(주주환원 강요)이 맞물린 결과임."
+    ],
+    "data_points": [
+      "일본 상장사 도쿄 증시 시가총액: 약 5,500조 달러/엔 규모 기록",
+      "키옥시아 지분 구조 내 SK하이닉스 간접 지율: 약 15% 수준"
+    ],
+    "signal": "bullish",
+    "signal_reason": "일본 자본시장의 재평가와 글로벌 낸드 플래시 공급망 조정을 통한 한국 메모리 반도체 기업들의 지배력 제고 기대감이 큼.",
+    "key_companies": [
+      "SK하이닉스(000660)",
+      "키옥시아",
+      "소프트뱅크"
+    ],
+    "insight": "일본 도쿄 증시의 재평가는 단순한 엔저 효과를 넘어 기업 지배구조 혁신과 반도체 공급망 재편(키옥시아-SK하이닉스 연동)이 이끄는 구조적 변화임.",
+    "action_point": "키옥시아 상장 추진 경과에 따른 낸드 수급 변화 및 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>의 지분가치 재평가 모멘텀에 주목할 필요가 있음."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy",
+      "tech"
+    ],
+    "tags": [
+      "SK하이닉스",
+      "키옥시아",
+      "일본증시",
+      "금융대국",
+      "낸드플래시"
+    ]
+  }
+}

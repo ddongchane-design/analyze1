@@ -1,0 +1,35 @@
+{
+  "video": {
+    "id": "eRqLWRAkmhc",
+    "title": "체중은 그대로, 건강검진은 빨간불? 내 몸속에 몰래 쌓인 '이것' #교양이를부탁해 #비만 #다이어트 #체중감량",
+    "published": "2026-08-02T09:00:02+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=eRqLWRAkmhc",
+    "thumbnail": "https://img.youtube.com/vi/eRqLWRAkmhc/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "겉보기 체중은 정상이나 장기 사이에 몰래 쌓이는 <span class=\"text-rose-400 font-medium\">내장지방 및 이소성 지방(Ectopic Fat)</span>의 위협을 경고함. 내장지방이 대사성 혈관계 질환과 지방간, 인슐린 저항성을 악화시키는 기전을 설명함.",
+    "key_claims": [
+      "체중 수치보다 장기 주변 이소성 지방 및 내장지방 농도가 진짜 건강 위험 지표임.",
+      "정제 탄수화물 과다 섭취가 내장지방 축적의 가장 강력한 촉매제임."
+    ],
+    "data_points": [
+      "정상 체중 내장비만 환자의 대사 증후군 발병률 비중"
+    ],
+    "signal": "na",
+    "signal_reason": "대사 건강 및 내장비만을 경고하는 의학 숏폼 지식 영상임.",
+    "key_companies": [],
+    "insight": "현대인 대사 건강의 주적은 단순 체중이 아닌 내장지방이며, 식습관 정화와 대사 기능 관리가 최우선 과제임.",
+    "action_point": "건강검진 지표 및 대사 관리 헬스케어 동향 참고."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [],
+    "tags": [
+      "내장지방",
+      "이소성지방",
+      "건강검진",
+      "대사증후군"
+    ]
+  }
+}

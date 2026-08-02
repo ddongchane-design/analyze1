@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "WbyANFDUvPs",
+    "title": "AI 서밋, 숫자보다 중요한 변화 | 실리콘밸리뷰 | 원호섭 특파원",
+    "published": "2026-08-01T23:00:13+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=WbyANFDUvPs",
+    "thumbnail": "https://img.youtube.com/vi/WbyANFDUvPs/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "실리콘밸리 현지 AI 서밋 현장 취재를 통해 단순 수치적 성장을 넘어 AI가 기업의 <span class=\"text-cyan-300 font-semibold\">실질적 비즈니스 워크플로우(에이전틱 AI)</span>로 전면 채택되는 질적 변화 패러다임을 전달함. AI 모델의 벤치마크 점수 경쟁보다 현업 ROI 입증이 엔터프라이즈 도입의 핵심 잣대로 작용함.",
+    "key_claims": [
+      "AI 경쟁의 핵심 축이 단순 LLM 모델 파라미터 크기에서 실무 자동화를 완수하는 에이전틱 AI(Agentic AI)로 이동함.",
+      "실리콘밸리 빅테크 및 스타트업들은 구체적인 비용 절감 및 매출 창출(ROI)을 입증해야 투자금을 유치하는 국면임."
+    ],
+    "data_points": [
+      "실리콘밸리 AI 서밋 참가 기업 및 에이전트 도입 비율 사례 분석"
+    ],
+    "signal": "bullish",
+    "signal_reason": "AI 기술이 뜬구름 잡는 연구 단계를 지나 실질적 기업 생산성 혁신 및 이익 창출 단계로 안착하고 있기 때문임.",
+    "key_companies": [
+      "엔비디아(NVDA)",
+      "마이크로소프트(MSFT)",
+      "OpenAI"
+    ],
+    "insight": "AI 생태계의 패러다임은 모델 수치 경쟁에서 '기업 업무 자동화 및 워크플로우 에이전트'라는 실질적 수익화 단계로 대전환 중임.",
+    "action_point": "에이전틱 AI 도구를 기업용 ERP/SaaS 서비스에 가장 효과적으로 결합하는 테크 기업 중심 선별 보유."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock",
+      "economy"
+    ],
+    "tags": [
+      "AI서밋",
+      "실리콘밸리",
+      "에이전틱AI",
+      "원호섭",
+      "ROI입증"
+    ]
+  }
+}

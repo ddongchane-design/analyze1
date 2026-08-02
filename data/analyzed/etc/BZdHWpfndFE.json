@@ -1,0 +1,36 @@
+{
+  "video": {
+    "id": "BZdHWpfndFE",
+    "title": "똑같이 쪄도 당뇨 위험은 더 높다? 한국인이 유독 취약한 이유 #교양이를부탁해 #비만 #다이어트 #체중감량",
+    "published": "2026-08-02T09:30:03+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=BZdHWpfndFE",
+    "thumbnail": "https://img.youtube.com/vi/BZdHWpfndFE/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "한국인을 비롯한 동양인이 서양인에 비해 췌장 크기가 작고 인슐린 분비 능력이 떨어져, 동일한 체중 증가 조건에서도 <span class=\"text-rose-400 font-medium\">당뇨병 발병 위험</span>이 유독 높음을 신체 구조적 특성 관점에서 설명함. 마른 비만과 췌장 대사 부담 완화를 위한 식습관 관리가 중요함.",
+    "key_claims": [
+      "동양인은 췌장 베타세포 부피가 작아 동일 BMI 상황에서도 인슐린 저항성에 취약함.",
+      "체중 수치보다 체지방률 및 내장지방 축적이 당뇨 발병에 더 결정적인 원인임."
+    ],
+    "data_points": [
+      "동양인 평균 췌장 크기 및 인슐린 분비 능력: 서양인 대비 약 20~30% 저하"
+    ],
+    "signal": "na",
+    "signal_reason": "의학 및 체질적 대사 특성을 설명하는 제네럴 헬스 콘텐츠임.",
+    "key_companies": [],
+    "insight": "한국인의 체질적 췌장 인슐린 분비 한계는 향후 연속혈당측정기(CGM) 및 비만/당뇨 관리 헬스케어 솔루션 수요 확대로 연결됨.",
+    "action_point": "혈당 관리 및 당뇨 케어 기기/제약 밸류체인의 성장 잠재력을 가늠할 수 있음."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [],
+    "tags": [
+      "당뇨병",
+      "인슐린",
+      "췌장",
+      "한국인체질",
+      "마른비만"
+    ]
+  }
+}

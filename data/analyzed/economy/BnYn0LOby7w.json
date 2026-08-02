@@ -1,0 +1,40 @@
+{
+  "video": {
+    "id": "BnYn0LOby7w",
+    "title": "잘 나가던 펀드매니저, 모텔 샀다가 피눈물 흘렸다 (더휴식 김준하 대표)",
+    "published": "2026-08-02T11:55:00+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=BnYn0LOby7w",
+    "thumbnail": "https://img.youtube.com/vi/BnYn0LOby7w/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "전직 펀드매니저 출신 창업가가 중소형 숙박시설(모텔) 자산운용 및 리노베이션 브랜드 사업(<span class=\"text-amber-300 font-bold\">더휴식</span>)에 도전하며 겪은 시행착오와 부동산 금융, 밸류애드(Value-add) 사업 모델을 실무적으로 솔직히 증언함. 금리 변동성과 오프라인 자산 관리의 난곡, 그리고 IT 기반 공간 효율화 솔루션의 중요성을 다룸.",
+    "key_claims": [
+      "부동산 자산 운용에서 단순 매입보다 운영 효율화(무인화, 브랜드화)를 통한 캡레이트(Cap Rate) 개선이 핵심임.",
+      "고금리 기조하에서 레버리지 위주의 중소형 상업용 부동산 투자는 극심한 자금 압박을 유발함."
+    ],
+    "data_points": [
+      "더휴식 숙박 공간 운영 펀드 및 관리 자산 규모 증대 사례 공유"
+    ],
+    "signal": "neutral",
+    "signal_reason": "부동산 리노베이션 및 공간 운용의 현실적 어려움과 펀더멘털 투자 원칙을 제시하는 인터뷰임.",
+    "key_companies": [
+      "더휴식"
+    ],
+    "insight": "상업용 부동산 시장은 단순 자본 이득(Capital Gain) 시대에서 운용 수익률(Operating Yield)을 극대화하는 IT/공간 기획 중심 밸류애드 시대 전환 중.",
+    "action_point": "고금리 환경 속 리츠(REITs) 및 상업용 부동산 자산의 현금흐름 캡레이트 및 무인화 관리 능력 검증이 필수적임."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "부동산투자",
+      "더휴식",
+      "모텔리노베이션",
+      "상업용부동산",
+      "캡레이트"
+    ]
+  }
+}

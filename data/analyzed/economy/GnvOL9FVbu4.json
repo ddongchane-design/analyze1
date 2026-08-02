@@ -1,0 +1,38 @@
+{
+  "video": {
+    "id": "GnvOL9FVbu4",
+    "title": "심판일까 공일까..워시의 정체는 | 월가백브리핑",
+    "published": "2026-08-02T03:00:38+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=GnvOL9FVbu4",
+    "thumbnail": "https://img.youtube.com/vi/GnvOL9FVbu4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "연준 의장 차기 지목 인사 케빈 워시(Kevin Warsh)의 통화 정책 성향과 월가의 거시 통화적 해석을 분석함. 그가 과거 매파적 입장에서 벗어나 생산성 증대를 통한 적정 금리 유지를 강조하는 <span class=\"text-amber-300 font-bold\">실용주의적 통화관</span>을 피력하면서 금리 인하 기대감과 금융 시장 안정 의지가 교차함.",
+    "key_claims": [
+      "케빈 워시는 교조적 매파가 아닌 생산성 혁신과 공급 측면 물가 안정을 중시하는 인물임.",
+      "연준의 자산 매각 속도 조절 및 고금리 고착화 우려 완화 가능성이 월가에 온기를 불어넣음."
+    ],
+    "data_points": [
+      "미 연준 피벗 예상 시기 및 케빈 워시 지명에 따른 채권 금리 반응"
+    ],
+    "signal": "neutral",
+    "signal_reason": "차기 연준 인사 지명 수혜와 통화 정책 피벗 의구심이 균형을 이루는 거시 모니터링 구간임.",
+    "key_companies": [],
+    "insight": "통화 당국의 지도부 교체 논의는 금리 경로의 불확실성을 축소시키고 자산 시장의 중장기 밸류에이션 하단을 탄탄하게 형성해 줌.",
+    "action_point": "연준 인사들의 매파/비둘기파 스탠스 변화와 미국 10년물 국채 금리 트렌드를 계속 추적할 것."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "케빈워시",
+      "연준의장",
+      "월가백브리핑",
+      "통화정책",
+      "금리피벗"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "video": {
+    "id": "1Tak5t_eHT4",
+    "title": "롯데타워도 작아 보인다?! 세계 최고층 빌딩의 진짜 순위",
+    "published": "2026-08-01T11:00:31+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=1Tak5t_eHT4",
+    "thumbnail": "https://img.youtube.com/vi/1Tak5t_eHT4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "세계 최고층 빌딩들의 높이 측정 기준과 공학적 덤프 기술(첨탑 vs 거주가능 층) 및 지진·강풍을 견디는 최첨단 <span class=\"text-cyan-300 font-semibold\">초고층 건축 공학</span>을 해설함. 롯데월드타워, 부르즈 할리파, 제다 타워 등 세계적 마천루들의 공학적 설계 특성을 비교 분석함.",
+    "key_claims": [
+      "빌딩의 순위는 안테나/첨탑 포함 여부와 실제 사용 가능 층고에 따라 다르게 산정됨.",
+      "바람 하중을 줄이기 위한 유선형 외관 디자인과 질량 감쇄 장치(Tuned Mass Damper)가 필수적임."
+    ],
+    "data_points": [
+      "부르즈 할리파 높이: 828m",
+      "롯데월드타워 높이: 555m (세계 6위 수준)"
+    ],
+    "signal": "na",
+    "signal_reason": "순수 과학 및 초고층 건축 공학 지식을 전달하는 교양 교양 콘텐츠임.",
+    "key_companies": [
+      "삼성물산"
+    ],
+    "insight": "초고층 마천루는 국가적 랜드마크이자 풍하중 제어와 신소재 콘크리트 공법 등 최고 난도 토목 공학의 집약체임.",
+    "action_point": "초고층 건축 공학 관련 기술력을 보유한 글로벌 건설 엔지니어링 기업들의 기술 모멘텀을 상식 수준에서 파악할 수 있음."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [],
+    "tags": [
+      "초고층빌딩",
+      "부르즈할리파",
+      "롯데월드타워",
+      "건축공학"
+    ]
+  }
+}

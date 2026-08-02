@@ -1,0 +1,41 @@
+{
+  "video": {
+    "id": "PnBKOqhrN6Q",
+    "title": "양산 42.5°C ‘극한폭염‘ 대한민국 역대 최고기록! 이번주는 중부지방 폭염시작! 무엇이 대한민국을 끓게 만드나?",
+    "published": "2026-08-02T00:00:21+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=PnBKOqhrN6Q",
+    "thumbnail": "https://img.youtube.com/vi/PnBKOqhrN6Q/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "경남 양산 42.5°C 등 대한민국 관측 이래 최악의 <span class=\"text-rose-400 font-medium\">극한 폭염 기후 위기</span>가 기조적으로 발생한 원인을 기열 해수면 온도 상승, 열돔 현상, 기후 변화 기조 관점에서 기상학적으로 정밀 해설함. 전력 피크 수요 경신과 기후 적응 인프라 및 친환경 에너지 전환 필요성이 급부상함.",
+    "key_claims": [
+      "북태평양 고기압과 티베트 고기압의 이중 열돔(Heat Dome) 형성이 기온 폭등의 직접적 원인임.",
+      "지구 온난화에 따른 기후 이상은 단순 일회성 여름 폭염이 아닌 재난 수준의 인프라 위기로 고착화되는 중임."
+    ],
+    "data_points": [
+      "경남 양산 일일 최고 기온: 42.5°C (대한민국 역대 최고 관측 기록 경신)"
+    ],
+    "signal": "neutral",
+    "signal_reason": "기후재난 리스크가 증대하는 가운데 전력 수급 및 기후 적응 인프라 관련 수요가 발생하는 대립 구간임.",
+    "key_companies": [
+      "한국전력(015760)"
+    ],
+    "insight": "극한 기후의 고착화는 국가 전력망 과부하와 피크 전력 관리, 스마트 그리드 및 원전·신재생 에너지 벨류체인의 구조적 가치를 재평가하게 함.",
+    "action_point": "전력망 확충 및 냉방/에너지 효율화 관련 기업들의 계절적 및 구조적 모멘텀 체크."
+  },
+  "classification": {
+    "primary_topic": "energy",
+    "secondary_topics": [
+      "etc",
+      "economy"
+    ],
+    "tags": [
+      "극한폭염",
+      "열돔현상",
+      "양산42.5도",
+      "기후위기",
+      "전력피크"
+    ]
+  }
+}
