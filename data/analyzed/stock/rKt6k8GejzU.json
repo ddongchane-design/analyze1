@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "rKt6k8GejzU",
+    "title": "미국증시는 강세장 진행 중...메모리 다음은 비메모리? | 한상희 한화투자증권 수석연구위원 [글로벌 인터뷰]",
+    "published": "2026-08-03T22:54:17+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=rKt6k8GejzU",
+    "thumbnail": "https://img.youtube.com/vi/rKt6k8GejzU/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 증시가 강세장을 이어가는 과정에서 메모리 반도체 랠리에 이어 <span class=\"text-cyan-300 font-semibold\">비메모리 파운드리 및 팹리스</span>로 온기가 확산되는 반도체 순환매 구조를 다룸. <span class=\"text-cyan-300 font-semibold\">TSMC, 엔비디아, 브로드컴</span> 등 글로벌 비메모리 대장주들의 우상향 모멘텀을 정밀 분석함.",
+    "key_claims": [
+      "메모리 반도체(HBM) 주가 급등 이후 시장 자금의 다음 목적지는 파운드리 및 커스텀 ASIC 비메모리 분야임.",
+      "AI 가속기 시장 확대로 인한 맞춤형 칩(ASIC) 설계 및 TSMC 선단 공정 가동률이 사상 최고 수준 지속."
+    ],
+    "data_points": [
+      "TSMC 3나노/2나노 공정 가동률: 100% 풀 가동",
+      "브로드컴(AVGO) 커스텀 AI 칩 매출 성장률: 전년 대비 50% 이상 폭증"
+    ],
+    "signal": "bullish",
+    "signal_reason": "메모리에서 비메모리로 이어지는 글로벌 반도체 순환매 호재 반영.",
+    "key_companies": [
+      "TSMC(TSM)",
+      "엔비디아(NVDA)",
+      "브로드컴(AVGO)",
+      "삼성전자(005930)"
+    ],
+    "insight": "반도체 강세장은 메모리 한 영역에 그치지 않고 파운드리 및 커스텀 ASIC 설계로 온기가 확산되는 대형 사이클임.",
+    "action_point": "TSMC 밸류체인 및 국내 반도체 디자인하우스/가온칩스 등 비메모리 관련 수혜주 동시 관심."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "미국증시강세장",
+      "비메모리반도체",
+      "TSMC",
+      "브로드컴",
+      "글로벌인터뷰"
+    ]
+  }
+}

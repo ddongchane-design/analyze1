@@ -15,7 +15,7 @@
       "국내 투자 자금이 <span class=\"text-cyan-300 font-semibold\">반도체</span>·하드웨어 메가 프로젝트로만 집중되어 AI 소프트웨어 파워 및 독자 모델 생태계가 자금 가뭄에 시달리고 있다."
     ],
     "data_points": [],
-    "signal": "negative",
+    "signal": "bearish",
     "signal_reason": "하드웨어 비중 편중으로 국내 AI 소프트웨어 생태계가 고사하고, <span class=\"text-cyan-300 font-semibold\">반도체</span> 이익이 미국 빅테크의 토큰 비용으로 환수되는 매크로 불균형이 커지고 있기 때문입니다.",
     "key_companies": [
       "OpenAI",

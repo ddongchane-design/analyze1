@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "OOcs0iDXKZk",
+    "title": "국채금리 상승에도 빅테크 강세에 미국증시 상승 | 데일리 라이브 | 2026.8.3(월)",
+    "published": "2026-08-03T11:46:37+00:00",
+    "channel_name": "Smart Money by MiraeAsset ",
+    "url": "https://www.youtube.com/watch?v=OOcs0iDXKZk",
+    "thumbnail": "https://img.youtube.com/vi/OOcs0iDXKZk/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 10년물 국채 금리 상승에도 불구하고 <span class=\"text-cyan-300 font-semibold\">빅테크 실적 기대감</span>이 뉴욕 증시 상승을 이끈 월가 시황을 정리함. <span class=\"text-cyan-300 font-semibold\">아마존</span>과 <span class=\"text-cyan-300 font-semibold\">팔란티어</span>의 견고한 실적 발표가 국채 금리 부담을 상쇄하며 기술주 중심 반등세를 끌어냄.",
+    "key_claims": [
+      "국채 금리가 4.0% 선을 위협했으나 빅테크 이익 모멘텀이 금리 상승 압력을 압도함.",
+      "AI 실적 가시성이 확보된 기업 위주로 숏커버링 매수세 유입."
+    ],
+    "data_points": [
+      "미국 10년물 국채 금리: 3.98%~4.02% 변동",
+      "나스닥 지수: 전일 대비 1.2% 상승 마감"
+    ],
+    "signal": "bullish",
+    "signal_reason": "금리 상승에도 양호한 빅테크 실적이 증시 연착륙 및 랠리를 지지함.",
+    "key_companies": [
+      "아마존(AMZN)",
+      "팔란티어(PLTR)",
+      "애플(AAPL)",
+      "엔비디아(NVDA)"
+    ],
+    "insight": "금리가 높아지더라도 현금 유보율이 높고 AI 이익 성장을 입증한 빅테크는 금리 국면을 우회하는 독주 체제를 구축함.",
+    "action_point": "국채 금리 상방 압력에도 버티는 펀더멘털 우량 빅테크 위주의 포트폴리오를 유지할 것."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "국채금리",
+      "빅테크강세",
+      "나스닥상승",
+      "팔란티어",
+      "미래에셋"
+    ]
+  }
+}

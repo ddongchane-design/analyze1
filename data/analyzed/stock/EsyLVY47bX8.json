@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "EsyLVY47bX8",
+    "title": "실적 대박인데 주가는 왜? “AI 산업과 주식은 다르다” #교양이를부탁해 #AI버블 #반도체 #프론티어AI #닷컴버블",
+    "published": "2026-08-03T11:30:24+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=EsyLVY47bX8",
+    "thumbnail": "https://img.youtube.com/vi/EsyLVY47bX8/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "빅테크 기업들이 호실적을 발표하고도 주가가 급락하는 기현상을 분석하며, <span class=\"text-amber-300 font-bold\">AI 산업의 성장성</span>과 <span class=\"text-rose-400 font-medium\">주식 시장의 높은 기대치(밸류에이션)</span> 사이의 간극을 해설함. 닷컴버블 당시와 유사하게 실적 수치 자체보다 높은 벨류에이션 부담이 주가 발목을 잡는 국면임.",
+    "key_claims": [
+      "산업이 성장한다고 해서 해당 테마 주가가 무조건 계속 상승하는 것은 아님 (선반영 과다).",
+      "투자자들은 단순 실적 호조를 넘어 마진율 유지와 현금흐름 재투자의 효율성을 원하고 있음."
+    ],
+    "data_points": [
+      "2026년 2분기 빅테크 실적 발표 후 당일 주가 반응: 실적 상회에도 -3%~-7% 변동",
+      "빅테크 평균 PER: 과거 5년 평균 상단 상회"
+    ],
+    "signal": "neutral",
+    "signal_reason": "실적 성장세는 견고하나 밸류에이션 재평가 과정에서 강한 상하방 횡보 장세 예상.",
+    "key_companies": [
+      "엔비디아(NVDA)",
+      "애플(AAPL)",
+      "마이크로소프트(MSFT)"
+    ],
+    "insight": "주가는 현재의 실적 수치보다 미래 이익의 할인율과 기대치 갱신 속도에 반응하므로, 최고 실적이 발표되는 순간이 단기 상투가 될 수 있음.",
+    "action_point": "실적 발표 직후의 주가 변동성 착시를 피하고, 밸류에이션 부담이 낮아진 눌림목에서 분할 진입하는 신중함 필요."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "AI버블",
+      "빅테크실적",
+      "주식과산업",
+      "닷컴버블비교",
+      "교양이를부탁해"
+    ]
+  }
+}

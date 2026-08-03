@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "7Zc1Db8V1S4",
+    "title": "초고가·비거주주택 종부세 올린다…장특공제 10억 원까지만 | 미일 엔화일병 공동 구출 작전…양날의 검 | 권순우 삼프로TV 취재팀장 [뉴스3]",
+    "published": "2026-08-03T23:14:46+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=7Zc1Db8V1S4",
+    "thumbnail": "https://img.youtube.com/vi/7Zc1Db8V1S4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "정부의 초고가·비거주 주택 종합부동산세 과세 강화안과 미-일 당국의 <span class=\"text-amber-300 font-bold\">엔화 방어 구출 작전</span>이 글로벌 금융 시장 및 국내 증시에 미치는 여파를 정밀 취재함. 엔/달러 환율이 급격히 변동함에 따라 <span class=\"text-rose-400 font-medium\">엔 캐리 트레이드 청산 리스크</span>가 재차 고조되고 있음.",
+    "key_claims": [
+      "국내 부동산 세제 개편으로 다주택자 및 고가 보유자의 세부담 증가 기대.",
+      "미국과 일본의 개입으로 엔화 가치가 강세 반전 시 글로벌 자산 시장 청산 우려 확산."
+    ],
+    "data_points": [
+      "종부세 1가구 1주택 장기보유특별공제 한도 10억 원 하향 추진",
+      "엔/달러 환율 급변동 구간 150엔대 진입 및 외환 당구 수급 개입"
+    ],
+    "signal": "neutral",
+    "signal_reason": "부동산 규제 강화 정책과 엔화 환율 변동성 확대가 유동성을 위축시킬 수 있어 시장 관망세 형성.",
+    "key_companies": [
+      "삼성전자(005930)",
+      "KB금융(105560)"
+    ],
+    "insight": "엔화 강세 전환은 엔 캐리 트레이드 물량의 회수를 자극하여 코스피를 포함한 신흥국 증시 변동성을 일시적으로 확대시킴.",
+    "action_point": "엔/달러 환율 변화 추이 및 외국인 매도세 완화 여부를 체크하며 대형주 저점 분할 매수 타이밍 탐색."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "종부세",
+      "엔화방어",
+      "엔캐리트레이드",
+      "부동산정책",
+      "뉴스3"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "XHoSgDrdkAA",
+    "title": "통과 앞둔 클래리티 법, '윤리 수정안'에 새 변수 등장? | 서동주, 김동환, 박상혁 디지털애셋 편집장 [크립토 PLUS]",
+    "published": "2026-08-03T02:50:10+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=XHoSgDrdkAA",
+    "thumbnail": "https://img.youtube.com/vi/XHoSgDrdkAA/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 의회 통과를 앞둔 <span class=\"text-violet-300 font-medium\">가상자산 클래리티 법안(Clarity Act)</span>에 윤리 수정안 및 SEC-CFTC 관할권 새 변수가 등장함에 따른 암호화폐 시장 파장을 심층 다룸. 규제 명확화 호재와 윤리 심사 규제 강화 변수가 <span class=\"text-cyan-300 font-semibold\">비트코인 및 알트코인 수급</span>을 흔들고 있음.",
+    "key_claims": [
+      "클래리티 법 통과 시 가상자산의 법적 지위가 명확해져 기관 자금 유입 가속화 가능.",
+      "윤리 수정안 추가로 개별 규제 당국의 승인 절차가 복잡해질 단기 변수 발생."
+    ],
+    "data_points": [
+      "비트코인(BTC) 6만5천 달러 선 공방 및 기관 ETF 유입액 지표",
+      "미국 의회 가상자산 입법 표결 일정 점검"
+    ],
+    "signal": "neutral",
+    "signal_reason": "법안 통과 기대감과 수정안에 따른 지연 불확실성이 교차하는 매크로 팽팽한 국면.",
+    "key_companies": [
+      "코인베이스(COIN)",
+      "마이크로스트래티지(MSTR)"
+    ],
+    "insight": "가상자산 시장의 제도권 진입은 거스를 수 없는 대세이나, 법안 세부 수정안의 문구 하나가 단기 수급 폭풍을 부를 수 있음.",
+    "action_point": "미국 법안 표결 진행 상황을 모니터링하며 비트코인 및 이더리움 중심의 대장주 위주로 매매 한정."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "economy",
+      "stock"
+    ],
+    "tags": [
+      "클래리티법",
+      "가상자산규제",
+      "비트코인",
+      "크립토PLUS",
+      "디지털애셋"
+    ]
+  }
+}

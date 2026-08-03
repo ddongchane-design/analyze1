@@ -1,0 +1,38 @@
+{
+  "video": {
+    "id": "1PRseRn4yzE",
+    "title": "이번 폭염이 특별히 더 더운 이유?!",
+    "published": "2026-08-03T02:00:39+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=1PRseRn4yzE",
+    "thumbnail": "https://img.youtube.com/vi/1PRseRn4yzE/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "2026년 여름 한반도를 강타한 기열 폭염의 과학적 원인으로 북태평양 고기압과 티베트 고기압의 이중 덮개 현상 및 <span class=\"text-amber-300 font-bold\">해수면 온도 상승</span>을 정밀 기상 데이터로 분석함. 지구 온난화로 인한 <span class=\"text-rose-400 font-medium\">기후 변화 리스크</span>가 일상화됨에 따라 전력 수요 폭증 및 열파 피해 대책 마련이 시급함.",
+    "key_claims": [
+      "이중 고기압 체증 현상으로 열기가 한반도 상공에 갇히는 열돔(Heat Dome) 상태 지속.",
+      "지구 해수면 온도의 급상승이 기온 변동성을 지속적으로 유발함."
+    ],
+    "data_points": [
+      "2026년 8월 한반도 평균 기온: 평년 대비 2.5℃ 이상 상승",
+      "동해 및 전북 연안 해수면 온도: 최고 28~29℃ 기록"
+    ],
+    "signal": "na",
+    "signal_reason": "순수 과학 지식 및 기상 기후 교양 콘텐츠로 직접적인 금융 시장 매매 시그널과 무관함.",
+    "key_companies": [],
+    "insight": "기후 변화에 따른 폭염의 장기화는 전력 인프라 부담 심화와 농축산물 물가 상승(애그플레이션)을 유발하는 구조적 요인임.",
+    "action_point": "여름철 전력 피크 관련 에너지/전력망 테마 및 여름 계절주에 대한 단기 수급 변동성을 파악하는 참고 자료로 활용함."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "energy"
+    ],
+    "tags": [
+      "폭염",
+      "기후변화",
+      "열돔현상",
+      "지구온난화"
+    ]
+  }
+}

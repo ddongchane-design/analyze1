@@ -17,7 +17,7 @@
     "data_points": [
       "재판매 가격: 미국 공식 구독 가격의 약 10% 수준으로 도매성 할인 적용 제공."
     ],
-    "signal": "negative",
+    "signal": "bearish",
     "signal_reason": "미국 원천 AI 기술의 심각한 IP 무단 탈취와 고품질 데이터의 보안 침해 <span class=\"text-rose-400 font-medium\">리스크</span>를 증명하며, 차후 빅테크들의 API 접근 통제 강화 및 미-중 갈등의 기술 안보 분쟁을 더욱 촉진하는 악재이기 때문입니다.",
     "key_companies": [
       "앤트로픽(Anthropic)"

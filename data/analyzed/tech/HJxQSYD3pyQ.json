@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "HJxQSYD3pyQ",
+    "title": "[지식뉴스] \"아무리 조사해 봐도, 중국에 장비가 안 가고 있어요\"…CXMT 공포 너무 과장됐다, 그럼에도 28년차 반도체 센터장이 한국 시장에 던지는 경고 / 교양이를 부탁해",
+    "published": "2026-08-03T12:00:21+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=HJxQSYD3pyQ",
+    "thumbnail": "https://img.youtube.com/vi/HJxQSYD3pyQ/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "중국 반도체 기업 <span class=\"text-cyan-300 font-semibold\">CXMT</span>의 레거시 D램 물량 공세 공포가 시장에서 과장되었음을 28년차 반도체 전문 센터장의 정밀 조사를 통해 입증함. 미국의 첨단 반도체 장비 통제로 중국으로의 고급 장비 유입이 차단된 상태이며, 한국의 <span class=\"text-cyan-300 font-semibold\">HBM 및 DDR5</span> 주도권은 견고함.",
+    "key_claims": [
+      "CXMT 등 중국 업체의 생산 능력 확대는 범용 레거시(DDR4 이하)에 국한되며 첨단 HBM 영역 침투 불가.",
+      "미국 극자외선(EUV) 및 노광 장비 제재가 효과적으로 작용하여 중국의 기술 추격 속도가 현저히 제한됨."
+    ],
+    "data_points": [
+      "CXMT의 글로벌 D램 시장 점유율: 레거시 위주 5% 내외",
+      "HBM 시장 내 한국 기업(SK하이닉스, 삼성전자) 합산 점유율: 90% 이상"
+    ],
+    "signal": "bullish",
+    "signal_reason": "중국 반도체 위협론에 따른 한국 메모리 반도체 주가의 과도한 조정은 매수 기회임.",
+    "key_companies": [
+      "SK하이닉스(000660)",
+      "삼성전자(005930)",
+      "ASML(ASML)"
+    ],
+    "insight": "중국 반도체 공포는 펀더멘털을 반영하지 못한 헛소문성 소음이며, 고성능 HBM을 쥐고 있는 국내 메모리 대장주들의 기술 격차는 확고함.",
+    "action_point": "CXMT 공포로 주가가 과도하게 하락할 때 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>와 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>를 적극 저점 매수하는 전략 권장."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "CXMT공포",
+      "반도체장비제재",
+      "SK하이닉스",
+      "삼성전자",
+      "HBM선점"
+    ]
+  }
+}

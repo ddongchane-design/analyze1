@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "C5kPhK7HBEQ",
+    "title": "한국 AI의 최대 문제점",
+    "published": "2026-08-03T11:00:33+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=C5kPhK7HBEQ",
+    "thumbnail": "https://img.youtube.com/vi/C5kPhK7HBEQ/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "한국 AI 생태계가 독자적인 프론티어 LLM 및 <span class=\"text-cyan-300 font-semibold\">초대형 데이터센터 인프라</span> 확보 부족으로 인해 미국 빅테크 플랫폼 종속 심화라는 구조적 한계에 직면했음을 지적함. 정부 차원의 <span class=\"text-amber-300 font-bold\">AI 그래픽 처리장치(GPU) 자원 지원</span> 및 자체 데이터 주권 확보가 미흡하면 경쟁에서 낙오될 수 있음.",
+    "key_claims": [
+      "국내 기업들의 H100/B200 등 고성능 AI 반도체 보유량이 빅테크 한 개 기업의 10분의 1 수준에 불과함.",
+      "소버린 AI 구현을 위한 국가적 초거대 컴퓨팅 파크 구축이 시급함."
+    ],
+    "data_points": [
+      "국내 AI 기업 전체 보유 GPU 수량: 글로벌 빅테크 대비 현저히 낮음",
+      "글로벌 AI 모델 성능 벤치마크 상위권 내 한국 독자 모델 비중 저조"
+    ],
+    "signal": "bearish",
+    "signal_reason": "국내 소프트웨어 AI 기업들의 독자 인프라 부재로 인한 장기 수익성 및 기술 자립도 우려 반영.",
+    "key_companies": [
+      "네이버(035420)",
+      "카카오(035720)"
+    ],
+    "insight": "AI 패권 싸움은 단순한 알고리즘 개발이 아닌 자본력에 기반한 초거대 GPU 클러스터 및 데이터센터 확보 싸움임.",
+    "action_point": "국내 단순 AI 래퍼(Wrapper) 서비스 기업보다 AI 반도체 인프라 하드웨어 및 수냉식 냉각 부품 공급사에 집중 투자."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock",
+      "economy"
+    ],
+    "tags": [
+      "한국AI",
+      "GPU인프라",
+      "소버린AI",
+      "빅테크종속",
+      "SOD"
+    ]
+  }
+}

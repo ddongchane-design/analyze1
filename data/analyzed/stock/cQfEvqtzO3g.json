@@ -19,7 +19,7 @@
       "주요 종목: 마이크론 +12.17%, AMD +1.58%, 인텔 +8.6%, 샌디스크 +14%, 아마존 -0.98%",
       "원자재 및 환율: WTI 유가 $84.9 (+2%), 브렌트유 $90 돌파, 엔달러 환율 163.21엔"
     ],
-    "signal": "positive",
+    "signal": "bullish",
     "signal_reason": "엔비디아 베라 루빈의 본격 양산 출하와 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span> 저가 매수세 유입, S&P 500 상향 <span class=\"text-rose-400 font-medium\">조정</span> 등 기술주 중심의 실적 모멘텀이 유동성 <span class=\"text-rose-400 font-medium\">리스크</span>를 압도하고 있기 때문입니다.",
     "key_companies": [
       "NVIDIA(NVDA)",

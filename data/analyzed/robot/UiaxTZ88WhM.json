@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "UiaxTZ88WhM",
+    "title": "로보티즈 재평가 시작? 유니트리 21조의 충격…",
+    "published": "2026-08-03T10:32:28+00:00",
+    "channel_name": "엔지니어TV",
+    "url": "https://www.youtube.com/watch?v=UiaxTZ88WhM",
+    "thumbnail": "https://img.youtube.com/vi/UiaxTZ88WhM/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "중국 휴머노이드 로봇 기업 <span class=\"text-cyan-300 font-semibold\">유니트리(Unitree)</span>의 기업가치 21조 원 평가 충격 속에서 국내 로봇 액추에이터 및 감속기 전문기업 <span class=\"text-cyan-300 font-semibold\">로보티즈</span>의 본격 재평가 모멘텀을 파헤침. 피지컬 AI와 감속기/모터 부품의 국산화 수요가 <span class=\"text-amber-300 font-bold\">휴머노이드 로봇 생태계</span>의 핵으로 부상 중임.",
+    "key_claims": [
+      "유니트리의 초고평가는 휴머노이드 로봇 산업이 실험실을 벗어나 대량 양산 단계로 진입했음을 입증함.",
+      "로보티즈의 자율주행 로봇 및 초소형 감속기/액추에이터 기술력이 글로벌 밸류체인 재평가를 이끔."
+    ],
+    "data_points": [
+      "중국 유니트리(Unitree) 기업가치: 약 21조 원(150억 달러 이상) 인정 논의",
+      "로보티즈 액추에이터 매출 성장률: 전년 대비 40% 이상 가속"
+    ],
+    "signal": "bullish",
+    "signal_reason": "휴머노이드 로봇 밸류에이션 급등에 따른 국내 핵심 로봇 부품주 재평가 강한 호재 작용.",
+    "key_companies": [
+      "로보티즈(108860)",
+      "유니트리",
+      "레인보우로보틱스(277810)",
+      "두산로보틱스(454910)"
+    ],
+    "insight": "휴머노이드 로봇은 AI의 소프트웨어가 물리적 몸체(액추에이터/감속기)를 입는 완성형이며, 핵심 부품 기업의 재평가가 시작됨.",
+    "action_point": "로보티즈 및 국내 감속기/액추에이터 기술을 보유한 핵심 로봇 부품주의 눌림목 저점 매수."
+  },
+  "classification": {
+    "primary_topic": "robot",
+    "secondary_topics": [
+      "tech",
+      "stock"
+    ],
+    "tags": [
+      "로보티즈",
+      "유니트리",
+      "휴머노이드",
+      "액추에이터",
+      "엔지니어TV"
+    ]
+  }
+}

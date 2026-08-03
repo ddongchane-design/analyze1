@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "F-XdAjbA1JQ",
+    "title": "8월 첫 거래일은 '빅테크 데이' | 데일리 라이브 | 2026.8.4(화)",
+    "published": "2026-08-03T23:10:26+00:00",
+    "channel_name": "Smart Money by MiraeAsset ",
+    "url": "https://www.youtube.com/watch?v=F-XdAjbA1JQ",
+    "thumbnail": "https://img.youtube.com/vi/F-XdAjbA1JQ/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "8월 첫 거래일을 맞아 뉴욕증시에서 진행된 <span class=\"text-cyan-300 font-semibold\">빅테크 실적 데이</span>의 시장 파장과 업종별 주가 향방을 종합 분석함. <span class=\"text-cyan-300 font-semibold\">팔란티어</span>의 어닝 서프라이즈와 스페이스X의 긍정적 이익 지표가 호재로 작용했으나 기술주 전반의 변동성은 상존함.",
+    "key_claims": [
+      "팔란티어의 AIP 플랫폼 매출 급증이 B2B AI 실적 가시성을 입증함.",
+      "빅테크 간 실적 차별화(아마존 상승 vs 애플 보합)로 인한 개별 종목 장세 심화."
+    ],
+    "data_points": [
+      "팔란티어(PLTR) 시간외 거래 12% 이상 폭등",
+      "아마존(AMZN) 실적 발표 후 주가 15% 상승 기록"
+    ],
+    "signal": "bullish",
+    "signal_reason": "AI 관련 대표기업들의 실적 확인을 통해 펀더멘털 기반 상방 모멘텀이 재차 확인됨.",
+    "key_companies": [
+      "팔란티어(PLTR)",
+      "아마존(AMZN)",
+      "애플(AAPL)",
+      "스페이스X"
+    ],
+    "insight": "AI 투자는 막연한 기대감 단계에서 실제 매출과 이익으로 증명하는 2라운드 실적 장세로 전환됨.",
+    "action_point": "B2B 엔터프라이즈 AI 매출 성장을 입증한 팔란티어 및 하이퍼스케일러 핵심 수혜주 중심으로 포트폴리오 재편."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "space"
+    ],
+    "tags": [
+      "빅테크데이",
+      "팔란티어",
+      "아마존",
+      "실적장세",
+      "미래에셋"
+    ]
+  }
+}

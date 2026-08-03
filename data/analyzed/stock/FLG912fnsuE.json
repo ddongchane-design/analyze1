@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "FLG912fnsuE",
+    "title": "\"워렌 버핏도 매일 주식 본다\" 공부 없는 투자는 없다 #교양이를부탁해 #AI버블 #반도체 #프론티어AI #닷컴버블",
+    "published": "2026-08-03T12:00:32+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=FLG912fnsuE",
+    "thumbnail": "https://img.youtube.com/vi/FLG912fnsuE/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "워렌 버핏의 투자 철학을 바탕으로 극심한 <span class=\"text-rose-400 font-medium\">증시 변동성 장세</span>에서 기업의 내재 가치 및 현금 창출 능력을 정밀 분석하는 투자 원칙을 제시함. 철저한 기업 분석과 밸류체인 공부 없는 투자는 단순한 투기에 불과함을 경고함.",
+    "key_claims": [
+      "워렌 버핏 역시 매일 기업 재무제표와 현금흐름 보고서를 정독하며 학습을 게을리하지 않음.",
+      "시장의 소음과 쏠림 현상에 휩쓸리지 않고 안전지대(Margin of Safety)를 확보해야 함."
+    ],
+    "data_points": [
+      "버크셔 해서웨이 가용 현금성 자산: 역대 최대 수준 보유 중",
+      "닷컴 버블 및 금융위기 당시 버핏의 매수 타임 정밀 분석"
+    ],
+    "signal": "bullish",
+    "signal_reason": "하락장 및 조정을 좋은 우량 기업을 싸게 살 수 있는 저점 매수 기회로 활용할 것을 권장.",
+    "key_companies": [
+      "버크셔해서웨이(BRK.A)",
+      "애플(AAPL)"
+    ],
+    "insight": "주가가 떨어질 때 공포에 질려 도망치는 것이 아니라, 가치 대비 저평가된 훌륭한 주식을 주울 수 있는 자산 재분배의 기회임.",
+    "action_point": "현금 비중을 일정 유지하면서 확신이 있는 대형 우량주의 저점 분할 매수 리스트를 작성할 것."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "워렌버핏",
+      "가치투자",
+      "기업분석",
+      "저점매수",
+      "교양이를부탁해"
+    ]
+  }
+}

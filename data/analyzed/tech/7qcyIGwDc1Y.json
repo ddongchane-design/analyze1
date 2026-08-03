@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "7qcyIGwDc1Y",
+    "title": "AI 직격탄 맞은 인도, 의대에 목숨 건다 (언더스탠딩 장순원 기자)",
+    "published": "2026-08-03T12:25:22+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=7qcyIGwDc1Y",
+    "thumbnail": "https://img.youtube.com/vi/7qcyIGwDc1Y/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "생성형 AI 도입 확산으로 인도의 핵심 산업인 <span class=\"text-cyan-300 font-semibold\">IT 아웃소싱 서비스</span> 및 소프트웨어 개발 일자리가 감소하자 현지 인재들이 의대로 대거 몰리는 구조적 사회 현상을 다룸. 단순 코딩과 고객지원의 <span class=\"text-rose-400 font-medium\">AI 대체 속도</span>가 예상을 상회하며 인력 시장 재편이 급속도로 진행 중임.",
+    "key_claims": [
+      "인도 IT 거두(TCS, 인포시스 등)의 주니어 개발자 채용이 급감하고 의대 입시 경쟁이 과열됨.",
+      "생성형 AI가 하급 IT 일자리를 빠르게 대체하며 신흥국 인력 공급 모델에 타격을 줌."
+    ],
+    "data_points": [
+      "인도 IT 서비스 기업 신규 채용 규모: 전년 대비 약 30~40% 감소",
+      "인도 전국 의학입학시험(NEET) 응시자 수 사상 최대 경신"
+    ],
+    "signal": "bearish",
+    "signal_reason": "글로벌 IT 아웃소싱 및 단순 레거시 소프트웨어 외주 산업의 수익성 악화 우려 심화.",
+    "key_companies": [
+      "인포시스(INFY)",
+      "TCS",
+      "애벌론"
+    ],
+    "insight": "AI 혁명은 선진국 기업의 비용 절감을 이끄는 동시에 단순 외주에 의존하던 신흥국 IT 노동 시장의 생존 구도를 완전히 바꾸고 있음.",
+    "action_point": "단순 외주 IT 솔루션 업체보다 독자적인 프론티어 AI 모델 및 하이엔드 서비스를 보유한 빅테크 기업 위주 투자가 유효함."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "인도IT",
+      "AI대체",
+      "생성형AI",
+      "아웃소싱",
+      "고용시장"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "XmK7mpuhfUo",
+    "title": "[26.08.03 오전 방송 전체보기] \"AI투자 우려 덜었다\" 뉴욕증시 상승 마감...아마존 +15%·애플 -7%",
+    "published": "2026-08-03T03:14:42+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=XmK7mpuhfUo",
+    "thumbnail": "https://img.youtube.com/vi/XmK7mpuhfUo/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "8월 3일 뉴욕증시가 AI 투자 우려를 털어내고 상승 마감한 풀 시황을 다룸. 클라우드 및 AI 매출 호조를 기록한 <span class=\"text-cyan-300 font-semibold\">아마존(+15%)</span>이 폭등한 반면, 아이폰 중국 판매 둔화 우려가 작용한 <span class=\"text-cyan-300 font-semibold\">애플(-7%)</span>은 하락하여 빅테크 간 뚜렷한 양극화가 펼쳐짐.",
+    "key_claims": [
+      "AWS 클라우드 매출 성장 재가속이 아마존 주가를 15% 폭등시키는 원동력이 됨.",
+      "애플은 중화권 실적 약세와 AI 서비스 출시 지연 우려로 주가 차별화 하락."
+    ],
+    "data_points": [
+      "아마존(AMZN) 주가: 당일 +15% 폭등 마감",
+      "애플(AAPL) 주가: 당일 -7% 급락 마감",
+      "나스닥 종합지수: +1.5% 상승 마감"
+    ],
+    "signal": "bullish",
+    "signal_reason": "아마존의 호실적으로 AI 클라우드 실적 우려 해소 및 증시 반등 동력 확보.",
+    "key_companies": [
+      "아마존(AMZN)",
+      "애플(AAPL)",
+      "엔비디아(NVDA)",
+      "마이크로소프트(MSFT)"
+    ],
+    "insight": "빅테크 묶음 투자의 시대는 갔으며, 클라우드와 AI 가속기 실적을 직접 내는 아마존·엔비디아와 그렇지 못한 기업 간의 주가 엇갈림이 심화됨.",
+    "action_point": "아마존 및 AI 클라우드 CapEx 수혜가 직접 연동되는 반도체/서버 부품주 위주의 선별 매수."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "오전증시",
+      "아마존폭등",
+      "애플급락",
+      "뉴욕증시",
+      "삼프로TV"
+    ]
+  }
+}

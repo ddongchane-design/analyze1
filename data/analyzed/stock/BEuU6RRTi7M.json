@@ -16,7 +16,7 @@
     "data_points": [
       "미국 증시 변동성: 중국 AI 고도화에 따른 빅테크 실적 지속성 우려로 나스닥 및 기술주 중심 조정 지속"
     ],
-    "signal": "negative",
+    "signal": "bearish",
     "signal_reason": "<span class=\"text-violet-300 font-medium\">중국</span> AI 추격으로 인한 미국 AI 빅테크 독점권 균열 우려와 지정학적 원유 가격 변동성 확대 등 기술주 밸류에이션에 직접적인 타격을 주는 부정적 요인들이 우세하기 때문입니다.",
     "key_companies": [
       "NVIDIA(NVDA)",

@@ -17,7 +17,7 @@
     "data_points": [
       "코스닥 한계기업 비중: 전체 1,800여 개 기업 중 약 30% (600개 이상)"
     ],
-    "signal": "negative",
+    "signal": "bearish",
     "signal_reason": "하드웨어 투자 쏠림에 따른 구축 효과로 시중 금리가 고착화되고, 코스닥 한계기업 30%의 구조적 <span class=\"text-rose-400 font-medium\">부실</span> <span class=\"text-rose-400 font-medium\">위험</span>이 금융 시장 전반의 체력을 약화시키기 때문입니다.",
     "key_companies": [],
     "insight": "자금이 특정 대형 산업으로만 쏠리면 나머지 내수 기업들은 <span class=\"text-amber-300 font-bold\">고금리</span>와 자금 가뭄의 이중고를 겪습니다. 부채 비율이 높고 현금 흐름이 적자인 소형 코스닥 기업들의 생존 확률이 급속히 낮아지고 있습니다.",

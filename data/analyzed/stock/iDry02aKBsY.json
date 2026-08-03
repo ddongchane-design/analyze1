@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "iDry02aKBsY",
+    "title": "[박신영의 개장전요것만-8월3일] 너무 비싼 팔란티어..실적 잘 나와도 시장은 실망? | 스페이스X, 보호예수​​​​​​​·공매도 뛰어넘을까",
+    "published": "2026-08-03T13:57:44+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=iDry02aKBsY",
+    "thumbnail": "https://img.youtube.com/vi/iDry02aKBsY/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "개장 전 미국 증시 쟁점으로 <span class=\"text-cyan-300 font-semibold\">팔란티어</span>의 높은 밸류에이션 부담에 따른 실적 발표 후 주가 반응과 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 공매도·보호예수 관련 시장 기류를 점검함. 호실적 발표에도 시장 눈높이에 따라 주가 흔들림이 나타날 수 있음을 경고함.",
+    "key_claims": [
+      "팔란티어는 고PER 주식 특성상 실적 발표 시 시장 기대를 크게 뛰어넘어야 주가 상승 유지.",
+      "스페이스X는 락업(보호예수) 해제 물량 부담에도 장기 이익 성장 기대감이 주가 상방 지지."
+    ],
+    "data_points": [
+      "팔란티어 선행 PER: 70배 이상 유지",
+      "스페이스X 스타링크 2분기 가입자 수 400만 명 육박"
+    ],
+    "signal": "neutral",
+    "signal_reason": "실적 성장세는 입증되었으나 높은 밸류에이션에 따른 개장 전 변동성 상존.",
+    "key_companies": [
+      "팔란티어(PLTR)",
+      "스페이스X",
+      "테슬라(TSLA)"
+    ],
+    "insight": "밸류에이션이 높은 초우량 성장주는 실적 서프라이즈 후의 차익 실현 변동성을 견뎌내는 배짱이 필요한 구역임.",
+    "action_point": "개장 전 변동성으로 급락 시 펀더멘털을 확인한 후 눌림목 진입 타이밍으로 활용."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "space",
+      "tech"
+    ],
+    "tags": [
+      "팔란티어실적",
+      "스페이스X보호예수",
+      "개장전요것만",
+      "미국증시",
+      "한경글로벌"
+    ]
+  }
+}

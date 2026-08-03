@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "Pfu8rWMGwoQ",
+    "title": "\"반도체 다 팔라는 게 아닙니다\" 하반기 대형주 '이곳'으로 균형 잡으세요ㅣ이재규 SK증권 PB 차장 [집중 오늘의 주식]",
+    "published": "2026-08-03T11:30:34+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=Pfu8rWMGwoQ",
+    "thumbnail": "https://img.youtube.com/vi/Pfu8rWMGwoQ/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "반도체 주가 조정 시 전량 매도하는 성급함을 경계하며, 하반기 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 및 <span class=\"text-cyan-300 font-semibold\">삼성전자</span> 비중을 고수한 채 포트폴리오 균형을 맞추는 바벨 전략을 제안함. <span class=\"text-amber-300 font-bold\">방산·조선·바이오</span> 등 대체 주도주를 결합한 분산 투자가 유효함.",
+    "key_claims": [
+      "반도체 사이클은 끝나지 않았으며 사이클 중간의 일시적 주가 과열 해소 과정임.",
+      "하반기 포트폴리오 안정화를 위해 반도체+방산/조선/금융주 조합의 자산 배분 제안."
+    ],
+    "data_points": [
+      "SK하이닉스 HBM3E 분기 출하량 역대 최대 기록",
+      "하반기 방산/조선 업종 수주 잔고 사상 최대 경신 중"
+    ],
+    "signal": "bullish",
+    "signal_reason": "반도체 펀더멘털 지속 우상향 판단 및 하반기 주도주 조합을 통한 이익 안정성 확보.",
+    "key_companies": [
+      "SK하이닉스(000660)",
+      "삼성전자(005930)",
+      "한화에어로스페이스(012450)",
+      "HD한국조선해양(009540)"
+    ],
+    "insight": "반도체를 다 파는 극단적 투자는 지양해야 하며, 반도체 대장주를 중심에 두고 방산과 조선을 믹스하는 균형 전략이 승률을 높임.",
+    "action_point": "반도체 보유 비중을 40~50% 유지하되 남은 비중을 방산 및 실적 개선주로 포트폴리오 리밸런싱."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "shipbuilding"
+    ],
+    "tags": [
+      "반도체매도금지",
+      "SK하이닉스",
+      "바벨전략",
+      "방산주",
+      "오늘의주식"
+    ]
+  }
+}

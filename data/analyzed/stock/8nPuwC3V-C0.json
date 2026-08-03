@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "8nPuwC3V-C0",
+    "title": "[8월 3일 마감시황] ‘폭등 후유증’ 겪는 코스피, 반등 하루 만에 급락…외국인이 다시 브레이크를 걸었다ㅣ홍선애, 이권희, 김장열 [클로징벨 라이브]",
+    "published": "2026-08-03T08:18:40+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=8nPuwC3V-C0",
+    "thumbnail": "https://img.youtube.com/vi/8nPuwC3V-C0/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "8월 3일 국내 증시가 전일 역대급 폭등 이후 하루 만에 재차 급락하며 <span class=\"text-rose-400 font-medium\">외국인 순매도 전환</span>과 엔화 강세 재개에 따른 변동성을 겪음. 코스피 반도체 대장주(<span class=\"text-cyan-300 font-semibold\">삼성전자</span>, <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>)가 약세를 보이며 지수 하락을 주도했으나 실적 장세 국면 진입에 따른 개별 종목 차별화가 진행되고 있음.",
+    "key_claims": [
+      "전일 사상 최대 폭등에 따른 차익 실현 물량과 엔/달러 환율 하락(엔화 강세)이 복합 작용함.",
+      "외국인 수급의 일시적 차익 실현에도 불구하고 3분기 실적 개선 대장주의 펀더멘털은 양호함."
+    ],
+    "data_points": [
+      "8월 3일 코스피 지수: 전일 대비 약 2~3%대 하락 마감",
+      "외국인 유가증권시장 순매도 규모: 5,000억 원 이상 돌아서"
+    ],
+    "signal": "bearish",
+    "signal_reason": "전일 폭등 후 차익 실현 매물 및 엔화 강세 우려로 인한 단기 기술적 조정 국면 형성.",
+    "key_companies": [
+      "삼성전자(005930)",
+      "SK하이닉스(000660)",
+      "현대차(005380)"
+    ],
+    "insight": "8월 초 국내 증시는 엔화 환율 변동성과 미국 빅테크 실적 발표 일정에 맞춰 일별 극심한 변동성을 연출하는 주가 진통 구간임.",
+    "action_point": "지수 급락 시 당황한 뇌동매도를 자제하고 차세대 HBM 및 확실한 실적 모멘텀을 가진 대형주 중심의 분할 매수 기회 모색."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy",
+      "tech"
+    ],
+    "tags": [
+      "코스피",
+      "마감시황",
+      "외국인매도",
+      "SK하이닉스",
+      "삼성전자",
+      "클로징벨"
+    ]
+  }
+}

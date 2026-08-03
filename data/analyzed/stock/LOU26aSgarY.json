@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "LOU26aSgarY",
+    "title": "레버리지 악순환이 만들어낸 시장, 반등은 어디까지? | 이혁진, 여도은, 허재무 [아침N투자]",
+    "published": "2026-08-03T02:21:08+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=LOU26aSgarY",
+    "thumbnail": "https://img.youtube.com/vi/LOU26aSgarY/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "글로벌 증시 급변동 과정에서 신용융자 및 반대매매로 인한 <span class=\"text-rose-400 font-medium\">레버리지 악순환 청산</span>이 증시 급락을 가속화한 기전을 조명함. 반대매매 물량이 일단락된 후 나타나는 <span class=\"text-amber-300 font-bold\">기술적 반등 국면</span>에서 반등의 지속성과 수급 주체를 평가함.",
+    "key_claims": [
+      "과도한 신용 레버리지 털어내기 과정이 진정되어야 비로소 진바닥이 형성됨.",
+      "단기 기술적 반등 시에는 수급 빈집 상태인 대형 실적주로의 자금 유입이 빠르게 진행됨."
+    ],
+    "data_points": [
+      "국내 신용융자 잔고: 폭락 전 대비 1~2조 원 대폭 감소",
+      "코스피 기술적 반등 마지노선 200일 이동평균선 수준 제시"
+    ],
+    "signal": "bullish",
+    "signal_reason": "레버리지 매물 청산 완료에 따른 악성 수급 해소 및 과도한 과매도 구간 진입 판단.",
+    "key_companies": [
+      "삼성전자(005930)",
+      "SK하이닉스(000660)"
+    ],
+    "insight": "레버리지 청산 폭풍이 지나간 자리는 투매의 잔해 속에 알짜 주식을 최적의 가격에 주울 수 있는 바닥 매수 구간임.",
+    "action_point": "신용 잔고 감소와 반대매매 일단락 신호를 확인하고 반도체 및 실적 개선 대형주 저점 매수 가동."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "레버리지악순환",
+      "반대매매청산",
+      "기술적반등",
+      "코스피바닥",
+      "아침N투자"
+    ]
+  }
+}

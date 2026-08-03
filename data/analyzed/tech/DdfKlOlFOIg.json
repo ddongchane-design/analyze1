@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "DdfKlOlFOIg",
+    "title": "“이러다 진짜 망한다” 빅테크 숨은빚 2,390조원, AI 제국에 균열 터졌다 ㄷㄷ",
+    "published": "2026-08-03T09:00:00+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=DdfKlOlFOIg",
+    "thumbnail": "https://img.youtube.com/vi/DdfKlOlFOIg/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "글로벌 빅테크 기업들이 AI 데이터센터 구축 및 장비 도입을 위해 운용리스 및 사모펀드 딜을 활용해 숨겨둔 <span class=\"text-rose-400 font-medium\">막대한 부채(2,390조 원 상당)</span>가 회계상 리스크로 부각됨을 파헤침. AI 투자 대비 현금 회수(ROI) 시점이 지연될 경우 <span class=\"text-rose-400 font-medium\">빅테크 신용 등급 및 CapEx 축소</span> 경고등이 켜질 수 있음.",
+    "key_claims": [
+      "빅테크의 AI 데이터센터 장비 대량 구매 뒤에는 대규모 부채와 오프밸런스(부외부채) 리스 계약이 숨어있음.",
+      "AI 서비스의 매출 창출 속도가 데이터센터 투자 비용 증가 속도를 따라잡지 못하는 갭 발생."
+    ],
+    "data_points": [
+      "글로벌 빅테크 합산 AI 관련 가용 부채 및 리스 계약 규모: 약 2,390조 원 추정",
+      "빅테크 4사(빅4) 2026년 합산 CapEx: 2,000억 달러 돌파"
+    ],
+    "signal": "bearish",
+    "signal_reason": "AI 투자 회수 지연 우려와 회계상 숨은 부채 리스크로 인한 빅테크 주가 조정 압력 증가.",
+    "key_companies": [
+      "마이크로소프트(MSFT)",
+      "구글(GOOGL)",
+      "아마존(AMZN)",
+      "메타(META)"
+    ],
+    "insight": "AI 버블 논란의 본질은 기술 혁신 자체보다 빅테크 기업들의 무리한 부채 기반 CapEx 지출과 이익 회수 속도 간의 불일치에 있음.",
+    "action_point": "빅테크 실적 발표 시 잉여현금흐름(FCF) 및 CapEx 가이던스 변화를 철저히 모니터링할 것."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock",
+      "economy"
+    ],
+    "tags": [
+      "빅테크숨은빚",
+      "AICapEx",
+      "AI버블",
+      "데이터센터",
+      "SOD"
+    ]
+  }
+}

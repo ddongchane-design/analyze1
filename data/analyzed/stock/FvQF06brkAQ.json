@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "FvQF06brkAQ",
+    "title": "AI 랠리 2라운드…승부는 실적ㅣ스페이스X 첫 실적 발표…머스크 뭐라고 말할까ㅣ트럼프 \"일본 돕겠다\"…엔화 방어 나섰다ㅣ홍혜진의 뉴욕브리핑",
+    "published": "2026-08-03T13:54:20+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=FvQF06brkAQ",
+    "thumbnail": "https://img.youtube.com/vi/FvQF06brkAQ/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "뉴욕증시의 AI 랠리가 <span class=\"text-cyan-300 font-semibold\">실적 확인 국면</span>으로 접어든 가운데, <span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 첫 실적 공개와 엔화 가치 안정을 위한 트럼프 및 미-일 외환 공조 기류를 브리핑함. 머스크의 우주·AI 생태계 확장과 일본 엔화 방어 작전이 시장의 새로운 방향성을 좌우함.",
+    "key_claims": [
+      "스페이스X 실적 수치 공개는 민간 우주산업 밸류에이션 재평가의 분수령이 됨.",
+      "트럼프의 엔화 방어 지원 발언이 미-일 환율 개입 가능성을 높이며 엔화 급락을 일시 저지함."
+    ],
+    "data_points": [
+      "스페이스X 2026년 가동 실적 매출 발표",
+      "엔/달러 환율 트럼프 발언 직후 하락 반전"
+    ],
+    "signal": "bullish",
+    "signal_reason": "빅테크 및 민간 우주 기업들의 실제 실적 호조와 환율 불안 완화 기조가 호재로 작동.",
+    "key_companies": [
+      "스페이스X",
+      "테슬라(TSLA)",
+      "팔란티어(PLTR)"
+    ],
+    "insight": "AI 랠리는 단순한 기대감 폭발에서 민간 우주산업과 결합된 실질적 현금 창출력 검증 단계로 업그레이드됨.",
+    "action_point": "우주항공 및 AI 플랫폼 기업의 실적 지표를 확인하며 밸류체인 핵심주 위주로 매수 대응."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "space",
+      "economy"
+    ],
+    "tags": [
+      "AI실적랠리",
+      "스페이스X",
+      "엔화방어",
+      "트럼프",
+      "뉴욕브리핑"
+    ]
+  }
+}

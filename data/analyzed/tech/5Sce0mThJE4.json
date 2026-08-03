@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "5Sce0mThJE4",
+    "title": "HBM 후발주자 치욕 딛고, 다시 왕좌 찾는 삼성 | HBM4부터 핵심은 베이스다이가 된 기술적 이유 | 삼성 파운드리 vs tsmc",
+    "published": "2026-08-03T09:25:15+00:00",
+    "channel_name": "안될공학 - IT 테크 신기술",
+    "url": "https://www.youtube.com/watch?v=5Sce0mThJE4",
+    "thumbnail": "https://img.youtube.com/vi/5Sce0mThJE4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "삼성전자가 차세대 <span class=\"text-cyan-300 font-semibold\">HBM4</span>에서 베이스 다이(Base Die) 생산에 4나노 로직 공정을 채택하여 경쟁사 차별화를 시도하는 기술 전략을 해설함. 신호 전달과 전력 효율 관리가 극대화되는 HBM4 시대에는 <span class=\"text-cyan-300 font-semibold\">삼성 파운드리</span> 수직 통합 경쟁력과 <span class=\"text-cyan-300 font-semibold\">TSMC</span> 생태계 간 격돌이 본격화될 전망임.",
+    "key_claims": [
+      "HBM4부터 인터페이스 폭이 2048비트로 확장되어 베이스 다이의 전력/타이밍 처리 복잡성이 대폭 증가함.",
+      "삼성전자는 메모리와 파운드리를 모두 갖춘 수직 통합 이점을, SK하이닉스는 TSMC 생태계 결합 이점을 활용함."
+    ],
+    "data_points": [
+      "HBM4 대역폭: 단일 스택당 초당 3TB 이상 (2048비트 핀 탑재)",
+      "삼성 파운드리 4나노 베이스 다이 적용 발표"
+    ],
+    "signal": "bullish",
+    "signal_reason": "HBM4 기술 규격 격변 과정에서 로직 반도체 융합이 강화되어 한국 메모리 기업들의 단가 상승 및 실적 개선세가 기대됨.",
+    "key_companies": [
+      "삼성전자(005930)",
+      "SK하이닉스(000660)",
+      "TSMC(TSM)",
+      "시놉시스(SNPS)"
+    ],
+    "insight": "HBM4부터 반도체 경쟁은 단순 D램 적층 기술이 아니라 아랫단 베이스 로직 다이의 전력 효율과 시스템 파운드리 검증 능력으로 이동함.",
+    "action_point": "삼성전자 파운드리 4나노 수율 안정화 및 SK하이닉스-TSMC 밸류체인의 HBM4 샘플 양산 시점에 주가 반등 주시."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "HBM4",
+      "베이스다이",
+      "삼성전자",
+      "SK하이닉스",
+      "TSMC",
+      "4나노"
+    ]
+  }
+}

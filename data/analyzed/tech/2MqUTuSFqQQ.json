@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "2MqUTuSFqQQ",
+    "title": "머스크는 천재를 끌어모읍니다 그리고 갈아 넣습니다",
+    "published": "2026-08-03T14:15:14+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=2MqUTuSFqQQ",
+    "thumbnail": "https://img.youtube.com/vi/2MqUTuSFqQQ/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "일론 머스크의 <span class=\"text-cyan-300 font-semibold\">스페이스X</span> 및 테슬라 조직 경영 방식으로 최정예 천재 엔지니어를 집결시키고 극한의 생산성에 몰아넣는 독특한 기업 문화를 조명함. 높은 이탈률에도 불구하고 <span class=\"text-cyan-300 font-semibold\">재사용 로켓</span> 및 스타링크, 주행 AI 분야에서 독보적 기술 격차를 유지하는 원동력을 분석함.",
+    "key_claims": [
+      "머스크 특유의 '물리학 제1원리 기반 미션 부여'가 글로벌 인재 유치의 핵심 동력임.",
+      "조직의 극한 효율성과 빠른 시행착오는 우주항공 및 자율주행 시장의 압도적 1위 유지 비결임."
+    ],
+    "data_points": [
+      "스페이스X 스타링크 글로벌 가입자 수 및 로켓 발사 횟수 세계 1위 유지",
+      "테슬라 FSD 주행 거리 데이터 및 인재 밀도 지표"
+    ],
+    "signal": "bullish",
+    "signal_reason": "머스크 생태계(테슬라, 스페이스X, xAI)의 기술 혁신 속도와 압도적 인재 몰입도가 경쟁 우위를 지속 확고히 함.",
+    "key_companies": [
+      "테슬라(TSLA)",
+      "스페이스X"
+    ],
+    "insight": "머스크 생태계의 핵심은 칩이나 제조 장비 자체보다 빠른 실행력과 인재 밀도로 만들어내는 소프트웨어·하드웨어 융합 속도임.",
+    "action_point": "테슬라 Robotaxi 및 스페이스X 밸류에이션 상승 모멘텀에 맞춰 관련 우주·자율주행 밸류체인을 관심 있게 관찰함."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "space",
+      "stock"
+    ],
+    "tags": [
+      "일론머스크",
+      "스페이스X",
+      "테슬라",
+      "기업문화",
+      "스타링크"
+    ]
+  }
+}

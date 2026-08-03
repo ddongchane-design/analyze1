@@ -17,7 +17,7 @@
       "Kimi K3 스펙: 2.8조 파라미터, 100만 토큰 컨텍스트, 896개 전문가 중 16개 활성화",
       "효율화 지표: 동일 연산 대비 실질 효율 2.5배 증가"
     ],
-    "signal": "positive",
+    "signal": "bullish",
     "signal_reason": "Kimi K3 MoE 기술이 GPU 및 <span class=\"text-cyan-300 font-semibold\">HBM</span> 탑재량 상주를 강제하고, 100만 토큰 KV 캐시용 eSSD/DDR5 폭발을 유발하여 <span class=\"text-cyan-300 font-semibold\">반도체</span> 초장기 호황을 보장하기 때문입니다.",
     "key_companies": [
       "SK하이닉스(000660)",

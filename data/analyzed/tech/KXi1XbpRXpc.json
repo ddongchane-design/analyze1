@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "KXi1XbpRXpc",
+    "title": "구글이 돈을 이렇게 번다고? 근데 왜 잉여현금은... #교양이를부탁해 #AI버블 #반도체 #프론티어AI #닷컴버블",
+    "published": "2026-08-03T11:00:13+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=KXi1XbpRXpc",
+    "thumbnail": "https://img.youtube.com/vi/KXi1XbpRXpc/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "알파벳(구글)이 검색 및 광고 사업에서 막대한 매출을 올림에도 불구하고 <span class=\"text-cyan-300 font-semibold\">잉여현금흐름(FCF)</span>이 정체되는 이유를 파헤침. AI 경쟁 심화에 따라 <span class=\"text-rose-400 font-medium\">AI 데이터센터 및 설비투자(CapEx)</span> 자금 지출이 천문학적으로 늘어난 점이 주요 원인임.",
+    "key_claims": [
+      "구글의 본업 수익성은 최고 수준이나 AI 서버 및 전동 칩(TPU/GPU) 구매 CapEx가 FCF를 압박함.",
+      "클라우드 및 검색 AI 인프라 선점을 위한 현금 소진 속도가 과거 닷컴 시절을 방증함."
+    ],
+    "data_points": [
+      "구글 분기 CapEx 지출액: 130억 달러 이상 돌파",
+      "잉여현금흐름(FCF) 이익률: 매출 대비 하락 기조"
+    ],
+    "signal": "neutral",
+    "signal_reason": "압도적 본업 이익 창출력과 천문학적 AI 투자비 지출이 상쇄되어 장기 관망 관점 유지.",
+    "key_companies": [
+      "구글(GOOGL)",
+      "엔비디아(NVDA)"
+    ],
+    "insight": "AI 군비 경쟁 시대에는 매출 증대 이상으로 FCF(잉여현금)를 방어하며 효율적 AI 인프라를 구축하는 기업만이 승리할 수 있음.",
+    "action_point": "구글의 AI 검색 전환율 및 TPU v5/v6 도입에 따른 자사주 매입 체력 유지를 점검할 것."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "구글 CapEx",
+      "잉여현금흐름",
+      "AI투자비용",
+      "알파벳",
+      "교양이를부탁해"
+    ]
+  }
+}

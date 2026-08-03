@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "mXJn3NfqboA",
+    "title": "시장 국면에 대한 판단과 대응 | 월스트리트파인더ㅣ2026.8.3(월)",
+    "published": "2026-08-03T00:28:37+00:00",
+    "channel_name": "Smart Money by MiraeAsset ",
+    "url": "https://www.youtube.com/watch?v=mXJn3NfqboA",
+    "thumbnail": "https://img.youtube.com/vi/mXJn3NfqboA/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "8월 현재 글로벌 금융 시장 국면을 <span class=\"text-amber-300 font-bold\">실적 장세 과도기</span> 및 연준 금리 인하 기대감이 교차하는 중기 횡보 구간으로 진단함. 주가 조정을 공포로 보지 않고 <span class=\"text-cyan-300 font-semibold\">핵심 펀더멘털 대형주 저점 매수</span>의 국면 대응 전략을 월가 분석가를 통해 소개함.",
+    "key_claims": [
+      "현재 시장은 밸류에이션 부담 완화 과정에 있으며 실적 모멘텀이 살아있는 한 강세장 기조 유지.",
+      "미국 연준의 금리 인하 재개가 다가옴에 따라 채권 및 기술주 동시 혜택 가능성."
+    ],
+    "data_points": [
+      "월스트리트 주요 IB 2026년 하반기 S&P 500 타깃 지수 상향",
+      "연준 FedWatch 9월 금리 인하 가능성 80% 상회"
+    ],
+    "signal": "bullish",
+    "signal_reason": "시장 국면이 침체가 아닌 이익 성장의 소화 과정이며 금리 인하 수혜 기대 반영.",
+    "key_companies": [
+      "엔비디아(NVDA)",
+      "아마존(AMZN)",
+      "애플(AAPL)"
+    ],
+    "insight": "시장의 변동성은 펀더멘털이 훼손된 것이 아니라 실적 상승에 맞춰 주가 숨고르기를 진행하는 정상적인 국면 진통임.",
+    "action_point": "주가 조정 시 도망치지 말고 반도체 및 빅테크 우량주 저점 분할 매수 대응 전략 실행."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy",
+      "tech"
+    ],
+    "tags": [
+      "시장국면판단",
+      "월스트리트파인더",
+      "저점매수대응",
+      "금리인하",
+      "미래에셋"
+    ]
+  }
+}

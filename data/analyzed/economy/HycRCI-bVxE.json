@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "HycRCI-bVxE",
+    "title": "다이소 가면서 샤넬 산다 중간이 사라진 한국(피치덱 이동열 대표)",
+    "published": "2026-08-03T07:55:32+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=HycRCI-bVxE",
+    "thumbnail": "https://img.youtube.com/vi/HycRCI-bVxE/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "한국 내수 소비 시장이 중가형 브랜드의 침체 속에 <span class=\"text-amber-300 font-bold\">초저가(다이소)</span>와 <span class=\"text-amber-300 font-bold\">초고가 명품(샤넬)</span>으로 양극화되는 현상을 소비 트렌드 및 유통 구조 관점에서 분석함. 중산층 소비 위축과 실질 소득 정체가 유통 산업 재편을 가속화하고 있음.",
+    "key_claims": [
+      "어중간한 가격대의 중간 브랜드는 외면받고 가성비 극대화 상품과 초명품으로 소비가 분할됨.",
+      "고물가·고금리 장기화로 가계의 실질 처분가능소득이 줄어든 영향이 양극화 소비로 표출됨."
+    ],
+    "data_points": [
+      "다이소 연간 매출액 사상 최대 경신 및 1,000원~5,000원 균일가 비중 90% 이상",
+      "백화점 명품관 매출 비중 지속 상승 반면 중저가 패션 상점 휴폐업증가"
+    ],
+    "signal": "neutral",
+    "signal_reason": "내수 전반의 경기 둔화 우려 속에 초저가 유통 및 럭셔리 특화 기업으로 수혜 쏠림.",
+    "key_companies": [
+      "아성다이소",
+      "신세계(004170)",
+      "현대백화점(069960)"
+    ],
+    "insight": "소비 양극화는 단순한 취향 변화가 아닌 고금리 장기화가 만든 소득 양극화의 반영이며, 유통/소비재 투자 시 명확한 수혜 기업 선택이 필수적임.",
+    "action_point": "중간대 마진율이 훼손되는 유통주를 피하고, 초가성비 리테일러 플랫폼 또는 확실한 하이엔드 브랜드 소유 기업에 집중."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "소비양극화",
+      "다이소",
+      "샤넬",
+      "내수경기",
+      "언더스탠딩"
+    ]
+  }
+}

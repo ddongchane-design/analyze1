@@ -1,0 +1,39 @@
+{
+  "video": {
+    "id": "u-l8tYf7Zu4",
+    "title": "콘서트를 즐기는 과학적인 방법 [N.Flying 초대석]",
+    "published": "2026-08-03T11:00:20+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=u-l8tYf7Zu4",
+    "thumbnail": "https://img.youtube.com/vi/u-l8tYf7Zu4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "콘서트 및 음향 무대 현장에서 라이브 음악을 가장 완벽하고 안전하게 즐기는 <span class=\"text-amber-300 font-bold\">음향 물리학 및 청각 보호 과학</span>을 엔플라잉(N.Flying)과의 초대석 토크로 해설함. 스피커 위치에 따른 음압 전달 및 이명 예방을 위한 청음 팁을 전달함.",
+    "key_claims": [
+      "콘서트장 내 스피커 주파수 특성 및 음압 레벨(dB)에 따라 최적의 청음 구역이 결정됨.",
+      "고음역대 데시벨 폭발 시 이명 예방을 위한 뮤지션용 이어플러그 착용의 중요성."
+    ],
+    "data_points": [
+      "콘서트 라이브 음압 레벨: 평균 100~110dB 육박",
+      "청각 손상 방지 가이드 기준 85dB 이상 장시간 노출 위험"
+    ],
+    "signal": "na",
+    "signal_reason": "음향 물리학 및 밴드 문화 교양 콘텐츠로 직접적인 증시 시그널과 무관함.",
+    "key_companies": [
+      "엔플라잉"
+    ],
+    "insight": "음향 공학과 청각 보호 과학은 단순한 라이브 감상을 넘어 일상 속 청각 건강을 키우는 실용적 지식임.",
+    "action_point": "라이브 공연 및 엔터테인먼트 산업의 현장 기술 요소에 대한 교양 지식으로 참고."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [],
+    "tags": [
+      "콘서트과학",
+      "음향물리학",
+      "청각보호",
+      "엔플라잉",
+      "안될과학"
+    ]
+  }
+}

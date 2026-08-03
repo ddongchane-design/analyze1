@@ -18,7 +18,7 @@
       "미국 주식 담보 대출 규모: 1.4조 달러 (미국 GDP 상당 수준)",
       "오라클 신용등급: BBB- (투기 등급 바로 전 단계로 강등)"
     ],
-    "signal": "negative",
+    "signal": "bearish",
     "signal_reason": "미국 신용 융자의 역사적 고점 도달에 따른 반대매매 <span class=\"text-rose-400 font-medium\">청산</span> <span class=\"text-rose-400 font-medium\">위험</span>과 오라클 등 빅테크 채권 신용등급 강등에 따른 금융 경색 우려가 높아졌기 때문입니다.",
     "key_companies": [
       "Oracle(ORCL)",
