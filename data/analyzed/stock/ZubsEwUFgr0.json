@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "ZubsEwUFgr0",
+    "title": "[문지웅의 빅머니 LIVE] 실적 폭발한 팔란티어 30% 폭등 | 월가 \"기술주 매도 종료\" | 스페이스X 호실적에도 시간외 하락",
+    "published": "2026-08-04T22:04:03+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=ZubsEwUFgr0",
+    "thumbnail": "https://img.youtube.com/vi/ZubsEwUFgr0/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "실적 폭발을 기록한 <span class=\"text-cyan-300 font-semibold\">팔란티어가 시간외 포함 30% 폭등</span>하며 월가에서 \"기술주 매도세가 공식 종료되었다\"는 진단이 나온 소식을 전달함. <span class=\"text-cyan-300 font-semibold\">스페이스X</span> 역시 호실적을 발표했으나 단기 자금 재투자로 보합권을 형성하며 기술주 전반의 강세장 재가동을 알림.",
+    "key_claims": [
+      "팔란티어의 AIP 가입 고객 수 폭증이 AI 소프트웨어의 실질 수익화 시대를 증명함.",
+      "월가 주요 IB들이 기술주 매도 세션의 청산을 선언하고 AI 대장주 저점 매수를 권고."
+    ],
+    "data_points": [
+      "팔란티어(PLTR) 주가: 당일 최대 30% 폭등 기록",
+      "스페이스X 스타링크 연간 매출액 가이던스 이익률 35% 달성"
+    ],
+    "signal": "bullish",
+    "signal_reason": "팔란티어의 30% 폭등과 기술주 매도 청산 선언으로 강력한 상방 모멘텀 확보.",
+    "key_companies": [
+      "팔란티어(PLTR)",
+      "스페이스X",
+      "엔비디아(NVDA)",
+      "테슬라(TSLA)"
+    ],
+    "insight": "AI 소프트웨어의 실적 대폭발은 밸류에이션 논란을 잠재우는 최고의 치료제이며 기술주 랠리 2라운드의 개막 신호임.",
+    "action_point": "기술주 저점 매도세 종료 신호에 맞춰 팔란티어 및 관련 인프라 수혜주 매수 유지."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "space",
+      "tech"
+    ],
+    "tags": [
+      "팔란티어30프로폭등",
+      "기술주매도종료",
+      "스페이스X실적",
+      "빅머니LIVE",
+      "매경월가월부"
+    ]
+  }
+}

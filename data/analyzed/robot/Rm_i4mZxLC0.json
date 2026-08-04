@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "Rm_i4mZxLC0",
+    "title": "구글이 AI 에이전트보다 로보틱스에 집중하는 진짜 이유",
+    "published": "2026-08-04T10:15:33+00:00",
+    "channel_name": "엔지니어TV",
+    "url": "https://www.youtube.com/watch?v=Rm_i4mZxLC0",
+    "thumbnail": "https://img.youtube.com/vi/Rm_i4mZxLC0/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "구글(Google DeepMind)이 단순 소프트웨어 AI 에이전트를 넘어 <span class=\"text-cyan-300 font-semibold\">피지컬 로보틱스(RT-2, Gemini Robotics)</span> 분야에 집중하는 근본 이유를 기술 구조 관점에서 다룸. 가상 세계의 텍스트 데이터를 넘어 현실 세계의 물리적 상호작용 데이터를 확보하는 것이 <span class=\"text-amber-300 font-bold\">차세대 AGI의 필연적 관문</span>임.",
+    "key_claims": [
+      "AI의 다음 데이터 부족(Data Wall) 문제를 해결하기 위해 물리적 로봇 멀티모달 데이터 수집이 필수적임.",
+      "구글의 로봇 파운데이션 모델이 정밀 제어 및 인간 협업 로봇 상용화를 이끌고 있음."
+    ],
+    "data_points": [
+      "구글 딥마인드 RT-2/Gemini 기반 로봇 학습 데이터 수집량: 전년 대비 5배 증가",
+      "글로벌 로보틱스 시장 규모 2030년까지 연평균 30% 성장"
+    ],
+    "signal": "bullish",
+    "signal_reason": "빅테크(구글)의 피지컬 로보틱스 대규모 투자로 로봇 산업 전반의 성장 가속화.",
+    "key_companies": [
+      "구글(GOOGL)",
+      "레인보우로보틱스(277810)",
+      "두산로보틱스(454910)"
+    ],
+    "insight": "구글의 로보틱스 올인은 AI가 화면을 벗어나 물리적 현실 세계로 진출하는 거대한 수순이며, 피지컬 AI 부품 기업들의 가치를 극대화시킴.",
+    "action_point": "로봇 관제 파운데이션 모델 관련 소프트웨어 기업 및 국내 로봇 협력사 저점 매수."
+  },
+  "classification": {
+    "primary_topic": "robot",
+    "secondary_topics": [
+      "tech",
+      "stock"
+    ],
+    "tags": [
+      "구글로보틱스",
+      "피지컬AI",
+      "GeminiRobotics",
+      "AGI관문",
+      "엔지니어TV"
+    ]
+  }
+}

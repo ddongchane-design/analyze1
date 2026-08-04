@@ -1,15 +1,15 @@
 {
   "consensus": "bullish",
-  "cross_insight": "AI 반도체 시장은 단순 D램 적층에서 차세대 <span class=\"text-cyan-300 font-semibold\">HBM4 베이스 다이(4나노/TSMC 공정)</span> 로직 융합으로 전장이 이동하고 있으며, 초고가 NVL 랙 스케일 시스템 구축과 수냉식 쿨링 및 전력 인프라가 핵심 경쟁력으로 부상함. 중국 <span class=\"text-cyan-300 font-semibold\">CXMT</span>의 범용 D램 공포는 미국 장비 제재로 과장된 소음임이 확인된 반면, 빅테크의 천문학적 AI CapEx 지출과 FCF(잉여현금) 관리 능력 및 B2B AI 엔터프라이즈(팔란티어 AIP)의 실질 매출 검증이 <span class=\"text-amber-300 font-bold\">AI 랠리 2라운드</span>의 성패를 가르고 있음.",
-  "divergence": "빅테크 숨은 부채(2,390조 원)와 FCF 하락 및 인도 IT 아웃소싱 고용 둔화에 따른 AI 버블 캐즘 경고론과, HBM4 로직 융합 및 실질 B2B 매출 증대에 힘입어 기술주 독주가 이어질 것이라는 환호론이 상충함.",
+  "cross_insight": "AI 반도체 시장은 <span class=\"text-cyan-300 font-semibold\">HBM4 가격 상승원인(4나노/3나노 베이스 다이 로직 공정 융합)</span> 분석과 빅테크의 천문학적 AI CapEx 지속 지출로 강력한 단가 상승 및 마진 확대 국면에 접어듦. <span class=\"text-cyan-300 font-semibold\">오픈AI 상장 추진</span>이 AI 랠리의 최후 빅이벤트이자 밸류에이션 도약 축복의 변곡점으로 떠올랐으며, 엔비디아 코어 반도체의 압도적 독주 속에 B2B AI 실적(팔란티어 AIP) 수익화 입증이 기술주 반등을 수놓고 있음.",
+  "divergence": "AMD 가이던스 아쉬움 및 하위 AI 스타트업 자금난 경고 신호(코어 대 주변 양극화)와, HBM4 ASP 폭등 및 오픈AI 상장 모멘텀에 따른 AI 실적 랠리 지속론이 상충함.",
   "key_themes": [
-    "HBM4 베이스 다이 로직 융합(삼성 4나노 vs SK하이닉스-TSMC) 및 랙 스케일 AI 팩토리",
-    "CXMT 중국 반도체 공포 과장 입증 및 미국 장비 규제 하의 한국 HBM 독점 선점",
-    "AI CapEx와 FCF(잉여현금흐름) 방어 능력을 갖춘 빅테크 중심의 2라운드 실적 차별화"
+    "HBM4 베이스 다이 선단 로직 융합에 따른 판가(ASP) 폭등 및 한국 메모리 마진율 최고치",
+    "오픈AI IPO 상장 추진 모멘텀과 B2B AI 서비스(팔란티어 AIP) 실질 수익화 가시화",
+    "고금리에도 빅테크 CapEx(2,000억 달러 이상) 계속 확장 및 엔비디아 블랙웰 수혜"
   ],
   "watch_list": [
-    "삼성전자 파운드리 4나노 HBM4 베이스 다이 수율 및 SK하이닉스-TSMC 밸류체인",
-    "엔비디아(NVDA) NVL72/144 수냉식 쿨링 시스템 출하량 및 수주잔고",
-    "팔란티어(PLTR), 구글(GOOGL) AI 클라우드 실적 및 자사주 매입 체력"
+    "삼성전자 및 SK하이닉스의 HBM4 베이스 다이 수율 및 핀당 16Gbps 속도 달성",
+    "오픈AI 기업가치 1,000억 달러 이상 상장 일정 및 마이크로소프트(MSFT) 연동",
+    "엔비디아(NVDA) Blackwell B200 랙 스케일 출하량 및 가동률"
   ]
 }

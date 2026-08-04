@@ -1,0 +1,39 @@
+{
+  "video": {
+    "id": "08rbkZEGD5I",
+    "title": "철골보다 강력하다? 나무로 아파트를 짓는 과학적인 이유",
+    "published": "2026-08-04T11:00:39+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=08rbkZEGD5I",
+    "thumbnail": "https://img.youtube.com/vi/08rbkZEGD5I/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "철골과 콘크리트보다 탄소 배출이 적고 구조적 강도가 우수한 <span class=\"text-cyan-300 font-semibold\">목조 공학 목재(CLT)</span>를 활용한 고층 아파트 건축의 과학적 원리를 다룸. 친환경 건축 자재 수요 급증과 <span class=\"text-amber-300 font-bold\">스마트 목조 공학</span>의 탄소 중립 효과를 해설함.",
+    "key_claims": [
+      "직교 적층 목재(CLT) 공법으로 10층 이상의 고층 마천루 건축이 가능해짐.",
+      "탄소 포집 효과 및 콘크리트 대비 건축 공기 단축으로 친환경 스마트 건설의 대안 부상."
+    ],
+    "data_points": [
+      "CLT 구조목 단위 강도: 기존 콘크리트 대비 2배 이상 우수",
+      "건축 탄소 배출 절감률: 기존 공법 대비 40% 절감"
+    ],
+    "signal": "na",
+    "signal_reason": "친환경 건축 자재 공학 교양 콘텐츠로 직접적인 금융 시그널과 무관함.",
+    "key_companies": [],
+    "insight": "친환경 신소재 건축 공학은 탄소 배출권 거래 및 ESG 규제 강화 시대를 대비하는 스마트 건설의 필수 지식임.",
+    "action_point": "친환경 건축 신소재 및 모듈러 건축 관련 기술 보유 기업의 상식 차원 모니터링."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "energy"
+    ],
+    "tags": [
+      "CLT목조건축",
+      "친환경소재",
+      "탄소중립",
+      "스마트건축",
+      "안될과학"
+    ]
+  }
+}

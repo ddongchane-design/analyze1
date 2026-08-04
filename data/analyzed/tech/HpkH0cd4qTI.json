@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "HpkH0cd4qTI",
+    "title": "멀쩡한 코어, 식어가는 주변... 버블의 경고 신호 #교양이를부탁해 #AI버블 #반도체 #프론티어AI #닷컴버블",
+    "published": "2026-08-04T11:30:28+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=HpkH0cd4qTI",
+    "thumbnail": "https://img.youtube.com/vi/HpkH0cd4qTI/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "AI 산업에서엔비디아·TSMC 등 <span class=\"text-cyan-300 font-semibold\">핵심 코어 반도체</span>는 멀쩡하지만, 수익화에 실패한 <span class=\"text-rose-400 font-medium\">주변 AI 응용 애플리케이션 및 스타트업</span>의 자금 난이 심화되는 '버블의 경고 신호'를 조명함. 닷컴 버블과 마찬가지로 핵심 인프라와 단순 서비스 간 주가 양극화가 뚜렷해짐.",
+    "key_claims": [
+      "엔비디아 등 코어 칩셋 기업은 사상 최대 영업이익을 유지하나 하위 AI 응용업체는 폐업 증가.",
+      "AI 서비스의 실질 과금 모델 창출 여부가 주가 지속성의 성패를 좌우함."
+    ],
+    "data_points": [
+      "AI 코어 반도체 마진율: 70% 유지 반면 단순 AI 서비스 마진율: -20% 적자",
+      "글로벌 AI 스타트업 2분기 벤처캐피털(VC) 투자액 25% 축소"
+    ],
+    "signal": "neutral",
+    "signal_reason": "코어 반도체의 강력한 실적과 주변부 스타트업 둔화 경고 신호 상충.",
+    "key_companies": [
+      "엔비디아(NVDA)",
+      "TSMC(TSM)",
+      "오픈AI"
+    ],
+    "insight": "AI 버블 논란 속에서 살아남는 핵심은 '코어 반도체 및 확실한 과금력을 가진 플랫폼'이며, 껍데기뿐인 AI 서비스 래퍼 기업을 걸러내는 선별 눈이 필요함.",
+    "action_point": "단순 AI 테마 중소형주를 정돈하고 코어 하드웨어(엔비디아, SK하이닉스) 및 1등 플랫폼에 집중."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "AI버블경고",
+      "코어반도체",
+      "엔비디아",
+      "닷컴버블비교",
+      "교양이를부탁해"
+    ]
+  }
+}

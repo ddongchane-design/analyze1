@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "7Ed117Du39g",
+    "title": "팔란티어 미친 실적 후 대폭등.. 하지만 다음 분기는 하락이라고?!",
+    "published": "2026-08-04T05:10:31+00:00",
+    "channel_name": "월텍남",
+    "url": "https://www.youtube.com/watch?v=7Ed117Du39g",
+    "thumbnail": "https://img.youtube.com/vi/7Ed117Du39g/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "역대급 어닝 서프라이즈로 당일 15~30% 대폭등을 기록한 <span class=\"text-cyan-300 font-semibold\">팔란티어(PLTR)</span>의 주가 행보와 월가 일각에서 제기된 '다음 분기 성장률 둔화 우려'를 정밀 조명함. 높은 밸류에이션 부담에도 불구하고 <span class=\"text-cyan-300 font-semibold\">B2B AI AIP 수주</span>가 지속되는 한 주가 상방 압력이 우세함.",
+    "key_claims": [
+      "팔란티어의 AIP 플랫폼 매출 성장세가 30% 이상 폭발하며 B2B AI 최강자 입증.",
+      "월가 일각의 다음 분기 착시 하락론은 밸류에이션 부담에 따른 기술적 수급 노이즈일 뿐 펀더멘털은 견고함."
+    ],
+    "data_points": [
+      "팔란티어(PLTR) 실적 발표 당일 주가 상승률: +15%~+30% 기록",
+      "AIP 플랫폼 가입 기업 수: 전 분기 대비 40% 폭증"
+    ],
+    "signal": "bullish",
+    "signal_reason": "실적 대폭발 및 AIP B2B AI 플랫폼 수주 확정에 따른 강력한 상방 지지.",
+    "key_companies": [
+      "팔란티어(PLTR)",
+      "엔비디아(NVDA)",
+      "마이크로소프트(MSFT)"
+    ],
+    "insight": "팔란티어는 AI 산업에서 진짜 현금을 버는 독보적 AI 파이프라인이며, 단기 밸류에이션 조정은 저점 진입 찬스를 제공함.",
+    "action_point": "팔란티어의 시간외 및 개장 후 주가 눌림목 구간에서 분할 매수 전략 추천."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "팔란티어실적",
+      "AIP플랫폼",
+      "PLTR폭등",
+      "월가반응",
+      "월텍남"
+    ]
+  }
+}

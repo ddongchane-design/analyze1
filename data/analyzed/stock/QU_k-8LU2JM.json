@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "QU_k-8LU2JM",
+    "title": "[8월 4일 마감시황] 삼전닉스만 사면 되던 장은 끝났다…하반기 수익을 가를 포트폴리오 전략ㅣ홍선애, 이권희, 김장열 [클로징벨 라이브]",
+    "published": "2026-08-04T08:36:14+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=QU_k-8LU2JM",
+    "thumbnail": "https://img.youtube.com/vi/QU_k-8LU2JM/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "8월 4일 국내 증시 마감 시황을 통해 '삼전닉스만 맹목적으로 사던 장세는 끝났다'고 선언하며 하반기 수익률을 결정할 <span class=\"text-amber-300 font-bold\">포트폴리오 다변화 전략</span>을 제시함. 반도체를 유지하되 <span class=\"text-cyan-300 font-semibold\">방산, 조선, 코스닥 전공정 소부장</span>으로 자산을 균형 배치해야 함.",
+    "key_claims": [
+      "반도체 대장주 쏠림 장세에서 개별 실적 개선주 및 코스닥 장비주로의 자금 순환매 시작.",
+      "하반기 금리 인하 및 밸류업 수혜주(금융, 방산)를 섞는 균형 포트폴리오가 이익 승률 높임."
+    ],
+    "data_points": [
+      "8월 4일 코스닥 지수: 코스피 대비 상대적 강세 마감",
+      "코스닥 전공정 소부장 장비주 당일 3~5% 수급 반등"
+    ],
+    "signal": "bullish",
+    "signal_reason": "주도주 다변화 및 순환매 장세 개막에 따른 하반기 포트폴리오 상방 확신.",
+    "key_companies": [
+      "삼성전자(005930)",
+      "SK하이닉스(000660)",
+      "한화에어로스페이스(012450)",
+      "원익IPS(030530)"
+    ],
+    "insight": "반도체 외길 투자에서 벗어나 이익 성장 폭이 큰 방산·조선·소부장으로 자산을 분산시키는 전략이 8월 수익률의 분수령임.",
+    "action_point": "반도체 비중을 적정 유지하고 방산 및 코스닥 우량 장비주를 30% 수준 분할 편입."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "마감시황",
+      "포트폴리오전략",
+      "삼전닉스이후",
+      "순환매",
+      "클로징벨"
+    ]
+  }
+}

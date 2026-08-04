@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "YwZlX3KMyMw",
+    "title": "팔란티어, 역대 최대 전망 상향…주가 15% 급등ㅣ캐터필러 어닝 서프라이즈ㅣ카타르 \"미·이란 합의 초안 마련\"ㅣ엔화 다시 약세…日 국채 입찰도 부진ㅣ홍혜진의 뉴욕브리핑",
+    "published": "2026-08-04T14:09:24+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=YwZlX3KMyMw",
+    "thumbnail": "https://img.youtube.com/vi/YwZlX3KMyMw/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">팔란티어(+15% 폭등)</span>의 역대 최대 실적 가이던스 상향과 경기 가늠자인 <span class=\"text-cyan-300 font-semibold\">캐터필러의 어닝 서프라이즈</span>를 뉴욕 브리핑으로 전함. 미-이란 합의 초안 마련 소식으로 엔화 약세가 재개되고 유가가 하락하며 증시 연착륙 랠리를 자극함.",
+    "key_claims": [
+      "팔란티어의 B2B AI 매출 증가가 실적 가이던스 폭증을 이끌며 주가를 15% 폭등시킴.",
+      "중장비 대장주 캐터필러 호실적은 글로벌 인프라 투자 지속성을 입증함."
+    ],
+    "data_points": [
+      "팔란티어(PLTR) 주가: 당일 +15% 폭등 마감",
+      "캐터필러(CAT) 영업이익: 시장 예상치 15% 상회"
+    ],
+    "signal": "bullish",
+    "signal_reason": "팔란티어 및 캐터필러의 호실적 발표가 테크와 전통 인프라 동반 강세장 입증.",
+    "key_companies": [
+      "팔란티어(PLTR)",
+      "캐터필러(CAT)",
+      "엔비디아(NVDA)"
+    ],
+    "insight": "AI 소프트웨어(팔란티어)와 전통 중장비 인프라(캐터필러)가 동시 실적 폭발을 기록하는 것은 미 증시의 실적 장세 기반이 단단함을 보여줌.",
+    "action_point": "팔란티어 수혜주 및 글로벌 인프라/방산 연관 대장주 저점 매수."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy",
+      "tech"
+    ],
+    "tags": [
+      "팔란티어폭등",
+      "캐터필러어닝서프라이즈",
+      "뉴욕브리핑",
+      "실적장세",
+      "매경월가월부"
+    ]
+  }
+}

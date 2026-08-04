@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "BQR6H2nURss",
+    "title": "'공허의 8월' 이유없이 빠진 7월 회복 기간 될까? | 백인재 부센터장 [더블 크루]",
+    "published": "2026-08-04T02:02:16+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=BQR6H2nURss",
+    "thumbnail": "https://img.youtube.com/vi/BQR6H2nURss/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "7월 말 진행된 증시 변동성 후유증으로 시작된 '공허의 8월' 거래대금 감소 현상을 진단함. 하반기 연준 금리 인하와 <span class=\"text-amber-300 font-bold\">실적 개선 대형주 매수세</span>가 본격화되면 8월 중후반부터 강한 지수 회복이 전개될 것을 기대함.",
+    "key_claims": [
+      "8월 초는 뚜렷한 주도 수급 없이 거래대금이 일시 소강상태를 보이는 숨고르기 구간임.",
+      "2분기 및 3분기 실적 추정치가 상향되는 반도체/방산 업종이 지수 회복의 열쇠임."
+    ],
+    "data_points": [
+      "코스피 일일 거래대금: 10조 원 미만으로 감소",
+      "3분기 영업이익 전년비 50% 이상 증가 섹터: 반도체 및 방산"
+    ],
+    "signal": "bullish",
+    "signal_reason": "거래대금 바닥 및 주도주 펀더멘털 견고에 따른 8월 중후반 회복 장세 진입 전망.",
+    "key_companies": [
+      "삼성전자(005930)",
+      "SK하이닉스(000660)",
+      "한화에어로스페이스(012450)"
+    ],
+    "insight": "8월 초의 거래대금 가뭄은 투매가 끝난 후 나타나는 지수 소강 국면이며, 실적주 중심의 매집 적기임.",
+    "action_point": "거래대금 바닥 구간에서 실적 상향주를 줍는 분할 매수 대응."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "공허의8월",
+      "거래대금감소",
+      "실적개선주",
+      "더블크루",
+      "삼프로TV"
+    ]
+  }
+}

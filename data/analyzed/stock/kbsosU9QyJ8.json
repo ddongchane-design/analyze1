@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "kbsosU9QyJ8",
+    "title": "\"한국 주식은 묻어두면 안 된다?\" 주도주가 매년 바뀌는 이유 #교양이를부탁해 #AI버블 #반도체 #프론티어AI #닷컴버블",
+    "published": "2026-08-04T11:00:05+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=kbsosU9QyJ8",
+    "thumbnail": "https://img.youtube.com/vi/kbsosU9QyJ8/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "한국 주식시장이 미국과 달리 <span class=\"text-rose-400 font-medium\">주도주가 매년 바뀌는 높은 변동성 구조</span>를 가지고 있어 무작정 장기 방치(무지성 장기투자)하는 것이 위험할 수 있음을 분석함. 산업 사이클 변화와 <span class=\"text-amber-300 font-bold\">시장의 수급 주도주 교체</span>에 발맞춘 정기적 리밸런싱이 필수적임.",
+    "key_claims": [
+      "코스피는 지수 박스피 특성상 10년 전 시총 상위주 중 살아남은 기업 비중이 낮음.",
+      "단순 묻어두기 투자가 아니라 사이클 펀더멘털을 확인하며 주도 섹터(반도체/방산/차세대)로 정기 교체해야 함."
+    ],
+    "data_points": [
+      "과거 10년 간 코스피 시총 상위 10개 기업 주도주 교체율: 60% 상회",
+      "미국 S&P500 우상향 우수성과 코스피 박스권 변동성 비교"
+    ],
+    "signal": "neutral",
+    "signal_reason": "한국 증시의 특성에 맞는 주기적 액티브 리밸런싱 전략 필요성 강조.",
+    "key_companies": [
+      "삼성전자(005930)",
+      "SK하이닉스(000660)",
+      "POSCO홀딩스(005490)"
+    ],
+    "insight": "국내 투자는 미국식 장기 방치 투자가 아닌, 이익 사이클이 상향되는 주도 섹터(현재 반도체/방산)를 쥔 채 주기적으로 포트폴리오를 점검하는 능동성이 핵심임.",
+    "action_point": "퇴물 섹터를 정리하고 현재 이익이 증가하는 주도주 중심으로 포트폴리오 정기 리밸런싱."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "주도주교체",
+      "한국주식특성",
+      "리밸런싱",
+      "장기투자주의",
+      "교양이를부탁해"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "A68mt9FAA4c",
+    "title": "서울에 아파트 안 짓는 진짜 이유",
+    "published": "2026-08-04T14:15:00+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=A68mt9FAA4c",
+    "thumbnail": "https://img.youtube.com/vi/A68mt9FAA4c/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "서울 내 신규 아파트 공급이 정체되는 핵심 원인으로 <span class=\"text-rose-400 font-medium\">공사비 폭등(자재비 및 인건비)</span>과 재개발 조합과 시공사 간의 PF 분쟁을 취재함. 건설사들의 수주 보수성 강화로 인해 <span class=\"text-amber-300 font-bold\">서울 신축 아파트 희소성</span>이 극대화되고 있음.",
+    "key_claims": [
+      "평당 공사비가 800만~1,000만 원 이상으로 폭등하여 사업성이 악화됨.",
+      "건설사들이 위험 부채를 피하기 위해 재개발 사업지 수주를 선별적으로 축소 중."
+    ],
+    "data_points": [
+      "서울 신규 아파트 착공 물량: 전년 대비 40% 이상 감소",
+      "평당 건설 공사비 지수: 3년 전 대비 35% 이상 상승"
+    ],
+    "signal": "neutral",
+    "signal_reason": "신축 아파트 희소성에 따른 매매가 하단 지지 및 건설사 실적 보수성 교차.",
+    "key_companies": [
+      "GS건설(006360)",
+      "DL이앤씨(375500)",
+      "HD현대산업개발(294870)"
+    ],
+    "insight": "건설업계의 공사비 원가율 악화는 단기 수주 축소를 부르지만, 입지가 뛰어난 서울 핵심지 신축 부동산의 프리미엄을 유지시키는 원인임.",
+    "action_point": "대형 건설주의 경우 우발채무 PF 위험이 없는 원가율 우수 대형사 위주로 선별 접근."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "서울아파트공급",
+      "공사비폭등",
+      "부동산PF",
+      "건설사수주",
+      "언더스탠딩"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "ub340z5199k",
+    "title": "클래리티 법안 통과 확률 50% → 27% 급락…호재 물 건너가나? | 서동주, 김동환, 김제이 블록미디어 편집장 [크립토 PLUS]",
+    "published": "2026-08-04T03:03:23+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=ub340z5199k",
+    "thumbnail": "https://img.youtube.com/vi/ub340z5199k/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 의회에서 <span class=\"text-violet-300 font-medium\">가상자산 클래리티 법안(Clarity Act)</span>의 연내 통과 확률이 윤리 수정안 마찰로 50%에서 27%로 급락한 악재 신호를 다룸. 입법 지연 우려로 인해 비트코인 및 알트코인 시장에 단기 관망 수급이 고조되고 있음.",
+    "key_claims": [
+      "미국 양당 간 윤리 수정안 마찰로 가상자산 규제 명확화 법안의 연내 표결이 지연될 리스크 커짐.",
+      "법안 통과 지연 시 기관 자금 유입 속도가 일시적으로 둔화될 가능성."
+    ],
+    "data_points": [
+      "Polymarket 기준 클래리티 법안 연내 통과 확률: 50% -> 27% 급락",
+      "비트코인(BTC) 6만 4천 달러선 박스권 하단 테스트"
+    ],
+    "signal": "bearish",
+    "signal_reason": "미국 규제 명확화 입법 지연 우려에 따른 크립토 시장 단기 악재 반영.",
+    "key_companies": [
+      "코인베이스(COIN)",
+      "마이크로스트래티지(MSTR)"
+    ],
+    "insight": "클래리티 법안의 통과 확률 하락은 단기 악재이나, 가상자산 제도권 진입이라는 거시적 대세 흐름을 바꿀 수는 없음.",
+    "action_point": "입법 노이즈에 따른 비트코인 하락 시 추가 매수 찬스로 활용하되 중소형 알트코인 비중 축소."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "클래리티법안",
+      "통과확률급락",
+      "가상자산규제",
+      "비트코인박스권",
+      "크립토PLUS"
+    ]
+  }
+}

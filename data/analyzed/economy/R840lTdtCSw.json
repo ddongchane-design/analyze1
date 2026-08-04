@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "R840lTdtCSw",
+    "title": "일본 홋카이도 땅값 30년 전 버블 넘었다 (와세다 대학교 박상준 교수)",
+    "published": "2026-08-04T07:55:00+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=R840lTdtCSw",
+    "thumbnail": "https://img.youtube.com/vi/R840lTdtCSw/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "일본 홋카이도 공항 및 반도체 연합체 <span class=\"text-cyan-300 font-semibold\">라피더스(Rapidus)</span> 공장 건설 지역의 토지 가격이 30년 전 자산 버블 시절을 돌파하는 부동산 폭등 현상을 와세다대 박상준 교수가 해설함. 국가 차원의 <span class=\"text-amber-300 font-bold\">반도체 공급망 재건 투자가 지각변동</span>을 일으키고 있음.",
+    "key_claims": [
+      "라피더스의 2나노 반도체 공장 유치가 홋카이도 치토세 지역 땅값을 30년 만에 최고치로 견인.",
+      "외국인 관광객 급증과 반도체 인프라 투자가 결합하여 일본 지방 부동산 재평가를 유도."
+    ],
+    "data_points": [
+      "홋카이도 치토세 반도체 공장 주변 지가 상승률: 연 30% 이상 폭등",
+      "일본 정부 라피더스 반도체 지원금: 1조 엔 이상 집행"
+    ],
+    "signal": "bullish",
+    "signal_reason": "반도체 국가 인프라 투자 확대로 일본 부동산 및 지방 경제 부활 호재.",
+    "key_companies": [
+      "라피더스",
+      "소프트뱅크",
+      "도쿄엘렉트론"
+    ],
+    "insight": "반도체 공장 유치는 단순한 제조업 유치를 넘어 인구 유입과 지역 지가 상승, 지방 금융 부활로 이어지는 거대한 경제적 연쇄 반응임.",
+    "action_point": "일본 반도체 공급망 관련 소부장 기업 및 부동산 자산 보유 기업의 장기 재평가 관찰."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock",
+      "tech"
+    ],
+    "tags": [
+      "홋카이도땅값",
+      "라피더스",
+      "일본반도체",
+      "부동산버블",
+      "언더스탠딩"
+    ]
+  }
+}

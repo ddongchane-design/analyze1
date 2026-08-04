@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "prrBYlmS3J0",
+    "title": "\"결국 코스피를 구할 방법은...이것 뿐이다!\"ㅣ장투교 최병욱 전도사 [더블 밸류업]",
+    "published": "2026-08-04T08:11:30+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=prrBYlmS3J0",
+    "thumbnail": "https://img.youtube.com/vi/prrBYlmS3J0/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "코스피의 만년 저평가(코리아 디스카운트)를 구하고 3,000~4,000 시 시대를 열 핵심 열쇠로 <span class=\"text-amber-300 font-bold\">주주환원율(자사주 소각 및 소액주주 권익) 강제</span>와 지배구조 상법 개정을 촉구함. 장기투자 문화 정착과 <span class=\"text-cyan-300 font-semibold\">정부 밸류업 지수 개편</span>이 필수적임.",
+    "key_claims": [
+      "국내 기업들의 낮은 자사주 소각률과 주주 환원 부재가 코스피 PBR 1.0배 이하 저평가의 주범임.",
+      "상법 개정(이사 충실 의무 대상에 주주 포함)이 이뤄질 때 외국인 패시브 자금이 50조 원 이상 유입 가능."
+    ],
+    "data_points": [
+      "한국 증시 주주환원율: 약 25% (미국 80%, 일본 50% 대비 현저히 낮음)",
+      "밸류업 지수 개편 시 수혜 기대 금융/지주사 PBR 0.5배 하회"
+    ],
+    "signal": "bullish",
+    "signal_reason": "주주환원 확대 정책 및 상법 개정 추진에 따른 코스피 저평가 해소 모멘텀.",
+    "key_companies": [
+      "KB금융(105560)",
+      "신한지주(055550)",
+      "삼성물산(028260)"
+    ],
+    "insight": "코스피의 진짜 바닥을 구하는 무기는 기업들의 자사주 소각과 배당 확대이며, 밸류업 수혜 대형 금융주와 지주사는 안전한 상방 승부처임.",
+    "action_point": "주주환원율이 높은 밸류업 지수 핵심 금융주 및 저PBR 지주사 비중 확대."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "코스피구하기",
+      "밸류업",
+      "주주환원율",
+      "상법개정",
+      "더블밸류업"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "yCmLJYxYPjk",
+    "title": "HBM4 가격은 왜 오를까? | DDR5부터 베이스 다이까지, 제조사의 계산법",
+    "published": "2026-08-04T08:52:59+00:00",
+    "channel_name": "안될공학 - IT 테크 신기술",
+    "url": "https://www.youtube.com/watch?v=yCmLJYxYPjk",
+    "thumbnail": "https://img.youtube.com/vi/yCmLJYxYPjk/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">HBM4 가격이 급등하는 이유</span>를 1b나노 D램 코어 다이 공정과 <span class=\"text-cyan-300 font-semibold\">4나노/3나노 파운드리 베이스 다이 단가</span>의 계산법을 통해 기술 경제학적으로 정밀 해설함. 로직 공정 융합으로 단가가 3~4배 상승함에 따라 메모리 제조사들의 마진율 폭증이 상등함.",
+    "key_claims": [
+      "HBM4부터 아랫단 베이스 다이에 스마트폰 AP급 선단 로직 공정(4나노/3나노)이 필수 적용되어 제조 원가와 판매가가 급증.",
+      "삼성전자와 SK하이닉스-TSMC의 베이스 다이 수율 차이가 HBM4 시대의 이익률 향방을 결정짓게 됨."
+    ],
+    "data_points": [
+      "HBM4 단가: 기존 HBM3E 대비 50%~100% 이상 판가(ASP) 상승 전망",
+      "베이스 다이 로직 공정 비용 비중: 전체 HBM4 칩 원가의 30% 돌파"
+    ],
+    "signal": "bullish",
+    "signal_reason": "HBM4 단가 상승(ASP 폭등)에 따른 한국 메모리 기업들의 역사적 최고 마진율 경신 기대.",
+    "key_companies": [
+      "삼성전자(005930)",
+      "SK하이닉스(000660)",
+      "TSMC(TSM)",
+      "시놉시스(SNPS)"
+    ],
+    "insight": "HBM4 가격 상승은 단점이나 메모리 업체 입장에서는 파운드리급 고부가 마진을 챙기는 천재일우의 기회이며 주가 상승의 직결 연료임.",
+    "action_point": "HBM4 판가 상승 및 베이스 다이 수율 모멘텀에 발맞추어 삼성전자 및 SK하이닉스 매수 강하게 유지."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "HBM4가격상승",
+      "베이스다이단가",
+      "삼성전자",
+      "SK하이닉스",
+      "안될공학"
+    ]
+  }
+}

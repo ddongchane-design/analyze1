@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "PiW3NKCU0NM",
+    "title": "[박신영의 개장전요것만-8월4일] 다시 시동 거는 AI랠리 | 월가 \"스페이스X는 떨어지는 칼날\"",
+    "published": "2026-08-04T14:30:50+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=PiW3NKCU0NM",
+    "thumbnail": "https://img.youtube.com/vi/PiW3NKCU0NM/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "개장 전 미국 증시에서 <span class=\"text-cyan-300 font-semibold\">AI 랠리가 다시 시동</span>을 거는 가운데, 월가 일각에서 스페이스X의 락업 해제 및 높은 밸류에이션에 대해 경고한 '떨어지는 칼날' 논란을 정밀 조명함. 빅테크 실적 호조가 테크주 반등을 주도 중임.",
+    "key_claims": [
+      "아마존과 팔란티어의 실적 폭발이 AI 랠리 재가동의 불씨를 당김.",
+      "스페이스X는 단기 비상장 보호예수 물량 우려에도 스타링크 장기 실적 성장세 확고."
+    ],
+    "data_points": [
+      "나스닥 선물 지수: 개장 전 +1.0% 이상 강세",
+      "스페이스X 스타링크 연간 매출액 가이던스 상향"
+    ],
+    "signal": "bullish",
+    "signal_reason": "AI 랠리 재가동 및 빅테크 펀더멘털 회복에 따른 강한 개장 전 매수 신호.",
+    "key_companies": [
+      "팔란티어(PLTR)",
+      "아마존(AMZN)",
+      "스페이스X",
+      "테슬라(TSLA)"
+    ],
+    "insight": "월가의 단기 락업 우려는 우량 기술주의 성장 궤적을 꺾지 못하며, AI 랠리는 실적이라는 강력한 엔트로피로 재시동됨.",
+    "action_point": "AI 랠리 수혜 중심인 반도체 대장주 및 빅테크 밸류체인 수혜주 저점 진입."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "space",
+      "tech"
+    ],
+    "tags": [
+      "AI랠리재시동",
+      "스페이스X",
+      "개장전요것만",
+      "미국증시",
+      "한경글로벌"
+    ]
+  }
+}

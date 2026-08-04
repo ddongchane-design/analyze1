@@ -1,0 +1,39 @@
+{
+  "video": {
+    "id": "GOvNGd_TZPg",
+    "title": "한국은 이래서 외환 후진국이다 (김준규 런던 외환 트레이더)",
+    "published": "2026-08-04T12:25:02+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=GOvNGd_TZPg",
+    "thumbnail": "https://img.youtube.com/vi/GOvNGd_TZPg/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "런던 외환 트레이더 김준규 대표와의 정밀 인터뷰를 통해 한국 외환 시장의 역외 거래 한계와 <span class=\"text-rose-400 font-medium\">원/달러 환율 구조적 변동성 리스크</span>를 파헤침. NDF 시장 외화 수급 불균형이 코스피 외국인 자금 유출입을 증폭시키는 취약한 외환 구조를 지적함.",
+    "key_claims": [
+      "한국 외환 시장의 폐쇄적 거래 시간과 얇은 수급층이 환율 급변동을 가속화함.",
+      "외국인 투자자 입장에서 원화 환리스크 헤지 비용이 증가하여 패시브 자금 진입의 걸림돌 작용."
+    ],
+    "data_points": [
+      "원/달러 환율 NDF 역외 거래대금 비중: 서울 외환시장 거래량 상회",
+      "한국 MSCI 선진국 지수 편입 걸림돌 1위: 외환시장 개방성 부족"
+    ],
+    "signal": "neutral",
+    "signal_reason": "외환 시장 구조 개혁 과제 및 환율 변동성에 따른 증시 관망 기조.",
+    "key_companies": [],
+    "insight": "환율은 증시의 거울이며, 원화의 외환 시장 개방 및 구조 개선이 전제되어야 한국 증시의 만년 저평가(코리아 디스카운트)가 해소됨.",
+    "action_point": "원/달러 환율 변동 시 외국인 수급 이동 패턴을 체크하고 환율 안정 시점 저점 매수."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "외환후진국",
+      "원달러환율",
+      "NDF역외거래",
+      "MSCI선진국",
+      "언더스탠딩"
+    ]
+  }
+}

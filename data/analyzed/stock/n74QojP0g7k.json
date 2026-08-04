@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "n74QojP0g7k",
+    "title": "[26.08.04 오후 방송 전체보기] 롤러코스피 장세에 거래대금 급감…코스피 떠나는 투자자들, 반도체 조정 틈타 훨훨 나는 코스닥",
+    "published": "2026-08-04T11:00:53+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=n74QojP0g7k",
+    "thumbnail": "https://img.youtube.com/vi/n74QojP0g7k/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "8월 4일 오후 장 마감 결과, 코스피가 거래대금 급감 속에 관망세를 보인 반면 <span class=\"text-cyan-300 font-semibold\">코스닥 반도체·바이오 소부장</span>으로 자금이 이동하며 차별화 반등이 나타난 마감 시황을 다룸. 대형주 쏠림 완화 이후 나타나는 <span class=\"text-amber-300 font-bold\">중소형주 순환매 장세</span>를 파헤침.",
+    "key_claims": [
+      "코스피 거래대금이 감소하며 지수가 박스권 횡보를 보인 반면 코스닥으로 온기가 확산.",
+      "반도체 대장주 조정 틈을 타 기술력 우수 코스닥 소부장 장비주로 순환매 유입."
+    ],
+    "data_points": [
+      "8월 4일 코스피 거래대금: 8.5조 원 수준 소강",
+      "코스닥 반도체 장비 업종 상승률: 코스피 대비 +2%p 상회"
+    ],
+    "signal": "bullish",
+    "signal_reason": "코스닥 중소형 실적주로의 온기 확산 및 순환매 활성화 호재 지지.",
+    "key_companies": [
+      "삼성전자(005930)",
+      "원익IPS(030530)",
+      "유진테크(084370)"
+    ],
+    "insight": "대형주 거래대금이 잠시 쉴 때는 수급 빈집 상태인 코스닥 전공정 장비 및 바이오 실적 우량주가 최고의 대체 주도주로 활약함.",
+    "action_point": "코스닥 실적 성장 반도체 장비주 및 우량 소부장에 20~30% 비중 분할 편입."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "오후증시",
+      "거래대금급감",
+      "코스닥반등",
+      "순환매장세",
+      "삼프로TV"
+    ]
+  }
+}

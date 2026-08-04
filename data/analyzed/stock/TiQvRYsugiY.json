@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "TiQvRYsugiY",
+    "title": "[26.08.04 오전 방송 전체보기] WTI유가 5% 급락 속 뉴욕증시 강세 마감...다우 '사상 최고치' 경신",
+    "published": "2026-08-04T03:18:04+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=TiQvRYsugiY",
+    "thumbnail": "https://img.youtube.com/vi/TiQvRYsugiY/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "8월 4일 뉴욕증시에서 WTI 국제 유가가 5% 급락함에 따라 인플레이션 우려가 완화되고, <span class=\"text-amber-300 font-bold\">다우 지수가 사상 최고치</span>를 경신한 풀 시황을 방송 전체보기로 다룸. 유가 하락이 소비재 및 테크 기업의 인플레이션 비용 압박을 해소하며 강세장을 견인함.",
+    "key_claims": [
+      "WTI 유가가 배럴당 72달러선으로 급락하며 인플레이션 완화 호재 작용.",
+      "팔란티어 등 빅테크 어닝 서프라이즈와 유가 급락이 결합해 뉴욕증시 랠리 주도."
+    ],
+    "data_points": [
+      "WTI 국제 유가: 당일 -5.2% 급락 마감 (배럴당 72.3달러)",
+      "다우존스 산업평균지수: 사상 최고치 경신 마감"
+    ],
+    "signal": "bullish",
+    "signal_reason": "유가 하락에 따른 물가 안정과 다우지수 신고가 경신이 강한 매수 투심 유발.",
+    "key_companies": [
+      "팔란티어(PLTR)",
+      "캐터필러(CAT)",
+      "아마존(AMZN)",
+      "엔비디아(NVDA)"
+    ],
+    "insight": "유가 하락은 연준의 금리 인하 명분을 강화해주며, 실적이 뒷받침되는 미국 증시의 대세 상승 궤적을 굳히는 촉매제임.",
+    "action_point": "인플레이션 완화 수혜를 받는 빅테크 우량주 및 소비재 대장주 비중 확대."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy",
+      "tech"
+    ],
+    "tags": [
+      "오전증시",
+      "유가급락",
+      "다우사상최고치",
+      "뉴욕증시",
+      "삼프로TV"
+    ]
+  }
+}

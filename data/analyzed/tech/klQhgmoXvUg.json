@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "klQhgmoXvUg",
+    "title": "[지식뉴스] \"지금 트럼프에 현혹돼서는 안 돼\"...AI 랠리의 진짜 돈줄이 사라졌다, 엔비디아가 불러올 거센 후폭풍 / 교양이를 부탁해",
+    "published": "2026-08-04T10:39:23+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=klQhgmoXvUg",
+    "thumbnail": "https://img.youtube.com/vi/klQhgmoXvUg/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "트럼프의 대중국 반도체 추가 제재 및 정치적 언론 수사에 현혹되지 말고, <span class=\"text-cyan-300 font-semibold\">엔비디아 블랙웰(Blackwell) 출하</span>와 빅테크 CapEx의 실질 현금흐름을 체크할 것을 지적함. 정치 노이즈 뒤에 숨겨진 <span class=\"text-cyan-300 font-semibold\">AI 랠리의 진짜 돈줄(클라우드 수주)</span>을 정밀 파헤침.",
+    "key_claims": [
+      "정치적 립서비스와 미-중 선거 노이즈보다 엔비디아의 블랙웰 칩 양산 수율이 핵심임.",
+      "빅테크의 클라우드 매출 성장이 지속되는 한 엔비디아 후폭풍은 일시적 해프닝에 불과함."
+    ],
+    "data_points": [
+      "엔비디아 Blackwell B200 랙 스케일 출하량 가이던스 유지",
+      "미국 빅테크 클라우드 합산 분기 매출액 사상 최대 기록"
+    ],
+    "signal": "bullish",
+    "signal_reason": "정치 노이즈를 뛰어넘는 엔비디아 및 AI 클라우드 펀더멘털 견고함 반영.",
+    "key_companies": [
+      "엔비디아(NVDA)",
+      "SK하이닉스(000660)",
+      "TSMC(TSM)"
+    ],
+    "insight": "정치적 소음은 펀더멘털을 흔들지 못하며, 엔비디아 블랙웰 양산과 HBM3E/4 공급망이 AI 랠리의 진정한 본체임.",
+    "action_point": "트럼프 노이즈로 엔비디아 및 SK하이닉스가 일시 조정받을 때 적극 매수 대응."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock",
+      "economy"
+    ],
+    "tags": [
+      "엔비디아후폭풍",
+      "트럼프노이즈",
+      "블랙웰B200",
+      "AI돈줄",
+      "교양이를부탁해"
+    ]
+  }
+}

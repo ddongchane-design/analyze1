@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "Esdy2Wum9Ts",
+    "title": "한국 반도체 기업의 주가 향방은 '이것'에 달렸다. 무엇을 증명해야 할까? | 신영증권 김효진 박사 [글로벌 인터뷰]",
+    "published": "2026-08-04T22:41:56+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=Esdy2Wum9Ts",
+    "thumbnail": "https://img.youtube.com/vi/Esdy2Wum9Ts/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "한국 반도체 기업 주가 향방의 핵심 결정 요인으로 <span class=\"text-cyan-300 font-semibold\">HBM4 커스텀 로직 다이 수율</span>과 <span class=\"text-cyan-300 font-semibold\">빅테크 AI CapEx의 잉여현금 이익 입증</span>을 제시함. 3분기 실적 발표에서 메모리 업체들이 가격 상승세 지속성을 증명하는 것이 주가 반등의 키임.",
+    "key_claims": [
+      "HBM3E 공급 과잉 우려는 허구이며 HBM4 기술 진화 과정에서의 수율 입증이 핵심임.",
+      "빅테크의 AI 투자 지속성과 메모리 가격(ASP) 상승이 확인되어야 반도체 주가 멀티플 상향."
+    ],
+    "data_points": [
+      "HBM4 커스텀 다이 핀 속도: 최대 13~16Gbps 달성",
+      "삼성전자 및 SK하이닉스 2026년 HBM 출하 비중: 전체 D램 매출의 30% 이상"
+    ],
+    "signal": "bullish",
+    "signal_reason": "HBM 선점과 ASP 상승에 힘입어 한국 메모리 반도체 실적 우상향 지속.",
+    "key_companies": [
+      "SK하이닉스(000660)",
+      "삼성전자(005930)",
+      "TSMC(TSM)"
+    ],
+    "insight": "반도체주 주가는 소문에 흔들릴 수 있지만 결국 ASP 상승과 HBM4 수율이라는 실질 숫자가 주가를 우상향시킴.",
+    "action_point": "반도체 주가 조정 시 HBM 독점력을 가진 SK하이닉스 및 삼성전자 저점 분할 매수."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "한국반도체향방",
+      "HBM4수율",
+      "SK하이닉스",
+      "삼성전자",
+      "글로벌인터뷰"
+    ]
+  }
+}

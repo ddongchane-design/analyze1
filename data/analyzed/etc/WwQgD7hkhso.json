@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "WwQgD7hkhso",
+    "title": "중국 역대급 의료사고 은폐 터졌다 ㄷㄷ",
+    "published": "2026-08-04T11:00:10+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=WwQgD7hkhso",
+    "thumbnail": "https://img.youtube.com/vi/WwQgD7hkhso/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "중국 내 대형 병원의 역대급 의료 사고 및 장기 매매 은폐 사건이 폭로됨에 따른 사회적 파장과 불투명한 시스템 리스크를 조명함. 중국 바이오 및 헬스케어 섹터에 대한 <span class=\"text-rose-400 font-medium\">글로벌 자본의 신뢰성 훼손</span>이 가속화되고 있음.",
+    "key_claims": [
+      "중국 의료 체계의 불투명성과 사고 은폐가 중국 바이오 기업들의 글로벌 임상 신뢰성을 깎아내림.",
+      "미국 생물보안법(Biosecurity Act) 추진과 맞물려 중국 CDMO 기업 탈출 촉진."
+    ],
+    "data_points": [
+      "중국 주요 헬스케어 지수 하락세 지속",
+      "미국 생물보안법 규제 대상 중국 바이오 기업 수주 취소 사례"
+    ],
+    "signal": "bearish",
+    "signal_reason": "중국 헬스케어/바이오 신뢰성 훼손 및 글로벌 투자 자금 유출 반영.",
+    "key_companies": [
+      "우시바이오로직스",
+      "삼성바이오로직스(207940)"
+    ],
+    "insight": "중국 바이오 악재 및 신뢰성 이탈은 국내 반사 수혜를 받는 한국 CDMO 기업(삼성바이오로직스 등)의 대체 불가능한 불씨가 됨.",
+    "action_point": "중국 바이오 탈출 수혜를 입는 삼성바이오로직스 및 국내 우량 CDMO 기업에 관심 확대."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "중국의료사고",
+      "생물보안법",
+      "중국바이오위험",
+      "CDMO반사수혜",
+      "SOD"
+    ]
+  }
+}

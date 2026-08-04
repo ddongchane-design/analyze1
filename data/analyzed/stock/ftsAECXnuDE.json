@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "ftsAECXnuDE",
+    "title": "고금리 무릅쓰고 AI 투자 늘리는 빅테크…반도체 조정에도 수요는 꺾이지 않았다ㅣ김장열 유니스토리자산운용 리서치센터장 [집중 오늘의 주식]",
+    "published": "2026-08-04T11:30:02+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=ftsAECXnuDE",
+    "thumbnail": "https://img.youtube.com/vi/ftsAECXnuDE/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "고금리 환경에도 불구하고 빅테크 기업들이 AI CapEx(설비투자)를 꺾지 않고 오히려 대폭 늘리는 이유를 분석함. 주가 일시 조정에도 불구하고 <span class=\"text-cyan-300 font-semibold\">AI 데이터센터 및 반도체 실수요</span>는 꺾이지 않았으며, <span class=\"text-cyan-300 font-semibold\">SK하이닉스·삼성전자</span>의 HBM 공급 부족 구조가 지속됨을 김장열 유니스토리 센터장이 정밀 진단함.",
+    "key_claims": [
+      "빅테크의 AI 투자 축소 우려는 기우이며, 빅4 합산 CapEx는 전년비 30% 이상 계속 확장.",
+      "HBM3E 및 HBM4의 2026년 완판 상태가 유지되어 한국 메모리 기업들의 강한 마진 지지."
+    ],
+    "data_points": [
+      "2026년 빅테크 4사 합산 CapEx: 2,000억 달러 이상 최고치 경신",
+      "SK하이닉스 HBM 2026년 생산 물량 완판 공시"
+    ],
+    "signal": "bullish",
+    "signal_reason": "빅테크 AI CapEx 확장 지속 및 한국 HBM 반도체 완판 호재 정밀 반영.",
+    "key_companies": [
+      "SK하이닉스(000660)",
+      "삼성전자(005930)",
+      "엔비디아(NVDA)",
+      "마이크로소프트(MSFT)"
+    ],
+    "insight": "반도체 주가 조정은 단기 수급 불균형 때문이며, 빅테크의 천문학적 AI 투자금이 계속 흘러드는 한 메모리 슈퍼사이클은 정당함.",
+    "action_point": "반도체 조정 시 쫄지 말고 SK하이닉스 및 삼성전자를 분할 저점 매수."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "고금리AI투자",
+      "빅테크CapEx",
+      "SK하이닉스",
+      "삼성전자",
+      "오늘의주식"
+    ]
+  }
+}

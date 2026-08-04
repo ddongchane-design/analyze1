@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "IjuduomAPOg",
+    "title": "AMD, 아쉬운 가이던스에 시간외 급락...S&P500, 기술주 호조에 사상 최고치 [월가 뉴스레터]",
+    "published": "2026-08-04T22:08:58+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=IjuduomAPOg",
+    "thumbnail": "https://img.youtube.com/vi/IjuduomAPOg/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">AMD</span>가 분기 실적 발표 후 3분기 가이던스 미흡으로 시간외 급락한 반면, 빅테크 강세에 힘입어 <span class=\"text-amber-300 font-bold\">S&P500 지수가 사상 최고치</span>를 경신한 월가 소식을 다룸. AI 가속기 시장에서 엔비디아의 독주 체제와 2위 그룹 간 격차가 재확인됨.",
+    "key_claims": [
+      "AMD의 MI300/MI325 가속기 매출 가이던스가 시장의 높은 기대를 만족시키지 못해 시간외 하락.",
+      "S&P500 신고가 경신은 빅테크 전반의 실적 연착륙 신호를 반영함."
+    ],
+    "data_points": [
+      "AMD 시간외 주가: 약 6~7% 급락 기록",
+      "S&P500 지수: 사상 최고치(5,600pt 이상) 재경신 마감"
+    ],
+    "signal": "bullish",
+    "signal_reason": "개별 기업(AMD) 가이던스 아쉬움에도 S&P500 신고가 경신으로 미 증시 대세 상승 입증.",
+    "key_companies": [
+      "AMD(AMD)",
+      "엔비디아(NVDA)",
+      "마이크로소프트(MSFT)"
+    ],
+    "insight": "AI 가속기 시장은 엔비디아의 절대 강세 속에 2위 후발주자(AMD)와의 이익 격차가 커지는 1등 독식 구조가 더 공고해짐.",
+    "action_point": "AMD 조정 시 엔비디아 및 HBM 공급 체인 대장주(SK하이닉스)의 절대 우위를 재확인하고 매수 유지."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "AMD급락",
+      "SP500신고가",
+      "월가뉴스레터",
+      "엔비디아독주",
+      "삼프로TV"
+    ]
+  }
+}

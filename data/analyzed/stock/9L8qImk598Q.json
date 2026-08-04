@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "9L8qImk598Q",
+    "title": "도요타마저 제쳤다? 1년 반 만에 시총 60배 뛴 '이 기업' #교양이를부탁해 #일본 #엔화 #키옥시아 #반도체",
+    "published": "2026-08-04T12:30:15+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=9L8qImk598Q",
+    "thumbnail": "https://img.youtube.com/vi/9L8qImk598Q/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "일본 주식시장에서 자동차 거두 도요타의 시가총액을 위협하며 1년 반 만에 시총 60배 뛴 <span class=\"text-cyan-300 font-semibold\">반도체 소재/장비 기업(키옥시아 밸류체인 연관)</span>의 폭발적 성장을 파헤침. 일본 반도체 소부장 기업들의 경쟁력 회복과 <span class=\"text-cyan-300 font-semibold\">글로벌 공급망 재편</span> 수혜를 진단함.",
+    "key_claims": [
+      "일본 소부장 테크 기업이 반도체 패키징 및 첨단 노광 재료 분야에서 독점적 지위를 확보함.",
+      "글로벌 빅테크의 반도체 투자 확대가 일본 핵심 소부장 기업 주가를 폭등시킴."
+    ],
+    "data_points": [
+      "해당 기업 시가총액 상승률: 1.5년 만에 60배 폭증",
+      "도쿄증시 반도체 소부장 지수 사상 최고치 경신"
+    ],
+    "signal": "bullish",
+    "signal_reason": "반도체 패키징 및 에칭 소재 독점력을 가진 소부장 기업들의 강한 이익 상향 지지.",
+    "key_companies": [
+      "도요타(TM)",
+      "키옥시아",
+      "도쿄엘렉트론(TEL)"
+    ],
+    "insight": "완성차 중심의 전통 제조업에서 첨단 반도체 소재·부품 장비 기업으로 일본 증시의 주도주 교체가 진행 중임.",
+    "action_point": "국내 반도체 유기발광 및 HBM 특화 장비/소재 우량주(원익IPS, 유진테크 등)에 대한 관심 증대."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "도요타제친기업",
+      "일본반도체소부장",
+      "키옥시아",
+      "도쿄증시",
+      "교양이를부탁해"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "YKVN5RuxOg8",
+    "title": "월 300만원으로 은퇴하면 오히려 위험합니다.",
+    "published": "2026-08-04T10:00:20+00:00",
+    "channel_name": "수페TV",
+    "url": "https://www.youtube.com/watch?v=YKVN5RuxOg8",
+    "thumbnail": "https://img.youtube.com/vi/YKVN5RuxOg8/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "은퇴 후 월 300만 원 생활비에 의존하는 고정 자산 구조가 고물가 및 장수 리스크 앞에서 얼마나 취약한지 분석함. 단순 원금 소진형 은퇴관에서 탈피해 <span class=\"text-amber-300 font-bold\">배당 성장주 및 자산배분 현금흐름 체계</span>를 구축해야 은퇴 후 자산 고갈 위험을 막을 수 있음을 강조함.",
+    "key_claims": [
+      "물가상승률(인플레이션)을 반영하지 못하는 고정 은퇴 자금은 10~15년 후 실질 구매력이 반토막 남.",
+      "주식 배당 재투자 및 리밸런싱을 통한 자산 현금흐름 유지가 노후 생활의 핵심 안전판임."
+    ],
+    "data_points": [
+      "연 3% 인플레이션 시 20년 후 300만 원의 실질 가치: 약 166만 원으로 감소",
+      "미국 배당성장 ETF(SCHD 등) 10년 평균 배당 성장률: 연 8~10% 수준"
+    ],
+    "signal": "bullish",
+    "signal_reason": "배당 성장주 및 현금흐름 자산배분 기반 노후 준비에 대한 구체적 해법 제시.",
+    "key_companies": [
+      "SCHD",
+      "JEPI",
+      "KB금융(105560)"
+    ],
+    "insight": "은퇴 자산 관리의 본질은 돈을 까먹는 것이 아니라 현금성 배당 이익이 물가 상승률보다 빠르게 늘어나게 만드는 구조를 설계하는 것임.",
+    "action_point": "월 배당 ETF 및 국내 우량 고배당주를 적립식으로 모아 은퇴 포트폴리오 강화."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "은퇴준비",
+      "배당성장주",
+      "노후자산관리",
+      "인플레이션리스크",
+      "수페TV"
+    ]
+  }
+}

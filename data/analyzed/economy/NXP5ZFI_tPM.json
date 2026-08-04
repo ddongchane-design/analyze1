@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "NXP5ZFI_tPM",
+    "title": "[지식뉴스] \"이 신호 하나면, 시장 다시 뒤집힙니다\"...호르무즈 통제권 요구한 이란, 트럼프가 쥔 마지막 열쇠 / 교양이를 부탁해",
+    "published": "2026-08-04T12:00:10+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=NXP5ZFI_tPM",
+    "thumbnail": "https://img.youtube.com/vi/NXP5ZFI_tPM/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "이란이 호르무즈 해협 통제권 강화를 주장하고 트럼프의 중동 외교 카드가 부상함에 따라 <span class=\"text-violet-300 font-medium\">국제 유가 및 지정학적 수급 신호</span>가 다시 요동칠 수 있음을 분석함. 원유 수송선 통제권 이슈가 수면 위로 올라오며 <span class=\"text-rose-400 font-medium\">에너지 물가 상방 리스크</span>가 인플레이션을 재자극할 가능성을 경고함.",
+    "key_claims": [
+      "호르무즈 해협 봉쇄 또는 봉쇄 위협은 글로벌 해상 원유 수송의 20%를 마비시키는 지정학적 뇌관임.",
+      "트럼프의 중동 외교 수완과 미-이란 간 밀당이 유가 80달러선 돌파 여부를 좌우함."
+    ],
+    "data_points": [
+      "호르무즈 해협 일일 원유 수송량: 약 2,000만 배럴 (글로벌 20%)",
+      "WTI 유가 변동성 범위: 70달러대 중반에서 지정학 노이즈 시 급등"
+    ],
+    "signal": "neutral",
+    "signal_reason": "지정학적 리스크 노이즈 재발로 인한 유가 및 매크로 시장 관망세 형성.",
+    "key_companies": [
+      "S-Oil(010950)",
+      "SK이노베이션(096770)",
+      "한국석유(004090)"
+    ],
+    "insight": "중동 정세의 기습적 노이즈는 유가와 해운 운임을 자극하여 물가 하락을 둔화시키는 유동성 복병으로 작용할 수 있음.",
+    "action_point": "국제 유가 추이를 체크하며 에너지 관련 헤지 종목 및 방산/해운주 수급 모니터링."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "energy",
+      "stock"
+    ],
+    "tags": [
+      "호르무즈해협",
+      "이란지정학",
+      "국제유가",
+      "트럼프중동",
+      "교양이를부탁해"
+    ]
+  }
+}
