@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "TQ-JZFEXxRw",
+    "title": "현대차 로봇 파운드리 추진... 정부는 왜 휴머노이드 1000대 보급에 나섰나?",
+    "published": "2026-08-08T10:46:36+00:00",
+    "channel_name": "엔지니어TV",
+    "url": "https://www.youtube.com/watch?v=TQ-JZFEXxRw",
+    "thumbnail": "https://img.youtube.com/vi/TQ-JZFEXxRw/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "한국 정부의 <span class=\"text-amber-300 font-bold\">10대 제조업 휴머노이드 1,000대 보급 국가 전략</span>과 현대차 그룹의 새만금 <span class=\"text-cyan-300 font-semibold\">'로봇 파운드리' 및 피지컬 AI 데이터 공장</span> 구축 구상을 조명함. 미국(SW)과 중국(양산·데이터) 간 격차를 극복하기 위해 반도체 TSMC 모델처럼 로봇 위탁 생산 및 300개 제조 공정 로봇 학습 데이터 라이브러리를 국가 차원에서 일원화 구축하는 로드맵을 다룸.",
+    "key_claims": [
+      "현대차가 추진하는 새만금 로봇 제조 거점은 자사 로봇뿐 아니라 글로벌 다양한 로봇을 위탁 생산하는 '로봇 파운드리'로 확장될 전망임.",
+      "정부가 철강, 석유화학, 조선, 자동차 등 10대 산업 300개 제조 공정에 특화된 휴머노이드 1,000대를 보급하고 <span class=\"text-cyan-300 font-semibold\">피지컬 AI 데이터 라이브러리</span>를 통합 관리함.",
+      "액추에이터, 센서, 로봇 핸드 등 피지컬 AI 핵심 부품 국산화 및 대량 생산 생태계 확보가 국가 산업 경쟁력의 성패를 좌우함."
+    ],
+    "data_points": [
+      "정부 목표: 10대 주력 산업, 300개 제조 공정 휴머노이드 1,000대 보급",
+      "핵심 거점: 새만금 로봇 파운드리 및 로봇 훈련 학습 센터",
+      "핵심 개발 부품: 액추에이터, 감속기, 센서, 로봇 핸드"
+    ],
+    "signal": "bullish",
+    "signal_reason": "<span class=\"text-amber-300 font-bold\">정부 주도 휴머노이드 로봇 보급</span>과 현대차 파운드리 투자로 국내 로봇 부품 및 완제품 체인의 비약적 성장이 기대됨.",
+    "key_companies": [
+      "현대자동차",
+      "보스턴다이내믹스",
+      "TSMC"
+    ],
+    "insight": "제조업 강국인 한국의 공정 데이터를 표준화하여 피지컬 AI 데이터 라이브러리로 변환하는 전면적 파운드리 전략은 글로벌 로봇 생태계에서 독보적인 진입장벽을 형성할 것임.",
+    "action_point": "새만금 로봇 파운드리와 정부 보급 정책의 수혜를 받는 액추에이터, 감속기, 로봇 핸드 핵심 부품 기업에 대한 비중 확대가 추천됨."
+  },
+  "classification": {
+    "primary_topic": "robot",
+    "secondary_topics": [
+      "tech",
+      "stock"
+    ],
+    "tags": [
+      "로봇파운드리",
+      "현대차로봇",
+      "피지컬AI",
+      "휴머노이드1000대",
+      "새만금로봇"
+    ]
+  }
+}

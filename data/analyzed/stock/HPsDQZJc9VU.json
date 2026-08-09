@@ -1,0 +1,49 @@
+{
+  "video": {
+    "id": "HPsDQZJc9VU",
+    "title": "AMD 날았다 머스크가 찬물?ㅣ일라이릴리 어닝 서프라이즈…비만약 질주ㅣ디즈니 호실적…스트리밍·테마파크 동반 성장ㅣ샌디스크, 4분기 실적 발표…메모리 업황 주목ㅣ홍혜진의 뉴욕브리핑",
+    "published": "2026-08-05T13:59:04+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=HPsDQZJc9VU",
+    "thumbnail": "https://img.youtube.com/vi/HPsDQZJc9VU/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">AMD</span> 2분기 매출 115억 달러, 영업이익 사상 최고치 및 매출총이익률 56%를 기록하며 압도적 호실적을 달성함. <span class=\"text-cyan-300 font-semibold\">일라이 릴리</span>는 비만치료제 호조로 어닝 서프라이즈를 기록했고, 디즈니도 테마파크와 스트리밍 양방향 호실적을 거둠.",
+    "key_claims": [
+      "AMD 2분기 매출 115억 달러(사상 최고), 매출총이익률 56%, 조정 EPS 1.66달러로 시장 컨센서스 상회.",
+      "일라이 릴리 매출 48% 급증하며 비만치료제(GLP-1) 수요 지속 확인 및 파이프라인 확장 인수 진행.",
+      "AMD 컨퍼런스 콜에서 AI GPU용 HBM 공급망 확보 및 데이터센터 칩 수요 강세 확인."
+    ],
+    "data_points": [
+      "AMD 2분기 매출: 115억 달러 (YoY 상향, 마진율 56%)",
+      "일라이 릴리 2분기 매출 증가율: 48% (GLP-1 실적 견인)",
+      "AMD CAPEX: 8억 8,000만 달러 (설비투자 확대)"
+    ],
+    "signal": "bullish",
+    "signal_confidence": "high",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">AMD와 일라이 릴리</span> 등 주력 기술주 및 바이오 헬스케어 빅테크의 펀더멘탈 실적 성장이 입증됨.",
+    "key_companies": [
+      "AMD",
+      "일라이 릴리(LLY)",
+      "디즈니(DIS)",
+      "SK하이닉스",
+      "삼성전자"
+    ],
+    "insight": "AMD의 AI 가속기 및 데이터센터 CPU 성장은 국내 메모리 반도체(HBM, DDR5) 수요 확대의 직접적 신호탄임.",
+    "action_point": "AMD 실적 발표 후 일시적 조정 구간을 활용하여 AI 반도체 밸류체인 및 비만치료제 대장주 주가 추이 모니터링."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "AMD실적",
+      "일라이릴리",
+      "어닝서프라이즈",
+      "HBM수요",
+      "디즈니"
+    ]
+  }
+}

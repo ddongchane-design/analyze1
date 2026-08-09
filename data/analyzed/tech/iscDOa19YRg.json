@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "iscDOa19YRg",
+    "title": "\"수익은 민간이, 손실은 정부가\" 일본의 파격 투자법 #교양이를부탁해 #일본 #엔화 #키옥시아 #반도체",
+    "published": "2026-08-05T11:45:01+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=iscDOa19YRg",
+    "thumbnail": "https://img.youtube.com/vi/iscDOa19YRg/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">AMD 및 반도체 빅테크</span>의 호실적 발표와 차세대 메모리(HBM, 3D D램) 수요 확대로 <span class=\"text-amber-300 font-bold\">AI 인프라 모멘텀</span>이 강화됨.",
+    "key_claims": [
+      "AMD 매출/마진율 사상 최고치",
+      "차세대 HBM 및 D램 쇼티지 지속"
+    ],
+    "data_points": [
+      "AMD 마진율 56%",
+      "AI CAPEX 1조 달러 수혈"
+    ],
+    "signal": "bullish",
+    "signal_confidence": "high",
+    "signal_reason": "실적 펀더멘탈과 AI 수급 모멘텀이 견조함.",
+    "key_companies": [
+      "엔비디아",
+      "AMD",
+      "삼성전자",
+      "SK하이닉스",
+      "애플"
+    ],
+    "insight": "메모리 반도체 및 AI 가속기 밸류체인은 구조적 장기 성장 구도임.",
+    "action_point": "조정 시 AI 반도체 및 광통신/전력 밸류체인 분할 매수."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock",
+      "tech"
+    ],
+    "tags": [
+      "AI반도체",
+      "HBM",
+      "AMD",
+      "샌디스크"
+    ]
+  }
+}

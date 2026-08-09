@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "Zt5UU_Z1Je8",
+    "title": "[공지 영상] 삼프로TV 개인정보 유출 관련 사과 및 후속 조치 안내",
+    "published": "2026-08-09T07:12:58+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=Zt5UU_Z1Je8",
+    "thumbnail": "https://img.youtube.com/vi/Zt5UU_Z1Je8/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "삼프로TV 어플리케이션 회원 46만 여 명의 개인정보 무단 접근 유출 사고에 대한 <span class=\"text-rose-400 font-medium\">대표자 공식 사과 및 후속 대책 공지</span>를 다룸. 접속 차단, 경찰 및 KISA 신고, 피해 보상 대응과 사칭 오프라인/텔레그램 사기 주의를 당부함.",
+    "key_claims": [
+      "삼프로TV 앱 회원 46만 명 대상 유출이며 유튜브 구독자 정보와는 무관함을 발표함.",
+      "신용카드 및 계좌 정보 유출 일부 건(카드 317건, 계좌 2,900여 건)에 대해 마스킹 처리 및 2차 피해 방지 조치를 지체 없이 시행함.",
+      "<span class=\"text-rose-400 font-medium\">삼프로TV 사칭 채널 및 매수/매도 권유 사기</span>에 대한 각별한 시청자 유의를 당부함."
+    ],
+    "data_points": [
+      "유출 대상 회원 수: 약 46만 명 (삼프로TV 앱 가입자 기준)",
+      "민감 정보 유출 현황: 신용카드 317건(마스킹), 계좌 정보 2,900여 건",
+      "대응 조치: IP 차단, 개인정보위/KISA 신고 및 피해 구제 절차 공지"
+    ],
+    "signal": "bearish",
+    "signal_reason": "<span class=\"text-rose-400 font-medium\">플랫폼 회원 개인정보 유출 이슈</span>로 인한 기업 이미지 실추 및 보안 관리 리스크 발생.",
+    "key_companies": [
+      "삼프로TV",
+      "KISA"
+    ],
+    "insight": "플랫폼 비즈니스 확장에 있어 보안 시스템 구축과 개인정보 관리는 기업 브랜드 생존과 직결되는 필수적 인프라임.",
+    "action_point": "삼프로TV 사칭 개인정보 악용 메시지나 투자 매수 권유 스팸 피싱에 대한 각별한 주의가 요망됨."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "삼프로TV사과",
+      "개인정보유출",
+      "보안사고",
+      "사칭주의",
+      "플랫폼보안"
+    ]
+  }
+}

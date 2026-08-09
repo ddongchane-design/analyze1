@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "utlJktsG3sE",
+    "title": "실적이 아니라 수급이 문제! 삼성전자 조정 때마다 사야 하는 이유ㅣ차영주 와이즈경제연구소 소장 [집중 오늘의 주식]",
+    "published": "2026-08-05T11:30:08+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=utlJktsG3sE",
+    "thumbnail": "https://img.youtube.com/vi/utlJktsG3sE/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "한국 및 미국 증시가 <span class=\"text-amber-300 font-bold\">실적 펀더멘탈 및 외국인 수급</span> 유입에 힘입어 반등 흐름을 이어가고 있음.",
+    "key_claims": [
+      "외국인 순매수세 전환",
+      "반도체 및 대형주 중심 실적 장세"
+    ],
+    "data_points": [
+      "코스피/나스닥 반등세 지속"
+    ],
+    "signal": "bullish",
+    "signal_confidence": "high",
+    "signal_reason": "실적 펀더멘탈과 AI 수급 모멘텀이 견조함.",
+    "key_companies": [
+      "삼성전자",
+      "SK하이닉스",
+      "S&P500"
+    ],
+    "insight": "단기 변동성에도 불구하고 이익 증가세가 유효한 대형 우량주 중심 대응.",
+    "action_point": "눌림목 구간에서 실적 개선 대형주 분할 매수 접근."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "stock",
+      "tech"
+    ],
+    "tags": [
+      "코스피",
+      "증시시황",
+      "주주환원"
+    ]
+  }
+}

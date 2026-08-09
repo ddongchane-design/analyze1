@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "OQYbcdwdIBQ",
+    "title": "중요한 것은 살아남는 것",
+    "published": "2026-08-09T14:15:28+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=OQYbcdwdIBQ",
+    "thumbnail": "https://img.youtube.com/vi/OQYbcdwdIBQ/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "자본 시장의 사이클과 변동성 속에서 파산하지 않고 끝까지 살아남기 위한 <span class=\"text-amber-300 font-bold\">'캘리 공식(Kelly Criterion)'과 안저 마진</span> 중심의 리스크 관리 투자 원칙을 제시함. 과도한 레버리지 활용 금지와 현금(입장권) 확보의 중요성을 다룸.",
+    "key_claims": [
+      "투자 시장에서 가장 중요한 것은 단기 수익률이 아니라 파산하지 않고 끝까지 '살아남는 것'임.",
+      "<span class=\"text-rose-400 font-medium\">과도한 레버리지 배팅</span>을 경계하고 캘리 공식 기반의 포지션 사이징(Position Sizing)을 철저히 준수해야 함.",
+      "안전 마진과 여유 현금 비중을 유지해야 다음 자본 시장 사이클 파티에 참여할 복리 동력을 얻음."
+    ],
+    "data_points": [
+      "투자 생존 핵심 법칙: 캘리 공식 (Kelly Criterion)",
+      "리스크 관리 3대 요소: 레버리지 자제, 안전 마진 확보, 현금 비중 유지",
+      "자본 성장의 대전제: 파산 확률(Probability of Ruin) 0% 유지"
+    ],
+    "signal": "neutral",
+    "signal_reason": "투자 리스크 관리 및 포지션 사이징 철학을 다룬 정론으로 시장 시그널은 중립임.",
+    "key_companies": [
+      "언더스탠딩"
+    ],
+    "insight": "복리의 마법은 죽지 않고 살아남아 시장에 계속 남아있는 투자자에게만 작용하므로, 변동성 장세일수록 무리한 레버리지를 줄이고 현금 안전 마진을 챙겨야 함.",
+    "action_point": "자신의 포트폴리오 내 레버리지 비율을 재점검하고 하락장 대비 현금 자산 비중과 포지션 사이징 기준을 세워야 함."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "캘리공식",
+      "포지션사이징",
+      "리스크관리",
+      "안전마진",
+      "자본시장생존"
+    ]
+  }
+}

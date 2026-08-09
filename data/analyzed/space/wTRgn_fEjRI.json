@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "wTRgn_fEjRI",
+    "title": "인류가 처음으로 ‘외계 달’을 찾은 걸까?",
+    "published": "2026-08-08T06:00:06+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=wTRgn_fEjRI",
+    "thumbnail": "https://img.youtube.com/vi/wTRgn_fEjRI/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "지구에서 68광년 떨어진 갈색 외성(CD35 2722B) 곁을 171일 주기로 공전하는 <span class=\"text-amber-300 font-bold\">목성 0.9배 질량의 최초 외계 위성(Exomoons) 후보</span> 발견을 분석함. 별-갈색외성-외계위성으로 이어지는 최초의 3층 계층 구조 확인과 도플러 효과 관측 기법의 천문학적 의의를 다룸.",
+    "key_claims": [
+      "6,000개가 넘는 외계 행성 탐사 역사상 명확한 외계 위성 존재가 포착된 것은 이번이 최초 사례임.",
+      "모항성(적색 외성) - 갈색 외성 - 외계 위성(목성 0.9배)으로 구성된 정밀한 계층형 궤도 역학을 증명함.",
+      "<span class=\"text-cyan-300 font-semibold\">빛의 도플러 시프트 관측</span>과 케플러 법칙 시뮬레이션을 통해 미세한 궤도 섭동을 정밀 측정함."
+    ],
+    "data_points": [
+      "모항성 및 갈색외성 거리: 지구에서 약 68광년 (21파섹)",
+      "갈색외성 질량: 목성의 37배",
+      "발견된 외계위성 후보 주기 및 질량: 공전주기 171일, 질량 목성의 0.9배 (약 90%)"
+    ],
+    "signal": "bullish",
+    "signal_reason": "<span class=\"text-amber-300 font-bold\">우주 관측 기술 발전</span> 및 궤도 정밀 탐사 관측 장비 시장의 성장에 긍정적 비전을 제시함.",
+    "key_companies": [
+      "유럽우주국(ESA)",
+      "안될과학"
+    ],
+    "insight": "항성과 행성 사이 갈색 외성에 딸린 위성 구조 확인은 우주 형성 이론의 새로운 지평을 열었으며 우주 탐사 센서 및 망원경 기술의 혁신을 입증함.",
+    "action_point": "우주 항공 관측 장비 및 딥스페이스 탐사 관련 테크/우주 산업의 장기 성장에 주목해야 함."
+  },
+  "classification": {
+    "primary_topic": "space",
+    "secondary_topics": [
+      "etc"
+    ],
+    "tags": [
+      "외계위성",
+      "갈색외성",
+      "우주탐사",
+      "도플러효과",
+      "천문학"
+    ]
+  }
+}

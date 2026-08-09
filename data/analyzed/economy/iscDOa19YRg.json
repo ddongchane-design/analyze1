@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "iscDOa19YRg",
+    "title": "\"수익은 민간이, 손실은 정부가\" 일본의 파격 투자법 #교양이를부탁해 #일본 #엔화 #키옥시아 #반도체",
+    "published": "2026-08-05T11:45:01+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=iscDOa19YRg",
+    "thumbnail": "https://img.youtube.com/vi/iscDOa19YRg/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "일본 정부가 경제 안보 및 첨단 인프라 투자를 촉진하기 위해 도입한 <span class=\"text-amber-300 font-bold\">'수익은 민간이, 손실은 정부가'</span> 손실 보전 출자 구조(SPV 후순위 출자)를 분석함. 정부 금융기관(JBIC)이 손실의 선순위 위험을 떠안고 민간 메가뱅크가 안전하게 융자를 실행할 수 있도록 보증체계를 구축한 경제안보 금융 모델을 다룸.",
+    "key_claims": [
+      "정부 출자기관(JBIC)이 앵커 역할을 맡아 사업 손실 시 후순위로 먼저 부담하는 구조를 설계함.",
+      "민간 메가뱅크 3사는 리스크 부담을 최소화한 상태에서 고수익 인프라 사업에 자금을 투입함.",
+      "<span class=\"text-cyan-300 font-semibold\">경제 안보 전략 사업(반도체, 에너지, 통신)</span>에 민간 자본을 유인하는 파격적 금융 공학 스킴임."
+    ],
+    "data_points": [
+      "금융 구조 특성: SPV(특수목적법인) 기반 민관 합동 출자",
+      "손실 분담 순서: 정부(JBIC) 선제 손실 흡수 -> 민간 금융사 융자 보호",
+      "적용 분야: 해외 에너지 인프라 및 핵심 공급망 재편 프로젝트"
+    ],
+    "signal": "bullish",
+    "signal_reason": "<span class=\"text-amber-300 font-bold\">정부의 손실 보증 체계</span>로 민간 금융사의 투자 안정성이 획기적으로 개선되어 대형 프로젝트 성공 가능성이 증대됨.",
+    "key_companies": [
+      "JBIC",
+      "일본 메가뱅크 3사"
+    ],
+    "insight": "국가 전략 산업 지원 시 단순 보조금 지급을 넘어 민간 자본의 리스크를 제거해주는 후순위 금융 스킴이 대규모 자본 동원의 핵심 모범 사례가 됨.",
+    "action_point": "정부 보증 금융 스킴을 업고 해외 공급망 인프라 사업을 수주하는 글로벌 엔지니어링 및 금융주의 수혜 여부를 살필 필요가 있음."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "경제안보",
+      "JBIC",
+      "민관합동금융",
+      "후순위출자",
+      "일본금융스킴"
+    ]
+  }
+}

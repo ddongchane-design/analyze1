@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "wGxYJRtncEk",
+    "title": "AI 데이터센터, 짓는대로 돈 된다… SpaceX가 서둘러 10GW 데이터센터 건설 하는 이유! Microsoft가 고객? SemiAnalysis 전력 당 매출 분석",
+    "published": "2026-08-09T08:13:38+00:00",
+    "channel_name": "안될공학 - IT 테크 신기술",
+    "url": "https://www.youtube.com/watch?v=wGxYJRtncEk",
+    "thumbnail": "https://img.youtube.com/vi/wGxYJRtncEk/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "SpaceX가 분기 매출의 2배인 158억 달러를 투자해 2027년까지 <span class=\"text-cyan-300 font-semibold\">10GW 규모 AI 데이터센터</span> 건설에 나선 스케일과 SemiAnalysis의 전력당 매출(TPS/MW) 경제성 분석을 다룸. GB300 클러스터 기준 1GW 데이터센터가 연간 1,000억 달러의 AI 추론 API 매출 잠재력을 가짐을 역산하며 우주 및 전력 중심 AI 인프라 팽창 현상을 분석함.",
+    "key_claims": [
+      "SpaceX는 AI 인프라에 158억 달러를 투입하여 2027년 말까지 원전 7기 분량인 10GW 컴퓨팅 파워를 구축할 계획임.",
+      "SemiAnalysis 추정에 따르면 최신 GB300 데이터센터 1GW는 연간 1,200만 달러 임대비 대비 <span class=\"text-amber-300 font-bold\">1,000억 달러 매출 잠재력</span>을 가져 AI 전력당 경제성이 대단히 높음.",
+      "AI 서비스 지표가 최고 연산력(Flops)에서 전력 1MW당 토큰 생성량(TPS/MW) 및 응답속도(TTFT) 경제성 중심으로 재편됨."
+    ],
+    "data_points": [
+      "SpaceX AI 인프라 분기 지출액: 158억 달러 (분기 매출 78억 달러의 2배)",
+      "목표 컴퓨팅 용량: 2027년 말까지 10GW (원전 7기 분력)",
+      "1GW 데이터센터 매출 시뮬레이션: 연간 약 1,000억 달러 이상 (API 추론 매출)"
+    ],
+    "signal": "bullish",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">AI 데이터센터 전력 수요 및 빅테크 컴퓨팅 투자</span>의 비약적 확장으로 전력 인프라 및 우주 AI 생태계에 강력한 동력 제공.",
+    "key_companies": [
+      "SpaceX",
+      "NVIDIA",
+      "Microsoft",
+      "OpenAI"
+    ],
+    "insight": "AI 컴퓨팅의 경쟁 요소가 단순 칩 성능에서 '전력 효율당 토큰 생성 수익성(TPS/MW)'으로 shift함에 따라 궤도 전력 인프라 및 대규모 데이터센터 건설 기업의 가치가 폭발하고 있음.",
+    "action_point": "SpaceX의 10GW 투자 및 빅테크 전력망 공급망과 연결된 전력 기기, 우주 데이터센터 관련 주식의 적극 관찰이 요구됨."
+  },
+  "classification": {
+    "primary_topic": "space",
+    "secondary_topics": [
+      "tech",
+      "energy"
+    ],
+    "tags": [
+      "SpaceX",
+      "10GW데이터센터",
+      "전력당매출",
+      "NVIDIA GB300",
+      "우주AI"
+    ]
+  }
+}

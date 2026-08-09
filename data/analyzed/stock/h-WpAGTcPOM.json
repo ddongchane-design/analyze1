@@ -1,0 +1,48 @@
+{
+  "video": {
+    "id": "h-WpAGTcPOM",
+    "title": "\"모두가 당했습니다\"",
+    "published": "2026-08-05T00:19:48+00:00",
+    "channel_name": "월텍남",
+    "url": "https://www.youtube.com/watch?v=h-WpAGTcPOM",
+    "thumbnail": "https://img.youtube.com/vi/h-WpAGTcPOM/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "최근 <span class=\"text-rose-400 font-medium\">메모리 반도체 폭락</span>은 개미들의 패닉셀 물량을 해지펀드가 <span class=\"text-amber-300 font-bold\">숏커버링 및 순매수</span>로 받아내며 수급이 정상화된 결과임. 시타델 보고서에 따르면 과열 레버리지가 25% 이상 청산되어 기술주 선행 PER이 20배(5년 평균 25배)로 저평가 구간에 진입함.",
+    "key_claims": [
+      "개인 투자자들의 주간 평균 20배 달하는 매도물량을 기관/해지펀드가 숏커버링으로 모두 흡수함.",
+      "S&P500 기술주 선행 PER은 20배 수준으로 최근 5년 평균(25배) 및 10년 평균(23배) 대비 저평가 상태임.",
+      "빅테크 CAPEX 투자는 2027년 1.3조~1.5조 달러(2,000조 원)로 상향 조정되어 AI 인프라 펀더멘탈이 견조함."
+    ],
+    "data_points": [
+      "기술주 선행 PER: 20배 (2022년 하락장 수준 저평가)",
+      "빅테크 2027년 AI CAPEX 전망: 1.3조~1.5조 달러 (약 2,000조 원)",
+      "기술주 기업 EPS 상승률 전망: 40%~50%"
+    ],
+    "signal": "bullish",
+    "signal_confidence": "high",
+    "signal_reason": "<span class=\"text-amber-300 font-bold\">레버리지 거품 청산</span> 완료 후 실적 이익 상승률(EPS +40~50%)에 기반한 강력한 <span class=\"text-cyan-300 font-semibold\">실적 장세</span> 진입이 명백함.",
+    "key_companies": [
+      "엔비디아(NVDA)",
+      "SK하이닉스",
+      "삼성전자",
+      "시타델"
+    ],
+    "insight": "수급 왜곡으로 인한 투매 현상은 막을 내렸으며, AI 클라우드 매출 폭증과 막대한 CAPEX 집행으로 반도체·네트워크·광통신 등 AI 병목 인프라 기업의 수혜가 지속될 것임.",
+    "action_point": "저평가 영역에 진입한 메모리 반도체 및 광통신(루멘텀), 네오클라우드(코이브, 아이렌) 밸류체인 분할 매수 관점 접근."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy",
+      "tech"
+    ],
+    "tags": [
+      "숏커버링",
+      "시타델",
+      "메모리저평가",
+      "CAPEX",
+      "선행PER"
+    ]
+  }
+}

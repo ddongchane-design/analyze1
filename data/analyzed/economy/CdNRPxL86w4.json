@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "CdNRPxL86w4",
+    "title": "[어바웃 뉴욕] 트레이더조 추천템 'LA갈비' 뒤집어봤더니…소고기값 최고인데 타이슨은 적자 | 이나연 특파원",
+    "published": "2026-08-08T03:00:30+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=CdNRPxL86w4",
+    "thumbnail": "https://img.youtube.com/vi/CdNRPxL86w4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 <span class=\"text-cyan-300 font-semibold\">트레이더조(Trader Joe's)</span>에서 대박을 친 한국식 LA갈비 및 K-푸드 제품들의 원가·유통 구조와 유전자 상표 표기 규정을 취재함. 소고기 가격은 사상 최고치를 경신 중이나 대표 육가공업체 타이슨푸드는 적자를 기록하는 미국 축산업의 구조적 모순과 원산지 규정(2026년 Product of USA 개정)의 여파를 다룸.",
+    "key_claims": [
+      "LA갈비는 유대계 절단법(Flanken Cut)에 한국식 간장 양념을 접목하여 미국 한인 이민자들이 재해석해 성공시킨 K-푸드 대표 사례임.",
+      "소고기 사육두수 감소로 생두 가격은 최고치이나, 포장 육가공 업체(<span class=\"text-cyan-300 font-semibold\">타이슨푸드</span>)는 가공비 상승과 마진 압박으로 적자를 겪는 수급 불균형이 발생함.",
+      "2026년부터 미국 내 도축·사육 소에만 'Product of USA' 표기가 허용되어 육류 유통 공급망 규제가 강화됨."
+    ],
+    "data_points": [
+      "트레이더조 LA갈비 판매가: 14.99달러",
+      "트레이더조 김밥 및 떡볶이 가격: 김밥 3.99달러, 떡볶이 4.00달러",
+      "미국 육류 원산지 표시(Product of USA) 강제 적용 시점: 2026년 1월 1일"
+    ],
+    "signal": "neutral",
+    "signal_reason": "K-푸드의 미국 시장 입지 강화는 긍정적이나 미국 축산업 원가 상승 및 육가공 마진 악화 리스크가 공존함.",
+    "key_companies": [
+      "Trader Joe's",
+      "Tyson Foods",
+      "H Mart"
+    ],
+    "insight": "K-푸드 유통 제품은 가격 경쟁력과 현지 맞춤형 재해석을 통해 유통망을 확장하고 있으나, 글로벌 식품 원자재 가격과 유통 규제 변경 대응이 수익성을 좌우함.",
+    "action_point": "미국 현지 K-푸드 수출 유통기업 및 식품 원자재/육가공 관련 기업의 마진 변동성을 모니터링해야 함."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "K푸드",
+      "트레이더조",
+      "LA갈비",
+      "타이슨푸드",
+      "미국축산업"
+    ]
+  }
+}

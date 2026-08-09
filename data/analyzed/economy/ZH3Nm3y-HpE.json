@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "ZH3Nm3y-HpE",
+    "title": "연대보증보다 무섭다. 대표 혼자 120억원 독박 썼다 f. OGQ(오지큐) 사건 (법무법인 디엘지 안희철 대표변호사)",
+    "published": "2026-08-05T12:25:28+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=ZH3Nm3y-HpE",
+    "thumbnail": "https://img.youtube.com/vi/ZH3Nm3y-HpE/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "스타트업 OGQ(오지큐) 신철 대표가 M&A 목적 투자유치 과정에서 계약서상 <span class=\"text-rose-400 font-medium\">이해관계인(대표자 개인) 상환 연대책임 조항</span>으로 인해 120억 원의 빚을 개인이 짊어지게 된 독소조항 사건을 법률적으로 파헤침. VC 펀드의 연대보증 우회 계약 문구와 스타트업 벤처 투자의 쥐약이 되는 법률 리스크를 경고함.",
+    "key_claims": [
+      "게티이미지코리아 인수를 목표로 투자금 90억 원을 유치했으나, 인수 실패 시 대표 개인이 상환 책임을 지는 '이해관계인 상환 조항'이 독소로 작용함.",
+      "과거 연대보증 금지 정책을 회피하기 위해 투자 계약서에 대표 개인을 '이해관계인'으로 명시해 법적 상환 책임을 묻는 편법 문구가 성행함.",
+      "<span class=\"text-rose-400 font-medium\">스타트업 최고경영자(CEO)</span>의 계약서 독소조항 검토 부주의가 회사는 물론 개인 재산 전액을 파산으로 몰고 갈 수 있음."
+    ],
+    "data_points": [
+      "투자 유치 금액: 90억 원 (상환 청구액 이자 포함 약 120억 원)",
+      "대상 회사 및 대표: OGQ (신철 대표)",
+      "쟁점 조항: 상환우선주(RCPS) 계약 내 '이해관계인 개인 상환 의무' 독소 문구"
+    ],
+    "signal": "bearish",
+    "signal_reason": "<span class=\"text-rose-400 font-medium\">스타트업 대표 개인 위험 연대 조항</span>으로 벤처 투자의 건전성이 훼손되고 창업 생태계 위축 위험 우려.",
+    "key_companies": [
+      "OGQ",
+      "게티이미지코리아",
+      "법무법인 디엘지"
+    ],
+    "insight": "투자 계약서의 단 한 줄의 '이해관계인' 법률 문구가 연대보증보다 무서운 독소 조항이 되므로, 비대칭 계약 관행 개선과 정밀한 법률 자문이 필수적임.",
+    "action_point": "비상장 벤처 기업 투자자 및 스타트업 경영진은 투자계약서(RCPS) 내 대표자 개인 리스크 담보 독소조항을 원천 차단하고 재검토해야 함."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "OGQ사건",
+      "투자계약서독소조항",
+      "이해관계인상환",
+      "연대보증",
+      "스타트업법률"
+    ]
+  }
+}

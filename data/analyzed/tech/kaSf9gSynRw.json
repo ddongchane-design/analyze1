@@ -1,0 +1,48 @@
+{
+  "video": {
+    "id": "kaSf9gSynRw",
+    "title": "\"곧 터진다, AI 반도체 종말?\" 마크 3년 연속 경고… 이제 돈은 여기서 터집니다",
+    "published": "2026-08-05T11:00:00+00:00",
+    "channel_name": "월텍남",
+    "url": "https://www.youtube.com/watch?v=kaSf9gSynRw",
+    "thumbnail": "https://img.youtube.com/vi/kaSf9gSynRw/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "마크 저커버그와 빅테크 수장들이 AI 데이터센터 병목 현상이 GPU 칩 자체에서 <span class=\"text-amber-300 font-bold\">광통신 네트워크 및 메모리 전력 인프라</span>로 이동하고 있음을 경고함. 2027년까지 빅테크 CAPEX 지출 1.3조 달러 중 <span class=\"text-cyan-300 font-semibold\">광통신(CPO)과 네오클라우드</span> 섹터가 최대 수혜를 입을 전망.",
+    "key_claims": [
+      "GPU 칩 확보만으로는 한계에 도달했으며, 데이터센터 간 데이터 전송 병목을 해결할 광통신(루멘텀 등)이 폭발적 성장 단계 진입.",
+      "메모리 반도체 CAPEX 지출이 2027년 7,610억 달러로 급증하며 D램/HBM 공급 부족(Shortage) 장기화.",
+      "전력 수급 및 클라우드 인프라를 신속히 확보한 네오클라우드(코이브, 아이렌) 기업들의 4분기 영업이익 흑자전환 개화."
+    ],
+    "data_points": [
+      "광통신 대장주(루멘텀) EPS 성장률: 연간 130%",
+      "빅테크 2027년 메모리 반도체 지출액: 7,610억 달러",
+      "네오클라우드 확보 계획 전력: 30GW 이상"
+    ],
+    "signal": "bullish",
+    "signal_confidence": "high",
+    "signal_reason": "AI 병목 지점이 컴퓨팅 칩에서 <span class=\"text-cyan-300 font-semibold\">광통신 및 메모리/전력 인프라</span>로 확장됨에 따라 후속 밸류체인의 폭발적 수혜 진입.",
+    "key_companies": [
+      "메타(META)",
+      "루멘텀(LITE)",
+      "코이브(CORZ)",
+      "엔비디아(NVDA)"
+    ],
+    "insight": "AI 패러다임 변화는 단기 GPU 붐을 넘어, 데이터 전송 속도를 결정을 짓는 광통신 파이버 및 차세대 전력 인프라로 지속적인 온기가 확산 중임.",
+    "action_point": "조정을 거친 광통신 메이저(LITE) 및 네오클라우드/메모리 부품주 펀더멘탈 실적 확인 후 분할 매수."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock",
+      "energy"
+    ],
+    "tags": [
+      "광통신",
+      "루멘텀",
+      "네오클라우드",
+      "마크저커버그",
+      "AI병목"
+    ]
+  }
+}

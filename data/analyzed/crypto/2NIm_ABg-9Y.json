@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "2NIm_ABg-9Y",
+    "title": "드디어 확정된 클래리티 표결, 이더리움 더 오르나? | 시장전망",
+    "published": "2026-08-09T04:00:33+00:00",
+    "channel_name": "디파이 농부 조선생 | Professor Jo",
+    "url": "https://www.youtube.com/watch?v=2NIm_ABg-9Y",
+    "thumbnail": "https://img.youtube.com/vi/2NIm_ABg-9Y/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미 미국 상원의 <span class=\"text-amber-300 font-bold\">크립토 클래리티 법안(Clarity Act)</span> 표결 일정이 8월 토론 종결 동의안 제출 후 9월 최종 표결로 이월된 현황과 비트코인·이더리움 현물 ETF 유입세 전환을 다룸. 달러 및 국채 금리 안정과 함께 스테이블코인 수익률 경쟁 및 공직자 윤리 조항이 막판 쟁점으로 조율 중임을 해설함.",
+    "key_claims": [
+      "크래리티 법안의 상원 표결이 8월 휴회 전 토론 종결 동의안(Cloture) 제출을 거쳐 9월에 본격 추진됨.",
+      "비트코인 현물 ETF에 8억 5천만 달러 자금이 다시 유입되며 고금리·강달러 압력 완화 수혜를 받기 시작함.",
+      "<span class=\"text-cyan-300 font-semibold\">스테이블코인 은행 예금 이자 경쟁</span> 및 공직자 크립토 사업 제한 윤리 조항이 주요 타협 과제임."
+    ],
+    "data_points": [
+      "비트코인 현물 ETF 주간 자금 유입액: 8억 5,000만 달러",
+      "클래리티 법안 상원 심의 일정: 8월 토론 종결 절차 제출 후 9월 표결 추진",
+      "핵심 조율 쟁점: 스테이블코인 이자 이익 제공 허용 및 공직자 크립토 윤리 조항"
+    ],
+    "signal": "bullish",
+    "signal_reason": "<span class=\"text-amber-300 font-bold\">미국 법안 명확성(Clarity) 추진</span>과 ETF 자금 재유입으로 암호화폐 시장의 규제 불확실성 해소 및 자금 유동성 반등 모멘텀 형성.",
+    "key_companies": [
+      "Bitcoin",
+      "Ethereum",
+      "BlackRock ETF"
+    ],
+    "insight": "크립토 규제 법제화(Clarity Act)는 단순한 제도 정비를 넘어 가상자산을 제도권 금융 자산으로 이관하는 분수령이 되며, 달러 유동성 환경과 맞물려 장기 상승 기반이 구축되고 있음.",
+    "action_point": "9월 상원 법안 표결 일정과 비트코인/이더리움 현물 ETF 순유입 추이를 모니터링하며 비중 확대를 검토해야 함."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "economy",
+      "stock"
+    ],
+    "tags": [
+      "클래리티법안",
+      "이더리움",
+      "비트코인ETF",
+      "가상자산법제화",
+      "크립토규제"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "z-eWF1oycYg",
+    "title": "지금 반등이 진짜인지 가짜인지, 코스피 차트로 확인하는 4가지 신호",
+    "published": "2026-08-08T06:29:48+00:00",
+    "channel_name": "이효석아카데미",
+    "url": "https://www.youtube.com/watch?v=z-eWF1oycYg",
+    "thumbnail": "https://img.youtube.com/vi/z-eWF1oycYg/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "코스피의 7월 조정 이후 진행 중인 기술적 반등 장세에서 <span class=\"text-amber-300 font-bold\">진짜 바닥과 추세 전환을 판단하는 4가지 기술적 차트 신호</span>를 분석함. 하락 채널 상단 돌파, 전고점 돌파, 박스권 하단 지지 및 거래량을 동반한 장대 양봉 등 진성 반등을 가려내는 실전 매매 가이드를 제시함.",
+    "key_claims": [
+      "단순한 가격 반등에 속지 않으려면 하락 채널 상향 탈출과 박스권 상단 돌파 여부를 가장 중요하게 확인해야 함.",
+      "하락장 대응 시에는 전저점 붕괴(박스권 하향 돌파) 여부를 통해 리스크 관리 지점을 확실히 설정해야 함.",
+      "<span class=\"text-cyan-300 font-semibold\">거래량이 실린 장대 양봉</span>이 전고점을 넘어서야 추세적 상승장(Bull Trend) 재진입으로 확인됨."
+    ],
+    "data_points": [
+      "분석 대상 지수: KOSPI 차트 횡보/하락/상승 채널",
+      "핵심 매수 타점 조건: 박스권 상단 돌파 + 하락 추세선 상향 탈출",
+      "위험 관리 신호: 전저점 하향 붕괴 및 음봉 거래량 폭증"
+    ],
+    "signal": "neutral",
+    "signal_reason": "하락 채널 탈출 및 거래량 수급이 완전히 확인되기 전까지는 신중한 기술적 확인 매매가 요구됨.",
+    "key_companies": [
+      "한국거래소(KOSPI)"
+    ],
+    "insight": "지수 차트 분석은 예측이 아닌 대응의 영역이며, 하락 채널을 완전히 벗어나는 확인 신호가 발생할 때 비중을 확대하는 정석 매매가 계좌를 지킴.",
+    "action_point": "코스피 전고점 회복 여부와 하락 채널 상단 돌파 지점을 매수 타점으로 설정하고 감정적 추격 매수를 자제해야 함."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "코스피차트",
+      "진성반등신호",
+      "하락채널탈출",
+      "차트분석",
+      "기술적매매"
+    ]
+  }
+}

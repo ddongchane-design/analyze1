@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "FHJmPBZXLrc",
+    "title": "수익 70%가 해외에서? 글로벌로 뻗어간 일본 메가뱅크 #교양이를부탁해 #일본 #엔화 #키옥시아 #반도체",
+    "published": "2026-08-05T11:15:35+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=FHJmPBZXLrc",
+    "thumbnail": "https://img.youtube.com/vi/FHJmPBZXLrc/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "일본 3대 <span class=\"text-cyan-300 font-semibold\">메가뱅크(MUFG, SMFG, 미즈호)</span>가 디플레이션과 제로 금리 환경을 극복하고 해외 M&A와 대출 확대를 통해 해외 수익 비중을 70% 이상으로 끌어올린 사업 체질 전환 성과를 분석함. 국내 대출 한계를 넘어 글로벌 종합 금융그룹으로 재평가받으며 시가총액 상승을 이끈 성장 동력을 다룸.",
+    "key_claims": [
+      "2008년 금융위기 이후 해외 금융사 인수를 적극 추진하여 2025년 기준 메가뱅크 3사의 <span class=\"text-amber-300 font-bold\">해외 수익 비중이 70%를 돌파</span>함.",
+      "단순 금리 인상 수혜를 넘어 글로벌 대출 포트폴리오 다변화와 고수익 M&A가 실적 구조를 근본적으로 개혁함.",
+      "일본 메가뱅크는 글로벌 시장에서 주요 금융 공급자로 자리 잡으며 시가총액 리레이팅을 달성함."
+    ],
+    "data_points": [
+      "일본 3대 메가뱅크: MUFG, SMFG, 미즈호",
+      "해외 수익 비중 변화: 2008년 대비 2025년 기준 70% 이상으로 급증",
+      "주요 전환 계기: 2008년 리먼 사태 이후 해외 자산 저가 매수"
+    ],
+    "signal": "bullish",
+    "signal_reason": "수익 포트폴리오의 글로벌 다변화와 일본 금리 정상화 기조가 맞물려 장기적 수익성 확장이 유지됨.",
+    "key_companies": [
+      "MUFG",
+      "SMFG",
+      "미즈호"
+    ],
+    "insight": "저성장·저금리 환경에 직면한 은행업이 성장을 도모하기 위해서는 해외 금융 M&A와 국경 간 대출(Cross-border lending) 경쟁력 확보가 필수적임.",
+    "action_point": "글로벌 사업 비중이 높고 밸류업 및 자산 효율화가 진행 중인 금융주의 시가총액 상향 동향을 주시해야 함."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "일본메가뱅크",
+      "MUFG",
+      "SMFG",
+      "해외금융M&A",
+      "금융주리레이팅"
+    ]
+  }
+}

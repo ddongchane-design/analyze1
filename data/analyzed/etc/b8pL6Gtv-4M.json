@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "b8pL6Gtv-4M",
+    "title": "아시아, 유럽, 북미를 데우고 있는 진짜 범인?!",
+    "published": "2026-08-08T11:00:05+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=b8pL6Gtv-4M",
+    "thumbnail": "https://img.youtube.com/vi/b8pL6Gtv-4M/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "동북아, 유럽, 북미 대륙을 동시 타격하는 <span class=\"text-rose-400 font-medium\">동반 전 지구적 폭염</span>의 원인으로 대기 상층 제트기류의 파동 구조인 <span class=\"text-amber-300 font-bold\">로스비파(Rossby Waves)</span> 현상을 분석함. 파수 5 또는 파수 7 파동 패턴이 형성에 따라 수천 km 떨어진 대륙들에 동시 열돔 현상이 발생하여 폭염 확률이 최대 20배까지 상승함을 해설함.",
+    "key_claims": [
+      "상공 10km의 제트기류가 구비치며 발생하는 로스비파 파동이 북반구 전체의 고기압 열돔 배치를 결정함.",
+      "네이처 클라이밋 체인지 논문에 따르면 파수 5 패턴 형성 시 북미 중부, 동유럽, 동아시아 3개 지역에 동시 폭염 발생 확률이 20배 급증함.",
+      "이상 기후로 인한 글로벌 기후 리스크가 단일 지역 이슈가 아닌 대기 파동 연쇄 반응임을 입증함."
+    ],
+    "data_points": [
+      "제트기류 고도: 상공 약 10km",
+      "동시 폭염 유발 파수 패턴: 파수 5 (북미중부·동유럽·동아시아), 파수 7 (북미서중부·서유럽·서아시아)",
+      "파수 5 패턴 시 동시 폭염 확률 증가폭: 최대 20배"
+    ],
+    "signal": "bearish",
+    "signal_reason": "<span class=\"text-rose-400 font-medium\">지구 온난화 및 기후 변화</span>로 인한 글로벌 동시 폭염은 농산물 가격 상승, 전력망 과부하 등 거시 경제 리스크를 가중시킴.",
+    "key_companies": [
+      "Nature Climate Change"
+    ],
+    "insight": "대기 파동으로 인한 전 지구적 기후 이상 현상은 전력 인프라, 냉방 에너지는 물론 식량 공급망 전체에 파괴적인 인플레이션 압력을 가할 수 있음.",
+    "action_point": "여름철 이상 고온에 따른 전력 피크 관련 에너지 인프라 및 원자재/곡물 관련 리스크 관리가 요망됨."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "energy",
+      "economy"
+    ],
+    "tags": [
+      "로스비파",
+      "제트기류",
+      "지구폭염",
+      "열돔현상",
+      "기후위기"
+    ]
+  }
+}

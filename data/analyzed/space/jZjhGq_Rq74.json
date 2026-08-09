@@ -1,0 +1,41 @@
+{
+  "video": {
+    "id": "jZjhGq_Rq74",
+    "title": "엔비디아, 스페이스X 어닝콜에 상승…샌디스크, 시간외 주가 하락 [월가 뉴스레터]",
+    "published": "2026-08-05T22:00:18+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=jZjhGq_Rq74",
+    "thumbnail": "https://img.youtube.com/vi/jZjhGq_Rq74/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>가 스타링크와 발사체 사업 호조로 역대급 실적을 발표하며 우주 산업의 독점적 지위를 공고히 함.",
+    "key_claims": [
+      "스페이스X 어닝 서프라이즈 달성",
+      "스타링크 흑자 기여도 지속 증가"
+    ],
+    "data_points": [
+      "우주산업 밸류에이션 1.8조 달러"
+    ],
+    "signal": "bullish",
+    "signal_confidence": "high",
+    "signal_reason": "실적 펀더멘탈과 AI 수급 모멘텀이 견조함.",
+    "key_companies": [
+      "스페이스X",
+      "테슬라"
+    ],
+    "insight": "민간 우주항공 생태계가 실제 상업적 이익 창출 단계에 진입함.",
+    "action_point": "스페이스X 상장 및 국내 우주 부품 수혜주 주시."
+  },
+  "classification": {
+    "primary_topic": "space",
+    "secondary_topics": [
+      "stock",
+      "tech"
+    ],
+    "tags": [
+      "SpaceX",
+      "우주항공",
+      "실적발표"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "9eaa4ZpmskA",
+    "title": "강제 국장 복귀? ISA 저는 이렇게 결정했습니다. (ft. 수페의 계좌)",
+    "published": "2026-08-08T10:20:20+00:00",
+    "channel_name": "수페TV",
+    "url": "https://www.youtube.com/watch?v=9eaa4ZpmskA",
+    "thumbnail": "https://img.youtube.com/vi/9eaa4ZpmskA/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 증시의 <span class=\"text-cyan-300 font-semibold\">빅테크 및 팔란티어</span> 급등과 고용지표 둔화에 따른 금리 전망, 한국 세법 개정안 속 <span class=\"text-amber-300 font-bold\">ISA 절세 개정 이슈</span>를 정리함. 빅테크 실적 호조 및 AI 데이터센터 투자 지속이 주가 상승을 이끌었으나 고용 지표 둔화와 환율 하락(원화 강세)이 국내 투자자의 미국주식 환차익을 감소시키는 요소로 작용함.",
+    "key_claims": [
+      "<span class=\"text-cyan-300 font-semibold\">팔란티어</span>는 기록적 실적 및 AI 성장 가이던스 상향으로 39.8% 급등하며 강력한 상승 동력을 증명함.",
+      "미국 비농업 고용지표가 쇼크 수준(-2.3만 명)을 기록함에 따라 연준의 금리 인하 기대감이 재확산됨.",
+      "국내 세법 개정안의 <span class=\"text-amber-300 font-bold\">ISA 개정안</span> 발표에 따른 투자 전략 재점검 및 환율 하락 리스크 관리가 시급함."
+    ],
+    "data_points": [
+      "팔란티어 주가 주간 상승률: 39.8% (150달러 상향 돌파)",
+      "미국 비농업 일자리: 8만 명 증가 예상 대비 2.3만 명 감소 (고용 쇼크)",
+      "원/달러 환율: 1,410원 수준으로 하락 (환차익 감소 영향)"
+    ],
+    "signal": "bullish",
+    "signal_reason": "AI 관련 핵심 기업들의 어닝 서프라이즈와 피벗 기대감이 지수를 이끄는 강세장이 유지되고 있음.",
+    "key_companies": [
+      "팔란티어",
+      "오라클",
+      "아마존",
+      "엔비디아"
+    ],
+    "insight": "지수 상승에도 불구하고 원/달러 환율 하락으로 인한 환차손 효과가 발생하므로, 환노출 및 절세 계좌(ISA)를 조화롭게 활용하는 포트폴리오 관리가 필수적임.",
+    "action_point": "팔란티어 등 AI 실적주의 지지선(150달러) 확인과 함께 개정 ISA 제도를 활용한 장기 자산 배분 전략을 수립해야 함."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "팔란티어",
+      "ISA계좌",
+      "미국증시",
+      "고용쇼크",
+      "빅테크실적"
+    ]
+  }
+}

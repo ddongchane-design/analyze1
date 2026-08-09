@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "EmxFZ0q99TI",
+    "title": "7월 고용 23,000건 감소, 금리 인상 우려 완화...S&P500, 반도체만 빼고 호조 [월가 뉴스레터]",
+    "published": "2026-08-09T22:11:34+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=EmxFZ0q99TI",
+    "thumbnail": "https://img.youtube.com/vi/EmxFZ0q99TI/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 7월 고용 지표 쇼크(23,000건 감소)에 따른 <span class=\"text-cyan-300 font-semibold\">연준 금리 인상 우려 완전 완화</span>와 S&P500 전반의 강세 장세를 분석함. 메모리 반도체를 제외한 빅테크 및 전통 산업의 실적 호조와 함께 3프로TV 서비스 보안 유출 2차 피해 방지 조치 현황을 다룸.",
+    "key_claims": [
+      "미국 고용 감소로 긴축 우려가 빠르게 소멸되며 채권 금리 안정과 함께 증시 전반의 매수세가 재개됨.",
+      "메모리 반도체 섹터의 나홀로 약세를 제외하고 S&P500 대부분의 빅테크 및 가치주가 신고가 흐름을 나타냄.",
+      "<span class=\"text-amber-300 font-bold\">고용 시장 둔화</span>가 연준의 피벗(금리 인하) 명분을 완성하며 자산 시장 전반에 온기를 불어넣음."
+    ],
+    "data_points": [
+      "7월 미국 비농업 고용 변화: 23,000건 감소 (시장 예상치 대폭 하회)",
+      "증시 반응: 금리 인상 가능성 완전 제거 및 S&P500 대부분 종목 강세",
+      "섹터별 차별화: 메모리 반도체 소폭 약세 vs 빅테크·가치주 신고가"
+    ],
+    "signal": "bullish",
+    "signal_reason": "<span class=\"text-amber-300 font-bold\">연준 피벗 가시화</span>와 기업 실적 견조함이 결합되어 증시의 우상향 동력이 확실히 작동함.",
+    "key_companies": [
+      "S&P 500 Index",
+      "Federal Reserve",
+      "삼프로TV"
+    ],
+    "insight": "고용 둔화는 경제 둔화 리스크보다 연준의 금리 인하 폭을 늘려주는 강력한 거시 호재로 해석되고 있으며 자산 가격 밸류에이션을 받쳐주고 있음.",
+    "action_point": "금리 인하 수혜가 예상되는 성장주 및 고배당·가치주 포트폴리오를 강화하며 매크로 피벗 흐름에 탑승해야 함."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "미국고용쇼크",
+      "금리인상우려완화",
+      "SP500신고가",
+      "연준피벗",
+      "월가뉴스레터"
+    ]
+  }
+}

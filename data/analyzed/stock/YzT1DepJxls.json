@@ -1,0 +1,48 @@
+{
+  "video": {
+    "id": "YzT1DepJxls",
+    "title": "금리 5~6%로 빌려서 수익률 25%를 냅니다. 빅테크가 AI 투자를 멈출 수 없는 진짜 이유",
+    "published": "2026-08-09T00:00:04+00:00",
+    "channel_name": "이효석아카데미",
+    "url": "https://www.youtube.com/watch?v=YzT1DepJxls",
+    "thumbnail": "https://img.youtube.com/vi/YzT1DepJxls/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "빅테크 클라우드 3사(아마존, MS, 구글)가 <span class=\"text-amber-300 font-bold\">5~6% 금리로 자금을 조달해 25% 이상의 수익률(ROIC)</span>을 창출하는 AI 데이터센터 투자의 경제적 당위성을 분석함. 클라우드 매출 폭증(구글 +82%, MS +43%, 아마존 +37%)과 공급 부족 현상이 지속되어 빅테크의 AI 설비투자가 결코 멈추지 않을 이유를 입증함.",
+    "key_claims": [
+      "구글의 40조 원 대 회사채 발행에 160조 원 이상의 응찰 자금이 몰리며 빅테크의 막강한 자본 조달 능력이 입증됨.",
+      "빅테크는 5~6% 비용으로 빌린 자본으로 AI 컴퓨팅 서비스를 통해 25% 수준의 고수익을 창출하고 있어 투자를 멈출 이유가 없음.",
+      "클라우드 3사의 <span class=\"text-cyan-300 font-semibold\">AI 매출 급증</span>으로 반도체(HBM/DRAM) 및 AI 전력 인프라 수요가 확고히 뒷받침됨."
+    ],
+    "data_points": [
+      "구글 회사채 발행 자금 모집: 40조 원 목표에 160조 원 참여 (4배 흥행)",
+      "클라우드 전년 대비 성장률: 구글 +82%, MS +43%, 아마존 +37%",
+      "자본비용(CoC) 대비 수익률(ROIC): 조달 금리 5~6% vs AI 사업 수익률 약 25%"
+    ],
+    "signal": "bullish",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">빅테크의 압도적 투자 여력 및 AI ROIC</span>가 입증됨에 따라 반도체, AI 클라우드, 전력 인프라 산업에 강력한 장기 강세 시그널 제공.",
+    "key_companies": [
+      "구글",
+      "마이크로소프트",
+      "아마존",
+      "NVIDIA",
+      "SK하이닉스"
+    ],
+    "insight": "AI 피크아웃 우려는 빅테크의 강한 자본 조달력과 압도적 ROIC 마진 구조를 간과한 오해이며, 클라우드 자본 지출(CapEx)은 여전히 강력하게 유지되고 있음.",
+    "action_point": "빅테크 AI CapEx의 최대 수혜주인 메모리 반도체, 전력 기기, 클라우드 인프라 관련 핵심 기업의 비중을 확고히 유지해야 함."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "빅테크CapEx",
+      "AI투자수익률",
+      "클라우드성장",
+      "구글회사채",
+      "반도체수혜"
+    ]
+  }
+}

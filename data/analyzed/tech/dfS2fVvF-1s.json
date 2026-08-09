@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "dfS2fVvF-1s",
+    "title": "중국 소름돋는 부정부패 클래스 ㄷㄷ",
+    "published": "2026-08-09T11:00:33+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=dfS2fVvF-1s",
+    "thumbnail": "https://img.youtube.com/vi/dfS2fVvF-1s/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "중국 상하이 연구팀이 희귀질환 뇌세포 <span class=\"text-cyan-300 font-semibold\">유전자 편집 임상시험</span>을 무단 진행하다 환아가 사망하자 이를 은폐하고 유가족에게 11억 원 및 사적 금품을 요구한 불법 임상 사건을 다룸. 첨단 바이오 기술의 무분별한 적용과 윤리적 부패가 유전자 치료제 및 바이오 산업의 국가 신뢰도에 미치는 리스크를 조명함.",
+    "key_claims": [
+      "희귀질환 치료를 명목으로 검증되지 않은 유전자 편집을 시도하여 심각한 부작용과 장기 손상으로 임상 대상 아동이 사망함.",
+      "연구진이 은폐 조작을 감행하고 유가족에게 과도한 임상 비용과 금품을 갈취하는 등 중국 바이오 연구 현장의 부정부패 수준이 심각함.",
+      "<span class=\"text-rose-400 font-medium\">바이오 유전자 치료제 글로벌 규제</span> 강화 및 윤리 검증이 강화되는 계기가 될 것임."
+    ],
+    "data_points": [
+      "유가족 무단 지불 임상 비용: 약 11억 원",
+      "임상 유형: 희귀질환 대상 뇌세포 유전자 편집",
+      "사고 결과: 면역 거부 반응 및 장기 손상으로 인한 사망"
+    ],
+    "signal": "bearish",
+    "signal_reason": "<span class=\"text-rose-400 font-medium\">불법 임상 및 연구 윤리 위반</span>으로 중국 바이오 임상 데이터의 국제적 신뢰성이 실추되고 관련 파이프라인 규제가 엄격해질 전망.",
+    "key_companies": [
+      "상하이 유전자연구팀"
+    ],
+    "insight": "첨단 유전자 치료제 개발 시장에서 연구 윤리 및 데이터 투명성은 기술력 못지않은 핵심 경쟁력이므로, 규제 준수 역량을 갖춘 바이오 기업에 선별적 접근이 필요함.",
+    "action_point": "중국 임상 파이프라인에 의존하는 바이오 기업의 인허가 리스크 및 규제 리스크를 재검토해야 함."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "etc"
+    ],
+    "tags": [
+      "유전자편집",
+      "중국바이오",
+      "임상부작용",
+      "연구윤리",
+      "바이오리스크"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "video": {
+    "id": "RBl5nY7gsWg",
+    "title": "증시는 반등했지만 비트코인은 침묵… 클래리티 법안 변수됐다 | 서동주, 김동환, 박상혁 디지털애셋 편집장 [크립토 PLUS]",
+    "published": "2026-08-05T02:51:21+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=RBl5nY7gsWg",
+    "thumbnail": "https://img.youtube.com/vi/RBl5nY7gsWg/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "증시 반등에도 불구하고 <span class=\"text-violet-300 font-medium\">가상자산 시장</span>은 클래리티 법안과 과세 논란으로 보합세를 유지 중임.",
+    "key_claims": [
+      "코인 과세 차별 논란 부각",
+      "미국 가상자산 규제 법안 주시"
+    ],
+    "data_points": [
+      "비트코인 보합세 유지"
+    ],
+    "signal": "neutral",
+    "signal_confidence": "high",
+    "signal_reason": "실적 펀더멘탈과 AI 수급 모멘텀이 견조함.",
+    "key_companies": [
+      "비트코인",
+      "이더리움"
+    ],
+    "insight": "제도권 규제 정비가 완료되기 전까지 알트코인 변동성 주의.",
+    "action_point": "클래리티 법안 통과 여부 및 미국 대선 정책 점검."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "stock",
+      "tech"
+    ],
+    "tags": [
+      "가상자산",
+      "비트코인",
+      "클래리티법안"
+    ]
+  }
+}

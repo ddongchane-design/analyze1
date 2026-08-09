@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "vqgKhMrCYlY",
+    "title": "마운자로 충격적인 부작용",
+    "published": "2026-08-08T11:00:05+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=vqgKhMrCYlY",
+    "thumbnail": "https://img.youtube.com/vi/vqgKhMrCYlY/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "글로벌 대박을 친 일라이릴리의 <span class=\"text-cyan-300 font-semibold\">GLP-1 비만치료제 마운자로(Mounjaro)</span> 처방량이 국내 출시 후 폭증하는 가운데, 최근 임상 데이터에서 새로 보고된 <span class=\"text-rose-400 font-medium\">탈모 위험 부작용(37~68% 위험 급증)</span> 이슈를 다룸. 폭발적 수요와 함께 부작용 리스크가 제약·바이오 주가 및 복용 안전성에 미치는 여파를 분석함.",
+    "key_claims": [
+      "마운자로 처방량이 출시 첫 달 대비 1128% 폭증하며 한 달 20만 건 이상 처방되는 비만 치료제 열풍이 이어짐.",
+      "최근 보고된 임상 피드백에서 투여 환자의 탈모 위험도가 37~68% 급증하는 신규 부작용 데이터가 포착됨.",
+      "급격한 체중 감량에 따른 휴행성 탈모 및 펩타이드 약물 자체 반응에 대한 안전성 이슈가 주목받고 있음."
+    ],
+    "data_points": [
+      "마운자로 처방 증가율: 첫 달 대비 1128% 폭증",
+      "월 처방 건수: 약 20만 건 이상",
+      "탈모 부작용 위험 증가율: 37% ~ 68% 급증"
+    ],
+    "signal": "neutral",
+    "signal_reason": "비만치료제 시장의 팽창 속도는 강력하나 부작용 리스크 불확실성에 따른 과열 식히기 조정을 유의해야 함.",
+    "key_companies": [
+      "Eli Lilly",
+      "Novo Nordisk"
+    ],
+    "insight": "글로벌 블록버스터 GLP-1 약물의 처방 폭증 속에서 발생하는 부작용 데이터는 안전성 경고와 동시에 탈모 치료 등 연관 헬스케어 시장의 반사 이익으로 연결될 수 있음.",
+    "action_point": "마운자로 및 비만치료제 관련 제약 바이오주의 부작용 보고 추이와 헬스케어 보조 시장 동향을 주시해야 함."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "마운자로",
+      "GLP1",
+      "비만치료제",
+      "일라이릴리",
+      "탈모부작용"
+    ]
+  }
+}

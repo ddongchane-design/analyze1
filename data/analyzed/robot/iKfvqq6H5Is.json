@@ -1,0 +1,41 @@
+{
+  "video": {
+    "id": "iKfvqq6H5Is",
+    "title": "삼성전자 로봇 사업 분석… 드디어 큰 그림이 보인다",
+    "published": "2026-08-05T08:18:05+00:00",
+    "channel_name": "엔지니어TV",
+    "url": "https://www.youtube.com/watch?v=iKfvqq6H5Is",
+    "thumbnail": "https://img.youtube.com/vi/iKfvqq6H5Is/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">삼성전자</span>가 DX 로봇 조직을 대폭 재편하며 <span class=\"text-amber-300 font-bold\">휴머노이드 및 AI 로봇</span> 상용화에 박차를 가함.",
+    "key_claims": [
+      "삼성 로봇 사업 조직 통합 재편",
+      "레인보우로보틱스 협동로봇 적용"
+    ],
+    "data_points": [
+      "로봇 전담 인력 확대"
+    ],
+    "signal": "bullish",
+    "signal_confidence": "high",
+    "signal_reason": "실적 펀더멘탈과 AI 수급 모멘텀이 견조함.",
+    "key_companies": [
+      "삼성전자",
+      "레인보우로보틱스"
+    ],
+    "insight": "피지컬 AI 로봇이 가전 및 공장 자동화의 핵심 솔루션으로 부상.",
+    "action_point": "삼성 로봇 밸류체인 핵심 부품주 관심 지속."
+  },
+  "classification": {
+    "primary_topic": "robot",
+    "secondary_topics": [
+      "stock",
+      "tech"
+    ],
+    "tags": [
+      "삼성로봇",
+      "휴머노이드",
+      "피지컬AI"
+    ]
+  }
+}

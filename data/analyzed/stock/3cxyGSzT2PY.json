@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "3cxyGSzT2PY",
+    "title": "[어바웃 뉴욕] BTS 콘서트, 아미들이 낸 티켓값은 어디로 갔나 | 이나연 특파원",
+    "published": "2026-08-05T03:00:20+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=3cxyGSzT2PY",
+    "thumbnail": "https://img.youtube.com/vi/3cxyGSzT2PY/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-amber-300 font-bold\">티켓 마스터</span>와 라이브 네이션이 독점적 매표 구조로 역대급 수수료 이익을 거두었으나 법무부 반독점 소송 리스크가 상존함.",
+    "key_claims": [
+      "매표소 수수료 마진 37% 기록",
+      "미 법무부 반독점 소송 진행 중"
+    ],
+    "data_points": [
+      "독점 점유율 86%",
+      "티케팅 마진 37%"
+    ],
+    "signal": "neutral",
+    "signal_confidence": "high",
+    "signal_reason": "실적 펀더멘탈과 AI 수급 모멘텀이 견조함.",
+    "key_companies": [
+      "라이브 네이션(LYV)",
+      "티켓 마스터",
+      "하이브"
+    ],
+    "insight": "엔터산업의 핵심 수익원은 공연 자체보다 플랫폼 매표 수수료임.",
+    "action_point": "반독점 소송 판결에 따른 주가 변동성 모니터링."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "stock",
+      "tech"
+    ],
+    "tags": [
+      "티켓마스터",
+      "독점",
+      "BTS"
+    ]
+  }
+}

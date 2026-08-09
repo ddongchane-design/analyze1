@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "XMn4jcgO3t4",
+    "title": "과학에는 절대적인 진리가 없습니다",
+    "published": "2026-08-09T11:00:28+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=XMn4jcgO3t4",
+    "thumbnail": "https://img.youtube.com/vi/XMn4jcgO3t4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "과학 지식이 고정된 절대 진리가 아니라 합의와 설득에 의해 끊임없이 진화하는 <span class=\"text-amber-300 font-bold\">'패러다임 시프트(Paradigm Shift)'</span>임을 철학 및 현대 물리학(상대성 이론, 양자역학) 관점에서 해설함. 새로운 증거와 설득력에 따라 기존 과학 교리가 대전환되는 현대 과학 철학의 본질을 분석함.",
+    "key_claims": [
+      "과학적 사실은 영원불변한 절대 진리가 아니라 사회적 설득력과 신뢰성에 기반해 유지되는 동적 체계임.",
+      "상대성 이론이나 양자역학 역시 더 높은 설득력을 가진 새로운 패러다임이 등장하면 재구성될 수 있음.",
+      "기술 및 산업 현장에서도 기존 공식을 과감히 깨뜨리는 <span class=\"text-cyan-300 font-semibold\">패러다임 혁신</span>을 수용해야 함."
+    ],
+    "data_points": [
+      "과학 철학 핵심 개념: 토마스 쿤의 패러다임 시프트",
+      "대체 대상 현대 정설: 아인슈타인 상대성 이론 및 양자역학 표준 모델",
+      "과학적 가치 판단 기준: 대중 및 학계의 설득력과 수용도"
+    ],
+    "signal": "neutral",
+    "signal_reason": "과학 철학적 정론을 소개하는 통찰 콘텐츠로 시장 시그널은 중립임.",
+    "key_companies": [
+      "안될과학"
+    ],
+    "insight": "기존 패러다임에 고착된 시각은 기술적 독점이나 시장 우위를 영원히 보장하지 못하며, 파괴적 신기술을 유연하게 수용하는 역량이 필수적임.",
+    "action_point": "기술 패러다임 전환기(AI, 전고체 등)에 기존 레거시 기술에 안주하는 기업보다 혁신 지향 기업으로 포트폴리오를 다변화해야 함."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "패러다임시프트",
+      "과학철학",
+      "양자역학",
+      "상대성이론",
+      "혁신적사고"
+    ]
+  }
+}

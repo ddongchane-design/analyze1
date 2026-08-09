@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "9cgg3gwFYs0",
+    "title": "5,500억 달러 대미투자 계획... 일본이 믿은 '돈줄'의 정체 #교양이를부탁해 #일본 #엔화 #키옥시아 #반도체",
+    "published": "2026-08-05T11:30:00+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=9cgg3gwFYs0",
+    "thumbnail": "https://img.youtube.com/vi/9cgg3gwFYs0/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "일본 정부가 추진하는 <span class=\"text-amber-300 font-bold\">5,500억 달러 규모 대미 투자 계획</span>의 실체와 자금 조달 메커니즘을 분석함. 오하이오 가스화력발전, 텍사스 원유 수출 인프라, 조지아 인조다이아몬드 거점 등 주요 프로젝트에 <span class=\"text-cyan-300 font-semibold\">일본수출입은행(JBIC)</span>이 마중물 출자를 하고 메가뱅크 3사가 대규모 융자를 담당하는 협업 체계를 구축함.",
+    "key_claims": [
+      "<span class=\"text-amber-300 font-bold\">일본의 대미 대규모 투자</span>는 정부 기관인 JBIC의 선제적 출자와 민간 메가뱅크의 대대적인 융자가 결합된 민관 합동 금융 스킴으로 구체화됨.",
+      "에너지 인프라(가스화력·원유) 및 첨단 소재(인조 다이아몬드) 등 미국의 핵심 전략 산업 거점에 자금을 집중 배치함.",
+      "일본 <span class=\"text-cyan-300 font-semibold\">메가뱅크</span>의 막강한 해외 자산 조달 능력이 미-일 경제 협력의 핵심 원동력으로 작용함."
+    ],
+    "data_points": [
+      "일본 대미 투자 총 구상 규모: 5,500억 달러",
+      "주요 3대 1호 사업: 오하이오 가스화력발전, 텍사스 원유수출 인프라, 조지아 인조다이아몬드 거점",
+      "자금 조달 구조: JBIC 정부 출자 + 메가뱅크 3사 대출 융자"
+    ],
+    "signal": "bullish",
+    "signal_reason": "<span class=\"text-amber-300 font-bold\">미-일 경제 동맹 강화</span>와 일본 금융권의 고수익 해외 인프라 자산 확보로 일본 금융 및 에너지 인프라 관련 기업에 긍정적 모멘텀 제공.",
+    "key_companies": [
+      "JBIC",
+      "미쓰비시UFJ",
+      "미쓰이스미토모",
+      "미즈호"
+    ],
+    "insight": "일본 금융권의 글로벌 융자 역량은 국경을 넘는 에너지·IT 인프라 투자에서 정부의 지정학적 협상력을 뒷받침하는 강력한 실체적 무기로 활용되고 있음.",
+    "action_point": "미-일 공급망 재편 및 에너지 인프라 투자 수혜를 받는 금융주 및 인프라 엔지니어링 기업의 동향을 지속 관찰할 필요가 있음."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock",
+      "energy"
+    ],
+    "tags": [
+      "일본대미투자",
+      "JBIC",
+      "메가뱅크",
+      "에너지인프라",
+      "미일경제협력"
+    ]
+  }
+}

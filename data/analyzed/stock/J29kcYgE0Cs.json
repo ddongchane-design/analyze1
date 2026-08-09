@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "J29kcYgE0Cs",
+    "title": "[미드나잇 LIVE] 리얼티인컴 사지 마라? 이 종목 사세요 | BOA \"3회 금리인하 시점\" | 마크 저커버그 의미심장 발언",
+    "published": "2026-08-06T00:00:00+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=J29kcYgE0Cs",
+    "thumbnail": "https://img.youtube.com/vi/J29kcYgE0Cs/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-amber-300 font-bold\">Bank of America</span>가 연내 3회 연준 금리 인하 가능성을 제시함에 따라 리츠 및 배당주 재평가 국면 진입. <span class=\"text-cyan-300 font-semibold\">리얼티인컴(O)</span> 대비 배당 성장률과 재무 안정성이 높은 대체 리츠 종목 분석 및 빅테크 AI 발언 영향 진단.",
+    "key_claims": [
+      "BOA는 고용 지표 둔화와 인플레이션 안정을 근거로 9월부터 연내 3차례 기준금리 인하 예측.",
+      "금리 인하 수혜주인 리츠(REITs) 부문에서 단순 고배당주 리얼티인컴보다 이커머스/물류 기반 고성장 리츠 선호 권장.",
+      "메타 마크 저커버그의 AI 인프라 투자 정당화 발언으로 테크주와 배당주의 균형 투자 부각."
+    ],
+    "data_points": [
+      "BOA 예측 연내 기준금리 인하 횟수: 3회",
+      "미국 7월 ADP 민간 고용 증가폭: 4만 4천 명 (예상치 7만 명 하회)"
+    ],
+    "signal": "bullish",
+    "signal_confidence": "medium",
+    "signal_reason": "<span class=\"text-amber-300 font-bold\">연준 금리 인하</span> 가시화로 고금리 피해 업종이었던 <span class=\"text-cyan-300 font-semibold\">리츠 및 부동산 섹터</span> 자금 유입 수혜 예상.",
+    "key_companies": [
+      "리얼티인컴(O)",
+      "메타(META)",
+      "Bank of America"
+    ],
+    "insight": "금리 피벗(Pivot) 시기에는 배당률만 높은 종목보다 순자산가치(NAV) 증가율과 자본 이득이 동시 발생할 수 있는 성장형 리츠 종목 선택이 유리함.",
+    "action_point": "금리 인하 전환에 맞춰 금리 민감주(리츠, 수소/에너지 인프라) 포트폴리오 비중 조절 점검."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "금리인하",
+      "BOA",
+      "리얼티인컴",
+      "리츠",
+      "저커버그"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "J29kcYgE0Cs",
+    "title": "[문지웅의 빅머니 LIVE] 美-이란 합의 초안 나왔다 | BOA \"3회 금리인상 전망 유지\" | 샌디스크 매출 가이던스 실망",
+    "published": "2026-08-05T21:55:28+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=J29kcYgE0Cs",
+    "thumbnail": "https://img.youtube.com/vi/J29kcYgE0Cs/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">AMD 및 반도체 빅테크</span>의 호실적 발표와 차세대 메모리(HBM, 3D D램) 수요 확대로 <span class=\"text-amber-300 font-bold\">AI 인프라 모멘텀</span>이 강화됨.",
+    "key_claims": [
+      "AMD 매출/마진율 사상 최고치",
+      "차세대 HBM 및 D램 쇼티지 지속"
+    ],
+    "data_points": [
+      "AMD 마진율 56%",
+      "AI CAPEX 1조 달러 수혈"
+    ],
+    "signal": "bullish",
+    "signal_confidence": "high",
+    "signal_reason": "실적 펀더멘탈과 AI 수급 모멘텀이 견조함.",
+    "key_companies": [
+      "엔비디아",
+      "AMD",
+      "삼성전자",
+      "SK하이닉스",
+      "애플"
+    ],
+    "insight": "메모리 반도체 및 AI 가속기 밸류체인은 구조적 장기 성장 구도임.",
+    "action_point": "조정 시 AI 반도체 및 광통신/전력 밸류체인 분할 매수."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock",
+      "tech"
+    ],
+    "tags": [
+      "AI반도체",
+      "HBM",
+      "AMD",
+      "샌디스크"
+    ]
+  }
+}

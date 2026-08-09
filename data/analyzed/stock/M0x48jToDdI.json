@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "M0x48jToDdI",
+    "title": "\"엔고 때 모건스탠리를 샀다\" 일본 메가뱅크가 판을 뒤집은 비결 #교양이를부탁해 #일본 #엔화 #키옥시아 #반도체",
+    "published": "2026-08-05T11:00:37+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=M0x48jToDdI",
+    "thumbnail": "https://img.youtube.com/vi/M0x48jToDdI/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "2008년 글로벌 금융위기 당시 일본 <span class=\"text-cyan-300 font-semibold\">MUFG가 엔고 수혜를 활용해 모건스탠리 지분을 전격 인수</span>한 역발상 M&A 성공 사례를 조명함. 리먼 브러더스 파산 후 부도 위기에 몰린 모건스탠리에 대규모 출자를 단행하여 10년 만에 투자금의 2배 이상을 회수하고 글로벌 투자은행(IB) 파트너십을 확보한 전략적 승부수를 분석함.",
+    "key_claims": [
+      "2008년 위기 시 엔화 가치 급등(엔고)을 발판 삼아 헐값에 나온 미국 월가 핵심 금융사 모건스탠리 지분을 저가 매수함.",
+      "모건스탠리 주가 42% 폭락 직후 단행된 MUFG의 출자는 모건스탠리의 파산을 막고 팽창하는 글로벌 수익원을 확보함.",
+      "금융 위기 속 강한 통화 파워와 과감한 리더십이 만났을 때 대규모 지분 가치 상승(2배 이상)을 창출함."
+    ],
+    "data_points": [
+      "인수 시점: 2008년 리먼 파산 직후 모건스탠리 3일간 42% 폭락 시기",
+      "투자 성과: 10년 후 투자 원금 대비 2배 이상의 수익 회수",
+      "글로벌 IB 결합: MUFG - Morgan Stanley 합작 증권 체제 구축"
+    ],
+    "signal": "bullish",
+    "signal_reason": "위기 시 확보한 우량 월가 IB 지분이 장기적 지분법 이익과 시너지 효과를 창출하여 안정적 자본 성장을 견인함.",
+    "key_companies": [
+      "MUFG",
+      "Morgan Stanley",
+      "Lehman Brothers"
+    ],
+    "insight": "글로벌 금융 재편기에는 자국 통화의 강세 및 튼튼한 재무제표를 바탕으로 월가 핵심 자산을 저가 매수한 기업이 최종 승자가 됨.",
+    "action_point": "금융위기 및 매크로 변동성 확대 시 우량 해외 M&A 지분을 확보한 금융 지주사의 장기 가치 상승 가능성을 주목해야 함."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "MUFG",
+      "모건스탠리",
+      "엔고M&A",
+      "글로벌금융위기",
+      "월가투자"
+    ]
+  }
+}

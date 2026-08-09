@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "liMlf8qihwY",
+    "title": "“보유세 폭탄\" 논란과 99% 감면 효과... 진실은? | 구윤철 부총리 겸 재정경제부 장관 [주말인터뷰]",
+    "published": "2026-08-09T06:00:26+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=liMlf8qihwY",
+    "thumbnail": "https://img.youtube.com/vi/liMlf8qihwY/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "정부의 세제 개편안과 관련해 구철 부총리가 밝힌 <span class=\"text-amber-300 font-bold\">'국내 생산 세액 공제'</span> 신설과 원자력(SMR/MMR) 국가전략기술 지정을 다룸. 반도체, AI, 로봇, 태양광 등 핵심 제조업의 국내 생산 보호 세제 혜택과 서민 민생(월세 공제) 지원 정책을 종합 해설함.",
+    "key_claims": [
+      "반도체, AI, 로봇, 태양광 등 글로벌 경쟁이 치열한 전략 품목에 '국내 생산 세액 공제'를 신규 도입함.",
+      "<span class=\"text-cyan-300 font-semibold\">소형모듈원자로(SMR/MMR)</span> 기술을 국가전략기술로 신규 지정하여 R&D 및 시설 투자 세금 감면 혜택을 파격적으로 확대함.",
+      "잠재 성장률 확충, 서민 민생 및 월세액 공제 확대, 과세 공정 조세개혁 등 3대 세제 개편 축을 정립함."
+    ],
+    "data_points": [
+      "신규 세액 공제 제도: 국내 생산 세액 공제 (반도체, AI, 로봇, 태양광)",
+      "신규 국가전략기술: 소형모듈원자로 (SMR/MMR)",
+      "민생 세제 혜택: 청년·서민 대상 월세액 세액 공제 및 근로장려세제(EITC) 확대"
+    ],
+    "signal": "bullish",
+    "signal_reason": "<span class=\"text-amber-300 font-bold\">정부의 강력한 제조업 국내 생산 세액 공제</span> 및 SMR 지원 세제 정책으로 반도체·로봇·원전 섹터의 펀더멘탈 강화.",
+    "key_companies": [
+      "기획재정부",
+      "삼성전자",
+      "두산에너빌리티"
+    ],
+    "insight": "단순 R&D 지원을 넘어 국내 생산 자체에 세액 공제를 매기는 파격적인 세제 개편은 글로벌 공급망 재편 속 국내 제조 기지 수호와 밸류 체인 기업들의 실익을 극대화할 것임.",
+    "action_point": "국내 생산 세액 공제 및 SMR 국가전략기술 지정에 따른 반도체, 로봇, 원자력 SMR 관련 수혜주의 세제 혜택 실익을 점검해야 함."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock",
+      "tech",
+      "energy"
+    ],
+    "tags": [
+      "세제개편안",
+      "국내생산세액공제",
+      "SMR국가전략기술",
+      "구철부총리",
+      "로봇반도체세제"
+    ]
+  }
+}
