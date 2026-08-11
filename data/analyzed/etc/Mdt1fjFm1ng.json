@@ -1,0 +1,36 @@
+{
+  "video": {
+    "id": "Mdt1fjFm1ng",
+    "title": "수학자를 속인 숫자의 함정?!",
+    "published": "2026-08-10T09:00:00+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=Mdt1fjFm1ng",
+    "thumbnail": "https://img.youtube.com/vi/Mdt1fjFm1ng/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "페르마의 소수 추측(2^(2^n)+1)이 오일러에 의해 반례가 발견되며 무너진 수학적 사건을 소개함. 초기 소수 사례들에 낚여 섣부른 추론을 내렸던 수학사의 비하인드 스토리를 통해 일반화의 함정을 설명함.",
+    "key_claims": [
+      "페르마는 n=0~4까지 모두 소수가 나오자 모든 수식이 소수일 것이라 추측했으나 오일러가 반례를 찾아냄.",
+      "수학에서 반례는 오류를 밝히는 것에 그치지 않고 새로운 정수론 연구의 기폭제가 됨."
+    ],
+    "data_points": [
+      "페르마 소수 5번째 수 (n=5): 4,294,967,297 = 641 * 6,700,417 (합성수)"
+    ],
+    "signal": "na",
+    "signal_confidence": "high",
+    "signal_reason": "투자와 직접 연관되지 않은 순수 수학사 교양 콘텐츠임.",
+    "key_companies": [],
+    "insight": "부분적 데이터나 초기 성과만으로 전체를 일반화하는 오류는 학문뿐만 아니라 투자 의사결정에서도 유의해야 할 교훈임.",
+    "action_point": "본 영상은 주식 시장이나 자산 운용과 무관하므로 투자 판단 대상에서 제외함."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [],
+    "tags": [
+      "페르마소수",
+      "오일러반례",
+      "수학사",
+      "안될과학"
+    ]
+  }
+}

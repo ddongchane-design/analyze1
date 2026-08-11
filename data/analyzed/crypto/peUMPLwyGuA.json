@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "peUMPLwyGuA",
+    "title": "비트코인 자금 유입 급증…클래리티 9월 연기에도 '최악은 피했다' | 서동주, 김동환, 박상혁 디지털애셋 편집장 [크립토 PLUS]",
+    "published": "2026-08-10T10:30:00+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=peUMPLwyGuA",
+    "thumbnail": "https://img.youtube.com/vi/peUMPLwyGuA/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "비트코인 현물 ETF로 <span class=\"text-cyan-300 font-semibold\">8억 5,000만 달러 대규모 자금</span>이 순유입되며 강세 기반이 복원됨. 클래리티 법안 표결이 9월 15일로 연기되었으나 악재 소멸로 규제 리스크 최악을 지났다는 평임.",
+    "key_claims": [
+      "비트코인 현물 ETF 자금 재유입이 크립토 하방을 강력히 지지함.",
+      "미 상원 클래리티 법안 연기는 악재가 아니며 9월 법제화 완성 수순임."
+    ],
+    "data_points": [
+      "비트코인 현물 ETF 순유입액: 8억 5,000만 달러 돌파"
+    ],
+    "signal": "bullish",
+    "signal_confidence": "high",
+    "signal_reason": "기관 매수세(ETF 순유입) 복원과 달러 약세 피벗이 크립토 시장의 하방 안정성을 입증하기 때문임.",
+    "key_companies": [
+      "Bitcoin",
+      "Ethereum",
+      "BlackRock"
+    ],
+    "insight": "기관 현물 ETF 자금 유입은 단기 시세 변동을 넘어 크립토가 제도권 대체 자산으로 부상했음을 보여줌.",
+    "action_point": "9월 클래리티 법안 표결 전 비트코인 및 이더리움 현물 ETF 분할 매입 유지."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "stock",
+      "economy"
+    ],
+    "tags": [
+      "비트코인ETF",
+      "8억5천만달러유입",
+      "클래리티법안",
+      "기관자금"
+    ]
+  }
+}

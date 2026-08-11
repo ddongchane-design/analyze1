@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "hJrKapqGj0s",
+    "title": "[박신영의 개장전요것만-8월10일] 머스크가 GPU 싹쓸이 하나..코어위브·네비우스 긴장 | 로켓랩 실적, 주목할 3가지",
+    "published": "2026-08-10T12:00:00+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=hJrKapqGj0s",
+    "thumbnail": "https://img.youtube.com/vi/hJrKapqGj0s/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "일론 머스크의 xAI가 GPU 클러스터 대량 구매를 독점하면서 <span class=\"text-cyan-300 font-semibold\">코어위브·네비우스 등 네오클라우드</span>의 GPU 수급 병목이 심화됨. 로켓랩은 뉴트론 로켓 4분기 발사 및 6.6억 달러 미 우주군 수주로 실적 발표를 앞두고 기대를 모음.",
+    "key_claims": [
+      "머스크의 GPU 싹쓸이로 클라우드 연산 자원 쇼티지가 장기화됨.",
+      "로켓랩은 뉴트론 차세대 대형 로켓 4분기 실물 시험발사가 주가 밸류에이션의 분수령임."
+    ],
+    "data_points": [
+      "로켓랩 미 우주군 수주 총액: 6.63억 달러 계약 체결"
+    ],
+    "signal": "bullish",
+    "signal_confidence": "medium",
+    "signal_reason": "GPU 연산력 쇼티지로 반도체 공급망 수혜가 지속되고, 로켓랩의 수주 가시성이 대폭 향상되었기 때문임.",
+    "key_companies": [
+      "NVIDIA",
+      "RocketLab",
+      "CoreWeave"
+    ],
+    "insight": "xAI의 대규모 컴퓨팅 흡수는 AI 하드웨어 장비사들의 장기 매출을 보장해 주는 강력한 선행 지표임.",
+    "action_point": "로켓랩 및 GPU 인프라 공급망 핵심 부품 기업에 대한 관심."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "space",
+      "stock"
+    ],
+    "tags": [
+      "GPU쇼티지",
+      "xAI",
+      "로켓랩",
+      "코어위브"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "tQ3IkItUsQk",
+    "title": "[지식뉴스] \"다들 착각하고 있어요, 이란전쟁의 진짜 승자는 '미국'\"...에너지 패권 전쟁 속 한국에게 찾아온 마지막 기회 / 교양이를 부탁해",
+    "published": "2026-08-11T00:00:00+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=tQ3IkItUsQk",
+    "thumbnail": "https://img.youtube.com/vi/tQ3IkItUsQk/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "중동 지정학 분쟁 속에서 미국이 셰일 오일/LNG 수출을 독점하며 최대 수혜를 입음. 이에 대응해 한국은 <span class=\"text-cyan-300 font-semibold\">SMR(소형원자로) 및 원전 기술 수주</span>로 에너지 패권 전쟁에서 반사 이익을 노릴 기회를 잡음.",
+    "key_claims": [
+      "중동 리스크는 미국의 LNG 및 에너지 패권을 극대화하는 결과로 이어짐.",
+      "한국은 SMR 국가전략기술 지정과 함께 글로벌 원전 수주(체코 등) 확장의 기회를 맞음."
+    ],
+    "data_points": [
+      "미국 LNG 수출량: 글로벌 1위 유지",
+      "한국 SMR 원전 세액 공제 지정 추진"
+    ],
+    "signal": "bullish",
+    "signal_confidence": "high",
+    "signal_reason": "에너지 안보가 부각되는 정세에서 한국 원전 및 SMR 밸류체인의 수주 가시성이 확보되었기 때문임.",
+    "key_companies": [
+      "두산에너빌리티",
+      "한전기술"
+    ],
+    "insight": "글로벌 에너지 패권 전쟁은 단순 원유 시장을 넘어 원전 및 SMR 차세대 에너지 기술력 보유국에게 막대한 국가적 수주 기회를 안겨줌.",
+    "action_point": "SMR 원전 국가전략기술 수혜주인 두산에너빌리티 및 원전 소부장주 매수 관점 대응."
+  },
+  "classification": {
+    "primary_topic": "energy",
+    "secondary_topics": [
+      "economy",
+      "stock"
+    ],
+    "tags": [
+      "에너지패권",
+      "미국셰일LNG",
+      "SMR원전",
+      "두산에너빌리티"
+    ]
+  }
+}

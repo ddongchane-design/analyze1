@@ -1,0 +1,36 @@
+{
+  "video": {
+    "id": "cUWLhUHh-v0",
+    "title": "미국에 찍혔더니 메일 카드 싹 막혔다  (하수정 경제전문기자)",
+    "published": "2026-08-10T10:00:00+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=cUWLhUHh-v0",
+    "thumbnail": "https://img.youtube.com/vi/cUWLhUHh-v0/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국의 대러시아 2차 제재(Secondary Sanctions) 강화로 러시아 그림자 금융망 및 Mail.ru 결제 카드, USDT 차폐 채널이 전면 차단됨. 글로벌 세컨더리 제재로 인한 지정학 금융 분절화 현상을 분석함.",
+    "key_claims": [
+      "미 재무부의 세컨더리 제재로 우회 결제망이 대대적으로 마비됨.",
+      "러시아 기업들의 테더(USDT) 등 가상자산 우회 자금 거래도 강력 제재를 받음."
+    ],
+    "data_points": [],
+    "signal": "neutral",
+    "signal_confidence": "medium",
+    "signal_reason": "지정학 금융 규제 강화는 원자재 및 글로벌 공급망의 고질적 불확실성으로 작용하기 때문임.",
+    "key_companies": [],
+    "insight": "미국의 금융 패권(달러 및 제재망) 강화는 글로벌 교역의 파편화를 유발하여 공급망 비용을 증가시킴.",
+    "action_point": "대러시아 제재 반사 수혜가 있는 대체 공급망 관련 기업에 관심."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "crypto"
+    ],
+    "tags": [
+      "세컨더리제재",
+      "러시아금융제재",
+      "달러패권",
+      "그림자금융"
+    ]
+  }
+}

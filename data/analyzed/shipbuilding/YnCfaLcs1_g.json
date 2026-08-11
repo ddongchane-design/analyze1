@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "YnCfaLcs1_g",
+    "title": "\"이건 조선업 쇼\" 마스가 회의론?ㅣ이상은의 워싱턴나우",
+    "published": "2026-08-10T11:00:00+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=YnCfaLcs1_g",
+    "thumbnail": "https://img.youtube.com/vi/YnCfaLcs1_g/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 해군력 강화를 위한 <span class=\"text-cyan-300 font-semibold\">MASGA (한·미·일 조선 협력 프로젝트)</span> 구상이 발표되었으나, 미국 의회의 예산 승인 지연 및 존스법(Jones Act) 규제로 상용 조선소의 빠른 재건에 대한 회의론이 제기됨. 다만 한국 함정 정비(MRO) 및 군함 수주에 대한 중장기 실혜택은 유효함.",
+    "key_claims": [
+      "미 국방부 및 의회의 예산 지연으로 미 조선업 부흥 구상(MASGA)이 단기 쇼에 그칠 우려가 제기됨.",
+      "미국 존스법 규제 완화 없이 미국 내 조선소 단기 재건은 물리적으로 불가능함.",
+      "한국 조선사(HD현대, 한화오션)의 미 해군 MRO 수주는 실질적 매출로 연결 중임."
+    ],
+    "data_points": [
+      "MASGA 프로젝트: 미국 함정 MRO 및 재건 펀드 구상"
+    ],
+    "signal": "neutral",
+    "signal_confidence": "medium",
+    "signal_reason": "미국 입법 및 예산 병목으로 단기 모멘텀은 약화될 수 있으나, 한국 조선사의 미 해군 MRO 수주 체력은 견조하기 때문임.",
+    "key_companies": [
+      "HD현대중공업",
+      "한화오션"
+    ],
+    "insight": "미국 자체 조선업 재건의 어려움은 역설적으로 세계 최고 조선 건조 능력을 가진 한국 대형 조선사들에게 MRO 독점 기회를 제공함.",
+    "action_point": "MASGA 정치 노이즈 조정 시 미 해군 MRO 실증 수주를 확보한 HD현대중공업·한화오션 비중 확대."
+  },
+  "classification": {
+    "primary_topic": "shipbuilding",
+    "secondary_topics": [
+      "stock",
+      "economy"
+    ],
+    "tags": [
+      "MASGA",
+      "조선업회의론",
+      "해군MRO",
+      "한화오션",
+      "HD현대"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "YpPvayz3mEY",
+    "title": "클래리티 법안, 9월 15일이 분수령…연내 통과 가능할까? | 서동주, 김동환, 한서희 법무법인 광장 변호사 [크립토 PLUS]",
+    "published": "2026-08-10T10:00:00+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=YpPvayz3mEY",
+    "thumbnail": "https://img.youtube.com/vi/YpPvayz3mEY/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 상원의 <span class=\"text-cyan-300 font-semibold\">크립토 클래리티 법안(Clarity Act)</span>이 8월 토론 종결(Cloture) 제출 후 9월 15일표결을 앞두고 있음. 스테이블코인 이자 허용 및 SEC/CFTC 관할권 정리를 골자로 법제화가 순항 시 연내 통과 가능성이 높게 점쳐짐.",
+    "key_claims": [
+      "9월 15일 미 상원 서머 리세스 복귀 직후 클래리티 법안 표결이 크립토 규제 투명성의 분수령이 됨.",
+      "스테이블코인 발행사의 이자 지급 허용 여부가 은행권과 막판 쟁점으로 대립함."
+    ],
+    "data_points": [
+      "표결 예정일: 2026년 9월 15일 미 상원 표결 안건 처리 상정"
+    ],
+    "signal": "bullish",
+    "signal_confidence": "medium",
+    "signal_reason": "법안 연기에도 불구하고 9월 표결 타임라인이 구체화되며 규제 불확실성이 빠르게 해소되고 있기 때문임.",
+    "key_companies": [
+      "Coinbase",
+      "Circle"
+    ],
+    "insight": "크립토 법제화는 가상자산이 제도권 금융의 정식 자산군으로 편입되는 입법적 이정표 역할을 함.",
+    "action_point": "9월 법안 표결 진전 상황을 주시하며 비트코인 및 미국 제도권 크립토 관련주 분할 매수."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "stock",
+      "economy"
+    ],
+    "tags": [
+      "클래리티법안",
+      "9월15일표결",
+      "스테이블코인",
+      "크립토법제화"
+    ]
+  }
+}

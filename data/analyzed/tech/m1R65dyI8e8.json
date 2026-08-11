@@ -1,0 +1,39 @@
+{
+  "video": {
+    "id": "m1R65dyI8e8",
+    "title": "사상 최초 단전자 반도체 등장",
+    "published": "2026-08-10T12:00:00+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=m1R65dyI8e8",
+    "thumbnail": "https://img.youtube.com/vi/m1R65dyI8e8/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "상온에서 전자를 단 1개씩 제어하는 <span class=\"text-cyan-300 font-semibold\">단전자 트랜지스터(SET)</span> 소자가 개발되어 초저전력 차세대 AI 반도체의 한계를 극복할 기술적 돌파구가 마련됨.",
+    "key_claims": [
+      "단전자 반도체는 기존 반도체 대비 전력 소모를 1/1,000 수준으로 획기적으로 줄임.",
+      "상온 작동 기술 확보로 양자 컴퓨팅 및 차세대 초미세 공정에 실용적 적용 가능성 제시."
+    ],
+    "data_points": [],
+    "signal": "bullish",
+    "signal_confidence": "medium",
+    "signal_reason": "AI 데이터센터의 최대 병목인 전력 소모 문제를 фундамента적으로 해결할 차세대 반도체 원천기술이기 때문임.",
+    "key_companies": [
+      "TSMC",
+      "삼성전자"
+    ],
+    "insight": "전력 태우기 중심의 현재 AI 반도체 구조에서 단전자 제어 기술은 미래 10년을 좌우할 파괴적 혁신 기술임.",
+    "action_point": "차세대 초미세 반도체 원천 기술 보유 연구소 및 파운드리 대장주의 장기 관점 주시."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "단전자반도체",
+      "초저전력칩",
+      "차세대소자",
+      "상온SET"
+    ]
+  }
+}

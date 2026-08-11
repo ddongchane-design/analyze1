@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "okw-BDMWb1g",
+    "title": "CPI 발표 앞두고 금리 또 상승…엔비디아, 인텔 등 자금 조달 지속 [월가 뉴스레터]",
+    "published": "2026-08-10T22:00:00+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=okw-BDMWb1g",
+    "thumbnail": "https://img.youtube.com/vi/okw-BDMWb1g/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "7월 CPI 발표를 앞둔 관망세 속에 10년물 국채 금리가 반등함. 엔비디아의 $500억 AI 펀딩 플랫폼 구축과 인텔의 $150억 유상증자 등 <span class=\"text-cyan-300 font-semibold\">빅테크의 자금 조달 노이즈</span>가 시장 수급을 제약함.",
+    "key_claims": [
+      "CPI 발표 직전 관망세로 국채 금리가 상승하며 기술주 단기 숨고르기를 유발함.",
+      "엔비디아와 인텔의 대규모 자금 조달은 희석 우려를 낳으나 장기 CapEx 확장의 기반이 됨."
+    ],
+    "data_points": [
+      "엔비디아 AI 자금 조달 펀드: 500억 달러 규모 (사모펀드 연계)",
+      "인텔 유상증자: 150억 달러 주식 발행"
+    ],
+    "signal": "neutral",
+    "signal_confidence": "medium",
+    "signal_reason": "CPI 이벤트 전 단기 관망세와 증자 노이즈가 주가 상승폭을 제한하고 있기 때문임.",
+    "key_companies": [
+      "NVIDIA",
+      "Intel"
+    ],
+    "insight": "자금 조달로 인한 주가 단기 조정을 장기 AI 인프라 수주 확정 지표로 해석해야 함.",
+    "action_point": "CPI 결과 확인 후 단기 조정받은 반도체주 분할 매수 대응."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "CPI발표관망",
+      "엔비디아펀딩",
+      "인텔유상증자",
+      "국채금리상승"
+    ]
+  }
+}

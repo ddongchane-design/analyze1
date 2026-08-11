@@ -1,0 +1,34 @@
+{
+  "video": {
+    "id": "R8ql_yLbbEg",
+    "title": "우리가 몰랐던 매미의 길고 조용한 지하생활(갈로아)",
+    "published": "2026-08-10T09:30:00+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=R8ql_yLbbEg",
+    "thumbnail": "https://img.youtube.com/vi/R8ql_yLbbEg/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "곤충 연구자 갈로아 작가가 매미의 생태적 특성(노린재목 분화, 7~17년 지하 생활, 나무 수액 흡즙)과 울음소리 진화 과정을 해설함.",
+    "key_claims": [
+      "매미는 노린재목 곤충으로 주둥이를 통해 나무 수액을 빨아먹는 생태적 구성을 지님.",
+      "신생대에 이르러 짝짓기를 위한 울음소리 기관이 진화함."
+    ],
+    "data_points": [],
+    "signal": "na",
+    "signal_confidence": "high",
+    "signal_reason": "순수 생물학 및 곤충 생태 관련 교양 영상임.",
+    "key_companies": [],
+    "insight": "자연 곤충 생태의 특이성과 생물학적 진화 과정을 친근하게 조명한 콘텐츠임.",
+    "action_point": "투자 자산 운용과는 무관한 영상이므로 의사결정 대상에서 제외함."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [],
+    "tags": [
+      "매미생태",
+      "노린재목",
+      "갈로아",
+      "생물학"
+    ]
+  }
+}

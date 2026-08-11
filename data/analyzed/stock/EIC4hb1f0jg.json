@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "EIC4hb1f0jg",
+    "title": "'8월 전강후강' 아직 유효…삼전닉스 안정되면 코스닥 주도주는 '상승 3법'에서 나온다",
+    "published": "2026-08-10T08:00:00+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=EIC4hb1f0jg",
+    "thumbnail": "https://img.youtube.com/vi/EIC4hb1f0jg/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "8월 증시의 '전강후강' 시나리오가 유지되는 가운데, 삼성전자와 SK하이닉스가 지지선을 확보하면 코스닥 주도주 랠리가 본격화될 전망임. 특히 정부의 <span class=\"text-cyan-300 font-semibold\">상법 개정(주가누르기 방지법)</span> 및 ISA 세제 혜택 손질 등 <span class=\"text-amber-300 font-bold\">'상승 3법' 정책 수혜주</span>가 주도주로 부상할 가능성이 높음.",
+    "key_claims": [
+      "8월 초 증시 조정을 지나 중후반 턴어라운드가 가시화되는 전강후강 패턴을 나타냄.",
+      "상법 개정안(이사 충실의무 확대)과 ISA 절세 혜택 확대가 코리아 디스카운트 해소의 촉매가 됨.",
+      "반도체 대장주 안정 이후 지배구조 개선 및 주주환원 우수 기업으로 수급이 쏠릴 것임."
+    ],
+    "data_points": [
+      "지수 지지선: 삼성전자 지지선 확보 및 코스닥 하락 채널 상단 돌파 시도",
+      "ISA 세제 혜택 한도 확대 개정안 추진 중"
+    ],
+    "signal": "bullish",
+    "signal_confidence": "medium",
+    "signal_reason": "정책 모멘텀(상법 개정)과 지수 턴어라운드가 맞물리며 코스닥 주주가치 제고 종목의 상승이 기대되기 때문임.",
+    "key_companies": [
+      "삼성전자",
+      "SK하이닉스",
+      "한국전력"
+    ],
+    "insight": "단순 실적 모멘텀 외에 주주환원 법제화라는 정책적 호재가 더해지면서 한국 증시 밸류에이션 재평가 계기가 마련됨.",
+    "action_point": "상법 개정 및 ISA 혜택 관련 수혜가 명확한 고배당·주주환원 저평가 지주사 및 코스닥 실적주 매수."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "상승3법",
+      "상법개정",
+      "전강후강",
+      "주가누르기방지"
+    ]
+  }
+}

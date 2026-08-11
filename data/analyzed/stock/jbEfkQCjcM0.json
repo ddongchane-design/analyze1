@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "jbEfkQCjcM0",
+    "title": "다우 신고가 터졌다…다음은 나스닥? 9월까지 '2막 랠리' 가능성 | 한상희 한화투자증권 수석연구위원 [글로벌 인터뷰]",
+    "published": "2026-08-10T11:30:00+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=jbEfkQCjcM0",
+    "thumbnail": "https://img.youtube.com/vi/jbEfkQCjcM0/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "다우 지수의 사상 최고치 경신에 이어 나스닥 중심의 <span class=\"text-cyan-300 font-semibold\">'2막 상승 랠리'</span>가 9월 연준 금리 인하 피벗과 맞아떨어지며 전개될 전망임. 빅테크의 AI ROIC(25%)가 높게 유지되어 상승 여력이 충분함.",
+    "key_claims": [
+      "다우 지수의 신고가 돌파는 증시 상승 동력이 가치주 및 전통 제조업으로 다변화되었음을 보여줌.",
+      "빅테크의 AI 투자 수익률(ROIC)이 차입 비용을 압도하여 9월 나스닥 2막 랠리를 견인할 것임."
+    ],
+    "data_points": [
+      "빅테크 AI ROIC: 약 25% 달성 (자본 조달 금리 5~6% 대비 월등히 높음)"
+    ],
+    "signal": "bullish",
+    "signal_confidence": "high",
+    "signal_reason": "전통주(다우)와 기술주(나스닥)의 선순환 상승 및 금리 하락 피벗이 증시 2막 랠리를 지지하기 때문임.",
+    "key_companies": [
+      "Apple",
+      "Microsoft",
+      "NVIDIA"
+    ],
+    "insight": "빅테크 CapEx 우려는 25%의 압도적 AI ROIC 실적으로 무력화되며 증시 우상향 궤적을 공고히 만듦.",
+    "action_point": "9월 랠리를 앞두고 조정을 거친 빅테크 대장주 및 반도체 밸류체인 보유 전략 집행."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "다우신고가",
+      "나스닥2막랠리",
+      "AI_ROIC",
+      "9월피벗"
+    ]
+  }
+}

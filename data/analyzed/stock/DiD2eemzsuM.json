@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "DiD2eemzsuM",
+    "title": "[26.08.10 오후 방송 전체보기] 월가 \"메모리 조정 끝\"…삼전닉스 반등할까? 코스닥 8월 세번째 매수 사이드카, 증시 순환매 온기 언제까지",
+    "published": "2026-08-10T09:30:00+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=DiD2eemzsuM",
+    "thumbnail": "https://img.youtube.com/vi/DiD2eemzsuM/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "월가 주요 투자은행(모건스탠리 등)이 <span class=\"text-cyan-300 font-semibold\">메모리 반도체 주가 조정 완결</span>을 선언하며 국내 반도체 주가의 반등 기반이 마련됨. 코스닥 시장에서 매수 사이드카가 발동하며 <span class=\"text-amber-300 font-bold\">8월 전강후강 장세</span>와 함께 9월 증시 랠리 재개에 대한 기대감이 확산됨.",
+    "key_claims": [
+      "월가의 메모리 조정 완료 보고서로 반도체 업종의 투심이 급속도로 개선됨.",
+      "8월 코스닥의 잇단 사이드카 발동은 8월 턴어라운드 및 9월 전면 반등의 강력한 선행 지표임.",
+      "대장주 안정화 후 중소형 소부장 및 화장품·소비재로 순환매 확산."
+    ],
+    "data_points": [
+      "모건스탠리 2027년 빅테크 CapEx 전망: 29% 상향 제시",
+      "코스닥 8월 사이드카 횟수: 총 3회 발동"
+    ],
+    "signal": "bullish",
+    "signal_confidence": "high",
+    "signal_reason": "메모리 악재 악소멸 및 코스닥 강한 반등으로 시장의 하방 리스크가 대폭 축소되었기 때문임.",
+    "key_companies": [
+      "삼성전자",
+      "SK하이닉스",
+      "한미반도체"
+    ],
+    "insight": "반도체 피크아웃 우려가 둔화되고 유동성이 중소형주로 공급되는 구간은 하반기 주도 섹터 진입의 최적기임.",
+    "action_point": "조정세를 거친 반도체 소부장 대장주와 코스닥 강세 주도주를 중심으로 포트폴리오 비중 확대."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "월가메모리조정끝",
+      "코스닥사이드카",
+      "전강후강",
+      "증시순환매"
+    ]
+  }
+}

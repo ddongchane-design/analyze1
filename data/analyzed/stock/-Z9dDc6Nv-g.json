@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "-Z9dDc6Nv-g",
+    "title": "[8월 10일 마감시황] 삼전닉스 쉬자 코스닥으로 몰린 돈…7% 급등 뒤 진짜 매수 타이밍은?",
+    "published": "2026-08-10T08:30:00+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=-Z9dDc6Nv-g",
+    "thumbnail": "https://img.youtube.com/vi/-Z9dDc6Nv-g/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "삼성전자와 SK하이닉스가 숨고르기에 들어가자 코스닥 시장으로 자금이 쏠리며 <span class=\"text-cyan-300 font-semibold\">매수 사이드카가 발동</span>하는 순환매 장세가 연출됨. 모건스탠리의 메모리 바닥론 고수 속에 <span class=\"text-amber-300 font-bold\">소비재·2차전지·바이오</span>로 이동한 코스닥 순환매 자금의 지수 하락 채널 상단 돌파 여부가 향후 본격 매수 타이밍의 신호가 될 것임.",
+    "key_claims": [
+      "반도체 대장주의 조정을 틈타 코스닥으로 자금이 이동하며 8월 세 번째 <span class=\"text-cyan-300 font-semibold\">매수 사이드카</span>가 발동함.",
+      "모건스탠리의 메모리 바닥론 발표로 대장주 하방 지지력이 확인되자 장세 온기가 중소형주로 순환함.",
+      "코스닥 지수의 하락 채널 상단 돌파가 확인되는 시점이 9월 반등을 노리는 가장 안전한 분할 매수 타점임."
+    ],
+    "data_points": [
+      "코스닥 매수 사이드카 발동: 8월 들어 3번째 발동 (코스닥 급등세)",
+      "모건스탠리 SK하이닉스 목표가: 38.1만 원 고수"
+    ],
+    "signal": "bullish",
+    "signal_confidence": "medium",
+    "signal_reason": "대장주(삼전·닉스) 하방 지지 속에서 코스닥으로 온기가 퍼지는 양호한 순환매 장세가 형성되고 있기 때문임.",
+    "key_companies": [
+      "삼성전자",
+      "SK하이닉스",
+      "알테오젠",
+      "에코프로"
+    ],
+    "insight": "반도체 독주 장세에서 코스닥 밸류체인 및 실적 개선주로 온기가 확산되는 것은 증시 체력이 건강해지고 있음을 의미함.",
+    "action_point": "코스닥 하락 채널 상향 탈출 확인 후 밸류에이션 부담이 낮아진 반도체 전공정 및 바이오 실적주로 분할 매수 진입 권장."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "마감시황",
+      "코스닥사이드카",
+      "모건스탠리바닥론",
+      "순환매장세"
+    ]
+  }
+}

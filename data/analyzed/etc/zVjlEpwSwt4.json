@@ -1,0 +1,38 @@
+{
+  "video": {
+    "id": "zVjlEpwSwt4",
+    "title": "대통령과 연준의장은 진짜 현피를 뜬 적이 있다",
+    "published": "2026-08-11T01:30:00+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=zVjlEpwSwt4",
+    "thumbnail": "https://img.youtube.com/vi/zVjlEpwSwt4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "1965년 린든 B. 존슨 미국 대통령과 윌리엄 맥체스니 마틴 연준 의장이 금리 인상을 둘러싸고 텍사스 목장에서 벌인 정면충돌(현피) 사건을 해설하며 연준의 독립성 역사를 비하인드로 풀어냄.",
+    "key_claims": [
+      "존슨 대통령이 베트남전 자금 조달을 위해 금리 인상을 반대했으나 마틴 연준 의장이 소신을 지켜 금리를 인상함.",
+      "이 사건은 연준 통화 정책 독립성을 상징하는 역사적 이정표가 됨."
+    ],
+    "data_points": [
+      "사건 발생 연도: 1965년 텍사스 존슨 대통령 목정 회동"
+    ],
+    "signal": "na",
+    "signal_confidence": "high",
+    "signal_reason": "미국 통화정책 역사 및 연준 독립성에 관한 지식 교양 콘텐츠임.",
+    "key_companies": [],
+    "insight": "정치적 압력 속에서도 중앙은행의 독립성을 지킨 역사는 오늘날 연준 독립성 유지의 중요한 교훈임.",
+    "action_point": "투자 자산 운용과는 무관한 역사 교양 영상이므로 의사결정 대상에서 제외함."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "연준독립성",
+      "LBJ존슨대통령",
+      "마틴의장",
+      "통화정책역사"
+    ]
+  }
+}

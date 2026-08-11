@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "ZEgot4sfsVA",
+    "title": "[26.08.10 오전 방송 전체보기] 부진한 고용지표에 금리인상 전망 '뚝'...뉴욕증시 3대 지수 '상승'",
+    "published": "2026-08-10T06:00:00+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=ZEgot4sfsVA",
+    "thumbnail": "https://img.youtube.com/vi/ZEgot4sfsVA/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "부진한 미 고용 지표로 인해 연준의 금리 인상 가능성이 소멸하고 인하 명분이 커지며 뉴욕 증시 3대 지수가 강등 반등함. 팔란티어(39.8% 급등) 등 호실적 테크주와 메모리 반도체 바닥론이 시장 랠리를 전폭 지원함.",
+    "key_claims": [
+      "미 7월 비농업 고용 감소(-2.3만 명)로 금리 인상 우려가 완전 소멸함.",
+      "팔란티어의 AI 어닝 서프라이즈가 빅테크 AI CapEx 호조를 증명함."
+    ],
+    "data_points": [
+      "팔란티어 주가 상승률: 39.78%",
+      "미 7월 고용 지표: -23,000명 (예상치 대폭 하회)"
+    ],
+    "signal": "bullish",
+    "signal_confidence": "high",
+    "signal_reason": "금리 하락 완화 기조와 AI 기업들의 강력한 실증 실적이 증시 상승 모멘텀을 지지하기 때문임.",
+    "key_companies": [
+      "Palantir",
+      "NVIDIA"
+    ],
+    "insight": "고용 둔화는 금리 피벗을 이끌어내어 증시의 고평가 부담을 완화해 주는 호재로 작용함.",
+    "action_point": "금리 하락 모멘텀과 실적 가이던스를 동시에 충족하는 AI 주도주 비중 유지."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "고용지표부진",
+      "금리인하",
+      "팔란티어폭등",
+      "뉴욕증시상승"
+    ]
+  }
+}

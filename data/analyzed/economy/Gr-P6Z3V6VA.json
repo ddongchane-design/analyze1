@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "Gr-P6Z3V6VA",
+    "title": "슈퍼 엘니뇨가 온다 | 월스트리트파인더ㅣ2026.8.10(월)",
+    "published": "2026-08-10T08:00:00+00:00",
+    "channel_name": "Smart Money by MiraeAsset ",
+    "url": "https://www.youtube.com/watch?v=Gr-P6Z3V6VA",
+    "thumbnail": "https://img.youtube.com/vi/Gr-P6Z3V6VA/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "이상 기후에 따른 <span class=\"text-amber-300 font-bold\">슈퍼 엘니뇨 현상</span>이 글로벌 농산물 및 곡물 가격 인플레이션을 자극하고 있음. 8월 13F 헤지펀드 포트폴리오 공시 및 MSCI 분기 리뷰, 대만 <span class=\"text-cyan-300 font-semibold\">TSMC 7월 매출 발표</span>가 주요 수급 변수로 작용할 전망임.",
+    "key_claims": [
+      "슈퍼 엘니뇨로 인한 기후 이상이 애그플레이션(농산물 인플레이션) 우려를 자극함.",
+      "미국 13F 헤지펀드 지분 공시를 통해 빅테크 및 반도체 기관 매매 향방이 공개됨.",
+      "TSMC 7월 매출 실적이 파운드리 및 AI 반도체 수요의 강도를 판가름하는 척도가 됨."
+    ],
+    "data_points": [
+      "미국 13F 공시 마감: 8월 14일 예정",
+      "MSCI 분기 리뷰 발표: 8월 12일 현지시간 기준"
+    ],
+    "signal": "neutral",
+    "signal_confidence": "medium",
+    "signal_reason": "MSCI 리밸런싱 및 13F 발표를 앞둔 기관 관망세와 원자재 인플레이션 리스크가 수급을 제약하고 있기 때문임.",
+    "key_companies": [
+      "TSMC",
+      "NVIDIA"
+    ],
+    "insight": "기후 이상에 따른 원자재 가격 변동은 매크로 물가 상방 압력으로 작용하나, TSMC 매출을 통해 AI 하드웨어의 실질 수요는 견조함을 지속 입증하고 있음.",
+    "action_point": "13F 공시를 통한 주요 헤지펀드의 AI/반도체 포트폴리오 변화를 확인 후 매수 종목 선별."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock",
+      "tech"
+    ],
+    "tags": [
+      "슈퍼엘니뇨",
+      "TSMC7월매출",
+      "13F공시",
+      "MSCI리밸런싱"
+    ]
+  }
+}

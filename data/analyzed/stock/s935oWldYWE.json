@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "s935oWldYWE",
+    "title": "어차피 하락은 계속된다? | \"반도체 호재는 진통제일 뿐\" | 이주완 인더스트리 애널리스트 [더블 업]",
+    "published": "2026-08-11T00:30:00+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=s935oWldYWE",
+    "thumbnail": "https://img.youtube.com/vi/s935oWldYWE/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "반도체 산업 분석가 이주완 애널리스트가 HBM 공급 과잉 우려 및 스마트폰/PC 레거시 수요 둔화를 근거로 <span class=\"text-rose-400 font-medium\">메모리 장기 피크아웃 경고론</span>을 제기함.",
+    "key_claims": [
+      "HBM 고마진 착시 현상이 전체 세트(스마트폰/PC) 수요 둔화를 가리고 있음.",
+      "2027년 HBM 공급 과잉과 레거시 D램 가격 하락으로 반도체 사이클이 꺾일 수 있음."
+    ],
+    "data_points": [
+      "세트 수요 성장률: 온디바이스 AI에도 불구하고 스마트폰/PC 출하량 한 자릿수 둔화"
+    ],
+    "signal": "bearish",
+    "signal_confidence": "medium",
+    "signal_reason": "레거시 IT 세트 수요 둔화와 2027년 HBM 설비 과잉 공급 리스크를 경고하는 신중론이기 때문임.",
+    "key_companies": [
+      "삼성전자",
+      "SK하이닉스",
+      "Micron"
+    ],
+    "insight": "AI 서버 중심의 강세 뒤편에 존재하는 레거시 IT 세트 부진 리스크에 대한 균형 잡힌 시각이 필요함.",
+    "action_point": "반도체 포트폴리오 중 레거시 비중이 높은 종목은 줄이고 AI 전용 HBM/LPDDR5X 비중이 높은 종목으로 압축."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "반도체신중론",
+      "HBM공급과잉",
+      "피크아웃경고",
+      "세트수요둔화"
+    ]
+  }
+}

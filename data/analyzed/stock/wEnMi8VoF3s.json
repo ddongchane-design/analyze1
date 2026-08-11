@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "wEnMi8VoF3s",
+    "title": "하반기 코스피 여전히 위쪽…AI 자금줄 쥔 '미 국채'가 마지막 변수ㅣ홍선애, 이은택 KB증권 자산배분전략 이사 [여의도 인사이트]",
+    "published": "2026-08-11T01:00:00+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=wEnMi8VoF3s",
+    "thumbnail": "https://img.youtube.com/vi/wEnMi8VoF3s/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "KB증권 자산배분 전략에 따르면 하반기 코스피 상승 목표치(3,000+ 포인트)가 유지됨. 미국 10년물 국채 금리가 4.4% 이하로 하향 안정화되는지 여부가 AI Big Tech CapEx 및 한국 수출 증시 랠리의 마지막 변수임.",
+    "key_claims": [
+      "코스피 하반기 상방 목표는 견조하며 8월 조정을 지나 9~10월 강한 반등이 예상됨.",
+      "미 국채 금리가 안정되면 AI 자금 조달 비용 압박이 해소되어 증시 랠리가 재개됨."
+    ],
+    "data_points": [
+      "코스피 목표 지수: 하반기 3,000+ 포인트 제시",
+      "미국 10년물 국채 금리 임계점: 4.4% 이하 하향 안정화 조건"
+    ],
+    "signal": "bullish",
+    "signal_confidence": "high",
+    "signal_reason": "한국 수출 대장주의 이익 성장이 견조하고 미 국채 금리 하향 안정 시 강력한 지수 반등이 예상되기 때문임.",
+    "key_companies": [
+      "삼성전자",
+      "SK하이닉스",
+      "현대차"
+    ],
+    "insight": "미 국채 금리 안정은 AI 인프라 투자 자금 흐름을 원활히 하여 국내 반도체·자동차 수출주의 상방을 여는 핵심 트리거임.",
+    "action_point": "미 국채 금리 4.4% 이하 하락을 확인하며 코스피 대장주 및 반도체/자동차 비중 확대."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy",
+      "tech"
+    ],
+    "tags": [
+      "코스피하반기전망",
+      "미국국채금리",
+      "KB증권자산배분",
+      "AI자금줄"
+    ]
+  }
+}

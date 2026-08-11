@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "YDV50MeWpxI",
+    "title": "고용 악화 \"오히려 좋아\"...S&P500 '최고가' | 데일리 라이브 | 2026.8.10(월)",
+    "published": "2026-08-10T07:30:00+00:00",
+    "channel_name": "Smart Money by MiraeAsset ",
+    "url": "https://www.youtube.com/watch?v=YDV50MeWpxI",
+    "thumbnail": "https://img.youtube.com/vi/YDV50MeWpxI/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 <span class=\"text-amber-300 font-bold\">7월 비농업 고용 쇼크(-2.3만 명)</span>가 연준의 금리 인하(피벗) 명분을 앞당기며 S&P 500이 사상 최고치를 경신함. 동시에 일본 JBIC 및 메가뱅크의 <span class=\"text-cyan-300 font-semibold\">5,500억 달러 대미 인프라 투자</span> 프로젝트가 가시화되며 글로벌 위험 자산 선호가 강화됨.",
+    "key_claims": [
+      "고용 둔화 지표 발표가 금리 인하 기대감을 자극하여 뉴욕 증시 강세를 주도함.",
+      "일본 자본의 대미 energy/인프라 $5,500억 투자가 글로벌 유동성을 지지함."
+    ],
+    "data_points": [
+      "S&P 500: 사상 최고치 경신",
+      "일본 대미 투자 스킴: 5,500억 달러 규모 (JBIC-메가뱅크 연계)"
+    ],
+    "signal": "bullish",
+    "signal_confidence": "high",
+    "signal_reason": "미국 금리 인하 피벗 호재와 일본의 초대형 대미 투자 펀딩이 시장 유동성을 전폭 지원하기 때문임.",
+    "key_companies": [
+      "NVIDIA",
+      "Microsoft"
+    ],
+    "insight": "매크로 악재(고용 쇼크)가 통화 정책 완화라는 호재로 해석되는 전형적인 'Bad news is Good news' 장세임.",
+    "action_point": "금리 하락 수혜가 예상되는 빅테크 및 인프라 관련주에 대한 매수 관점 유지."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy",
+      "tech"
+    ],
+    "tags": [
+      "고용쇼크",
+      "연준금리인하",
+      "SP500최고가",
+      "대미투자"
+    ]
+  }
+}
