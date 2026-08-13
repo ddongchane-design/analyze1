@@ -1,0 +1,40 @@
+{
+  "video": {
+    "id": "FT07VdlQ7ME",
+    "title": "“반도체만 잘 팔리면 끝?” AI 붐을 흔드는 진짜 변수 #교양이를부탁해 #반도체 #AI버블 #데이터센터 #코스피",
+    "published": "2026-08-11T12:40:00+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=FT07VdlQ7ME",
+    "thumbnail": "https://img.youtube.com/vi/FT07VdlQ7ME/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "AI 붐의 지속성을 결정짓는 인프라 공급망 밸류체인(전력, 용수, 반도체 패키징)의 동기화 중요성을 분석함. <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>와 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>의 메모리 독점력이 굳건한 가운데, 전력망 연결 시점이 늦어질 경우 발생할 <span class=\"text-rose-400 font-medium\">단기 재고 조정 가능성</span>을 예의주시해야 함을 제언함.",
+    "key_claims": [
+      "반도체 칩 출하 대비 데이터센터 전력 수급의 시차로 인한 단기 조정 변수.",
+      "메모리 제조업체의 뛰어난 밸류에이션 하방 방어력 증명."
+    ],
+    "data_points": [],
+    "signal": "neutral",
+    "signal_reason": "글로벌 AI 밸류체인의 수급 시차 노이즈 반영.",
+    "key_companies": [
+      "SK하이닉스(000660)",
+      "삼성전자(005930)"
+    ],
+    "insight": "인프라 제약이 가져올 시차 변동성을 염두에 두고 수주 가시성이 검증된 핵심 소부장에 자금을 집약하는 지혜가 필요함.",
+    "action_point": "반도체주 호실적 모멘텀 속 전력망 이슈 발생 시 저점 매수 기회로 활용."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "energy",
+      "tech"
+    ],
+    "tags": [
+      "AI밸류체인",
+      "전력수급시차",
+      "메모리독점력",
+      "SK하이닉스",
+      "삼성전자"
+    ]
+  }
+}

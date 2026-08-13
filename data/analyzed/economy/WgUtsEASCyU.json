@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "WgUtsEASCyU",
+    "title": "[지식뉴스] \"결국 이 빚, 녹이는 수밖에 없어요\" 미국 40조 부채와 AI의 숨은 연결고리..베센트가 엔저에 개입한 진짜 이유 / 교양이를 부탁해",
+    "published": "2026-08-12T11:30:29+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=WgUtsEASCyU",
+    "thumbnail": "https://img.youtube.com/vi/WgUtsEASCyU/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국의 40조 달러 막대한 국가 부채와 인플레이션을 <span class=\"text-amber-300 font-bold\">AI 생산성 혁명</span>으로 녹여내려는 백악관의 장기 거시 전략을 정밀 분석함. 재무 당국이 엔화 방어 및 30년물 국채 금리 상승 억제에 전격 개입한 본질은 AI 빅테크들의 <span class=\"text-cyan-300 font-semibold\">CapEx 투자 유동성 파이프라인</span>을 보존하기 위함임.",
+    "key_claims": [
+      "미국 국가 부채 부풀리기를 AI가 촉발하는 거시 생산성 증가로 상쇄하려는 구상.",
+      "미 국채 30년물 금리 상승 방어를 통해 빅테크의 AI 투자 자금 경색 차단."
+    ],
+    "data_points": [
+      "미국 국가 부채 총액: 약 40조 달러 경신"
+    ],
+    "signal": "neutral",
+    "signal_reason": "거시 부채 리스크와 AI 생산성 인플레이션 흡수론의 팽팽한 교차.",
+    "key_companies": [
+      "마이크로소프트(MSFT)",
+      "엔비디아(NVDA)"
+    ],
+    "insight": "정부 부채 부담이 가중될수록 백악관은 생성형 AI가 이끄는 생산성 향상을 통해 물가 상승 압력을 흡수하는 정책을 최우선화함.",
+    "action_point": "미 국채 금리 안정화 추이 및 미국 정부의 AI 인프라 정책 모니터링."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock",
+      "tech"
+    ],
+    "tags": [
+      "미국부채40조",
+      "AI생산성혁명",
+      "국채금리방어",
+      "엔저개입",
+      "거시경제"
+    ]
+  }
+}

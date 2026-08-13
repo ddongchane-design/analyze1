@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "5wJyoYznBWk",
+    "title": "시작부터 만기까지, 중개형ISA 한편으로 끝내기!",
+    "published": "2026-08-12T01:00:02+00:00",
+    "channel_name": "Smart Money by MiraeAsset ",
+    "url": "https://www.youtube.com/watch?v=5wJyoYznBWk",
+    "thumbnail": "https://img.youtube.com/vi/5wJyoYznBWk/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">중개형 ISA</span> 계좌의 납입한도 이월 제도, 주식·ETF·채권 등 다양한 자산에 대한 <span class=\"text-amber-300 font-bold\">다각화 투자(자산배분)</span> 혜택, 그리고 3년 만기 후 연금계좌 이전 시 추가 세액공제 활용법을 다룸. 절세 및 투자 효율성을 극대화하기 위해 하루라도 일찍 가입해 한도를 축적하고 만기 자금을 연금으로 전환하는 순환 전략을 제시함.",
+    "key_claims": [
+      "ISA 계좌는 매년 2천만 원씩 납입한도가 누적 이월되므로 조기 가입이 유리함.",
+      "단일 주식 몰빵 대신 주식, 채권, 리츠 등 다변화 자산배분으로 변동성 장세에 대응 가능.",
+      "만기 자금을 60일 이내 연금계좌로 전환 시 최대 10% 추가 세액공제 혜택 부여."
+    ],
+    "data_points": [
+      "ISA 연간 납입한도: 매년 2,000만 원 (최대 1억 원까지 이월 축적 가능)",
+      "연금 전환 시 세액공제: 이전 금액의 10% (최대 300만 원 한도)"
+    ],
+    "signal": "bullish",
+    "signal_reason": "절세 혜택 및 장기 연금 전환 혜택을 통한 개인 투자자들의 자산 형성 가이드로서 유용함.",
+    "key_companies": [
+      "미래에셋증권"
+    ],
+    "insight": "고금리·고물가 시대에 단순 예적금을 넘어 절세 계좌(ISA)를 기반으로 한 복리 및 자산 배분 전략이 자산가치의 핵심 보루임.",
+    "action_point": "ISA 계좌를 미개설했다면 즉시 개설하여 연간 납입한도를 확보하고, 만기 시 연금저축/IRP 이전 혜택을 적극 활용할 것."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "중개형ISA",
+      "절세혜택",
+      "자산배분",
+      "연금전환",
+      "세액공제"
+    ]
+  }
+}

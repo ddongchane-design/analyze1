@@ -1,0 +1,36 @@
+{
+  "video": {
+    "id": "w6Zfi8dY6ao",
+    "title": "[26.08.12 오전 방송 전체보기] 미·이란 협상 불안과 CPI 발표 경계감 속 뉴욕증시 하락 마감",
+    "published": "2026-08-12T03:15:31+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=w6Zfi8dY6ao",
+    "thumbnail": "https://img.youtube.com/vi/w6Zfi8dY6ao/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국과 이란의 평화 협상 지정학적 난항과 7월 CPI 발표를 앞둔 시장의 관망세로 뉴욕증시가 약세를 보임. 지정학적 유가 상승 압력에도 불구하고 <span class=\"text-cyan-300 font-semibold\">빅테크 AI CapEx 실적</span>이 하방 지지력을 형성하는 <span class=\"text-amber-300 font-bold\">혼조세 장세</span>를 분석함.",
+    "key_claims": [
+      "중동 지정학 불안과 CPI 대기 심리로 뉴욕 증시 단기 숨고르기.",
+      "유가 상승 노이즈 속에서도 빅테크들의 인프라 투자 가이던스는 굳건."
+    ],
+    "data_points": [],
+    "signal": "neutral",
+    "signal_reason": "지정학 노이즈와 CPI 지표 발표 전 관망세 심리 우세.",
+    "key_companies": [],
+    "insight": "매크로 지표 발표 직전의 불안은 과도한 투매를 자제하고 펀더멘탈 우량주를 저점 체크하는 적기임.",
+    "action_point": "CPI 결과 발표 확인 전 관망 기조 속 반도체주 분할 대응."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "뉴욕증시하락",
+      "미이란협상",
+      "CPI경계감",
+      "매크로관망세",
+      "삼프로TV"
+    ]
+  }
+}

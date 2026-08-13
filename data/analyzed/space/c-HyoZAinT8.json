@@ -1,0 +1,41 @@
+{
+  "video": {
+    "id": "c-HyoZAinT8",
+    "title": "중국 스페이스x 따라잡나?",
+    "published": "2026-08-12T08:30:09+00:00",
+    "channel_name": "안될공학 - IT 테크 신기술",
+    "url": "https://www.youtube.com/watch?v=c-HyoZAinT8",
+    "thumbnail": "https://img.youtube.com/vi/c-HyoZAinT8/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "중국이 차세대 재사용 로켓 '창정 10B' 시험 발사에서 스페이스X의 다리 착륙 방식 대신 <span class=\"text-cyan-300 font-semibold\">그물 포획(Net Capture) 방식</span>을 도입함. 착륙 충격을 포획 그물이 완수하여 로켓 기체 무게를 경량화하는 혁신을 시도 중이나, 정밀 제어 난이도라는 <span class=\"text-rose-400 font-medium\">기술적 난관</span>이 존재함.",
+    "key_claims": [
+      "중국의 그물 포획 방식 재사용 로켓 개발로 발사체 무게 경량화 도모.",
+      "스페이스X 발사체 독점에 대응한 국가 차원의 우주 기술 자립 속도전."
+    ],
+    "data_points": [
+      "중국 창정 10B 로켓: 넷 캡처 그물 완충 장치 적용"
+    ],
+    "signal": "neutral",
+    "signal_reason": "중국의 우주 기술 독자 개발 시도에 따른 글로벌 우주 패권 경쟁 다변화 분석.",
+    "key_companies": [
+      "스페이스X(SpaceX)",
+      "블루오리진(Blue Origin)"
+    ],
+    "insight": "글로벌 재사용 발사체 기술이 다변화되면서 우주 소부장 및 발사체 회수 솔루션 기술의 가치가 급상승 중임.",
+    "action_point": "글로벌 민간 우주 기업들의 로켓 회수 방식 및 발사체 비용 절감 기술 발전 동향 주시."
+  },
+  "classification": {
+    "primary_topic": "space",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "중국우주기술",
+      "재사용로켓",
+      "그물포획방식",
+      "창정10B",
+      "스페이스X경쟁"
+    ]
+  }
+}

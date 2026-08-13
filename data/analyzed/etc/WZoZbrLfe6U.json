@@ -1,0 +1,36 @@
+{
+  "video": {
+    "id": "WZoZbrLfe6U",
+    "title": "갑자기 시원해졌는데, 폭염 끝난 걸까?",
+    "published": "2026-08-12T02:00:30+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=WZoZbrLfe6U",
+    "thumbnail": "https://img.youtube.com/vi/WZoZbrLfe6U/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "한반도를 뒤덮었던 티베트 고기압과 북태평양 고기압의 이중 폭염 기조가 일시 후퇴하며 기온이 하강한 과학적 메커니즘을 해설함. 차가운 상공 기압골 유입에 따른 일시적 소강상태이며 늦더위 수증기 유입 가능성을 교양 기상학 관점에서 짚음.",
+    "key_claims": [
+      "북태평양 고기압 수퇴와 상공 차가운 공기 유입으로 폭염 일시 소강.",
+      "기후 변동성에 따른 여름철 2차 늦더위 및 국지성 호우 기조 모니터링."
+    ],
+    "data_points": [],
+    "signal": "neutral",
+    "signal_reason": "기상학적 기온 변화 및 대기 대순환 해설 영상.",
+    "key_companies": [],
+    "insight": "기후 변화에 따른 폭염과 기온 변동성은 냉방 전력 수요 및 농산물 물가(신선식품 CPI)에 직접적 변수로 작용함.",
+    "action_point": "여름철 기후 변동에 따른 전력 계통 및 기후 관련 원자재 물가 변동 모니터링."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "폭염끝",
+      "기상학",
+      "북태평양고기압",
+      "기후변화",
+      "안될과학"
+    ]
+  }
+}

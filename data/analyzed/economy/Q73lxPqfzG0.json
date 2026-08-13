@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "Q73lxPqfzG0",
+    "title": "AI '돈줄'까지 연결됐다? 미·일이 엔화 방어에 나선 이유",
+    "published": "2026-08-12T11:15:35+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=Q73lxPqfzG0",
+    "thumbnail": "https://img.youtube.com/vi/Q73lxPqfzG0/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국과 일본 재무 당국이 엔화 급락을 방어하기 위해 <span class=\"text-cyan-300 font-semibold\">공동 외환 개입</span>을 단행한 거시 경제적 배경을 다룸. 엔저 청산(Yen Carry Trade Unwind)에 따른 글로벌 유동성 위축이 빅테크들의 <span class=\"text-rose-400 font-medium\">AI CapEx 자금 조달</span>에 영향을 미치는 것을 막기 위해 미 국채 금리 상방 억제 및 외환 방어에 나선 것으로 해석됨.",
+    "key_claims": [
+      "미-일 연합 외환 시장 개입으로 엔화 하방 방어 및 글로벌 유동성 경색 차단.",
+      "미 국채 30년물 금리 상승 억제를 통한 빅테크 AI 자금 조달 비용 완화."
+    ],
+    "data_points": [
+      "미국 30년물 국채 금리: 5.28% 억제 방어선 설정"
+    ],
+    "signal": "neutral",
+    "signal_reason": "외환 및 국채 금리 안정화 조치에도 불구하고 지정학 및 거시 유동성 관망세 지지.",
+    "key_companies": [
+      "엔비디아(NVDA)",
+      "마이크로소프트(MSFT)"
+    ],
+    "insight": "거시 통화 및 외환 정책이 빅테크의 AI 투자 자금 유동성을 보존하는 핵심 가이드라인으로 작용함.",
+    "action_point": "미 국채 금리 추이 및 엔/달러 환율 변동성 모니터링."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock",
+      "tech"
+    ],
+    "tags": [
+      "엔화방어",
+      "미일외환개입",
+      "엔캐리트레이드",
+      "AI자금조달",
+      "국채금리"
+    ]
+  }
+}

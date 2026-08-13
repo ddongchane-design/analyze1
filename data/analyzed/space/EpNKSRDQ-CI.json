@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "EpNKSRDQ-CI",
+    "title": "[지식뉴스] \"머스크의 1조 달러 잭팟\" 스페이스X와 테슬라 합병설, 진짜 머스크의 계획",
+    "published": "2026-08-12T13:00:00+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=EpNKSRDQ-CI",
+    "thumbnail": "https://img.youtube.com/vi/EpNKSRDQ-CI/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "일론 머스크의 스페이스X 상장 및 테슬라와의 우회 합병 구상을 정밀 분석함. 우주 제조, <span class=\"text-cyan-300 font-semibold\">스타링크 위성 네트워크</span>, 테슬라 자율주행 AI의 결합을 통해 <span class=\"text-amber-300 font-bold\">1조 달러 통합 생태계</span> 구축이 논의되는 한편, 지분 희석 이슈와 SEC 규제 등 <span class=\"text-rose-400 font-medium\">지배구조 관련 장애물</span>도 동시에 존재함을 강조함.",
+    "key_claims": [
+      "스페이스X 스타링크와 테슬라 자율주행 AI의 물리적 네트워크 결합 시도.",
+      "일론 머스크 그룹 전반의 자금 조달 및 지배구조 재편 가능성."
+    ],
+    "data_points": [
+      "스페이스X 기업가치 평가액: 주당 150달러 상회 및 2,000억 달러 이상 추산"
+    ],
+    "signal": "bullish",
+    "signal_reason": "스페이스X 상장 모멘텀과 테슬라 기술 시너지에 따른 주가 상방 압력 유효.",
+    "key_companies": [
+      "테슬라(TSLA)",
+      "스페이스X(SpaceX)"
+    ],
+    "insight": "우주항공과 육상 AI의 결합은 단순한 기업 합병을 넘어 미래 산업 주도권을 재편하는 메가 트렌드임.",
+    "action_point": "스페이스X의 상장 타임라인 및 테슬라 자율주행 소프트웨어 업데이트 일정 체크."
+  },
+  "classification": {
+    "primary_topic": "space",
+    "secondary_topics": [
+      "stock",
+      "tech"
+    ],
+    "tags": [
+      "스페이스X",
+      "테슬라합병",
+      "스타링크",
+      "머스크계획",
+      "우주생태계"
+    ]
+  }
+}

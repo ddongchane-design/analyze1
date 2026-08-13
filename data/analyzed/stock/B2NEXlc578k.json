@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "B2NEXlc578k",
+    "title": "\"장부에 안 적히는 빚이 있다?\" 빅테크 데이터센터 뒤에 숨은 위험 #교양이를부탁해 #반도체 #AI버블 #데이터센터 #코스피",
+    "published": "2026-08-12T11:45:00+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=B2NEXlc578k",
+    "thumbnail": "https://img.youtube.com/vi/B2NEXlc578k/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "빅테크들이 AI 데이터센터 구축 자금을 마련하기 위해 특수목적법인(SPC)을 활용한 <span class=\"text-rose-400 font-medium\">부외부채(Off-Balance Sheet Debt)</span> 구조화를 가동함. 재무제표 부채비율 상승을 감추면서 과도한 레버리지를 일으키는 연계 금융 방식은 향후 금리 변동성이나 데이터센터 수요 감소 시 <span class=\"text-rose-400 font-medium\">금융 우발 채무 뇌관</span>으로 작동할 수 있음.",
+    "key_claims": [
+      "SPC 및 하이퍼스케일 임대 계약을 통한 재무제표 외 부채 확산 위험.",
+      "레버리지에 기반한 과도한 데이터센터 우회 증설이 금융 시스템의 잠재 리스크 유발."
+    ],
+    "data_points": [
+      "글로벌 빅테크 데이터센터 우회 레버리지 금융 발행액 증가 추세"
+    ],
+    "signal": "bearish",
+    "signal_reason": "빅테크 재무제표 우회 부채 증가 및 차등 레버리지 노출에 따른 리스크 고조.",
+    "key_companies": [
+      "마이크로소프트(MSFT)",
+      "구글(GOOGL)",
+      "오라클(ORCL)"
+    ],
+    "insight": "AI 인프라 확장이 정통 재무제표를 넘어 위험 금융 기법으로 연계될 경우 레버리지에 의한 후폭풍을 경계해야 함.",
+    "action_point": "빅테크 기업들의 부외 부채 비율 및 레버리지 구조 정밀 체크 후 보수적 접근."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "부외부채",
+      "SPC금융",
+      "데이터센터위험",
+      "레버리지",
+      "AI버블"
+    ]
+  }
+}

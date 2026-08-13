@@ -1,0 +1,36 @@
+{
+  "video": {
+    "id": "QWu3V_Xl5hU",
+    "title": "태풍 찬홈, 한국 쪽으로 방향 틀었다. 우리나라까지 영향 줄까?",
+    "published": "2026-08-11T11:00:05+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=QWu3V_Xl5hU",
+    "thumbnail": "https://img.youtube.com/vi/QWu3V_Xl5hU/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "태풍 '찬홈'의 경로가 기온 및 기압 배치 변화로 한국 방향으로 변경된 기상역학적 원인을 분석함. 수온 기조와 북태평양 고기압의 경계선 이동에 따라 <span class=\"text-violet-300 font-medium\">한반도 상륙 리스크</span> 및 집중호우 피해 우려를 교양 기상학 관점에서 해설함.",
+    "key_claims": [
+      "태풍 찬홈의 기압 경로 변경에 따른 기상 변화 분석.",
+      "해수면 온도 상승과 북태평양 고기압 기조가 태풍 이동 경로에 미치는 기상학적 영향."
+    ],
+    "data_points": [],
+    "signal": "neutral",
+    "signal_reason": "기상 과학 및 태풍 경로 해설 콘텐츠.",
+    "key_companies": [],
+    "insight": "기후 변화에 따른 태풍 이동 경로의 불확실성이 커지면서 기상 모니터링 및 재난 대비 인프라의 중요성이 증대됨.",
+    "action_point": "여름철 기상 재난 및 수해 대비 방재·농업 수혜주 동향 모니터링."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "태풍찬홈",
+      "기상학",
+      "태풍경로",
+      "기후변화",
+      "안될과학"
+    ]
+  }
+}

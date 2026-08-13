@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "YAcLrEYopzM",
+    "title": "일본 빚이 1경인데 빚 더 늘리는 이유 (한국외대 융합일본지역학부 이창민 교수)",
+    "published": "2026-08-11T12:25:21+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=YAcLrEYopzM",
+    "thumbnail": "https://img.youtube.com/vi/YAcLrEYopzM/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "일본 국가 부채가 1경 엔을 상회함에도 불구하고 다카이치 등 정가의 <span class=\"text-violet-300 font-medium\">적극 재정파</span>들이 국채 발행 및 재정 지출을 확대하려는 논리를 분석함. 엔저와 디플레이션 탈출, <span class=\"text-cyan-300 font-semibold\">반도체 및 미래 첨단 산업 국유화/보조금 지원</span>을 위해 재정 확대를 밀어붙이는 일본 거시 정책을 진단함.",
+    "key_claims": [
+      "일본 1경 엔 부채에도 불구하고 성장 동력 확보를 위한 적극 재정 지출 강행.",
+      "반도체(라피더스, TSMC 구마모토 공장) 보조금 지원 등 산업 정책 자금 투입."
+    ],
+    "data_points": [
+      "일본 국가 부채 규모: 1경 엔 상회"
+    ],
+    "signal": "neutral",
+    "signal_reason": "일본 적극 재정에 따른 디플레 탈출 기대와 국가 부채 이자 부담 리스크의 대립.",
+    "key_companies": [
+      "TSMC(TSM)",
+      "라피더스(Rapidus)"
+    ],
+    "insight": "일본의 적극 재정 행보는 국가 부채 위험을 감수하면서도 첨단 반도체 제조 부활에 국력을 쏟겠다는 산업 정책적 결단임.",
+    "action_point": "일본의 반도체 보조금 집행 및 엔/달러 환율 방향성 모니터링."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock",
+      "tech"
+    ],
+    "tags": [
+      "일본부채1경",
+      "이창민교수",
+      "적극재정파",
+      "엔저정책",
+      "반도체보조금"
+    ]
+  }
+}

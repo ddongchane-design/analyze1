@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "M1ESaXWUOa0",
+    "title": "[박신영의 개장전요것만-8월12일] 네비우스, 클라우드 매출 500%↑ | \"스페이스X 두 배 이상 간다\"",
+    "published": "2026-08-12T14:00:00+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=M1ESaXWUOa0",
+    "thumbnail": "https://img.youtube.com/vi/M1ESaXWUOa0/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "AI 특화 클라우드 기업 <span class=\"text-cyan-300 font-semibold\">네비우스(Nebius)</span>의 분기 클라우드 매출이 전년 대비 <span class=\"text-amber-300 font-bold\">500% 폭증</span>하며 주가가 급등함. 동시에 스페이스X의 주당 150달러선 상장 안착 모멘텀과 스타링크 기반 우주 경제 가치가 재평가됨.",
+    "key_claims": [
+      "네비우스의 클라우드 매출 500% 폭증으로 AI 호스팅 인프라 수혜 입증.",
+      "스페이스X 비상장 시가총액 상승에 따른 테슬라 및 우주 항공 밸류체인 멀티플 팽창."
+    ],
+    "data_points": [
+      "네비우스 클라우드 분기 매출 성장률: 전년 대비 500% 폭증"
+    ],
+    "signal": "bullish",
+    "signal_reason": "네오클라우드 매출 폭증 및 스페이스X 상장 모멘텀 호조.",
+    "key_companies": [
+      "네비우스(NBIS)",
+      "스페이스X(SpaceX)",
+      "테슬라(TSLA)"
+    ],
+    "insight": "AI 인프라 호스팅과 우주 위성 인터넷망의 고성장은 글로벌 기술주 시장의 가장 강한 두 축으로 작용함.",
+    "action_point": "네오클라우드 및 우주항공 핵심 부품사 포트폴리오 비중 확대."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "space",
+      "tech"
+    ],
+    "tags": [
+      "네비우스",
+      "NBIS",
+      "클라우드500%성장",
+      "스페이스X",
+      "AI호스팅"
+    ]
+  }
+}

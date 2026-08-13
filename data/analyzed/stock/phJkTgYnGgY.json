@@ -1,0 +1,39 @@
+{
+  "video": {
+    "id": "phJkTgYnGgY",
+    "title": "아직은 추세 이탈 아닌 변동성…삼전닉스 매도 신호는 없었다ㅣ명민준, 박가영, 차영주 [주린이 구조대]",
+    "published": "2026-08-12T13:30:31+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=phJkTgYnGgY",
+    "thumbnail": "https://img.youtube.com/vi/phJkTgYnGgY/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "삼성전자와 SK하이닉스의 기술적 차트 및 기관 매매 수급을 정밀 분석하며 <span class=\"text-cyan-300 font-semibold\">추세 훼손 신호가 없음</span>을 확인점함. 외국인 차익 실현과 단기 미수 정리 과정의 변동성일 뿐이며, 영업이익 가시성과 HBM 독점력이 유지되는 한 <span class=\"text-amber-300 font-bold\">상승 사이클</span>은 이어질 것으로 진단함.",
+    "key_claims": [
+      "삼전·닉스의 52주 고점 후 조정은 추세 이탈이 아닌 단순 수급 조정.",
+      "반도체 턴어라운드 및 HBM 수요 가시성이 유지되어 매도 실익 없음."
+    ],
+    "data_points": [],
+    "signal": "bullish",
+    "signal_reason": "기술적 및 기본적 분석상 추세 유지가 확인되며 수급 털어내기 후 재반등 기대.",
+    "key_companies": [
+      "삼성전자(005930)",
+      "SK하이닉스(000660)"
+    ],
+    "insight": "실적 피크아웃 신호가 없는 대장주의 단기 조정은 개미 털기 구간이며 기술적 지지선 확인이 중요함.",
+    "action_point": "패닉 셀을 지양하고 기술적 이평선 지지 확인 후 홀딩 유지."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "삼전닉스",
+      "추세유지",
+      "반도체차트",
+      "차영주",
+      "매도신호없음"
+    ]
+  }
+}

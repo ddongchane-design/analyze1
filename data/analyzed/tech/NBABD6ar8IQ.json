@@ -1,0 +1,38 @@
+{
+  "video": {
+    "id": "NBABD6ar8IQ",
+    "title": "동물원정대 시즌2 몰아보기ㅣZoo Rangers2ㅣAI Animation",
+    "published": "2026-08-11T05:22:02+00:00",
+    "channel_name": "Smart Money by MiraeAsset ",
+    "url": "https://www.youtube.com/watch?v=NBABD6ar8IQ",
+    "thumbnail": "https://img.youtube.com/vi/NBABD6ar8IQ/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "생성형 AI로 제작된 브랜드 애니메이션 '동물원정대 시즌 2'를 통해 검증되지 않은 정보와 <span class=\"text-rose-400 font-medium\">딥페이크/가짜 뉴스</span>가 만드는 위험을 경고함. 데이터 마을 모험 스토리를 통해 올바른 정보 선별과 <span class=\"text-amber-300 font-bold\">디지털 리터러시</span>의 중요성을 교양적으로 전달함.",
+    "key_claims": [
+      "AI 애니메이션 제작 기술을 활용한 금융사 콘텐츠 마케팅 시도.",
+      "가짜 정보 및 허위 데이터 확산 방지를 위한 리터러시 강화 메시지."
+    ],
+    "data_points": [],
+    "signal": "neutral",
+    "signal_reason": "AI 애니메이션 마케팅 및 데이터 교양 콘텐츠.",
+    "key_companies": [
+      "미래에셋증권"
+    ],
+    "insight": "생성형 AI 기술이 영상 제작 인프라를 혁신하는 동시에, 정보의 신뢰성 검증 기술에 대한 수요를 창출함.",
+    "action_point": "AI 영상 제작 소프트웨어 및 정보 검증 솔루션 시장 동향 관심."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "etc"
+    ],
+    "tags": [
+      "동물원정대",
+      "AI애니메이션",
+      "미래에셋",
+      "가짜뉴스경고",
+      "디지털리터러시"
+    ]
+  }
+}

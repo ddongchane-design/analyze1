@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "HLbCi52epWw",
+    "title": "[박신영의 개장전요것만-8월11일] AI 연이은 해킹 사고에 팔로알토 주목 | MS 자체 AI칩에 마벨 수혜",
+    "published": "2026-08-11T14:00:55+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=HLbCi52epWw",
+    "thumbnail": "https://img.youtube.com/vi/HLbCi52epWw/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "프런티어 AI 모델의 취약점과 보안 젤브레이크(Jailbreak) 해킹 사고가 빈번해짐에 따라 <span class=\"text-cyan-300 font-semibold\">팔로알토 네트워크(PANW)</span> 등 AI 보안 기업들의 주가가 급등함. 동시에 마이크로소프트의 자체 AI 가속기(Maia) 탈엔비디아 내재화로 맞춤형 주문형 반도체(<span class=\"text-cyan-300 font-semibold\">ASIC</span>) 제조사인 마벨 테크놀로지(MRVL)가 수혜주로 부상함.",
+    "key_claims": [
+      "AI 탈옥 및 보안 사고 증가로 기업들의 AI 프런티어 보안 구축 지출 폭증.",
+      "마이크로소프트 자체 AI 칩 증설에 따른 마벨(Marvell)의 ASIC 설계 수주 확대."
+    ],
+    "data_points": [
+      "팔로알토 네트워크 주가 상승세 및 AI 사이버 보안 수주 호조"
+    ],
+    "signal": "bullish",
+    "signal_reason": "AI 보안 필수화 및 빅테크 자체 ASIC AI 칩 생태계 확장 모멘텀.",
+    "key_companies": [
+      "팔로알토 네트워크(PANW)",
+      "마이크로소프트(MSFT)",
+      "마벨 테크놀로지(MRVL)"
+    ],
+    "insight": "AI 인프라 확장의 차세대 축은 AI 모델의 탈옥 방지 및 보안 거버넌스와 칩 내재화를 위한 맞춤형 ASIC 생태계임.",
+    "action_point": "AI 보안 수혜주(PANW) 및 빅테크 자체 칩 파트너사(MRVL) 비중 확대."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "팔로알토",
+      "AI보안",
+      "마벨테크놀로지",
+      "ASIC",
+      "자체AI칩"
+    ]
+  }
+}

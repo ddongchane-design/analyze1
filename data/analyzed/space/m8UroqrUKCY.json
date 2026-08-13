@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "m8UroqrUKCY",
+    "title": "스페이스X AI 접고 PC방 차렸습니다 (유진투자증권 정의훈 연구원) | 2026년 08월 10일 녹화",
+    "published": "2026-08-11T07:55:10+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=m8UroqrUKCY",
+    "thumbnail": "https://img.youtube.com/vi/m8UroqrUKCY/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">스페이스X(SpaceX)</span>의 상장 이후 실적 발표 데이터를 분석하며, 단순 궤도 발사를 넘어 <span class=\"text-cyan-300 font-semibold\">스타링크 위성 서비스 구독</span>과 우주 제조 캡슐 회수 사업으로 수익성을 고도화하는 흐름을 조명함. 상장 초기 주가 변동성을 이겨내기 위해 스타링크 캐시카우 실현 여부 확인이 필수적임을 조언함.",
+    "key_claims": [
+      "스페이스X의 매출 구조가 발사체 중심에서 스타링크 서비스 구독 현금 흐름으로 전환.",
+      "상장 직후 변동성 장세 속에서 스타링크 캐시카우 및 우주 회수 캡슐 실적 검증 진증."
+    ],
+    "data_points": [
+      "스타링크 구독자 수 및 궤도 위성 군집 운용 규모 지속 확대"
+    ],
+    "signal": "neutral",
+    "signal_reason": "우주 사업의 구조적 성장세는 확실하나 상장 초기 주가 변동성에 유의 필요.",
+    "key_companies": [
+      "스페이스X(SpaceX)",
+      "테슬라(TSLA)",
+      "유진투자증권"
+    ],
+    "insight": "민간 우주 기업의 성공은 발사 횟수 이상으로 스타링크 등 실질 월 구독료 기반의 캐시카우 구축 여부에 달림.",
+    "action_point": "스페이스X의 실질 캐시카우 수치와 스타링크 가입자 추이 모니터링."
+  },
+  "classification": {
+    "primary_topic": "space",
+    "secondary_topics": [
+      "stock",
+      "tech"
+    ],
+    "tags": [
+      "스페이스X",
+      "스타링크",
+      "우주경제",
+      "정의훈",
+      "우주캐시카우"
+    ]
+  }
+}

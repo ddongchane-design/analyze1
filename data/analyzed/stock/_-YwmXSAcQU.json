@@ -1,0 +1,39 @@
+{
+  "video": {
+    "id": "_-YwmXSAcQU",
+    "title": "\"조정은 끝\" 삼성전자가 50만원을 가려면 넘어야할 고개ㅣ차영주 와이즈경제연구소 소장 [집중 오늘의 주식]",
+    "published": "2026-08-12T11:30:03+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=_-YwmXSAcQU",
+    "thumbnail": "https://img.youtube.com/vi/_-YwmXSAcQU/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">삼성전자(005930)</span>의 단기 조정을 완료하고 장기 목표가 달성을 위해 넘어야 할 핵심 과제로 <span class=\"text-cyan-300 font-semibold\">HBM3E/HBM4 품질 승인</span>과 파운드리 수율 개선을 꼽음. D램 판가 상승에 따른 우수한 실적 기반이 갖춰진 만큼 <span class=\"text-amber-300 font-bold\">상방 모멘텀 재개</span> 가능성을 높게 평가함.",
+    "key_claims": [
+      "삼성전자 단기 조정 마감 및 HBM 품질 퀄테스트 통과가 주가 대폭 재평가의 열쇠.",
+      "범용 D램 판가 상승과 파운드리 수율 개선에 따른 체질 개선 전망."
+    ],
+    "data_points": [],
+    "signal": "bullish",
+    "signal_reason": "조정 마감 신호와 HBM 승인 기대감에 따른 삼성전자 장기 상승 턴어라운드.",
+    "key_companies": [
+      "삼성전자(005930)",
+      "SK하이닉스(000660)"
+    ],
+    "insight": "삼성전자가 HBM4 규격 통과 및 파운드리 턴키 수주를 입증하면 시가총액의 거대한 주가 레벨업이 성사됨.",
+    "action_point": "삼성전자 저점 분할 매수 및 엔비디아 퀄테스트 관련 공시 확인."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "삼성전자",
+      "HBM3E퀄테스트",
+      "차영주",
+      "반도체턴어라운드",
+      "파운드리수율"
+    ]
+  }
+}

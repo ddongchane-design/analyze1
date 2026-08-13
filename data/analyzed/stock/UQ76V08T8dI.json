@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "UQ76V08T8dI",
+    "title": "[LIVE] 매출 5.8억 달러인데 57억 달러 투자…네비우스는 돈을 어디서 구했나 | 이나연 특파원",
+    "published": "2026-08-12T21:16:21+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=UQ76V08T8dI",
+    "thumbnail": "https://img.youtube.com/vi/UQ76V08T8dI/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "AI 클라우드 기업 <span class=\"text-cyan-300 font-semibold\">네비우스(Nebius)</span>의 주가가 30% 이상 폭등한 사업 모델을 정밀 분석함. 분기 매출 5.8억 달러의 10배인 57억 달러를 투자할 수 있었던 비결은 <span class=\"text-amber-300 font-bold\">고객 선결제 자금(90억 달러 이상)</span>을 미리 받아 GPU와 데이터센터를 짓는 파이프라인 덕분이며, 에비타 마진율 49%를 달성함.",
+    "key_claims": [
+      "네비우스 2분기 매출 5.8억 달러(454% 성장), AI 클라우드 매출 5.7억 달러(514% 성장).",
+      "고객사 선결제(90억 달러 이상)로 투자금을 조달하는 선순환 데이터센터 증설 모델 확립.",
+      "AI 클라우드 사업부의 조정 EBITDA 마진율 49% 달성으로 흑자 구조 안착."
+    ],
+    "data_points": [
+      "네비우스 2분기 매출: 5억 8,230만 달러 (전년 대비 454% 급증)",
+      "고객 선결제 예상 규모: 90억 달러 상회",
+      "조정 EBITDA 마진율: 49% 흑자 달성"
+    ],
+    "signal": "bullish",
+    "signal_reason": "고객 선결제 기반 자금 선순환과 에비타 마진 49%로 입증된 네오클라우드의 강력한 수익성.",
+    "key_companies": [
+      "네비우스(NBIS)",
+      "마이크로소프트(MSFT)",
+      "메타(META)",
+      "엔비디아(NVDA)"
+    ],
+    "insight": "AI 컴퓨팅 자원은 이제 서비스 개시 전 고객이 먼저 대금을 납입하는 강력한 매도자 우위 시장(Seller's Market)임.",
+    "action_point": "네비우스 및 AI 클라우드 인프라주 추가 상승 모멘텀 보유."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "네비우스",
+      "NBIS",
+      "선결제모델",
+      "EBITDA마진49%",
+      "AI클라우드"
+    ]
+  }
+}

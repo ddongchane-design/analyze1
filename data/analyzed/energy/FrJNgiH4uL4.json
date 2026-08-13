@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "FrJNgiH4uL4",
+    "title": "“반도체만 잘 팔리면 끝?” AI 붐을 흔드는 진짜 변수 #교양이를부탁해 #반도체 #AI버블 #데이터센터 #코스피",
+    "published": "2026-08-11T12:30:00+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=FrJNgiH4uL4",
+    "thumbnail": "https://img.youtube.com/vi/FrJNgiH4uL4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "AI 반도체 수요가 견고하더라도 <span class=\"text-rose-400 font-medium\">전력망 둔화와 변압기 쇼티지</span>가 해결되지 않으면 데이터센터 실가동이 불가능한 구조적 불균형을 경고함. 반면 HBM 생산 쏠림으로 인한 <span class=\"text-cyan-300 font-semibold\">범용 DRAM 공급 억제</span> 효과는 한국 메모리 2사의 마진률을 사상 최고치로 견인하는 안전판으로 작동 중임.",
+    "key_claims": [
+      "전력 인프라 지연이 AI 가속기 실가동을 가로막는 최대 병목 요인.",
+      "HBM 쏠림에 따른 레거시 DRAM 공급 부족으로 메모리 판가 상승세 고착화."
+    ],
+    "data_points": [
+      "글로벌 초고압 변압기 리드타임: 평균 3~4년 소요"
+    ],
+    "signal": "neutral",
+    "signal_reason": "전력 병목 리스크와 메모리 반도체 공급 부족 마진 상승 수혜가 팽팽히 대립함.",
+    "key_companies": [
+      "SK하이닉스(000660)",
+      "삼성전자(005930)",
+      "HD현대일렉트릭(267260)"
+    ],
+    "insight": "AI 반도체 구매를 넘어 전력망 및 송배전 기기를 제때 확보한 하이퍼스케일러만이 최종 실적 성과를 거둘 수 있음.",
+    "action_point": "전력 송배전 기기주(HD현대일렉트릭 등)와 메모리 톱픽의 분산 보유 권장."
+  },
+  "classification": {
+    "primary_topic": "energy",
+    "secondary_topics": [
+      "stock",
+      "tech"
+    ],
+    "tags": [
+      "전력병목",
+      "변압기쇼티지",
+      "DRAM공급부족",
+      "HBM쏠림",
+      "메모리마진"
+    ]
+  }
+}

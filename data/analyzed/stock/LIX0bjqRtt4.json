@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "LIX0bjqRtt4",
+    "title": "엔비디아 칩을 담보로 돈을 빌려준다? 월가가 만든 희한한 자금 조달법",
+    "published": "2026-08-12T12:00:00+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=LIX0bjqRtt4",
+    "thumbnail": "https://img.youtube.com/vi/LIX0bjqRtt4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "월가 금융사들이 <span class=\"text-cyan-300 font-semibold\">엔비디아 H100/B200 GPU가속기</span> 현물을 물리적 담보로 설정하여 자금을 대출해 주는 신종 담보대출(<span class=\"text-amber-300 font-bold\">Asset-Backed Finance</span>) 기법을 정밀 조명함. 사모펀드(Blackstone 등)의 대출 파이프라인이 AI 스타트업의 설비 투자를 촉진하나, 칩 감가상각 및 차세대 칩 출시 시 <span class=\"text-rose-400 font-medium\">담보 가치 폭락 리스크</span>가 상존함.",
+    "key_claims": [
+      "엔비디아 GPU를 금융 실물 담보로 활용한 월가의 파격적 신종 자금 조달 구조.",
+      "사모부채(Private Credit) 펀드들이 AI 데이터센터 차입 금리를 보증하는 순환 금융 확산.",
+      "차세대 AI 칩 출시에 따른 기존 H100 담보 가치 하락 및 청산 뇌관 경계."
+    ],
+    "data_points": [
+      "GPU 담보 대출 규모: 수십억 달러 단위 자금 구조화 집행"
+    ],
+    "signal": "neutral",
+    "signal_reason": "AI 하드웨어 펀딩의 유동성 공급과 담보 가치 훼손 리스크가 동시에 팽팽함.",
+    "key_companies": [
+      "엔비디아(NVDA)",
+      "블랙스톤(BX)",
+      "코어위브(CoreWeave)"
+    ],
+    "insight": "AI 가속기가 실물 금융 상품 및 담보 자산으로 승격되었으나, 칩의 빠른 감가상각 주기가 새로운 금융 리스크를 낳을 수 있음.",
+    "action_point": "GPU 담보대출 기반 AI 스타트업의 재무 건전성 및 신규 칩 교체 주기 변동성 체크."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "GPU담보대출",
+      "엔비디아H100",
+      "월가순환금융",
+      "사모부채",
+      "담보가치위험"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "s0UZeF1a0Mg",
+    "title": "[박신영의 개장전요것만-8월12일] 네비우스, 클라우드 매출 500%↑ | \"스페이스X 두 배 이상 간다\"",
+    "published": "2026-08-12T14:16:18+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=s0UZeF1a0Mg",
+    "thumbnail": "https://img.youtube.com/vi/s0UZeF1a0Mg/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 7월 근원 CPI가 2.5% 상승하며 시장 예상치에 부합하자 국채 금리가 하락하고 나스닥 선물이 강세를 기록함. AI 클라우드 매출이 514% 폭증한 <span class=\"text-cyan-300 font-semibold\">네비우스(NBIS)</span>와 상장 프리미엄이 고조된 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>가 기술주 랠리를 진두지휘함.",
+    "key_claims": [
+      "7월 미국 CPI 3.4%(근원 2.5%)로 시장 예상치에 완벽히 부합하여 인플레이션 안도감 제공.",
+      "네비우스의 2분기 AI 클라우드 매출 5억 7,500만 달러(514% 폭증) 발표로 호스팅 수혜 입증."
+    ],
+    "data_points": [
+      "미국 7월 근원 CPI: 전년 동월 대비 2.5% 상승 (예상 부합)",
+      "네비우스 AI 클라우드 매출: 5억 7,500만 달러 (전년비 514% 급증)",
+      "국제 유가: WTI 배럴당 82.78달러 선 기록"
+    ],
+    "signal": "bullish",
+    "signal_reason": "CPI 부합 안도감과 네비우스 호실적 발표에 따른 기술주 랠리 가속.",
+    "key_companies": [
+      "네비우스(NBIS)",
+      "스페이스X(SpaceX)",
+      "엔비디아(NVDA)"
+    ],
+    "insight": "거시 통화 인플레 압력 해소와 테크 기업의 실질 매출 폭발이 조화를 이루는 안정적 랠리 구간에 진입함.",
+    "action_point": "미국 테크 클라우드 및 우주 경제 수혜주 포트폴리오 비중 유지."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "space",
+      "economy"
+    ],
+    "tags": [
+      "네비우스",
+      "514%급증",
+      "미국7월CPI",
+      "스페이스X",
+      "나스닥상승"
+    ]
+  }
+}

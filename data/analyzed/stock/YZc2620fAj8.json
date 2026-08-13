@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "YZc2620fAj8",
+    "title": "[어바웃 뉴욕] 샐러드 공포가 덮친 미국…카바는 왜 스위트그린과 달랐나 | 이나연 특파원",
+    "published": "2026-08-12T03:06:20+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=YZc2620fAj8",
+    "thumbnail": "https://img.youtube.com/vi/YZc2620fAj8/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 내 양상추 기생충 감염 리콜 사태로 샐러드 업계가 직격탄을 맞은 가운데, 단일 샐러드 전문점(스위트그린)과 달리 곡물 및 단백질 다변화 메뉴를 갖춘 <span class=\"text-cyan-300 font-semibold\">카바(CAVA)</span>의 매출 탄력성을 비교 분석함. <span class=\"text-amber-300 font-bold\">공급망 안전성과 메뉴 다변화</span>가 외식업 유통의 핵심 경쟁력임을 증명함.",
+    "key_claims": [
+      "양상추 기생충 노이즈로 샐러드 업계 리콜 공포 및 수급 불확실성 증대.",
+      "지중해식 패스트 캐주얼 카바(CAVA)의 메뉴 다변화 및 공급망 관리 우위로 실적 호조."
+    ],
+    "data_points": [
+      "미국 패스트 캐주얼 샐러드 한 끼 평균 가격: 12달러~18달러선 형성"
+    ],
+    "signal": "neutral",
+    "signal_reason": "외식업계 식품 안전 노이즈 속 수혜 기업(CAVA)과 피해 기업 간 실적 양극화.",
+    "key_companies": [
+      "카바(CAVA)",
+      "스위트그린(SG)",
+      "월마트(WMT)"
+    ],
+    "insight": "식품 유통업에서 단일 재료 의존도가 높은 기업은 공급망 사고 시 치명적이나, 메뉴 다각화 구조를 갖춘 기업은 위기를 기회로 전환함.",
+    "action_point": "미국 헬시 패스트 캐주얼 기업 CAVA의 실적 및 식품 안전 공급망 모니터링."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "etc"
+    ],
+    "tags": [
+      "카바",
+      "CAVA",
+      "스위트그린",
+      "샐러드리콜",
+      "패스트캐주얼"
+    ]
+  }
+}

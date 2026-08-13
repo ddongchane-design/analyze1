@@ -1,0 +1,40 @@
+{
+  "video": {
+    "id": "nzbzMi9rlNw",
+    "title": "[어바웃 뉴욕] \"팔란티어 실적 93% 급등… 미국 상업 매출 폭발\" | 이나연 특파원",
+    "published": "2026-08-12T03:15:00+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=nzbzMi9rlNw",
+    "thumbnail": "https://img.youtube.com/vi/nzbzMi9rlNw/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">팔란티어(PLTR)</span>의 분기 매출이 전년 대비 <span class=\"text-amber-300 font-bold\">93% 급등</span>하며 뉴욕증시에서 폭등세를 기록함. 미국 상업 고객 매출이 149% 폭증함에 따라 단순 정부 군수 계약을 넘어 민간 빅테크 기업들의 AI 거버넌스 필수 인프라로 자리 잡았음이 증명됨.",
+    "key_claims": [
+      "팔란티어의 미국 상업 매출 149% 증가로 민간 AI 소프트웨어 시장 압도.",
+      "AIP 온톨로지 플랫폼 확장에 따른 계약 잔고 폭증 및 마진 대폭 상향."
+    ],
+    "data_points": [
+      "팔란티어 분기 매출 성장률: 93% (미국 상업 매출 149% 증가)"
+    ],
+    "signal": "bullish",
+    "signal_reason": "팔란티어의 미국 상업 시장 폭발적 성장과 실질 AI 소프트웨어 매출 증명.",
+    "key_companies": [
+      "팔란티어(PLTR)"
+    ],
+    "insight": "기업들이 AI 모델을 도입할 때 데이터 통제권과 실질 업무 연결(온톨로지)을 선점한 플랫폼 기업이 엔터프라이즈 AI 시장의 최대 수혜자가 됨.",
+    "action_point": "팔란티어 및 실적 성장세가 가시화된 AI 테크 솔루션주 보유."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "팔란티어",
+      "PLTR",
+      "상업매출149%",
+      "AIP",
+      "엔터프라이즈AI"
+    ]
+  }
+}

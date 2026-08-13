@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "K2WMj9XER3A",
+    "title": "[박신영의 개장전요것만-8월13일] 엔비디아·MS·구글 실적 가이던스 상회 | 코스피 반도체 순환매 지속",
+    "published": "2026-08-13T00:10:00+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=K2WMj9XER3A",
+    "thumbnail": "https://img.youtube.com/vi/K2WMj9XER3A/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "빅테크 M7(엔비디아, MS, 구글)의 3분기 실적 가이던스가 시장 예상치를 웃돌며 기술주 주가 상승세를 이끔. 국내 증시에서는 대장주 SK하이닉스의 독주에 이어 저평가된 <span class=\"text-cyan-300 font-semibold\">전공정 장비 및 수주 부품주</span>로 온기가 퍼지는 <span class=\"text-amber-300 font-bold\">반도체 온기 순환매</span>가 지속되는 양상임.",
+    "key_claims": [
+      "빅테크들의 강한 실적 가이던스가 AI 인프라 투자 지속 가능성을 보증함.",
+      "코스피 반도체 투톱 중심에서 코스닥 핵심 장비주로 자금이 확산되는 순환매 장세 전개."
+    ],
+    "data_points": [
+      "엔비디아 및 M7 실적 가이던스: 상향 조정 유지"
+    ],
+    "signal": "bullish",
+    "signal_reason": "미국 빅테크 호실적 가이던스와 국내 반도체 전공정 밸류체인 순환매 호조.",
+    "key_companies": [
+      "엔비디아(NVDA)",
+      "마이크로소프트(MSFT)",
+      "SK하이닉스(000660)",
+      "원익IPS(030530)"
+    ],
+    "insight": "빅테크 CapEx 가이던스가 훼손되지 않는 한, 반도체 밸류체인의 낙수 효과는 후공정 HBM에서 전공정 레거시 장비사로 확대됨.",
+    "action_point": "실적 상향 조정이 이어지는 반도체 전공정 장비 및 소재주 보유."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "엔비디아가이던스",
+      "반도체순환매",
+      "SK하이닉스",
+      "전공정장비",
+      "M7실적"
+    ]
+  }
+}

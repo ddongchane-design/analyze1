@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "ah1IcZntJIk",
+    "title": "“오픈AI까지 돈이 부족하다?” AI 붐의 예상 못 한 위기 #교양이를부탁해 #반도체 #AI버블 #데이터센터 #코스피",
+    "published": "2026-08-12T11:00:23+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=ah1IcZntJIk",
+    "thumbnail": "https://img.youtube.com/vi/ah1IcZntJIk/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">오픈AI</span>와 앤스로픽 등 최고위 AI 연구소들이 막대한 데이터센터 임대료와 컴퓨팅 조달로 인한 <span class=\"text-rose-400 font-medium\">자금 경색(CapEx 부담)</span>에 직면함. 금리 부담과 기존 주주의 지분 희석 반대로 유상증자 및 IPO 추진이 지연되면서, 신규 펀딩 및 칩 담보 채권 발행 등 고위험 구조화 금융이 유행하고 있음.",
+    "key_claims": [
+      "오픈AI 및 스타트업들의 천문학적 컴퓨팅 비용 부담으로 IPO 및 추가 자금 조달 압박 심화.",
+      "기존 주주 반대 및 고금리로 인한 증자 및 채권 발행 제약이 AI 생태계의 뇌관으로 부각.",
+      "가을-내년 봄 사이 대규모 신주 발행 및 IPO 물량이 시장으로 쏟아질 가능성 경계."
+    ],
+    "data_points": [
+      "OpenAI 및 Anthropic 등 주요 AI 스타트업의 자체 데이터센터 소유 비율: 0% (전량 임대 운영)"
+    ],
+    "signal": "bearish",
+    "signal_reason": "AI 대표 스타트업들의 캐시카우 부재와 데이터센터 임대료 부담에 따른 유동성 리스크가 부각됨.",
+    "key_companies": [
+      "OpenAI",
+      "Anthropic",
+      "마이크로소프트(MSFT)"
+    ],
+    "insight": "AI 모델 고도화 경쟁 속에서 수익화(ROI) 증명이 지연될 경우, 과도한 부채 및 지분 희석에 따른 밸류에이션 하향 조정 압력이 거세질 수 있음.",
+    "action_point": "스타트업 기반 AI 관련주의 조달 리스크 경계 및 확실한 현금 창출력을 갖춘 플랫폼 기업 위주 재편."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock",
+      "economy"
+    ],
+    "tags": [
+      "오픈AI",
+      "자금경색",
+      "AI데이터센터",
+      "IPO연기",
+      "유동성리스크"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "9UtyoY9dV_A",
+    "title": "[박신영의 개장전요것만-8월13일] 애플 실적 회복에 반도체 밸류체인 수혜 | \"AI 버블 아냐\" 반박 확산",
+    "published": "2026-08-13T00:00:00+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=9UtyoY9dV_A",
+    "thumbnail": "https://img.youtube.com/vi/9UtyoY9dV_A/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">애플(AAPL)</span>의 온디바이스 AI 탑재 신제품 수요 회복과 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>, TSMC 등 부품 밸류체인의 실적 견인력이 확인됨. 월가 일각의 <span class=\"text-rose-400 font-medium\">AI 버블론</span>에 대해 빅테크들의 하이퍼스케일 수주잔고와 생산성 향상 데이터가 논박 조항으로 작동하며 반도체 투심이 회복세로 전환됨.",
+    "key_claims": [
+      "애플의 실적 반등과 AI 기기 교체 주기가 부품 공급망(메모리, 파운드리)의 매출 확대로 연결됨.",
+      "월가 주요 기관들이 AI 설비 투자 대비 ROI 창출이 차례로 가시화되고 있음을 들어 버블론을 반박함."
+    ],
+    "data_points": [
+      "미국 나스닥 지수: 기술주 저가 매수세 유입으로 반등"
+    ],
+    "signal": "bullish",
+    "signal_reason": "애플 밸류체인 수혜 및 AI 버블 의구심 완화로 반도체 및 빅테크 중심의 상승 모멘텀 재개.",
+    "key_companies": [
+      "애플(AAPL)",
+      "SK하이닉스(000660)",
+      "TSMC(TSM)",
+      "엔비디아(NVDA)"
+    ],
+    "insight": "AI 인프라 투자가 빅테크 실적과 유통 기기(온디바이스 AI) 실물 수요로 실질화되는 국면에서 반도체 대장주의 마진 가시성이 강화됨.",
+    "action_point": "애플 AI 스마트폰 공급망 부품사 및 HBM 공급사 중심의 포트폴리오 유지."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "애플실적",
+      "AI버블논박",
+      "SK하이닉스",
+      "온디바이스AI",
+      "반도체밸류체인"
+    ]
+  }
+}

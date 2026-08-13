@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "Lnn5JCY69Ts",
+    "title": "[어바웃 뉴욕] \"스페이스X 상장하면 테슬라 두 배 간다\" | 이나연 특파원",
+    "published": "2026-08-12T03:30:00+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=Lnn5JCY69Ts",
+    "thumbnail": "https://img.youtube.com/vi/Lnn5JCY69Ts/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">스페이스X(SpaceX)</span>의 상장(IPO) 성사 시 일론 머스크의 십자 지분 구조 및 브랜드 파워에 입힘어 <span class=\"text-cyan-300 font-semibold\">테슬라(TSLA)</span> 주가가 2배 이상 재평가될 수 있다는 투자 보고서를 분석함. 스타링크 매출의 기하급수적 성장과 <span class=\"text-amber-300 font-bold\">우주 제조 캡슐 회수</span> 사업 가치 반영이 핵심 상승 밸류로 지목됨.",
+    "key_claims": [
+      "스페이스X 상장 시 머스크 그룹 지배구조 프리미엄으로 테슬라 멀티플 대폭 상향 가능성.",
+      "스타링크 및 우주 물류 사업의 수혜로 우주 항공 산업의 투자 붐 가속."
+    ],
+    "data_points": [
+      "스페이스X 목표 시가총액: 3,000억~5,000억 달러 이상 상장 목표"
+    ],
+    "signal": "bullish",
+    "signal_reason": "스페이스X 상장 흥행 기대감과 테슬라의 동반 밸류 상향 프리미엄 모멘텀.",
+    "key_companies": [
+      "스페이스X(SpaceX)",
+      "테슬라(TSLA)"
+    ],
+    "insight": "우주항공 대장주의 상장은 단순한 1개 기업 상장을 넘어 우주 경제 밸류체인 전반의 멀티플을 재평가시키는 기폭제임.",
+    "action_point": "스페이스X IPO 타임라인 관련 보도와 국내 우주항공 관련 부품주 추이 모니터링."
+  },
+  "classification": {
+    "primary_topic": "space",
+    "secondary_topics": [
+      "stock",
+      "tech"
+    ],
+    "tags": [
+      "스페이스X상장",
+      "테슬라2배",
+      "스타링크",
+      "우주항공IPO",
+      "머스크그룹"
+    ]
+  }
+}

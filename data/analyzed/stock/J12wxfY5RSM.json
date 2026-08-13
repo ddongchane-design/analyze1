@@ -1,0 +1,40 @@
+{
+  "video": {
+    "id": "J12wxfY5RSM",
+    "title": "시중은행보다 돈 더 버는 증권사... 미래에셋 분기 순익 1.9조 달성 [뉴스3]",
+    "published": "2026-08-12T22:30:00+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=J12wxfY5RSM",
+    "thumbnail": "https://img.youtube.com/vi/J12wxfY5RSM/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">미래에셋증권</span>이 해외 분산 자산의 트레이딩 및 수수료 수입 급증으로 2분기 분기 순이익 <span class=\"text-amber-300 font-bold\">1조 9,000억 원</span>을 기록하며 시중 4대 은행을 제치고 금융권 1위를 차지함. 국내외 증시 거래대금 증가와 글로벌 IB 자산 평가이익이 실적 어닝 서프라이즈를 견인함.",
+    "key_claims": [
+      "미래에셋증권 분기 순이익 1.9조 원 달성으로 시중은행 영업이익 수치 추월.",
+      "해외 자산 포트폴리오 트레이딩 성과와 거래대금 증가가 실적 성장을 인도."
+    ],
+    "data_points": [
+      "미래에셋증권 2분기 순이익: 1조 9,000억 원 (사상 최대 기록)"
+    ],
+    "signal": "bullish",
+    "signal_reason": "증권 대장주의 사상 최대 실적 달성과 대형 금융주 밸류에이션 재평가 호조.",
+    "key_companies": [
+      "미래에셋증권(006800)"
+    ],
+    "insight": "증시 유동성 회복과 대형 IB의 글로벌 자산배분 성과가 결합될 때 증권주의 수익 창출력이 기존 은행권을 압도할 수 있음을 입증함.",
+    "action_point": "대형 증권주 및 금융 지주사 위주의 실적 모멘텀주 분할 매수."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "미래에셋증권",
+      "분기순익1.9조",
+      "어닝서프라이즈",
+      "금융주",
+      "증시유동성"
+    ]
+  }
+}

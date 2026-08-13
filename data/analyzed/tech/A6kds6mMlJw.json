@@ -1,0 +1,40 @@
+{
+  "video": {
+    "id": "A6kds6mMlJw",
+    "title": "용산 아이맥스 매진 사례... '오디세이'의 압도적 비주얼 비밀",
+    "published": "2026-08-12T11:00:00+00:00",
+    "channel_name": "안될공학 - IT 테크 신기술",
+    "url": "https://www.youtube.com/watch?v=A6kds6mMlJw",
+    "thumbnail": "https://img.youtube.com/vi/A6kds6mMlJw/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "크리스토퍼 놀란 감독의 영화 '오디세이'가 장편 영화 최초로 전 편을 <span class=\"text-cyan-300 font-semibold\">IMAX 70mm 1565 필름 카메라</span>로 촬영하여 극장 티켓 매진 행렬을 일으킴. 대형 필름 구동 시 발생하는 기계 소음을 차단하는 <span class=\"text-cyan-300 font-semibold\">대형 방음 블림프 하우징</span> 기술 개발이 풀 렌즈 촬영 성공의 결정적 전기가 됨.",
+    "key_claims": [
+      "1565 규격 필름의 압도적 면적과 해상도로 극장 전용 프리미엄 관람 경험을 제공.",
+      "카메라 소음제어 방음 블림프 하우징 기술 혁신이 대화 장면 포함 전편 촬영을 가능하게 함."
+    ],
+    "data_points": [
+      "IMAX 1565 규격 필름: 초당 24프레임 구동 시 1분당 100m 필름 이동"
+    ],
+    "signal": "neutral",
+    "signal_reason": "영상 및 음향 엔지니어링 기술 혁신 사례로 시장 수혜는 개별 멀티플렉스 프리미엄관에 국한됨.",
+    "key_companies": [
+      "IMAX"
+    ],
+    "insight": "OTT 스트리밍 시대에 오프라인 극장이 생존하기 위해 초고화질 아날로그 필름엔지니어링 등 초격차 차별화 경험이 필수적임.",
+    "action_point": "프리미엄 멀티플렉스 관람 트렌드와 하이엔드 찰영 장비 엔지니어링 생태계 트렌드 관찰."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "etc"
+    ],
+    "tags": [
+      "아이맥스",
+      "오디세이",
+      "1565필름",
+      "놀란감독",
+      "카메라엔지니어링"
+    ]
+  }
+}

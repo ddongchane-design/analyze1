@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "vaVGAtlxGfI",
+    "title": "모건스탠리 “메모리 조달 FOMO”ㅣ앤트로픽·유니트리 상장 러시ㅣ브렌트유 장중 90달러 돌파ㅣ테슬라·스페이스X 합병, 머스크 1조달러 잭팟? | 홍혜진의 뉴욕브리핑",
+    "published": "2026-08-11T14:15:48+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=vaVGAtlxGfI",
+    "thumbnail": "https://img.youtube.com/vi/vaVGAtlxGfI/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "모건스탠리가 글로벌 빅테크들의 <span class=\"text-cyan-300 font-semibold\">메모리 조달 FOMO</span> 상태를 보고하며 한국 메모리 2사의 가격 결정권을 높이 평가함. 동시에 앤스로픽, 유니트리 등 AI 및 휴머노이드 상장 러시와 국제 유가 90달러 돌파에 따른 <span class=\"text-rose-400 font-medium\">거시 인플레 리스크</span>를 종합 다룸.",
+    "key_claims": [
+      "모건스탠리의 글로벌 서버 업체 메모리 칩 확보 경쟁(FOMO) 진단.",
+      "앤스로픽(AI) 및 유니트리(휴머노이드)의 IPO 추진으로 피지컬 AI 투자 붐 가속."
+    ],
+    "data_points": [
+      "브렌트유 가격: 장중 배럴당 90달러 돌파"
+    ],
+    "signal": "bullish",
+    "signal_reason": "메모리 칩 조달 FOMO와 AI/휴머노이드 기업 상장 러시로 반도체 및 테크주 강력 수혜.",
+    "key_companies": [
+      "SK하이닉스(000660)",
+      "삼성전자(005930)",
+      "Anthropic",
+      "Unitree"
+    ],
+    "insight": "AI 모델과 로봇 기업들의 상장 열풍은 하드웨어 실물 부품을 공급하는 메모리와 액추에이터 제조업체의 마진을 사상 최고치로 당겨옴.",
+    "action_point": "메모리 조달 수혜주(SK하이닉스) 및 피지컬 AI 로봇 관련주 비중 확정."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "robot"
+    ],
+    "tags": [
+      "모건스탠리",
+      "메모리FOMO",
+      "유니트리IPO",
+      "앤스로픽",
+      "SK하이닉스"
+    ]
+  }
+}

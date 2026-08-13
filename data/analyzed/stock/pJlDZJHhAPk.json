@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "pJlDZJHhAPk",
+    "title": "물가 지표 공개 앞두고 유가 급등...미국증시 약보합 | 데일리 라이브 | 2026.8.11(화)",
+    "published": "2026-08-11T11:13:48+00:00",
+    "channel_name": "Smart Money by MiraeAsset ",
+    "url": "https://www.youtube.com/watch?v=pJlDZJHhAPk",
+    "thumbnail": "https://img.youtube.com/vi/pJlDZJHhAPk/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "호르무즈 해협 관련 지정학적 봉쇄 노이즈로 <span class=\"text-violet-300 font-medium\">국제 유가가 5% 급등</span>하며 미국 증시가 약보합을 기록함. 한편 인텔(INTEL)이 피지컬 AI 및 목적 기반 칩 증설 자금을 마련하기 위해 <span class=\"text-rose-400 font-medium\">150억 달러 규모 유상증자</span>를 전격 발표하며 반도체 투심에 충격을 줌.",
+    "key_claims": [
+      "중동 지정학 불안에 따른 유가 급등이 인플레이션 경계감 유발.",
+      "인텔의 150억 달러 유상증자 발표로 주주가치 희석 우려 및 기술주 하방 압력."
+    ],
+    "data_points": [
+      "미국 국채 30년물 금리: 5.28% 기록 (2007년 이후 최고)",
+      "인텔 유상증자 발표 규모: 150억 달러",
+      "WTI 유가 상승률: 5% 내외 급등"
+    ],
+    "signal": "bearish",
+    "signal_reason": "국제 유가 급등 인플레 압력과 인텔의 대규모 유상증자에 따른 기술주 투심 악화.",
+    "key_companies": [
+      "인텔(INTC)",
+      "미래에셋증권"
+    ],
+    "insight": "경쟁력이 악화된 기술 기업의 대규모 유상증자는 주주 가치를 훼손하며 반도체 업종 내 수급 차별화를 심화시킴.",
+    "action_point": "유상증자 리스크가 존재하는 2등주 대신 실적 펀더멘탈이 확실한 1등주로 압축."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy",
+      "energy"
+    ],
+    "tags": [
+      "유가급등",
+      "인텔유상증자",
+      "미국증시약보합",
+      "30년물금리",
+      "지정학리스크"
+    ]
+  }
+}

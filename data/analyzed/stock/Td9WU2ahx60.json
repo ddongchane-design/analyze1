@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "Td9WU2ahx60",
+    "title": "[지식뉴스] \"엔비디아칩이 금융상품 됐다\" AI를 담보 잡아 본격적으로 돈 풀기 시작한 월가...지금부터 봐야 할 진짜 돈의 흐름 / 교양이를 부탁해",
+    "published": "2026-08-11T13:00:10+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=Td9WU2ahx60",
+    "thumbnail": "https://img.youtube.com/vi/Td9WU2ahx60/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "월가 금융권이 엔비디아 GPU를 담보로 대출 자금을 제공하는 <span class=\"text-cyan-300 font-semibold\">실물 자산 담보 금융(Asset-Backed Debt)</span> 메커니즘을 파헤침. 사모펀드 자금이 AI 호스팅 기업에 쏟아져 들어가며 유동성을 공급하고 있으나, 차세대 칩 출시 시 발생할 <span class=\"text-rose-400 font-medium\">기존 담보 가치 폭락 리스크</span>를 경고함.",
+    "key_claims": [
+      "엔비디아 GPU 가속기를 실물 금융 담보로 인정한 월가의 파격적 사모 대출 구조화.",
+      "레버리지에 기반한 과도한 GPU 구매가 차세대 칩(B200/R100) 출시에 따라 감가상각 위험 고조."
+    ],
+    "data_points": [
+      "월가 사모펀드의 GPU 담보 대출 집행액: 수십억 달러 연계"
+    ],
+    "signal": "neutral",
+    "signal_reason": "신종 AI 금융 기법을 통한 유동성 공급과 감가상각 리스크의 팽팽한 대립.",
+    "key_companies": [
+      "엔비디아(NVDA)",
+      "블랙스톤(BX)",
+      "코어위브(CoreWeave)"
+    ],
+    "insight": "AI 하드웨어의 자산화는 유동성 공급에는 긍정적이나, 감가상각 속도가 가파른 기술 자산 특성상 금융 리스크의 연쇄를 유발할 수 있음.",
+    "action_point": "GPU 담보 자금 구조를 활용한 AI 기업의 부채 비율 및 차세대 칩 교체 주기 모니터링."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "GPU담보금융",
+      "엔비디아칩자산화",
+      "월가자금흐름",
+      "사모펀드대출",
+      "감가상각위험"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "FO5wiBbYx54",
+    "title": "데이터센터 절반이 지연? 주민들이 돌아선 이유 #교양이를부탁해 #반도체 #AI버블 #데이터센터 #코스피",
+    "published": "2026-08-11T12:00:31+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=FO5wiBbYx54",
+    "thumbnail": "https://img.youtube.com/vi/FO5wiBbYx54/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "글로벌 AI 데이터센터 신규 공사의 50% 이상이 지역 주민의 <span class=\"text-rose-400 font-medium\">소음·용수 반대(NIMBY)</span>와 전력망 규제 허가 지연으로 차질을 겪는 현상을 조명함. 지역 고용 창출 효과는 적은 반면 막대한 전력 소모와 소음 피해로 지자체 인허가가 병목으로 부각되면서 <span class=\"text-amber-300 font-bold\">AI 인프라 확장 속도</span>에 제동이 걸리고 있음.",
+    "key_claims": [
+      "글로벌 AI 데이터센터 증설 공사의 50% 이상이 인허가 및 주민 반대로 일정이 지연됨.",
+      "전력 과부하와 소음, 냉각용 용수 부족 이슈가 지역 정가의 민원 뇌관으로 작동.",
+      "데이터센터 증설 지연에 따른 자본 비용(CapEx 이자 부담) 상승 리스크."
+    ],
+    "data_points": [
+      "글로벌 신규 데이터센터 사업 지연 비율: 약 50% 상회"
+    ],
+    "signal": "bearish",
+    "signal_reason": "전력 및 지자체 인허가 병목으로 인한 AI 데이터센터 확장 속도 지연 및 차입 비용 증가.",
+    "key_companies": [
+      "마이크로소프트(MSFT)",
+      "오라클(ORCL)",
+      "코어위브(CoreWeave)"
+    ],
+    "insight": "하드웨어 수급 이상으로 전력망 연결 및 지자체 인허가 등 오프라인 물리적 규제가 AI 생태계 병목의 실질 변수로 부상함.",
+    "action_point": "독립 전력망 및 이미 인허가를 완료한 데이터센터 운용사 위주의 선별적 투자."
+  },
+  "classification": {
+    "primary_topic": "energy",
+    "secondary_topics": [
+      "tech",
+      "stock"
+    ],
+    "tags": [
+      "데이터센터지연",
+      "전력병목",
+      "NIMBY현상",
+      "인허가병목",
+      "AI인프라"
+    ]
+  }
+}

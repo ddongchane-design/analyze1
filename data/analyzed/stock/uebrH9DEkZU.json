@@ -1,0 +1,41 @@
+{
+  "video": {
+    "id": "uebrH9DEkZU",
+    "title": "IMF 때보다 힘들었다. 한국만 뜯어먹힌 이유 (AFW파트너스 이선엽 대표) | 26년 08월 11일 녹화",
+    "published": "2026-08-12T07:55:17+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=uebrH9DEkZU",
+    "thumbnail": "https://img.youtube.com/vi/uebrH9DEkZU/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "7월 한국 증시가 글로벌 최악의 폭락을 경험한 원인을 수급과 반대매매 구조 관점에서 분석함. 해외 매크로 악재보다 <span class=\"text-rose-400 font-medium\">국내 신용 반대매매 폭탄</span>과 자산가들의 청산이 겹친 쏠림 현상이었으며, 실적 펀더멘탈(반도체 마진)이 살아있는 만큼 <span class=\"text-amber-300 font-bold\">과도한 하락 후 반등 타당성</span>을 보증함.",
+    "key_claims": [
+      "한국 증시 폭락의 본질은 글로벌 펀더멘탈 훼손이 아닌 국내 신용 털어내기 수급 폭탄.",
+      "반도체 대장주의 영업이익률 및 FCF 펀더멘탈이 견고하여 V자 반등 여력 상존."
+    ],
+    "data_points": [
+      "코스피 7월 한 달 하락 폭: 약 22%~23% 기록 (역대급 단기 낙폭)"
+    ],
+    "signal": "bullish",
+    "signal_reason": "수급 투매로 인한 과도한 저평가 상태로 반도체 펀더멘탈 기반 기술적 강반등 유력.",
+    "key_companies": [
+      "SK하이닉스(000660)",
+      "삼성전자(005930)"
+    ],
+    "insight": "펀더멘탈과 괴리된 수급 악재성 폭락은 시장 참여자에게 극도의 고통을 주지만, 동시에 사상 최대의 저점 매수 기회를 제공함.",
+    "action_point": "신용 청산이 마무리된 수주형 반도체 대장주의 바닥 매수 전략 실행."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "한국증시폭락",
+      "이선엽",
+      "신용반대매매",
+      "수급청산",
+      "반도체펀더멘탈"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "WxeERpOAHqI",
+    "title": "[문지웅의 빅머니 LIVE] 코어위브, 네비우스 폭등 이유 | 메모리 반도체 일제히 상승  | 7월 CPI 괜찮았지만 유가불안",
+    "published": "2026-08-12T21:59:47+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=WxeERpOAHqI",
+    "thumbnail": "https://img.youtube.com/vi/WxeERpOAHqI/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "코어위브와 네비우스 등 네오클라우드 기업들의 호실적에 입힘어 글로벌 메모리 반도체 주가가 일제히 상승함. 7월 미국 CPI가 안정세를 보였으나 국제 유가 급등 노이즈가 상방을 제한하는 <span class=\"text-amber-300 font-bold\">차별화 실적 랠리</span>를 진단함.",
+    "key_claims": [
+      "코어위브와 네비우스의 AI 호스팅 폭등이 메모리 반도체 밸류체인 상승을 유인.",
+      "미국 CPI 안정 속 유가 변동성이 거시 관망 요인으로 상존."
+    ],
+    "data_points": [
+      "네비우스 AI 클라우드 매출 상승률: 514% 폭등"
+    ],
+    "signal": "bullish",
+    "signal_reason": "AI 인프라 호스팅 폭등과 메모리 반도체 일제 상승 모멘텀.",
+    "key_companies": [
+      "코어위브(CoreWeave)",
+      "네비우스(NBIS)",
+      "SK하이닉스(000660)",
+      "삼성전자(005930)"
+    ],
+    "insight": "유가 불안 노이즈에도 불구하고 AI 인프라 수주 둔화가 없다는 데이터가 확인되면 반도체 주도주의 상승은 지속됨.",
+    "action_point": "실적 모멘텀이 검증된 메모리 2사 및 네오클라우드 밸류체인 수혜주 보유."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "코어위브",
+      "네비우스",
+      "메모리반도체상승",
+      "7월CPI",
+      "빅머니LIVE"
+    ]
+  }
+}

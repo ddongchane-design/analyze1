@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "iGVJJuQt77Y",
+    "title": "시가총액 1위 SK하이닉스의 의미 | 삼프로TV 오늘 주식",
+    "published": "2026-08-11T11:00:00+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=iGVJJuQt77Y",
+    "thumbnail": "https://img.youtube.com/vi/iGVJJuQt77Y/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">SK하이닉스(000660)</span>가 코스피 보통주 시가총액 1위로 역전 등극하는 역사적 장세가 전개됨. HBM 시장 독점력과 압도적 영업이익률이 만든 거대한 <span class=\"text-amber-300 font-bold\">반도체 주도권 재편</span>이며, 자금이 코스닥의 저평가된 전공정 장비주로 확산되는 대세 상승장의 신호탄으로 평가됨.",
+    "key_claims": [
+      "SK하이닉스의 시가총액 보통주 1위 등극으로 국내 반도체 패러다임 재편 증명.",
+      "HBM 독점력에 따른 실적 가시성이 코스닥 전공정 소부장으로의 순환매 자극."
+    ],
+    "data_points": [
+      "SK하이닉스 코스피 시가총액 보통주 기준 1위 등극",
+      "반도체 업종이 코스피 전체 시가총액에서 차지하는 비중: 약 57%"
+    ],
+    "signal": "bullish",
+    "signal_reason": "SK하이닉스의 역사적 시총 1위 등극과 반도체 밸류체인 실적 장세 선도.",
+    "key_companies": [
+      "SK하이닉스(000660)",
+      "삼성전자(005930)"
+    ],
+    "insight": "단순 종합가전/메모리 레거시 중심 기업보다 세계 최고 성능의 HBM 첨단 패키징 기술을 독점한 기업이 시장의 1등 가치를 점유함.",
+    "action_point": "SK하이닉스 핵심 밸류체인 소부장주 및 HBM 연관 후공정/전공정주 중심 포트폴리오 유지."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "SK하이닉스",
+      "시총1위",
+      "HBM독점",
+      "반도체주도주",
+      "코스피재편"
+    ]
+  }
+}

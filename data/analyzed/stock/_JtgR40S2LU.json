@@ -1,0 +1,38 @@
+{
+  "video": {
+    "id": "_JtgR40S2LU",
+    "title": "물가지표 앞둔 경계감... 미국증시 이틀째 하락 | 데일리 라이브 | 2026.8.12(수)",
+    "published": "2026-08-12T11:18:09+00:00",
+    "channel_name": "Smart Money by MiraeAsset ",
+    "url": "https://www.youtube.com/watch?v=_JtgR40S2LU",
+    "thumbnail": "https://img.youtube.com/vi/_JtgR40S2LU/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "7월 미국 CPI 발표를 앞둔 시장의 경계감으로 뉴욕증시가 이틀 연속 약세를 나타냄. 인플레이션 지표 확인 전까지 관망세가 이어진 가운데 <span class=\"text-cyan-300 font-semibold\">핵심 반도체 밸류체인</span> 및 네오클라우드 수혜주의 저가 매수 타이밍 탐색이 이뤄지는 <span class=\"text-amber-300 font-bold\">숨고르기 장세</span>를 분석함.",
+    "key_claims": [
+      "CPI 경계감으로 지수 단기 관망세 형성.",
+      "인프라 호실적이 보증된 테크 대장주 위주의 저점 지지력 확인."
+    ],
+    "data_points": [],
+    "signal": "neutral",
+    "signal_reason": "거시 물가 발표 전 관망 심리로 이틀 연속 지수 소폭 내림세.",
+    "key_companies": [
+      "미래에셋증권"
+    ],
+    "insight": "지표 발표 전의 이틀 연속 약세는 통상 불확실성 해소 후 반등 랠리를 준비하는 관망 국면임.",
+    "action_point": "CPI 발표 후 증시 방향성에 맞춘 반도체 및 빅테크 분할 매수 대응."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "미국증시하락",
+      "CPI경계감",
+      "미래에셋데일리",
+      "관망세",
+      "증시전망"
+    ]
+  }
+}

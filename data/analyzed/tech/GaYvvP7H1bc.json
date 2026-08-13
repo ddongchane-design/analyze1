@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "GaYvvP7H1bc",
+    "title": "(미공개 영상) 젠슨황이 한국에 오는 이유",
+    "published": "2026-08-11T09:00:00+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=GaYvvP7H1bc",
+    "thumbnail": "https://img.youtube.com/vi/GaYvvP7H1bc/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "엔비디아 CEO 젠슨 황의 방한 목적과 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>, <span class=\"text-cyan-300 font-semibold\">삼성전자</span>와의 차세대 HBM4 및 맞춤형 파운드리 공정 협력 강화 배경을 다룸. 엔비디아 가속기의 숏티지를 해결하기 위해 한국 메모리 2사와의 <span class=\"text-amber-300 font-bold\">동맹 및 공급량 확보</span>가 최우선 과제로 부상함.",
+    "key_claims": [
+      "젠슨 황 방한을 통한 HBM4 및 3D 패키징 공급망 협의 가속화.",
+      "SK하이닉스와 삼성전자 간의 엔비디아 차세대 AI 칩 공급 주도권 경쟁."
+    ],
+    "data_points": [
+      "엔비디아 차세대 블랙웰/루빈 가속기용 HBM4 물량 협의 진행"
+    ],
+    "signal": "bullish",
+    "signal_reason": "젠슨 황 방한 및 엔비디아와 한국 메모리 2사 간의 차세대 HBM 공급 동맹 공고화.",
+    "key_companies": [
+      "엔비디아(NVDA)",
+      "SK하이닉스(000660)",
+      "삼성전자(005930)"
+    ],
+    "insight": "엔비디아의 독주 체제 속에서 HBM4 규격 표준화와 턴키 공급 능력을 지닌 국내 반도체 기업들의 입지는 더욱 굳건해짐.",
+    "action_point": "젠슨 황 방한 동선 및 HBM4 수주 계약 관련 공식 공시 추적."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "젠슨황방한",
+      "엔비디아동맹",
+      "HBM4",
+      "SK하이닉스",
+      "삼성전자"
+    ]
+  }
+}

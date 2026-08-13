@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "bj3ot8RHy8k",
+    "title": "[어바웃 뉴욕] 1조 달러 잭팟 터질까…테슬라-스페이스X 합병설 재부각 | 이나연 특파원",
+    "published": "2026-08-12T03:00:00+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=bj3ot8RHy8k",
+    "thumbnail": "https://img.youtube.com/vi/bj3ot8RHy8k/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">테슬라(TSLA)</span>와 <span class=\"text-cyan-300 font-semibold\">스페이스X(SpaceX)</span>의 시너지 합병 시나리오가 부각되며 일론 머스크의 기업가치가 <span class=\"text-amber-300 font-bold\">1조 달러 평가</span>에 진입할 것이라는 월가 전망을 다룸. 자율주행, AI 컴퓨팅 데이터센터 및 스타링크 저궤도 위성 통신의 인프라 결합이 시너지를 극대화할 수 있으나 지배구조 및 주주 반발 리스크가 상존함.",
+    "key_claims": [
+      "테슬라 AI 데이터센터와 스페이스X 스타링크 네트워크의 결합에 따른 플랫폼 파워 시너지.",
+      "스페이스X 비상장 지분 가치 재평가와 테슬라 주가의 연동 모멘텀 형성."
+    ],
+    "data_points": [
+      "합병 시 예상 통합 시가총액: 1조 달러(약 1,350조 원) 이상 추산"
+    ],
+    "signal": "bullish",
+    "signal_reason": "테슬라와 스페이스X의 융합 시너지 및 우주 인터넷/AI 인프라 결합 기대감 모멘텀.",
+    "key_companies": [
+      "테슬라(TSLA)",
+      "스페이스X(SpaceX)"
+    ],
+    "insight": "지상 자율주행 AI와 저궤도 우주 통신망의 결합은 피지컬 AI 시대의 독점적 생태계를 형성하는 거대한 전환점이 될 수 있음.",
+    "action_point": "테슬라 및 우주 항공 밸류체인 부품사의 시너지 모멘텀 관찰."
+  },
+  "classification": {
+    "primary_topic": "space",
+    "secondary_topics": [
+      "stock",
+      "tech"
+    ],
+    "tags": [
+      "테슬라",
+      "스페이스X",
+      "1조달러합병",
+      "스타링크",
+      "일론머스크"
+    ]
+  }
+}

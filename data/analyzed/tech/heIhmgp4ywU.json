@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "heIhmgp4ywU",
+    "title": "AI 때문에 아이폰 용량 더 커진다? 애플, DRAM 아닌 NAND를 활용한 접근 분석 | AFM3가 바꾸는 스마트폰 메모리 | HBF와 zNAND-O",
+    "published": "2026-08-11T10:30:04+00:00",
+    "channel_name": "안될공학 - IT 테크 신기술",
+    "url": "https://www.youtube.com/watch?v=heIhmgp4ywU",
+    "thumbnail": "https://img.youtube.com/vi/heIhmgp4ywU/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">애플(AAPL)</span>이 차세대 파운데이션 모델 AFM3에서 모바일 DRAM 단가 급등을 회피하기 위해 <span class=\"text-cyan-300 font-semibold\">NAND 플래시 오프로딩(Offloading)</span> 오프쇼어링 아키텍처를 전격 도입함. 200억 파라미터 대형 모델을 NAND에 상주시키고 필요 활성 파라미터만 DRAM으로 전송하는 구조로, 고용량 NAND 플래시 수혜가 예상됨.",
+    "key_claims": [
+      "애플의 AFM3 모델 아키텍처 혁신으로 아이폰 내 대용량 NAND 수요 급증.",
+      "LPDDR5X 가격 급등 대응을 위해 NAND 오프로딩 기술 도입으로 모바일 메모리 지형 변화.",
+      "중국 CXMT 등 D램 공급망 다변화 타진 및 온디바이스 AI 기기용 낸드 재평가."
+    ],
+    "data_points": [
+      "모바일 LPDDR5X D램 가격 상승률: 전분기 대비 78%~83% 폭등",
+      "애플 AFM3 온디바이스 모델 파라미터: 200억 개 (필요시 10억~40억 개 활성화)",
+      "CXMT 세계 D램 점유율: 2025년 기준 약 7.7% 기록"
+    ],
+    "signal": "bullish",
+    "signal_reason": "애플의 차세대 온디바이스 AI 아키텍처 변경으로 고용량 낸드 플래시 수요 폭증 기대.",
+    "key_companies": [
+      "애플(AAPL)",
+      "SK하이닉스(000660)",
+      "삼성전자(005930)",
+      "CXMT"
+    ],
+    "insight": "온디바이스 AI의 메모리 병목 극복 과정에서 낸드 플래시의 위상이 데이터 보관을 넘어 실시간 가중치 오프로딩 매개체로 재해석됨.",
+    "action_point": "고용량 낸드 플래시 생산 비중이 높은 국내 메모리 제조사 및 낸드 컨트롤러 소부장주 주시."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "애플AFM3",
+      "NAND오프로딩",
+      "온디바이스AI",
+      "아이폰용량",
+      "메모리병목"
+    ]
+  }
+}

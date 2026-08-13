@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "Eqeg_m1_4aQ",
+    "title": "26.08.11 한국 주식시장의 핵심 이슈와 향후 전망 (박병창 마스터, 김수환 과장)",
+    "published": "2026-08-11T03:00:00+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=Eqeg_m1_4aQ",
+    "thumbnail": "https://img.youtube.com/vi/Eqeg_m1_4aQ/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "국내 증시가 코스닥 중심의 순환매와 <span class=\"text-cyan-300 font-semibold\">전공정 반도체 소부장</span>으로 수급이 이동하는 현상을 진단함. 미국 물가지표(CPI) 발표와 연준 매파 발언 등 거시 노이즈 속에서도 <span class=\"text-amber-300 font-bold\">실적 개선 가시성</span>이 높은 핵심 주도주 위주의 바벨 전략이 유효하다고 조언함.",
+    "key_claims": [
+      "코스피 대장주 밸류 부담으로 인한 코스닥 소부장 및 차세대 장비주로의 낙수 효과.",
+      "미국 금리 및 유가 변동성 국면에서 실적 확인 중심의 종목 선별 필요."
+    ],
+    "data_points": [
+      "국내 반도체 소부장 업종 평균 수익률 상회 기록"
+    ],
+    "signal": "neutral",
+    "signal_reason": "거시 지표 발표 전 관망세 속 수급 순환매 및 종목별 차별화 진행.",
+    "key_companies": [
+      "원익IPS(030530)",
+      "유진테크(084370)",
+      "SK하이닉스(000660)"
+    ],
+    "insight": "대장주의 밸류에이션 부담이 가중될 때는 밸류체인 하단의 저평가된 1등 부품/장비 공급사로 훈풍이 전이됨.",
+    "action_point": "실적 상향이 진행되는 코스닥 전공정 소부장 주도주 분할 매수 대응."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "한국증시전망",
+      "반도체소부장",
+      "순환매장세",
+      "실적선별",
+      "박병창"
+    ]
+  }
+}

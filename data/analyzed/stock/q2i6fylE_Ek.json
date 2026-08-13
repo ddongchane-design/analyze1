@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "q2i6fylE_Ek",
+    "title": "나스닥, CPI 예상치 부합에 상승…코어위브, 네비우스 등 네오클라우드 급등 [월가 뉴스레터]",
+    "published": "2026-08-12T22:03:22+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=q2i6fylE_Ek",
+    "thumbnail": "https://img.youtube.com/vi/q2i6fylE_Ek/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "7월 미국 CPI가 인플레이션 완화를 가리키며 나스닥 지수가 강세 전환함. 특히 클라우드 매출 폭증을 발표한 <span class=\"text-cyan-300 font-semibold\">네비우스</span>와 <span class=\"text-cyan-300 font-semibold\">코어위브</span> 등 <span class=\"text-amber-300 font-bold\">네오클라우드 AI 가속기 호스팅주</span>가 20% 이상 급등하여 기술주 상승을 주도함.",
+    "key_claims": [
+      "CPI 안도감 속에서 네오클라우드 기업들의 호실적으로 기술주 랠리 가속.",
+      "GPU 호스팅 수요 급증으로 AI 데이터센터 밸류체인 전반의 주가 상승."
+    ],
+    "data_points": [
+      "네비우스, 코어위브 등 네오클라우드 주가 상승률: 15~20% 폭등"
+    ],
+    "signal": "bullish",
+    "signal_reason": "인플레 안도감과 AI 호스팅 인프라 수혜로 기술주 랠리 재개.",
+    "key_companies": [
+      "네비우스(NBIS)",
+      "코어위브(CoreWeave)",
+      "엔비디아(NVDA)"
+    ],
+    "insight": "거시 통화 완화 안도감과 실질 AI 호스팅 수주 호조가 결합할 때 AI 테크주의 상승 폭이 극대화됨.",
+    "action_point": "미국 AI 클라우드 인프라주 및 고성능 메모리 밸류체인 포트폴리오 유지."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "나스닥상승",
+      "미국CPI",
+      "네비우스",
+      "코어위브",
+      "네오클라우드"
+    ]
+  }
+}

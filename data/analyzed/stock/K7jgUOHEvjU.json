@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "K7jgUOHEvjU",
+    "title": "지금 주가보다 먼저 봐야 할 건 잉여현금흐름입니다, 삼성전자가 시가총액의 10%를 주주에게 돌려주는 계산 [월간아신 8월호 풀영상]",
+    "published": "2026-08-12T06:15:45+00:00",
+    "channel_name": "이효석아카데미",
+    "url": "https://www.youtube.com/watch?v=K7jgUOHEvjU",
+    "thumbnail": "https://img.youtube.com/vi/K7jgUOHEvjU/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "단기 주가 변동성 폭락 장세에서 기업의 진짜 가치를 판단하는 핵심 지표로 <span class=\"text-cyan-300 font-semibold\">잉여현금흐름(FCF)</span>을 제시함. <span class=\"text-cyan-300 font-semibold\">삼성전자</span>가 창출하는 압도적 현금 창출력과 시가총액 10% 수준의 주주 환원 재원을 분석하며, 투매 장세에 휩쓸리지 않는 <span class=\"text-amber-300 font-bold\">펀더멘탈 가치 평가</span> 기준을 강조함.",
+    "key_claims": [
+      "폭락장에서 반대매매와 수급 악재에 휩쓸리지 않으려면 FCF 펀더멘탈 점검 필수.",
+      "삼성전자의 잉여현금흐름 창출력이 시가총액 대비 10% 수준의 강력한 자사주/배당 재원 기반 제공."
+    ],
+    "data_points": [
+      "코스피 7월 조정 폭: 1997년 IMF 외환위기 이후 최대 변동성 기록",
+      "삼성전자 FCF 기반 주주환원 여력: 시가총액의 약 10% 상당"
+    ],
+    "signal": "bullish",
+    "signal_reason": "주가 급락 이후 실물 FCF 기반 밸류에이션 매력도 급상승에 따른 저평가 반등 기대.",
+    "key_companies": [
+      "삼성전자(005930)",
+      "SK하이닉스(000660)"
+    ],
+    "insight": "시장이 수급과 투매 노이즈로 붕괴될 때 잉여현금흐름(FCF)이 튼튼한 대장주는 가장 빠른 반등탄성력을 보여줌.",
+    "action_point": "FCF 마진율이 뛰어난 반도체 1등주의 펀더멘탈을 신뢰하며 하락 시 분할 매수 모색."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "잉여현금흐름",
+      "FCF",
+      "삼성전자주주환원",
+      "펀더멘탈",
+      "폭락장대응"
+    ]
+  }
+}

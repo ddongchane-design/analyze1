@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "g4TcRlCrA-w",
+    "title": "[어바웃 뉴욕] 코어위브 시간외 폭등 이유… \"AI 데이터센터 임대 수주 대폭 증가\" | 이나연 특파원",
+    "published": "2026-08-11T03:00:00+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=g4TcRlCrA-w",
+    "thumbnail": "https://img.youtube.com/vi/g4TcRlCrA-w/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">코어위브(CoreWeave)</span>가 시간외 거래에서 급등함. 빅테크 및 AI 스타트업들의 GPU 가속기 클러스터 임대 수주 장고가 폭발적으로 급증하면서 네오클라우드(NeoCloud)의 <span class=\"text-amber-300 font-bold\">실질 수익성 및 캐시카우</span> 창출력이 증명되었기 때문임.",
+    "key_claims": [
+      "코어위브의 데이터센터 임대 수주잔고 폭증으로 고성능 AI 인프라 수요 견고함 입증.",
+      "엔비디아 특화 호스팅 기업들의 실적 호조가 기술주 투심 전반을 인양."
+    ],
+    "data_points": [
+      "코어위브 시간외 주가 상승률: 15% 이상 폭등 기록"
+    ],
+    "signal": "bullish",
+    "signal_reason": "네오클라우드 호스팅 수주 폭증으로 AI 데이터센터 실적 가시성 대폭 상향.",
+    "key_companies": [
+      "코어위브(CoreWeave)",
+      "엔비디아(NVDA)",
+      "네비우스(NBIS)"
+    ],
+    "insight": "AI 클라우드 임대(NeoCloud) 시장의 고성장은 GPU 서버 및 고성능 메모리 수급의 강력한 실수요를 증명하는 핵심 지표임.",
+    "action_point": "코어위브 및 네오클라우드 관련 밸류체인과 엔비디아 서버 공급망 부품사 비중 유지."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "코어위브",
+      "NeoCloud",
+      "AI데이터센터",
+      "GPU클러스터",
+      "임대수주폭증"
+    ]
+  }
+}

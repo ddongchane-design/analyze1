@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "CezNCD51nx4",
+    "title": "코인 맡기면 알아서 굴려준다? 월가도 주목한 '볼트'",
+    "published": "2026-08-12T03:25:43+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=CezNCD51nx4",
+    "thumbnail": "https://img.youtube.com/vi/CezNCD51nx4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "디파이(DeFi) 생태계에서 스마트 컨트랙트 기반 자산 자동 운용 도구인 <span class=\"text-cyan-300 font-semibold\">볼트(Vault)</span>에 월가 제도권 자금이 유입되는 흐름을 다룸. 실물자산 토큰화(<span class=\"text-cyan-300 font-semibold\">RWA</span>)와 결합된 프로그래밍 방식의 자동화 이자 창출 메커니즘이 기존 자산운용업의 지형을 바꿀 잠재력을 지님.",
+    "key_claims": [
+      "디파이 볼트(Vault)를 통한 스마트 컨트랙트 자동 자산 운용의 효율성.",
+      "기관 자금 및 월가 금융사들의 RWA 토큰 연계 디파이 예치 확대."
+    ],
+    "data_points": [
+      "디파이 볼트 유입 자금 및 RWA 기반 스태이블코인 운용액 증가 추세"
+    ],
+    "signal": "bullish",
+    "signal_reason": "제도권 자금의 디파이 볼트 및 RWA 편입 호조로 가상자산 생태계의 펀더멘털 강화.",
+    "key_companies": [
+      "블랙록(BLK)",
+      "Circle(USDC)"
+    ],
+    "insight": "월가 기관들이 디파이 온체인 파이프라인(Vault)을 수용하면서 온체인 금융과 제1금융권 간의 인프라 통합이 빨라지고 있음.",
+    "action_point": "RWA 연계 디파이 프로젝트 및 우량 프로토콜의 TVL 변동성 모니터링."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "tech",
+      "stock"
+    ],
+    "tags": [
+      "디파이볼트",
+      "Vault",
+      "RWA",
+      "월가자금유입",
+      "스마트컨트랙트"
+    ]
+  }
+}

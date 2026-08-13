@@ -1,0 +1,41 @@
+{
+  "video": {
+    "id": "w8PXBwftwiw",
+    "title": "[26.08.12 오후 방송 전체보기] 8월에만 20% 오른 코스닥, 오늘은 오르락 내리락...내일의 운명은?",
+    "published": "2026-08-12T11:00:30+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=w8PXBwftwiw",
+    "thumbnail": "https://img.youtube.com/vi/w8PXBwftwiw/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "8월에만 20% 이상 급등한 코스닥 지수의 단기 변동성과 수급 순환매 양상을 분석함. 대장주 단기 밸류담 완화로 인해 <span class=\"text-cyan-300 font-semibold\">전공정 장비 및 반도체 소부장</span>과 바이오·2차전지 중소형주로 자금이 번지는 <span class=\"text-amber-300 font-bold\">수급 분산 장세</span>가 형성됨.",
+    "key_claims": [
+      "코스닥 8월 20% 급등에 따른 차익 실현 매물과 장중 등락폭 확대.",
+      "반도체 소부장 및 저평가 중소형주 중심의 순환매 지속 유효."
+    ],
+    "data_points": [
+      "코스닥 지수 8월 누적 상승률: 약 20% 기록"
+    ],
+    "signal": "bullish",
+    "signal_reason": "코스닥 중심의 강력한 순환매 유동성과 소부장 실적 장세 선도.",
+    "key_companies": [
+      "원익IPS(030530)",
+      "유진테크(084370)"
+    ],
+    "insight": "지수 단기 급등 후의 변동성은 상방 추세를 꺾기보다 주도 섹터 내부의 1등 장비주로 수급이 재편되는 과정임.",
+    "action_point": "코스닥 20% 상승 후 단기 등락 국면에서 실적 개선이 뚜렷한 소부장주 중심 대응."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "코스닥20%급등",
+      "순환매장세",
+      "반도체소부장",
+      "코스닥전망",
+      "삼프로TV"
+    ]
+  }
+}

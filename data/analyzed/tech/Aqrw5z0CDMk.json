@@ -1,0 +1,40 @@
+{
+  "video": {
+    "id": "Aqrw5z0CDMk",
+    "title": "영화 '오디세이' 영화관 안 가던 사람도 IMAX 찾는 이유 | 놀란 감독이 IMAX에 집착한 기술적 이유",
+    "published": "2026-08-12T11:09:09+00:00",
+    "channel_name": "안될공학 - IT 테크 신기술",
+    "url": "https://www.youtube.com/watch?v=Aqrw5z0CDMk",
+    "thumbnail": "https://img.youtube.com/vi/Aqrw5z0CDMk/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "영화 '오디세이'의 상영을 계기로 <span class=\"text-cyan-300 font-semibold\">IMAX 1.43:1 비율관</span>에 관객이 몰리는 기술적 배경을 다룸. 소음 저감 쿨링 및 <span class=\"text-cyan-300 font-semibold\">방음 블림프 시스템</span> 덕분에 조용한 대사 장면까지 아날로그 대형 필름으로 촬영이 가능해졌으며, 극장에서만 경험할 수 있는 공간감을 선사함.",
+    "key_claims": [
+      "아이맥스 카메라 소음제어 하우징 도입으로 조용한 실내 대사 장면 전면 필름 촬영 성사.",
+      "1.43:1 풀 사이어티 화면 비율이 선사하는 오프라인 전용 공간 몰입감 극대화."
+    ],
+    "data_points": [
+      "아이맥스 1565 필름 면적: 일반 35mm 필름 대비 약 10배 이상 거대"
+    ],
+    "signal": "neutral",
+    "signal_reason": "영화 및 광학 영상 기술 혁신 분석 콘텐츠.",
+    "key_companies": [
+      "IMAX"
+    ],
+    "insight": "기술적 소음과 물리적 한계를 극복한 하드웨어 엔지니어링 혁신이 콘텐츠의 가치를 극대화함.",
+    "action_point": "하이엔드 디스플레이 및 영상 장비 기술의 산업적 응용 분야 트렌드 주시."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "etc"
+    ],
+    "tags": [
+      "IMAX",
+      "오디세이",
+      "광학기술",
+      "방음하우징",
+      "크리스토퍼놀란"
+    ]
+  }
+}

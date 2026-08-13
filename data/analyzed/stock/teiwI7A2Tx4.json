@@ -1,0 +1,40 @@
+{
+  "video": {
+    "id": "teiwI7A2Tx4",
+    "title": "[이슈 몰아보기] \"돈 줄 테니 칩 가지고 가\" 젠슨 황, 월가까지 끌어들였다...'엔비디아발 순환금융' 시즌2될까, 시장이 두려워하는 최악의 시나리오 / 교양이를 부탁해",
+    "published": "2026-08-12T15:46:41+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=teiwI7A2Tx4",
+    "thumbnail": "https://img.youtube.com/vi/teiwI7A2Tx4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "엔비디아 젠슨 황 CEO가 월가 사모펀드와 연계하여 AI 가속기 구매 자금을 대출해 주는 <span class=\"text-cyan-300 font-semibold\">엔비디아발 순환 금융 메커니즘</span>을 정밀 분석함. 칩 판매 매출이 대출 자금으로 선순환하며 실적을 끌어올리고 있으나, 칩 감가상각과 <span class=\"text-rose-400 font-medium\">버블 청산 시 파급력</span>이 시장의 핵심 우려로 제기됨.",
+    "key_claims": [
+      "엔비디아 칩을 담보로 한 사모 부채 금융이 AI 인프라 구매 유동성을 전격 공급.",
+      "수출 실적이 금융 레버리지와 상호 연동되어 칩 가격 하락 시 리스크 증폭 가능성."
+    ],
+    "data_points": [],
+    "signal": "neutral",
+    "signal_reason": "AI 하드웨어 매출 성장의 강한 모멘텀과 순환 금융의 잠재 리스크 팽팽.",
+    "key_companies": [
+      "엔비디아(NVDA)",
+      "코어위브(CoreWeave)"
+    ],
+    "insight": "제조업과 월가 레버리지 금융의 결합은 매출 폭증을 만들어내지만, 차세대 반도체 교체 주기에 따른 담보 가치 평가가 밸류에이션의 변수임.",
+    "action_point": "엔비디아 실적 발표 시 사모펀드 및 네오클라우드 채권 발행 잔고 정밀 모니터링."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "엔비디아",
+      "젠슨황",
+      "순환금융",
+      "GPU담보대출",
+      "AI버블시나리오"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "d2QGRYYfkZg",
+    "title": "[이슈 몰아보기] \"결국 빅테크가 승자?\" 엔비디아·MS·구글 실적 발표 직후 유입되는 '진짜 자금'의 행방, 반도체 대장주의 운명은? / 교양이를 부탁해",
+    "published": "2026-08-11T15:00:00+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=d2QGRYYfkZg",
+    "thumbnail": "https://img.youtube.com/vi/d2QGRYYfkZg/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "엔비디아, 마이크로소프트, 구글 등 글로벌 빅테크의 실적 발표 이후 <span class=\"text-cyan-300 font-semibold\">실질 CapEx 투입 자금</span>의 유입 경로를 추적함. 하이퍼스케일 데이터센터 증설에 필수적인 <span class=\"text-cyan-300 font-semibold\">HBM 및 고성능 메모리</span> 독점력을 보유한 수주 중심 한국 대장주(SK하이닉스)로 패시브 및 메이저 자금 쏠림이 한층 뚜렷해짐.",
+    "key_claims": [
+      "빅테크들의 CapEx 지출 확대로 반도체 대장주의 마진 가시성이 가장 탄탄함.",
+      "글로벌 패시브 자금이 밸류에이션 부담이 적은 메모리 수주 기업으로 원활히 유입 중."
+    ],
+    "data_points": [
+      "빅테크 분기 CapEx 성장률: 전년 대비 평균 40% 이상 상향 유지"
+    ],
+    "signal": "bullish",
+    "signal_reason": "빅테크 AI 인프라 투자 지속 및 수주 기반 반도체 대장주로 자금 쏠림 강화.",
+    "key_companies": [
+      "엔비디아(NVDA)",
+      "마이크로소프트(MSFT)",
+      "SK하이닉스(000660)",
+      "삼성전자(005930)"
+    ],
+    "insight": "AI 인프라 투자의 최대 수혜는 과도한 마케팅 비용을 쓰는 서비스사보다 필수 부품 공급 독점권을 쥔 수주형 제조업체에 귀속됨.",
+    "action_point": "실적 장세 유효 구간에서 SK하이닉스 등 반도체 톱픽 포트폴리오 비중 유지."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "빅테크실적",
+      "엔비디아",
+      "SK하이닉스",
+      "HBM수혜",
+      "CapEx확대"
+    ]
+  }
+}

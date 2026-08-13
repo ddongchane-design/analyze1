@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "12eGAYc3BO4",
+    "title": "삼성전자 휴머노이드 첫 시연, 왜 경영진에게만 공개했을까?",
+    "published": "2026-08-11T10:17:02+00:00",
+    "channel_name": "엔지니어TV",
+    "url": "https://www.youtube.com/watch?v=12eGAYc3BO4",
+    "thumbnail": "https://img.youtube.com/vi/12eGAYc3BO4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">삼성전자</span>가 RX 부문 R&D 캠퍼스에서 개발 중인 휴머노이드 로봇의 첫 시연을 경영진 대상으로 비밀리에 진행함. 카메라 비전 기반 실시간 센싱, 초소형 모듈형 <span class=\"text-cyan-300 font-semibold\">액추에이터</span> 및 센서 기술이 대거 적용되었으며, 내부 테스트 완료 후 외부 공개 시기를 조율 중인 <span class=\"text-amber-300 font-bold\">피지컬 AI</span> 전략의 일환으로 풀이됨.",
+    "key_claims": [
+      "삼성전자가 경영진 대상 비밀 시연을 진행하며 차세대 휴머노이드 상용화 단계 진입을 시사함.",
+      "액추에이터, 카메라 센싱, 배터리 등 핵심 로봇 부품을 계열사(삼성SDI 등)와 연계하여 자체 내재화 추진."
+    ],
+    "data_points": [
+      "시연 장소: 삼성전자 RX 부문 R&D 캠퍼스"
+    ],
+    "signal": "bullish",
+    "signal_reason": "삼성전자의 휴머노이드 로봇 기술 시연으로 피지컬 AI 및 대기업 주도의 로봇 생태계 확장 기대감이 한층 높아짐.",
+    "key_companies": [
+      "삼성전자(005930)",
+      "삼성SDI(006400)",
+      "1X Technologies",
+      "OpenAI"
+    ],
+    "insight": "빅테크와 국내 제조 대기업의 피지컬 AI 경쟁이 가속화되면서 핵심 모션 기술인 액추에이터와 정밀 카메라 밸류체인의 가치가 급상승함.",
+    "action_point": "삼성전자의 로봇 공급망 진입이 유력한 domestic 액추에이터 및 정밀 센서 관련주의 실적 모멘텀을 주시할 것."
+  },
+  "classification": {
+    "primary_topic": "robot",
+    "secondary_topics": [
+      "tech",
+      "stock"
+    ],
+    "tags": [
+      "삼성전자휴머노이드",
+      "피지컬AI",
+      "액추에이터",
+      "카메라비전",
+      "로봇시연"
+    ]
+  }
+}

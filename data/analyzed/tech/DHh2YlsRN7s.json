@@ -1,0 +1,41 @@
+{
+  "video": {
+    "id": "DHh2YlsRN7s",
+    "title": "AI 챗봇 도입했더니 매출 3배 폭등? 기업들이 챗봇에 돈 쏟아붓는 이유",
+    "published": "2026-08-12T09:00:00+00:00",
+    "channel_name": "안될공학 - IT 테크 신기술",
+    "url": "https://www.youtube.com/watch?v=DHh2YlsRN7s",
+    "thumbnail": "https://img.youtube.com/vi/DHh2YlsRN7s/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "기업들이 단순 고객 문의 응대를 넘어 실질적인 결제 유도와 매출 성장을 이끄는 <span class=\"text-cyan-300 font-semibold\">에이전틱 AI 챗봇</span>을 도입하면서 영업 실적이 급격히 상승하는 사례를 다룸. <span class=\"text-amber-300 font-bold\">실시간 구매 전환율</span> 향상과 운영 인건비 절감 효과가 검증되면서 챗봇이 비즈니스 필수 인프라로 자리잡고 있음.",
+    "key_claims": [
+      "생성형 AI 에이전트 도입이 기업 매출 3배 증가 등 실질적 ROI로 연결.",
+      "상담 자동화를 통한 인건비 절감과 구매 유도 알선으로 전환율 극대화."
+    ],
+    "data_points": [
+      "AI 챗봇 도입 기업 매출 성장률: 기존 대비 최고 3배 이상 폭증 사례 확인"
+    ],
+    "signal": "bullish",
+    "signal_reason": "AI 에이전트 도입에 따른 기업 생산성 및 매출 증가 효과 입증으로 관련 소프트웨어 투심 호조.",
+    "key_companies": [
+      "오픈AI",
+      "마이크로소프트(MSFT)"
+    ],
+    "insight": "AI 투자가 단순 비용 지출을 넘어 실질 매출(ROI)을 창출하는 상용화 단계에 안착했음을 보여줌.",
+    "action_point": "기업용 AI 에이전트 및 챗봇 솔루션 개발사의 성장성 및 실적 추이 주시."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "AI챗봇",
+      "에이전틱AI",
+      "매출3배",
+      "ROI증명",
+      "고객상담자동화"
+    ]
+  }
+}

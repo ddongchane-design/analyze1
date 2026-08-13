@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "tqKwh452Bk4",
+    "title": "비트코인 바닥 임박? 기관은 이미 움직였다 | 서동주, 김동환, 박상혁 디지털애셋 편집장 [크립토 PLUS]",
+    "published": "2026-08-12T02:57:18+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=tqKwh452Bk4",
+    "thumbnail": "https://img.youtube.com/vi/tqKwh452Bk4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "비트코인 가격이 조정 국면을 마치고 바닥을 형성 중인 온체인 데이터를 분석함. 전통 금융 기관들의 <span class=\"text-cyan-300 font-semibold\">현물 ETF 유입세</span>와 마이크로스트레티지(MSTR) 등의 기업용 트레저리 자금 유입이 하방 지지선을 단단히 형성하며 <span class=\"text-amber-300 font-bold\">제도권 자금 재유입</span>이 본격화되고 있음.",
+    "key_claims": [
+      "비트코인의 온체인 바닥 지표 확인 및 글로벌 기관 자금의 저점 매수세 유입.",
+      "MSTR 및 비트코인 현물 ETF를 통한 지속적인 락인 자금 축적."
+    ],
+    "data_points": [
+      "비트코인 현물 ETF 일간 순유입: 플러스 전환 유지"
+    ],
+    "signal": "bullish",
+    "signal_reason": "기관 자금 및 트레저리 펀드 유입으로 가상자산 바닥 확인 및 재반등 기대.",
+    "key_companies": [
+      "MicroStrategy(MSTR)",
+      "BlackRock(BLK)"
+    ],
+    "insight": "크립토 자산은 개미 투기판을 넘어 기업 재무재표 및 기관 ETF 포트폴리오의 필수 대체 자산으로 안착하고 있음.",
+    "action_point": "비트코인 현물 ETF 순유입 데이터 추적 및 기술적 바닥선 분할 매수 관점."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "stock",
+      "economy"
+    ],
+    "tags": [
+      "비트코인바닥",
+      "기관자금유입",
+      "현물ETF",
+      "MSTR",
+      "디지털자산"
+    ]
+  }
+}
