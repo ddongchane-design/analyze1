@@ -1,0 +1,52 @@
+{
+  "video": {
+    "id": "V6Q982egXwU",
+    "title": "[박신영의 개장전요것만-8월13일] 앤트로픽, 상장 앞두고 M&A 승부수 | 애크먼이 AI 대신 선택한 기업 | 250년 된 기업이 성장주인 이유",
+    "published": "2026-08-13T14:24:26+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=V6Q982egXwU",
+    "thumbnail": "https://img.youtube.com/vi/V6Q982egXwU/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 도매물가지수(PPI) 둔화와 유가 급락으로 채권 금리가 하락하며 뉴욕 증시가 일제히 상승 출발함. <span class=\"text-cyan-300 font-semibold\">어플라이드 머티리얼즈(AMAT)</span>는 전공정뿐 아니라 HBM/GPU 이종 집적을 위한 첨단 패키징(ASMPT 인수 및 에픽 연구소 협력)으로 실적 기대감을 높이고 있으며, <span class=\"text-cyan-300 font-semibold\">앤트로픽(Anthropic)</span>은 상장을 앞두고 AI 훈련 비용을 대폭 절감해주는 <span class=\"text-cyan-300 font-semibold\">디카트 AI(Decart AI)</span>를 60억 달러에 인수를 추진 중임. 한편 헤지펀드 거물 빌 애크먼은 과열된 AI 곡괭이주 대신 <span class=\"text-cyan-300 font-semibold\">비자(V)</span>, <span class=\"text-cyan-300 font-semibold\">마스터카드(MA)</span>, <span class=\"text-cyan-300 font-semibold\">넷플릭스(NFLX)</span> 등 저평가 독점 플랫폼을 신규 매수했으며, 광통신 대장주 <span class=\"text-cyan-300 font-semibold\">루멘텀(Lumentum)</span>은 사상 첫 분기 매출 10억 달러를 돌파함.",
+    "key_claims": [
+      "앤트로픽의 디카트 AI(60억 달러) 인수는 GPU 컴퓨팅 효율화 및 AI 훈련 비용 절감을 통해 상장(IPO) 가치를 극대화하기 위한 승부수임.",
+      "빌 애크먼은 S&P500 상승분의 85%를 차지한 AI 하드웨어 쏠림을 경계하고, 에이전트 결제 수혜가 기대되는 비자/마스터 및 스트리밍 승자 넷플릭스를 편입함.",
+      "루멘텀은 AI 데이터센터 고속 광트랜시버 수요 폭증으로 분기 매출 10억 달러 돌파 및 마진율 50%대를 달성하며 코히어런트를 압도함."
+    ],
+    "data_points": [
+      "어플라이드 머티리얼즈: 올해 주가 104% 급등, 예상 EPS 3.39달러 (+36.7%), 분기 매출 90억 달러.",
+      "앤트로픽 디카트 AI 인수액: 60억 달러 (작년 8월 31억 달러 -> 5월 40억 달러 -> 현재 60억 달러로 급등).",
+      "루멘텀(Lumentum) 4분기 실적: 매출 11억 달러 돌파 (전년비 +109%), 비GAAP 매출총이익률 50.4%로 급상승.",
+      "넷플릭스 지표: 가입자 3억 2,500만 명 돌파, 영업이익률 31.5% 기록."
+    ],
+    "signal": "bullish",
+    "signal_reason": "PPI 안정과 국채 금리 하락 속에서 AI 효율화 M&A(앤트로픽), 첨단 패키징(AMAT), AI 광통신(루멘텀) 및 독점 플랫폼(비자/넷플릭스)의 견고한 실적 모멘텀.",
+    "key_companies": [
+      "어플라이드 머티리얼즈(AMAT)",
+      "루멘텀(LITE)",
+      "네비우스(NBIS)",
+      "비자(V)",
+      "넷플릭스(NFLX)",
+      "앤트로픽"
+    ],
+    "insight": "AI 투자가 단순 하이프에서 AI 훈련 원가 절감(소프트웨어/최적화), 광통신 고속 전송, 첨단 후공정 패키징 등 실질적인 인프라 수익성 개선 기업으로 옥석 가리기가 진행되고 있음.",
+    "action_point": "AI 데이터센터 광통신 수혜주 루멘텀/네비우스와 함께, 밸류에이션 부담이 낮고 AI 에이전트 결제 인프라로 재평가받는 비자/마스터카드에 대한 분산 투자를 추천함."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "어플라이드머티리얼즈",
+      "앤트로픽",
+      "디카트AI",
+      "빌애크먼",
+      "루멘텀",
+      "네비우스",
+      "한경글로벌마켓"
+    ]
+  }
+}

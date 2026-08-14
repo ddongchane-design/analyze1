@@ -1,0 +1,46 @@
+import json, sys
+from pathlib import Path
+
+f_path = Path("data/pending/n8SE6KxRY34.json")
+data = json.loads(f_path.read_text(encoding="utf-8"))
+video = data.get("video", {})
+
+batch7_data = [{
+  "video": {
+    "id": video["id"],
+    "title": video["title"],
+    "published": video["published"],
+    "channel_name": video["channel_name"],
+    "url": video["url"],
+    "thumbnail": video["thumbnail"]
+  },
+  "analysis": {
+    "summary": "갑상선 기능 이상 및 자가면역 반응으로 안구가 돌출되고 복시를 유발하는 희귀난치 질환 <span class=\"text-cyan-300 font-semibold\">'갑상샘 눈병증(Thyroid Eye Disease)'</span>의 증상과 고가의 치료제 실태를 조명함. 미국 FDA 승인 표적 신약 테페자(Tepezza)의 약가가 수억 원(약 4억 원)에 달하는 의료 비용 장벽과 안모 변형에 따른 사회적 고립 리스크를 분석함.",
+    "key_claims": [
+      "갑상선 안병증은 단순 외모 변화가 아니라 복시, 눈꺼풀 퇴축, 시력 손상을 일으키는 자가면역 희귀 질환임.",
+      "표적 바이오 신약(테조스/테페자 등) 치료 비용이 회당 수천만 원, 총 약가 4억 원에 달해 환자 접근성이 극도로 제한됨.",
+      "<span class=\"text-amber-300 font-bold\">희귀질환 바이오 신약의 건강보험 적용</span> 및 국산 바이오시밀러/대체 치료제 개발 필요성이 증대됨."
+    ],
+    "data_points": [
+      "안구 돌출 위험 치수: 3mm ~ 5mm 돌출 시 심각한 외형 변형 및 복시 유발",
+      "표적 치료 신약(Tepezza 등) 풀코스 약가: 약 4억 원 (미국 기준 비급여 치료비)",
+      "질환 분류: 자가면역 기반 안과 희귀 질환"
+    ],
+    "signal": "neutral",
+    "signal_reason": "희귀 안과 질환 치료제 현황 분석으로 시장 시그널은 중립이나 고가 바이오 신약 시장의 성장성을 시사함.",
+    "key_companies": [
+      "건국대학교병원",
+      "Amgen (Horizon Therapeutics)"
+    ],
+    "insight": "희귀 자가면역 질환 표적 치료제 시장은 고약가 구조로 높은 마진을 누릴 수 있어 바이오 벤처들의 글로벌 파이프라인 개척 모멘텀이 될 수 있음.",
+    "action_point": "희귀 안질환 및 자가면역 바이오 파이프라인을 보유한 바이오 기업의 임상 및 건보 급여화 동향을 주시해야 함."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": ["etc"],
+    "tags": ["갑상샘눈병증", "자가면역질환", "희귀바이오신약", "테페자", "안과치료제"]
+  }
+}]
+
+Path("scratch/batch7_analysis.json").write_text(json.dumps(batch7_data, ensure_ascii=False, indent=2), encoding="utf-8")
+print("Wrote batch 7 to scratch/batch7_analysis.json")

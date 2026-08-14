@@ -1,229 +1,217 @@
 import json
+import sys
 from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+from agents.harness import validate_item
 
-# Define the analyzed data for Batch 7
-batch_data = {
-  "0T5YyMoOL5o": {
-    "topic": "space",
-    "content": {
-      "video": {
-        "id": "0T5YyMoOL5o",
-        "title": "2700조 원 최대 상장의 이면..국내 최초 멤피스 데이터센터에서 본 스페이스X의 현주소 | 바이아메리카 in 뉴욕",
-        "published": "2026-06-11T01:00:00+00:00",
-        "channel_name": "삼프로TV_3ProTV",
-        "url": "https://www.youtube.com/watch?v=0T5YyMoOL5o",
-        "thumbnail": "https://img.youtube.com/vi/0T5YyMoOL5o/hqdefault.jpg"
-      },
-      "analysis": {
-        "summary": "1. 스페이스X는 XAI의 멤피스 <span class=\"text-cyan-300 font-semibold\">콜로서스 데이터센터</span> 및 전력 인프라 등 지상 AI 생태계를 기반으로 최대 1.8조 달러 몸값의 상장 로드쇼를 개시했습니다.\n2. 공모가는 135달러 단일 고정가로, 물량의 4배가 넘는 대규모 기관 주문이 쏠려 상장 초기 <span class=\"text-violet-300 font-medium\">수급 쏠림(블랙홀)</span> 우려가 고조되고 있습니다.\n3. 락업 해제 시점에 대한 다양한 예외 조항(비상 출구)이 존재하여 임직원과 초기 투자자들의 매도로 인한 <span class=\"text-rose-400 font-medium\">단기 주가 변동성 리스크</span>가 큽니다.",
-        "key_claims": [
-          "스페이스X는 단순한 로켓 발사 기업이 아니라 스타링크와 XAI, 테라 프로젝트를 엮은 <span class=\"text-cyan-300 font-semibold\">AI 인프라 사슬</span>로 기업가치를 포장하고 있습니다.",
-          "6개월 내 물량 해제 예외 조항이 많아 피그마나 세레브라스처럼 <span class=\"text-rose-400 font-medium\">상장 직후 내부자 매도</span>로 인한 급락 악순환의 위험이 있습니다.",
-          "다모다란 교수는 템(TAM) 산정 시 소프트웨어 시장 규모(22조 달러)를 과도하게 부풀려 <span class=\"text-rose-400 font-medium\">AI 버블의 경고 시그널</span>로 작용한다고 지적합니다."
-        ],
-        "data_points": [
-          "스페이스X 시가총액 최소 1.8조 달러 (약 2,700조 원) 규모 전망",
-          "멤피스 콜로서스 데이터센터 1호기: 22만 개 엔비디아 GPU 기반 가동 중",
-          "스페이스X 공모가 135달러, 유통 물량 약 131억 주 중 4.2% 수준 공모",
-          "조정 에비타(EBITDA) 작년 65억 8,400만 달러, EV/EBITDA 배수 275배 수준의 높은 멀티플",
-          "앤스로픽과 월 12.5억 달러(연 150억 달러), 구글과 총 300억 달러 데이터센터 임대 계약 체결",
-          "락업 예외: 주가가 공모가 대비 30% 이상 열흘 중 5일 상승 시 10% 추가 매도 가능"
-        ],
-        "signal": "neutral",
-        "signal_confidence": "high",
-        "signal_reason": "스페이스X의 2,700조 원 규모 IPO가 다가오면서 스타링크 독점력은 긍정적이나, 275배에 달하는 높은 EV/EBITDA 밸류에이션과 내부자 락업 예외 조항에 따른 오버행 우려가 팽팽합니다.",
-        "key_companies": [
-          "스페이스X",
-          "테슬라(TSLA)",
-          "구글(GOOGL)",
-          "앤스로픽",
-          "마이크로소프트(MSFT)"
-        ],
-        "insight": "일론 머스크가 스페이스X 상장을 고집하는 이유는 화성 이주 목적보다 XAI 및 600억 달러 가치의 커서(Cursor) 인수 등 막대한 지상 AI 데이터센터 인프라(콜로서스, 테라 프로젝트) 구축을 위한 자금 조달에 초점이 맞춰져 있습니다. 이는 단기적으로 시장의 자금을 빠라들이는 수급 블랙홀을 야기할 수 있습니다.",
-        "action_point": "스페이스X의 지분 투자가 연계된 간접 수혜주(미래에셋증권, 세아베스틸지주 등)는 변동성을 활용한 매수 기회로 보되, 상장 직후 락업 예외 물량이 풀리는 기간(상장 후 2개월 시점) 동안은 변동성을 극히 경계해야 합니다."
-      },
-      "classification": {
-        "primary_topic": "space",
-        "relevance_score": 9.5
-      }
+batch7_data = [
+    # 31. a5ImJQLXB6w - 크립토 시장 4가지 변화 (crypto / stock)
+    {
+        "id": "a5ImJQLXB6w",
+        "analysis": {
+            "summary": "2026년 암호화폐 시장의 4가지 핵심 구조적 변화로 <span class=\"text-violet-300 font-medium\">미국 입법 명확화</span>, 비트코인 래핑 자산 증가, <span class=\"text-cyan-300 font-semibold\">실물 자산 토큰화(RWA)</span>, 그리고 기관 채권 연계 상품의 확산을 조명함. 제도권 자금 수입구 확충이 크립토 장기 생존의 밑거름이 되고 있음.",
+            "key_claims": [
+                "미국 법안 통과 수순으로 비트코인과 이더리움 중심의 기관 포트폴리오 편입 가속.",
+                "RWA(실물자산 토큰화) 시장 급성장이 기존 전통 금융과의 경계를 무너뜨림."
+            ],
+            "data_points": [
+                "글로벌 RWA 운용 자산 규모: 약 100억 달러 수평 돌파",
+                "기관용 비트코인 수탁(Custody) 자금 유입액 사상 최대 경신"
+            ],
+            "signal": "bullish",
+            "signal_reason": "제도화 진행과 실물 자산 토큰화(RWA) 시장 팽창에 따른 구조적 호재 반영.",
+            "key_companies": ["코인베이스(COIN)", "블랙록(BLK)"],
+            "insight": "크립토 투자는 더 이상 투기성 밈코인이 아니라 전통 금융의 국채 및 부동산 자산과 결합하는 신금융 인프라로 체질 개선됨.",
+            "action_point": "RWA 및 비트코인 현물 ETF 우량 수혜 기관 중심의 장기 가치 저장 수단 비중 확대."
+        },
+        "classification": {
+            "primary_topic": "crypto",
+            "secondary_topics": ["stock", "economy"],
+            "tags": ["크립토변화", "RWA", "비트코인제도화", "미국법안", "크립토PLUS"]
+        }
+    },
+    # 32. iDry02aKBsY - 팔란티어 실적 스페이스X 보호예수 (stock / space)
+    {
+        "id": "iDry02aKBsY",
+        "analysis": {
+            "summary": "개장 전 미국 증시 쟁점으로 <span class=\"text-cyan-300 font-semibold\">팔란티어</span>의 높은 밸류에이션 부담에 따른 실적 발표 후 주가 반응과 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 공매도·보호예수 관련 시장 기류를 점검함. 호실적 발표에도 시장 눈높이에 따라 주가 흔들림이 나타날 수 있음을 경고함.",
+            "key_claims": [
+                "팔란티어는 고PER 주식 특성상 실적 발표 시 시장 기대를 크게 뛰어넘어야 주가 상승 유지.",
+                "스페이스X는 락업(보호예수) 해제 물량 부담에도 장기 이익 성장 기대감이 주가 상방 지지."
+            ],
+            "data_points": [
+                "팔란티어 선행 PER: 70배 이상 유지",
+                "스페이스X 스타링크 2분기 가입자 수 400만 명 육박"
+            ],
+            "signal": "neutral",
+            "signal_reason": "실적 성장세는 입증되었으나 높은 밸류에이션에 따른 개장 전 변동성 상존.",
+            "key_companies": ["팔란티어(PLTR)", "스페이스X", "테슬라(TSLA)"],
+            "insight": "밸류에이션이 높은 초우량 성장주는 실적 서프라이즈 후의 차익 실현 변동성을 견뎌내는 배짱이 필요한 구역임.",
+            "action_point": "개장 전 변동성으로 급락 시 펀더멘털을 확인한 후 눌림목 진입 타이밍으로 활용."
+        },
+        "classification": {
+            "primary_topic": "stock",
+            "secondary_topics": ["space", "tech"],
+            "tags": ["팔란티어실적", "스페이스X보호예수", "개장전요것만", "미국증시", "한경글로벌"]
+        }
+    },
+    # 33. jUhsBTSZLOc - 팔란티어 급등 다우 사상최고치 (stock / tech)
+    {
+        "id": "jUhsBTSZLOc",
+        "analysis": {
+            "summary": "<span class=\"text-cyan-300 font-semibold\">팔란티어</span>가 B2B AI 실적 랠리에 힘입어 시간외 12% 급등하고 <span class=\"text-amber-300 font-bold\">다우 지수가 사상 최고치</span>를 경신한 월가 호재를 상세 타전함. AI 수익화 가능성이 가시화되면서 증시 전반에 연착륙 및 강세장 열기가 재확산됨.",
+            "key_claims": [
+                "팔란티어의 AIP 플랫폼 고객 수가 30% 이상 폭증하며 수익성 증대를 증명함.",
+                "다우 지수의 사상 최고치 경신은 빅테크 외 전통 제조/금융주로의 온기 확산을 의미."
+            ],
+            "data_points": [
+                "팔란티어(PLTR) 시간외 거래: 12% 폭등 기록",
+                "다우존스 산업평균지수: 사상 최고치 경신 마감"
+            ],
+            "signal": "bullish",
+            "signal_reason": "팔란티어의 강력한 어닝 서프라이즈와 다우지수 신고가 경신이 시장 투심을 전면 개선시킴.",
+            "key_companies": ["팔란티어(PLTR)", "골드만삭스(GS)", "마이크로소프트(MSFT)"],
+            "insight": "AI 랠리는 더 이상 뜬구름 잡는 거품이 아니며, 팔란티어처럼 실질적 매출과 이익을 가시화하는 기업이 시장을 사상 최고치로 인도함.",
+            "action_point": "AI 수익화가 입증된 팔란티어 및 관련 B2B AI 소프트웨어 대장주 매수 유지."
+        },
+        "classification": {
+            "primary_topic": "stock",
+            "secondary_topics": ["tech", "economy"],
+            "tags": ["팔란티어급등", "다우사상최고치", "월가뉴스레터", "AI수익화", "삼프로TV"]
+        }
+    },
+    # 34. mXJn3NfqboA - 시장 국면 판단 대응 월스트리트파인더 (stock / economy)
+    {
+        "id": "mXJn3NfqboA",
+        "analysis": {
+            "summary": "8월 현재 글로벌 금융 시장 국면을 <span class=\"text-amber-300 font-bold\">실적 장세 과도기</span> 및 연준 금리 인하 기대감이 교차하는 중기 횡보 구간으로 진단함. 주가 조정을 공포로 보지 않고 <span class=\"text-cyan-300 font-semibold\">핵심 펀더멘털 대형주 저점 매수</span>의 국면 대응 전략을 월가 분석가를 통해 소개함.",
+            "key_claims": [
+                "현재 시장은 밸류에이션 부담 완화 과정에 있으며 실적 모멘텀이 살아있는 한 강세장 기조 유지.",
+                "미국 연준의 금리 인하 재개가 다가옴에 따라 채권 및 기술주 동시 혜택 가능성."
+            ],
+            "data_points": [
+                "월스트리트 주요 IB 2026년 하반기 S&P 500 타깃 지수 상향",
+                "연준 FedWatch 9월 금리 인하 가능성 80% 상회"
+            ],
+            "signal": "bullish",
+            "signal_reason": "시장 국면이 침체가 아닌 이익 성장의 소화 과정이며 금리 인하 수혜 기대 반영.",
+            "key_companies": ["엔비디아(NVDA)", "아마존(AMZN)", "애플(AAPL)"],
+            "insight": "시장의 변동성은 펀더멘털이 훼손된 것이 아니라 실적 상승에 맞춰 주가 숨고르기를 진행하는 정상적인 국면 진통임.",
+            "action_point": "주가 조정 시 도망치지 말고 반도체 및 빅테크 우량주 저점 분할 매수 대응 전략 실행."
+        },
+        "classification": {
+            "primary_topic": "stock",
+            "secondary_topics": ["economy", "tech"],
+            "tags": ["시장국면판단", "월스트리트파인더", "저점매수대응", "금리인하", "미래에셋"]
+        }
+    },
+    # 35. qxm9hQ2zPfk - 삼전닉스 들어가실 분 필수 시청 (stock / tech)
+    {
+        "id": "qxm9hQ2zPfk",
+        "analysis": {
+            "summary": "삼성전자와 SK하이닉스 매수를 고민하는 투자자들에게 필수적인 <span class=\"text-cyan-300 font-semibold\">HBM 수율 및 3분기 실적 가이던스</span> 판단 기준을 정밀 제시함. 단기 주가 흔들림에도 불구하고 <span class=\"text-amber-300 font-bold\">메모리 반도체 슈퍼사이클</span>의 중심 축은 흔들리지 않음을 강조함.",
+            "key_claims": [
+                "삼성전자의 HBM3E 8단/12단 퀄테스트 통과 여부가 하반기 주가 갭상승의 핵심 트리거임.",
+                "SK하이닉스의 HBM3E 독점적 점유율과 사상 최대 영업이익 체력은 하단을 공고히 지지함."
+            ],
+            "data_points": [
+                "SK하이닉스 3분기 영업이익 추정치: 6조 원 이상 경신 전망",
+                "삼성전자 DS부문 이익 개선 폭 전년비 200% 이상 급증"
+            ],
+            "signal": "bullish",
+            "signal_reason": "삼성전자·SK하이닉스의 HBM 실적 성장세가 확고하여 강력한 저점 매수 시그널 제시.",
+            "key_companies": ["삼성전자(005930)", "SK하이닉스(000660)"],
+            "insight": "삼전과 닉스는 대한민국 증시의 핵심 엔진이며, 단기 조정 구간은 저점에 주울 수 있는 최고의 복리 기회임.",
+            "action_point": "주가 급락 시 쫄지 말고 삼성전자와 SK하이닉스 비중을 분할로 확대할 것."
+        },
+        "classification": {
+            "primary_topic": "stock",
+            "secondary_topics": ["tech"],
+            "tags": ["삼전닉스", "삼성전자", "SK하이닉스", "HBM수율", "더블밸류업"]
+        }
+    },
+    # 36. rKt6k8GejzU - 미국증시 강세장 메모리 다음은 비메모리 (stock / tech)
+    {
+        "id": "rKt6k8GejzU",
+        "analysis": {
+            "summary": "미국 증시가 강세장을 이어가는 과정에서 메모리 반도체 랠리에 이어 <span class=\"text-cyan-300 font-semibold\">비메모리 파운드리 및 팹리스</span>로 온기가 확산되는 반도체 순환매 구조를 다룸. <span class=\"text-cyan-300 font-semibold\">TSMC, 엔비디아, 브로드컴</span> 등 글로벌 비메모리 대장주들의 우상향 모멘텀을 정밀 분석함.",
+            "key_claims": [
+                "메모리 반도체(HBM) 주가 급등 이후 시장 자금의 다음 목적지는 파운드리 및 커스텀 ASIC 비메모리 분야임.",
+                "AI 가속기 시장 확대로 인한 맞춤형 칩(ASIC) 설계 및 TSMC 선단 공정 가동률이 사상 최고 수준 지속."
+            ],
+            "data_points": [
+                "TSMC 3나노/2나노 공정 가동률: 100% 풀 가동",
+                "브로드컴(AVGO) 커스텀 AI 칩 매출 성장률: 전년 대비 50% 이상 폭증"
+            ],
+            "signal": "bullish",
+            "signal_reason": "메모리에서 비메모리로 이어지는 글로벌 반도체 순환매 호재 반영.",
+            "key_companies": ["TSMC(TSM)", "엔비디아(NVDA)", "브로드컴(AVGO)", "삼성전자(005930)"],
+            "insight": "반도체 강세장은 메모리 한 영역에 그치지 않고 파운드리 및 커스텀 ASIC 설계로 온기가 확산되는 대형 사이클임.",
+            "action_point": "TSMC 밸류체인 및 국내 반도체 디자인하우스/가온칩스 등 비메모리 관련 수혜주 동시 관심."
+        },
+        "classification": {
+            "primary_topic": "stock",
+            "secondary_topics": ["tech", "economy"],
+            "tags": ["미국증시강세장", "비메모리반도체", "TSMC", "브로드컴", "글로벌인터뷰"]
+        }
+    },
+    # 37. u-l8tYf7Zu4 - 콘서트 즐기는 과학적 방법 (etc)
+    {
+        "id": "u-l8tYf7Zu4",
+        "analysis": {
+            "summary": "콘서트 및 음향 무대 현장에서 라이브 음악을 가장 완벽하고 안전하게 즐기는 <span class=\"text-amber-300 font-bold\">음향 물리학 및 청각 보호 과학</span>을 엔플라잉(N.Flying)과의 초대석 토크로 해설함. 스피커 위치에 따른 음압 전달 및 이명 예방을 위한 청음 팁을 전달함.",
+            "key_claims": [
+                "콘서트장 내 스피커 주파수 특성 및 음압 레벨(dB)에 따라 최적의 청음 구역이 결정됨.",
+                "고음역대 데시벨 폭발 시 이명 예방을 위한 뮤지션용 이어플러그 착용의 중요성."
+            ],
+            "data_points": [
+                "콘서트 라이브 음압 레벨: 평균 100~110dB 육박",
+                "청각 손상 방지 가이드 기준 85dB 이상 장시간 노출 위험"
+            ],
+            "signal": "na",
+            "signal_reason": "음향 물리학 및 밴드 문화 교양 콘텐츠로 직접적인 증시 시그널과 무관함.",
+            "key_companies": ["엔플라잉"],
+            "insight": "음향 공학과 청각 보호 과학은 단순한 라이브 감상을 넘어 일상 속 청각 건강을 키우는 실용적 지식임.",
+            "action_point": "라이브 공연 및 엔터테인먼트 산업의 현장 기술 요소에 대한 교양 지식으로 참고."
+        },
+        "classification": {
+            "primary_topic": "etc",
+            "secondary_topics": [],
+            "tags": ["콘서트과학", "음향물리학", "청각보호", "엔플라잉", "안될과학"]
+        }
     }
-  },
-  "5ApcdsPlJRk": {
-    "topic": "crypto",
-    "content": {
-      "video": {
-        "id": "5ApcdsPlJRk",
-        "title": "비트코인 지금 팔려고 고민하고 계신 분들 주목. 제발 이것만이라도 확인하고 가세요ㅣ이장우·박종한·강승구 [1부]",
-        "published": "2026-06-11T02:00:00+00:00",
-        "channel_name": "이호석아카데미",
-        "url": "https://www.youtube.com/watch?v=5ApcdsPlJRk",
-        "thumbnail": "https://img.youtube.com/vi/5ApcdsPlJRk/hqdefault.jpg"
-      },
-      "analysis": {
-        "summary": "1. 비트코인은 AI 열풍에 따른 <span class=\"text-amber-300 font-bold\">자본 쏠림</span>과 규제 법안(클래리티 법안)의 단기 무산 우려 등으로 유동성이 소외되며 하락세를 겪고 있습니다.\n2. 마이크로스트레티지(MSTR)가 STRC 우선주 배당 지급 및 재무 건전성 확보를 위해 <span class=\"text-cyan-300 font-semibold\">32 BTC를 매도</span>한 것이 단기 악재로 작동했으나, 이는 시스템 붕괴가 아닌 제도화 과정의 일환입니다.\n3. 과거 루나/FTX 파산 시의 신뢰 붕괴 하락장과 달리, 현재는 미국의 준비자산 법안(비트코인 액트) 도입 준비 등 <span class=\"text-cyan-300 font-semibold\">규제 제도화의 건강한 하방 지지력</span>이 유효합니다.",
-        "key_claims": [
-          "AI 빅테크 성장의 블랙홀 현상으로 크립토 시장의 유동성이 일시 차단되며 가격이 <span class=\"text-rose-400 font-medium\">6만 달러 부근</span>까지 조정받았습니다.",
-          "마이크로스트레티지의 첫 비트코인 매도는 신뢰 훼손이 아닌 고객 약속(배당 지급) 이행 및 레버리지 효율화를 증명하여 리스크를 해소한 것입니다.",
-          "하반기로 갈수록 미국의 <span class=\"text-cyan-300 font-semibold\">스테이블코인 법안</span> 및 비트코인 액트(준비금 현대화법) 등 대형 규제 호재들이 대기 중입니다."
-        ],
-        "data_points": [
-          "비트코인 가격 8,000만 원(원화 기준) 돌파 후 조정 국면",
-          "마이크로스트레티지, STRC 우선주 배당 재원 조달 위해 32 BTC 매도",
-          "미국의 비트코인 인식 조사: 85%는 인지하고 있으나, 2,100만 개 발행량 한계를 이해하는 비중은 6%에 불과",
-          "마이크로스트레티지의 비트코인 총 보유량은 여전히 80만 개 이상 유지"
-        ],
-        "signal": "bullish",
-        "signal_confidence": "high",
-        "signal_reason": "마이크로스트레티지의 소규모 매도는 시장의 장기 오버행 우려를 해소하는 실뢰 지표이며, 제도권 수용(비트코인 액트 등) 법안이 하반기에 대기하고 있어 장기 하방을 지지합니다.",
-        "key_companies": [
-          "마이크로스트레티지(MSTR)",
-          "코인베이스(COIN)"
-        ],
-        "insight": "비트코인이 AI와 반도체 섹터의 폭발적 성장에 유동성을 빼앗기며 겪는 단기 조정은 대기 자금이 여전히 풍부함을 감안할 때 오히려 비중 확대의 기회입니다. 특히 일반 대중의 발행량 한계에 대한 인식이 6%에 그친다는 점은 장기적 희소성 가치의 재평가 여력이 큼을 증명합니다.",
-        "action_point": "단기 시세 하락에 휩쓸려 패닉셀하기보다는, 하반기 예정된 미 연방의 법안(스테이블코인법, 비트코인 준비금법) 가시화 일정을 고려하여 분할 적립식 매수를 유지하는 것이 좋습니다."
-      },
-      "classification": {
-        "primary_topic": "crypto",
-        "relevance_score": 9.3
-      }
-    }
-  },
-  "5eeAOpJPBvk": {
-    "topic": "etc",
-    "content": {
-      "video": {
-        "id": "5eeAOpJPBvk",
-        "title": "살 빼도 근육은 지킨다고?…한미약품 직접 다녀왔습니다. | 조희진 하나증권 압구정금융센터 PB [더블 크루]",
-        "published": "2026-06-11T03:00:00+00:00",
-        "channel_name": "삼프로TV_3ProTV",
-        "url": "https://www.youtube.com/watch?v=5eeAOpJPBvk",
-        "thumbnail": "https://img.youtube.com/vi/5eeAOpJPBvk/hqdefault.jpg"
-      },
-      "analysis": {
-        "summary": "1. 한미약품은 자체 보유한 강력한 현금 창출력(연 영업이익 약 2,000억 원)을 기반으로 외부 수급 없이 R&D 비용을 직접 충당하는 <span class=\"text-cyan-300 font-semibold\">견고한 재무 구조</span>를 갖췄습니다.\n2. 4분기에 아시아인 체질 및 췌장 특성에 맞춰 부작용을 최소화한 한국인 맞춤형 <span class=\"text-cyan-300 font-semibold\">비만 치료제(주 1회 주사제)</span>를 국내 출시할 예정입니다.\n3. 비만 치료 시 근육 손실 문제를 해결할 수 있는 '근육 보존 치료제'와 '삼중작용제' 파이프라인의 임상이 진행 중으로 하반기 글로벌 라이선스 아웃(LO)이 기대됩니다.",
-        "key_claims": [
-          "한미약품은 연내 1건 이상의 대형 기술 수출(LO) 약속을 이행하기 위해 신뢰성 높은 임상 데이터를 확보해 나가고 있습니다.",
-          "4분기에 출시될 국내 비만 신약은 글로벌 빅테크 약물 대비 아시아인의 인슐린 분비 능력과 췌장 특징에 적합하게 튜닝되어 <span class=\"text-rose-400 font-medium\">부작용 우려를 낮췄습니다</span>.",
-          "경구형(먹는) 비만 치료제는 궁극적인 방향이지만, 현재는 흡수율과 생체이용률 면에서 <span class=\"text-cyan-300 font-semibold\">주사제형의 효율성</span>이 더 보편적입니다."
-        ],
-        "data_points": [
-          "한미약품의 연간 영업이익 규모 약 2,000억 원 수준 (우수한 R&D 자금 조달력 보유)",
-          "한국인 맞춤형 비만 치료제 국내 출시 목표 시점: 2026년 4분기",
-          "비만 치료 파이프라인: 삼중작용제(LA-Triple) 및 근육 보존제 임상 진행 중"
-        ],
-        "signal": "bullish",
-        "signal_confidence": "high",
-        "signal_reason": "현금 창출이 불가능한 일반 바이오 스타트업과 달리 우량한 영업이익으로 R&D를 독자 집행하며 하반기 비만 파이프라인의 글로벌 라이선스 아웃(LO) 가능성이 높아 모멘텀이 견조합니다.",
-        "key_companies": [
-          "한미약품(128940)",
-          "한미사이언스(008930)"
-        ],
-        "insight": "비만 치료제 시장의 패러다임이 단순한 체중 감량에서 '근육 보존 및 삼중작용'으로 진화하는 가운데, 한미약품이 보유한 퍼스트인클래스(First-in-class) 물질들은 글로벌 빅파마(일라이릴리, 노보노디스크 등)의 강력한 러브콜을 이끌어 낼 핵심 자산이 될 것입니다.",
-        "action_point": "바이오 섹터 내 재무 리스크가 없는 대형 우량 바이오주 위주로 비중을 확대하되, 하반기 4분기 비만 신약 출시 및 기술 수출 가시성 일정에 주목하여 대응하는 것이 바람직합니다."
-      },
-      "classification": {
-        "primary_topic": "etc",
-        "relevance_score": 9.0
-      }
-    }
-  },
-  "bVbctmrmIDk": {
-    "topic": "economy",
-    "content": {
-      "video": {
-        "id": "bVbctmrmIDk",
-        "title": "[26.06.11 오전 방송 전체보기] 전쟁·물가 우려 속 뉴욕증시 하락 마감",
-        "published": "2026-06-11T00:30:00+00:00",
-        "channel_name": "삼프로TV_3ProTV",
-        "url": "https://www.youtube.com/watch?v=bVbctmrmIDk",
-        "thumbnail": "https://img.youtube.com/vi/bVbctmrmIDk/hqdefault.jpg"
-      },
-      "analysis": {
-        "summary": "1. 뉴욕 증시는 지정학적 전쟁 긴장 지속과 <span class=\"text-amber-300 font-bold\">물가 인상 우려</span>가 겹치며 하락세로 마감했으나, 장중 낙폭을 줄이는 변동성 장세를 보였습니다.\n2. 매크로 불확실성에도 불구하고 국내 반도체(삼성전자, SK하이닉스)는 단기 차익 매물을 이겨내고 외국인 수급이 유입되며 <span class=\"text-cyan-300 font-semibold\">하방을 지지</span>하고 있습니다.\n3. 6월 옵션 만기 주간과 겹치며 시장의 일시적 <span class=\"text-rose-400 font-medium\">유동성 변동성</span>이 극대화되고 있지만 중장기적 기초체력은 훼손되지 않았습니다.",
-        "key_claims": [
-          "지정학적 우려와 유가 변동이 매크로 심리를 압박하고 있지만, 실질적인 기업들의 이익 전망치는 견조하게 상향 조정되고 있습니다.",
-          "환율 상승 압박(1,540원대)이 수출 대기업들의 가격 경쟁력과 어닝 기대를 자극하여 주가지수의 <span class=\"text-cyan-300 font-semibold\">극단적인 폭락을 방어</span>하고 있습니다.",
-          "단기 지수 하락은 공포로 인한 반대매매나 패닉셀을 유도하지만, 하반기 어닝 시즌 진입 시 <span class=\"text-amber-300 font-bold\">실적 장세</span>로 회복될 것입니다."
-        ],
-        "data_points": [
-          "코스피 변동성 하락 후 코스닥 낙폭 회복 양전 흐름",
-          "원/달러 환율 1,540원선 근접 수준 유지",
-          "SK하이닉스 등 대형 반도체주 장중 반등(양전) 전환 성공"
-        ],
-        "signal": "neutral",
-        "signal_confidence": "high",
-        "signal_reason": "단기 거시경제(전쟁, 유가) 불안과 환율 급변동으로 리스크 경계 심리가 팽팽하지만, 반도체 및 주주환원 대형주 중심으로 하방 지지력이 증명되어 지수의 하방 압력은 제한적입니다.",
-        "key_companies": [
-          "삼성전자(005930)",
-          "SK하이닉스(000660)"
-        ],
-        "insight": "뉴욕 증시의 하락과 환율 급등은 국내 시장에 외인 자금 이탈 우려를 유발하지만, 고환율 수혜를 받는 수출 전방 산업(반도체, 자동차)의 영업이익 추정치가 오르는 역설적인 헷지(Hedge) 구도를 연출하고 있습니다.",
-        "action_point": "시장 전반의 단기 지수 밴드 하단 이탈 시 패닉셀하기보다, 호실적이 기대되는 대형 반도체 기업 위주로의 저가 분할 매수 대응이 유효합니다."
-      },
-      "classification": {
-        "primary_topic": "economy",
-        "relevance_score": 9.2
-      }
-    }
-  },
-  "jlKh26fxC3Q": {
-    "topic": "tech",
-    "content": {
-      "video": {
-        "id": "jlKh26fxC3Q",
-        "title": "반도체 권위자 : 쇼티지 절대 안 끝난다, 왜 겁 먹어요? | 김록호 & 빈센트 & 편아나 [더블 업]",
-        "published": "2026-06-11T01:30:00+00:00",
-        "channel_name": "삼프로TV_3ProTV",
-        "url": "https://www.youtube.com/watch?v=jlKh26fxC3Q",
-        "thumbnail": "https://img.youtube.com/vi/jlKh26fxC3Q/hqdefault.jpg"
-      },
-      "analysis": {
-        "summary": "1. 반도체 권위자 김록호 위원은 현재 반도체 업황은 대단히 안전하며, 매크로 변동성으로 인한 주가 조정은 <span class=\"text-cyan-300 font-semibold\">비중 확대 기회</span>라고 강조했습니다.\n2. 모바일 기기에 사용되는 <span class=\"text-cyan-300 font-semibold\">LPDDR 쇼티지(공급 부족)</span> 현상은 연내 해결되지 않아 강력한 단가 강세를 이어갈 것입니다.\n3. LPDDR 가격 상승은 D램 전체 블렌디드 ASP(평균판매단가) 상승을 견인하여 삼성전자 및 SK하이닉스의 하반기 실적 전망치를 계속 끌어올릴 것입니다.",
-        "key_claims": [
-          "매크로 이슈에 의한 메모리 반도체 대형주 주가 조정은 펀더멘탈 훼손이 아니므로 적극적인 <span class=\"text-cyan-300 font-semibold\">매수 전략</span>이 필요합니다.",
-          "AI 온디바이스 생태계 확장으로 기존 서버용 HBM뿐 아니라 모바일용 고성능 LPDDR 수요가 폭발해 <span class=\"text-rose-400 font-medium\">쇼티지 장기화</span>가 심화되고 있습니다.",
-          "3분기 잠정 실적 발표 시점(10월 초)까지는 반도체 실적 상향이 확실하므로 단기 노이즈에 동요하지 말아야 합니다."
-        ],
-        "data_points": [
-          "LPDDR 쇼티지 심화 및 모바일 D램 단가 강세 기조 지속",
-          "삼성전자 및 SK하이닉스 3분기 실적 전망치 상향 트렌드 유지",
-          "D램 혼합 평균 판매 단가(ASP) 상승 수치 견조"
-        ],
-        "signal": "bullish",
-        "signal_confidence": "high",
-        "signal_reason": "모바일 AIPC 및 AI 스마트폰 수요에 의한 LPDDR 쇼티지가 메모리 반도체 기업들의 ASP를 구조적으로 올리는 구간이며, 실적 펀더멘탈이 극도로 우수합니다.",
-        "key_companies": [
-          "삼성전자(005930)",
-          "SK하이닉스(000660)"
-        ],
-        "insight": "HBM에만 집중되던 AI 반도체 수혜가 온디바이스 AI 활성화에 따라 모바일 저전력 메모리(LPDDR) 시장으로 빠르게 전이되고 있습니다. 이는 메모리 제조사의 가파른 마진 믹스 개선 및 실적 체력 향상으로 직결되며 반도체 피크아웃 우려를 완벽히 종식시키는 계기가 될 것입니다.",
-        "action_point": "매크로 변동성으로 인해 삼성전자와 SK하이닉스 주가가 조정을 받을 때마다 적극적으로 비중을 확대하고, 최소한 3분기 잠정 실적이 발표되는 10월 초까지는 반도체 섹터의 롱(Long) 관점을 유지해야 합니다."
-      },
-      "classification": {
-        "primary_topic": "tech",
-        "relevance_score": 9.6
-      }
-    }
-  }
-}
+]
 
-# Write results and clean up pending
-pending_dir = Path("data/pending")
-analyzed_base_dir = Path("data/analyzed")
-
-for video_id, info in batch_data.items():
-    topic = info["topic"]
-    content = info["content"]
-    
-    # Write to analyzed path
-    topic_dir = analyzed_base_dir / topic
-    topic_dir.mkdir(parents=True, exist_ok=True)
-    analyzed_path = topic_dir / f"{video_id}.json"
-    analyzed_path.write_text(json.dumps(content, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"Saved: {analyzed_path}")
-    
-    # Delete from pending
-    pending_path = pending_dir / f"{video_id}.json"
-    if pending_path.exists():
+def run():
+    for item_data in batch7_data:
+        vid = item_data["id"]
+        pending_path = Path(f"data/pending/{vid}.json")
+        if not pending_path.exists():
+            print(f"Pending file {vid} not found!")
+            continue
+        raw = json.loads(pending_path.read_text(encoding="utf-8"))
+        video_obj = raw["video"]
+        
+        full_item = {
+            "video": video_obj,
+            "analysis": item_data["analysis"],
+            "classification": item_data["classification"]
+        }
+        
+        valid, errors = validate_item(full_item)
+        if not valid:
+            print(f"Validation failed for {vid}: {errors}")
+            continue
+            
+        primary = item_data["classification"]["primary_topic"]
+        out_dir = Path(f"data/analyzed/{primary}")
+        out_dir.mkdir(parents=True, exist_ok=True)
+        out_file = out_dir / f"{vid}.json"
+        
+        out_file.write_text(json.dumps(full_item, ensure_ascii=False, indent=2), encoding="utf-8")
+        print(f"[SUCCESS] Saved {out_file}")
         pending_path.unlink()
-        print(f"Deleted pending: {pending_path}")
+        print(f"[DELETED] {pending_path}")
+
+if __name__ == "__main__":
+    run()

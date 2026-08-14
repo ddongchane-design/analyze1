@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "JOqiUy602PY",
+    "title": "'아시아 최대 국부 펀드' 삼전닉스 러브콜? | 하창완 하보노의 주식 이야기 대표 [더블 체크]",
+    "published": "2026-08-13T08:06:24+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=JOqiUy602PY",
+    "thumbnail": "https://img.youtube.com/vi/JOqiUy602PY/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "아시아 최대 국부펀드인 싱가포르 <span class=\"text-cyan-300 font-semibold\">테마섹(Temasek)</span>이 최근 주가 조정을 겪은 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>와 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>에 대한 지분 투자 검토 및 매수 타진(러브콜)을 진행 중인 것으로 알려짐. 단기 투기성 헤지펀드가 아닌 장기 국부펀드의 자금 유입은 국내 반도체 투톱의 밸류에이션 바닥 확인과 외국인 수급 턴어라운드를 이끄는 강력한 신호탄으로 평가됨.",
+    "key_claims": [
+      "싱가포르 테마섹 등 글로벌 메가 국부펀드의 반도체 투톱 매수 검토는 주가의 바닥 통과를 의미함.",
+      "중장기 펀드의 선제적 진입은 다른 글로벌 연기금과 국부펀드의 후속 매수를 유발하는 마중물 역할을 수행함."
+    ],
+    "data_points": [
+      "싱가포르 국부펀드(테마섹/GIC): 아시아 최대 규모의 글로벌 자산운용 국부펀드.",
+      "국내 대표 국부펀드 KIC(한국투자공사) 및 노르웨이 국부펀드(NBIM)와 비견되는 초대형 기관 자금."
+    ],
+    "signal": "bullish",
+    "signal_reason": "아시아 최대 국부펀드의 삼성전자/SK하이닉스 지분 매입 타진으로 인한 수급 및 투자 심리의 극적인 반전.",
+    "key_companies": [
+      "삼성전자(005930)",
+      "SK하이닉스(000660)"
+    ],
+    "insight": "패시브 및 헤지펀드의 단기 매도 공세가 일단락된 시점에서 국부펀드의 가치 투자 자금 유입은 주가의 하방 경직성을 극대화함.",
+    "action_point": "글로벌 국부펀드의 매수세 유입 국면에서 삼성전자와 SK하이닉스 비중 확대를 유지할 것."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "테마섹",
+      "삼성전자",
+      "SK하이닉스",
+      "국부펀드",
+      "외국인수급",
+      "반도체러브콜"
+    ]
+  }
+}

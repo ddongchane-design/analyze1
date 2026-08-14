@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "nO5npWPNTYI",
+    "title": "[26.08.13 뉴욕 증시 풀버전] CPI 수치 확인 후 뉴욕 증시 혼조 마감...반도체주는 또 '환호'",
+    "published": "2026-08-13T03:16:01+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=nO5npWPNTYI",
+    "thumbnail": "https://img.youtube.com/vi/nO5npWPNTYI/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 7월 소비자물가지수(CPI)가 시장 예상치에 완벽히 부합하며 인플레이션 재점화 우려를 잠재운 가운데, 뉴욕 증시는 지수별 혼조세 속에서도 <span class=\"text-cyan-300 font-semibold\">반도체 및 AI 인프라 섹터</span>가 독보적인 급등 랠리를 펼침. 네오클라우드 선도 기업 네비우스와 코어위브가 10~20% 폭등하고 엔비디아와 마이크론이 강세를 보이며 AI CapEx 확장에 대한 시장의 전폭적 신뢰를 확인함.",
+    "key_claims": [
+      "CPI 발표로 9월 FOMC 금리 인하 기대감이 기정사실화되면서 증시의 매크로 하방 리스크가 해소됨.",
+      "일반 경기민감주 대비 AI 데이터센터 및 반도체 인프라 기업으로 시장 유동성이 집중되는 'AI 독주 장세'가 재확인됨."
+    ],
+    "data_points": [
+      "미국 7월 CPI: 전년 동기 대비 예상치 부합하며 물가 안정 확인.",
+      "AI 데이터센터 클라우드(네비우스/코어위브) 주가 10~20%대 폭등."
+    ],
+    "signal": "bullish",
+    "signal_reason": "CPI 안정으로 인한 금리 하방 압력과 AI 하드웨어/데이터센터 인프라 기업들의 실적 폭발력 재확인.",
+    "key_companies": [
+      "엔비디아(NVDA)",
+      "마이크론(MU)",
+      "네비우스(NBIS)",
+      "코어위브(CoreWeave)"
+    ],
+    "insight": "거시 경제의 완만한 둔화(소프트 랜딩) 국면에서는 성장을 증명하는 유일한 분야인 AI 테크 인프라로 기관의 자금 쏠림이 더욱 심화됨.",
+    "action_point": "금리 인하 사이클 진입에 맞춰 AI 반도체 및 클라우드 인프라 수혜주에 대한 롱(Long) 포지션을 공격적으로 유지할 것."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy",
+      "tech"
+    ],
+    "tags": [
+      "뉴욕증시",
+      "CPI발표",
+      "반도체환호",
+      "네비우스",
+      "코어위브",
+      "삼프로TV라이브"
+    ]
+  }
+}

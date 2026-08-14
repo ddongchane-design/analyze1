@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "uYvr7czeSBE",
+    "title": "[26.08.13 마감 증시 풀버전] 대만보다 더 센 외국인 폭풍 매수!...하락장 탈출, 다시 달릴 수 있을까?",
+    "published": "2026-08-13T11:03:58+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=uYvr7czeSBE",
+    "thumbnail": "https://img.youtube.com/vi/uYvr7czeSBE/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "외국인 투자자들이 대만 증시(TSMC)보다 한국 증시(<span class=\"text-cyan-300 font-semibold\">삼성전자</span>, <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>)를 더 강하게 순매수(코스피 2.4조 원)하며 아시아 테크 랠리를 견인함. 7월 조정장에서 과도하게 벌어졌던 한국 반도체 주가의 저평가 갭을 메우는 강력한 밸류에이션 리레이팅이 진행 중임.",
+    "key_claims": [
+      "외국인의 한국 증시 순매수 강도가 대만을 추월한 것은 HBM 공급망에서 한국 투톱의 대체 불가능한 수익성을 재평가했기 때문임.",
+      "하락장 공포에서 완전히 벗어나 하반기 실적 랠리로 진입하는 강력한 변곡점 형성."
+    ],
+    "data_points": [
+      "코스피 외국인 순매수 규모: 2조 4,270억 원으로 아시아 주요국 대비 1위 기록."
+    ],
+    "signal": "bullish",
+    "signal_reason": "외국인의 아시아 테크 바스켓 매수에서 한국 반도체에 대한 압도적 선호 확인.",
+    "key_companies": [
+      "삼성전자(005930)",
+      "SK하이닉스(000660)",
+      "TSMC(TSM)"
+    ],
+    "insight": "AI 가속기 시장의 폭발적 성장에서 고대역폭 메모리를 독점 공급하는 한국 반도체 생태계의 전략적 가치가 글로벌 자본에 의해 재확인됨.",
+    "action_point": "한국 반도체 대표주 및 소부장 밸류체인에 대한 적극적인 매수 및 보유 전략을 견지할 것."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "마감증시",
+      "외국인폭풍매수",
+      "대만비교",
+      "삼성전자",
+      "SK하이닉스",
+      "삼프로TV"
+    ]
+  }
+}

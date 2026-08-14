@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "t_gfn1YqOhs",
+    "title": "반도체 다시 올라갈 수 있을까? 환율은 왜 오르고, 코스피는 왜 왜 오를까? | 권혁, 이진우, 염승환, 김학주 [아침N아침]",
+    "published": "2026-08-13T02:41:36+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=t_gfn1YqOhs",
+    "thumbnail": "https://img.youtube.com/vi/t_gfn1YqOhs/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "빅테크 실적 발표를 통해 AI 데이터센터 투자(CapEx)의 강력한 지속성이 재확인되면서 반도체 고점론이 불식됨. 원화 약세와 달러 강세 환경에서도 글로벌 자금이 한국의 <span class=\"text-cyan-300 font-semibold\">HBM</span> 및 <span class=\"text-cyan-300 font-semibold\">메모리 반도체</span> 밸류체인을 집중 매수하는 구조적 원인을 점검함. AI 병목을 해결하는 차세대 네트워킹 및 고대역폭 메모리 기업들의 실적 우상향 추세를 재확인함.",
+    "key_claims": [
+      "빅테크들의 AI 인프라 투자는 축소가 아닌 가속화 단계에 있으며, 반도체 고점론은 기우에 불과함.",
+      "환율 상승 국면에서도 한국 반도체 기업들의 이익 창출력과 글로벌 독점력이 외국인 자금 유입을 강력히 견인함."
+    ],
+    "data_points": [
+      "글로벌 빅테크 CapEx 가이던스: AI 인프라 및 데이터센터 중심 두 자릿수 증가세 유지."
+    ],
+    "signal": "bullish",
+    "signal_reason": "AI CapEx 확장 사이클 유지 및 한국 메모리 반도체 기업들의 견고한 실적 모멘텀.",
+    "key_companies": [
+      "삼성전자(005930)",
+      "SK하이닉스(000660)"
+    ],
+    "insight": "AI 인프라 병목을 극복하려는 전 세계 테크 기업들의 필수 하드웨어 공급처로서 한국 반도체 산업의 위상은 더욱 공고해지고 있음.",
+    "action_point": "반도체 투톱 및 HBM 핵심 장비/소재주를 중심으로 장기 보유 전략을 지속할 것."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "반도체반등",
+      "AI인프라투자",
+      "HBM",
+      "외국인수급",
+      "염승환",
+      "김학주",
+      "아침N아침"
+    ]
+  }
+}

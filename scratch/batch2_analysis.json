@@ -1,0 +1,225 @@
+[
+  {
+    "video": {
+      "id": "dfS2fVvF-1s",
+      "title": "중국 소름돋는 부정부패 클래스 ㄷㄷ",
+      "published": "2026-08-09T11:00:33+00:00",
+      "channel_name": "Softdragon SOD",
+      "url": "https://www.youtube.com/watch?v=dfS2fVvF-1s",
+      "thumbnail": "https://img.youtube.com/vi/dfS2fVvF-1s/hqdefault.jpg"
+    },
+    "analysis": {
+      "summary": "중국 상하이 연구팀이 희귀질환 뇌세포 <span class=\"text-cyan-300 font-semibold\">유전자 편집 임상시험</span>을 무단 진행하다 환아가 사망하자 이를 은폐하고 유가족에게 11억 원 및 사적 금품을 요구한 불법 임상 사건을 다룸. 첨단 바이오 기술의 무분별한 적용과 윤리적 부패가 유전자 치료제 및 바이오 산업의 국가 신뢰도에 미치는 리스크를 조명함.",
+      "key_claims": [
+        "희귀질환 치료를 명목으로 검증되지 않은 유전자 편집을 시도하여 심각한 부작용과 장기 손상으로 임상 대상 아동이 사망함.",
+        "연구진이 은폐 조작을 감행하고 유가족에게 과도한 임상 비용과 금품을 갈취하는 등 중국 바이오 연구 현장의 부정부패 수준이 심각함.",
+        "<span class=\"text-rose-400 font-medium\">바이오 유전자 치료제 글로벌 규제</span> 강화 및 윤리 검증이 강화되는 계기가 될 것임."
+      ],
+      "data_points": [
+        "유가족 무단 지불 임상 비용: 약 11억 원",
+        "임상 유형: 희귀질환 대상 뇌세포 유전자 편집",
+        "사고 결과: 면역 거부 반응 및 장기 손상으로 인한 사망"
+      ],
+      "signal": "bearish",
+      "signal_reason": "<span class=\"text-rose-400 font-medium\">불법 임상 및 연구 윤리 위반</span>으로 중국 바이오 임상 데이터의 국제적 신뢰성이 실추되고 관련 파이프라인 규제가 엄격해질 전망.",
+      "key_companies": [
+        "상하이 유전자연구팀"
+      ],
+      "insight": "첨단 유전자 치료제 개발 시장에서 연구 윤리 및 데이터 투명성은 기술력 못지않은 핵심 경쟁력이므로, 규제 준수 역량을 갖춘 바이오 기업에 선별적 접근이 필요함.",
+      "action_point": "중국 임상 파이프라인에 의존하는 바이오 기업의 인허가 리스크 및 규제 리스크를 재검토해야 함."
+    },
+    "classification": {
+      "primary_topic": "tech",
+      "secondary_topics": [
+        "etc"
+      ],
+      "tags": [
+        "유전자편집",
+        "중국바이오",
+        "임상부작용",
+        "연구윤리",
+        "바이오리스크"
+      ]
+    }
+  },
+  {
+    "video": {
+      "id": "FHJmPBZXLrc",
+      "title": "수익 70%가 해외에서? 글로벌로 뻗어간 일본 메가뱅크 #교양이를부탁해 #일본 #엔화 #키옥시아 #반도체",
+      "published": "2026-08-05T11:15:35+00:00",
+      "channel_name": "교양이를 부탁해",
+      "url": "https://www.youtube.com/watch?v=FHJmPBZXLrc",
+      "thumbnail": "https://img.youtube.com/vi/FHJmPBZXLrc/hqdefault.jpg"
+    },
+    "analysis": {
+      "summary": "일본 3대 <span class=\"text-cyan-300 font-semibold\">메가뱅크(MUFG, SMFG, 미즈호)</span>가 디플레이션과 제로 금리 환경을 극복하고 해외 M&A와 대출 확대를 통해 해외 수익 비중을 70% 이상으로 끌어올린 사업 체질 전환 성과를 분석함. 국내 대출 한계를 넘어 글로벌 종합 금융그룹으로 재평가받으며 시가총액 상승을 이끈 성장 동력을 다룸.",
+      "key_claims": [
+        "2008년 금융위기 이후 해외 금융사 인수를 적극 추진하여 2025년 기준 메가뱅크 3사의 <span class=\"text-amber-300 font-bold\">해외 수익 비중이 70%를 돌파</span>함.",
+        "단순 금리 인상 수혜를 넘어 글로벌 대출 포트폴리오 다변화와 고수익 M&A가 실적 구조를 근본적으로 개혁함.",
+        "일본 메가뱅크는 글로벌 시장에서 주요 금융 공급자로 자리 잡으며 시가총액 리레이팅을 달성함."
+      ],
+      "data_points": [
+        "일본 3대 메가뱅크: MUFG, SMFG, 미즈호",
+        "해외 수익 비중 변화: 2008년 대비 2025년 기준 70% 이상으로 급증",
+        "주요 전환 계기: 2008년 리먼 사태 이후 해외 자산 저가 매수"
+      ],
+      "signal": "bullish",
+      "signal_reason": "수익 포트폴리오의 글로벌 다변화와 일본 금리 정상화 기조가 맞물려 장기적 수익성 확장이 유지됨.",
+      "key_companies": [
+        "MUFG",
+        "SMFG",
+        "미즈호"
+      ],
+      "insight": "저성장·저금리 환경에 직면한 은행업이 성장을 도모하기 위해서는 해외 금융 M&A와 국경 간 대출(Cross-border lending) 경쟁력 확보가 필수적임.",
+      "action_point": "글로벌 사업 비중이 높고 밸류업 및 자산 효율화가 진행 중인 금융주의 시가총액 상향 동향을 주시해야 함."
+    },
+    "classification": {
+      "primary_topic": "stock",
+      "secondary_topics": [
+        "economy"
+      ],
+      "tags": [
+        "일본메가뱅크",
+        "MUFG",
+        "SMFG",
+        "해외금융M&A",
+        "금융주리레이팅"
+      ]
+    }
+  },
+  {
+    "video": {
+      "id": "i4EOmcUX4Cc",
+      "title": "[지식뉴스] \"바닥은 나왔어요. 그런데...\" 반도체 반등 이어 급등, 진짜 조정 끝났나...환호할 때가 가장 위험한 이유 / 교양이를 부탁해",
+      "published": "2026-08-05T12:00:24+00:00",
+      "channel_name": "교양이를 부탁해",
+      "url": "https://www.youtube.com/watch?v=i4EOmcUX4Cc",
+      "thumbnail": "https://img.youtube.com/vi/i4EOmcUX4Cc/hqdefault.jpg"
+    },
+    "analysis": {
+      "summary": "<span class=\"text-cyan-300 font-semibold\">반도체 및 AI 데이터센터 투자</span> 급등 후 조정 장세에서 군중 심리에 휘둘리지 않는 가치 투자 원칙을 제시함. AI 데이터센터 설립 인허가 지연 및 금융 PF 리스크 우려를 짚는 한편, 대다수가 공포에 도망치는 불황기에 펀더멘탈이 견고한 반도체·전력 인프라 우량주를 저가 매수하는 전략의 필요성을 강조함.",
+      "key_claims": [
+        "모두가 환호하고 호재가 선명할 때가 가장 위험하며, 불확실성이 팽배하고 주가가 할인될 때 가치 매수가 이루어져야함.",
+        "<span class=\"text-rose-400 font-medium\">데이터센터 인허가 및 금융 PF 리스크</span>가 가을 이후 시장의 발작 요소로 작용할 가능성을 경계해야 함.",
+        "반도체 사이클은 본질적 가치(펀더멘탈) 대비 가격의 할인가를 판단하여 공포 구간에 모아가는 장기 관점이 승리함."
+      ],
+      "data_points": [
+        "투자 성공 핵심 조건: 펀더멘탈 대비 주가 할인(Margin of Safety) 확보",
+        "리스크 모니터링 대상: 데이터센터 PF 대출 및 전력 인프라 인허가 추이",
+        "반도체 사이클 특성: 열광의 끝자락보다 불황기 저가 매수가 높은 수익률 제공"
+      ],
+      "signal": "neutral",
+      "signal_reason": "AI 장기 성장성은 확실하나 단기 밸류에이션 부담과 데이터센터 투자 속도 조절 리스크가 공존함.",
+      "key_companies": [
+        "삼성전자",
+        "SK하이닉스",
+        "LS"
+      ],
+      "insight": "시장의 고점에서는 악재를 무시하고 저점에서는 호재를 무시하는 군중 심리를 역이용하여, 불확실성 속에서 단단한 가치를 저가에 매수해야 함.",
+      "action_point": "단기 급등에 따른 뇌동매수를 자제하고, 시장 조정 시 반도체 및 전력 인프라 대장주의 분할 매수 기회를 모색해야 함."
+    },
+    "classification": {
+      "primary_topic": "stock",
+      "secondary_topics": [
+        "tech",
+        "economy"
+      ],
+      "tags": [
+        "반도체사이클",
+        "데이터센터PF",
+        "가치투자",
+        "역발상매수",
+        "삼성전자"
+      ]
+    }
+  },
+  {
+    "video": {
+      "id": "iscDOa19YRg",
+      "title": "\"수익은 민간이, 손실은 정부가\" 일본의 파격 투자법 #교양이를부탁해 #일본 #엔화 #키옥시아 #반도체",
+      "published": "2026-08-05T11:45:01+00:00",
+      "channel_name": "교양이를 부탁해",
+      "url": "https://www.youtube.com/watch?v=iscDOa19YRg",
+      "thumbnail": "https://img.youtube.com/vi/iscDOa19YRg/hqdefault.jpg"
+    },
+    "analysis": {
+      "summary": "일본 정부가 경제 안보 및 첨단 인프라 투자를 촉진하기 위해 도입한 <span class=\"text-amber-300 font-bold\">'수익은 민간이, 손실은 정부가'</span> 손실 보전 출자 구조(SPV 후순위 출자)를 분석함. 정부 금융기관(JBIC)이 손실의 선순위 위험을 떠안고 민간 메가뱅크가 안전하게 융자를 실행할 수 있도록 보증체계를 구축한 경제안보 금융 모델을 다룸.",
+      "key_claims": [
+        "정부 출자기관(JBIC)이 앵커 역할을 맡아 사업 손실 시 후순위로 먼저 부담하는 구조를 설계함.",
+        "민간 메가뱅크 3사는 리스크 부담을 최소화한 상태에서 고수익 인프라 사업에 자금을 투입함.",
+        "<span class=\"text-cyan-300 font-semibold\">경제 안보 전략 사업(반도체, 에너지, 통신)</span>에 민간 자본을 유인하는 파격적 금융 공학 스킴임."
+      ],
+      "data_points": [
+        "금융 구조 특성: SPV(특수목적법인) 기반 민관 합동 출자",
+        "손실 분담 순서: 정부(JBIC) 선제 손실 흡수 -> 민간 금융사 융자 보호",
+        "적용 분야: 해외 에너지 인프라 및 핵심 공급망 재편 프로젝트"
+      ],
+      "signal": "bullish",
+      "signal_reason": "<span class=\"text-amber-300 font-bold\">정부의 손실 보증 체계</span>로 민간 금융사의 투자 안정성이 획기적으로 개선되어 대형 프로젝트 성공 가능성이 증대됨.",
+      "key_companies": [
+        "JBIC",
+        "일본 메가뱅크 3사"
+      ],
+      "insight": "국가 전략 산업 지원 시 단순 보조금 지급을 넘어 민간 자본의 리스크를 제거해주는 후순위 금융 스킴이 대규모 자본 동원의 핵심 모범 사례가 됨.",
+      "action_point": "정부 보증 금융 스킴을 업고 해외 공급망 인프라 사업을 수주하는 글로벌 엔지니어링 및 금융주의 수혜 여부를 살필 필요가 있음."
+    },
+    "classification": {
+      "primary_topic": "economy",
+      "secondary_topics": [
+        "stock"
+      ],
+      "tags": [
+        "경제안보",
+        "JBIC",
+        "민관합동금융",
+        "후순위출자",
+        "일본금융스킴"
+      ]
+    }
+  },
+  {
+    "video": {
+      "id": "M0x48jToDdI",
+      "title": "\"엔고 때 모건스탠리를 샀다\" 일본 메가뱅크가 판을 뒤집은 비결 #교양이를부탁해 #일본 #엔화 #키옥시아 #반도체",
+      "published": "2026-08-05T11:00:37+00:00",
+      "channel_name": "교양이를 부탁해",
+      "url": "https://www.youtube.com/watch?v=M0x48jToDdI",
+      "thumbnail": "https://img.youtube.com/vi/M0x48jToDdI/hqdefault.jpg"
+    },
+    "analysis": {
+      "summary": "2008년 글로벌 금융위기 당시 일본 <span class=\"text-cyan-300 font-semibold\">MUFG가 엔고 수혜를 활용해 모건스탠리 지분을 전격 인수</span>한 역발상 M&A 성공 사례를 조명함. 리먼 브러더스 파산 후 부도 위기에 몰린 모건스탠리에 대규모 출자를 단행하여 10년 만에 투자금의 2배 이상을 회수하고 글로벌 투자은행(IB) 파트너십을 확보한 전략적 승부수를 분석함.",
+      "key_claims": [
+        "2008년 위기 시 엔화 가치 급등(엔고)을 발판 삼아 헐값에 나온 미국 월가 핵심 금융사 모건스탠리 지분을 저가 매수함.",
+        "모건스탠리 주가 42% 폭락 직후 단행된 MUFG의 출자는 모건스탠리의 파산을 막고 팽창하는 글로벌 수익원을 확보함.",
+        "금융 위기 속 강한 통화 파워와 과감한 리더십이 만났을 때 대규모 지분 가치 상승(2배 이상)을 창출함."
+      ],
+      "data_points": [
+        "인수 시점: 2008년 리먼 파산 직후 모건스탠리 3일간 42% 폭락 시기",
+        "투자 성과: 10년 후 투자 원금 대비 2배 이상의 수익 회수",
+        "글로벌 IB 결합: MUFG - Morgan Stanley 합작 증권 체제 구축"
+      ],
+      "signal": "bullish",
+      "signal_reason": "위기 시 확보한 우량 월가 IB 지분이 장기적 지분법 이익과 시너지 효과를 창출하여 안정적 자본 성장을 견인함.",
+      "key_companies": [
+        "MUFG",
+        "Morgan Stanley",
+        "Lehman Brothers"
+      ],
+      "insight": "글로벌 금융 재편기에는 자국 통화의 강세 및 튼튼한 재무제표를 바탕으로 월가 핵심 자산을 저가 매수한 기업이 최종 승자가 됨.",
+      "action_point": "금융위기 및 매크로 변동성 확대 시 우량 해외 M&A 지분을 확보한 금융 지주사의 장기 가치 상승 가능성을 주목해야 함."
+    },
+    "classification": {
+      "primary_topic": "stock",
+      "secondary_topics": [
+        "economy"
+      ],
+      "tags": [
+        "MUFG",
+        "모건스탠리",
+        "엔고M&A",
+        "글로벌금융위기",
+        "월가투자"
+      ]
+    }
+  }
+]

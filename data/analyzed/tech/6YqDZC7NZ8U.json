@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "6YqDZC7NZ8U",
+    "title": "DDR4 구형 모델 가격이 오른 이유",
+    "published": "2026-08-13T08:30:27+00:00",
+    "channel_name": "안될공학 - IT 테크 신기술",
+    "url": "https://www.youtube.com/watch?v=6YqDZC7NZ8U",
+    "thumbnail": "https://img.youtube.com/vi/6YqDZC7NZ8U/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "구형 규격인 <span class=\"text-cyan-300 font-semibold\">DDR4</span> D램 가격이 최근 반등한 배경을 분석함. 주요 메모리 제조사들이 DDR5와 HBM 등 고부가 차세대 공정으로 생산 라인을 대거 전환하면서 DDR4 공급 여력이 극도로 축소된 상태에서, AI 데이터센터 확장에 따른 <span class=\"text-cyan-300 font-semibold\">기업용 SSD(eSSD)</span> 캐시용 D램 수요가 맞물려 발생한 공급 불균형 현상임.",
+    "key_claims": [
+      "DDR4 가격 상승은 레거시 수요의 전반적 부활이라기보다, 공급이 이미 축소된 특정 규격에 기업용 SSD 버퍼 메모리 수요가 집중되어 나타난 현상임.",
+      "메모리 제조사들의 선단 공정(DDR5/HBM) 집중으로 구형 레거시 D램의 공급 쇼티지가 단기 가격 왜곡을 유발함."
+    ],
+    "data_points": [
+      "서버 메인 메모리/PC/모바일이 D램 수요의 핵심이나, eSSD용 D램 추가 주문이 타이트한 DDR4 공급망을 자극함."
+    ],
+    "signal": "neutral",
+    "signal_reason": "DDR4 가격 상승은 공급 축소와 일시적 SSD 수요가 빚어낸 니치 마켓 현상으로, 메모리 산업 전반의 성장 동력은 여전히 DDR5/HBM에 집중되어 있음.",
+    "key_companies": [
+      "삼성전자(005930)",
+      "SK하이닉스(000660)"
+    ],
+    "insight": "제조사들의 선제적인 공급 감축(CapEx 통제)이 유지되는 한, 레거시 제품군에서도 작은 수요 변화에 따른 가격 변동성이 크게 나타날 수 있음을 시사함.",
+    "action_point": "구형 메모리 가격 반등에 따른 단기 수혜보다는 첨단 HBM3E/HBM4 및 서버용 DDR5 시장 지배력을 가진 선도 업체를 중심으로 포트폴리오를 유지할 것."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "DDR4",
+      "D램가격",
+      "기업용SSD",
+      "메모리반도체",
+      "SK하이닉스",
+      "삼성전자"
+    ]
+  }
+}

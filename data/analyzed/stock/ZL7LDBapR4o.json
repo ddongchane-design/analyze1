@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "ZL7LDBapR4o",
+    "title": "메타, 로보틱스데이에 주가 14% 급등...美 주요 지치 최고치, 금리 인하 기대 속 수혜주는? [모닝 브리핑]",
+    "published": "2026-08-13T22:05:34+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=ZL7LDBapR4o",
+    "thumbnail": "https://img.youtube.com/vi/ZL7LDBapR4o/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">메타(Meta)</span>가 로보틱스 데이에서 오픈소스 피지컬 AI 플랫폼과 차세대 비전 모델을 공개하며 주가가 하루 만에 <span class=\"text-emerald-400 font-semibold\">14% 급등</span>함. 미국 PPI 지표 안정에 힘입어 9월 금리 인하 기대감이 강화되면서 뉴욕 증시 3대 지수가 일제히 사상 최고치권에 도달함. 빅테크들의 AI 인프라 투자(CapEx) 확대가 소프트웨어뿐 아니라 로보틱스 하드웨어 및 클라우드 서비스 기업들의 전방위적 실적 서프라이즈로 연결되고 있음.",
+    "key_claims": [
+      "메타의 로보틱스 진출과 피지컬 AI 생태계 선언은 빅테크의 AI 전쟁이 모바일/웹에서 로봇/제조 하드웨어로 전면 확장되었음을 의미함.",
+      "물가 지표 완화와 금리 인하 기대가 테크 성장주의 밸류에이션 확장을 강력히 견인하고 있음."
+    ],
+    "data_points": [
+      "메타(Meta) 주가 일간 변동: 로보틱스 데이 발표 후 14% 폭등.",
+      "미국 3대 지수(다우, S&P500, 나스닥) 동반 상승세 기록."
+    ],
+    "signal": "bullish",
+    "signal_reason": "메타의 로봇 AI 플랫폼 확장과 금리 인하 수혜가 맞물리며 빅테크 및 피지컬 AI 밸류체인의 강력한 랠리 지속.",
+    "key_companies": [
+      "메타(META)",
+      "엔비디아(NVDA)",
+      "테슬라(TSLA)"
+    ],
+    "insight": "메타의 오픈소스 전략이 라마(LLaMA)에 이어 피지컬 로보틱스 AI 영역까지 확장되면서, 로봇용 AI 모델 개발 속도가 기하급수적으로 빨라지고 있음.",
+    "action_point": "메타의 피지컬 AI 오픈소스 생태계와 연계된 로봇 하드웨어 및 AI 엣지 디바이스 관련 수혜주에 적극 관심을 가질 것."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "robot",
+      "tech"
+    ],
+    "tags": [
+      "메타",
+      "로보틱스데이",
+      "피지컬AI",
+      "금리인하기대",
+      "뉴욕증시최고치",
+      "모닝브리핑"
+    ]
+  }
+}

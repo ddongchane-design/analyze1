@@ -1,0 +1,229 @@
+[
+  {
+    "video": {
+      "id": "MEABE14-HUg",
+      "title": "일본 대지진 터지면 서울 아파트까지 덮친다 (연세대 지구시스템학과 홍태경 교수)",
+      "published": "2026-08-05T07:55:08+00:00",
+      "channel_name": "언더스탠딩_Understanding",
+      "url": "https://www.youtube.com/watch?v=MEABE14-HUg",
+      "thumbnail": "https://img.youtube.com/vi/MEABE14-HUg/hqdefault.jpg"
+    },
+    "analysis": {
+      "summary": "일본 큐슈 지역 히나고 단층에서 발생한 규모 7.1 지진과 난카이 해곡 대지진 연계 우려가 한반도 구조물 안정성에 미치는 역학적 진동 여파를 해설함. 500km 떨어진 한반도에도 수십cm 수준의 긴 장주기 지진동이 전달될 수 있으며, 초고층 아파트 및 인프라의 장주기 공진 리스크 및 내진 설계 강화를 진단함.",
+      "key_claims": [
+        "2016년 구마모토 지진 이후 축적된 응력이 히나고 단층을 따라 남서쪽으로 전이되며 10년 만에 연쇄 대형 지진이 재발함.",
+        "규모 9.0 수준의 초대형 지진 발생 시 500km 거리인 한국 남해안 및 수도권 초고층 건물에도 <span class=\"text-rose-400 font-medium\">30cm 이상의 장주기 흔들림</span>이 발생할 수 있음.",
+        "<span class=\"text-amber-300 font-bold\">지진 응력 전이 및 장주기 공진현상</span>에 대비해 국내 건설·인프라 내진 기준 진단이 요구됨."
+      ],
+      "data_points": [
+        "큐슈 히나고 단층 길이: 약 80km 이상",
+        "2016년 7.3 지진 발생 10년 만에 규모 7.1 재발",
+        "규모 9.0 지진 발생 시 한반도 남해안 지진동 전달 폭: 약 30cm 예상"
+      ],
+      "signal": "neutral",
+      "signal_reason": "자연재해 지진 리스크 분석으로 시장 영향은 중립적이나 국내 건축·재난 안전 보강 산업의 중요성이 부각됨.",
+      "key_companies": [
+        "연세대학교 지구시스템학과"
+      ],
+      "insight": "단층 파괴와 지진 응력은 국경을 가리지 않으므로 인근 국가의 대형 지진 파동이 국내 고층 인프라에 미치는 장주기 진동 영향을 정밀 분석하여 안전 인프라를 보강해야 함.",
+      "action_point": "초고층 아파트 및 대형 산업시설의 장주기 공진 내진 설계 및 재난 안전 관련 분야의 관심이 필요함."
+    },
+    "classification": {
+      "primary_topic": "etc",
+      "secondary_topics": [
+        "economy"
+      ],
+      "tags": [
+        "일본지진",
+        "단층파괴",
+        "장주기공진",
+        "서울아파트내진",
+        "재난안전"
+      ]
+    }
+  },
+  {
+    "video": {
+      "id": "TQ-JZFEXxRw",
+      "title": "현대차 로봇 파운드리 추진... 정부는 왜 휴머노이드 1000대 보급에 나섰나?",
+      "published": "2026-08-08T10:46:36+00:00",
+      "channel_name": "엔지니어TV",
+      "url": "https://www.youtube.com/watch?v=TQ-JZFEXxRw",
+      "thumbnail": "https://img.youtube.com/vi/TQ-JZFEXxRw/hqdefault.jpg"
+    },
+    "analysis": {
+      "summary": "한국 정부의 <span class=\"text-amber-300 font-bold\">10대 제조업 휴머노이드 1,000대 보급 국가 전략</span>과 현대차 그룹의 새만금 <span class=\"text-cyan-300 font-semibold\">'로봇 파운드리' 및 피지컬 AI 데이터 공장</span> 구축 구상을 조명함. 미국(SW)과 중국(양산·데이터) 간 격차를 극복하기 위해 반도체 TSMC 모델처럼 로봇 위탁 생산 및 300개 제조 공정 로봇 학습 데이터 라이브러리를 국가 차원에서 일원화 구축하는 로드맵을 다룸.",
+      "key_claims": [
+        "현대차가 추진하는 새만금 로봇 제조 거점은 자사 로봇뿐 아니라 글로벌 다양한 로봇을 위탁 생산하는 '로봇 파운드리'로 확장될 전망임.",
+        "정부가 철강, 석유화학, 조선, 자동차 등 10대 산업 300개 제조 공정에 특화된 휴머노이드 1,000대를 보급하고 <span class=\"text-cyan-300 font-semibold\">피지컬 AI 데이터 라이브러리</span>를 통합 관리함.",
+        "액추에이터, 센서, 로봇 핸드 등 피지컬 AI 핵심 부품 국산화 및 대량 생산 생태계 확보가 국가 산업 경쟁력의 성패를 좌우함."
+      ],
+      "data_points": [
+        "정부 목표: 10대 주력 산업, 300개 제조 공정 휴머노이드 1,000대 보급",
+        "핵심 거점: 새만금 로봇 파운드리 및 로봇 훈련 학습 센터",
+        "핵심 개발 부품: 액추에이터, 감속기, 센서, 로봇 핸드"
+      ],
+      "signal": "bullish",
+      "signal_reason": "<span class=\"text-amber-300 font-bold\">정부 주도 휴머노이드 로봇 보급</span>과 현대차 파운드리 투자로 국내 로봇 부품 및 완제품 체인의 비약적 성장이 기대됨.",
+      "key_companies": [
+        "현대자동차",
+        "보스턴다이내믹스",
+        "TSMC"
+      ],
+      "insight": "제조업 강국인 한국의 공정 데이터를 표준화하여 피지컬 AI 데이터 라이브러리로 변환하는 전면적 파운드리 전략은 글로벌 로봇 생태계에서 독보적인 진입장벽을 형성할 것임.",
+      "action_point": "새만금 로봇 파운드리와 정부 보급 정책의 수혜를 받는 액추에이터, 감속기, 로봇 핸드 핵심 부품 기업에 대한 비중 확대가 추천됨."
+    },
+    "classification": {
+      "primary_topic": "robot",
+      "secondary_topics": [
+        "tech",
+        "stock"
+      ],
+      "tags": [
+        "로봇파운드리",
+        "현대차로봇",
+        "피지컬AI",
+        "휴머노이드1000대",
+        "새만금로봇"
+      ]
+    }
+  },
+  {
+    "video": {
+      "id": "vqgKhMrCYlY",
+      "title": "마운자로 충격적인 부작용",
+      "published": "2026-08-08T11:00:05+00:00",
+      "channel_name": "Softdragon SOD",
+      "url": "https://www.youtube.com/watch?v=vqgKhMrCYlY",
+      "thumbnail": "https://img.youtube.com/vi/vqgKhMrCYlY/hqdefault.jpg"
+    },
+    "analysis": {
+      "summary": "글로벌 대박을 친 일라이릴리의 <span class=\"text-cyan-300 font-semibold\">GLP-1 비만치료제 마운자로(Mounjaro)</span> 처방량이 국내 출시 후 폭증하는 가운데, 최근 임상 데이터에서 새로 보고된 <span class=\"text-rose-400 font-medium\">탈모 위험 부작용(37~68% 위험 급증)</span> 이슈를 다룸. 폭발적 수요와 함께 부작용 리스크가 제약·바이오 주가 및 복용 안전성에 미치는 여파를 분석함.",
+      "key_claims": [
+        "마운자로 처방량이 출시 첫 달 대비 1128% 폭증하며 한 달 20만 건 이상 처방되는 비만 치료제 열풍이 이어짐.",
+        "최근 보고된 임상 피드백에서 투여 환자의 탈모 위험도가 37~68% 급증하는 신규 부작용 데이터가 포착됨.",
+        "급격한 체중 감량에 따른 휴행성 탈모 및 펩타이드 약물 자체 반응에 대한 안전성 이슈가 주목받고 있음."
+      ],
+      "data_points": [
+        "마운자로 처방 증가율: 첫 달 대비 1128% 폭증",
+        "월 처방 건수: 약 20만 건 이상",
+        "탈모 부작용 위험 증가율: 37% ~ 68% 급증"
+      ],
+      "signal": "neutral",
+      "signal_reason": "비만치료제 시장의 팽창 속도는 강력하나 부작용 리스크 불확실성에 따른 과열 식히기 조정을 유의해야 함.",
+      "key_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "insight": "글로벌 블록버스터 GLP-1 약물의 처방 폭증 속에서 발생하는 부작용 데이터는 안전성 경고와 동시에 탈모 치료 등 연관 헬스케어 시장의 반사 이익으로 연결될 수 있음.",
+      "action_point": "마운자로 및 비만치료제 관련 제약 바이오주의 부작용 보고 추이와 헬스케어 보조 시장 동향을 주시해야 함."
+    },
+    "classification": {
+      "primary_topic": "tech",
+      "secondary_topics": [
+        "stock"
+      ],
+      "tags": [
+        "마운자로",
+        "GLP1",
+        "비만치료제",
+        "일라이릴리",
+        "탈모부작용"
+      ]
+    }
+  },
+  {
+    "video": {
+      "id": "wczq9bDmu2Y",
+      "title": "삼성SDI 전고체 배터리, 전기차보다 휴머노이드가 먼저 쓰는 이유",
+      "published": "2026-08-09T10:19:57+00:00",
+      "channel_name": "엔지니어TV",
+      "url": "https://www.youtube.com/watch?v=wczq9bDmu2Y",
+      "thumbnail": "https://img.youtube.com/vi/wczq9bDmu2Y/hqdefault.jpg"
+    },
+    "analysis": {
+      "summary": "삼성SDI가 2027년 하반기 양산 예정인 <span class=\"text-cyan-300 font-semibold\">전고체 배터리(Solid-state battery)</span>의 첫 상용화 적용 대상으로 전기차(EV) 대신 <span class=\"text-amber-300 font-bold\">휴머노이드 로봇 및 우주항공</span>을 전격 선정한 배경을 분석함. 캐즘을 겪는 전기차 시장 대비 고출력·고안전성 프리미엄 가격 지불 용의가 높은 로봇 및 위성 시장을 선점하려는 배터리 3사의 차세대 타겟 전환을 다룸.",
+      "key_claims": [
+        "삼성SDI가 전고체 배터리 최초 상용화 프로토타입을 휴머노이드 로봇 업체들에 하반기 샘플 공급하기로 확정함.",
+        "휴머노이드용 배터리 수요는 2030년까지 연평균 2배 이상 성장하며, 우주 항공 위성 시장도 연 60% 이상 성장하는 고부가가치 분야임.",
+        "리튬메탈 무음극/황화물계 전고체 기술을 둘러싸고 삼성SDI, SK온(팩토리얼 협력), LG엔솔 등 국내 배터리 3사의 경쟁이 심화됨."
+      ],
+      "data_points": [
+        "전고체 배터리 양산 목표 시점: 2027년 하반기",
+        "휴머노이드 배터리 시장 성장률: 2030년까지 매년 100% 이상 (2배 이상)",
+        "우주 항공 배터리 시장 성장률: 2030년까지 연평균 60% 이상"
+      ],
+      "signal": "bullish",
+      "signal_reason": "<span class=\"text-amber-300 font-bold\">차세대 전고체 배터리의 타겟 다변화</span>(로봇·우주)로 2차전지 산업의 밸류에이션 재반등 모멘텀 형성.",
+      "key_companies": [
+        "삼성SDI",
+        "SK온",
+        "LG에너지솔루션",
+        "QuantumScape"
+      ],
+      "insight": "전기차 캐즘 속에서 고에너지 밀도와 안전성이 필수적인 휴머노이드 로봇이 차세대 럭셔리 배터리의 최초 시장(Early Adoption Market)으로 급부상하고 있음.",
+      "action_point": "휴머노이드 로봇 배터리 샘플 공급이 가시화되는 삼성SDI 및 전고체 소재/장비 밸류체인의 중장기 수혜에 주목해야 함."
+    },
+    "classification": {
+      "primary_topic": "robot",
+      "secondary_topics": [
+        "energy",
+        "stock"
+      ],
+      "tags": [
+        "삼성SDI",
+        "전고체배터리",
+        "휴머노이드배터리",
+        "우주항공배터리",
+        "2차전지"
+      ]
+    }
+  },
+  {
+    "video": {
+      "id": "wGxYJRtncEk",
+      "title": "AI 데이터센터, 짓는대로 돈 된다… SpaceX가 서둘러 10GW 데이터센터 건설 하는 이유! Microsoft가 고객? SemiAnalysis 전력 당 매출 분석",
+      "published": "2026-08-09T08:13:38+00:00",
+      "channel_name": "안될공학 - IT 테크 신기술",
+      "url": "https://www.youtube.com/watch?v=wGxYJRtncEk",
+      "thumbnail": "https://img.youtube.com/vi/wGxYJRtncEk/hqdefault.jpg"
+    },
+    "analysis": {
+      "summary": "SpaceX가 분기 매출의 2배인 158억 달러를 투자해 2027년까지 <span class=\"text-cyan-300 font-semibold\">10GW 규모 AI 데이터센터</span> 건설에 나선 스케일과 SemiAnalysis의 전력당 매출(TPS/MW) 경제성 분석을 다룸. GB300 클러스터 기준 1GW 데이터센터가 연간 1,000억 달러의 AI 추론 API 매출 잠재력을 가짐을 역산하며 우주 및 전력 중심 AI 인프라 팽창 현상을 분석함.",
+      "key_claims": [
+        "SpaceX는 AI 인프라에 158억 달러를 투입하여 2027년 말까지 원전 7기 분량인 10GW 컴퓨팅 파워를 구축할 계획임.",
+        "SemiAnalysis 추정에 따르면 최신 GB300 데이터센터 1GW는 연간 1,200만 달러 임대비 대비 <span class=\"text-amber-300 font-bold\">1,000억 달러 매출 잠재력</span>을 가져 AI 전력당 경제성이 대단히 높음.",
+        "AI 서비스 지표가 최고 연산력(Flops)에서 전력 1MW당 토큰 생성량(TPS/MW) 및 응답속도(TTFT) 경제성 중심으로 재편됨."
+      ],
+      "data_points": [
+        "SpaceX AI 인프라 분기 지출액: 158억 달러 (분기 매출 78억 달러의 2배)",
+        "목표 컴퓨팅 용량: 2027년 말까지 10GW (원전 7기 분력)",
+        "1GW 데이터센터 매출 시뮬레이션: 연간 약 1,000억 달러 이상 (API 추론 매출)"
+      ],
+      "signal": "bullish",
+      "signal_reason": "<span class=\"text-cyan-300 font-semibold\">AI 데이터센터 전력 수요 및 빅테크 컴퓨팅 투자</span>의 비약적 확장으로 전력 인프라 및 우주 AI 생태계에 강력한 동력 제공.",
+      "key_companies": [
+        "SpaceX",
+        "NVIDIA",
+        "Microsoft",
+        "OpenAI"
+      ],
+      "insight": "AI 컴퓨팅의 경쟁 요소가 단순 칩 성능에서 '전력 효율당 토큰 생성 수익성(TPS/MW)'으로 shift함에 따라 궤도 전력 인프라 및 대규모 데이터센터 건설 기업의 가치가 폭발하고 있음.",
+      "action_point": "SpaceX의 10GW 투자 및 빅테크 전력망 공급망과 연결된 전력 기기, 우주 데이터센터 관련 주식의 적극 관찰이 요구됨."
+    },
+    "classification": {
+      "primary_topic": "space",
+      "secondary_topics": [
+        "tech",
+        "energy"
+      ],
+      "tags": [
+        "SpaceX",
+        "10GW데이터센터",
+        "전력당매출",
+        "NVIDIA GB300",
+        "우주AI"
+      ]
+    }
+  }
+]

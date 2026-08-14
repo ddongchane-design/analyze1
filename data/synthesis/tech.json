@@ -1,15 +1,16 @@
 {
   "consensus": "bullish",
-  "cross_insight": "생성형 AI 생태계가 단순 알고리즘 모델 개발을 넘어 실질 매출(ROI)을 창출하는 <span class=\"text-cyan-300 font-semibold\">엔터프라이즈 AI 통제권(팔란티어)</span>과 <span class=\"text-cyan-300 font-semibold\">네오클라우드 호스팅(네비우스, 코어위브)</span> 시장으로 급속히 재편되고 있습니다. 애플의 차세대 AFM3 파운데이션 모델이 DRAM 단가 상승에 대응해 <span class=\"text-amber-300 font-bold\">NAND 오프로딩 기술</span>을 도입함에 따라 고용량 낸드 수요가 부각되는 한편, AI 사이버 보안(팔로알토)과 맞춤형 ASIC(마벨) 칩 생태계가 테크 상동력을 이끌고 있습니다.",
-  "divergence": "OpenAI 등 대표 AI 스타트업들의 데이터센터 임대료 부담과 자금 경색 리스크를 경고하는 의견과, 팔란티어(93% 성장) 및 네비우스(500% 성장)의 실적 폭발이 증명하듯 기업들의 AI 지출 락인 효과가 굳건하다는 시각이 팽팽합니다.",
+  "cross_insight": "FMS 2026(Future of Memory and Storage)에서 삼성전자의 <span class=\"text-cyan-300 font-semibold\">ZHBM</span>(연산 성능 8배/전력 효율 3배 개선)과 SK하이닉스의 <span class=\"text-cyan-300 font-semibold\">3D 적층 D램(Tier 0.5)</span> 및 <span class=\"text-cyan-300 font-semibold\">HBF(High Bandwidth Flash)</span>가 공개되며, 메모리가 GPU 위로 직접 올라가는 <span class=\"text-amber-300 font-bold\">3D 수직 통합 아키텍처</span> 시대가 열렸습니다. 앤트로픽의 디카트 AI(60억 달러) 인수와 일론 머스크 테라팹의 <span class=\"text-cyan-300 font-semibold\">FEL-EUV(가속기 광원)</span> 도입 추진 등 AI 전력/비용 병목을 돌파하기 위한 하드웨어-소프트웨어 융합 혁신이 폭발하고 있습니다.",
+  "divergence": "애플의 중국 CXMT 저전력 LPDDR 테스트로 인한 레거시 메모리 공급망 침투 우려와, 선단 HBM4/ZHBM 및 3D 적층 기술에서 한국 기업들의 독점적 기술 격차가 더욱 벌어질 것이라는 기술 우위론이 맞서고 있습니다.",
   "key_themes": [
-    "팔란티어 AIP 등 기업 데이터 및 AI 거버넌스 통제 플랫폼의 폭발적 매출 성장",
-    "네비우스·코어위브 등 네오클라우드 AI 가속기 호스팅 기업들의 실적 어닝 서프라이즈",
-    "애플 AFM3의 NAND 오프로딩 아키텍처 도입 및 온디바이스 AI 메모리 지형 변화"
+    "메모리-GPU 3D 직접 적층(ZHBM / 3D D램) 및 개방형 고대역폭 플래시(HBF) 표준화",
+    "AI 데이터센터 전력/냉각 병목 해소를 위한 광통신(루멘텀/마벨) 및 분산 모듈형 센터 확산",
+    "일론 머스크 테라팹의 입자가속기 기반 자유전자레이저(FEL-EUV) 광원 프로토타입 실증",
+    "앤트로픽의 AI 훈련 비용 절감용 디카트 AI 60억 달러 인수 추진"
   ],
   "watch_list": [
-    "팔란티어 및 네오클라우드 호스팅 기업들의 분기 계약 잔고 확충 속도",
-    "애플 아이폰 신제품 온디바이스 AI 탑재 및 고용량 NAND 채택 비율",
-    "OpenAI 및 Anthropic의 IPO 타임라인과 데이터센터 자금 조달 구조"
+    "FMS 2026 이후 빅테크(구글, 엔비디아)의 3D 적층 메모리(ZHBM/HBF) 채택 로드맵",
+    "루멘텀/마벨 등 AI 데이터센터 고속 광트랜시버 및 스위치 공급 실적",
+    "미국 정부의 칩스법 기반 FEL-EUV 광원(xLight) 연구개발 진척도"
   ]
 }

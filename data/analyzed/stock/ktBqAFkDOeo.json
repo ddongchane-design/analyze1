@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "ktBqAFkDOeo",
+    "title": "달라진 외국인 수급…하반기 포트폴리오 지금이라도 다시 짜야 할까?ㅣSK증권 PB [돈이 되는 주식]",
+    "published": "2026-08-13T12:00:37+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=ktBqAFkDOeo",
+    "thumbnail": "https://img.youtube.com/vi/ktBqAFkDOeo/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "7월 하락장을 주도했던 외국인 매도세가 8월 중순을 기점으로 강력한 순매수로 급전환됨에 따라 하반기 포트폴리오 리밸런싱 전략을 제시함. 인플레이션 둔화와 금리 인하 경로가 가시화되는 국면에서, 낙폭 과대 주도주인 <span class=\"text-cyan-300 font-semibold\">반도체(HBM 대장주)</span>를 핵심 코어 자산으로 복원하고, 정책 수혜주인 <span class=\"text-cyan-300 font-semibold\">조선·방산</span> 및 실적 호조세를 보이는 고배당 밸류업 종목을 적절히 배분할 것을 조언함.",
+    "key_claims": [
+      "외국인 수급의 추세적 복귀는 국내 증시의 바닥 다지기가 완료되었음을 나타내므로 현금 보유보다 주식 비중 확대로 전환해야 함.",
+      "포트폴리오의 중심축은 여전히 AI 반도체 선도 기업이어야 하며, 단기 순환매 종목에 지나치게 흔들리지 말아야 함."
+    ],
+    "data_points": [
+      "8월 중순 외국인 코스피 순매수 강도: 일간 2조 원대 이상 폭풍 유입 확인."
+    ],
+    "signal": "bullish",
+    "signal_reason": "외국인 대규모 자금 유입 재개 및 하반기 매크로 환경(금리 안정) 개선에 따른 지수 상승 추세 복귀.",
+    "key_companies": [
+      "SK하이닉스(000660)",
+      "삼성전자(005930)",
+      "한화오션(042660)"
+    ],
+    "insight": "공포 국면에서 주도주를 매도하고 후발주로 이동한 투자자들의 손실이 커지는 전형적인 패턴이 반복되고 있으며, 결국 실적 펀더멘털을 갖춘 1등 주로 복귀하는 것이 최선의 전략임.",
+    "action_point": "하반기 포트폴리오의 50% 이상을 AI 반도체 핵심 대형주로 채우고, 조선/방산 및 밸류업 고배당주로 리스크를 분산할 것."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "외국인수급",
+      "포트폴리오전략",
+      "하반기주식",
+      "SK하이닉스",
+      "삼성전자",
+      "SK증권"
+    ]
+  }
+}

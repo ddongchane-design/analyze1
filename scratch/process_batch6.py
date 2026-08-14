@@ -1,151 +1,168 @@
 import json
+import sys
 from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+from agents.harness import validate_item
 
-# Define the analyzed data for Batch 6
-batch_data = {
-  "vZD2-70U_ts": {
-    "topic": "stock",
-    "content": {
-      "video": {
-        "id": "vZD2-70U_ts",
-        "title": "[6월 10일 마감시황] 삼전닉스 쉬어갈 때, 소부장을 봐야 하는 이유ㅣ홍선애, 이권희, 장우진 [클로징벨 라이브]",
-        "published": "2026-06-10T07:11:30+00:00",
-        "channel_name": "삼프로TV_3ProTV",
-        "url": "https://www.youtube.com/watch?v=vZD2-70U_ts",
-        "thumbnail": "https://img.youtube.com/vi/vZD2-70U_ts/hqdefault.jpg"
-      },
-      "analysis": {
-        "summary": "1. 코스피는 선물 옵션 동기 만기일을 맞아 외국인·기관의 5.8조 원 규모 대량 매도로 4.5% 폭락(7,730선)하며 극심한 널뛰기 변동성을 기록했습니다.\n2. 삼성전자와 SK하이닉스 등 대형주가 쉬어가는 타이밍에, 이익 성장과 장비 공급 모멘텀이 뛰어난 <span class=\"text-cyan-300 font-semibold\">반도체 소부장 대장주</span>들로 수급 이동이 나타났습니다.\n3. 대표 장비주인 PSK홀딩스가 11% 가까이 급등하고 유진테크, 테스가 선방하는 등 하이엔드 후공정 장비 밸류체인의 강세가 두드러졌습니다.",
-        "key_claims": [
-          "옵션 만기 수급 교란과 신용/미수 반대매매로 대형 기술주의 낙폭이 과장되었으나, <span class=\"text-cyan-300 font-semibold\">메모리 HBM 소부장 테마</span>의 펀더멘탈은 유효합니다.",
-          "종합 반도체 제조 대형주(삼성전자) 대비 투자 효율성과 마진율이 돋보이는 중소형 <span class=\"text-cyan-300 font-semibold\">하드웨어 공급망 리더</span>들로 스마트 머니가 유입되고 있습니다.",
-          "미수 반대매매로 인한 장 초반 기계적 투매 이후, 기관의 실적 우량 소부장 바닥권 순환 매수 유입세가 확인됩니다."
-        ],
-        "data_points": [
-          "코스피 지수 4.5% 급락한 7,730선 마감 (외국인·기관 5.8조 원 순매도)",
-          "PSK홀딩스 11% 상승, 유진테크 및 테스 등 장비주 상대적 강세 마감",
-          "원/달러 환율 1,525원대 돌파로 파생상품 헷지 거래량 급증"
-        ],
-        "signal": "bullish",
-        "signal_confidence": "medium",
-        "signal_reason": "대형주 조정기에 견고한 이익 성장 기반의 반도체 소부장 대장주들로의 수급 이동이 확인되어 하이엔드 후공정 패키징 장비 투자의 신뢰성을 높여줍니다.",
-        "key_companies": [
-          "PSK홀딩스(037950)",
-          "유진테크(084370)",
-          "테스(095610)",
-          "삼성전자(005930)",
-          "SK하이닉스(000660)"
-        ],
-        "insight": "삼성전자와 SK하이닉스가 옵션 만기 변동성에 묶인 사이, 투자자들은 <span class=\"text-cyan-300 font-semibold\">HBM 후공정(Reflow, 세정 등) 장비 시장</span> 내 독점적 기술을 가진 강소기업들로 대피했습니다. 대형주 조정은 중소형 실적주들의 저가 매력을 부각시키는 효과가 있습니다.",
-        "action_point": "대형주 투매에 동참하기보다 HBM 양산 확대에 따라 실적이 직접 급증하는 <span class=\"text-cyan-300 font-semibold\">글로벌 특허 장비 공급사</span>들의 기술적 지지선을 파악하고 분할 매수 관점으로 매집을 계속해야 합니다."
-      },
-      "classification": {
-        "primary_topic": "stock",
-        "relevance_score": 9.6
-      }
+batch6_data = [
+    # 26. UiaxTZ88WhM - 로보티즈 재평가 유니트리 21조 충격 (robot / tech)
+    {
+        "id": "UiaxTZ88WhM",
+        "analysis": {
+            "summary": "중국 휴머노이드 로봇 기업 <span class=\"text-cyan-300 font-semibold\">유니트리(Unitree)</span>의 기업가치 21조 원 평가 충격 속에서 국내 로봇 액추에이터 및 감속기 전문기업 <span class=\"text-cyan-300 font-semibold\">로보티즈</span>의 본격 재평가 모멘텀을 파헤침. 피지컬 AI와 감속기/모터 부품의 국산화 수요가 <span class=\"text-amber-300 font-bold\">휴머노이드 로봇 생태계</span>의 핵으로 부상 중임.",
+            "key_claims": [
+                "유니트리의 초고평가는 휴머노이드 로봇 산업이 실험실을 벗어나 대량 양산 단계로 진입했음을 입증함.",
+                "로보티즈의 자율주행 로봇 및 초소형 감속기/액추에이터 기술력이 글로벌 밸류체인 재평가를 이끔."
+            ],
+            "data_points": [
+                "중국 유니트리(Unitree) 기업가치: 약 21조 원(150억 달러 이상) 인정 논의",
+                "로보티즈 액추에이터 매출 성장률: 전년 대비 40% 이상 가속"
+            ],
+            "signal": "bullish",
+            "signal_reason": "휴머노이드 로봇 밸류에이션 급등에 따른 국내 핵심 로봇 부품주 재평가 강한 호재 작용.",
+            "key_companies": ["로보티즈(108860)", "유니트리", "레인보우로보틱스(277810)", "두산로보틱스(454910)"],
+            "insight": "휴머노이드 로봇은 AI의 소프트웨어가 물리적 몸체(액추에이터/감속기)를 입는 완성형이며, 핵심 부품 기업의 재평가가 시작됨.",
+            "action_point": "로보티즈 및 국내 감속기/액추에이터 기술을 보유한 핵심 로봇 부품주의 눌림목 저점 매수."
+        },
+        "classification": {
+            "primary_topic": "robot",
+            "secondary_topics": ["tech", "stock"],
+            "tags": ["로보티즈", "유니트리", "휴머노이드", "액추에이터", "엔지니어TV"]
+        }
+    },
+    # 27. V7E0WTylYhc - 대혼돈 7월 주식시장 줄여야 할 것 (stock / economy)
+    {
+        "id": "V7E0WTylYhc",
+        "analysis": {
+            "summary": "7월 주식시장의 극심한 혼돈과 변동성을 겪은 투자자들에게 당장 줄여야 할 요소로 <span class=\"text-rose-400 font-medium\">과도한 부채(신용/레버리지)</span>와 <span class=\"text-rose-400 font-medium\">뇌동매매 잦은 매매 횟수</span>를 지목함. 신환종 박사가 제안하는 원금 보존과 안정적 이익을 달성하는 자산 리밸런싱 전략을 제시함.",
+            "key_claims": [
+                "변동성 장세에서 망하는 지름길은 레버리지를 늘려 한 번에 원금을 복구하려는 욕심임.",
+                "포트폴리오 내 현금 비중을 늘리고 포모(FOMO) 현상에 쏠린 테마주 추격 매수를 중단해야 함."
+            ],
+            "data_points": [
+                "개인 투자자 신용 융자 반대매매 계좌 수: 7월 말 급증 기록",
+                "자산배분 포트폴리오의 최악 하락률(MDD) 방어력: 단일 종목 대비 50% 이상 우수"
+            ],
+            "signal": "neutral",
+            "signal_reason": "위험 관리 우선 강조 및 과도한 레버리지 줄이기를 통한 계좌 안정화 국면 제안.",
+            "key_companies": [],
+            "insight": "하락장에서 살아남는 자가 결국 다음 상승장의 결실을 독식하며, 계좌 멸망을 막는 최고의 방패는 현금성 자산과 채권 버퍼임.",
+            "action_point": "신용 융자를 완전히 상환하고 계좌 내 현금 비중을 최소 20~30%로 늘려 안정성 확보."
+        },
+        "classification": {
+            "primary_topic": "stock",
+            "secondary_topics": ["economy"],
+            "tags": ["위험관리", "레버리지줄이기", "자산배분", "하락장생존", "이효석아카데미"]
+        }
+    },
+    # 28. XHoSgDrdkAA - 클래리티 법 윤리 수정안 크립토 (crypto / economy)
+    {
+        "id": "XHoSgDrdkAA",
+        "analysis": {
+            "summary": "미국 의회 통과를 앞둔 <span class=\"text-violet-300 font-medium\">가상자산 클래리티 법안(Clarity Act)</span>에 윤리 수정안 및 SEC-CFTC 관할권 새 변수가 등장함에 따른 암호화폐 시장 파장을 심층 다룸. 규제 명확화 호재와 윤리 심사 규제 강화 변수가 <span class=\"text-cyan-300 font-semibold\">비트코인 및 알트코인 수급</span>을 흔들고 있음.",
+            "key_claims": [
+                "클래리티 법 통과 시 가상자산의 법적 지위가 명확해져 기관 자금 유입 가속화 가능.",
+                "윤리 수정안 추가로 개별 규제 당국의 승인 절차가 복잡해질 단기 변수 발생."
+            ],
+            "data_points": [
+                "비트코인(BTC) 6만5천 달러 선 공방 및 기관 ETF 유입액 지표",
+                "미국 의회 가상자산 입법 표결 일정 점검"
+            ],
+            "signal": "neutral",
+            "signal_reason": "법안 통과 기대감과 수정안에 따른 지연 불확실성이 교차하는 매크로 팽팽한 국면.",
+            "key_companies": ["코인베이스(COIN)", "마이크로스트래티지(MSTR)"],
+            "insight": "가상자산 시장의 제도권 진입은 거스를 수 없는 대세이나, 법안 세부 수정안의 문구 하나가 단기 수급 폭풍을 부를 수 있음.",
+            "action_point": "미국 법안 표결 진행 상황을 모니터링하며 비트코인 및 이더리움 중심의 대장주 위주로 매매 한정."
+        },
+        "classification": {
+            "primary_topic": "crypto",
+            "secondary_topics": ["economy", "stock"],
+            "tags": ["클래리티법", "가상자산규제", "비트코인", "크립토PLUS", "디지털애셋"]
+        }
+    },
+    # 29. XmK7mpuhfUo - 26.08.03 오전 뉴욕증시 아마존 애플 (stock / tech)
+    {
+        "id": "XmK7mpuhfUo",
+        "analysis": {
+            "summary": "8월 3일 뉴욕증시가 AI 투자 우려를 털어내고 상승 마감한 풀 시황을 다룸. 클라우드 및 AI 매출 호조를 기록한 <span class=\"text-cyan-300 font-semibold\">아마존(+15%)</span>이 폭등한 반면, 아이폰 중국 판매 둔화 우려가 작용한 <span class=\"text-cyan-300 font-semibold\">애플(-7%)</span>은 하락하여 빅테크 간 뚜렷한 양극화가 펼쳐짐.",
+            "key_claims": [
+                "AWS 클라우드 매출 성장 재가속이 아마존 주가를 15% 폭등시키는 원동력이 됨.",
+                "애플은 중화권 실적 약세와 AI 서비스 출시 지연 우려로 주가 차별화 하락."
+            ],
+            "data_points": [
+                "아마존(AMZN) 주가: 당일 +15% 폭등 마감",
+                "애플(AAPL) 주가: 당일 -7% 급락 마감",
+                "나스닥 종합지수: +1.5% 상승 마감"
+            ],
+            "signal": "bullish",
+            "signal_reason": "아마존의 호실적으로 AI 클라우드 실적 우려 해소 및 증시 반등 동력 확보.",
+            "key_companies": ["아마존(AMZN)", "애플(AAPL)", "엔비디아(NVDA)", "마이크로소프트(MSFT)"],
+            "insight": "빅테크 묶음 투자의 시대는 갔으며, 클라우드와 AI 가속기 실적을 직접 내는 아마존·엔비디아와 그렇지 못한 기업 간의 주가 엇갈림이 심화됨.",
+            "action_point": "아마존 및 AI 클라우드 CapEx 수혜가 직접 연동되는 반도체/서버 부품주 위주의 선별 매수."
+        },
+        "classification": {
+            "primary_topic": "stock",
+            "secondary_topics": ["tech", "economy"],
+            "tags": ["오전증시", "아마존폭등", "애플급락", "뉴욕증시", "삼프로TV"]
+        }
+    },
+    # 30. ZZ09tf_FNr8 - 26.08.03 오후 코스피 폭등후유증 급락 (stock / economy)
+    {
+        "id": "ZZ09tf_FNr8",
+        "analysis": {
+            "summary": "8월 3일 국내 증시가 전일 사상 최대 폭등 후유증으로 하루 만에 급락한 오후 마감 시황을 방송 전체보기로 정리함. <span class=\"text-rose-400 font-medium\">외국인 선물/현물 동시 매도</span>와 엔화 강세 기류가 복합 작용하여 지수 하락 압력을 가했으며 이번 주 증시의 핵심 관건을 제시함.",
+            "key_claims": [
+                "폭등 직후 나타난 차익 실현 물량과 외환 시장 엔화 변동성이 한국 증시의 걸림돌로 작용.",
+                "삼성전자 및 SK하이닉스의 하단 지지선 확인과 미국 옵션 만기일 수급이 이번 주 분수령."
+            ],
+            "data_points": [
+                "코스피 지수 하락 폭: 전일 상승분 중 일부 반납 (약 2.4% 하락)",
+                "외국인 거래소 순매도: 6,000억 원 상회"
+            ],
+            "signal": "bearish",
+            "signal_reason": "폭등 후유증 차익 실현과 엔화 환율 변동성에 따른 단기 변동성 확대 장세.",
+            "key_companies": ["삼성전자(005930)", "SK하이닉스(000660)", "LG에너지솔루션(373220)"],
+            "insight": "사상 최대 폭등 후 급락은 전형적인 변동성 장세의 특징이며, 펀더멘털 손상이 아니므로 저점 매수자에게는 진입 기회를 제공함.",
+            "action_point": "이번 주 외국인 수급의 매도세 진정 여부를 확인하고 반도체 대장주 지지선 부근 분할 매수."
+        },
+        "classification": {
+            "primary_topic": "stock",
+            "secondary_topics": ["economy"],
+            "tags": ["오후증시", "폭등후유증", "코스피급락", "외국인매도", "삼프로TV"]
+        }
     }
-  },
-  "W39mjKPd0LA": {
-    "topic": "robot",
-    "content": {
-      "video": {
-        "id": "W39mjKPd0LA",
-        "title": "현대차 엔비디아 새만금 AI밸리의 정체?",
-        "published": "2026-06-10T11:00:16+00:00",
-        "channel_name": "엔지니어TV",
-        "url": "https://www.youtube.com/watch?v=W39mjKPd0LA",
-        "thumbnail": "https://img.youtube.com/vi/W39mjKPd0LA/hqdefault.jpg"
-      },
-      "analysis": {
-        "summary": "1. 엔비디아 젠슨 황 CEO가 한국 방문 중 현대차그룹 정의선 회장과 1시간 비공개 단독 회동을 갖고 <span class=\"text-cyan-300 font-semibold\">모빌리티, 로보틱스, AI 공장</span> 전략을 논의했습니다.\n2. 양사는 보스턴 다이내믹스의 휴머노이드 아틀라스(Atlas) 상용화와 관련해 제조 공장에 로봇을 대량 배치하는 <span class=\"text-cyan-300 font-semibold\">피지컬 AI(Physical AI)</span> 실현 방안을 주요 의제로 다뤘습니다.\n3. 엔비디아는 한국 새만금을 'AI Valley'로 지칭하며, 친환경 에너지 기반의 초대형 AI 데이터 센터 및 스마트 팩토리 클러스터 구축 가능성을 시사했습니다.",
-        "key_claims": [
-          "엔비디아가 현대차와 밀착하는 본질은 자율주행 차량을 넘어, 로봇과 공장 자체가 AI로 학습하고 구동되는 <span class=\"text-cyan-300 font-semibold\">피지컬 AI 로봇 플랫폼 표준화</span>를 장악하려는 목적입니다.",
-          "보스턴 다이내믹스의 휴머노이드 로봇 상용화 시점이 임박했으며, 현대차의 자동차 생산 라인이 엔비디아 플랫폼의 최대 <span class=\"text-cyan-300 font-semibold\">실증 공장(AI Factory)</span>이 될 것입니다.",
-          "새만금 AI 밸리 구상은 전력 소모가 극심한 데이터 센터 문제를 비중국 아시아 친환경 에너지 거점 구축을 통해 극복하려는 전략입니다."
-        ],
-        "data_points": [
-          "엔비디아 젠슨 황 CEO 및 현대차그룹 정의선 회장 1시간 비공개 회의 진행",
-          "현대차 산하 로봇 전문 자회사 '보스턴 다이내믹스'(Boston Dynamics)의 차세대 휴머노이드 아틀라스 상용화 일정 연동",
-          "한국 새만금 'AI 밸리' 데이터 센터 및 AI 팩토리 파트너십 구상 언급"
-        ],
-        "signal": "bullish",
-        "signal_confidence": "high",
-        "signal_reason": "글로벌 AI 1위 엔비디아와 모빌리티·로봇 강자 현대차의 비공개 기술 파트너십은 차세대 피지컬 AI 및 휴머노이드 로봇 산업화 속도를 획기적으로 앞당길 메가톤급 호재입니다.",
-        "key_companies": [
-          "현대자동차(005380)",
-          "엔비디아(NVDA)"
-        ],
-        "insight": "자율주행과 로봇 제조는 소프트웨어 중심의 AI가 현실 세계 물리 법칙과 결합하는 <span class=\"text-cyan-300 font-semibold\">피지컬 AI 혁명</span>의 양대 축입니다. 엔비디아는 현대차의 글로벌 완성차 공장을 하드웨어 실증 베이스로 삼고, 현대차는 엔비디아의 시뮬레이터(Omniverse)와 칩을 통해 로봇 상용화 경제성을 빠르게 극대화할 것입니다.",
-        "action_point": "현대차-엔비디아 로봇 동맹의 실질적 기술 주도권을 쥔 <span class=\"text-cyan-300 font-semibold\">보스턴 다이내믹스 공급망 관련 정밀 기어 및 액추에이터 부품사</span>와 새만금 전력 클러스터에 수혜를 받는 전력망 인프라 대장주의 장기 성장 가능성에 적극 베팅해야 합니다."
-      },
-      "classification": {
-        "primary_topic": "robot",
-        "relevance_score": 9.8
-      }
-    }
-  },
-  "_2UbO3ketmM": {
-    "topic": "economy",
-    "content": {
-      "video": {
-        "id": "_2UbO3ketmM",
-        "title": "슈마컴, 70억달러 증자 발표에 주가 하락ㅣTSMC, 5월 매출 전년比 30% 증가ㅣ中정부, 25년 이후 월간 최대 규모 금 매입ㅣ홍키자의 매일뉴욕",
-        "published": "2026-06-10T10:00:14+00:00",
-        "channel_name": "매경월가월부",
-        "url": "https://www.youtube.com/watch?v=_2UbO3ketmM",
-        "thumbnail": "https://img.youtube.com/vi/_2UbO3ketmM/hqdefault.jpg"
-      },
-      "analysis": {
-        "summary": "1. 뉴욕 증시는 3년 만에 최고를 기록한 5월 CPI(4.2%) 및 트럼프발 이란 긴장 고조의 영향으로 반도체 등 기술주 위주의 단기 조정을 겪었습니다.\n2. 슈퍼마이크로컴퓨터(SMCI)가 AI 서버 인프라 투자를 위한 70억 달러 규모 자금 조달(지분 희석 우려)을 기습 발표하며 주가가 크게 하락했습니다.\n3. TSMC는 전년 대비 30% 증가한 월간 호실적을 발표했으며, 중국 인민은행이 2025년 이후 최대 규모의 월간 금 매입을 단행해 자산 안전 헷징을 이어갔습니다.",
-        "key_claims": [
-          "근원 인플레이션의 안정 조짐에도 불구하고, 이란 공습에 따른 <span class=\"text-amber-300 font-bold\">원유 유가 불안</span> 및 지정학적 리스크가 성장주 투자 투심에 직격탄을 날리고 있습니다.",
-          "슈퍼마이크로의 70억 달러 자금 조달은 AI 폭증 수요를 감당하기 위한 설비 자금 필요성을 보여주지만, 단기적으로 <span class=\"text-rose-400 font-medium\">지분 가치 희석 리스크</span>가 우세합니다.",
-          "중국 정부의 역사적 규모의 금 매입은 서방과의 갈등(지정학 패권) 장기화를 염두에 둔 달러 외 <span class=\"text-violet-300 font-medium\">대안 안전자산 다변화 전략</span>의 일환입니다."
-        ],
-        "data_points": [
-          "5월 소비자물가지수(CPI) 전년 대비 4.2% 상승 (3년 만에 최고치)",
-          "슈퍼마이크로컴퓨터(SMCI) 70억 달러 규모의 신규 자금 조달 발표 (50억 달러 유상증자, 20억 달러 채권 등 포함)",
-          "TSMC 5월 매출 전년 동기 대비 30% 급성장 기록",
-          "중국 인민은행 2025년 이후 최대 월간 규모의 골드(금) 현물 매입 단행",
-          "국제 유가 WTI 89달러, 브렌트유 92달러선 돌파"
-        ],
-        "signal": "bearish",
-        "signal_confidence": "medium",
-        "signal_reason": "AI 대표 인프라 기업(SMCI)의 자금 희석 악재와 환율·유가 등 매크로 불안 요소가 맞물려 단기적인 뉴욕 증시 기술주 조정 압력을 가속화하고 있습니다.",
-        "key_companies": [
-          "슈퍼마이크로컴퓨터(SMCI)",
-          "TSMC(TSM)",
-          "엔비디아(NVDA)",
-          "마이크론(MU)"
-        ],
-        "insight": "초대형 증자 소식은 단기 주가 폭락을 유도하지만, 확보한 70억 달러가 전액 AI 액체 냉각 서버 설비 증설에 투입된다는 점은 <span class=\"text-cyan-300 font-semibold\">서버 인프라 장기 수요</span>가 여전히 확실함을 입증합니다. 중국의 금 매집 역시 지정학 긴장에 의한 자산 시장 리스크 헷지 트렌드를 강화합니다.",
-        "action_point": "유상증자 충격으로 낙폭이 심화된 AI 하드웨어 장비주는 단기 지지선 확인 시점까지 관망을 늘리되, 실적 성장이 보증된 <span class=\"text-cyan-300 font-semibold\">파운드리 대장주(TSMC) 및 금 현물 자산</span>에 대해 분할 분산 적립 투자를 시작할 타이밍입니다."
-      },
-      "classification": {
-        "primary_topic": "economy",
-        "relevance_score": 9.3
-      }
-    }
-  }
-}
+]
 
-# Write results and clean up pending
-pending_dir = Path("data/pending")
-analyzed_base_dir = Path("data/analyzed")
-
-for video_id, info in batch_data.items():
-    topic = info["topic"]
-    content = info["content"]
-    
-    # Write to analyzed path
-    topic_dir = analyzed_base_dir / topic
-    topic_dir.mkdir(parents=True, exist_ok=True)
-    analyzed_path = topic_dir / f"{video_id}.json"
-    analyzed_path.write_text(json.dumps(content, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"Saved: {analyzed_path}")
-    
-    # Delete from pending
-    pending_path = pending_dir / f"{video_id}.json"
-    if pending_path.exists():
+def run():
+    for item_data in batch6_data:
+        vid = item_data["id"]
+        pending_path = Path(f"data/pending/{vid}.json")
+        if not pending_path.exists():
+            print(f"Pending file {vid} not found!")
+            continue
+        raw = json.loads(pending_path.read_text(encoding="utf-8"))
+        video_obj = raw["video"]
+        
+        full_item = {
+            "video": video_obj,
+            "analysis": item_data["analysis"],
+            "classification": item_data["classification"]
+        }
+        
+        valid, errors = validate_item(full_item)
+        if not valid:
+            print(f"Validation failed for {vid}: {errors}")
+            continue
+            
+        primary = item_data["classification"]["primary_topic"]
+        out_dir = Path(f"data/analyzed/{primary}")
+        out_dir.mkdir(parents=True, exist_ok=True)
+        out_file = out_dir / f"{vid}.json"
+        
+        out_file.write_text(json.dumps(full_item, ensure_ascii=False, indent=2), encoding="utf-8")
+        print(f"[SUCCESS] Saved {out_file}")
         pending_path.unlink()
-        print(f"Deleted pending: {pending_path}")
+        print(f"[DELETED] {pending_path}")
+
+if __name__ == "__main__":
+    run()

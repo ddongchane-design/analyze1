@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "KyA2ejPjb_0",
+    "title": "비닐봉지 매듭까지 묶는다? 로봇 손이 정교해진 이유",
+    "published": "2026-08-13T09:30:33+00:00",
+    "channel_name": "안될공학 - IT 테크 신기술",
+    "url": "https://www.youtube.com/watch?v=KyA2ejPjb_0",
+    "thumbnail": "https://img.youtube.com/vi/KyA2ejPjb_0/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "단순한 집게 형태를 벗어나 사람처럼 22개의 관절을 독립적으로 제어하여 쓰레기 비닐봉지 매듭 묶기나 전구 교체 같은 초미세 물체 조작(Fine Manipulation)을 수행하는 차세대 <span class=\"text-cyan-300 font-semibold\">로봇 손</span> 기술을 소개함. 과거에는 불가능하다고 여겨졌던 복잡한 비정형 물질 조작을 강화학습과 엔드투엔드(End-to-End) 신경망 AI 모델을 통해 실시간으로 해결하는 로봇 엔지니어링의 진보를 강조함.",
+    "key_claims": [
+      "로봇의 진정한 난제는 점프나 백플립 같은 거대 동작이 아니라 비닐봉지 묶기 같은 미세 관절 조작임.",
+      "인간이 무의식적으로 움직이는 22개 손가락 관절을 AI 모델이 직접 학습하고 제어하면서 휴머노이드 로봇의 실용성이 극대화되고 있음."
+    ],
+    "data_points": [
+      "인간형 로봇 손 관절 제어 자유도: 22개 이상의 독립 관절 동시 제어."
+    ],
+    "signal": "bullish",
+    "signal_reason": "가사 노동 및 정밀 제조 공정에 투입 가능한 로봇 핸드 및 미세 조작 AI 기술의 획기적 발전 확인.",
+    "key_companies": [
+      "테슬라(TSLA)",
+      "피규어AI",
+      "보스턴다이내믹스"
+    ],
+    "insight": "휴머노이드 로봇의 상용화 성공 여부는 보행 능력보다 비정형 부품과 도구를 자유자재로 다루는 정교한 '로봇 핸드(Dextrous Hand)'의 완성도에 달려 있음.",
+    "action_point": "정밀 액추에이터, 촉각 센서 및 다관절 로봇 핸드 하드웨어·소프트웨어 기술을 보유한 밸류체인에 주목할 것."
+  },
+  "classification": {
+    "primary_topic": "robot",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "로봇손",
+      "정밀조작",
+      "22개관절",
+      "휴머노이드핸드",
+      "인공지능제어",
+      "안될공학"
+    ]
+  }
+}

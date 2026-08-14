@@ -1,0 +1,51 @@
+{
+  "video": {
+    "id": "KNKT2NVNDic",
+    "title": "애플의 배신 중국 반도체 쓰려고 CXMT 메모리 테스트하는 이유 (언더스탠딩 백종훈 기자)",
+    "published": "2026-08-13T12:25:19+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=KNKT2NVNDic",
+    "thumbnail": "https://img.youtube.com/vi/KNKT2NVNDic/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">애플(Apple)</span>이 메모리 가격 급등에 따른 원가 부담을 낮추기 위해 중국 내수용 아이폰을 대상으로 중국 1위 D램 제조사 <span class=\"text-cyan-300 font-semibold\">창신메모리(CXMT)</span>의 칩 품질 테스트에 착수했다고 WSJ이 보도함. CXMT는 중국 안후이성 허페이시와 <span class=\"text-rose-400 font-medium\">인민해방군</span>의 출자로 설립되어 상하이 증시 상장으로 15조 원 이상의 자금을 조달했으며, 내년 상하이/베이징 공장 증설 시 마이크론급(월 38만 장) 생산 능력을 갖추게 됨. 미국 의회와 정계가 자국 메모리 산업 붕괴를 우려하며 강력 반발하고 있어 실제 채택까지는 거센 규제 역풍이 예상되나, 한국 D램 3사의 모바일 시장 점유율에 잠재적 위협 요인으로 부각됨.",
+    "key_claims": [
+      "애플의 CXMT D램 테스트는 모바일용 저전력 메모리(LPDDR) 원가 절감과 중국 내수 판매 방어를 위한 시도임.",
+      "CXMT는 인민해방군 지분과 막대한 정부 보조금을 바탕으로 급성장하여 글로벌 D램 점유율 8%에 도달함.",
+      "미국 의회의 초당적 규제 반발로 인해 애플이 실제로 중국산 D램을 대량 채택하기는 정치적으로 매우 어려울 전망임."
+    ],
+    "data_points": [
+      "글로벌 D램 시장 점유율: 삼성전자 38%, SK하이닉스 29%, 마이크론 22%, CXMT 8%.",
+      "CXMT 생산 목표: 내년 웨이퍼 기준 월 38만 장(마이크론 생산량에 근접).",
+      "애플 전체 매출 중 중국 비중: 약 20%.",
+      "CXMT 상하이 상장 후 주가 상승률: 공모가 8.6위안에서 50위안 이상으로 약 470% 폭등."
+    ],
+    "signal": "neutral",
+    "signal_reason": "애플의 테스트 소식이 단기 투자 심리에 부담을 줄 수 있으나, 미국 정부의 제재 리스크와 기술적 격차로 단기간 내 공급망 전면 대체는 제한적임.",
+    "key_companies": [
+      "애플(AAPL)",
+      "삼성전자(005930)",
+      "SK하이닉스(000660)",
+      "마이크론(MU)",
+      "CXMT(창신메모리)"
+    ],
+    "insight": "중국 정부의 막대한 보조금 지원을 등에 업은 CXMT의 레거시 D램 추격은 가속화되고 있으나, HBM 및 선단 LPDDR5X 공정에서는 한국 기업들의 기술적 해자가 여전히 공고함.",
+    "action_point": "미국 대중 반도체 추가 제재 및 애플의 공급망 승인 여부를 모니터링하되, CXMT가 침투하기 어려운 첨단 HBM 및 DDR5 비중이 높은 SK하이닉스 선호도를 유지할 것."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock",
+      "economy"
+    ],
+    "tags": [
+      "애플",
+      "창신메모리",
+      "CXMT",
+      "LPDDR",
+      "삼성전자",
+      "SK하이닉스",
+      "미중반도체전쟁"
+    ]
+  }
+}

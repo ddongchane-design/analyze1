@@ -1,0 +1,41 @@
+{
+  "video": {
+    "id": "hAxYUxKxeTc",
+    "title": "테슬라 로봇이 사람보다 낫다?!",
+    "published": "2026-08-13T11:00:15+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=hAxYUxKxeTc",
+    "thumbnail": "https://img.youtube.com/vi/hAxYUxKxeTc/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">테슬라(Tesla)</span>의 옵티머스 휴머노이드 로봇이 위험한 배터리 셀 조립 공정 및 무거운 부품 운반 작업에서 인간 작업자 대비 지치지 않고 오차 없는 정밀성을 발휘하는 현장 테스트 성과를 조명함. 인간의 피로, 휴식, 안전사고 위험을 원천 배제하면서 공장 생산 수율을 극대화하는 로봇 노동의 절대적 경제성을 강조함.",
+    "key_claims": [
+      "테슬라 옵티머스는 실제 공장 현장 배치 테스트에서 인간 대비 높은 작업 균일성과 안전성을 달성함.",
+      "기가팩토리 내 로봇 배치는 차량 제조 원가를 극적으로 낮추는 테슬라의 핵심 비밀 병기임."
+    ],
+    "data_points": [
+      "테슬라 기가팩토리 내 옵티머스 로봇 현장 실증 투입 진행 중."
+    ],
+    "signal": "bullish",
+    "signal_reason": "테슬라 옵티머스 로봇의 실제 공정 투입을 통한 제조 원가 절감 및 기술 완성도 입증.",
+    "key_companies": [
+      "테슬라(TSLA)"
+    ],
+    "insight": "완성차 제조 라인이 로봇 전용 무인 스마트 팩토리로 진화하면서 테슬라의 마진율 격차가 다시 확대될 것임.",
+    "action_point": "테슬라의 로보택시 및 옵티머스 양산 일정을 주시하며 테슬라 밸류체인에 주목할 것."
+  },
+  "classification": {
+    "primary_topic": "robot",
+    "secondary_topics": [
+      "tech",
+      "stock"
+    ],
+    "tags": [
+      "테슬라옵티머스",
+      "기가팩토리",
+      "로봇생산성",
+      "스마트팩토리",
+      "소프트드래곤"
+    ]
+  }
+}

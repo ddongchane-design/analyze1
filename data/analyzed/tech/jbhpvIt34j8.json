@@ -1,0 +1,50 @@
+{
+  "video": {
+    "id": "jbhpvIt34j8",
+    "title": "GPU 위에 메모리를 쌓는다…삼성·하이닉스의 승부수ㅣ김인엽의 실리콘밸리나우",
+    "published": "2026-08-13T09:00:10+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=jbhpvIt34j8",
+    "thumbnail": "https://img.youtube.com/vi/jbhpvIt34j8/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "실리콘밸리 'FMS 2026(Future of Memory and Storage)' 현장에서 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>와 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>가 GPU 바로 위에 메모리를 직접 적층하는 차세대 3D 아키텍처를 전격 공개함. 삼성전자는 GPU 위에 HBM을 올리고 TSV 밀도를 10배 높인 <span class=\"text-cyan-300 font-semibold\">ZHBM</span>(연산 성능 최대 8배, 전력 효율 3배 향상)과 온디바이스 AI 미니 데이터센터용 <span class=\"text-cyan-300 font-semibold\">Z-NAND 5</span>를 발표함. 반면 SK하이닉스는 SRAM과 HBM 사이의 새로운 메모리 계층인 <span class=\"text-cyan-300 font-semibold\">3D 적층 D램(Tier 0.5)</span>과 샌디스크·구글과 함께 OCP 개방형 표준으로 추진하는 <span class=\"text-cyan-300 font-semibold\">HBF(High Bandwidth Flash)</span>를 공개하며 치열한 차세대 기술 표준 경쟁에 돌입함.",
+    "key_claims": [
+      "AI 가속기의 '메모리 벽'을 극복하기 위해 메모리가 GPU 옆(2.5D)에서 GPU 위(3D 직접 적층)로 이동하는 패러다임 전환이 시작됨.",
+      "삼성전자는 메모리-파운드리-패키징의 종합 반도체 수직 통합(IDM) 역량을, SK하이닉스는 OCP 표준화 및 빅테크(구글, 샌디스크) 연합 생태계를 승부수로 내세움.",
+      "낸드 플래시 역시 단순 스토리지를 넘어 AI 연산에 초고속으로 데이터를 직결 공급하는 3D 적층 고대역폭 플래시(Z-NAND / HBF)로 진화함."
+    ],
+    "data_points": [
+      "삼성전자 ZHBM 성능 목표: 기존 HBM5 대비 연산 성능 최대 8배, 전력 효율 3배 개선, TSV 밀도 10배 향상.",
+      "SK하이닉스 메모리 6대 계층: SRAM -> 3D적층D램(Tier 0.5) -> HBM -> D램 -> HBF/로컬SSD -> CXL/스토리지.",
+      "HBF(High Bandwidth Flash) 컨소시엄: SK하이닉스, 샌디스크, 구글, 텐스토렌트 등 참여."
+    ],
+    "signal": "bullish",
+    "signal_reason": "메모리 반도체가 단순 범용 상품에서 GPU와 1:1 맞춤형 3D 통합 시스템으로 격상되며 한국 반도체 기업들의 기술 독점력 및 판가 협상력 극대화.",
+    "key_companies": [
+      "삼성전자(005930)",
+      "SK하이닉스(000660)",
+      "샌디스크(SNDK)",
+      "엔비디아(NVDA)",
+      "구글(GOOGL)"
+    ],
+    "insight": "3D 적층 메모리 시대의 도래는 칩 설계사(엔비디아, 구글)와 메모리 제조사 간의 결속을 '커스터마이징 맞춤형 시스템'으로 영구 고착화시켜 후발 주자(중국 CXMT 등)의 진입을 원천 차단함.",
+    "action_point": "3D 적층 TSV 및 하이브리드 본딩 장비/소재 기업(한미반도체, HPSP, 에스티아이 등)과 차세대 메모리 주도권을 쥔 삼성전자/SK하이닉스를 지속 매수할 것."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "FMS2026",
+      "ZHBM",
+      "3D적층D램",
+      "HBF",
+      "ZNAND",
+      "삼성전자",
+      "SK하이닉스",
+      "실리콘밸리나우"
+    ]
+  }
+}

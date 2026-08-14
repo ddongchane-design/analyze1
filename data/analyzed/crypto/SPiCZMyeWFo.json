@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "SPiCZMyeWFo",
+    "title": "CPI 잘 나왔는데 비트코인 왜 못 올라? | 권혁, 김동환, 하나 김재희 이사 [크립토 PLUS]",
+    "published": "2026-08-13T03:03:31+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=SPiCZMyeWFo",
+    "thumbnail": "https://img.youtube.com/vi/SPiCZMyeWFo/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 CPI 안정세 발표에도 불구하고 <span class=\"text-cyan-300 font-semibold\">비트코인</span>이 급반등하지 못하고 횡보하는 이유를 분석함. AI 데이터센터 및 반도체 섹터의 실적 호조로 시중 유동성이 테크주로 쏠리는 가운데, 비트코인과 금의 상관계수가 0.74로 양전(디지털 금 네러티브 복원)되었으나 단기 촉매는 부족한 상황임. 한편 미국 <span class=\"text-cyan-300 font-semibold\">SEC</span>가 8월 14일 토큰화 상장 증권(애플, 테슬라 등 <span class=\"text-cyan-300 font-semibold\">토큰화 주식</span>)에 대한 혁신 면제(규제 샌드박스) 발표를 앞두고 있어 제도권 편입 기대감이 커지고 있으며, 국내 국세청은 AI 포렌식을 통한 가상자산 체납 은닉 재산 추적 및 포상금 제도를 강화함.",
+    "key_claims": [
+      "CPI 안정 이후 유동성이 AI 반도체 실적주로 집중되면서 가상자산 시장의 단기 자금 유입이 지연되고 있음.",
+      "비트코인과 금의 가격 상관계수가 0.74로 급등하며 희소 비주권 자산으로서의 지위가 강화됨.",
+      "미 SEC의 토큰화 주식 혁신 면제 추진은 실물연계자산(RWA) 및 스마트 컨트랙트 블록체인 생태계에 중장기 호재로 작용함."
+    ],
+    "data_points": [
+      "비트코인-금 가격 상관계수: 연초 -0.9에서 최근 0.74로 급상승(일간 수익률 상관계수 0.50).",
+      "미국 SEC 토큰화 상장 증권 혁신 면제 회의: 8월 14일 예정 (발행사 주도형/수탁형/합성형 3종 분류).",
+      "국세청 가상자산 은닉 탈세 포상금: 최저 징수 기준 5천만 원에서 3천만 원으로 하향, 지급률 10~30%로 상향."
+    ],
+    "signal": "neutral",
+    "signal_reason": "SEC의 토큰화 증권 혁신면제 및 디지털 금 위상 회복은 긍정적이나, AI 테크주로의 유동성 분산으로 단기 박스권 횡보 전망.",
+    "key_companies": [
+      "체인링크(LINK)",
+      "바이낸스(BNB)"
+    ],
+    "insight": "가상자산 시장이 독자적 투기 장세에서 벗어나 실물 주식의 토큰화(RWA) 및 전통 금융 제도권과의 융합 단계로 체질을 개선하고 있음.",
+    "action_point": "비트코인의 박스권 분할 매수 전략을 유지하며, SEC 토큰화 주식 혁신 면제 수혜가 기대되는 체인링크(LINK) 등 RWA 핵심 인프라 코인에 주목할 것."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "economy",
+      "stock"
+    ],
+    "tags": [
+      "비트코인",
+      "디지털금",
+      "SEC토큰화주식",
+      "RWA",
+      "체인링크",
+      "국세청가상자산추적",
+      "삼프로TV"
+    ]
+  }
+}

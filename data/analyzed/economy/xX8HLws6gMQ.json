@@ -1,0 +1,40 @@
+{
+  "video": {
+    "id": "xX8HLws6gMQ",
+    "title": "[안효찬] 불황 온 미국? 고용과 함께 봐야 할 \"진짜 지표\"",
+    "published": "2026-08-13T14:57:01+00:00",
+    "channel_name": "안효찬",
+    "url": "https://www.youtube.com/watch?v=xX8HLws6gMQ",
+    "thumbnail": "https://img.youtube.com/vi/xX8HLws6gMQ/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 경기 침체(R의 공포) 논란 속에서 헤드라인 실업률 외에 반드시 함께 확인해야 할 실질 고용 지표인 <span class=\"text-cyan-300 font-semibold\">신규 실업수당 청구건수</span>, <span class=\"text-cyan-300 font-semibold\">주간 평균 근로시간</span>, 및 기업 채용 공고(JOLTS) 데이터를 분석함. 최근 실업률 상승은 대규모 해고(Layoff)가 원인이 아니라 이민자 유입 등에 따른 노동 공급 증가가 주도한 것으로, 실질 해고 건수는 역사적으로 여전히 낮은 수준을 유지해 급격한 침체 가능성은 낮다고 진단함.",
+    "key_claims": [
+      "미국의 실업률 상승은 급격한 경기 침체에 의한 해고 증가가 아니라 노동 공급 증가에 따른 완만한 정상화 과정임.",
+      "주간 신규 실업수당 청구건수가 20만 건대 초반으로 안정적인 한 시스템적 경기 불황 우려는 과도함."
+    ],
+    "data_points": [
+      "신규 실업수당 청구건수: 20만 9천 건으로 안정적 레벨 유지.",
+      "미국 기업들의 인력 해고율: 역사적 저점 부근 유지."
+    ],
+    "signal": "neutral",
+    "signal_reason": "경기 침체 우려는 과도하나 노동 시장의 완만한 둔화로 연준의 금리 인하 명분 강화.",
+    "key_companies": [],
+    "insight": "노동 시장의 점진적 둔화는 인플레이션을 억제하면서도 급격한 경기 침체를 피하는 이상적인 '골디락스' 연착륙 환경을 조성하고 있음.",
+    "action_point": "침체 공포에 따른 과도한 위험자산 투매를 경계하고, 금리 인하 수혜가 기대되는 성장주와 우량 배당주 중심의 포트폴리오를 유지할 것."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "미국고용지표",
+      "경기침체논란",
+      "실업수당청구",
+      "골디락스",
+      "연착륙",
+      "안효찬"
+    ]
+  }
+}

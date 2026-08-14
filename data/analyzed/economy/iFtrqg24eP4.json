@@ -1,0 +1,39 @@
+{
+  "video": {
+    "id": "iFtrqg24eP4",
+    "title": "워싱턴을 움직인 건 결국 일본이었다",
+    "published": "2026-08-13T14:15:12+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=iFtrqg24eP4",
+    "thumbnail": "https://img.youtube.com/vi/iFtrqg24eP4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "일본 재무성이 엔화 가치 급락을 방어하기 위해 미국 재무부를 설득하여 7월 31일 미·일 당국의 <span class=\"text-cyan-300 font-semibold\">공동 외환시장 개입</span>을 이끌어낸 막전막후를 조명함. 일본이 보유한 미국 국채를 대량 매각할 경우 미국 장기금리가 폭등할 것을 우려한 미국 워싱턴 당국을 움직여 공동 개입 합의를 도출한 것은 일본 외환 당국의 고도의 외교적 승리로 평가됨.",
+    "key_claims": [
+      "일본 단독 개입만으로는 시장의 투기적 엔도 숏 베팅을 꺾을 수 없었기에 미국을 직접 끌어들여 공동 개입을 성사시킴.",
+      "미국 국채 매각 리스크를 지렛대로 활용해 미국 재무부의 개입 협조를 이끌어낸 일본 재무성의 전략적 승리임."
+    ],
+    "data_points": [
+      "미·일 외환시장 공동 개입 발표일: 7월 31일."
+    ],
+    "signal": "neutral",
+    "signal_reason": "미·일 당국의 공동 개입으로 엔화 변동성은 진정되었으나, 엔 캐리 트레이드 청산 압력 및 글로벌 유동성 재편 과정에 대한 지속 관찰 필요.",
+    "key_companies": [],
+    "insight": "환율 문제는 개별 국가의 통화정책을 넘어 글로벌 기축통화국(미국)과 주요 채권국(일본) 간의 거시 금융 안보 협력의 핵심 고리로 작동함.",
+    "action_point": "엔/달러 환율 안정 추이와 엔 캐리 청산 여파가 아시아 증시 및 신흥국 유동성에 미치는 파급 효과를 점검할 것."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "엔화개입",
+      "일본재무성",
+      "미국국채",
+      "외환시장",
+      "엔캐리트레이드",
+      "언더스탠딩"
+    ]
+  }
+}

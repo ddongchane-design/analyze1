@@ -1,22 +1,15 @@
-import json
-import sys
+import json, sys
 from pathlib import Path
 
-# Set output to utf-8
 if hasattr(sys.stdout, 'reconfigure'):
     sys.stdout.reconfigure(encoding='utf-8')
 
-def print_file_details(filename):
-    f_path = Path(f"data/pending/{filename}")
-    if not f_path.exists():
-        print(f"{filename} not found")
-        return
-    data = json.loads(f_path.read_text(encoding="utf-8"))
-    print(f"\n======================================")
-    print(f"FILE: {filename}")
-    print(f"TITLE: {data['video'].get('title')}")
-    print(f"CHANNEL: {data['video'].get('channel_name')}")
-    print(f"TRANSCRIPT:\n{data.get('transcript', '')}")
+data = json.loads(Path("scratch/pending_dump.json").read_text(encoding="utf-8"))
 
-for f in ["Az9LBgm3_h0.json", "BLvI5dBN8Ws.json", "boq4Dn4H238.json"]:
-    print_file_details(f)
+idx = int(sys.argv[1]) if len(sys.argv) > 1 else 0
+
+item = data[idx]
+print(f"=== [{item['idx']}] {item['id']} | {item['title']} ({item['channel_name']}) ===")
+print(f"URL: {item['url']}")
+print(f"PUBLISHED: {item['published']}")
+print(f"TRANSCRIPT:\n{item['transcript_sample']}")

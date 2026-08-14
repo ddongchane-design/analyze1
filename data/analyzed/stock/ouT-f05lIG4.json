@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "ouT-f05lIG4",
+    "title": "공포 끝난 코스피, 삼전·닉스·삼성전기 승자는 누구?ㅣ명민준, 박가영, 유영화 [주린이 구조대]",
+    "published": "2026-08-13T13:00:03+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=ouT-f05lIG4",
+    "thumbnail": "https://img.youtube.com/vi/ouT-f05lIG4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "7월 말 패닉 셀링으로 98까지 치솟았던 코스피 변동성(VKOSPI)이 55선으로 급락하며 시장 공포가 진정됨. 외국인들이 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>에 집중했던 숏(공매도) 포지션을 대거 환매수(숏커버링)하고, <span class=\"text-cyan-300 font-semibold\">삼성전자</span>와 <span class=\"text-cyan-300 font-semibold\">삼성전기(009150)</span>의 롱 포지션을 늘리면서 코스피 6,800선이 강하게 안착함. 과도한 레버리지 청산 이후 펀더멘털 기반의 주가 정상화 국면에 진입함.",
+    "key_claims": [
+      "코스피 변동성 지수 급락으로 외국인의 헷지성 숏 매도가 중단되고 대규모 숏커버링 매수가 유입됨.",
+      "SK하이닉스는 밸류에이션 바닥 확인 후 숏커버링이 주가를 견인 중이며, 삼성전자와 삼성전기는 추세 반등을 주도함."
+    ],
+    "data_points": [
+      "코스피 변동성 지수: 7월 말 피크 98 수준에서 최근 55로 급락 (정상 범위 15~20).",
+      "SK하이닉스 종가: 159만 원대 (+6% 반등), 삼성전자 26만 원대 회복."
+    ],
+    "signal": "bullish",
+    "signal_reason": "시장 변동성 완화와 외국인의 SK하이닉스 숏 청산 및 대형 IT주 강력한 바스켓 매수 전환.",
+    "key_companies": [
+      "SK하이닉스(000660)",
+      "삼성전자(005930)",
+      "삼성전기(009150)"
+    ],
+    "insight": "변동성 지표의 안정화는 기관과 외국인이 한국 대형 테크주에 대해 비중 확대(Overweight)를 집행할 수 있는 시스템적 환경을 조성함.",
+    "action_point": "패닉 구간에서 벗어난 SK하이닉스 및 삼성전자, AI 기판/MLCC 수혜가 큰 삼성전기를 조정 시마다 분할 매수할 것."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "코스피안착",
+      "SK하이닉스숏커버링",
+      "삼성전자",
+      "삼성전기",
+      "변동성지수",
+      "주린이구조대"
+    ]
+  }
+}
