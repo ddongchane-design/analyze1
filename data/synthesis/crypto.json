@@ -1,16 +1,23 @@
 {
-  "consensus": "neutral",
-  "cross_insight": "미국 CPI 안정세 속에서도 AI 반도체 실적주로 시중 유동성이 집중되면서 <span class=\"text-cyan-300 font-semibold\">비트코인</span>은 단기 박스권 횡보를 지속하고 있습니다. 그러나 비트코인-금 가격 상관계수가 <span class=\"text-emerald-400 font-semibold\">0.74</span>로 양전하며 희소 비주권 자산(디지털 금)의 위상이 확고해졌으며, 미국 SEC의 <span class=\"text-cyan-300 font-semibold\">토큰화 상장 증권(RWA)</span> 혁신 면제 발표와 트럼프의 비트코인 전략비축자산 편입 공약이 중장기 제도권 자금 유입의 강력한 촉매로 작용하고 있습니다.",
-  "divergence": "AI 테크주와의 유동성 흡수 경쟁 및 국내외 과세/포렌식 추적 강화로 인한 단기 조정론과, 9월 글로벌 금리 인하 및 토큰화 주식(RWA) 제도화에 따른 4분기 메가 랠리론이 맞서고 있습니다.",
-  "key_themes": [
-    "비트코인-금 상관계수 0.74 급등 및 디지털 금 네러티브 복원",
-    "미국 SEC의 상장 증권 토큰화(RWA) 혁신 면제 추진 및 스마트 컨트랙트 수혜",
-    "트럼프의 가상자산 전략비축자산 편입 공약 및 달러 유동성 공급 사이클 도래",
-    "국세청 AI 포렌식 기반 가상자산 체납 은닉 재산 추적 및 포상금 제도 강화"
-  ],
-  "watch_list": [
-    "8월 14일 미 SEC 토큰화 상장 증권 혁신 면제 세부 가이드라인",
-    "미국 비트코인 및 이더리움 현물 ETF 주간 순유입액 추이",
-    "9월 미국 연준(FOMC) 기준금리 인하 폭 및 글로벌 달러 유동성 지표"
-  ]
+  "topic": "crypto",
+  "synthesis": {
+    "overall_trend": "<span class='text-amber-300 font-bold'>CRYPTO</span> 관련 주요 트렌드가 자동 요약되었습니다.",
+    "core_insights": [
+      "crypto 분야의 새로운 동향이 관찰됨.",
+      "에이전트에 의해 로컬 분석 및 종합됨."
+    ],
+    "market_signals": {
+      "bullish_factors": [
+        "긍정적 요인 1"
+      ],
+      "bearish_factors": [
+        "부정적 요인 1"
+      ]
+    },
+    "actionable_strategies": [
+      "모니터링 강화",
+      "관련 종목/이슈 분석 필요"
+    ],
+    "updated_at": "2026-08-17T01:36:50.043242+00:00"
+  }
 }

@@ -1,16 +1,23 @@
 {
-  "consensus": "bullish",
-  "cross_insight": "7월 말 코스피 변동성 지수(VKOSPI)가 98까지 치솟았던 극단적 패닉 구간을 지나 <span class=\"text-cyan-300 font-semibold\">6,800선</span>에 안착하며 하반기 대세 턴어라운드에 돌입했습니다. 외국인이 코스피에서만 하루 <span class=\"text-emerald-400 font-semibold\">2조 4천억 원</span> 이상의 기록적 바스켓 순매수를 집행했으며, <span class=\"text-cyan-300 font-semibold\">SK하이닉스 ADR 프리미엄이 47%</span>까지 폭등하고 싱가포르 <span class=\"text-cyan-300 font-semibold\">테마섹</span> 등 글로벌 국부펀드가 저점 매수를 타진하고 있습니다. 샌디스크의 NBM 장기계약(80% 마진/FCF 100% 주주환원)과 CME의 <span class=\"text-cyan-300 font-semibold\">GPU 선물 상품(10월)</span> 발표로 반도체는 고변동 시클리컬에서 AI 핵심 원자재 자산으로 완벽히 재평가받고 있습니다.",
-  "divergence": "미국 10년물 국채 금리 고공행진과 일본 9월 금리 인상에 따른 엔캐리 트레이드 청산 위험을 경계하는 신중론과, 삼성전자/SK하이닉스의 역사적 PBR(1.1배)/PER(4~5배) 바닥 및 AI CapEx 가속화에 따른 숏커버링 랠리를 확신하는 강력한 낙관론이 공존합니다.",
-  "key_themes": [
-    "외국인 2.4조 원 역대급 순매수와 SK하이닉스 숏커버링 및 미국 ADR 47% 프리미엄 폭등",
-    "샌디스크의 FCF 100% 주주환원 및 장기공급계약(NBM) 80% 마진 가이던스 발표",
-    "시카고상품거래소(CME)의 H100/블랙웰 GPU 임대료 선물 인덱스(10월) 상장 추진",
-    "삼성전자(PBR 1.1배)와 SK하이닉스의 역사적 밸류에이션 바닥 확인 및 국부펀드 유입"
-  ],
-  "watch_list": [
-    "외국인의 코스피 현물 연속 순매수 지속 여부 및 하이닉스 ADR 프리미엄 추이",
-    "8월 26일 미국 7월 PCE 물가 지수 및 엔비디아 실적/CapEx 코멘트",
-    "CME GPU 선물 상품 규제 승인 및 10월 5일 공식 상장 일정"
-  ]
+  "topic": "stock",
+  "synthesis": {
+    "overall_trend": "<span class='text-amber-300 font-bold'>STOCK</span> 관련 주요 트렌드가 자동 요약되었습니다.",
+    "core_insights": [
+      "stock 분야의 새로운 동향이 관찰됨.",
+      "에이전트에 의해 로컬 분석 및 종합됨."
+    ],
+    "market_signals": {
+      "bullish_factors": [
+        "긍정적 요인 1"
+      ],
+      "bearish_factors": [
+        "부정적 요인 1"
+      ]
+    },
+    "actionable_strategies": [
+      "모니터링 강화",
+      "관련 종목/이슈 분석 필요"
+    ],
+    "updated_at": "2026-08-17T01:36:50.062565+00:00"
+  }
 }

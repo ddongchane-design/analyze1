@@ -8,37 +8,32 @@
     "thumbnail": "https://img.youtube.com/vi/y9UUV3vWXOw/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "엔비디아 젠슨 황 CEO가 AI 에이전트를 강력하게 미는 핵심 이유는 에이전트가 백그라운드에서 토큰을 폭증시키는 소각 구조를 가졌기 때문입니다. 이에 따라 빅테크들은 더 많은 토큰 생산을 위해 AI 팩토리(데이터센터)를 증설하고 있으며, AI는 단순 연구 단계를 넘어 기업의 실질적인 수익 창출 기제로 정착했습니다.",
+    "summary": "<span class=\"text-amber-300 font-bold\">AI 에이전트</span>가 토큰(Tokens)을 폭발적으로 소모(태우는)하는 구조이기 때문에, <span class=\"text-cyan-300 font-semibold\">엔비디아</span>가 이를 강력하게 추진하고 있음. AI 기업들은 더 많은 토큰을 생성하고 <span class=\"text-cyan-300 font-semibold\">AI 팩토리</span>를 짓기를 원하며, 이제 AI는 단순 비용이 아닌 이익 발전기(Profit Generator)로 전환되고 있음.",
     "key_claims": [
-      "AI 에이전트는 무수한 태스크 수행을 위해 실시간으로 연산을 실행하며 기하급수적인 토큰 수요를 창출합니다.",
-      "빅테크 기업들이 AI 팩토리 건설을 서두르는 원동력은 AI가 이제 비즈니스의 핵심 이익 발전기가 되었기 때문입니다.",
-      "미래 국가 경쟁력은 사람 노동력 대신 AI 에이전트의 규모에 의해 GDP가 결정되는 시대로 전환될 것입니다."
+      "젠슨 황이 <span class=\"text-amber-300 font-bold\">AI 에이전트</span>를 강력하게 추진하는 이유는 에이전트가 막대한 양의 토큰을 지속적으로 소비하는 구조이기 때문임.",
+      "AI 기업들은 토큰 생성량을 늘리고 <span class=\"text-cyan-300 font-semibold\">AI 팩토리</span>를 더 많이 건설하려는 강력한 니즈를 가지고 있음.",
+      "AI는 단순한 연구/비용 단계를 넘어 본격적인 이익 창출원(Profit Generator)으로 진화함."
     ],
-    "data_points": [
-      "젠슨 황의 엔비디아 AI 에이전트 생태계 구축 전략",
-      "AI 기업들의 토큰 대량 생산 및 소비를 위한 AI Factory 구축 수요 증가"
-    ],
+    "data_points": [],
     "signal": "bullish",
-    "signal_reason": "AI 에이전트 도입에 따른 연산 수요(토큰 소비)의 기하급수적 증가가 차세대 AI 하드웨어 랠리를 뒷받침하므로 강력히 긍정적(Bullish)입니다.",
+    "signal_confidence": "high",
+    "signal_reason": "AI 에이전트 도입 본격화로 토큰 소모량이 급증함에 따라 AI 인프라(AI 팩토리) 및 하드웨어(반도체/GPU) 수요가 구조적으로 확장될 것이며, AI 비즈니스가 수익 모델로 안착했음을 시사함.",
     "key_companies": [
       "엔비디아(NVDA)"
     ],
-    "insight": "사용자 대화 기반 AI에서 자율적으로 움직이는 에이전트 AI로의 진화는 인프라 수요의 천장을 없애는 계기가 됩니다. 24시간 작동하며 토큰을 소비하는 디지털 노동자(에이전트)의 확산은 엔비디아 칩 수요를 강력하게 지탱할 것입니다.",
-    "action_point": "토큰 폭증에 직접적인 수혜를 받는 엔비디아 등 <span class=\"text-cyan-300 font-semibold\">AI 반도체</span>/하드웨어 기업과 클라우드 공급업체의 비중을 확대 유지해야 합니다."
+    "insight": "AI 에이전트는 사용자가 프롬프트를 입력할 때뿐만 아니라, 스스로 자율적인 루프를 돌며 판단하고 행동하기 때문에 기존 챗봇보다 기하급수적으로 많은 토큰을 소모함. 이는 <span class=\"text-cyan-300 font-semibold\">엔비디아</span>와 같은 하드웨어 칩 공급사 및 데이터센터 밸류체인에 지속적이고 반복적인 인프라 매출(Recurring demand)을 보장하는 비즈니스 모델로 연결됨.",
+    "action_point": "AI 에이전트 서비스 대중화와 AI 팩토리 건설 붐의 직접적인 수혜를 입는 <span class=\"text-cyan-300 font-semibold\">엔비디아</span>와 AI 인프라 관련 밸류체인에 지속적으로 관심을 가질 필요가 있음."
   },
   "classification": {
     "primary_topic": "tech",
     "secondary_topics": [
-      "stock",
-      "economy"
+      "stock"
     ],
     "tags": [
       "AI에이전트",
-      "젠슨황",
-      "엔비디아",
-      "토큰소비",
+      "토큰소모",
       "AI팩토리",
-      "디지털생산성"
+      "젠슨황"
     ]
   }
 }

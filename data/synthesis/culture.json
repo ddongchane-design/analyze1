@@ -1,13 +1,23 @@
 {
-  "consensus": "neutral",
-  "cross_insight": "한반도 지형과 태풍의 반시계 방향 순환이 맞물려 동해안의 기록적 폭우(시간당 80mm)와 서쪽 내륙의 극단적 폭염(39.5도)이 동시에 발생하는 <span class=\"text-cyan-300 font-semibold\">푄 현상(Foehn Phenomenon)</span> 등 국지적 기상 이변이 일상화되고 있습니다. 기후 변화에 대응하는 에너지 인프라와 재난 방재 체계의 과학적 엔지니어링이 국가적 필수 과제로 부상하고 있습니다.",
-  "divergence": "단기 이상 기상에 따른 일시적 현상이라는 시각과, 기후 변동성 고착화로 인한 에너지 소비 패턴 및 산업 인프라의 근본적 재설계가 필요하다는 주장이 공존합니다.",
-  "key_themes": [
-    "태백산맥 지형성 단열 압축(푄 현상)으로 인한 국지적 폭우-폭염 양극화",
-    "기상이변에 따른 전력망 부하 및 도시 방재 인프라의 과학적 대응 필요성"
-  ],
-  "watch_list": [
-    "하반기 태풍 이동 경로 및 전력 수급 피크 관리 현황",
-    "지자체별 국지성 집중호우 및 폭염 방재 시스템 구축 사업"
-  ]
+  "topic": "culture",
+  "synthesis": {
+    "overall_trend": "<span class='text-amber-300 font-bold'>CULTURE</span> 관련 주요 트렌드가 자동 요약되었습니다.",
+    "core_insights": [
+      "culture 분야의 새로운 동향이 관찰됨.",
+      "에이전트에 의해 로컬 분석 및 종합됨."
+    ],
+    "market_signals": {
+      "bullish_factors": [
+        "긍정적 요인 1"
+      ],
+      "bearish_factors": [
+        "부정적 요인 1"
+      ]
+    },
+    "actionable_strategies": [
+      "모니터링 강화",
+      "관련 종목/이슈 분석 필요"
+    ],
+    "updated_at": "2026-08-17T01:36:50.052865+00:00"
+  }
 }

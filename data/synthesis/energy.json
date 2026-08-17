@@ -1,15 +1,23 @@
 {
-  "consensus": "neutral",
-  "cross_insight": "글로벌 AI 데이터센터 증설의 50% 이상이 지역 주민의 소음 민원과 <span class=\"text-rose-400 font-medium\">전력망 인허가 병목</span>으로 지연되면서, 에너지가 AI 생태계의 최우선 제한 요인으로 떠올랐습니다. 차세대 AI 데이터센터 유치를 둘러싸고 독립 전력망을 갖춘 지역으로 수급이 쏠리는 한편, <span class=\"text-cyan-300 font-semibold\">초고압 변압기 및 송배전 기기</span> 숏티지와 <span class=\"text-amber-300 font-bold\">SMR(소형모듈원전)</span> 지원책이 국가 차원의 에너지 안보 자산으로 대두되고 있습니다.",
-  "divergence": "전력 쇼티지 및 변압기 부족으로 데이터센터 가동이 지연될 것이라는 병목 경고론과, SMR 및 가상발전소(VPP) 인프라 투자가 가속화되어 에너지 소부장 기업들의 사상 최대 이익이 장기화될 것이라는 낙관론이 대립합니다.",
-  "key_themes": [
-    "데이터센터 50% 공사 지연과 전력망 인허가/소음 NIMBY 병목 부각",
-    "초고압 변압기 리드타임 3~4년 고착화에 따른 송배전 기기 수주 폭증",
-    "정부의 7대 미래성장동력 지정에 따른 SMR 및 원자력 R&D 예산 집중"
-  ],
-  "watch_list": [
-    "HD현대일렉트릭 등 국내 전력 송배전 기기사들의 북미 수주잔고 및 마진",
-    "미국 주요 주의 데이터센터 독립 전력망 인허가 통과 비율",
-    "정부의 SMR 인허가 및 체코 원전 본계약 체결 일정"
-  ]
+  "topic": "energy",
+  "synthesis": {
+    "overall_trend": "<span class='text-amber-300 font-bold'>ENERGY</span> 관련 주요 트렌드가 자동 요약되었습니다.",
+    "core_insights": [
+      "energy 분야의 새로운 동향이 관찰됨.",
+      "에이전트에 의해 로컬 분석 및 종합됨."
+    ],
+    "market_signals": {
+      "bullish_factors": [
+        "긍정적 요인 1"
+      ],
+      "bearish_factors": [
+        "부정적 요인 1"
+      ]
+    },
+    "actionable_strategies": [
+      "모니터링 강화",
+      "관련 종목/이슈 분석 필요"
+    ],
+    "updated_at": "2026-08-17T01:36:50.055231+00:00"
+  }
 }

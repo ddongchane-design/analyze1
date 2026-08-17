@@ -1,15 +1,23 @@
 {
-  "consensus": "bullish",
-  "cross_insight": "글로벌 친환경 선박 교체 수요 및 높은 신조선가 유지가 지속되는 가운데, 한화오션, HD한국조선해양, 삼성중공업 등 국내 조선 3사의 고부가가치 <span class=\"text-cyan-300 font-semibold\">LNG/FLNG 및 특수선(잠수함/수주)</span> 중심의 이익 성장세가 공고해지고 있음. 미-중 지정학적 공급망 갈등 속 미 해군 함정 정비(MRO) 및 군함 수주 기대감이 조선업 밸류에이션을 견인함.",
-  "divergence": "후판 가격 등 원자재 변동성과 조선소 인력 부족에 따른 공기 지연 위험 지적이 있으나, 3~4년 치 선풍적인 수주 잔고 확보와 신조선가 지수로 인해 실적 장기 우상향이 확실시됨.",
-  "key_themes": [
-    "고부가가치 LNG선 및 FLNG 선박 수주 잔고에 기반한 마진 대폭 개선",
-    "미 해군 함정 MRO(정비/보수) 사업 진출 및 특수선 수주 모멘텀",
-    "친환경 암모니아/수소 추진선 기술 개발과 독점적 경쟁력 확보"
-  ],
-  "watch_list": [
-    "클락슨 신조선가 지수(Newbuilding Price Index) 추이",
-    "한화오션 및 HD현대중공업 미 해군 함정 MRO 계약 성과",
-    "국내 조선사 3분기 카타르 2차 LNG 운반선 인도 및 영업이익률"
-  ]
+  "topic": "shipbuilding",
+  "synthesis": {
+    "overall_trend": "<span class='text-amber-300 font-bold'>SHIPBUILDING</span> 관련 주요 트렌드가 자동 요약되었습니다.",
+    "core_insights": [
+      "shipbuilding 분야의 새로운 동향이 관찰됨.",
+      "에이전트에 의해 로컬 분석 및 종합됨."
+    ],
+    "market_signals": {
+      "bullish_factors": [
+        "긍정적 요인 1"
+      ],
+      "bearish_factors": [
+        "부정적 요인 1"
+      ]
+    },
+    "actionable_strategies": [
+      "모니터링 강화",
+      "관련 종목/이슈 분석 필요"
+    ],
+    "updated_at": "2026-08-17T01:36:50.058812+00:00"
+  }
 }

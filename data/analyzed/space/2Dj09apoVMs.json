@@ -8,11 +8,11 @@
     "thumbnail": "https://img.youtube.com/vi/2Dj09apoVMs/hqdefault.jpg"
   },
   "analysis": {
-    "summary": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 본격적인 나스닥 상장을 앞두고 투자은행 제프리스가 첫 기업 분석을 통해 목표가 165달러를 제시하였음. 또한 미-<span class=\"text-violet-300 font-medium\">이란</span> 외교적 대면 협상이 대기업 동결자금 해제 등을 골자로 진행 중이며, 오픈AI는 가격 경쟁력 및 에이전트 서비스 <span class=\"text-violet-300 font-medium\">대중</span>화를 위해 자사 API 가격 인하를 검토하고 있는 매크로/테크 뉴스를 요약함.",
+    "summary": "스페이스X의 본격적인 나스닥 상장을 앞두고 투자은행 제프리스가 첫 기업 분석을 통해 목표가 165달러를 제시하였음. 또한 미-이란 외교적 대면 협상이 대기업 동결자금 해제 등을 골자로 진행 중이며, 오픈AI는 가격 경쟁력 및 에이전트 서비스 대중화를 위해 자사 API 가격 인하를 검토하고 있는 매크로/테크 뉴스를 요약함.",
     "key_claims": [
-      "제프리스는 <span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 발사 및 <span class=\"text-cyan-300 font-semibold\">스타링크</span> 매출 고성장세를 바탕으로 상장 목표주가를 $165(기업가치 약 2.2조 달러에 상응)로 제시함.",
+      "제프리스는 스페이스X의 발사 및 스타링크 매출 고성장세를 바탕으로 상장 목표주가를 $165(기업가치 약 2.2조 달러에 상응)로 제시함.",
       "오픈AI가 에이전트 기술 보급 및 경쟁사 추격을 위해 토큰 가격 인하 카드를 꺼내 들었으며, 이는 인프라(엔비디아)의 토큰 소모 증가로 귀결될 것임.",
-      "미국과 <span class=\"text-violet-300 font-medium\">이란</span> 간의 카타르 중재 협상이 여전히 물밑에서 진행 중이며 최종 단계 도달을 위한 자금 해제 방안 등이 다각도로 논의되고 있음."
+      "미국과 이란 간의 카타르 중재 협상이 여전히 물밑에서 진행 중이며 최종 단계 도달을 위한 자금 해제 방안 등이 다각도로 논의되고 있음."
     ],
     "data_points": [
       "스페이스X 제프리스 목표주가: $165 (시작 공모가 $135 대비 프리미엄)",
@@ -20,14 +20,14 @@
     ],
     "signal": "bullish",
     "signal_confidence": "medium",
-    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span> 상장이 강력한 월가 흥행 지지를 받고 있으며, 오픈AI의 API 단가 인하 경쟁은 AI 에이전트 도입을 가속화해 <span class=\"text-cyan-300 font-semibold\">반도체</span>/클라우드 등 테크 부문의 토큰 소모량 폭증과 매출 성장을 동시에 자극할 것임.",
+    "signal_reason": "스페이스X 상장이 강력한 월가 흥행 지지를 받고 있으며, 오픈AI의 API 단가 인하 경쟁은 AI 에이전트 도입을 가속화해 반도체/클라우드 등 테크 부문의 토큰 소모량 폭증과 매출 성장을 동시에 자극할 것임.",
     "key_companies": [
       "스페이스X",
       "오픈AI",
       "엔비디아(NVDA)"
     ],
-    "insight": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>의 목표주가 $165 제시는 현재 1.77조 달러의 가치평가에 긍정적인 신호로 작용함. 특히 오픈AI의 가격 인하는 단기 영업마진 우려를 낳을 수 있으나, AI 에이전트 토큰 태우기를 급속도로 유도하여 장기 인프라 독점 기업인 엔비디아의 이익 체력을 한층 더 견고히 만들어 줌.",
-    "action_point": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span> IPO의 장기적 성장 흐름을 긍정적으로 보되 초기 오버슈팅에 유의하며, 오픈AI의 가격인하 경쟁으로 인해 최종 수혜를 입는 <span class=\"text-cyan-300 font-semibold\">반도체</span>/소재 밸류체인(<span class=\"text-cyan-300 font-semibold\">삼성전자</span>, <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 등)의 수혜 강도를 높게 평가함."
+    "insight": "스페이스X의 목표주가 $165 제시는 현재 1.77조 달러의 가치평가에 긍정적인 신호로 작용함. 특히 오픈AI의 가격 인하는 단기 영업마진 우려를 낳을 수 있으나, AI 에이전트 토큰 태우기를 급속도로 유도하여 장기 인프라 독점 기업인 엔비디아의 이익 체력을 한층 더 견고히 만들어 줌.",
+    "action_point": "스페이스X IPO의 장기적 성장 흐름을 긍정적으로 보되 초기 오버슈팅에 유의하며, 오픈AI의 가격인하 경쟁으로 인해 최종 수혜를 입는 반도체/소재 밸류체인(삼성전자, SK하이닉스 등)의 수혜 강도를 높게 평가함."
   },
   "classification": {
     "primary_topic": "space",
