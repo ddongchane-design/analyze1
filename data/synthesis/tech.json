@@ -1,23 +1,14 @@
 {
-  "topic": "tech",
-  "synthesis": {
-    "overall_trend": "<span class='text-amber-300 font-bold'>TECH</span> 관련 주요 트렌드가 자동 요약되었습니다.",
-    "core_insights": [
-      "tech 분야의 새로운 동향이 관찰됨.",
-      "에이전트에 의해 로컬 분석 및 종합됨."
-    ],
-    "market_signals": {
-      "bullish_factors": [
-        "긍정적 요인 1"
-      ],
-      "bearish_factors": [
-        "부정적 요인 1"
-      ]
-    },
-    "actionable_strategies": [
-      "모니터링 강화",
-      "관련 종목/이슈 분석 필요"
-    ],
-    "updated_at": "2026-08-17T01:36:50.064013+00:00"
-  }
+  "consensus": "bullish",
+  "cross_insight": "총 367개의 분석 영상에서 확인된 바에 따르면, 주로 AI companies are in big trouble, \"부족한 성능은 머릿수로 채운다\" 추월 노리는 중국식 생존 모델 #교양이를부탁해 등의 핵심 이슈가 시장의 주도적인 내러티브로 형성되고 있습니다. 참여자들은 이러한 동향을 주목하고 있습니다.",
+  "divergence": "일부 채널에서는 해당 섹터의 과열 우려를 표하기도 하나, 대체로 장기적 성장성에 대한 기대감이 큼.",
+  "key_themes": [
+    "주요 이슈: AI companies are in big t...",
+    "주요 이슈: \"부족한 성능은 머릿수로 채운다\" 추월 노리는...",
+    "주요 이슈: \"부족한 성능은 머릿수로 채운다\" 추월 노리는..."
+  ],
+  "watch_list": [
+    "관련 정책 변화 모니터링",
+    "시장 변동성 주의 및 리스크 관리"
+  ]
 }
