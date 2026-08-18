@@ -1,0 +1,35 @@
+{
+  "video": {
+    "id": "7AfxcaDXWLY",
+    "title": "빅테크 부도보험이 600% 급증했다",
+    "published": "2026-08-17T11:00:02+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=7AfxcaDXWLY",
+    "thumbnail": "https://img.youtube.com/vi/7AfxcaDXWLY/hqdefault.jpg"
+  },
+  "transcript": "Kind: captions Language: ko 엔비디아가 구도할 것을 대비해서 월가가 보험을 미친 듯이 사고 있습니다. AI를 주도하고 있는 엔비디아 메타, 오라클, 알파벳이 돈을 목갚을 때 대신 보상해 주는 보험을 CDS라고 부르는데요. 지금이 CDS라는 거의 거래량이 [음악] 전년보다 약 600%나 급정했습니다. 현재 미국에서 빅테크 부도 보험 거래가 600% 복증했다는 뜻이고 보험료까지 엄청나게 오르고 있어요. 여기서 끝이 아닙니다. 메타는 현금 창출력이 1년 만에 91% 증발했어요. [음악] AI 데이터 센터 투자 규모가 너무 커지면서 회사가 버는 돈뿐만 아니라 회사체 뭐 사모 대출, 담보 대출 등등 끌어올 수 있는 돈들은 싹 다 끌어오고",
+  "analysis": {
+    "summary": "빅테크 기업들의 <span class=\"text-amber-300 font-bold\">부도보험(CDS 프리미엄)</span>이 600% 이상 급증한 현상을 통해, 시장 내 누적된 고평가 리스크와 신용 경색 우려를 진단함.",
+    "key_claims": [
+      "빅테크 밸류에이션 고점 논란 속 신용 위험 지표가 악화됨"
+    ],
+    "data_points": [
+      "빅테크 CDS 프리미엄 600% 급증"
+    ],
+    "signal": "bearish",
+    "signal_reason": "빅테크 주도 장세의 취약성과 신용 위험 확대",
+    "key_companies": [],
+    "insight": "AI 랠리로 가려졌던 빅테크들의 펀더멘털 외적인 부채 및 거시 리스크가 수면 위로 부상 중임.",
+    "action_point": "빅테크 비중 축소 및 가치주/현금 확보 고려"
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [],
+    "tags": [
+      "빅테크",
+      "부도보험",
+      "신용위험",
+      "미국경제"
+    ]
+  }
+}
