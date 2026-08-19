@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "4gTGeMwtV6Q",
+    "title": "아마존이 20년 전에 짜놓은 설계도 하나가, 지금 AI 투자 지도를 그대로 다시 그리고 있었습니다 | 정지훈 박사 [1부]",
+    "published": "2026-08-18T22:00:34+00:00",
+    "channel_name": "이효석아카데미",
+    "url": "https://www.youtube.com/watch?v=4gTGeMwtV6Q",
+    "thumbnail": "https://img.youtube.com/vi/4gTGeMwtV6Q/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "2000년대 초반 제프 베조스가 주창한 서비스 지향 아키텍처(SOA)와 API 기반 모듈화 설계가 현재 <span class=\"text-cyan-300 font-semibold\">AWS 클라우드</span>와 AI 에이전트 인프라 생태계의 표준으로 작용하고 있음. 인프라에서 시작해 모델(파운데이션), 애플리케이션 플랫폼(베드록)으로 이어지는 계층별 인터페이스 통제력이 빅테크 간 <span class=\"text-amber-300 font-bold\">AI 플랫폼 패권</span>을 결정하고 있음.",
+    "key_claims": [
+      "아마존의 내부 시스템 모듈화 선언(API 강제화)이 클라우드 혁명을 낳았듯, AI 역시 복잡한 파운데이션 모델을 API 레고 블록처럼 연결하는 에이전트 아키텍처로 진화함.",
+      "단일 초거대 모델 개발 경쟁을 넘어 고객이 다양한 모델(앤트로픽, 메타, 독자 모델)을 결합해 파이프라인을 구축할 수 있게 돕는 플랫폼 사업자가 진정한 락인(Lock-in)을 형성함.",
+      "하드웨어 칩(트레이니엄/인퍼런시아)부터 클라우드 데이터센터, 에이전트 프레임워크까지 완결형 밸류체인을 구축한 기업이 장기 생존할 것임."
+    ],
+    "data_points": [
+      "아마존 베드록(Bedrock) 내 멀티모델 채택률 급증 및 앤트로픽 파트너십 투자 확대",
+      "AWS 클라우드 인프라 기반 자체 AI 가속기(Trainium2) 도입 비중 확대"
+    ],
+    "signal": "bullish",
+    "signal_reason": "클라우드 락인 효과와 독자 AI 칩 및 모듈형 플랫폼을 바탕으로 한 빅테크의 현금 창출력과 인프라 장악력이 지속적으로 강화됨.",
+    "key_companies": [
+      "아마존(AMZN)",
+      "엔비디아(NVDA)",
+      "마이크로소프트(MSFT)",
+      "알파벳(GOOGL)"
+    ],
+    "insight": "AI 투자의 핵심은 어떤 단일 모델이 최고 성능을 내는가가 아니라, 엔터프라이즈 기업들이 데이터와 업무를 맡길 수 있는 안전하고 유연한 '모듈형 인프라 플랫폼'을 누가 쥐고 있는가임.",
+    "action_point": "빅테크 클라우드 3사의 자체 AI 가속기 침투율과 B2B 에이전트 워크플로우 플랫폼 수익화 지표를 모니터링해야 함."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "economy",
+      "stock"
+    ],
+    "tags": [
+      "아마존",
+      "AWS",
+      "AI플랫폼",
+      "베드록",
+      "모듈화아키텍처"
+    ]
+  }
+}

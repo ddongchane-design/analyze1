@@ -1,0 +1,36 @@
+{
+  "video": {
+    "id": "5EL1HIZ3e10",
+    "title": "조선식 지진 측정법, 노벨상 받아도 됨",
+    "published": "2026-08-18T14:15:08+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=5EL1HIZ3e10",
+    "thumbnail": "https://img.youtube.com/vi/5EL1HIZ3e10/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "조선왕조실록과 승정원일기 등 역사 기록에 남겨진 정밀한 <span class=\"text-amber-300 font-bold\">지진 관측 및 기술 방식</span>이 현대 지진학 및 계측 표준과 놀라울 정도로 부합함을 조명함. 사기그릇 물결, 처마 흔들림, 가옥 파손 정도 등 물리적 현상을 계급화하여 기록한 조선의 체계적 데이터 측정 역량을 재평가함.",
+    "key_claims": [
+      "조선시대 지진 기록은 진도와 규모를 정밀하게 추정할 수 있는 정량적 묘사를 체계적으로 갖추고 있음.",
+      "현대 계측기가 없던 시절에도 다각적인 물리 지표를 관찰하여 국가적 재난 대응 및 역사 데이터베이스를 구축함."
+    ],
+    "data_points": [
+      "조선왕조실록 내 지진 관련 상세 기록 수천 건 보유",
+      "현대 지진학자들의 한반도 역사 지진 진도 맵핑 연구 활용"
+    ],
+    "signal": "neutral",
+    "signal_reason": "역사 과학 및 교양 콘텐츠로 시장 투자 시그널과는 중립적임.",
+    "key_companies": [],
+    "insight": "정밀한 데이터 축적과 관측 체계는 과학적 분석과 국가 시스템 안정성의 기초 토대임을 보여줌.",
+    "action_point": "한반도 지진 데이터 및 방재 인프라 고도화 관련 공공 안전 기술에 대한 상식적 참고."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [],
+    "tags": [
+      "역사과학",
+      "지진관측",
+      "조선왕조실록",
+      "기록문화"
+    ]
+  }
+}

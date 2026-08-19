@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "JKEcxZFbFik",
+    "title": "트럼프, 호르무즈 미국 영토 주장…중동 불안에 고금리 압박 지속 [월가 뉴스레터]",
+    "published": "2026-08-18T22:13:08+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=JKEcxZFbFik",
+    "thumbnail": "https://img.youtube.com/vi/JKEcxZFbFik/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "도널드 트럼프 전 대통령의 <span class=\"text-violet-300 font-medium\">호르무즈 해협 통제권 및 파격적 지정학적 발언</span>과 중동 내 긴장 고조가 국제 유가 상방 압력과 미국 장기 국채금리 급등을 자극하고 있음. 인플레이션 재점화 우려로 연준의 금리 인하 기대가 후퇴하면서 월가 전반에 고금리 장기화(Higher for Longer) 경계감이 팽배함.",
+    "key_claims": [
+      "중동 원유 수송로인 호르무즈 해협 봉쇄 및 군사적 긴장은 국제 유가 80달러 중후반대 안착을 유발하는 직접적 요인.",
+      "유가 상승과 대규모 미 국채 발행 물량이 맞물리며 10년물 국채금리가 4.5%를 돌파하는 등 금융시장 유동성을 압박.",
+      "지정학적 리스크 프리미엄과 정치적 불확실성이 복합 작용하여 주식시장의 밸류에이션 확장을 제한."
+    ],
+    "data_points": [
+      "WTI 원유 선물 가격 장중 배럴당 82~85달러선 등락",
+      "미국 10년물 및 30년물 국채금리 각각 4.5% 및 4.7% 근접"
+    ],
+    "signal": "bearish",
+    "signal_reason": "지정학적 리스크와 유가 반등, 국채금리 상승의 삼중고가 단기 증시의 밸류에이션 조정을 유발할 가능성이 큼.",
+    "key_companies": [
+      "엑슨모빌(XOM)",
+      "셰브론(CVX)"
+    ],
+    "insight": "대선 국면의 정치적 강경 발언과 중동 안보 불안은 유가 및 금리를 자극해 주식 시장의 최대 적인 '고금리 장기화'를 강제하는 구조적 리스크임.",
+    "action_point": "에너지 ETF 및 원자재 헤지 비중을 점검하고, 금리 민감 고밸류 성장주에 대한 단기 비중 조절 필요."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock",
+      "energy"
+    ],
+    "tags": [
+      "트럼프",
+      "호르무즈",
+      "국제유가",
+      "미국국채금리",
+      "지정학리스크"
+    ]
+  }
+}

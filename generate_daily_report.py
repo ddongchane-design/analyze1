@@ -4,7 +4,7 @@ from pathlib import Path
 from datetime import datetime
 
 def main():
-    base_dir = Path("c:/Users/ddong/OneDrive/Desktop/회사업무/analyze1/youtube-insight")
+    base_dir = Path(__file__).parent.resolve()
     analyzed_dir = base_dir / "data" / "analyzed"
     synthesis_dir = base_dir / "data" / "synthesis"
 

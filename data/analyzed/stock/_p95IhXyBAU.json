@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "_p95IhXyBAU",
+    "title": "미장 복귀는 지능순? 나스닥 고점인데 지금 투자해도 될까?",
+    "published": "2026-08-18T10:00:25+00:00",
+    "channel_name": "수페TV",
+    "url": "https://www.youtube.com/watch?v=_p95IhXyBAU",
+    "thumbnail": "https://img.youtube.com/vi/_p95IhXyBAU/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "나스닥 지수가 역사적 신고가 부근에 위치하여 고점 부담이 커진 상황에서, 포모(FOMO)에 휩쓸려 몰빵하기보다 <span class=\"text-cyan-300 font-semibold\">목적별 ETF(QQQ, QLD, JEPQ 등)를 조합한 분할 적립 및 현금흐름 창출 전략</span>을 제시함. 나스닥100의 장기 복리 성장성과 배당 성장형 커버드콜의 방어력을 결합하는 실전 포트폴리오를 설계함.",
+    "key_claims": [
+      "미국 빅테크의 독점적 이익 창출력은 여전히 유효하므로 나스닥 시장을 떠나기보다 진입 방식(적립식 분할)을 바꿔야 함.",
+      "성장 중심의 QQQ/QLD와 월배당 인컴을 창출하는 JEPQ를 믹스하여 주가 횡보 및 하락장에서도 배당 재투자를 통한 심리적 안정성 확보.",
+      "고점 매수 두려움은 일정 주기의 정액 분할 투자(DCA)를 통해 매수 단가를 평준화함으로써 극복 가능."
+    ],
+    "data_points": [
+      "나스닥100(QQQ) 20년간 연평균 수익률(CAGR) 13~15% 수준 기록",
+      "JEPQ 월배당 연 환산 수익률 9~10% 및 배당 성장 추이 분석"
+    ],
+    "signal": "bullish",
+    "signal_reason": "미국 테크 기업들의 구조적 성장성에 기반한 장기 적립식 분할 투자는 여전히 가장 승률 높은 투자 전략임.",
+    "key_companies": [
+      "애플(AAPL)",
+      "마이크로소프트(MSFT)",
+      "엔비디아(NVDA)",
+      "알파벳(GOOGL)"
+    ],
+    "insight": "시장의 타이밍을 맞추려 하기보다 우상향하는 미국 핵심 혁신 기업 ETF를 시간과 분할 매수를 무기로 꾸준히 모아가는 것이 개인 투자자의 필승법임.",
+    "action_point": "거치식 일시 매수를 지양하고 월별 분할 적립식 매수 및 월배당 ETF를 활용한 배당 재투자 루틴을 구축할 것."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "나스닥투자",
+      "미국ETF",
+      "QQQ",
+      "JEPQ",
+      "분할적립식"
+    ]
+  }
+}

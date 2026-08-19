@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "qeg4M8uNJ5E",
+    "title": "[문지웅의 빅머니 LIVE] 2분기 낸드 매출 77% 증가 | 2027~2028년 HBM 수요 폭발 | 10년물 금리 5% 돌파할까 촉각",
+    "published": "2026-08-18T21:58:31+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=qeg4M8uNJ5E",
+    "thumbnail": "https://img.youtube.com/vi/qeg4M8uNJ5E/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "AI 서버향 엔터프라이즈 eSSD 수요 폭발로 <span class=\"text-cyan-300 font-semibold\">2분기 글로벌 낸드(NAND) 매출이 전년 대비 77% 급증</span>한 가운데, 2027~2028년 HBM 수요가 차세대 AI 가속기와 맞물려 폭발적 팽창세를 보일 것으로 전망됨. 미국 10년물 국채금리의 5% 돌파 여부가 시장의 단기 밸류에이션 변수로 떠오름.",
+    "key_claims": [
+      "DRAM에 이어 NAND 플래시 역시 eSSD 중심의 공급 부족 및 판가 급등으로 실적 서프라이즈 견인.",
+      "HBM 수요는 2026년에 그치지 않고 엔비디아 루빈(Rubin) 및 차세대 아키텍처 출시와 함께 2028년까지 구조적 쇼티지 지속.",
+      "미 10년물 국채금리 5% 돌파 시 단기 기술주 멀티플 조정 가능성 있으나 실적 펀더멘털이 하락을 방어할 것임."
+    ],
+    "data_points": [
+      "글로벌 NAND 매출 전년 대비 77% 급증 및 eSSD 마진율 대폭 개선",
+      "미 10년물 국채수익률 4.5% 상회 및 5.0% 터치 경계감 형성"
+    ],
+    "signal": "bullish",
+    "signal_reason": "DRAM과 NAND의 동반 수급 개선과 HBM 2028년 장기 계약 확정이 메모리 반도체 업계의 역대급 실적 지속성을 뒷받침함.",
+    "key_companies": [
+      "SK하이닉스(000660)",
+      "삼성전자(005930)",
+      "웨스턴디지털(WDC)",
+      "마이크론(MU)"
+    ],
+    "insight": "AI 인프라는 초고속 연산을 위한 HBM과 대용량 데이터 저장을 위한 초고용량 eSSD를 동시에 요구하며 메모리 반도체 전체를 호황기로 이끌고 있음.",
+    "action_point": "낸드 턴어라운드 수혜가 더해진 종합 메모리 반도체 및 고용량 SSD 컨트롤러 밸류체인에 대한 비중 확대."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock",
+      "economy"
+    ],
+    "tags": [
+      "NAND매출급증",
+      "eSSD",
+      "HBM수요폭발",
+      "SK하이닉스",
+      "국채금리5%"
+    ]
+  }
+}

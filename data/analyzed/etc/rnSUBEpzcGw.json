@@ -1,0 +1,37 @@
+{
+  "video": {
+    "id": "rnSUBEpzcGw",
+    "title": "날씨를 조종해서 무기로 쓴다?!",
+    "published": "2026-08-18T03:00:10+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=rnSUBEpzcGw",
+    "thumbnail": "https://img.youtube.com/vi/rnSUBEpzcGw/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "요오드화은을 살포하는 인공강우 및 구름 씨뿌리기(Cloud Seeding)에서 출발하여, 베트남전 당시의 '뽀빠이 작전' 등 <span class=\"text-amber-300 font-bold\">기상 조작 기술(Weather Modification)의 역사와 군사적 활용 실태</span>를 과학적으로 분석함. 유엔의 환경개조기술금지협약(ENMOD) 등 국제 규제와 현대 기상 제어의 과학적 한계를 규명함.",
+    "key_claims": [
+      "구름 씨뿌리기를 통한 국지적 강우 유도는 과학적으로 입증되었으나, 초대형 태풍이나 가뭄을 인위적으로 조작하는 것은 에너지 규모상 불가능에 가까움.",
+      "과거 군사적 기상 무기화 시도 이후 국제 협약으로 기상 환경의 무기 사용이 엄격히 금지됨."
+    ],
+    "data_points": [
+      "베트남전 미군의 뽀빠이 작전(몬순 강우 연장 작전) 사례",
+      "1978년 발효된 유엔 환경개조기술금지협약(ENMOD)"
+    ],
+    "signal": "neutral",
+    "signal_reason": "대기 과학 및 역사 교양 콘텐츠로 금융 투자 시그널과는 중립적임.",
+    "key_companies": [],
+    "insight": "기상 제어 기술은 군사 무기보다는 인공강우, 안개 소산, 가뭄 완화 등 농업 및 공공 안전 목적으로 발전하고 있음.",
+    "action_point": "가뭄 방재 및 인공강우, 대기 환경 정화 기술에 대한 상식적 참고."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [],
+    "tags": [
+      "기상조작",
+      "인공강우",
+      "뽀빠이작전",
+      "ENMOD",
+      "대기과학"
+    ]
+  }
+}

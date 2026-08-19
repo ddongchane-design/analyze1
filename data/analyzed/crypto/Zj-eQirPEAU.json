@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "Zj-eQirPEAU",
+    "title": "토큰화 시장 350억 달러 성장…실제 자금은 누가 사고 있나 | 김동환, 조동현 언디파인드랩스 대표 [크립토 PLUS]",
+    "published": "2026-08-18T03:21:25+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=Zj-eQirPEAU",
+    "thumbnail": "https://img.youtube.com/vi/Zj-eQirPEAU/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "블록체인 기반의 <span class=\"text-cyan-300 font-semibold\">실물자산 토큰화(RWA, Real World Assets)</span> 시장 규모가 350억 달러를 돌파하며 가파른 성장세를 보임. 블랙록의 BUIDL 펀드와 프랭클린 템플턴 등 글로벌 메이저 자산운용사들이 미국 국채와 머니마켓펀드(MMF)를 온체인 토큰화하여 가상자산 헤지펀드 및 디파이(DeFi) 프로토콜의 담보 자산으로 공급하는 실질적 자금 흐름을 분석함.",
+    "key_claims": [
+      "RWA 시장 성장의 핵심 동력은 가상자산 생태계 내부의 안정적인 무위험 미국 국채 이자 수익(연 5% 수준) 수요임.",
+      "블랙록, 프랭클린 템플턴 등 제도권 공룡들의 진입으로 온체인 토큰화 증권의 결제 인프라 표준화가 급진전.",
+      "스테이블코인을 넘어 전통 채권, 부동산, 사모펀드로 RWA 적용 대상이 급격히 확장되는 중."
+    ],
+    "data_points": [
+      "글로벌 온체인 RWA 시장 규모 350억 달러 돌파",
+      "블랙록 BUIDL 펀드 설정액 5억 달러 초고속 돌파 및 이더리움 기반 결제 점유율 확대"
+    ],
+    "signal": "bullish",
+    "signal_reason": "전통 금융 자본의 블록체인 인프라 채택이 본격화되면서 크립토 생태계의 실질적 펀더멘털과 수수료 수익 모델이 강화됨.",
+    "key_companies": [
+      "블랙록(BLK)",
+      "이더리움(ETH)",
+      "체인링크(LINK)"
+    ],
+    "insight": "토큰화(RWA)는 단순한 테마가 아니라 24시간 실시간 결제와 글로벌 자본 접근성을 무기로 전통 자본시장의 백오피스를 대체하는 금융 인프라 혁명임.",
+    "action_point": "RWA 결제 인프라의 표준 플랫폼인 이더리움 및 온체인 데이터 오라클 리더인 체인링크 생태계 확장에 주목할 것."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "tech",
+      "stock"
+    ],
+    "tags": [
+      "RWA",
+      "실물자산토큰화",
+      "블랙록BUIDL",
+      "미국국채토큰",
+      "디파이"
+    ]
+  }
+}

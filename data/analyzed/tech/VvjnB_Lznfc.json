@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "VvjnB_Lznfc",
+    "title": "AI 토큰 10배 폭증…반도체 공급 부족은 2028년까지 계속된다ㅣ김장열 유니스토리자산운용 리서치센터장 [집중 오늘의 주식]",
+    "published": "2026-08-18T11:30:16+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=VvjnB_Lznfc",
+    "thumbnail": "https://img.youtube.com/vi/VvjnB_Lznfc/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "AI 에이전트 서비스와 다중 모달(Multimodal) 추론의 대중화로 <span class=\"text-cyan-300 font-semibold\">AI 토큰 생성량이 기존 대비 10배 이상 폭증</span>하고 있어, HBM과 첨단 패키징 등 고성능 반도체 공급 부족 현상이 2028년까지 장기화될 것으로 전망됨. 빅테크들의 데이터센터 인프라 지출은 일시적 유행이 아닌 필수 생존 투자로 자리잡음.",
+    "key_claims": [
+      "단순 검색용 챗봇을 넘어 자율 에이전트가 작동하면서 추론 단계의 컴퓨팅 및 메모리 대역폭 소모량이 기하급수적으로 폭증.",
+      "TSMC의 CoWoS 어드밴스드 패키징과 SK하이닉스의 <span class=\"text-cyan-300 font-semibold\">HBM3E/HBM4</span> 공급 능력이 2027~2028년까지 타이트한 수급 상태를 유지할 것임.",
+      "반도체 사이클의 피크아웃 우려는 기우이며, 구조적 공급 제한으로 인해 제조사들의 높은 영업이익률이 장기 지속됨."
+    ],
+    "data_points": [
+      "글로벌 AI 추론 토큰 소모량 전년 대비 1,000% 급증",
+      "2026~2028년 첨단 패키징 및 HBM 라인 가동률 100% 근접 유지 전망"
+    ],
+    "signal": "bullish",
+    "signal_reason": "AI 토큰 폭증에 따른 전방 수요의 구조적 팽창과 공급 병목이 반도체 슈퍼사이클의 지속 기간을 대폭 연장함.",
+    "key_companies": [
+      "SK하이닉스(000660)",
+      "삼성전자(005930)",
+      "TSMC(TSM)",
+      "엔비디아(NVDA)"
+    ],
+    "insight": "AI 투자는 모델 학습(Training)에서 실시간 추론(Inference) 시대로 무게중심이 이동하며, 막대한 토큰 처리를 위한 광대역 메모리 수요를 끝없이 창출하고 있음.",
+    "action_point": "단기 주가 등락에 연연하지 말고 2028년까지 구조적 실적 성장이 보장된 메모리 반도체 대장주와 첨단 패키징 장비주를 뚝심 있게 보유할 것."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock",
+      "economy"
+    ],
+    "tags": [
+      "AI토큰",
+      "HBM",
+      "반도체슈퍼사이클",
+      "SK하이닉스",
+      "추론컴퓨팅"
+    ]
+  }
+}

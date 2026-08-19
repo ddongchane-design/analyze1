@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "E4gz6V0LNR0",
+    "title": "스페이스X 10GW 데이터센터 누가 쓸까?",
+    "published": "2026-08-18T08:00:05+00:00",
+    "channel_name": "안될공학 - IT 테크 신기술",
+    "url": "https://www.youtube.com/watch?v=E4gz6V0LNR0",
+    "thumbnail": "https://img.youtube.com/vi/E4gz6V0LNR0/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>가 추진하는 10GW급 초대형 데이터센터 구상은 단순한 지상 전력 공급을 넘어 스타링크 우주 통신망과 <span class=\"text-cyan-300 font-semibold\">xAI(Grok)</span>, 테슬라 자율주행(FSD) 및 휴머노이드 로봇(옵티머스)의 두뇌 인프라로 직결됨. 우주 태양광 및 텍사스 테네시 메가 데이터센터 클러스터를 결합해 전력 병목을 돌파하려는 머스크 생태계의 야심을 분석함.",
+    "key_claims": [
+      "10GW는 원자력 발전소 10기에 맞먹는 막대한 전력 규모로, 기존 빅테크 데이터센터 총합을 압도하는 수준임.",
+      "이 막대한 컴퓨팅 파워의 실질 사용자는 xAI의 차세대 거대언어모델 훈련 및 테슬라 로보택시·옵티머스 피지컬 AI 클라우드임.",
+      "스페이스X의 스타링크 고속 통신과 결합하여 전 세계 오지 및 우주 궤도까지 커버하는 독점적 분산 AI 인프라 구축 목표."
+    ],
+    "data_points": [
+      "스페이스X 및 xAI 멤피스 콜로서스 데이터센터 10만 개 이상 H100/H200 GPU 클러스터 가동",
+      "10GW 전력 소모 규모: 대도시 전체 전력 소비량 수준"
+    ],
+    "signal": "bullish",
+    "signal_reason": "우주 발사체 및 위성 통신 독점에 이어 AI 슈퍼컴퓨팅 인프라까지 수직 통합하는 스페이스X/xAI의 기업가치 상승 모멘텀이 강력함.",
+    "key_companies": [
+      "스페이스X",
+      "테슬라(TSLA)",
+      "엔비디아(NVDA)"
+    ],
+    "insight": "전력망 병목이 AI 확장의 최대 걸림돌로 떠오른 상황에서 자체 발전 인프라와 10GW급 데이터센터를 선점하는 자가 AGI 경쟁의 최종 승기를 잡게 됨.",
+    "action_point": "스페이스X 상장(IPO) 모멘텀과 함께 테슬라의 AI 컴퓨팅 자산 가치 및 차세대 전력 장비 기업들과의 연계성을 주목할 것."
+  },
+  "classification": {
+    "primary_topic": "space",
+    "secondary_topics": [
+      "tech",
+      "energy"
+    ],
+    "tags": [
+      "스페이스X",
+      "10GW데이터센터",
+      "xAI",
+      "스타링크",
+      "전력인프라"
+    ]
+  }
+}

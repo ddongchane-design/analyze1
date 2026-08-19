@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "6TKmlsKCBh8",
+    "title": "\"부자를 더 만들어라\" 미국이 AI를 키우는 이유 #교양이를부탁해 #엔화 #미국국채 #베센트 #미국부채",
+    "published": "2026-08-18T12:00:34+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=6TKmlsKCBh8",
+    "thumbnail": "https://img.youtube.com/vi/6TKmlsKCBh8/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국의 막대한 국가부채와 국채 이자 부담을 해결하기 위해 미국 정부가 선택한 핵심 전략은 <span class=\"text-amber-300 font-bold\">AI 주도 경제 성장과 자산 가치 상승을 통한 세수 극대화</span>임. 엔비디아 등 빅테크 주가 상승과 신규 고소득층 창출이 미국 재정 펀더멘털을 지탱하는 본질적 원동력으로 작용함.",
+    "key_claims": [
+      "정부 재정의 핵심 펀더멘털은 세금 징수 능력이며, 부채를 갚기 위해 고소득 자산가를 대거 육성해야 함.",
+      "AI 생태계 육성은 기업 가치 폭등과 자본이득세 확대로 직결되어 미국 국채 신뢰도를 유지시키는 핵심 기둥임."
+    ],
+    "data_points": [
+      "미국 국가부채 35조~40조 달러 돌파 국면",
+      "빅테크 중심 S&P500 시총 비중 확대 및 자본이득세 수입 비중 증가"
+    ],
+    "signal": "bullish",
+    "signal_reason": "미국 정부의 정책적 방향이 AI 산업 성장과 주식 시장 부양을 통한 세수 확보에 맞춰져 있어 중장기 AI 정책 수혜가 지속될 것임.",
+    "key_companies": [
+      "엔비디아(NVDA)",
+      "마이크로소프트(MSFT)"
+    ],
+    "insight": "미국 국채 위기론의 해법은 긴축이 아니라 AI를 통한 생산성 폭발과 자산 버블 유도를 통한 GDP 대비 부채비율 희석 전략임.",
+    "action_point": "미국 정부의 재정 전략과 이해관계를 같이하는 핵심 미국 빅테크 주도주에 대한 중장기 비중 유지가 유리함."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "tech",
+      "stock"
+    ],
+    "tags": [
+      "미국부채",
+      "AI육성",
+      "세수확대",
+      "엔비디아",
+      "재정정책"
+    ]
+  }
+}

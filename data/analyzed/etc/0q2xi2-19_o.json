@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "0q2xi2-19_o",
+    "title": "피를 주입했더니 회춘이 된다고?!",
+    "published": "2026-08-18T09:00:15+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=0q2xi2-19_o",
+    "thumbnail": "https://img.youtube.com/vi/0q2xi2-19_o/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "젊은 쥐와 늙은 쥐의 혈관을 외과적으로 연결하는 <span class=\"text-cyan-300 font-semibold\">병체결합(Parabiosis)</span> 실험을 통해 젊은 피의 특정 인자가 늙은 개체의 뇌신경 세포 및 장기 기능을 회복시키는 항노화 메커니즘을 규명함. 과거의 무분별한 수혈 위험성을 극복하고 혈장 내 유효 단백질(GDF11, 클로토 등) 및 희석 기전을 활용한 정밀 <span class=\"text-amber-300 font-bold\">역노화 바이오 치료제</span> 연구가 가속화되고 있음.",
+    "key_claims": [
+      "병체결합 실험 결과, 젊은 혈액 성분 유입 시 신경 재생 및 인지 기능 개선이 실제로 관찰됨.",
+      "단순 전혈 주입은 거부 반응 및 심혈관 부작용이 크므로 혈장 내 특정 <span class=\"text-cyan-300 font-semibold\">회춘 인자 단백질</span>을 선별 추출하거나 노화 혈장을 정화하는 기술이 핵심임.",
+      "글로벌 바이오 기업 및 빅테크 펀딩이 집중되며 단순 수명 연장을 넘어 건강수명(Healthspan) 극대화 산업으로 진화 중임."
+    ],
+    "data_points": [
+      "1950년대 클라이브 맥케이 교수의 초기 파라바이오시스 실험부터 2010년대 스탠퍼드 토니 위스-코레이 교수의 뇌 인지기능 회복 연구까지 70년 연구사",
+      "노화 혈장 교체 치료(TPE) 임상 및 알츠하이머 대상 바이오마커 개선 지표 확인"
+    ],
+    "signal": "neutral",
+    "signal_reason": "장기적 헬스케어 혁신 테마이나 아직 초기 임상 및 규제 검증 단계로 즉각적인 상용화 수익화에는 시간이 소요됨.",
+    "key_companies": [
+      "알카헤스트(Alkahest)",
+      "유스바이오"
+    ],
+    "insight": "노화 정복 연구는 비과학적 민간요법에서 분자생물학적 혈액 프로테오믹스(단백질체학) 및 세포 리프로그래밍 치료 분야로 패러다임이 전환되고 있음.",
+    "action_point": "항노화 및 알츠하이머 표적 단백질 치료제를 개발하는 바이오테크 및 헬스케어 플랫폼 파이프라인의 장기 임상 데이터에 주목할 필요가 있음."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "항노화",
+      "역노화",
+      "바이오테크",
+      "파라바이오시스",
+      "혈장치료"
+    ]
+  }
+}

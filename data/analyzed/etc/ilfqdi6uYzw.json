@@ -1,0 +1,40 @@
+{
+  "video": {
+    "id": "ilfqdi6uYzw",
+    "title": "\"10평 더 짓게 해줄게\" 이게 빌라 공급 대책? (언더스탠딩 장순원 기자)",
+    "published": "2026-08-18T07:55:01+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=ilfqdi6uYzw",
+    "thumbnail": "https://img.youtube.com/vi/ilfqdi6uYzw/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "정부가 발표한 비아파트(빌라·다세대) 공급 확대 대책(용적률 완화 및 LH 신축 매입임대 확대)의 실효성과 한계를 심층 취재함. <span class=\"text-amber-300 font-bold\">전세사기 여파로 인한 비아파트 기피 심리와 공사비 급등</span>으로 인해 단순 용적률 인센티브만으로는 민간의 신규 빌라 착공을 유인하기 어려운 부동산 시장의 구조적 딜레마를 분석함.",
+    "key_claims": [
+      "전세사기 사태 이후 아파트로의 쏠림이 심화되어 빌라 임대차 및 매매 시장이 완전히 얼어붙은 상태임.",
+      "LH 매입임대 확대는 단기 착공을 늘릴 수 있으나 재정 부담과 품질 검증 논란이 수반됨.",
+      "공사비 폭등으로 소규모 건축업자들의 사업 마진이 축소되어 민간 주도 공급 회복에는 한계가 존재."
+    ],
+    "data_points": [
+      "전국 비아파트 인허가 및 착공 실적 전년 대비 40~50% 급감",
+      "LH의 2026년 신축 매입임대 목표 물량 10만 호 이상 확대 계획"
+    ],
+    "signal": "neutral",
+    "signal_reason": "국내 부동산 정책 및 서민 주거 공급에 관한 정책 분석으로 증시 시그널과는 중립적임.",
+    "key_companies": [],
+    "insight": "주택 공급 정책은 제도적 용적률 인센티브보다 시장의 신뢰 회복과 금융(PF 및 보증) 인프라 정상화가 선행되어야 효과를 발휘함.",
+    "action_point": "수도권 아파트 전세가 상승세와 비아파트 매입임대 정책에 따른 부동산 주거 시장의 양극화 흐름 참고."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "부동산대책",
+      "빌라공급",
+      "LH매입임대",
+      "전세사기여파",
+      "주택시장"
+    ]
+  }
+}

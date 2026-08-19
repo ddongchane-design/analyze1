@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "9QB1cb8pQIA",
+    "title": "미 국채 샀다가 파산? 실리콘밸리은행이 망한 이유 #교양이를부탁해 #엔화 #미국국채 #베센트 #미국부채",
+    "published": "2026-08-18T11:15:33+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=9QB1cb8pQIA",
+    "thumbnail": "https://img.youtube.com/vi/9QB1cb8pQIA/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "가장 안전한 무위험 자산으로 여겨지는 <span class=\"text-amber-300 font-bold\">미국 장기 국채</span>를 대거 매입했던 실리콘밸리은행(SVB)이 급격한 기준금리 인상으로 인한 채권 평가손실과 단기 예금 인출(뱅크런)이 맞물리며 파산에 이른 구조적 원인을 설명함. 장기 금리 상승기 금융기관의 자산-부채 만기 불일치(듀레이션 리스크)의 치명성을 경고함.",
+    "key_claims": [
+      "미국 국채 자체의 부도 위험이 아니라, 금리 급등으로 인한 <span class=\"text-rose-400 font-medium\">채권 매매가격 폭락</span>이 금융기관 자본을 잠식함.",
+      "단기 예금 부채와 장기 채권 자산 간의 만기 미스매칭 관리에 실패하면 초우량 은행도 순식간에 유동성 위기에 직면함."
+    ],
+    "data_points": [
+      "SVB 보유 미 국채 및 MBS 만기보유증권(HTM)의 수백억 달러 미실현 손실",
+      "스마트폰 뱅킹을 통한 36시간 만의 420억 달러 초고속 예금 인출"
+    ],
+    "signal": "bearish",
+    "signal_reason": "장기 국채금리가 재차 4.5~5.0%대로 치솟을 경우 중소형 은행 및 비은행 금융권의 채권 평가손실 리스크가 재부각될 우려가 있음.",
+    "key_companies": [
+      "SVB Financial(파산)",
+      "뉴욕커뮤니티뱅코프(NYCB)"
+    ],
+    "insight": "금리 상승 국면에서는 신용 리스크뿐만 아니라 금리 변동에 따른 듀레이션 자산 평가손실이 금융 시스템의 가장 취약한 고리가 됨.",
+    "action_point": "미국 장기 국채금리 고공행진에 따른 미국 중소형 지역은행 및 상업용 부동산 대출 연체율 추이를 면밀히 모니터링해야 함."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "SVB파산",
+      "미국국채",
+      "금리상승",
+      "채권평가손",
+      "금융리스크"
+    ]
+  }
+}

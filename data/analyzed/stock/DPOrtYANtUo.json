@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "DPOrtYANtUo",
+    "title": "부담스러운 국채금리 상승..미국증시 약세 | 데일리 라이브 | 2026.8.18(화)",
+    "published": "2026-08-18T11:16:28+00:00",
+    "channel_name": "Smart Money by MiraeAsset ",
+    "url": "https://www.youtube.com/watch?v=DPOrtYANtUo",
+    "thumbnail": "https://img.youtube.com/vi/DPOrtYANtUo/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 10년물 국채금리가 다시 4.5% 수준으로 반등하면서 기술주 중심의 나스닥과 S&P500이 차익실현 매물로 약세를 보임. 엔비디아 실적 발표를 앞둔 관망 심리와 유가 반등, FOMC 의사록 발표 경계감이 겹치며 단기 <span class=\"text-amber-300 font-bold\">밸류에이션 부담 완화 과정</span>이 진행 중임.",
+    "key_claims": [
+      "국채금리 상승 압력이 밸류에이션 부담이 큰 고PER 성장주에 즉각적인 하방 압력으로 작용.",
+      "실적 시즌 막바지 핵심 이벤트인 <span class=\"text-cyan-300 font-semibold\">엔비디아 실적 및 블랙웰 출하 가이던스</span> 확인 전까지 지수 횡보 가능성 큼.",
+      "경기 둔화 우려보다는 금리 및 채권 공급 물량 부담에 따른 기술적 조정 양상임."
+    ],
+    "data_points": [
+      "미국 10년물 국채금리 4.48% 상승 및 달러 인덱스 104선 안착",
+      "나스닥 지수 -0.8% 하락 마감 및 필라델피아 반도체 지수 단기 숨고르기"
+    ],
+    "signal": "neutral",
+    "signal_reason": "펀더멘털 훼손이 아닌 금리 반등과 대형 이벤트 앞둔 단기 기간 조정 국면으로 판단됨.",
+    "key_companies": [
+      "엔비디아(NVDA)",
+      "애플(AAPL)",
+      "마이크로소프트(MSFT)"
+    ],
+    "insight": "금리 상승기에는 지수 전체의 추세적 상승보다 실적이 뒷받침되는 개별 종목 장세로 압축되므로 실적 발표 결과에 따른 종목 선별이 필수적임.",
+    "action_point": "엔비디아 실적 발표 및 컨퍼런스콜에서 언급될 차세대 칩 양산 일정과 데이터센터 수요 코멘트를 최종 확인 후 포지션 조정."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy",
+      "tech"
+    ],
+    "tags": [
+      "미국증시",
+      "국채금리",
+      "엔비디아",
+      "나스닥",
+      "단기조정"
+    ]
+  }
+}
