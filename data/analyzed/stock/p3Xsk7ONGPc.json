@@ -1,0 +1,41 @@
+{
+  "video": {
+    "id": "p3Xsk7ONGPc",
+    "title": "미리 준비하는 중개형ISA 만기",
+    "published": "2026-08-19T01:15:06+00:00",
+    "channel_name": "Smart Money by MiraeAsset ",
+    "url": "https://www.youtube.com/watch?v=p3Xsk7ONGPc",
+    "thumbnail": "https://img.youtube.com/vi/p3Xsk7ONGPc/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "중개형 ISA 계좌의 의무 가입 기간 만기 도래 시 자금을 현명하게 관리할 수 있는 최적의 세무 및 자산 운용 가이드를 제공합니다.\n비과세 한도를 채운 후 만기일로부터 60일 이내에 연금저축이나 IRP 계좌로 자금을 이전하면 <span class=\"text-emerald-400 font-medium\">이전 금액의 10%(최대 300만 원)를 추가 세액공제</span>받을 수 있습니다.\n자산 증식을 계속 원할 경우 만기를 자유롭게 연장하여 납입 한도(연 2,000만 원, 최대 1억 원)를 유지하며 비과세 복리 혜택을 이어갈 수 있습니다.",
+    "key_claims": [
+      "ISA 만기 자금을 60일 이내 연금 계좌로 전환 시 최대 300만 원의 파격적인 추가 세액공제 혜택 제공.",
+      "장기 투자를 지속하고자 할 때는 해지 대신 만기 연장을 통해 절세 한도를 계속 누릴 수 있음."
+    ],
+    "data_points": [
+      "연금 전환 추가 세액공제: 이전 금액의 10% (최대 300만 원 한도)",
+      "신청 기한: ISA 만기일로부터 60일 이내"
+    ],
+    "signal": "na",
+    "signal_reason": "절세 계좌(ISA) 만기 관리 실무 가이드 영상으로 주식 투자 시그널에 해당하지 않음.",
+    "key_companies": [
+      "미래에셋증권"
+    ],
+    "insight": "절세 계좌의 만기 전략을 사전에 수립하여 연금 전환 추가 세액공제를 확보하는 것이 실질 가처분 소득을 극대화하는 팁입니다.",
+    "action_point": "ISA 만기 도래 예정자는 60일 이내 연금계좌 전환 신청을 준비하여 연말정산 절세 혜택을 챙길 것."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "etc"
+    ],
+    "tags": [
+      "중개형ISA만기",
+      "연금전환세액공제",
+      "최대300만원",
+      "절세계좌팁",
+      "미래에셋"
+    ]
+  }
+}

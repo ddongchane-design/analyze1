@@ -1,0 +1,40 @@
+{
+  "video": {
+    "id": "e76johEpuZw",
+    "title": "변동성 시장에서 살아남는 방법",
+    "published": "2026-08-19T01:08:02+00:00",
+    "channel_name": "Smart Money by MiraeAsset ",
+    "url": "https://www.youtube.com/watch?v=e76johEpuZw",
+    "thumbnail": "https://img.youtube.com/vi/e76johEpuZw/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "급격한 시장 변동성과 대외 경제 리스크에 대비하기 위해서는 단일 고위험 자산에 편중된 투자를 지양하고 <span class=\"text-emerald-400 font-medium\">자산 배분(Asset Allocation)</span> 원칙을 철저히 준수해야 합니다.\n중개형 ISA 계좌를 활용하면 주식뿐만 아니라 채권, ETF, 펀드 등 다양한 자산군을 하나의 계좌에 유연하게 담아 포트폴리오를 분산할 수 있습니다.\n비과세 및 분리과세 절세 혜택을 극대화하면서 하락장에서도 계좌 변동성을 낮추는 안정적 자산 배분 전략을 권장합니다.",
+    "key_claims": [
+      "시장 변동성 장세에서는 단일 자산 올인보다 여러 자산군을 조합한 포트폴리오 구성이 필수적임.",
+      "중개형 ISA는 주식, 채권, ETF를 자유롭게 리밸런싱할 수 있어 변동성 관리에 최적화된 절세 계좌임."
+    ],
+    "data_points": [
+      "중개형 ISA 특징: 주식, ETF, 채권 등 다양한 상품 통합 운용 및 비과세 혜택 제공"
+    ],
+    "signal": "na",
+    "signal_reason": "자산 배분 및 절세 계좌(ISA) 운용 가이드 영상으로 개별 종목 매매 시그널에 해당하지 않음.",
+    "key_companies": [
+      "미래에셋증권"
+    ],
+    "insight": "시장의 단기 방향성을 맞추려 하기보다 어떤 시장 충격에도 견딜 수 있는 '자산 배분 벙커'를 마련하는 것이 장기 복리 수익률의 핵심입니다.",
+    "action_point": "중개형 ISA 계좌를 통해 변동성이 큰 기술주와 안정적인 배당주/단기채권 ETF를 적절한 비율로 분산 편입할 것."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "etc"
+    ],
+    "tags": [
+      "중개형ISA",
+      "자산배분",
+      "변동성관리",
+      "절세계좌",
+      "미래에셋"
+    ]
+  }
+}

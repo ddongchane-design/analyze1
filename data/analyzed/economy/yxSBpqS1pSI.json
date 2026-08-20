@@ -1,0 +1,52 @@
+{
+  "video": {
+    "id": "yxSBpqS1pSI",
+    "title": "미국 재무부, 장기 국채 매입 2배로 확대...모더나-머크, 암 백신 임상 결과에 폭등 [월가 뉴스레터]",
+    "published": "2026-08-19T22:18:32+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=yxSBpqS1pSI",
+    "thumbnail": "https://img.youtube.com/vi/yxSBpqS1pSI/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "베선트 미 재무장관의 국채 바이백 2배 전격 확대로 미국 10년물 국채 금리가 4.64%로 급락하며 채권발 공포가 진정되었습니다.\n모더나-머크의 흑색종 암 백신 3상 성공으로 모더나 주가가 180%대 폭등을 기록했고, 유니트리 상장 대흥행에 힘입어 테슬라 옵티머스 휴머노이드 가치가 재평가되며 4.2% 상승했습니다.\n구글의 마벨(MRVL) 커스텀 TPU 협력 체결로 마벨이 10% 급등한 반면 브로드컴이 하락하는 등 AI 하드웨어 내 차별화 장세가 뚜렷해졌습니다.",
+    "key_claims": [
+      "미 재무부의 장기 국채 매입 확대는 금리 불안을 잠재우며 증시 전반에 즉각적인 안도 랠리를 촉발함.",
+      "바이오(모더나), 로봇(테슬라/유니트리), ASIC 반도체(마벨) 등 실질적 기술 혁신 테마로 자금 순환매가 전개됨.",
+      "금리 하락으로 그동안 억눌려 있던 크립토(비트코인), 금, 바이오, 건설 섹터가 동반 반등세를 시현함."
+    ],
+    "data_points": [
+      "미국 10년물 국채 금리: 4.64%로 급락 (장대 음봉 출현)",
+      "모더나(MRNA) 주가: 장중 180% 이상 폭등 기록",
+      "테슬라(TSLA): 유니트리 로봇 IPO 흥행 연동으로 +4.23% 상승",
+      "마벨 테크놀로지(MRVL): 구글 TPU 협력 발표로 +10% 급등 vs 브로드컴(AVGO) -4.6% 하락"
+    ],
+    "signal": "bullish",
+    "signal_reason": "매크로 금리 상방 압력 해소와 모더나 암백신/테슬라 로봇/마벨 ASIC 등 다변화된 기술 호재가 시장의 투자 심리를 급속히 회복시키고 있기 때문임.",
+    "key_companies": [
+      "모더나(MRNA)",
+      "테슬라(TSLA)",
+      "마벨테크놀로지(MRVL)",
+      "구글(GOOGL)",
+      "브로드컴(AVGO)",
+      "엔비디아(NVDA)"
+    ],
+    "insight": "빅테크 단일 독주에서 벗어나 <span class=\"text-rose-400 font-medium\">바이오 신약</span>, <span class=\"text-cyan-300 font-semibold\">피지컬 AI(휴머노이드)</span>, <span class=\"text-emerald-400 font-medium\">맞춤형 ASIC 반도체</span>로 시장의 상승 동력이 다각화되고 있습니다.",
+    "action_point": "금리 안정화의 직접 수혜를 받는 테슬라(로봇), 모더나(바이오), 마벨(ASIC) 등 다변화된 혁신 성장주를 균형 있게 포트폴리오에 편입할 것."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock",
+      "tech",
+      "robot"
+    ],
+    "tags": [
+      "국채매입2배확대",
+      "모더나폭등",
+      "테슬라로봇재평가",
+      "마벨구글TPU",
+      "베선트재무부",
+      "박명석큐레이터"
+    ]
+  }
+}

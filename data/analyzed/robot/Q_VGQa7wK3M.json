@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "Q_VGQa7wK3M",
+    "title": "테슬라가 진짜 노리는 건 당신 집이다 #일론머스크 #휴머노이드",
+    "published": "2026-08-19T14:15:35+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=Q_VGQa7wK3M",
+    "thumbnail": "https://img.youtube.com/vi/Q_VGQa7wK3M/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "테슬라 옵티머스가 로봇 손에 22자유도를 초과하는 고난도 힘줄(Tendon) 구동 방식을 고집하는 이유는 단순 공장 조립용 로봇을 넘어 <span class=\"text-cyan-300 font-semibold\">무한대의 잠재력을 지닌 '가정용(B2C) 휴머노이드'</span> 시장을 타깃으로 하기 때문입니다.\n가정 내 비정형 환경과 복잡한 인간 도구를 다루기 위해서는 인간의 손과 동일한 정밀 조작 능력이 필수적입니다.\n제조 현장을 거쳐 궁극적으로 수억 가구에 보급될 B2C 휴머노이드 시장 선점이 테슬라 피지컬 AI 비전의 핵심입니다.",
+    "key_claims": [
+      "테슬라 옵티머스 손 설계(22자유도)의 진정한 목적은 제조 공장이 아닌 가정용 도우미 로봇 시장임.",
+      "가정용 휴머노이드 시장은 산업용 로봇 시장보다 수십 배 거대한 궁극의 피지컬 AI 시장임."
+    ],
+    "data_points": [
+      "옵티머스 손 메커니즘: 22자유도 이상 구현 및 힘줄(Tendon) 기반 정밀 구동 채택"
+    ],
+    "signal": "bullish",
+    "signal_reason": "테슬라 휴머노이드의 상용화 로드맵이 산업용에서 조 단위 가정용 서비스 로봇 생태계로 확장되는 장기 비전을 구체화했기 때문임.",
+    "key_companies": [
+      "테슬라(TSLA)",
+      "유니트리",
+      "보스턴다이내믹스"
+    ],
+    "insight": "자율주행차가 도로 위의 피지컬 AI라면, <span class=\"text-cyan-300 font-semibold\">휴머노이드 핸드</span>는 가사 노동과 일상 서비스를 대체할 궁극의 소비자용 AI 하드웨어 플랫폼입니다.",
+    "action_point": "옵티머스 밸류체인에 포함되는 초소형 모터, 감속기, 촉각 센서 및 테슬라 본주에 대한 중장기 적립식 투자를 유지할 것."
+  },
+  "classification": {
+    "primary_topic": "robot",
+    "secondary_topics": [
+      "tech",
+      "stock"
+    ],
+    "tags": [
+      "테슬라옵티머스",
+      "22자유도",
+      "가정용휴머노이드",
+      "일론머스크",
+      "피지컬AI"
+    ]
+  }
+}

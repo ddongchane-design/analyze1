@@ -1,0 +1,40 @@
+{
+  "video": {
+    "id": "wEigQQsC_ok",
+    "title": "2천만원 VS 1억원, 시간이 만든 격차",
+    "published": "2026-08-19T01:00:29+00:00",
+    "channel_name": "Smart Money by MiraeAsset ",
+    "url": "https://www.youtube.com/watch?v=wEigQQsC_ok",
+    "thumbnail": "https://img.youtube.com/vi/wEigQQsC_ok/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "중개형 ISA 계좌는 가입 첫해부터 매년 2,000만 원씩 납입 한도가 자동 누적되어 5년 차에는 <span class=\"text-emerald-400 font-medium\">최대 1억 원까지 비과세 납입 한도</span>가 쌓입니다.\n가입을 늦게 시작하면 과거 연도의 누적 한도를 활용할 수 없으므로, 지금 당장 불입하지 않더라도 계좌를 개설해 두는 것만으로 큰 세제 혜택을 선점할 수 있습니다.\n시간이 만들어내는 납입 한도와 비과세 복리 효과의 구조적 격차를 활용하는 똑똑한 자산 관리 팁을 제시합니다.",
+    "key_claims": [
+      "ISA는 가입 즉시 납입 한도가 매년 2,000만 원씩 이월 누적되므로 조기 개설이 절대적으로 유리함.",
+      "실제 투자 금액이 적더라도 계좌를 미리 만들어 두어야 최대 1억 원 한도를 빠르게 확보 가능함."
+    ],
+    "data_points": [
+      "ISA 연간 납입 한도: 매년 2,000만 원 누적 (최대 5년간 1억 원)"
+    ],
+    "signal": "na",
+    "signal_reason": "절세 계좌 개설 및 한도 누적 원리 소개 영상으로 투자 시그널에 해당하지 않음.",
+    "key_companies": [
+      "미래에셋증권"
+    ],
+    "insight": "재테크에서 시간은 단순한 기다림이 아니라 <span class=\"text-emerald-400 font-medium\">제도적 절세 한도를 확보하는 가장 값진 자산</span>입니다.",
+    "action_point": "아직 ISA 계좌가 없는 경우 즉시 개설하여 연 2,000만 원의 납입 한도 누적 타이머를 시작할 것."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "etc"
+    ],
+    "tags": [
+      "중개형ISA",
+      "납입한도누적",
+      "최대1억원",
+      "비과세복리",
+      "미래에셋"
+    ]
+  }
+}

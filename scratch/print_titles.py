@@ -1,12 +1,18 @@
 import json
+import glob
+import textwrap
 import sys
-from pathlib import Path
 
-sys.stdout.reconfigure(encoding='utf-8')
-
-pending_dir = Path("data/pending")
-files = sorted(list(pending_dir.glob("*.json")))
-for i, f in enumerate(files):
-    data = json.loads(f.read_text(encoding="utf-8"))
-    video = data.get("video", {})
-    print(f"{i+1:02d}. {f.name} - {video.get('title')} [{video.get('channel_name')}]")
+with open('scratch/titles_output.txt', 'w', encoding='utf-8') as out:
+    for f in glob.glob('data/pending/*.json'):
+        try:
+            with open(f, encoding='utf-8') as file:
+                data = json.load(file)
+                title = data.get('video', {}).get('title', '')
+                text = data.get('text', '')
+                short_text = textwrap.shorten(text, width=400, placeholder='...')
+                out.write(f"--- {f} ---\n")
+                out.write(f"Title: {title}\n")
+                out.write(f"Text: {short_text}\n\n")
+        except Exception as e:
+            out.write(f"Error reading {f}: {e}\n")

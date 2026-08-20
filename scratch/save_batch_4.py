@@ -1,170 +1,229 @@
 import json
+import os
 from pathlib import Path
 
-def save_and_delete(video_id, primary_topic, secondary_topics, tags, analysis_data):
-    pending_path = Path(f"data/pending/{video_id}.json")
-    if not pending_path.exists():
-        print(f"Error: {pending_path} does not exist.")
-        return
-        
-    pending_data = json.loads(pending_path.read_text(encoding="utf-8"))
-    video_data = pending_data["video"]
-    
-    classification_data = {
-        "primary_topic": primary_topic,
-        "secondary_topics": secondary_topics,
-        "tags": tags
+batch4_data = {
+    "SKi3puP_kjQ": {
+        "primary": "crypto",
+        "data": {
+            "video": {
+                "id": "SKi3puP_kjQ",
+                "title": "비트코인 한 달 만에 3% 급등…반등 지속될까? 금리·규제·수급 변수 점검  | 김동환, 박상혁 디지털애셋 편집장 [크립토 PLUS]",
+                "published": "2026-08-18T02:48:00+00:00",
+                "channel_name": "삼프로TV_3ProTV",
+                "url": "https://www.youtube.com/watch?v=SKi3puP_kjQ",
+                "thumbnail": "https://img.youtube.com/vi/SKi3puP_kjQ/hqdefault.jpg"
+            },
+            "analysis": {
+                "summary": "비트코인이 지지부진한 횡보세를 뚫고 반등을 시도하는 가운데, <span class=\"text-amber-300 font-bold\">미국 대선 정국의 가상자산 친화적 정책 공약</span>과 비트코인 현물 ETF로의 기관 자금 순유입 재개가 상승 모멘텀을 형성하고 있음. 마운트곡스 상환 등 대형 오버행(잠재 매도 물량) 이슈가 시장에서 점진적으로 소화되며 하방 경직성이 강화됨.",
+                "key_claims": [
+                    "미국 정치권(공화/민주 양당)의 가상자산 규제 명확화 및 비트코인 전략비축 자산화 논의가 기관 신뢰도를 제고.",
+                    "독일 정부 압류 물량 및 마운트곡스 채권자 배분 등 시장을 짓누르던 공급 충격이 상당 부분 시장에 선반영 및 흡수됨.",
+                    "금리 인하 사이클 진입 시 글로벌 유동성 확장의 최대 수혜 자산으로 비트코인이 다시 부각될 전망."
+                ],
+                "data_points": [
+                    "비트코인 현물 ETF 주간 순유입액 수억 달러 반등",
+                    "거래소 내 비트코인 보유 잔고 5년 래 최저치 경신(장기 보유자 축적 지속)"
+                ],
+                "signal": "bullish",
+                "signal_reason": "수급적 오버행 해소와 기관 자금의 꾸준한 ETF 매입, 대선 정책 수혜 기대감이 중기 상승 추세를 지지함.",
+                "key_companies": ["마이크로스트래티지(MSTR)", "코인베이스(COIN)", "블랙록(BLK)"],
+                "insight": "비트코인은 개인 투기 자산에서 기관 연기금과 글로벌 자산운용사의 대체 포트폴리오 핵심 자산으로 완전히 제도권화되었음.",
+                "action_point": "거시 유동성 완화 국면에 대비해 비트코인 및 이더리움 현물 ETF 위주의 점진적 분할 적립 전략 유지."
+            },
+            "classification": {
+                "primary_topic": "crypto",
+                "secondary_topics": ["economy", "stock"],
+                "tags": ["비트코인", "크립토", "현물ETF", "오버행해소", "디지털자산"]
+            }
+        }
+    },
+    "VvjnB_Lznfc": {
+        "primary": "tech",
+        "data": {
+            "video": {
+                "id": "VvjnB_Lznfc",
+                "title": "AI 토큰 10배 폭증…반도체 공급 부족은 2028년까지 계속된다ㅣ김장열 유니스토리자산운용 리서치센터장 [집중 오늘의 주식]",
+                "published": "2026-08-18T11:30:16+00:00",
+                "channel_name": "삼프로TV_3ProTV",
+                "url": "https://www.youtube.com/watch?v=VvjnB_Lznfc",
+                "thumbnail": "https://img.youtube.com/vi/VvjnB_Lznfc/hqdefault.jpg"
+            },
+            "analysis": {
+                "summary": "AI 에이전트 서비스와 다중 모달(Multimodal) 추론의 대중화로 <span class=\"text-cyan-300 font-semibold\">AI 토큰 생성량이 기존 대비 10배 이상 폭증</span>하고 있어, HBM과 첨단 패키징 등 고성능 반도체 공급 부족 현상이 2028년까지 장기화될 것으로 전망됨. 빅테크들의 데이터센터 인프라 지출은 일시적 유행이 아닌 필수 생존 투자로 자리잡음.",
+                "key_claims": [
+                    "단순 검색용 챗봇을 넘어 자율 에이전트가 작동하면서 추론 단계의 컴퓨팅 및 메모리 대역폭 소모량이 기하급수적으로 폭증.",
+                    "TSMC의 CoWoS 어드밴스드 패키징과 SK하이닉스의 <span class=\"text-cyan-300 font-semibold\">HBM3E/HBM4</span> 공급 능력이 2027~2028년까지 타이트한 수급 상태를 유지할 것임.",
+                    "반도체 사이클의 피크아웃 우려는 기우이며, 구조적 공급 제한으로 인해 제조사들의 높은 영업이익률이 장기 지속됨."
+                ],
+                "data_points": [
+                    "글로벌 AI 추론 토큰 소모량 전년 대비 1,000% 급증",
+                    "2026~2028년 첨단 패키징 및 HBM 라인 가동률 100% 근접 유지 전망"
+                ],
+                "signal": "bullish",
+                "signal_reason": "AI 토큰 폭증에 따른 전방 수요의 구조적 팽창과 공급 병목이 반도체 슈퍼사이클의 지속 기간을 대폭 연장함.",
+                "key_companies": ["SK하이닉스(000660)", "삼성전자(005930)", "TSMC(TSM)", "엔비디아(NVDA)"],
+                "insight": "AI 투자는 모델 학습(Training)에서 실시간 추론(Inference) 시대로 무게중심이 이동하며, 막대한 토큰 처리를 위한 광대역 메모리 수요를 끝없이 창출하고 있음.",
+                "action_point": "단기 주가 등락에 연연하지 말고 2028년까지 구조적 실적 성장이 보장된 메모리 반도체 대장주와 첨단 패키징 장비주를 뚝심 있게 보유할 것."
+            },
+            "classification": {
+                "primary_topic": "tech",
+                "secondary_topics": ["stock", "economy"],
+                "tags": ["AI토큰", "HBM", "반도체슈퍼사이클", "SK하이닉스", "추론컴퓨팅"]
+            }
+        }
+    },
+    "YcAL8pSe59M": {
+        "primary": "stock",
+        "data": {
+            "video": {
+                "id": "YcAL8pSe59M",
+                "title": "[26.08.18 오후 방송 전체보기] 코스피 6거래일 만에 하락, 엇갈리는 반도체 투톱…코스닥은 순환매 장세",
+                "published": "2026-08-18T11:05:47+00:00",
+                "channel_name": "삼프로TV_3ProTV",
+                "url": "https://www.youtube.com/watch?v=YcAL8pSe59M",
+                "thumbnail": "https://img.youtube.com/vi/YcAL8pSe59M/hqdefault.jpg"
+            },
+            "analysis": {
+                "summary": "연일 상승세를 이어가던 코스피가 6거래일 만에 숨고르기에 들어가며 하락 마감함. <span class=\"text-cyan-300 font-semibold\">삼성전자와 SK하이닉스 간 수급 차별화</span>가 나타난 가운데, 코스닥 시장에서는 2차전지와 바이오, 로봇 등 낙폭과대 테마로의 빠른 순환매가 전개됨. 외국인 선물 매도와 원/달러 환율 상승이 지수 상단을 제약함.",
+                "key_claims": [
+                    "지수 연속 상승에 따른 피로감과 미국 장기 국채금리 반등이 맞물려 차익실현 매물 출회.",
+                    "대형 반도체주 내에서도 HBM 경쟁력 차이에 따른 외국인 매매 패턴의 양극화가 뚜렷해짐.",
+                    "코스닥 중소형주는 주도 섹터의 단기 휴식기를 틈타 빠른 키 맞추기 순환매 랠리가 지속됨."
+                ],
+                "data_points": [
+                    "코스피 지수 -0.85% 하락 마감 및 외국인 선물 순매도 1조 원 상회",
+                    "원/달러 환율 1,380원대 중반 등락"
+                ],
+                "signal": "neutral",
+                "signal_reason": "추세 이탈이 아닌 상승 피로도에 따른 건전한 눌림목 조정이며, 섹터별 순환매가 유지되고 있음.",
+                "key_companies": ["삼성전자(005930)", "SK하이닉스(000660)", "에코프로비엠(247540)", "알테오젠(196170)"],
+                "insight": "지수 고점대에서의 일시적 조정은 건강한 손바뀜 과정이며, 이때 상대적으로 낙폭이 작고 기관 순매수가 유입되는 차기 주도 섹터를 선별해야 함.",
+                "action_point": "순환매 장세에 편승한 추격 매수보다는 HBM 대장주 및 수출 실적주가 조정받을 때 분할 매수로 대응하는 전략이 유리함."
+            },
+            "classification": {
+                "primary_topic": "stock",
+                "secondary_topics": ["economy", "tech"],
+                "tags": ["코스피마감", "반도체투톱", "순환매", "코스닥", "외국인수급"]
+            }
+        }
+    },
+    "ZOEzPW5mazY": {
+        "primary": "economy",
+        "data": {
+            "video": {
+                "id": "ZOEzPW5mazY",
+                "title": "금리를 누르려고 미국이 이미 손대기 시작한 게 있습니다. 미국의 깡패같은 반칙을 하한번 정리해 봤습니다",
+                "published": "2026-08-18T11:00:59+00:00",
+                "channel_name": "이효석아카데미",
+                "url": "https://www.youtube.com/watch?v=ZOEzPW5mazY",
+                "thumbnail": "https://img.youtube.com/vi/ZOEzPW5mazY/hqdefault.jpg"
+            },
+            "analysis": {
+                "summary": "미국 재무부가 막대한 국채 이자 부담을 피하고 장기 국채금리 폭등을 억제하기 위해 <span class=\"text-amber-300 font-bold\">단기 국채(T-bill) 과다 발행과 국채 바이백(Buyback)</span> 등 변칙적인 유동성 조작 기법(금융 억압)을 동원하고 있는 실태를 파헤침. 연준의 양적긴축(QT) 효과를 재무부가 사실상 무력화하며 시중 유동성을 억지로 지탱하고 있음.",
+                "key_claims": [
+                    "재무부는 장기채 대신 단기 국채 비중을 역사적 상한선(20%)을 훨씬 초과해 발행함으로써 장기 금리 상승을 인위적으로 억누름.",
+                    "역레포(RRP) 자금을 시장으로 유인해 국채를 인수하게 만드는 '스텔스 양적완화(Stealth QE)'를 실행 중임.",
+                    "이러한 반칙성 정책은 단기적으로 시장 충격을 막지만, 향후 인플레이션 재점화 및 달러 패권에 대한 잠재적 신뢰 저하를 초래할 수 있음."
+                ],
+                "data_points": [
+                    "미국 국채 발행 중 단기채(T-bills) 비중 22~25% 상회",
+                    "연준 역레포 잔액 2조 달러에서 수천억 달러대로 급감(유동성 시장 방출)"
+                ],
+                "signal": "neutral",
+                "signal_reason": "단기적으로는 증시 유동성을 지탱하는 호재이나, 중장기적으로 인플레이션 및 재정 건전성 악화 리스크가 누적됨.",
+                "key_companies": [],
+                "insight": "미국 정부는 공식적인 금리 인하 전이라도 재무부의 부채관리 기술을 총동원해 시장 금리를 통제하고 자산 시장을 방어하는 정치경제학적 플레이를 펼치고 있음.",
+                "action_point": "미 재무부의 분기별 국채 발행 계획(QRA)과 T-bill 비중 발표를 핵심 매크로 지표로 상시 추적해야 함."
+            },
+            "classification": {
+                "primary_topic": "economy",
+                "secondary_topics": ["stock"],
+                "tags": ["미국재무부", "단기국채발행", "금융억압", "역레포", "스텔스QE"]
+            }
+        }
+    },
+    "Zj-eQirPEAU": {
+        "primary": "crypto",
+        "data": {
+            "video": {
+                "id": "Zj-eQirPEAU",
+                "title": "토큰화 시장 350억 달러 성장…실제 자금은 누가 사고 있나 | 김동환, 조동현 언디파인드랩스 대표 [크립토 PLUS]",
+                "published": "2026-08-18T03:21:25+00:00",
+                "channel_name": "삼프로TV_3ProTV",
+                "url": "https://www.youtube.com/watch?v=Zj-eQirPEAU",
+                "thumbnail": "https://img.youtube.com/vi/Zj-eQirPEAU/hqdefault.jpg"
+            },
+            "analysis": {
+                "summary": "블록체인 기반의 <span class=\"text-cyan-300 font-semibold\">실물자산 토큰화(RWA, Real World Assets)</span> 시장 규모가 350억 달러를 돌파하며 가파른 성장세를 보임. 블랙록의 BUIDL 펀드와 프랭클린 템플턴 등 글로벌 메이저 자산운용사들이 미국 국채와 머니마켓펀드(MMF)를 온체인 토큰화하여 가상자산 헤지펀드 및 디파이(DeFi) 프로토콜의 담보 자산으로 공급하는 실질적 자금 흐름을 분석함.",
+                "key_claims": [
+                    "RWA 시장 성장의 핵심 동력은 가상자산 생태계 내부의 안정적인 무위험 미국 국채 이자 수익(연 5% 수준) 수요임.",
+                    "블랙록, 프랭클린 템플턴 등 제도권 공룡들의 진입으로 온체인 토큰화 증권의 결제 인프라 표준화가 급진전.",
+                    "스테이블코인을 넘어 전통 채권, 부동산, 사모펀드로 RWA 적용 대상이 급격히 확장되는 중."
+                ],
+                "data_points": [
+                    "글로벌 온체인 RWA 시장 규모 350억 달러 돌파",
+                    "블랙록 BUIDL 펀드 설정액 5억 달러 초고속 돌파 및 이더리움 기반 결제 점유율 확대"
+                ],
+                "signal": "bullish",
+                "signal_reason": "전통 금융 자본의 블록체인 인프라 채택이 본격화되면서 크립토 생태계의 실질적 펀더멘털과 수수료 수익 모델이 강화됨.",
+                "key_companies": ["블랙록(BLK)", "이더리움(ETH)", "체인링크(LINK)"],
+                "insight": "토큰화(RWA)는 단순한 테마가 아니라 24시간 실시간 결제와 글로벌 자본 접근성을 무기로 전통 자본시장의 백오피스를 대체하는 금융 인프라 혁명임.",
+                "action_point": "RWA 결제 인프라의 표준 플랫폼인 이더리움 및 온체인 데이터 오라클 리더인 체인링크 생태계 확장에 주목할 것."
+            },
+            "classification": {
+                "primary_topic": "crypto",
+                "secondary_topics": ["tech", "stock"],
+                "tags": ["RWA", "실물자산토큰화", "블랙록BUIDL", "미국국채토큰", "디파이"]
+            }
+        }
+    },
+    "_p95IhXyBAU": {
+        "primary": "stock",
+        "data": {
+            "video": {
+                "id": "_p95IhXyBAU",
+                "title": "미장 복귀는 지능순? 나스닥 고점인데 지금 투자해도 될까?",
+                "published": "2026-08-18T10:00:25+00:00",
+                "channel_name": "수페TV",
+                "url": "https://www.youtube.com/watch?v=_p95IhXyBAU",
+                "thumbnail": "https://img.youtube.com/vi/_p95IhXyBAU/hqdefault.jpg"
+            },
+            "analysis": {
+                "summary": "나스닥 지수가 역사적 신고가 부근에 위치하여 고점 부담이 커진 상황에서, 포모(FOMO)에 휩쓸려 몰빵하기보다 <span class=\"text-cyan-300 font-semibold\">목적별 ETF(QQQ, QLD, JEPQ 등)를 조합한 분할 적립 및 현금흐름 창출 전략</span>을 제시함. 나스닥100의 장기 복리 성장성과 배당 성장형 커버드콜의 방어력을 결합하는 실전 포트폴리오를 설계함.",
+                "key_claims": [
+                    "미국 빅테크의 독점적 이익 창출력은 여전히 유효하므로 나스닥 시장을 떠나기보다 진입 방식(적립식 분할)을 바꿔야 함.",
+                    "성장 중심의 QQQ/QLD와 월배당 인컴을 창출하는 JEPQ를 믹스하여 주가 횡보 및 하락장에서도 배당 재투자를 통한 심리적 안정성 확보.",
+                    "고점 매수 두려움은 일정 주기의 정액 분할 투자(DCA)를 통해 매수 단가를 평준화함으로써 극복 가능."
+                ],
+                "data_points": [
+                    "나스닥100(QQQ) 20년간 연평균 수익률(CAGR) 13~15% 수준 기록",
+                    "JEPQ 월배당 연 환산 수익률 9~10% 및 배당 성장 추이 분석"
+                ],
+                "signal": "bullish",
+                "signal_reason": "미국 테크 기업들의 구조적 성장성에 기반한 장기 적립식 분할 투자는 여전히 가장 승률 높은 투자 전략임.",
+                "key_companies": ["애플(AAPL)", "마이크로소프트(MSFT)", "엔비디아(NVDA)", "알파벳(GOOGL)"],
+                "insight": "시장의 타이밍을 맞추려 하기보다 우상향하는 미국 핵심 혁신 기업 ETF를 시간과 분할 매수를 무기로 꾸준히 모아가는 것이 개인 투자자의 필승법임.",
+                "action_point": "거치식 일시 매수를 지양하고 월별 분할 적립식 매수 및 월배당 ETF를 활용한 배당 재투자 루틴을 구축할 것."
+            },
+            "classification": {
+                "primary_topic": "stock",
+                "secondary_topics": ["economy"],
+                "tags": ["나스닥투자", "미국ETF", "QQQ", "JEPQ", "분할적립식"]
+            }
+        }
     }
-    
-    analyzed_dir = Path(f"data/analyzed/{primary_topic}")
-    analyzed_dir.mkdir(parents=True, exist_ok=True)
-    
-    result_path = analyzed_dir / f"{video_id}.json"
-    result_path.write_text(
-        json.dumps({
-            "video": video_data,
-            "analysis": analysis_data,
-            "classification": classification_data
-        }, ensure_ascii=False, indent=2),
-        encoding="utf-8"
-    )
-    print(f"Saved: {result_path}")
-    
-    pending_path.unlink()
-    print(f"Deleted pending: {pending_path}")
-    
-    synthesis_cache = Path(f"data/synthesis/{primary_topic}.json")
-    if synthesis_cache.exists():
-        synthesis_cache.unlink()
-        print(f"Invalidated cache: {synthesis_cache}")
-
-# Batch 4 analyses
-batch_4 = {
-  "_alQSdz53YQ": {
-    "primary_topic": "crypto",
-    "secondary_topics": ["economy", "tech"],
-    "tags": ["이더리움", "이드랩스", "비탈릭부테린", "재단공백", "가치환원", "파이널리티"],
-    "analysis": {
-      "summary": "이더리움 가격 하락과 재단 공백 논란을 해결하기 위해, 비트마인과 샤프링크 등 주요 지분 보유자들이 공동 펀딩을 통해 가치 환원 응용 조직인 <span class=\"text-cyan-300 font-semibold\">이드랩스(EthLabs)</span>를 설립했습니다. 이더리움 재단이 보안과 순수 기술 연구를 맡는 한편, 이드랩스는 가격 상승과 직접 연결되는 상업적 응용 및 <span class=\"text-amber-300 font-bold\">가치 환원 구조 개선</span>을 집중 지원할 것입니다. L2 활성화로 위축되었던 이더리움 메인넷의 정산 역할 강화와 <span class=\"text-cyan-300 font-semibold\">파이널리티(Finality) 개선</span>이 핵심 과제입니다.",
-      "key_claims": [
-        "이더리움 재단의 상업성 및 가치 부양 노력 부족에 대한 비판 속에서, 이해관계자들의 자생적 기부로 이드랩스가 빠르게 출범했다.",
-        "이드랩스는 이더리움 메인넷으로의 수수료 환원율을 높이고 파이널리티 속도를 크게 단축하는 등 사용성과 가치 극대화를 직접 주도한다.",
-        "비탈릭 부테린의 탈중앙화 순수주의와 배치되지 않는 이원화된 분화(대학의 순수과학 vs 응용과학)를 통해 이더리움의 회복 탄력성을 확인했다."
-      ],
-      "data_points": [
-        "이더리움 주요 지분 소유자: 비트마인 및 샤프링크 등 (0.16%~17% 소유 및 1~4% 기부)",
-        "이더리움 노드 개수: 현재 약 20,000개 내외"
-      ],
-      "signal": "bullish",
-      "signal_confidence": "medium",
-      "signal_reason": "이더리움의 실질적 가치 부양 및 상업적 문제를 전담하는 이드랩스의 출범으로, L2 쏠림에 따른 메인넷 가치 훼손 우려가 극복되고 3분기 대규모 업데이트와 맞물려 강한 반등 시그널로 작용하기 때문입니다.",
-      "key_companies": ["이드랩스(EthLabs)", "코인베이스", "비트마인", "샤프링크", "유니스왑"],
-      "insight": "그동안 이더리움 생태계는 과도한 탈중앙성과 순수주의 철학에 매몰되어 가격 부양에 소홀하다는 비판을 받았습니다. 그러나 이드랩스라는 상업용 독립 개발 조직이 등장함으로써, 플랫폼 거버넌스의 분열이 아닌 효율적인 역할 분담(L1 개발 고도화 및 최종 정산 기능 강화)을 꾀할 수 있게 되었으며, 이는 제도권 기관 자금의 유입 신뢰도를 한층 높여줄 것입니다.",
-      "action_point": "단기 가격 조정에 흔들리지 말고, 3분기 이더리움 <span class=\"text-cyan-300 font-semibold\">메이저 업그레이드</span>와 <span class=\"text-cyan-300 font-semibold\">이드랩스</span>의 상업성 개선 시그널을 관찰하며 포트폴리오 내 이더리움 비중을 분할 매집하는 전략이 유효합니다."
-    }
-  },
-  "_YVCZBxUFM0": {
-    "primary_topic": "stock",
-    "secondary_topics": ["economy", "tech"],
-    "tags": ["마이크론", "삼성전자", "SK하이닉스", "반도체실적", "PER밸류에이션", "할인율"],
-    "analysis": {
-      "summary": "마이크론의 3분기 실적과 4분기 가이던스가 시장 컨센서스를 모두 20% 가까이 상회하며 반도체 <span class=\"text-rose-400 font-medium\">피크아웃 및 AI 버블 우려</span>를 불식시켰습니다. 호실적의 근간은 AI 서버용 HBM 및 고부가가치 메모리 수요의 강력한 지속에 기인합니다. 마이크론의 12개월 선행 PER은 7배 중반 수준으로 매력적이며, 이는 국내 투톱인 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>와 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>에 대한 외국인 매수세 유입과 동반 랠리 기대감을 강력하게 키우고 있습니다.",
-      "key_claims": [
-        "마이크론의 어닝 서프라이즈와 가이던스 상향은 AI 데이터센터 투자가 일시적인 버블이 아닌 강력한 펀더멘탈에 기반함을 입증한다.",
-        "포워드 PER 기준 7배 중반까지 주가 평가가 낮아진 마이크론의 밸류에이션 매력이 글로벌 반도체 전반의 재평가를 유도할 것이다.",
-        "과거 마이크론 대비 20~30%에 달했던 한국 반도체 기업들의 할인율이 최근 5~10% 수준으로 크게 좁혀지며 상대적 강세가 부각되고 있다."
-      ],
-      "data_points": [
-        "마이크론 3분기 실적 및 가이던스: 시장 예상치 대비 약 20% 상회",
-        "마이크론 4분기 EPS 가이던스: 3.10달러 (이전 분기 2.25달러 대비 대폭 성장)",
-        "한국 반도체 기업 할인율: 과거 20~30% 수준 -> 최근 5~10% 이내 축소"
-      ],
-      "signal": "bullish",
-      "signal_confidence": "high",
-      "signal_reason": "AI 고점 논란을 완벽히 해소하는 실적 발표와 4분기 가이던스 제시로, 메모리 반도체 사이클이 2027년까지 강력하게 연장될 것임을 시사하기 때문입니다.",
-      "key_companies": ["마이크론", "SK하이닉스", "삼성전자"],
-      "insight": "단순히 어닝 서프라이즈가 나왔다는 사실을 넘어, HBM 시장과 전반적인 AI 인프라 부품의 병목 현상이 여전함을 보여주고 있습니다. 이는 한국의 하드웨어 제조사들이 공급망의 절대적 열쇠를 쥐고 있음을 재확인시켜 줍니다. 향후 SK하이닉스의 미국 상장 및 삼성전자의 추가 자사주 매입 정책 등이 밸류에이션 할인을 더욱 축소시키는 촉매제가 될 것입니다.",
-      "action_point": "공포에 흔들려 포트를 줄이기보다, 확실한 주도주인 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>와 밸류에이션 매력이 높은 <span class=\"text-cyan-300 font-semibold\">삼성전자</span> 중심으로 반도체 비중을 50% 이상 유지하며 긴 호흡으로 대응해야 합니다."
-    }
-  },
-  "cwaS1cqEE5E": {
-    "primary_topic": "economy",
-    "secondary_topics": ["tech", "stock"],
-    "tags": ["우발성", "자본비용", "WACC", "AI인프라", "전력과부하", "마이크론실적"],
-    "analysis": {
-      "summary": "마이크론의 기록적인 호실적 뒤에는 급격히 늘어나는 <span class=\"text-rose-400 font-medium\">자본비용(WACC)</span> 및 AI 구동 방식의 근본적 비효율성이라는 거대한 그림자가 숨어 있습니다. 하이퍼스케일러들은 저렴한 채권 대신 고비용의 주식 발행과 희석(구글의 850억 달러 발행, 오픈AI의 재파이낸싱/IPO 압박 등)을 통해 무한 경쟁을 이어가고 있습니다. 연준의 금리 인상 리스크와 전력망 과부하가 맞물려, 향후 예상치 못한 <span class=\"text-rose-400 font-medium\">우발적 리스크</span>가 발발할 가능성에 대비해야 합니다.",
-      "key_claims": [
-        "AI 기업들이 높은 요구 수익률을 가진 주주 자본에 과도하게 의존하면서 전체적인 자본비용(WACC) 부담이 가중되고 있다.",
-        "현재의 대용량 메모리 기반 실시간 구동 방식은 극심한 전력 과부하를 초래하므로 기술의 파기적 혁신 없이는 인프라가 감당하기 어렵다.",
-        "역사적 금융 위기들은 언제나 예상치 못한 우발성에서 출발했으므로, AI 투자 쏠림 속에서 주변부 자산의 이탈과 인프라 지연을 주시해야 한다."
-      ],
-      "data_points": [
-        "구글의 주식 발행 규모: 850억 달러 (포워드 PER 25배 수준)",
-        "삼성전자 반도체 부문 마진율: 약 83% 수준 (공급망의 극단적 독식 구조를 시사)"
-      ],
-      "signal": "bearish",
-      "signal_confidence": "medium",
-      "signal_reason": "기술 혁신으로 생산성 개선 속도가 비용 상승을 압도하지 못하고 있으며, 자본비용 급등과 전력 부족 등 AI 생태계 내부의 병목 요인들이 누적되어 자산 가격 조정 리스크를 높이고 있기 때문입니다.",
-      "key_companies": ["구글", "오픈AI", "애플", "엔비디아", "삼성전자", "SK하이닉스"],
-      "insight": "AI 골디락스 네러티브 이면에 있는 고비용 구조를 파헤쳐야 합니다. 특히 애플이 현재의 고비용 메모리 독식 생태계(마진 83%에 달하는 반도체 가격)에 대한 반대 의사를 표명한 것은, 대형 플랫폼사들이 비용 통제를 위해 자체 반도체 개발이나 알고리즘 경량화에 혈안이 될 것임을 예고합니다. 자본비용이 올라가는 중금리 환경에서 단순 테마주는 소외되고, 명확한 현금 흐름을 창출하는 기업 위주로의 자금 쏠림이 한층 심화될 것입니다.",
-      "action_point": "성장 테마에 지나치게 편중된 포트폴리오를 조정하여 확실한 <span class=\"text-cyan-300 font-semibold\">하드웨어 공급사</span> 및 <span class=\"text-cyan-300 font-semibold\">전력망 수혜주</span>로 포트를 좁히고, 자산의 20~30%는 <span class=\"text-amber-300 font-bold\">현금 비중</span>으로 보유하여 우발적 변동성에 대비하는 방어적 전략이 적절합니다."
-    }
-  },
-  "e-M-ZEvxLPk": {
-    "primary_topic": "stock",
-    "secondary_topics": ["economy", "tech"],
-    "tags": ["마이크론", "어닝서프라이즈", "시간외급등", "퀄컴", "온디바이스AI"],
-    "analysis": {
-      "summary": "마이크론의 주당순이익(EPS)이 위스퍼링 넘버마저 가볍게 뛰어넘는 25달러(가정 수치 포함 서프라이즈)를 달성하며 시간외 11% 이상 급등했습니다. 이와 동시에 <span class=\"text-cyan-300 font-semibold\">퀄컴</span>의 온디바이스 AI 시장 확대 가이드가 겹쳐 반도체 동반 랠리의 기폭제가 되었습니다. 강달러 기조 용인 하에 미국 국채 금리 안정화($4.3대)와 국제 유가의 60달러대 진입 등 <span class=\"text-amber-300 font-bold\">우호적 매크로 지표</span>들이 겹치며 골디락스 진입 신호가 감지됩니다.",
-      "key_claims": [
-        "마이크론은 시장의 혹독한 위스퍼링 넘버(22)마저 넘어서는 25를 달성하며 반도체 불확실성을 일거에 소멸시켰다.",
-        "온디바이스 AI 성장성에 대한 퀄컴의 긍정적 가이드가 마이크론의 HBM 모멘텀과 시너지를 내며 IT 전반의 수요를 증명했다.",
-        "유가가 3개월 만에 60달러선으로 급락하고 국채 금리가 하향 안정화되며 매크로 리스크가 눈에 띄게 완화되었다."
-      ],
-      "data_points": [
-        "마이크론 EPS 예상치: 20.4달러 vs 실제 25달러 발표",
-        "미국 10년물 국채 금리: 4.5% 수준 -> 4.3%대로 하락",
-        "WTI 유가: 3개월 만에 60달러대(60달러 초반) 진입"
-      ],
-      "signal": "bullish",
-      "signal_confidence": "high",
-      "signal_reason": "반도체 어닝 서프라이즈와 매크로 여건 개선(유가 하락, 금리 안정)이 동시에 맞아떨어져 주식 시장의 위험 자산 투자 심리가 강력한 상승 동력을 확보했기 때문입니다.",
-      "key_companies": ["마이크론", "퀄컴", "엔비디아", "SK하이닉스"],
-      "insight": "최근 3일간의 주가 조정은 마이크론 실적 발표를 앞둔 공포 섞인 대기 장세에 불과했습니다. 이 억눌렸던 불확실성이 해소되자마자 전반적인 하이테크 기업들의 강력한 밸류에이션 매력이 부상하고 있습니다. 강달러의 부작용보다 유가 급락과 금리 인하 기대 등 인플레이션 제어 요인들이 더 강력한 우군으로 작용할 것입니다.",
-      "action_point": "불안 심리에 따른 추격 매도를 멈추고, <span class=\"text-cyan-300 font-semibold\">마이크론 및 퀄컴</span> 등 실적으로 증명한 글로벌 핵심 반도체/부품 공급사로 비중을 재조정하여 어닝 시즌의 직접적 수혜를 누려야 합니다."
-    }
-  },
-  "kDZVAHZBB50": {
-    "primary_topic": "stock",
-    "secondary_topics": ["economy", "tech"],
-    "tags": ["조선주", "HD현대중공업", "HD한국조선해양", "발전용엔진", "캐나다군함수주", "LNG운반선"],
-    "analysis": {
-      "summary": "상선 가격(신조선가) 상승과 압도적인 기술 우위를 통한 LNG 운반선 쇼티지에 힘입어 국내 조선주들의 2027~2028년 실적 상향 추세는 흔들림 없이 우상향하고 있습니다. 특히 <span class=\"text-cyan-300 font-semibold\">HD현대중공업</span>이 데이터센터 발전용 가스 엔진(20MW) 대규모 수주에 성공하며, 조선업이 <span class=\"text-cyan-300 font-semibold\">AI 전력 인프라의 새로운 해결책</span>으로 부각되기 시작했습니다. 캐나다 잠수함 수주 및 미국 비전투함 조달 참여 등 방산 모멘텀도 여전히 잠재되어 있어 투자 매력이 급증하는 시점입니다.",
-      "key_claims": [
-        "LNG 운반선과 초대형 컨테이너선 등 한국 조선사들이 독점력을 가진 고부가 선종의 수주 잔고가 가득 차 있어 향후 실적이 보장된다.",
-        "선박용 엔진 기술을 데이터센터의 자체 전력 발전용 엔진으로 응용 납품(HD현대중공업 가스 엔진 수주)하는 AI 내러티브가 생성되었다.",
-        "미국 국방수권법(NDAA)의 비전투함 조달 개방 및 트럼프의 군함 수주 발언 등 해외 방산 시장 개척 기대감이 구체화되고 있다."
-      ],
-      "data_points": [
-        "HD현대중공업 데이터센터 엔진 수주: 가스 발전 엔진 20MW 규모 총 33대 (2028~2030년 분할 인도)",
-        "HD현대중공업 연간 엔진 제작 능력: 약 3GW (이번 데이터센터 엔진 비중이 연간 능력의 약 7%에 달함)"
-      ],
-      "signal": "bullish",
-      "signal_confidence": "high",
-      "signal_reason": "기존의 선박 제조 사이클에 더해 '데이터센터 자체 전력 공급원(엔진)' 및 '방산 수출 확장'이라는 멀티플 확장 스토리가 결합되면서 강력한 밸류에이션 재평가 국면에 들어섰기 때문입니다.",
-      "key_companies": ["HD한국조선해양", "HD현대중공업", "한화오션"],
-      "insight": "조선업을 단순히 낡은 굴뚝 산업으로 치부해서는 안 됩니다. 전력 병목에 빠진 글로벌 빅테크 기업들이 전력망 증설을 기다리지 못하고 조선소의 고출력 발전 엔진을 선제적으로 발주하기 시작한 것은 엄청난 패러다임 시프트입니다. HD한국조선해양의 경우 시가총액이 지분 할인을 과도하게 받아 청산 가치보다 낮은 가격에 거래되고 있어 장기적 투자 가치가 매우 높습니다.",
-      "action_point": "조정 레벨에 있는 조선주들을 비중 확대 기회로 삼되, 자체 엔진 제작 능력과 강력한 자회사 가치를 지닌 업계 탑픽 <span class=\"text-cyan-300 font-semibold\">HD한국조선해양</span>과 실적 모멘텀이 뚜렷한 <span class=\"text-cyan-300 font-semibold\">HD현대중공업</span>으로 압축 대응하는 것이 정석입니다."
-    }
-  }
 }
 
-for vid, data in batch_4.items():
-    save_and_delete(
-        video_id=vid,
-        primary_topic=data["primary_topic"],
-        secondary_topics=data["secondary_topics"],
-        tags=data["tags"],
-        analysis_data=data["analysis"]
-    )
-print("Batch 4 completed!")
+for vid, item in batch4_data.items():
+    primary = item["primary"]
+    out_dir = Path(f"data/analyzed/{primary}")
+    out_dir.mkdir(parents=True, exist_ok=True)
+    out_file = out_dir / f"{vid}.json"
+    with open(out_file, "w", encoding="utf-8") as fp:
+        json.dump(item["data"], fp, ensure_ascii=False, indent=2)
+    
+    pending_file = Path(f"data/pending/{vid}.json")
+    if pending_file.exists():
+        pending_file.unlink()
+    print(f"[Batch 4 완료] {vid} -> data/analyzed/{primary}/{vid}.json")

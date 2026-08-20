@@ -1,168 +1,229 @@
 import json
+import os
 from pathlib import Path
 
-def save_and_delete(video_id, primary_topic, secondary_topics, tags, analysis_data):
-    pending_path = Path(f"data/pending/{video_id}.json")
-    if not pending_path.exists():
-        print(f"Error: {pending_path} does not exist.")
-        return
-        
-    pending_data = json.loads(pending_path.read_text(encoding="utf-8"))
-    video_data = pending_data["video"]
-    
-    classification_data = {
-        "primary_topic": primary_topic,
-        "secondary_topics": secondary_topics,
-        "tags": tags
+batch5_data = {
+    "bcw_9hEL8Xc": {
+        "primary": "stock",
+        "data": {
+            "video": {
+                "id": "bcw_9hEL8Xc",
+                "title": "[8월 18일 마감시황] 개미만 또 받아냈다…전강후약, 7천피 '줬다 뺏은' 코스피ㅣ홍선애, 이권희, 김장열 [클로징벨 라이브]",
+                "published": "2026-08-18T08:30:44+00:00",
+                "channel_name": "삼프로TV_3ProTV",
+                "url": "https://www.youtube.com/watch?v=bcw_9hEL8Xc",
+                "thumbnail": "https://img.youtube.com/vi/bcw_9hEL8Xc/hqdefault.jpg"
+            },
+            "analysis": {
+                "summary": "장 초반 갭상승 출발했던 코스피가 외국인의 대규모 선물 순매도 전환과 함께 전강후약으로 밀리며 하락 마감함. <span class=\"text-cyan-300 font-semibold\">SK하이닉스와 삼성전자</span> 등 반도체 주도주가 장중 고점 대비 상승폭을 대거 반납했고, 개인 투자자들만 물량을 받아내는 전형적인 흔들기 장세가 연출됨.",
+                "key_claims": [
+                    "외국인의 1조 원대 선물 매도 전환이 프로그램 차익 매물을 유발하며 지수 상단을 강하게 압박.",
+                    "단기 급등에 따른 차익실현 욕구와 미국 국채금리 반등 경계감이 맞물려 대형주 변동성이 급증함.",
+                    "지수 하락에도 불구하고 하반기 실적 가시성이 확실한 반도체 선단 공정 및 전력 인프라로의 매수 대기 자금은 견고함."
+                ],
+                "data_points": [
+                    "코스피 지수 2,700선 안착 실패 후 -0.8% 내외 반락",
+                    "외국인 선물 장중 1조 4,000억 원 매수에서 순매도로 급선회"
+                ],
+                "signal": "neutral",
+                "signal_reason": "외국인의 파생상품 수급 흔들기에 따른 단기 변동성 확대 구간이나 중기 실적 펀더멘털은 견고함.",
+                "key_companies": ["SK하이닉스(000660)", "삼성전자(005930)", "현대차(005380)"],
+                "insight": "선물 수급에 의한 장중 급등락에 일희일비하기보다 주도 섹터의 눌림목을 활용한 실적주 선별 매수가 유효함.",
+                "action_point": "장중 갭상승 추격 매수를 자제하고, 외국인 선물 순매수 재유입 여부를 확인한 후 종가 기준 분할 매수로 대응할 것."
+            },
+            "classification": {
+                "primary_topic": "stock",
+                "secondary_topics": ["economy", "tech"],
+                "tags": ["코스피마감", "전강후약", "외국인선물", "SK하이닉스", "삼성전자"]
+            }
+        }
+    },
+    "cc142L3vO1A": {
+        "primary": "energy",
+        "data": {
+            "video": {
+                "id": "cc142L3vO1A",
+                "title": "\"반도체만큼 탄탄하다\" 전력기기 이제 시작?  | 이재찬 하나증권 명동금융센터 대리 [더블 크루]",
+                "published": "2026-08-18T02:06:30+00:00",
+                "channel_name": "삼프로TV_3ProTV",
+                "url": "https://www.youtube.com/watch?v=cc142L3vO1A",
+                "thumbnail": "https://img.youtube.com/vi/cc142L3vO1A/hqdefault.jpg"
+            },
+            "analysis": {
+                "summary": "북미 노후 전력망 교체 수요와 AI 데이터센터향 신규 전력망 구축이 맞물리며 <span class=\"text-cyan-300 font-semibold\">국내 전력기기 4사(HD현대일렉트릭, 효성중공업, LS ELECTRIC, 제룡전기)</span>가 2028~2030년까지 수주잔고를 꽉 채우는 구조적 슈퍼사이클에 진입함. 초고압 변압기 판가(ASP) 상승과 역대급 영업이익률 유지가 주가 재평가를 이끌고 있음.",
+                "key_claims": [
+                    "미국 내 변압기 리드타임(주문 후 납기)이 3~4년으로 장기화되며 공급자 우위 시장이 확고하게 정착.",
+                    "빅테크의 기가와트(GW)급 데이터센터 증설 계획이 쏟아지며 배전반, 중저압 차단기까지 수혜가 확산되는 2차 랠리 진입.",
+                    "단순 테마가 아닌 수출 데이터와 영업이익률 20~30%대로 증명되는 강력한 실적 기반 성장 산업임."
+                ],
+                "data_points": [
+                    "HD현대일렉트릭 2분기 영업이익률 20% 돌파 및 2029년 납기 수주 계약 체결",
+                    "미국 변압기 생산 시설 증설 속도가 전력 수요 증가 속도를 따라잡지 못하는 수급 불균형 심화"
+                ],
+                "signal": "bullish",
+                "signal_reason": "향후 3~5년간 납기가 확정된 수주잔고와 높은 마진율이 보장되어 반도체와 함께 가장 확실한 주도주 지위를 유지함.",
+                "key_companies": ["HD현대일렉트릭(267260)", "효성중공업(298040)", "LS ELECTRIC(010120)", "제룡전기(033100)"],
+                "insight": "AI 혁명의 물리적 제약 요인은 알고리즘이 아니라 전력망과 변압기 공급이므로, 전력기기는 AI 팽창의 통행세를 징수하는 독점적 인프라 수혜주임.",
+                "action_point": "주가 단기 급등에 따른 밸류에이션 부담 우려 시점마다 실적 추정치 상향을 확인하며 눌림목 매수 전략 유지."
+            },
+            "classification": {
+                "primary_topic": "energy",
+                "secondary_topics": ["tech", "stock"],
+                "tags": ["전력기기", "변압기", "HD현대일렉트릭", "효성중공업", "AI데이터센터"]
+            }
+        }
+    },
+    "eID7A-G0Fq4": {
+        "primary": "robot",
+        "data": {
+            "video": {
+                "id": "eID7A-G0Fq4",
+                "title": "머스크가 숨기는 로봇의 진짜 병목 (HMG경영연구원 박형근 실장) (2부)",
+                "published": "2026-08-18T12:25:39+00:00",
+                "channel_name": "언더스탠딩_Understanding",
+                "url": "https://www.youtube.com/watch?v=eID7A-G0Fq4",
+                "thumbnail": "https://img.youtube.com/vi/eID7A-G0Fq4/hqdefault.jpg"
+            },
+            "analysis": {
+                "summary": "일론 머스크의 테슬라 옵티머스 상용화 비전 이면에 숨겨진 <span class=\"text-rose-400 font-medium\">하드웨어 및 피지컬 AI의 치명적 병목 요인들</span>을 정밀 분석함. 정밀 액추에이터의 발열 및 내구성 한계, 배터리 작동 시간(2~3시간 한계), 손가락 촉각 센서의 실시간 물리 데이터 피드백 부족 등 실제 자동차 조립 공장에 로봇을 대량 투입하기까지 해결해야 할 현실적 공학 난제들을 규명함.",
+                "key_claims": [
+                    "소프트웨어 AI 모델보다 모터, 감속기, 관절의 마모 및 열 제어라는 기계공학적 내구성이 상용화의 진짜 병목임.",
+                    "단순 픽앤플레이스를 넘어 복잡한 공장 라인 조립 작업을 수행하려면 수십만 번의 실패를 견디는 고신뢰성 부품 생태계가 필수적임.",
+                    "로봇 대량 양산의 주도권은 테슬라뿐만 아니라 현대차-보스턴다이내믹스 등 완성차 제조 양산 노하우를 가진 기업들이 쥐게 될 것임."
+                ],
+                "data_points": [
+                    "옵티머스 배터리 1회 충전 연속 작동 시간 2~3시간 내외(공장 8시간 연속 작업 불가)",
+                    "로봇 핸드(그리퍼) 자유도(DoF) 증가에 따른 센서 데이터 처리 지연 및 발열 문제"
+                ],
+                "signal": "neutral",
+                "signal_reason": "중장기 로봇 혁명은 필연적이나 단기 1~2년 내 완전 자율 공장 투입 기대감은 과도하여 눈높이 조절이 필요함.",
+                "key_companies": ["테슬라(TSLA)", "현대차(005380)", "보스턴다이내믹스", "레인보우로보틱스(277810)"],
+                "insight": "휴머노이드 로봇의 승패는 AI 소프트웨어의 환상보다, 고장 없이 수만 시간을 버티는 부품 내구성과 양산 단가 절감 능력에서 갈릴 것임.",
+                "action_point": "로봇 완성품 제조사뿐만 아니라 고내구성 감속기, 정밀 서보모터, 촉각 센서 핵심 부품사의 기술 경쟁력을 점검할 것."
+            },
+            "classification": {
+                "primary_topic": "robot",
+                "secondary_topics": ["tech", "stock"],
+                "tags": ["옵티머스", "로봇병목", "액추에이터", "피지컬AI", "보스턴다이내믹스"]
+            }
+        }
+    },
+    "ilfqdi6uYzw": {
+        "primary": "etc",
+        "data": {
+            "video": {
+                "id": "ilfqdi6uYzw",
+                "title": "\"10평 더 짓게 해줄게\" 이게 빌라 공급 대책? (언더스탠딩 장순원 기자)",
+                "published": "2026-08-18T07:55:01+00:00",
+                "channel_name": "언더스탠딩_Understanding",
+                "url": "https://www.youtube.com/watch?v=ilfqdi6uYzw",
+                "thumbnail": "https://img.youtube.com/vi/ilfqdi6uYzw/hqdefault.jpg"
+            },
+            "analysis": {
+                "summary": "정부가 발표한 비아파트(빌라·다세대) 공급 확대 대책(용적률 완화 및 LH 신축 매입임대 확대)의 실효성과 한계를 심층 취재함. <span class=\"text-amber-300 font-bold\">전세사기 여파로 인한 비아파트 기피 심리와 공사비 급등</span>으로 인해 단순 용적률 인센티브만으로는 민간의 신규 빌라 착공을 유인하기 어려운 부동산 시장의 구조적 딜레마를 분석함.",
+                "key_claims": [
+                    "전세사기 사태 이후 아파트로의 쏠림이 심화되어 빌라 임대차 및 매매 시장이 완전히 얼어붙은 상태임.",
+                    "LH 매입임대 확대는 단기 착공을 늘릴 수 있으나 재정 부담과 품질 검증 논란이 수반됨.",
+                    "공사비 폭등으로 소규모 건축업자들의 사업 마진이 축소되어 민간 주도 공급 회복에는 한계가 존재."
+                ],
+                "data_points": [
+                    "전국 비아파트 인허가 및 착공 실적 전년 대비 40~50% 급감",
+                    "LH의 2026년 신축 매입임대 목표 물량 10만 호 이상 확대 계획"
+                ],
+                "signal": "neutral",
+                "signal_reason": "국내 부동산 정책 및 서민 주거 공급에 관한 정책 분석으로 증시 시그널과는 중립적임.",
+                "key_companies": [],
+                "insight": "주택 공급 정책은 제도적 용적률 인센티브보다 시장의 신뢰 회복과 금융(PF 및 보증) 인프라 정상화가 선행되어야 효과를 발휘함.",
+                "action_point": "수도권 아파트 전세가 상승세와 비아파트 매입임대 정책에 따른 부동산 주거 시장의 양극화 흐름 참고."
+            },
+            "classification": {
+                "primary_topic": "etc",
+                "secondary_topics": ["economy"],
+                "tags": ["부동산대책", "빌라공급", "LH매입임대", "전세사기여파", "주택시장"]
+            }
+        }
+    },
+    "kvUShy9YTVc": {
+        "primary": "robot",
+        "data": {
+            "video": {
+                "id": "kvUShy9YTVc",
+                "title": "현대차와 한국군이 피지컬 AI로 만났다…우크라이나 전쟁이 보여준 로봇의 미래, 한국에서도 큰 판 시작된다",
+                "published": "2026-08-18T10:51:14+00:00",
+                "channel_name": "엔지니어TV",
+                "url": "https://www.youtube.com/watch?v=kvUShy9YTVc",
+                "thumbnail": "https://img.youtube.com/vi/kvUShy9YTVc/hqdefault.jpg"
+            },
+            "analysis": {
+                "summary": "우크라이나 전쟁에서 입증된 무인 드론 및 자율 전투 로봇의 실전 파괴력에 대응하여, <span class=\"text-cyan-300 font-semibold\">한국군과 현대차그룹(현대로템, 보스턴 다이내믹스)</span>이 유무인 복합전투체계(MUM-T) 및 피지컬 AI 지상 전투로봇 편성을 본격 가동함. 4족 보행 로봇과 자율 다목적 무인차량이 군사 작전 및 방산 수출의 핵심 미래 먹거리로 급부상함.",
+                "key_claims": [
+                    "인구 절벽에 따른 병력 감축 위기를 극복하기 위해 한국군이 국방 AI 로봇 부대 도입을 전면 가속화.",
+                    "보스턴 다이내믹스의 '스팟'과 현대로템의 'HR-셰르파' 등 검증된 피지컬 AI 로봇이 정찰 및 수색, 전투 지원에 실전 배치 진행.",
+                    "K-방산의 수출 품목이 전차·자주포에서 지능형 유무인 복합 로봇 시스템으로 진화하고 있음."
+                ],
+                "data_points": [
+                    "한국군 드론작전사령부 및 AI 유무인 복합전투체계 실증 부대 확대",
+                    "현대로템 다목적 무인차량 및 보스턴 다이내믹스 로봇 군납 실증 계약 체결"
+                ],
+                "signal": "bullish",
+                "signal_reason": "국방 안보 수요와 인구 감소 극복을 위한 군용 로봇 시장의 폭발적 성장이 현대차 밸류체인 및 방산 로봇 기업의 신규 수주를 견인함.",
+                "key_companies": ["현대로템(064350)", "현대차(005380)", "한화에어로스페이스(012450)", "LIG넥스원(079550)"],
+                "insight": "로봇 기술의 가장 확실하고 거대한 초기 고객은 '군대'이며, 방산 로봇에서 축적된 내구성과 피지컬 AI 데이터가 민간 로봇으로 전이되는 선순환이 일어남.",
+                "action_point": "유무인 복합전투체계 실전 배치 및 해외 방산 수출 모멘텀을 보유한 방산/로봇 융합 선도주에 대한 중장기 투자 관심."
+            },
+            "classification": {
+                "primary_topic": "robot",
+                "secondary_topics": ["tech", "stock"],
+                "tags": ["피지컬AI", "국방로봇", "현대로템", "보스턴다이내믹스", "유무인복합체계"]
+            }
+        }
+    },
+    "lWl42osALZo": {
+        "primary": "economy",
+        "data": {
+            "video": {
+                "id": "lWl42osALZo",
+                "title": "미국 금리 어디까지 오르나? 돈이 마를수록 '이곳'에 몰리는 이유 | 신영증권 김효진 박사 [글로벌 인터뷰]",
+                "published": "2026-08-18T23:02:56+00:00",
+                "channel_name": "삼프로TV_3ProTV",
+                "url": "https://www.youtube.com/watch?v=lWl42osALZo",
+                "thumbnail": "https://img.youtube.com/vi/lWl42osALZo/hqdefault.jpg"
+            },
+            "analysis": {
+                "summary": "미국 장기 국채금리가 4.5%를 웃돌며 고공행진을 지속하는 배경에는 미국 정부의 대규모 재정 적자 발행 물량과 견조한 실물 경기가 자리잡고 있음. 시중 유동성이 긴축되는 환경 속에서 글로벌 자금은 안전한 고수익을 제공하는 <span class=\"text-amber-300 font-bold\">미국 초단기 MMF와 현금 창출력이 막강한 빅테크</span>로 극단적으로 쏠리는 양극화 현상을 보임.",
+                "key_claims": [
+                    "미국 금리의 추가 상방은 제한적이나, 재정 적자 구조로 인해 4%대 이상의 고금리가 예상보다 길게 유지될 가능성 높음.",
+                    "고금리 장기화는 취약한 중소기업과 신흥국에 부담을 주는 반면, 막대한 순현금을 쥐고 이자 수익을 올리는 미국 빅테크 독점력을 더욱 강화.",
+                    "유동성 축소기에는 자금 쏠림이 발생하는 1등 자산에 머무는 것이 자산 보전과 수익률 확보의 지름길임."
+                ],
+                "data_points": [
+                    "미국 MMF 잔액 6조 5,000억 달러 이상 사상 최고치 경신 유지",
+                    "빅테크 상위 5개사의 순현금 보유액 수천억 달러 기록"
+                ],
+                "signal": "neutral",
+                "signal_reason": "고금리 장기화는 전체 밸류에이션 확장을 제약하나, 초우량 현금 부자 기업들에 대한 쏠림과 주가 견인력은 지속됨.",
+                "key_companies": ["애플(AAPL)", "알파벳(GOOGL)", "마이크로소프트(MSFT)"],
+                "insight": "돈이 마르는 고금리 시대에는 빚으로 성장하는 기업은 도태되고, 자체 현금 흐름으로 AI 투자를 지속하는 독점적 플랫폼 기업만이 독식하는 구조가 됨.",
+                "action_point": "부채 비율이 높고 자금 조달이 필요한 한계 기업을 피하고, 잉여현금흐름(FCF)이 풍부한 글로벌 빅테크 및 MMF 단기 채권 포트폴리오를 유지할 것."
+            },
+            "classification": {
+                "primary_topic": "economy",
+                "secondary_topics": ["stock"],
+                "tags": ["미국금리", "고금리장기화", "MMF", "빅테크자금쏠림", "현금흐름"]
+            }
+        }
     }
-    
-    analyzed_dir = Path(f"data/analyzed/{primary_topic}")
-    analyzed_dir.mkdir(parents=True, exist_ok=True)
-    
-    result_path = analyzed_dir / f"{video_id}.json"
-    result_path.write_text(
-        json.dumps({
-            "video": video_data,
-            "analysis": analysis_data,
-            "classification": classification_data
-        }, ensure_ascii=False, indent=2),
-        encoding="utf-8"
-    )
-    print(f"Saved: {result_path}")
-    
-    pending_path.unlink()
-    print(f"Deleted pending: {pending_path}")
-    
-    synthesis_cache = Path(f"data/synthesis/{primary_topic}.json")
-    if synthesis_cache.exists():
-        synthesis_cache.unlink()
-        print(f"Invalidated cache: {synthesis_cache}")
-
-# Batch 5 analyses
-batch_5 = {
-  "oMrP_-w580U": {
-    "primary_topic": "space",
-    "secondary_topics": ["tech", "stock"],
-    "tags": ["스페이스X", "AST스페이스모바일", "위성인터넷", "나스닥상장", "스타링크", "직접연결"],
-    "analysis": {
-      "summary": "스페이스X가 시가총액 2조 달러를 돌파하며 상장했으며, 우주와 AI(xAI 그록, 콜로서스 등)를 결합한 거대한 생태계를 구축하고 있습니다. 한편 <span class=\"text-cyan-300 font-semibold\">AST 스페이스모바일(ASTS)</span>은 스마트폰을 위성에 직접 연결하는(Direct-to-Cell) 고유한 틈새 시장을 공략하며 AT&T, 버라이즌 등 통신사 연합의 강력한 지지를 받고 있습니다. 다만 ASTS는 위성 발사 비용 조달에 따른 <span class=\"text-rose-400 font-medium\">지분 희석 리스크</span>가 상존합니다.",
-      "key_claims": [
-        "스페이스X는 단순 로켓 회사를 넘어 AI(xAI) 및 소셜망(X)을 융합한 2조 달러 규모의 종합 기술 복합 기업으로 도약했다.",
-        "AST 스페이스모바일은 일반 스마트폰을 우주 위성에 직접 연결하는 틈새 영역에서 스타링크보다 기술적으로 약 2년 앞선 우위를 보인다.",
-        "ASTS는 통신사 공동 플랫폼 구축 등 우호적 환경을 만났으나, 본격적인 이익 창출 전까지 위성 발사를 위한 추가 자금 수급(희석 위험)을 경계해야 한다."
-      ],
-      "data_points": [
-        "스페이스X 나스닥 상장 조달액: 약 857억 달러",
-        "스페이스X 시가총액: 2조 달러 돌파",
-        "스페이스X 스타링크 통신 부문 매출 비중 (2025): 약 114억 달러 (전체 61% 차지)"
-      ],
-      "signal": "neutral",
-      "signal_confidence": "high",
-      "signal_reason": "스페이스X와 ASTS 모두 우주 연결 테마의 핵심 성장주이나, 극단적인 고평가(매출 대비 90배 멀티플)와 본격적 이익 부재에 따른 추가 희석 리스크가 상존하여 방어적 균형 감각이 필요한 구간이기 때문입니다.",
-      "key_companies": ["스페이스X", "AST스페이스모바일(ASTS)", "AT&T", "버라이즌"],
-      "insight": "우주 산업이 점차 고도화되면서 수직 계열화된 거인(스페이스X)과 전문적인 틈새 레이어(AST 스페이스모바일)로 시장이 분화되고 있습니다. 특히 ASTS는 통신사 가입자를 그대로 흡수하는 구조로 마케팅 비용이 들지 않는 강력한 비즈니스 모델을 가졌으나, 천문학적인 위성 발사 비용 조달에 따른 주주 가치 희석 리스크가 상존하므로, 거품 낀 멀티플을 추격하기보다 냉정한 자금 조달 스케줄과 스타링크의 기술 추격을 검증해야 합니다.",
-      "action_point": "스페이스X와 ASTS는 전혀 다른 리스크 프로필을 지닌 자산입니다. AI 시너지를 믿는다면 <span class=\"text-cyan-300 font-semibold\">스페이스X(합병 형태)</span>를, 위성 통신 직접 연결 틈새의 독점을 노린다면 <span class=\"text-cyan-300 font-semibold\">ASTS</span>에 배팅하되, ASTS의 경우 위성 발사 일정에 맞춘 <span class=\"text-rose-400 font-medium\">지분 희석 리스크</span>를 고려해 포트폴리오 비중을 조절해야 합니다."
-    }
-  },
-  "q8K1kbL3T4Y": {
-    "primary_topic": "etc",
-    "secondary_topics": ["stock"],
-    "tags": ["미래에셋증권", "담보대출", "이용가이드", "M-STOCK"],
-    "analysis": {
-      "summary": "미래에셋증권 모바일 앱 M-STOCK을 통해 보유 주식을 담보로 활용하여 일반 대출 및 매도 대출 약정을 맺는 실무 프로세스 가이드입니다. 약정 과정에서 투자 성향 및 신용공여 정보 확인서를 제출하고, 5천만 원 초과 시에는 인지세가 차등 부과되며 <span class=\"text-amber-300 font-bold\">5천만 원 이하 시 인지세가 면제</span>됩니다. 대출 시 추가 담보 납부(마진콜) 및 만기 안내 등 알림 설정이 가능합니다.",
-      "key_claims": [
-        "보유 중인 주식을 담보로 대출받는 일반 담보대출과 매도 완료 후 즉시 인출 가능한 매도 담보대출을 모바일 앱에서 간편히 약정할 수 있다.",
-        "대출 금액 합산 기준 5천만 원 이하의 소액 대출 건에 대해서는 인지세가 전액 발생하지 않는다.",
-        "해외 주식을 담보로 포함할 수 있으나, 담보 비율 하락에 따른 추가 담보 미납 시 반대매매가 진행될 수 있으므로 유의해야 한다."
-      ],
-      "data_points": [
-        "인지세 면제 기준: 대출 약정 총합산 금액 5,000만 원 이하"
-      ],
-      "signal": "neutral",
-      "signal_confidence": "high",
-      "signal_reason": "증권사의 신용 담보대출 가이드로서 시장 전반의 호재나 악재 시그널보다는, 투자자 본인의 담보 자금 관리와 레버리지 위험 통제 영역을 다룬 실무적인 내용이기 때문입니다.",
-      "key_companies": ["미래에셋증권"],
-      "insight": "개인 투자자들이 주식 담보대출 기능을 활용할 때의 복잡한 절차와 인지세 면제 기준(5천만 원 이하)을 설명하는 실무적인 가이드입니다. 증권사 입장에서는 이와 같은 담보대출 서비스 활성화를 통해 안정적인 이자 마진(신용공여 수익)을 추가로 확보하는 비즈니스 구조를 구축하고 있습니다.",
-      "action_point": "대출 금액 합산 5천만 원 이하에서 <span class=\"text-amber-300 font-bold\">인지세 면제 혜택</span>을 활용하고, 담보 비율 하락에 따른 추가 담보 납부 통보 등 <span class=\"text-rose-400 font-medium\">반대매매 리스크</span>에 상시 대비하는 약정 통보 서비스를 반드시 신청해야 합니다."
-    }
-  },
-  "qmXbuBN1sOg": {
-    "primary_topic": "space",
-    "secondary_topics": ["tech"],
-    "tags": ["우주공장", "무중력제조", "단백질결정", "항암제키트루다", "지블란광섬유"],
-    "analysis": {
-      "summary": "우주 정거장의 무중력(마이크로 중력) 환경을 활용해 고순도 의약품 및 정밀 신소재를 생산하는 <span class=\"text-cyan-300 font-semibold\">우주 제조(Space Manufacturing)</span> 기술을 조명합니다. 머크는 중력 영향이 배제된 우주 정거장에서 항암제 키트루다의 단백질 입자를 39마이크로미터로 극도로 고르게 결정화했습니다. 신호 결함이 없는 <span class=\"text-cyan-300 font-semibold\">지블란(ZBLAN) 광섬유</span> 등 중력 제약이 없는 신소재 혁신이 가시화되고 있습니다.",
-      "key_claims": [
-        "우주 무중력 공간에서는 중력에 의한 대류나 물질 가라앉음이 없어 단백질 결정 등을 지상보다 균일하게 합성할 수 있어 제약 회사들의 러시가 이어지고 있다.",
-        "항암제 키트루다 등의 고성능 약품 성분을 무중력에서 결정화할 경우 고른 균일성 덕분에 인체 투여 효율이 비약적으로 향상된다.",
-        "이론상 최강의 광섬유 소재인 지블란은 지구 중력 하에서 생기는 미세 균열(결함)을 극복하고 무중력에서 완벽한 신호 전달체로 양산이 가능하다."
-      ],
-      "data_points": [
-        "지상 키트루다 입자 분산: 13~102마이크로미터 (불균일)",
-        "우주정거장 키트루다 입자 크기: 39마이크로미터 (고도의 균일 결정 생성)"
-      ],
-      "signal": "bullish",
-      "signal_confidence": "high",
-      "signal_reason": "무중력 우주 환경을 이용한 바이오 및 정보통신 신소재 제조 기술이 지상의 물리적 한계를 극복하는 실체적 결과물(어닝서프라이즈 및 성능 개선)로 확인되며 장기 성장 동력으로 입증되었기 때문입니다.",
-      "key_companies": ["머크"],
-      "insight": "우주 산업이 단순 탐사와 통신을 넘어 고부가가치 의약품 및 정밀 하드웨어를 생산하는 '무중력 제조(Space Manufacturing)' 기지로 확장되고 있습니다. 이는 지상에서 중력의 한계로 불가능했던 초고순도 단백질 결정이나 무결함 광소재의 상업화를 가속화할 것입니다.",
-      "action_point": "우주 공간에서의 생산 비용 절감 및 무중력 제조 기술을 선점하는 글로벌 <span class=\"text-cyan-300 font-semibold\">제약사(머크 등)</span>와 <span class=\"text-cyan-300 font-semibold\">초정밀 신소재 개발 기업</span>의 우주 프로젝트 진척도를 주목해야 합니다."
-    }
-  },
-  "sywYGB6JHTo": {
-    "primary_topic": "stock",
-    "secondary_topics": ["economy"],
-    "tags": ["V코스피", "코스피변동성", "마이크론실적", "풋콜레이시오", "레버리지ETF"],
-    "analysis": {
-      "summary": "코스피의 변동성 지수인 <span class=\"text-rose-400 font-medium\">V코스피</span>가 과거 글로벌 금융위기 수준(89선 부근)에 근접하게 폭증하며 글로벌 시장 대비 유별난 변동성을 보였습니다. 이례적인 것은 주가 폭락이 아니라 반도체 중심의 사상 최대 이익(컨센서스 과열)과 5월 이후 대형 <span class=\"text-rose-400 font-medium\">레버리지 ETF 수급 노이즈</span>가 겹쳐 발생했다는 점입니다. 마이크론 실적 직전 옵션 시장에서는 풋 옵션 비중이 2배 이상 몰리며 하방 공포가 극대화되었습니다.",
-      "key_claims": [
-        "V코스피가 역대급 변동성을 나타냈으나, 이는 금융위기처럼 펀더멘탈 붕괴가 아닌 레버리지 파생 수급이 부추긴 단기적 바람(노이즈)에 불깝하다.",
-        "현재 코스피는 기업 이익 컨센서스가 전례 없는 수치로 폭증하는 이례적인 '이익 과열' 및 펀더멘탈 강세 상태를 보이고 있다.",
-        "옵션 시장 내 마이크론의 풋콜 비율(풋옵션이 콜옵션의 2배)이 극대화되면서 실적 발표 직전까지 공포성 눈치싸움 매물이 출하되었다."
-      ],
-      "data_points": [
-        "V코스피 변동성 지수: 금융위기 수준 근접 급증",
-        "마이크론 실적 전 옵션 풋콜 비중: 풋옵션 비중이 콜옵션 대비 약 2배 우세"
-      ],
-      "signal": "neutral",
-      "signal_confidence": "medium",
-      "signal_reason": "V코스피 수치만 보면 공포 시그널이나, 기업 이익(펀더멘탈) 성장세는 사상 최대 수준을 지속하고 있고 파생상품 발 수급 왜곡이 원인이므로 변동성이 지속되되 추세 붕괴로 이어지지 않기 때문입니다.",
-      "key_companies": ["마이크론", "삼성전자", "SK하이닉스"],
-      "insight": "역사적으로 변동성 지수의 폭증은 항상 실적 급감과 주가 폭락을 동반했으나, 현재 코스피는 사상 최대의 기업 실적(반도체 중심)을 배경으로 변동성이 치솟는 이례적인 '펀더멘탈 과열' 상태입니다. 레버리지 수급 요인으로 등락 폭이 극대화된 상태이므로 주가의 일시적 등락에 투매하거나 추격하기보다는, 기업 이익의 훼손 여부를 냉정히 체크해야 합니다.",
-      "action_point": "수급 노이즈로 빚어진 변동성을 역이용하여 투매에 동참하기보다, <span class=\"text-cyan-300 font-semibold\">반도체 투톱(삼성전자, SK하이닉스)</span>의 <span class=\"text-amber-300 font-bold\">실적 턴어라운드 흐름</span>을 믿고 변동성을 버텨내거나 조정 시 분할 매수 기회로 활용해야 합니다."
-    }
-  },
-  "vxRs-slyCRY": {
-    "primary_topic": "stock",
-    "secondary_topics": ["economy", "tech"],
-    "tags": ["반도체", "추격매수금지", "삼성전자", "SK하이닉스", "ADR상장", "수남매"],
-    "analysis": {
-      "summary": "마이크론 실적 서프라이즈로 인해 삼성전자와 SK하이닉스 등 국내 대표 반도체 기업들이 5~11% 급등하며 강세를 보이고 있습니다. <span class=\"text-cyan-300 font-semibold\">SK하이닉스의 7월 나스닥 ADR 상장</span> 일정 확정 소식이 강력한 외인 수급 촉매제로 작용하고 있습니다. 다만 주도주 쏠림이 극대화되고 있으며 바이오 등 타 섹터로의 순환매는 지체되는 내로우(Narrow) 장세이므로, 섣부른 <span class=\"text-rose-400 font-medium\">추격매수는 절대 금물</span>입니다.",
-      "key_claims": [
-        "마이크론의 강력한 가이드가 IT 전반의 자신감을 충전하며 삼성전자 및 SK하이닉스가 일제히 상승 양봉을 그렸다.",
-        "SK하이닉스가 7월 10일경 나스닥에 ADR을 상장하기로 확정하면서 해외 주식 담보 및 추가 외국인 자금 조달 창구가 열렸다.",
-        "시장 전체가 강하게 올라가는 듯 보이나 실상 반도체 대장주 외의 바이오, 중소형주 등은 철저히 소외되는 내로우 장세가 계속되고 있다."
-      ],
-      "data_points": [
-        "SK하이닉스 나스닥 ADR 상장 목표 일정: 2026년 7월 10일경",
-        "삼성전자/SK하이닉스 실적 발표일 상승률: 삼성전자 5~6%, SK하이닉스 9~11%대 급등"
-      ],
-      "signal": "bullish",
-      "signal_confidence": "high",
-      "signal_reason": "AI 반도체 공급 부족 수혜와 Hynix의 나스닥 ADR 상장이라는 확실한 글로벌 밸류업 모멘텀이 추가 유입되어 주도주의 상승 탄력이 강화되었기 때문입니다.",
-      "key_companies": ["삼성전자", "SK하이닉스", "SK스퀘어", "삼성전기"],
-      "insight": "글로벌 공급망 병목 해소와 ADR 상장 모멘텀을 지닌 SK하이닉스 등 주도주 위주의 자금 쏠림이 장기화되고 있습니다. 순환매가 넓고 강하게 도는 시장이 아니기 때문에, 낙폭과대라는 이유만으로 바이오나 중소형주를 조급하게 매수하는 것은 소외 기간을 늘릴 뿐입니다.",
-      "action_point": "시장의 주인공인 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>와 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>, 그리고 지주사인 <span class=\"text-cyan-300 font-semibold\">SK스퀘어</span>에 포트폴리오를 집중하고, 타 섹터의 섣부른 <span class=\"text-rose-400 font-medium\">추격 매수는 지양</span>해야 합니다."
-    }
-  }
 }
 
-for vid, data in batch_5.items():
-    save_and_delete(
-        video_id=vid,
-        primary_topic=data["primary_topic"],
-        secondary_topics=data["secondary_topics"],
-        tags=data["tags"],
-        analysis_data=data["analysis"]
-    )
-print("Batch 5 completed!")
+for vid, item in batch5_data.items():
+    primary = item["primary"]
+    out_dir = Path(f"data/analyzed/{primary}")
+    out_dir.mkdir(parents=True, exist_ok=True)
+    out_file = out_dir / f"{vid}.json"
+    with open(out_file, "w", encoding="utf-8") as fp:
+        json.dump(item["data"], fp, ensure_ascii=False, indent=2)
+    
+    pending_file = Path(f"data/pending/{vid}.json")
+    if pending_file.exists():
+        pending_file.unlink()
+    print(f"[Batch 5 완료] {vid} -> data/analyzed/{primary}/{vid}.json")

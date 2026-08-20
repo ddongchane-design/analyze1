@@ -1,0 +1,41 @@
+{
+  "video": {
+    "id": "LJG-yBkpN_M",
+    "title": "AI투자 믿는다? 안 믿는다? | 공강 | #Shorts",
+    "published": "2026-08-19T08:30:25+00:00",
+    "channel_name": "Smart Money by MiraeAsset ",
+    "url": "https://www.youtube.com/watch?v=LJG-yBkpN_M",
+    "thumbnail": "https://img.youtube.com/vi/LJG-yBkpN_M/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "개인 투자자들의 AI 자산 관리 및 투자 알고리즘에 대한 신뢰도와 활용 방식에 대한 다양한 인터뷰를 소개합니다.\n전적인 AI 일임 투자에 대한 경계감과 객관적 데이터 분석 보조 도구로서의 AI 활용 필요성이 공존하고 있습니다.\n투자 판단의 최종 책임은 투자자 본인에게 있으므로 AI를 감정 편향 배제 및 데이터 필터링의 보조 수단으로 활용하는 전략이 추천됩니다.",
+    "key_claims": [
+      "AI 투자는 인간의 감정 편향을 배제하고 대량의 데이터를 객관적으로 처리하는 강력한 강점을 지님.",
+      "완전 자동 일임보다 투자 의사결정을 지원하는 전략적 조력자로서 AI를 활용하는 것이 합리적임."
+    ],
+    "data_points": [
+      "투자자 성향: 자체 분석 신뢰형 vs AI 데이터 기반 보조 수용형"
+    ],
+    "signal": "na",
+    "signal_reason": "AI 투자 도구에 대한 대중 인식 인터뷰 영상으로 투자 시그널에 해당하지 않음.",
+    "key_companies": [
+      "미래에셋증권"
+    ],
+    "insight": "AI 알고리즘은 시장의 변동성을 완전히 제거할 수는 없으나, 인간의 탐욕과 공포에 의한 충동 매매를 방지하는 효과적인 자산 관리 도구가 됩니다.",
+    "action_point": "로보어드바이저 및 AI 리밸런싱 기능을 포트폴리오의 보조 수단으로 분산 활용할 것."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock",
+      "etc"
+    ],
+    "tags": [
+      "AI투자",
+      "로보어드바이저",
+      "알고리즘투자",
+      "투자심리",
+      "미래에셋"
+    ]
+  }
+}

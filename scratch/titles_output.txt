@@ -1,0 +1,88 @@
+--- data/pending\-Ww4XXgvVlo.json ---
+Title: 샌디스크, 인베스터데이 이후 30% 상승...뉴욕 증시, 금리 불확실성에 연이틀 하락 [월가 뉴스레터]
+Text: 
+
+--- data/pending\0q1ZlstvTZk.json ---
+Title: AI 경쟁의 핵심, 전기와 냉각 한국이 가진 숨은 경쟁력 #교양이를부탁해 #전력인프라 #AI데이터센터 #반도체 #에너지패권 #에너지
+Text: 
+
+--- data/pending\7AfxcaDXWLY.json ---
+Title: 빅테크 부도보험이 600% 급증했다
+Text: 
+
+--- data/pending\asuDSvnHz5Q.json ---
+Title: [지식뉴스] "주식은 결국 '굴욕을 견딘 대가'"…앞으로 변동성은 더 커집니다, 흔들리지 않는 투자 원칙의 비밀 / 교양이를 부탁해
+Text: 
+
+--- data/pending\ejabe8LSQtg.json ---
+Title: 피지컬AI 시대 메모리 1,000배 필요…삼성전자가 로봇을 키우는 진짜 이유
+Text: 
+
+--- data/pending\eNuhdtXb8S4.json ---
+Title: 앤트로픽 매출 14배, 2년 뒤 매출로 몸값ㅣ골드만 “9월 인상 어렵다”ㅣ기관 13Fㅣ트럼프 “오만 방해하면 폭격”ㅣ美경제일정ㅣ홍혜진의 뉴욕브리핑
+Text: 
+
+--- data/pending\gs_t5MCZ7Mk.json ---
+Title: 투자금은 어떻게 개인의 빚이 됐을까? | 신철호 OGQ  대표 [주말인터뷰]
+Text: 
+
+--- data/pending\id2adAbxlEE.json ---
+Title: 트럼프 "한미연합훈련 축소" 북한에 손짓…트럼프 숨은 의도는 | 구광모-젠슨 황 AI 동맹, 최태원-빌게이츠 SMR 동맹 | 권순우 삼프로TV 취재팀장 [뉴스3]
+Text: 
+
+--- data/pending\jYJjcbOQbhA.json ---
+Title: [박신영의 개장전요것만-8월17일] 알파벳 쓸어담는 월가 구루들 | 공포지수 '최저'에도 불안한 시장
+Text: 
+
+--- data/pending\KA8dXfkD2J8.json ---
+Title: [문지웅의 빅머니 LIVE] 美국채 30년물 금리 19년래 최고치 | 13f로 드러난 스페이스X 주주들 | 피터틸은 '삽과 곡괭이' 전략
+Text: 
+
+--- data/pending\kW6v2a9IZN4.json ---
+Title: "애플 때문에 미국 반도체가 망한다?"
+Text: 
+
+--- data/pending\MADsi36tWmk.json ---
+Title: 테슬라 주춤한 이유 머스크도 답 못 찾았다 (HMG경영연구원 박형근 실장) (1부)
+Text: 
+
+--- data/pending\NHs3DcCD3Fc.json ---
+Title: 8주 만에 강한 반등한 코스피…반도체 랠리 이어질까? | 박병창 MP파트너스 대표 [마켓 인사이드]
+Text: 
+
+--- data/pending\RGoHFSELdVA.json ---
+Title: 중국의 우주 굴기, 어떻게 미국을 넘보게 되었나?
+Text: 
+
+--- data/pending\s8ymgSvdwMo.json ---
+Title: 미국증시는 지금 랠리 중...나스닥 상승세, 이번엔 무엇이 주도하게 될까? | 한상희 한화투자증권 수석연구위원 [글로벌 인터뷰]
+Text: 
+
+--- data/pending\TsIafjH9uHc.json ---
+Title: 4,755조 반도체 메가 팹 진짜 승부는 '전력·용수' #교양이를부탁해 #전력인프라 #AI데이터센터 #반도체 #에너지패권 #에너지
+Text: 
+
+--- data/pending\vOk4BAW0rak.json ---
+Title: 원전 늘린다고 해결되지 않는다 AI 시대에 필요한 '에너지 믹스' #교양이를부탁해 #전력인프라 #AI데이터센터 #반도체 #에너지패권 #에너지
+Text: 
+
+--- data/pending\x-qBdbl3th8.json ---
+Title: HBM4 기술의 핵심이 바뀌다
+Text: 
+
+--- data/pending\YlE2u8ADWjA.json ---
+Title: "이런 건 본 적이 없다" 테슬라가 꺼낸 최종병기, 상식 깬 자율주행 등장 ㄷㄷ
+Text: 
+
+--- data/pending\zqvm3JAr4Ng.json ---
+Title: 기회 와도 전력 없으면 놓친다… K-반도체가 지금 준비해야 할 것 #교양이를부탁해 #전력인프라 #AI데이터센터 #반도체 #에너지패권 #에너지
+Text: 
+
+--- data/pending\_0h99Xnsh60.json ---
+Title: 팰컨 9 달 충돌 후의 모습을 누구보다 빠르게 촬영한 다누리!
+Text: 
+
+--- data/pending\_SY7lVVWyWY.json ---
+Title: AI가 깨운 중국 반도체, 재평가가 시작되었다 #CXMT #중국반도체 ｜ 애널리스트리포트 ｜2026.08.18(화)
+Text: 
+

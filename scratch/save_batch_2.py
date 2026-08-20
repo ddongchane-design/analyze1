@@ -1,171 +1,227 @@
 import json
+import os
 from pathlib import Path
 
-def save_and_delete(video_id, primary_topic, secondary_topics, tags, analysis_data):
-    pending_path = Path(f"data/pending/{video_id}.json")
-    if not pending_path.exists():
-        print(f"Error: {pending_path} does not exist.")
-        return
-        
-    pending_data = json.loads(pending_path.read_text(encoding="utf-8"))
-    video_data = pending_data["video"]
-    
-    classification_data = {
-        "primary_topic": primary_topic,
-        "secondary_topics": secondary_topics,
-        "tags": tags
+batch2_data = {
+    "9HqM5TWN9qc": {
+        "primary": "stock",
+        "data": {
+            "video": {
+                "id": "9HqM5TWN9qc",
+                "title": "새로운 주도주를 못 찾겠다면? 다섯개 섹터로 대응하는 순환매 투자 전략ㅣ명민준, 박세미, 황유현 [주린이 구조대]",
+                "published": "2026-08-18T12:30:03+00:00",
+                "channel_name": "삼프로TV_3ProTV",
+                "url": "https://www.youtube.com/watch?v=9HqM5TWN9qc",
+                "thumbnail": "https://img.youtube.com/vi/9HqM5TWN9qc/hqdefault.jpg"
+            },
+            "analysis": {
+                "summary": "반도체 원톱 장세 이후 지수 변동성이 확대되는 구간에서 <span class=\"text-amber-300 font-bold\">5대 핵심 섹터(반도체, 조선, 방산, 전력기기, 헬스케어)</span>를 활용한 분산 및 순환매 포트폴리오 전략을 제시함. 지수 고점 부근에서는 추격 매수보다 눌림목 구간에 진입한 실적 확인 종목을 선제적으로 분할 매집하는 리밸런싱이 유효함.",
+                "key_claims": [
+                    "지수 상단이 제한된 박스권에서는 단일 종목 집중보다 실적 모멘텀이 살아있는 5대 핵심 섹터 간 <span class=\"text-cyan-300 font-semibold\">순환매 타이밍 매매</span>가 리스크 대비 수익률이 우수함.",
+                    "조선과 방산은 글로벌 지정학 및 수주 사이클 호황이 뒷받침되며, 전력기기는 AI 데이터센터 증설에 따른 구조적 성장 지속.",
+                    "단기 급등한 테마주 추격을 피하고 기관/외국인 수급이 비어있는 실적 바닥 통과 섹터를 공략해야 함."
+                ],
+                "data_points": [
+                    "국내 증시 코스피 2,700~2,850선 박스권 등락 및 거래대금 분산 추이",
+                    "조선 3사 3년치 이상 수주잔고 확보 및 전력 인프라 북미 수출 마진율 고공행진"
+                ],
+                "signal": "neutral",
+                "signal_reason": "시장 전체의 폭발적 상승보다는 섹터별 손바뀜이 활발한 순환매 장세로 민첩한 리밸런싱 대응이 요구됨.",
+                "key_companies": ["HD현대일렉트릭(267260)", "한화에어로스페이스(012450)", "HD한국조선해양(009540)", "삼성바이오로직스(207940)"],
+                "insight": "순환매 장세에서는 오르는 종목을 쫓아가기보다 펀더멘털이 훼손되지 않은 주도 섹터의 단기 조정을 기회로 삼는 바벨 전략이 계좌 변동성을 낮추는 정석임.",
+                "action_point": "반도체 이외에 전력기기 및 방산 등 글로벌 수주 잔고가 탄탄한 2선 주도주들의 눌림목 분할 매수 타이밍을 점검해야 함."
+            },
+            "classification": {
+                "primary_topic": "stock",
+                "secondary_topics": ["economy", "energy"],
+                "tags": ["순환매", "섹터전략", "조선", "방산", "전력기기", "포트폴리오"]
+            }
+        }
+    },
+    "9QB1cb8pQIA": {
+        "primary": "economy",
+        "data": {
+            "video": {
+                "id": "9QB1cb8pQIA",
+                "title": "미 국채 샀다가 파산? 실리콘밸리은행이 망한 이유 #교양이를부탁해 #엔화 #미국국채 #베센트 #미국부채",
+                "published": "2026-08-18T11:15:33+00:00",
+                "channel_name": "교양이를 부탁해",
+                "url": "https://www.youtube.com/watch?v=9QB1cb8pQIA",
+                "thumbnail": "https://img.youtube.com/vi/9QB1cb8pQIA/hqdefault.jpg"
+            },
+            "analysis": {
+                "summary": "가장 안전한 무위험 자산으로 여겨지는 <span class=\"text-amber-300 font-bold\">미국 장기 국채</span>를 대거 매입했던 실리콘밸리은행(SVB)이 급격한 기준금리 인상으로 인한 채권 평가손실과 단기 예금 인출(뱅크런)이 맞물리며 파산에 이른 구조적 원인을 설명함. 장기 금리 상승기 금융기관의 자산-부채 만기 불일치(듀레이션 리스크)의 치명성을 경고함.",
+                "key_claims": [
+                    "미국 국채 자체의 부도 위험이 아니라, 금리 급등으로 인한 <span class=\"text-rose-400 font-medium\">채권 매매가격 폭락</span>이 금융기관 자본을 잠식함.",
+                    "단기 예금 부채와 장기 채권 자산 간의 만기 미스매칭 관리에 실패하면 초우량 은행도 순식간에 유동성 위기에 직면함."
+                ],
+                "data_points": [
+                    "SVB 보유 미 국채 및 MBS 만기보유증권(HTM)의 수백억 달러 미실현 손실",
+                    "스마트폰 뱅킹을 통한 36시간 만의 420억 달러 초고속 예금 인출"
+                ],
+                "signal": "bearish",
+                "signal_reason": "장기 국채금리가 재차 4.5~5.0%대로 치솟을 경우 중소형 은행 및 비은행 금융권의 채권 평가손실 리스크가 재부각될 우려가 있음.",
+                "key_companies": ["SVB Financial(파산)", "뉴욕커뮤니티뱅코프(NYCB)"],
+                "insight": "금리 상승 국면에서는 신용 리스크뿐만 아니라 금리 변동에 따른 듀레이션 자산 평가손실이 금융 시스템의 가장 취약한 고리가 됨.",
+                "action_point": "미국 장기 국채금리 고공행진에 따른 미국 중소형 지역은행 및 상업용 부동산 대출 연체율 추이를 면밀히 모니터링해야 함."
+            },
+            "classification": {
+                "primary_topic": "economy",
+                "secondary_topics": ["stock"],
+                "tags": ["SVB파산", "미국국채", "금리상승", "채권평가손", "금융리스크"]
+            }
+        }
+    },
+    "DPOrtYANtUo": {
+        "primary": "stock",
+        "data": {
+            "video": {
+                "id": "DPOrtYANtUo",
+                "title": "부담스러운 국채금리 상승..미국증시 약세 | 데일리 라이브 | 2026.8.18(화)",
+                "published": "2026-08-18T11:16:28+00:00",
+                "channel_name": "Smart Money by MiraeAsset ",
+                "url": "https://www.youtube.com/watch?v=DPOrtYANtUo",
+                "thumbnail": "https://img.youtube.com/vi/DPOrtYANtUo/hqdefault.jpg"
+            },
+            "analysis": {
+                "summary": "미국 10년물 국채금리가 다시 4.5% 수준으로 반등하면서 기술주 중심의 나스닥과 S&P500이 차익실현 매물로 약세를 보임. 엔비디아 실적 발표를 앞둔 관망 심리와 유가 반등, FOMC 의사록 발표 경계감이 겹치며 단기 <span class=\"text-amber-300 font-bold\">밸류에이션 부담 완화 과정</span>이 진행 중임.",
+                "key_claims": [
+                    "국채금리 상승 압력이 밸류에이션 부담이 큰 고PER 성장주에 즉각적인 하방 압력으로 작용.",
+                    "실적 시즌 막바지 핵심 이벤트인 <span class=\"text-cyan-300 font-semibold\">엔비디아 실적 및 블랙웰 출하 가이던스</span> 확인 전까지 지수 횡보 가능성 큼.",
+                    "경기 둔화 우려보다는 금리 및 채권 공급 물량 부담에 따른 기술적 조정 양상임."
+                ],
+                "data_points": [
+                    "미국 10년물 국채금리 4.48% 상승 및 달러 인덱스 104선 안착",
+                    "나스닥 지수 -0.8% 하락 마감 및 필라델피아 반도체 지수 단기 숨고르기"
+                ],
+                "signal": "neutral",
+                "signal_reason": "펀더멘털 훼손이 아닌 금리 반등과 대형 이벤트 앞둔 단기 기간 조정 국면으로 판단됨.",
+                "key_companies": ["엔비디아(NVDA)", "애플(AAPL)", "마이크로소프트(MSFT)"],
+                "insight": "금리 상승기에는 지수 전체의 추세적 상승보다 실적이 뒷받침되는 개별 종목 장세로 압축되므로 실적 발표 결과에 따른 종목 선별이 필수적임.",
+                "action_point": "엔비디아 실적 발표 및 컨퍼런스콜에서 언급될 차세대 칩 양산 일정과 데이터센터 수요 코멘트를 최종 확인 후 포지션 조정."
+            },
+            "classification": {
+                "primary_topic": "stock",
+                "secondary_topics": ["economy", "tech"],
+                "tags": ["미국증시", "국채금리", "엔비디아", "나스닥", "단기조정"]
+            }
+        }
+    },
+    "E4gz6V0LNR0": {
+        "primary": "space",
+        "data": {
+            "video": {
+                "id": "E4gz6V0LNR0",
+                "title": "스페이스X 10GW 데이터센터 누가 쓸까?",
+                "published": "2026-08-18T08:00:05+00:00",
+                "channel_name": "안될공학 - IT 테크 신기술",
+                "url": "https://www.youtube.com/watch?v=E4gz6V0LNR0",
+                "thumbnail": "https://img.youtube.com/vi/E4gz6V0LNR0/hqdefault.jpg"
+            },
+            "analysis": {
+                "summary": "<span class=\"text-cyan-300 font-semibold\">스페이스X</span>가 추진하는 10GW급 초대형 데이터센터 구상은 단순한 지상 전력 공급을 넘어 스타링크 우주 통신망과 <span class=\"text-cyan-300 font-semibold\">xAI(Grok)</span>, 테슬라 자율주행(FSD) 및 휴머노이드 로봇(옵티머스)의 두뇌 인프라로 직결됨. 우주 태양광 및 텍사스 테네시 메가 데이터센터 클러스터를 결합해 전력 병목을 돌파하려는 머스크 생태계의 야심을 분석함.",
+                "key_claims": [
+                    "10GW는 원자력 발전소 10기에 맞먹는 막대한 전력 규모로, 기존 빅테크 데이터센터 총합을 압도하는 수준임.",
+                    "이 막대한 컴퓨팅 파워의 실질 사용자는 xAI의 차세대 거대언어모델 훈련 및 테슬라 로보택시·옵티머스 피지컬 AI 클라우드임.",
+                    "스페이스X의 스타링크 고속 통신과 결합하여 전 세계 오지 및 우주 궤도까지 커버하는 독점적 분산 AI 인프라 구축 목표."
+                ],
+                "data_points": [
+                    "스페이스X 및 xAI 멤피스 콜로서스 데이터센터 10만 개 이상 H100/H200 GPU 클러스터 가동",
+                    "10GW 전력 소모 규모: 대도시 전체 전력 소비량 수준"
+                ],
+                "signal": "bullish",
+                "signal_reason": "우주 발사체 및 위성 통신 독점에 이어 AI 슈퍼컴퓨팅 인프라까지 수직 통합하는 스페이스X/xAI의 기업가치 상승 모멘텀이 강력함.",
+                "key_companies": ["스페이스X", "테슬라(TSLA)", "엔비디아(NVDA)"],
+                "insight": "전력망 병목이 AI 확장의 최대 걸림돌로 떠오른 상황에서 자체 발전 인프라와 10GW급 데이터센터를 선점하는 자가 AGI 경쟁의 최종 승기를 잡게 됨.",
+                "action_point": "스페이스X 상장(IPO) 모멘텀과 함께 테슬라의 AI 컴퓨팅 자산 가치 및 차세대 전력 장비 기업들과의 연계성을 주목할 것."
+            },
+            "classification": {
+                "primary_topic": "space",
+                "secondary_topics": ["tech", "energy"],
+                "tags": ["스페이스X", "10GW데이터센터", "xAI", "스타링크", "전력인프라"]
+            }
+        }
+    },
+    "Es5j8cypZvs": {
+        "primary": "economy",
+        "data": {
+            "video": {
+                "id": "Es5j8cypZvs",
+                "title": "환율조작국이라더니... 미국이 엔화 개입한 이유 #교양이를부탁해 #엔화 #미국국채 #베센트 #미국부채",
+                "published": "2026-08-18T11:00:13+00:00",
+                "channel_name": "교양이를 부탁해",
+                "url": "https://www.youtube.com/watch?v=Es5j8cypZvs",
+                "thumbnail": "https://img.youtube.com/vi/Es5j8cypZvs/hqdefault.jpg"
+            },
+            "analysis": {
+                "summary": "미국 재무부가 과거 환율조작국 지정을 경고하던 태도를 바꿔 일본 당국의 <span class=\"text-amber-300 font-bold\">엔화 매수 시장 개입을 묵인·공조한 본질적 이유</span>는 일본의 미 국채 투매를 방어하기 위함임. 엔화 가치 방어를 위해 일본이 보유 중인 미 국채를 대거 매각할 경우 미국 국채금리가 폭등하여 미국 재정에 치명타가 되기 때문임.",
+                "key_claims": [
+                    "일본은 전 세계 최대의 미국 국채 보유국(1.1조 달러 이상)으로, 엔화 방어를 위한 달러 확보 시 미 국채 매각이 불가피함.",
+                    "미국은 자국 국채금리 급등을 막기 위해 일본의 통화 방어 조치와 금리 인상을 일정 수준 용인하는 밀월 관계를 형성함."
+                ],
+                "data_points": [
+                    "일본 보유 미국 국채 잔액: 약 1조 1,000억 달러 돌파",
+                    "엔/달러 환율 150~160엔대 변동성과 일본은행(BOJ) 외환시장 개입 규모"
+                ],
+                "signal": "neutral",
+                "signal_reason": "엔화 강세 전환 시 엔 캐리 트레이드 청산 변동성이 발생할 수 있으나, 미-일 정책 공조로 시스템 위기 가능성은 제어됨.",
+                "key_companies": [],
+                "insight": "글로벌 환율 정책은 단순한 무역 경쟁력이 아니라 각국의 '국채 시장 안정'과 부채 방어를 위한 치밀한 지정학적 금융 역학에 의해 결정됨.",
+                "action_point": "엔/달러 환율 추이와 일본은행의 금리 인상 스케줄이 글로벌 유동성 및 미 국채금리에 미치는 파급 효과를 예의주시해야 함."
+            },
+            "classification": {
+                "primary_topic": "economy",
+                "secondary_topics": ["stock"],
+                "tags": ["엔화개입", "미국국채", "일본보유국채", "환율전쟁", "엔캐리"]
+            }
+        }
+    },
+    "FbUJlYgKDoY": {
+        "primary": "stock",
+        "data": {
+            "video": {
+                "id": "FbUJlYgKDoY",
+                "title": "이중바닥 믿었는데 왜 또 저점을 깰까...개미 털기 피해 진짜 주도주 가려내는 법ㅣ명민준, 박세미, 이지환 [주린이 구조대]",
+                "published": "2026-08-18T13:30:36+00:00",
+                "channel_name": "삼프로TV_3ProTV",
+                "url": "https://www.youtube.com/watch?v=FbUJlYgKDoY",
+                "thumbnail": "https://img.youtube.com/vi/FbUJlYgKDoY/hqdefault.jpg"
+            },
+            "analysis": {
+                "summary": "기술적 분석상의 단순 '이중바닥(W자)' 패턴만 믿고 진입했다가 가짜 반등에 속아 손실을 보는 개인 투자자들을 위해 <span class=\"text-cyan-300 font-semibold\">기관·외국인의 선물 매매 패턴과 수급 털기 메커니즘</span>을 분석함. 차트 저점 지지 여부보다 업종 실적 턴어라운드와 메이저 수급 유입이 동반되는 진짜 주도주 선별법을 제시함.",
+                "key_claims": [
+                    "장 초반 갭상승 후 장중 선물 매도로 전강후약을 만드는 패턴은 전형적인 개인 심리 흔들기 및 물량 털기 기법임.",
+                    "차트의 이중바닥이 지지력을 가지려면 직전 저점 대비 거래량 감소 후 반등 시 외국인 순매수가 확정적으로 붙어야 함.",
+                    "주도주는 급락장에서 지수보다 덜 빠지고 저점을 높이며 가장 먼저 전고점을 회복하는 종목군에서 나옴."
+                ],
+                "data_points": [
+                    "외국인 코스피 선물 1조 원 이상 순매수 후 장중 전매도로 전환되는 변동성 패턴 분석",
+                    "반도체 대형주 장중 7~8% 급등 후 보합권 회귀 등 변동폭 확대"
+                ],
+                "signal": "neutral",
+                "signal_reason": "단기 수급 흔들기로 지수 변동성이 크므로 차트만 보고 추격 매수하기보다 분할 매수와 실적 팩트 체크가 필수적임.",
+                "key_companies": ["SK하이닉스(000660)", "삼성전자(005930)"],
+                "insight": "시장의 페이크에 당하지 않는 유일한 방법은 차트의 모양에 매몰되지 않고, 업황 사이클상 공급 부족과 판가 상승이 명확한 1등 주도주를 흔들릴 때 모아가는 것임.",
+                "action_point": "단기 갭상승 시 뇌동매수를 자제하고, 장 마감 기준 외국인 선물/현물 수급 연속성과 주도주 저점 지지력을 확인한 후 진입할 것."
+            },
+            "classification": {
+                "primary_topic": "stock",
+                "secondary_topics": ["tech"],
+                "tags": ["이중바닥", "개미털기", "외국인수급", "선물매매", "주도주선별"]
+            }
+        }
     }
-    
-    analyzed_dir = Path(f"data/analyzed/{primary_topic}")
-    analyzed_dir.mkdir(parents=True, exist_ok=True)
-    
-    result_path = analyzed_dir / f"{video_id}.json"
-    result_path.write_text(
-        json.dumps({
-            "video": video_data,
-            "analysis": analysis_data,
-            "classification": classification_data
-        }, ensure_ascii=False, indent=2),
-        encoding="utf-8"
-    )
-    print(f"Saved: {result_path}")
-    
-    pending_path.unlink()
-    print(f"Deleted pending: {pending_path}")
-    
-    synthesis_cache = Path(f"data/synthesis/{primary_topic}.json")
-    if synthesis_cache.exists():
-        synthesis_cache.unlink()
-        print(f"Invalidated cache: {synthesis_cache}")
-
-# Batch 2 analyses
-batch_2 = {
-  "2JQWDZU_icE": {
-    "primary_topic": "stock",
-    "secondary_topics": ["economy", "tech"],
-    "tags": ["SK하이닉스ADR", "나스닥상장", "바이오주", "리가켐바이오", "고환율"],
-    "analysis": {
-      "summary": "<span class=\"text-cyan-300 font-semibold\">SK하이닉스(000660)</span>가 45조 원 규모의 ADR 나스닥 상장을 7월 10일로 확정 지으며 용인 클러스터와 청주 패키징 공장 등 반도체 인프라 투자 실탄을 확보했습니다. 한편, 미국 나스닥 바이오 지수의 사상 최고치 랠리에도 불구하고 국내 바이오 업종은 장기 바닥권에 머물러 있어 진입 전 추세 전환 확인이 필요합니다. 원·달러 환율이 1,540원대까지 급등했으나 대기 수급 요인에 따른 일시적 현상으로 분석됩니다.",
-      "key_claims": [
-        "SK하이닉스의 ADR 나스닥 상장과 유상증자(45.5조 원)는 단기 주주가치 희석 우려보다 장기 설비 투자 재원 확보 및 미국 시장 재평가(Re-rating)라는 호재 성격이 더 짙다.",
-        "국내 바이오 주식(리가켐바이오 등)은 낙폭과대에 따른 일시적 반등에 추격 매수하기보다 전고점을 확실히 뚫고 안착하는 추세적 흐름을 확인하고 진입해야 안전하다.",
-        "최근의 고환율(1,540원선)은 한국인들의 스페이스X 투자 자금 환전(3조 원 규모) 및 해외 기관 리밸런싱 수급 요인이 겹친 단기 과열 양상이다."
-      ],
-      "data_points": [
-        "SK하이닉스 ADR 나스닥 상장 확정일: 7월 10일 (7월 9일 가격 결정)",
-        "SK하이닉스 ADR 발행 규모: 45조 4,355억 원 (신주 1,779만 주)",
-        "SK하이닉스 예상 발행가액: 2,555,000 원",
-        "국내 투자자 최근 3일간 스페이스X 투자 환전 규모: 약 3조 원",
-        "원·달러 환율: 장중 1,547~1,549원대 터치",
-        "KOSPI 및 KOSDAQ 종가: KOSPI 3.3% 상승(8,471), KOSDAQ 3.26% 상승"
-      ],
-      "signal": "bullish",
-      "signal_confidence": "medium",
-      "signal_reason": "SK하이닉스의 글로벌 상장 본격화와 대규모 인프라 투자 확정은 국내 반도체 기업들의 밸류에이션 매력을 높이고, 고환율 장기화가 단기적으로 수출 대기업들의 환차익 어닝 서프라이즈로 연결될 수 있기 때문입니다.",
-      "key_companies": ["SK하이닉스(000660)", "리가켐바이오(141080)"],
-      "insight": "주식시장의 수급 구조가 글로벌 차원에서 재편되고 있습니다. SK하이닉스의 ADR 상장은 마이크론과 TSMC 등 글로벌 반도체 기업들과의 직접적인 비교 평가(Peer Valuation)를 가능하게 해 코리아 디스카운트 해소에 기여할 것입니다. 또한 국내 가계 자금이 <span class=\"text-cyan-300 font-semibold\">스페이스X</span> 등 미국 비상장/테크 자산으로 직접 환전 및 유출되는 흐름은 원화 약세의 하방 지지 요인이 됨과 동시에, 국내 서민 물가에는 부담으로 작용하는 양날의 검입니다.",
-      "action_point": "ADR 상장 이후 수급 유입 및 자사주 매입 소각 등 주주환원 정책 구체화를 모니터링하며 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span> 비중을 안정적으로 유지하되, 바이오 업종은 확실한 전고점 돌파(리가켐바이오 16만 5천원선 안착) 이후 추가 매수 타이밍을 조율해야 합니다."
-    }
-  },
-  "ICoVvcF3ODs": {
-    "primary_topic": "stock",
-    "secondary_topics": ["economy", "tech"],
-    "tags": ["SK하이닉스ADR", "반도체독주", "미국지수규제", "고환율", "수급분석"],
-    "analysis": {
-      "summary": "국내 증시는 <span class=\"text-cyan-300 font-semibold\">마이크론</span>의 호실적 호재로 반도체 중심의 강한 쏠림이 지속되는 반면, 코스닥 및 기타 소외 업종은 하루 단위 급등락만 거듭하며 연속성 없는 양상을 보여주고 있습니다. SK하이닉스의 45.5조 원 유상증자 기반 미국 ADR 상장은 글로벌 기관들의 매수 패시브 자금 유치 및 밸류에이션 리레이팅 관점에서 호재로 평가됩니다. 한편 미국 금융당국이 단일 종목 지수 비중을 제한하는 <span class=\"text-rose-400 font-medium\">소수 집중형 지수 규제</span>를 강화하면서 거대 빅테크 선물 거래 제약이라는 새로운 리스크가 제기되었습니다.",
-      "key_claims": [
-        "KOSPI는 연간 플러스 성장인 반면 KOSDAQ은 연간 마이너스로 주도주(반도체)와 주변주의 극단적인 양극화가 이어지고 있다.",
-        "비반도체 섹터(바이오, 조선, 방산 등) 보유 투자자들은 막연히 싸다고 물타기를 하기보다, 해당 섹터 내 1등 대장주로 자금을 압축하여 교체 매매를 진행하는 것이 생존률을 높인다.",
-        "미국의 단일 종목 지수 비중 30% 제한 규정(소수 집중형 지수)은 시총 비중이 비대해진 엔비디아나 마이크로소프트의 선물 파생상품 거래를 강제로 정지시킬 수 있는 잠재적 리스크다."
-      ],
-      "data_points": [
-        "KOSDAQ YTD 상승률: 어제 2% 상승했음에도 연간 기준 -1% (KOSPI는 연간 플러스 지속)",
-        "SK하이닉스 시간외 주가 상승률: ADR 상장 발표 후 약 5% 급등",
-        "미국 소수 집중형 지수 규제 기준: 단일 종목 비중 30% 초과, 혹은 상위 5개 종목 합산 비중 60% 초과 시 지수 파생상품 거래 제한"
-      ],
-      "signal": "neutral",
-      "signal_confidence": "high",
-      "signal_reason": "마이크론 실적과 하이닉스 ADR 등 반도체 펀더멘탈은 견고하나, 지수 쏠림 심화로 타 섹터의 수급 고갈이 심각하며 미국 빅테크의 지수 비중 한계 규제 및 레버리지 리밸런싱 변동성이 하반기 지수 상단을 짓누를 우려가 있기 때문입니다.",
-      "key_companies": ["SK하이닉스(000660)", "삼성전자(005930)"],
-      "insight": "반도체 독주 장세의 이면에는 철저한 수급 눈치보기가 존재합니다. 반도체가 랠리를 보일 때 타 섹터의 상승 연속성이 단절되는 현상은 시장 전반의 거래 대금 부족과 특정 빅테크로의 매수 쏠림 현상을 방증합니다. 특히 미국 테크 기업들의 급성장으로 지수 내 단일 비중이 규제선에 근접했다는 소식은 향후 패시브 ETF 및 선물 파생 상품의 수급 단절을 야기할 수 있어 각별한 대비가 필요합니다.",
-      "action_point": "반도체 주도주 편입 기조를 유지하되, 주변 섹터(조선, 바이오)의 경우 반드시 2·3등주를 정리하고 1등 대장주로 압축 배정하는 <span class=\"text-amber-300 font-bold\">포트폴리오 재배치</span>를 단행해야 합니다."
-    }
-  },
-  "JifZJZWWlPk": {
-    "primary_topic": "stock",
-    "secondary_topics": ["tech"],
-    "tags": ["마이크론마진", "HBM가격협상", "삼성전자", "SK하이닉스", "소부장"],
-    "analysis": {
-      "summary": "<span class=\"text-cyan-300 font-semibold\">마이크론</span>의 총 마진이 에르메스나 샤넬 등 명품 브랜드를 능가하는 84.9%를 기록하며 시장을 놀라게 했습니다. 이는 연말과 내년에 예정된 <span class=\"text-amber-300 font-bold\">HBM 공급 가격 재협상</span>에서 삼성전자와 SK하이닉스 역시 높은 단가와 이익률을 쟁취할 수 있다는 강력한 힌트입니다. 용산 WM센터 랩(Wrap) 포트폴리오는 시장 대비 50~60%의 초과 수익률을 기록하고 있으며, 여전히 반도체 소부장 전공정 및 패키징 기업에 주목하고 있습니다.",
-      "key_claims": [
-        "마이크론의 총 마진 84.9%는 HBM을 비롯한 AI 전용 D램의 독점적 지위를 입증하며, 국내 반도체 투톱의 7월 실적 발표 기대감을 대폭 끌어올린다.",
-        "현재 HBM 공급 가격은 작년에 협상된 단가 기준이므로, 향후 가격 재협상이 본격 반영되는 연말 및 내년에 실적 퀀텀 점프가 일어날 것이다.",
-        "삼성전자는 비교적 저평가 매력이 크고, SK하이닉스는 강력한 HBM 모멘텀과 ADR 상장 수혜를 입어 투자자 성향에 따라 선택할 수 있는 닉전/전닉 장세이다."
-      ],
-      "data_points": [
-        "마이크론 Q3 마진율: 84.9% 기록 (시장 기대치 대폭 상회)",
-        "용산 WM센터 Wrap 포트폴리오 성과: 코스피 BM 대비 50~60% 상회",
-        "HBM 가격 인상폭: 기존 D램 대비 약 4배 수준 형성"
-      ],
-      "signal": "bullish",
-      "signal_confidence": "high",
-      "signal_reason": "마이크론의 기록적인 마진율은 AI 하드웨어 수요자가 가격 결정권을 칩 생산자에게 양보하고 있음을 보여주는 가장 명백한 증거이며, 가격 재협상 사이클 진입으로 삼성전자와 SK하이닉스의 마진 확대가 보장되어 있기 때문입니다.",
-      "key_companies": ["마이크론(MU)", "SK하이닉스(000660)", "삼성전자(005930)"],
-      "insight": "메모리 제조사가 명품 패션 하우스급의 이익률을 내는 기이한 장세가 지속되고 있습니다. 이는 AI 가속기 시장의 핵심 부품인 HBM의 희소성과 가치를 증명합니다. 삼성전자가 HBM4 규격으로 빠른 선회를 꾀하고 SK하이닉스가 HBM3E 및 ADR 상장을 바탕으로 추가 수급을 흡수하는 가운데, 대기 자금은 여전히 국내 반도체 대장주의 실적 확대에 가중치를 두고 있습니다.",
-      "action_point": "단기 유상증자 공시에 따른 노이즈에 흔들리지 말고 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>와 <span class=\"text-cyan-300 font-semibold\">삼성전자</span> 투톱 비중을 든든히 유지하고, 낙폭이 과대했던 코스닥 <span class=\"text-cyan-300 font-semibold\">반도체 소부장 전공정 및 부품주</span>를 선별 매수하는 포지션이 유효합니다."
-    }
-  },
-  "Rb4PDaiE_kY": {
-    "primary_topic": "tech",
-    "secondary_topics": ["economy"],
-    "tags": ["중국AI", "과창판", "바이트댄스", "딥시크", "국산GPU"],
-    "analysis": {
-      "summary": "중국 인공지능(AI) 산업은 미국의 대중국 제재 속에서 **자본 유치, 국산 GPU 도입, 인프라 투자**를 하나로 연결하는 독자적인 중국식 선순환 생태계를 성공적으로 구축하고 있습니다. 상하이 루자주의 경제 포럼에서 증감회 주석은 첨단 기술 기업을 지원하기 위해 과창판 상장 특례를 확대하겠다고 발표했습니다. 틱톡의 모기업인 <span class=\"text-cyan-300 font-semibold\">바이트댄스</span>는 자체 탑바우 서비스를 위해 2선 국산 GPU 도입을 확대하고 있으며, 대표 AI 스타트업 <span class=\"text-cyan-300 font-semibold\">딥시크(DeepSeek)</span>는 국가 및 빅테크 자본을 대규모로 조달했습니다.",
-      "key_claims": [
-        "중국 자본 시장(증감회 우칭 주석)은 AI, 바이오 등 첨단 기업의 원활한 상장과 자금 조달을 위해 과창판(Star Market) 상장 요건을 파격적으로 완화하고 국가 자본을 투입하고 있다.",
-        "바이트댄스는 화웨이, 캠브리콘 외에 2선 GPU 기업인 '일루바타 코어엑스'의 칩 5만 개 이상을 수입/검증하기 시작하여 AI 인프라 국산화 생태계를 2선 기업까지 다변화하고 있다.",
-        "스타트업 딥시크는 단순 재무적 투자가 아닌 텐센트, CATL, 국가 AI 펀드 등 전방위 국가대표 동맹을 구축하여 인재 유치와 자체 국산 데이터센터 인프라 확장을 도모한다."
-      ],
-      "data_points": [
-        "바이트댄스 중국 AI 비서 서비스: 탑바우 (중국 내 수개월째 AI 앱 점유율 1위)",
-        "바이트댄스의 일루바타 칩 신규 구매 예정 수량: 최소 5만 개",
-        "딥시크 신규 외부 자금 조달 규모: 약 500억 위안",
-        "중국 빅테크의 AI 설비투자(CAPEX) 성장률 전망: 2026년 기준 전년비 25% 이상 증가"
-      ],
-      "signal": "bullish",
-      "signal_confidence": "medium",
-      "signal_reason": "미국 제제 우회를 넘어 중국 내부에서 자체 반도체 설계, 제조, 파생 서비스(LLM)에 이르는 강력한 수직 계열화 생태계가 구축되고 있으며, 중국 자본시장 정책 지원과 대형 펀드가 이를 강하게 뒷받침하고 있기 때문입니다.",
-      "key_companies": ["바이트댄스", "화웨이", "텐센트", "CATL"],
-      "insight": "중국은 AI 반도체 공급 차단이라는 외풍을 맞으며 오히려 국산 칩 제조 역량을 한 차원 끌어올리고 있습니다. 바이트댄스가 2선 GPU 브랜드의 대량 매수를 시작한 것은 중국 내부 AI 가속기 생태계의 다양화와 기술 신뢰도가 검증되고 있음을 시사합니다. 또한 <span class=\"text-cyan-300 font-semibold\">딥시크</span>가 CATL(전력 공급)과 텐센트(응용 서비스)를 우군으로 확보하고 네몽골에 대형 자체 데이터센터를 설립하려는 시도는 국가 전략 차원의 AI 주권 확보 움직임으로 읽어야 합니다.",
-      "action_point": "글로벌 자산 배분 관점에서 코리아 디스카운트 및 미·중 제재 리스크를 분산하기 위해, 중국 과창판 기술주 지수를 추종하는 <span class=\"text-cyan-300 font-semibold\">국내외 ETF 상품</span>에 일부 자산을 나누어 배정하는 긴 안목의 전략이 유효합니다."
-    }
-  },
-  "S86P-vnX_Xg": {
-    "primary_topic": "tech",
-    "secondary_topics": ["stock"],
-    "tags": ["HBF", "낸드플래시", "샌디스크특허", "SK하이닉스AIN", "엔비디아CMX"],
-    "analysis": {
-      "summary": "AI 가속기 메모리의 절대 강자인 HBM의 자리를 위협할 차세대 메모리 기술로 낸드 플래시 기반의 **HBF(High Bandwidth Flash)**가 부상하고 있습니다. 샌디스크와 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>는 비휘발성 특성으로 리프레시 전력 소모를 획기적으로 줄일 수 있는 HBF 표준화를 추진 중이며, OCP(Open Compute Project)를 통해 빠른 시장 안착을 노리고 있습니다. 반면, 엔비디아는 HBM과 낸드를 패키징으로 직접 묶기보다 고속 네트워크로 연동되는 <span class=\"text-cyan-300 font-semibold\">CMX(Context Memory Storage)</span> 아키텍처를 제시해 다른 해법을 모색하고 있습니다.",
-      "key_claims": [
-        "HBF는 비휘발성인 낸드 플래시의 장점을 활용해, 데이터를 유지하기 위해 끊임없이 전력을 소모해야 하는 디램 기반 HBM의 치명적인 전력 및 발열 문제를 극복하고자 한다.",
-        "낸드는 본질적으로 디램보다 속도가 느리지만, 수많은 채널과 다이, 플레인을 로직 다이로 묶는 극단적인 병렬화 구조를 적용해 초당 테라바이트(TB/s) 단위 대역폭을 확보한다.",
-        "엔비디아는 GPU 패키지의 온도/수명 부하를 덜기 위해, 스펙트럼X 고속 네트워크를 통해 외부에 전용 스토리지를 두고 여러 GPU가 캐시(KV캐시)를 분할 공유하는 CMX 계층을 도입했다."
-      ],
-      "data_points": [
-        "1세대 HBF 목표 스펙: 낸드 다이 16개 적층, 용량 512GB, 읽기 대역폭 1.6TB/s (2026 하반기 샘플, 2027 초 시스템 상용화 목표)",
-        "HBF 로드맵 전망: 2세대 2TB/s, 3세대는 3.2TB/s 대역폭 및 스택당 최대 1.5TB 용량 목표",
-        "TLC를 SLC 모드(pSLC)로 전환 시: 용량이 1/3로 줄어드는 대신, 셀 작동 속도와 내구성(PE cycle) 및 데이터 보존력 극대화"
-      ],
-      "signal": "bullish",
-      "signal_confidence": "medium",
-      "signal_reason": "AI 연산 모델 확장에 따른 HBM의 물리적/비용적 탑재 한계를 극복하기 위해, 차세대 낸드 기반 고대역폭 솔루션 표준화가 시작되었으며 이는 메모리 3사의 새로운 부가가치 성장 동력(NAND 리레이팅)이 될 수 있기 때문입니다.",
-      "key_companies": ["SK하이닉스(000660)", "샌디스크", "엔비디아(NVDA)", "삼성전자(005930)"],
-      "insight": "HBM의 높은 가격 and 대기 전력 소모(리프레시)는 모바일 에이전트와 추론 중심 AI 서버 양산의 커다란 발림돌입니다. 샌디스크가 낸드 플래시의 오류와 인디어런스(쓰기 내구성) 한계를 극복하기 위해 pSLC 제어 및 오류정정(LDPC) 기능을 탑재한 HBF 특허를 내놓은 것은 메모리 적층의 새로운 패러다임을 뜻합니다. 다만 <span class=\"text-cyan-300 font-semibold\">엔비디아</span>는 이와 상반되는 CMX 네트워크 기반 공유 스토리지를 밀고 있어, 향후 온보드 가중치용 HBF와 원격 KV캐시용 CMX가 어떻게 상호 보완하며 AI 인프라를 지배할지 주목할 만합니다.",
-      "action_point": "HBF 기술 표준을 OCP에서 먼저 추진하고 샌디스크와 협력 중인 <span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>의 차세대 메모리 선점 효과를 주시하면서, 낸드 적층 수혜 기업 및 8월 OCP 코리아 테크데이의 규격 확정 동향을 예의주시해야 합니다."
-    }
-  }
 }
 
-for vid, data in batch_2.items():
-    save_and_delete(vid, data["primary_topic"], data["secondary_topics"], data["tags"], data["analysis"])
-print("Batch 2 completed!")
+for vid, item in batch2_data.items():
+    primary = item["primary"]
+    out_dir = Path(f"data/analyzed/{primary}")
+    out_dir.mkdir(parents=True, exist_ok=True)
+    out_file = out_dir / f"{vid}.json"
+    with open(out_file, "w", encoding="utf-8") as fp:
+        json.dump(item["data"], fp, ensure_ascii=False, indent=2)
+    
+    pending_file = Path(f"data/pending/{vid}.json")
+    if pending_file.exists():
+        pending_file.unlink()
+    print(f"[Batch 2 완료] {vid} -> data/analyzed/{primary}/{vid}.json")
