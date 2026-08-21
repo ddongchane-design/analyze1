@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "AiCbrCEYyOw",
+    "title": "집에 핀 곰팡이, 그냥 닦으면 끝일까?",
+    "published": "2026-08-20T11:00:23+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=AiCbrCEYyOw",
+    "thumbnail": "https://img.youtube.com/vi/AiCbrCEYyOw/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "주거 공간에 번식하는 곰팡이는 단순 표면 오염이 아니라 균사체를 통해 벽체 깊숙이 침투하고 공기 중에 <span class=\"text-rose-400 font-medium\">유해 포자</span>를 방출하는 진균류임.\n물걸레나 일반 세제로만 닦아내면 포자가 비산되어 호흡기 질환과 알레르기를 유발하고 번식을 촉진할 위험이 큼.\n차아염소산나트륨(락스) 등 산화제를 이용해 단백질 세포벽을 파괴하고 실내 습도를 50% 이하로 제어하는 것이 근본적 예방법임.",
+    "key_claims": [
+      "눈에 보이는 곰팡이 표면만 닦아내는 것은 균사체 뿌리를 남겨두어 재발을 초래함.",
+      "공기 중으로 퍼지는 진균 포자는 천식 및 비염 등 만성 호흡기 질환의 주요 원인 물질임.",
+      "적정 실내 습도(40~50%) 유지와 환기 및 화학적 살균 소독이 결합되어야 완전 박멸이 가능함."
+    ],
+    "data_points": [
+      "곰팡이 최적 번식 환경: 상대습도 70% 이상, 온도 20~30℃",
+      "진균 포자 크기: 2~10마이크로미터로 폐포 깊숙이 침투 가능"
+    ],
+    "signal": "neutral",
+    "signal_reason": "생활 과학 지식 및 주거 위생 관리 정보로 금융 시장 시그널과는 중립적임.",
+    "key_companies": [
+      "유한양행(000100)",
+      "LG생활건강(051900)"
+    ],
+    "insight": "주거 및 산업 시설 내 미생물 관리는 단순 청결을 넘어 <span class=\"text-cyan-300 font-semibold\">공조 시스템(HVAC) 및 실내 공기질 관리 산업</span>의 기술적 고도화와 직결됩니다.",
+    "action_point": "가정 내 곰팡이 발생 시 즉각적인 락스 희석액 살균 및 제습기 가동을 권장합니다."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "생활과학",
+      "곰팡이제거",
+      "실내위생",
+      "포자",
+      "안될과학"
+    ]
+  }
+}

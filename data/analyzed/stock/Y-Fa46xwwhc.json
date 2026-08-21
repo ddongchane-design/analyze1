@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "Y-Fa46xwwhc",
+    "title": "버핏이 2분기에 구글 비중을 3위까지 끌어올렸습니다…빅테크가 돈을 허투루 쓰는 게 아니라고 본 이유 [구루 8월호 - 13F]",
+    "published": "2026-08-20T09:00:23+00:00",
+    "channel_name": "이효석아카데미",
+    "url": "https://www.youtube.com/watch?v=Y-Fa46xwwhc",
+    "thumbnail": "https://img.youtube.com/vi/Y-Fa46xwwhc/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "워런 버핏의 버크셔 해서웨이가 2분기 13F 공시에서 애플 비중을 축소하고 <span class=\"text-cyan-300 font-semibold\">알파벳(구글)</span>을 포트폴리오 3위로 대폭 매수하며 시장의 이목을 집중시킴.\n버핏은 시장 일각의 AI CapEx 낭비론과 달리, 구글의 독점적 검색 경제적 해자와 자체 TPU 칩을 통한 압도적 자본 효율성을 높이 평가함.\n빅테크의 천문학적 투자가 허상이 아니라 지속 가능한 미래 현금흐름으로 환원될 수 있다는 거장의 강력한 확신을 보여줌.",
+    "key_claims": [
+      "버핏의 구글 편입은 AI 전환기 속에서도 구글의 검색 및 유튜브 플랫폼 독점력이 굳건함을 입증함.",
+      "자체 AI 가속기(TPU) 설계 능력을 갖춘 구글은 엔비디아 의존도를 낮추고 CapEx 비용 효율성을 극대화함.",
+      "합리적인 밸류에이션(PER 20배 초반)과 막대한 잉여현금흐름(FCF)이 가치투자 관점에서 완벽한 안전마진을 제공함."
+    ],
+    "data_points": [
+      "버크셔 해서웨이 포트폴리오 내 구글 비중: 신규 대량 매수로 단숨에 상위 3위권 진입",
+      "알파벳 연간 잉여현금흐름(FCF): 수백억 달러 규모로 자체 CapEx 완벽 감당"
+    ],
+    "signal": "bullish",
+    "signal_reason": "워런 버핏의 대규모 매수를 통해 구글의 AI 수익성 및 독점적 해자가 재검증되며 기술주 전반의 펀더멘털 신뢰도가 상승했기 때문임.",
+    "key_companies": [
+      "알파벳(GOOGL)",
+      "버크셔해서웨이(BRK.A)",
+      "애플(AAPL)",
+      "엔비디아(NVDA)"
+    ],
+    "insight": "AI 버블 논란 속에서 <span class=\"text-amber-300 font-bold\">현금 창출력과 플랫폼 독점력, 자체 칩 경쟁력</span>을 겸비한 기업은 거품이 아닌 진정한 복리 성장의 기회를 제공합니다.",
+    "action_point": "AI 거품론으로 주가가 눌려있는 알파벳(구글)을 빅테크 포트폴리오의 최우선 핵심 축으로 편입하거나 비중을 확대하십시오."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "워런버핏",
+      "구글매수",
+      "13F",
+      "알파벳",
+      "AI수익성",
+      "이효석"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "DH8bi4Hww4c",
+    "title": "주4일 근무 때문에 망한 나라",
+    "published": "2026-08-20T08:00:23+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=DH8bi4Hww4c",
+    "thumbnail": "https://img.youtube.com/vi/DH8bi4Hww4c/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "충분한 생산성 혁신 없이 성급하게 추진된 <span class=\"text-rose-400 font-medium\">주4일 근무제</span>가 노동비용 급증과 기업 경쟁력 악화를 초래한 국가들의 실패 사례를 분석함.\n서비스업과 제조업 등 물리적 노동 시간이 생산량과 직결되는 산업군에서 급격한 인건비 상승과 공급 병목이 발생함.\n성공적인 노동 시간 단축을 위해서는 자동화와 AI를 통한 실질 생산성 향상이 반드시 선행되어야 함.",
+    "key_claims": [
+      "생산성 향상 없는 근로시간 단축은 국가 제조업 기반 약화와 물가 상승(임금-물가 나선)을 유발함.",
+      "노동 집약적 산업과 지식 기반 산업 간의 양극화가 심화되는 부작용이 나타남.",
+      "AI 및 로봇 공학을 통한 단위 노동 생산성 도약이 노동 개혁의 전제조건임."
+    ],
+    "data_points": [
+      "주4일제 도입 실패 국가 사례: 단위당 노동생산성 -10~15% 하락 및 인건비 부담 증가",
+      "OECD 평균 노동시간 및 생산성 격차 비교 지표"
+    ],
+    "signal": "neutral",
+    "signal_reason": "거시 노동 정책 및 생산성 담론에 대한 비판적 분석으로 시장 전반에 미치는 영향은 중립적임.",
+    "key_companies": [
+      "현대자동차(005380)",
+      "포스코홀딩스(005490)"
+    ],
+    "insight": "근로시간 단축 논의는 <span class=\"text-cyan-300 font-semibold\">공장 자동화 및 로보틱스 도입</span>을 필연적으로 가속화시키는 정책적 트리거로 작용합니다.",
+    "action_point": "인건비 상승 압력을 피하고 스마트 팩토리 및 공정 자동화 설루션을 공급하는 로봇/소프트웨어 기업에 관심을 가질 필요가 있습니다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "etc"
+    ],
+    "tags": [
+      "주4일제",
+      "노동생산성",
+      "인건비",
+      "스마트팩토리",
+      "경제구조"
+    ]
+  }
+}

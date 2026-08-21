@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "rxGEljX3kvA",
+    "title": "트럼프가 직접 밀었다…코인판 분위기 바뀌나 | 서동주, 김동환, 박현영 뉴스1 기자 [크립토 PLUS]",
+    "published": "2026-08-20T09:00:23+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=rxGEljX3kvA",
+    "thumbnail": "https://img.youtube.com/vi/rxGEljX3kvA/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "트럼프의 강력한 친(親) 크립토 정책 추진과 <span class=\"text-cyan-300 font-semibold\">미국 전략적 비트코인 비축 법안</span> 논의로 가상자산 시장의 규제 불확실성이 극적으로 해소되고 있음.\nSEC의 적대적 규제 기조가 친기업적 가이드라인으로 전환되면서 기관 투자자의 자금 유입 속도가 가속화됨.\n비트코인의 7만 달러 돌파와 함께 스테이블코인 및 디파이(DeFi) 인프라가 제도권 금융으로 전면 통합되는 국면임.",
+    "key_claims": [
+      "미국 정부 차원의 전략적 비트코인 비축 법안 발의는 비트코인을 국가 전략 자산의 지위로 격상시킴.",
+      "SEC 위원장 교체 및 규제 완화는 암호화폐 생태계의 합법적 비즈니스 확장을 촉진함.",
+      "전통 금융 기관(월가)의 가상자산 수탁, ETF, 결제 상품 출시가 봇물을 이룰 것임."
+    ],
+    "data_points": [
+      "비트코인 시세: 규제 완화 기대감으로 71,000달러 돌파",
+      "비트코인 현물 ETF 누적 순유입액: 수백억 달러 규모로 기관 매수 지속"
+    ],
+    "signal": "bullish",
+    "signal_reason": "미국 대선 및 행정부의 규제 완화 기조와 국가 전략 자산화 추진으로 가상자산 시장 전반의 장기 상승 동력이 강력하기 때문임.",
+    "key_companies": [
+      "비트코인(BTC)",
+      "이더리움(ETH)",
+      "코인베이스(COIN)",
+      "마이크로스트래티지(MSTR)"
+    ],
+    "insight": "가상자산은 이제 금융 변방의 투기 대상이 아니라 <span class=\"text-amber-300 font-bold\">지정학적 패권 경쟁과 국가 재정 전략의 핵심 자산</span>으로 재평가받고 있습니다.",
+    "action_point": "정책적 수혜가 집중되는 비트코인 및 현물 ETF 편입을 유지하고, 제도권 결제망과 연동되는 메이저 인프라 코인 위주로 포지션을 구축하십시오."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "economy",
+      "stock"
+    ],
+    "tags": [
+      "트럼프코인",
+      "비트코인비축",
+      "규제완화",
+      "크립토PLUS",
+      "SEC",
+      "삼프로TV"
+    ]
+  }
+}

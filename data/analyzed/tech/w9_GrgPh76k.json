@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "w9_GrgPh76k",
+    "title": "GPU는 왜 AI 시대의 왕이 됐을까? 소프트웨어는 칩을 타고 흐른다 | CPU·GPU·CUDA 권력 이동 [패치의 칩문학 시즌1 - 1편]",
+    "published": "2026-08-20T09:00:23+00:00",
+    "channel_name": "안될공학 - IT 테크 신기술",
+    "url": "https://www.youtube.com/watch?v=w9_GrgPh76k",
+    "thumbnail": "https://img.youtube.com/vi/w9_GrgPh76k/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "순차 직렬 처리에 특화된 CPU에서 수만 개의 코어로 동시 병렬 연산을 수행하는 <span class=\"text-cyan-300 font-semibold\">GPU로의 패러다임 시프트</span>가 AI 혁명의 근본 동력임.\n엔비디아가 20년간 구축한 독점 소프트웨어 플랫폼 <span class=\"text-cyan-300 font-semibold\">쿠다(CUDA)</span>가 경쟁사(AMD, 인텔 등)의 추격을 불허하는 강력한 경제적 해자를 형성함.\n소프트웨어 라이브러리와 하드웨어 가속기가 일체화된 생태계 독점이 엔비디아를 AI 시대의 절대 권력자로 만듦.",
+    "key_claims": [
+      "딥러닝 행렬 곱셈 연산에는 직렬 연산의 CPU보다 대규모 병렬 구조를 지닌 GPU가 최적화됨.",
+      "CUDA 생태계는 전 세계 수백만 AI 개발자들의 표준 플랫폼으로 자리잡아 전환 비용(Switching Cost)을 극대화함.",
+      "차세대 AI 칩 경쟁은 단순 하드웨어 스펙을 넘어 칩을 구동하는 소프트웨어 풀스택 역량이 승패를 가름."
+    ],
+    "data_points": [
+      "엔비디아 글로벌 AI 가속기 시장 점유율: 80~90% 수준의 압도적 독점",
+      "CUDA 누적 다운로드 및 개발자 수: 글로벌 수천만 건 돌파"
+    ],
+    "signal": "bullish",
+    "signal_reason": "하드웨어와 CUDA 소프트웨어 풀스택의 압도적 기술 해자로 엔비디아 및 핵심 메모리 파트너의 독점적 초과이익이 지속되기 때문임.",
+    "key_companies": [
+      "엔비디아(NVDA)",
+      "SK하이닉스(000660)",
+      "TSMC(TSM)",
+      "인텔(INTC)",
+      "AMD(AMD)"
+    ],
+    "insight": "반도체의 권력은 칩 자체의 실리콘이 아니라 <span class=\"text-amber-300 font-bold\">그 칩 위에서 작동하는 소프트웨어 생태계(CUDA)</span>를 지배하는 자에게 귀속됩니다.",
+    "action_point": "엔비디아 중심의 AI 생태계 주도권이 확고하므로, 엔비디아 및 필수 파트너인 HBM 제조사(SK하이닉스)를 AI 하드웨어의 최우선 종목으로 유지하십시오."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "GPU",
+      "CUDA",
+      "엔비디아",
+      "CPU권력이동",
+      "안될공학",
+      "패치의칩문학"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "T0BYabjUvKw",
+    "title": "중국 AI 산업 중간 성적표 점검ㅣ보이는 차이나ㅣ2026.8.20 (목)",
+    "published": "2026-08-20T09:00:23+00:00",
+    "channel_name": "Smart Money by MiraeAsset",
+    "url": "https://www.youtube.com/watch?v=T0BYabjUvKw",
+    "thumbnail": "https://img.youtube.com/vi/T0BYabjUvKw/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국의 첨단 AI 반도체 수출 통제 속에서 중국 빅테크들이 <span class=\"text-cyan-300 font-semibold\">오픈소스 LLM과 자체 칩 최적화</span>를 통해 독자적 AI 생태계를 구축하고 있음.\n바이두, 알리바바, 텐센트는 엔터프라이즈 클라우드와 가격 인하 경쟁을 통해 산업별 AI 도입 속도를 가속화함.\n그러나 최첨단 고성능 GPU 부족에 따른 학습 속도 한계와 기업용 수익화 모델 증명은 여전히 풀어야 할 난제임.",
+    "key_claims": [
+      "미국의 강력한 제재에도 불구하고 중국의 오픈소스 AI 모델(DeepSeek, Qwen 등) 경쟁력은 빠르게 향상됨.",
+      "중국 정부의 전폭적인 디지털 인프라 지원과 데이터 축적량이 기술적 격차를 좁히는 원동력임.",
+      "하드웨어 공급 병목으로 인해 장기적으로는 추론 특화 칩 및 경량화 모델에 집중하는 차별화 전략을 전개함."
+    ],
+    "data_points": [
+      "중국 기업용 AI API 가격: 연초 대비 최대 80~90% 인하 경쟁",
+      "중국 내 클라우드 AI 서비스 매출 비중: 주요 빅테크 매출의 15~20% 수준으로 성장"
+    ],
+    "signal": "neutral",
+    "signal_reason": "독자 생태계 확장은 긍정적이나 미국의 지정학적 공급망 제재와 하드웨어 제약으로 글로벌 시장 침투력은 제한적이기 때문임.",
+    "key_companies": [
+      "알리바바(BABA)",
+      "바이두(BIDU)",
+      "텐센트(0700.HK)",
+      "화웨이(비상장)"
+    ],
+    "insight": "중국 AI 시장은 미국과의 정면 성능 대결보다는 <span class=\"text-violet-300 font-medium\">초저가 경량화 모델과 거대 내수 산업 적용</span>을 통한 실용성 극대화 노선으로 진화하고 있습니다.",
+    "action_point": "중국 빅테크 투자 시 미국 규제 노출도가 낮은 클라우드 인프라 및 자체 수익화 기반을 갖춘 선도 기업으로 선별 접근하십시오."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "중국AI",
+      "알리바바",
+      "바이두",
+      "보이는차이나",
+      "AI반도체규제"
+    ]
+  }
+}

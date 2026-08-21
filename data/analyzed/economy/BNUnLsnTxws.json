@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "BNUnLsnTxws",
+    "title": "10년 상승장이 유독 예뻤던 이유는 따로 있었습니다…그 돈이 AI 공사판으로 옮겨가며 금리가 튀었습니다 [구루 8월호 - 레이시 헌트]",
+    "published": "2026-08-20T09:00:23+00:00",
+    "channel_name": "이효석아카데미",
+    "url": "https://www.youtube.com/watch?v=BNUnLsnTxws",
+    "thumbnail": "https://img.youtube.com/vi/BNUnLsnTxws/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "지난 10년간 저금리 유동성이 금융 자산에만 머물며 자산 가격을 밀어올렸으나, 현재는 막대한 자본이 <span class=\"text-cyan-300 font-semibold\">AI 데이터센터 및 전력망 '실물 공사판'</span>으로 투입되고 있음.\n실물 투자로의 자금 이동은 대규모 자본 수요를 유발하여 구조적인 장기 금리 상승(채권 가격 하락)을 촉발함.\n거시 구루 레이시 헌트의 분석에 따르면, 정부 부채 증가와 실물 투자 붐이 결합되어 전통적인 통화정책의 효과를 제약하고 있음.",
+    "key_claims": [
+      "자산 가격만 올리던 금융 유동성이 AI 인프라 구축이라는 실물 설비투자(CapEx)로 전환됨.",
+      "실물 자본 수요 폭증이 장기 국채 금리의 상방 압력을 지속적으로 자극함.",
+      "과거 10년의 골디락스 저금리-고밸류에이션 패러다임이 끝나고 자본비용이 높은 고금리 환경에 적응해야 함."
+    ],
+    "data_points": [
+      "글로벌 빅테크 연간 AI 인프라 CapEx 규모: 수천억 달러 규모로 급증",
+      "미국 장기 국채 발행액: 재정적자 및 리파이낸싱으로 사상 최고치 경신 중"
+    ],
+    "signal": "bearish",
+    "signal_reason": "실물 CapEx 폭증에 따른 자본 비용(장기 금리) 상승이 전반적인 자산시장 밸류에이션에 지속적인 하방 압력을 가하기 때문임.",
+    "key_companies": [
+      "마이크로소프트(MSFT)",
+      "아마존(AMZN)",
+      "구글(GOOGL)",
+      "미국 재무부"
+    ],
+    "insight": "자본이 금융 자산 내 회전문에서 벗어나 <span class=\"text-amber-300 font-bold\">실물 인프라로 투입되는 시대</span>에는 무형의 기대감보다 실제 현금 창출력과 자본 효율성을 갖춘 기업만이 살아남습니다.",
+    "action_point": "부채 비율이 높고 자본 조달 비용에 취약한 중소형 성장주를 축소하고, 자체 잉여현금흐름(FCF)으로 CapEx를 감당하는 빅테크 위주로 압축하십시오."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "tech",
+      "stock"
+    ],
+    "tags": [
+      "레이시헌트",
+      "AI공사판",
+      "장기금리",
+      "CapEx",
+      "자본비용",
+      "이효석"
+    ]
+  }
+}

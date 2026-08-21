@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "KXQ_KZg0hFg",
+    "title": "SK하이닉스 13% 급등…바닥은 다졌지만 '추세 상승'을 말하기 이른 이유ㅣ홍선애, 장우진 금시공 대표 [여의도 인사이트]",
+    "published": "2026-08-20T04:27:54+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=KXQ_KZg0hFg",
+    "thumbnail": "https://img.youtube.com/vi/KXQ_KZg0hFg/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "SK하이닉스가 하루 만에 <span class=\"text-cyan-300 font-semibold\">13% 급등</span>하며 단기 바닥권을 강력하게 확인했으나, 추세적 신고가 랠리를 논하기에는 아직 거시적·수급적 허들이 남아있음.\n대규모 자사주 소각 발표는 주가 하단을 단단히 지지하지만, 하반기 빅테크들의 CapEx 지속성과 레거시 D램 가격 추이가 추세 상승의 열쇠임.\n단기 급등 이후 매물대 소화와 20일 이동평균선 안착 과정을 거치는 숨고르기 장세가 전개될 가능성이 큼.",
+    "key_claims": [
+      "13% 급등은 주가 하방 경직성을 확보한 강력한 시그널이지만 직전 고점 매물대 소화가 선행되어야 함.",
+      "HBM의 독점적 지위는 유지되나 레거시 범용 메모리 회복 속도와 빅테크 재고 정책이 2차 랠리의 변수임.",
+      "추격 매수보다는 눌림목 지지선을 확인하며 분할 접근하는 것이 안전한 전략임."
+    ],
+    "data_points": [
+      "SK하이닉스 당일 주가 변동폭: +13.2% 급등 마감",
+      "자사주 소각 및 매입 규모: 수십조 원 단위의 주주가치 제고 패키지"
+    ],
+    "signal": "neutral",
+    "signal_reason": "하방 경직성은 완벽히 확보되었으나 단기 과열에 따른 차익 매물 소화와 매크로 금리 변수가 상존하기 때문임.",
+    "key_companies": [
+      "SK하이닉스(000660)",
+      "삼성전자(005930)",
+      "마이크론(MU)"
+    ],
+    "insight": "주가의 바닥은 주주환원이라는 <span class=\"text-amber-300 font-bold\">자본 정책</span>으로 다져지지만, 진정한 추세 상승은 <span class=\"text-cyan-300 font-semibold\">빅테크의 지속적인 설비투자 주문</span>이 확인될 때 완성됩니다.",
+    "action_point": "13% 급등 당일 무리한 추격 매수는 피하고, 3~5일간 주가가 5일선 및 20일선 위에서 지지되는 눌림목을 활용해 비중을 확대하십시오."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "SK하이닉스",
+      "13프로급등",
+      "바닥확인",
+      "추세상승",
+      "여의도인사이트"
+    ]
+  }
+}

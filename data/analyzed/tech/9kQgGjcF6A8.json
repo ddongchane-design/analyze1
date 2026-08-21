@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "9kQgGjcF6A8",
+    "title": "10년 전엔 헛소리, 지금은 현실?  #테슬라 #일론머스크 #제로사회",
+    "published": "2026-08-20T09:00:23+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=9kQgGjcF6A8",
+    "thumbnail": "https://img.youtube.com/vi/9kQgGjcF6A8/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "10년 전 비현실적이라 치부되던 <span class=\"text-cyan-300 font-semibold\">일론 머스크의 비전</span>(완전 자율주행, 재사용 로켓, 휴머노이드 로봇)이 기술적 임계점을 넘으며 실물 산업을 재편하고 있음.\n제조 혁신과 AI 기술 융합을 통해 한계비용이 제로에 수렴하는 '제로 사회'로의 진입을 가속화하고 있음.\n테슬라의 본질은 단순 전기차 조립사가 아닌 피지컬 AI와 데이터 인프라를 지배하는 독점적 플랫폼 기업임.",
+    "key_claims": [
+      "테슬라의 자율주행(FSD)과 로보택시는 방대한 주행 데이터와 엔드투엔드 AI 모델로 기술 격차를 입증함.",
+      "스페이스X의 스타링크와 스타십은 우주 물류 비용을 획기적으로 낮추며 글로벌 통신망을 독점함.",
+      "옵티머스 휴머노이드 로봇은 제조 현장의 노동비용을 영(0)으로 수렴시키는 차세대 생산성 혁명임."
+    ],
+    "data_points": [
+      "테슬라 FSD 누적 주행 거리: 수십억 마일 돌파",
+      "스페이스X 로켓 재사용 횟수: 회당 발사 비용의 90% 이상 절감 달성"
+    ],
+    "signal": "bullish",
+    "signal_reason": "피지컬 AI 및 자율주행 상용화가 본격 궤도에 오르며 소프트웨어 구독 및 플랫폼 매출 확장성이 가시화되고 있기 때문임.",
+    "key_companies": [
+      "테슬라(TSLA)",
+      "스페이스X(비상장)",
+      "엔비디아(NVDA)"
+    ],
+    "insight": "하드웨어 제조력과 대규모 AI 학습 파이프라인을 동시에 수직 계열화한 기업만이 <span class=\"text-amber-300 font-bold\">피지컬 AI 시대의 초과 수익</span>을 독식하게 될 것입니다.",
+    "action_point": "단기 전기차 인도량 부진 노이즈에 흔들리지 말고, FSD 및 로보택시 규제 승인 일정과 연계하여 테슬라의 장기 비중을 확대하십시오."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "robot",
+      "stock"
+    ],
+    "tags": [
+      "테슬라",
+      "일론머스크",
+      "자율주행",
+      "피지컬AI",
+      "로보택시"
+    ]
+  }
+}

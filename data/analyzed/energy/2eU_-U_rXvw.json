@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "2eU_-U_rXvw",
+    "title": "미국 LNG 수출이 세계 1위로 올라선 이유 (COR에너지인사이트 권효재 대표)",
+    "published": "2026-08-20T09:00:23+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=2eU_-U_rXvw",
+    "thumbnail": "https://img.youtube.com/vi/2eU_-U_rXvw/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국이 셰일가스 붐과 <span class=\"text-cyan-300 font-semibold\">셰니에르 에너지(Cheniere)</span> 등의 액화 터미널 인프라 확장에 힘입어 카타르와 호주를 제치고 세계 1위 LNG 수출국으로 도약함.\n우크라이나 전쟁 이후 유럽이 러시아산 파이프라인 가스(PNG) 의존을 끊고 미국산 LNG를 대거 흡수하면서 지정학적 패권이 강화됨.\n글로벌 AI 데이터센터 전력 수요 급증과 탄소중립 전환기 브릿지 연료로서 천연가스의 장기적 가치가 재평가받고 있음.",
+    "key_claims": [
+      "미국의 풍부한 셰일가스와 자유로운 목적지 변경(FOB 방식) 계약 구조가 글로벌 가스 시장의 판도를 바꿈.",
+      "유럽의 탈러시아 에너지 정책으로 인해 미국산 LNG가 유럽 에너지 안보의 핵심 기둥으로 자리 잡음.",
+      "AI 데이터센터의 기저 전력원으로서 가스 복합화력 발전 수요가 급증하며 LNG 시장의 장기 호황을 뒷받침함."
+    ],
+    "data_points": [
+      "미국 LNG 수출 순위: 카타르·호주를 제치고 글로벌 1위 등극",
+      "유럽의 대미 LNG 수입 비중: 러-우 전쟁 이전 대비 3배 이상 급증",
+      "미국 내 가스 헨리허브(HH) 가격 대비 글로벌 TTF 및 JKM 가스 가격 프리미엄 유지"
+    ],
+    "signal": "bullish",
+    "signal_reason": "지정학적 공급망 재편과 AI 전력 수요 증가로 미국 천연가스 및 LNG 인프라 기업들의 장기 이익 가시성이 매우 높기 때문임.",
+    "key_companies": [
+      "셰니에르에너지(LNG)",
+      "엑손모빌(XOM)",
+      "셰브론(CVX)",
+      "한국가스공사(036460)"
+    ],
+    "insight": "미국산 LNG는 단순한 원자재 수출을 넘어 <span class=\"text-violet-300 font-medium\">지정학적 안보 무기이자 AI 전력난의 현실적 대안</span>으로 자리매김하여 장기적 프리미엄을 누릴 것입니다.",
+    "action_point": "미국 대형 LNG 액화 인프라 운영사 및 천연가스 파이프라인 미드스트림 기업에 대한 중장기 투자 비중 확대를 추천합니다."
+  },
+  "classification": {
+    "primary_topic": "energy",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "미국LNG",
+      "셰니에르",
+      "천연가스",
+      "에너지안보",
+      "셰일혁명"
+    ]
+  }
+}

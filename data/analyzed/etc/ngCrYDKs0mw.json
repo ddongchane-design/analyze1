@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "ngCrYDKs0mw",
+    "title": "은퇴 후 적정 생활비는? | 공강 | #Shorts",
+    "published": "2026-08-20T09:00:15+00:00",
+    "channel_name": "Smart Money by MiraeAsset",
+    "url": "https://www.youtube.com/watch?v=ngCrYDKs0mw",
+    "thumbnail": "https://img.youtube.com/vi/ngCrYDKs0mw/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "은퇴 후 부부 기준 적정 월 생활비는 <span class=\"text-cyan-300 font-semibold\">약 280만~320만 원</span> 수준으로 국민연금 평균 수령액만으로는 상당한 소득 공백(Gap)이 발생함.\n의료비 및 기본 생계비 상승에 대응하기 위해 개인연금, 퇴직연금(IRP), 주택연금의 3층 연금 체계 구축이 필수적임.\n월배당 ETF 및 안정적 인컴형 자산을 통한 현금 파이프라인 조기 구축이 노후 안정의 핵심임.",
+    "key_claims": [
+      "공적연금만으로는 은퇴 후 표준 생활비를 충당하기에 구조적 부족액이 발생함.",
+      "은퇴 전 연금저축 및 IRP를 활용한 세액공제와 절세 복리 효과 극대화가 요구됨.",
+      "시니어 세대의 자산 관리는 원금 보존과 함께 매달 안정적으로 발생하는 배당 현금흐름이 좌우함."
+    ],
+    "data_points": [
+      "은퇴 부부 적정 월 생활비: 280만~320만 원 (최소 생활비 200만 원)",
+      "국민연금 부부 합산 평균 수령액: 약 100만~150만 원 선"
+    ],
+    "signal": "neutral",
+    "signal_reason": "은퇴 설계 및 연금 준비를 다룬 재테크 정보 콘텐츠로 시장 시그널은 중립적임.",
+    "key_companies": [
+      "미래에셋증권(006800)",
+      "삼성화재(000810)"
+    ],
+    "insight": "고령화 사회에서 <span class=\"text-amber-300 font-bold\">지속 가능한 월 배당 현금흐름</span>을 만드는 자산 관리 전략은 선택이 아닌 필수 생존 전략입니다.",
+    "action_point": "퇴직 전 IRP 및 연금저축 계좌를 통해 미국 배당 다우존스 등 월배당 인컴 ETF 비중을 단계적으로 확대하십시오."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "은퇴생활비",
+      "연금설계",
+      "노후준비",
+      "월배당ETF",
+      "IRP"
+    ]
+  }
+}

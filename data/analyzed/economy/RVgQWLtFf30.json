@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "RVgQWLtFf30",
+    "title": "\"금리 올라도 괜찮다\" 하반기 미국증시 방향은 이미 정해졌다? | 문남중 대신증권 리서치센터 수석연구위원 [글로벌 인터뷰]",
+    "published": "2026-08-20T00:54:19+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=RVgQWLtFf30",
+    "thumbnail": "https://img.youtube.com/vi/RVgQWLtFf30/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 장기 금리의 단기 반등과 중간선거 노이즈에도 불구하고 <span class=\"text-cyan-300 font-semibold\">하반기 미국 증시의 우상향 방향성</span>은 굳건하다는 분석임.\n아마존 등 빅테크 실적에서 확인된 클라우드 및 AI 수요 폭증은 AI 과잉투자 논란을 잠재우고 기업 이익 성장을 증명함.\n역사적으로 미국 대통령 집권 3년 차 및 중간선거 직후 증시 상승 확률이 매우 높으며, AI 반도체와 전략 광물, 양자컴퓨터 분야가 주도할 것임.",
+    "key_claims": [
+      "중간선거 관련 증시 조정은 이미 상반기(5~6월)에 상당 부분 선반영되었음.",
+      "빅테크의 CapEx 투자는 시장 선점을 위한 필수 지출이며 클라우드 매출 성장으로 정당화됨.",
+      "트럼프 행정부의 자국 내 공급망 재편 전략에 따라 AI, 양자컴퓨팅, 가상자산이 최대 수혜를 입을 것임."
+    ],
+    "data_points": [
+      "S&P 500 중간선거 해 평균 하락폭: 연초 이후 약 9% 하락 후 연말 반등 통계",
+      "아마존 AWS 등 주요 클라우드 분기 성장률: 가속화 기조 지속"
+    ],
+    "signal": "bullish",
+    "signal_reason": "빅테크 실적 성장세가 AI 거품론을 불식시키고 있으며, 중간선거 이후 정책 불확실성 해소에 따른 연말 랠리 가능성이 높기 때문임.",
+    "key_companies": [
+      "아마존(AMZN)",
+      "엔비디아(NVDA)",
+      "알파벳(GOOGL)",
+      "아이온큐(IONQ)"
+    ],
+    "insight": "단기 금리 변동성으로 인한 출렁임은 소음일 뿐이며, <span class=\"text-amber-300 font-bold\">AI 혁명에 따른 실질 기업 이익 성장</span>이 증시의 우상향 궤적을 이끄는 본질입니다.",
+    "action_point": "9~10월 변동성 구간에서 조급한 매도를 피하고 인내심을 갖고 빅테크 및 AI 반도체 핵심주를 보유하거나 비중을 확대하십시오."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock",
+      "tech"
+    ],
+    "tags": [
+      "미국증시전망",
+      "중간선거",
+      "AI과잉투자논란",
+      "문남중",
+      "빅테크실적"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "s3DHmEdoNNw",
+    "title": "요즘 핫한 재테크 | 공강 | #Shorts",
+    "published": "2026-08-20T09:00:15+00:00",
+    "channel_name": "Smart Money by MiraeAsset",
+    "url": "https://www.youtube.com/watch?v=s3DHmEdoNNw",
+    "thumbnail": "https://img.youtube.com/vi/s3DHmEdoNNw/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "MZ세대 사이에서 유행하는 파킹통장, 공모주 청약, 소수점 주식 투자 및 <span class=\"text-cyan-300 font-semibold\">ISA(개인종합자산관리계좌)</span>를 활용한 실속형 재테크 트렌드를 소개함.\n고금리·고물가 환경에서 잔돈 모으기와 절세 혜택을 극대화하는 '스마트 짠테크'가 대세로 정착함.\n비과세 혜택이 있는 ISA 계좌를 통한 국내 상장 해외 ETF 투자가 대표적인 절세 솔루션으로 꼽힘.",
+    "key_claims": [
+      "소액이라도 일복리 효과를 누릴 수 있는 파킹형 금융상품에 대한 청년층 수요 급증.",
+      "ISA 계좌를 통한 배당 및 매매차익 비과세 혜택 활용이 필수 재테크 전략임.",
+      "무리한 레버리지보다 절세 계좌 기반의 안정적 자산 형성이 강조됨."
+    ],
+    "data_points": [
+      "ISA 계좌 비과세 한도: 일반형 기준 수백만 원 비과세 및 초과분 9.9% 분리과세",
+      "국내 파킹통장 및 MMF 금리 수준: 연 3%대 중반 유지"
+    ],
+    "signal": "neutral",
+    "signal_reason": "실생활 재테크 및 절세 계좌 활용 팁을 전달하는 쇼츠 영상으로 시장 방향성은 중립적임.",
+    "key_companies": [
+      "미래에셋증권(006800)",
+      "키움증권(039490)"
+    ],
+    "insight": "세율 인상과 금융소득 종합과세 부담 속에서 <span class=\"text-amber-300 font-bold\">비과세 절세 계좌(ISA, IRP)</span>는 실질 투자 수익률을 지키는 가장 확실한 안전장치입니다.",
+    "action_point": "모든 주식 및 배당 ETF 투자는 일반 계좌 대신 ISA 및 연금 계좌를 우선 개설하여 세제 혜택을 극대화하십시오."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "핫한재테크",
+      "ISA계좌",
+      "절세투자",
+      "파킹통장",
+      "스마트머니",
+      "쇼츠"
+    ]
+  }
+}

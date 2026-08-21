@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "LUeLYNZqxs0",
+    "title": "용산공원 대혈투 팩트만 뜯어봤습니다 (언더스탠딩 장순원 기자)",
+    "published": "2026-08-20T09:00:23+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=LUeLYNZqxs0",
+    "thumbnail": "https://img.youtube.com/vi/LUeLYNZqxs0/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "용산 미군기지 반환 부지를 둘러싸고 온전한 생태 공원 조성과 <span class=\"text-rose-400 font-medium\">도심 주택 공급 확대</span> 방안 간의 치열한 정책적 대립이 이어지고 있음.\n토양 오염 정화 비용 분담 문제와 미군과의 협상 지연으로 인해 전체 공원화 완공 일정이 계속 늦어지고 있음.\n용산 일대 부동산 개발 계획과 교통 인프라(GTX 등) 연계가 향후 서울 도심 공간 구조 개편의 핵심 변수임.",
+    "key_claims": [
+      "용산공원 부지는 국가 상징 생태공원화 원칙과 주택 공급 압박 사이에서 갈등이 첨예함.",
+      "미군 기지 내 유류 오염 정화 비용과 반환 절차의 기술적 난제가 공원 조성의 최대 걸림돌임.",
+      "용산 정비창 및 주변 개발 계획과의 연계성에 따라 수도권 핵심 부동산 가치가 재편될 것임."
+    ],
+    "data_points": [
+      "용산공원 부지 면적: 약 300만㎡(여의도 면적 수준)",
+      "추정 오염 정화 비용: 수천억 원에서 조 단위 규모 추산"
+    ],
+    "signal": "neutral",
+    "signal_reason": "공공 도시계획 및 정책적 논쟁 사안으로 금융 시장에 직접적인 투자 방향성을 제시하기는 중립적임.",
+    "key_companies": [
+      "현대건설(000720)",
+      "GS건설(006360)",
+      "DL이앤씨(375500)"
+    ],
+    "insight": "용산 부지 개발은 단순한 부동산 이슈를 넘어 <span class=\"text-amber-300 font-bold\">서울 도심의 생태·교통·주거 패러다임</span>을 결정하는 메가 프로젝트입니다.",
+    "action_point": "용산 인근 정비사업 및 도심 복합개발 관련 대형 건설사의 수주 파이프라인 진행 상황을 중장기적으로 모니터링하십시오."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "용산공원",
+      "도시개발",
+      "오염정화",
+      "부동산정책",
+      "언더스탠딩"
+    ]
+  }
+}
