@@ -1,0 +1,48 @@
+{
+  "video": {
+    "id": "CWCyV17NjKg",
+    "title": "메모리 가격 상승에 엔비디아도 AI 서버 가격 인상 | 이번주 금통위...두달 연속 인상 vs 동결, 전문가 평가도 딱 5:5 | 권순우 삼프로TV 취재팀장 [뉴스3]",
+    "published": "2026-08-23T23:17:26+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=CWCyV17NjKg",
+    "thumbnail": "https://img.youtube.com/vi/CWCyV17NjKg/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "메모리 반도체(HBM, D램, SSD) 가격 폭등으로 인해 <span class=\"text-cyan-300 font-semibold\">엔비디아가 차세대 AI 서버 공급가를 전격 인상</span>하는 흐름과 함께, 한국은행 금융통화위원회의 <span class=\"text-amber-300 font-bold\">기준금리 동결 vs 인상 팽팽한 대립 국면</span>을 삼프로TV 뉴스3에서 집중 분석함. 부품가 인상이 완성품 AI 서버 가격으로 전가되는 인플레이션(칩플레이션) 양상과 부동산 가계부채·환율 불안 속 한은의 통화정책 딜레마를 짚음.",
+    "key_claims": [
+      "엔비디아의 신형 블랙웰(Blackwell) 및 B200 서버 가격이 메모리 및 부품가 상승을 반영하여 기존 예상치를 상회하는 프리미엄에 책정됨.",
+      "금통위 내부에서 수도권 집값 상승과 가계대출 억제를 위한 금리 인상론과 내수 경기 침체를 막기 위한 동결론이 5:5로 팽팽히 맞섬.",
+      "글로벌 AI 인프라 공급망의 가격 전가력(Pricing Power)을 보유한 독점 기업과 통화정책 제약에 갇힌 내수 기업 간의 실적 양극화가 심화될 것임."
+    ],
+    "data_points": [
+      "엔비디아 B200 NVL72 랙 시스템 가격 기존 추정치 대비 10~15% 상향 조정",
+      "국내 8월 금통위 금리 전망 전문가 서베이 동결 50% vs 인상/인하 50%",
+      "서울 아파트 거래량 및 주택담보대출 증가폭 3년 만에 최대치 경신"
+    ],
+    "signal": "neutral",
+    "signal_reason": "AI 하드웨어 독점 기업들의 가격 인상력은 실적에 긍정적이나, <span class=\"text-rose-400 font-medium\">국내 고금리 장기화와 내수 부진</span>으로 한국 거시경제의 차별화 부담은 지속될 전망임.",
+    "key_companies": [
+      "NVIDIA",
+      "SK하이닉스",
+      "삼성전자",
+      "신한지주",
+      "KB금융"
+    ],
+    "insight": "비용 상승을 고객에게 100% 전가할 수 있는 엔비디아와 같은 글로벌 독점 플랫폼 기업만이 고금리·고비용 국면에서 마진을 방어할 수 있으며, 금리 불확실성 시기에는 현금흐름 창출력이 최우선 지표임.",
+    "action_point": "가격 결정력이 확실한 글로벌 AI 반도체 대장주 위주로 압축하고, 국내 내수 소비재/건설 섹터 비중 축소."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "tech",
+      "stock"
+    ],
+    "tags": [
+      "AI서버가격인상",
+      "엔비디아",
+      "한국은행금통위",
+      "기준금리",
+      "삼프로TV뉴스3"
+    ]
+  }
+}

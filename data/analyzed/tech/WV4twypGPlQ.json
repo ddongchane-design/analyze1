@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "WV4twypGPlQ",
+    "title": "30년 숨겨진 피검사 의학계 충격 막장 드라마 (서울대병원 이승훈 교수)",
+    "published": "2026-08-30T11:00:23+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=WV4twypGPlQ",
+    "thumbnail": "https://img.youtube.com/vi/WV4twypGPlQ/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "심뇌혈관 질환의 숨겨진 주범인 <span class=\"text-rose-400 font-medium\">'만성 염증'과 고감도 CRP(C-반응성 단백) 수치</span>를 둘러싼 30년간의 의학계 패러다임 논쟁을 조명합니다.\n콜레스테롤(LDL) 수치뿐만 아니라 혈중 hs-CRP 수치를 0.2mg/dL 이하로 통제하는 것이 심근경색과 뇌졸중 예방에 결정적인 역할을 합니다.\n스타틴(Statin)과 콜히친(Colchicine) 등 항염증 약물의 심혈관 보호 기전이 규명되며 예방 의학 및 바이오 제약 분야의 새로운 지평이 열리고 있습니다.",
+    "key_claims": [
+      "혈관 질환의 근본 원인은 단순 기름때(LDL) 축적이 아니라 혈관벽의 만성 염증 반응임.",
+      "hs-CRP 수치 0.2 이하 유지가 뇌졸중과 심근경색 재발 방지의 핵심 바이오마커임.",
+      "항염증 치료제의 심혈관 적응증 확대와 조기 혈액 검사 바이오마커 시장의 폭발적 성장이 예상됨."
+    ],
+    "data_points": [
+      "목표 hs-CRP 수치: 0.2mg/dL 이하 관리 권장",
+      "만성 염증 억제 시 심혈관 사건 발생률 30% 이상 감소 효과 입증"
+    ],
+    "signal": "bullish",
+    "signal_reason": "만성 염증 기반 심혈관 진단 및 표적 치료제 시장의 신규 파이프라인 개화로 헬스케어 바이오텍의 기업 가치가 제고되기 때문임.",
+    "key_companies": [
+      "아스트라제네카(AZN)",
+      "노바티스(NVS)",
+      "유한양행(000100)"
+    ],
+    "insight": "의학의 중심축이 사후 치료에서 <span class=\"text-cyan-300 font-semibold\">만성 염증 바이오마커를 통한 정밀 조기 예방</span>으로 전환되며 진단 및 특화 제약 시장의 기회가 커지고 있습니다.",
+    "action_point": "심혈관 항염증 치료제 및 고감도 체외 진단 바이오마커 기술을 보유한 헬스케어 혁신 기업에 주목할 것."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock",
+      "etc"
+    ],
+    "tags": [
+      "만성염증",
+      "CRP검사",
+      "이승훈교수",
+      "심혈관예방",
+      "언더스탠딩"
+    ]
+  }
+}

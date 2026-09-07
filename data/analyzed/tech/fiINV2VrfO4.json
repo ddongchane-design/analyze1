@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "fiINV2VrfO4",
+    "title": "AI 투자하시면서 지치셨다구요? 그럼 이 영상을 꼭 보세요~! #젠슨황 #21세기투자법",
+    "published": "2026-09-05T00:00:00+00:00",
+    "channel_name": "이효석아카데미",
+    "url": "https://www.youtube.com/watch?v=fiINV2VrfO4",
+    "thumbnail": "https://img.youtube.com/vi/fiINV2VrfO4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "G20 정상회의에서 엔비디아 젠슨 황이 하워드 러트닉 미 상무장관과 함께 <span class=\"text-cyan-300 font-semibold\">'미국의 지능(Intelligence) 글로벌 수출 전략'</span>을 천명하며 AI 투자자들에게 강력한 확신을 부여함.\n비행기가 진화하면서 안전해졌듯 AI 역시 규제보다 더 고도화된 기술 개발을 통해 본질적 안전성을 달성할 수 있음을 설파함.\n기술을 이해하지 못하는 정치권의 막연한 공포와 규제론을 정면 반박하며, AI 혜택에서 뒤처지는 것이야말로 진정한 국가적 재앙임을 역설함.",
+    "key_claims": [
+      "미국 정부가 젠슨 황을 앞세워 글로벌 국가들에 AI 인프라 도입을 압박하는 '지능의 수출 시대'가 도래함.",
+      "더 좋은 기술이 더 안전한 AI를 만든다는 기술 낙관론과 균형 잡힌 제도적 지원을 촉구함.",
+      "단기 주가 횡보에 지친 투자자들에게 AI 혁명은 수십 년간 지속될 거대한 산업 구조조정임을 상기시킴."
+    ],
+    "data_points": [
+      "무대: G20 정상회의 디지털 테크 포럼",
+      "핵심 기조: 규제 중심 접근법 탈피 및 글로벌 AI 컴퓨팅 인프라 대규모 확충 선언"
+    ],
+    "signal": "bullish",
+    "signal_reason": "미국 행정부의 전폭적 외교 지원과 엔비디아의 독보적 하드웨어 리더십이 글로벌 국가 단위의 소버린 AI 수요를 지속 견인하기 때문임.",
+    "key_companies": [
+      "엔비디아(NVDA)",
+      "마이크로소프트(MSFT)",
+      "SK하이닉스(000660)"
+    ],
+    "insight": "AI 투자의 피로감은 정상적인 숨고르기이며, <span class=\"text-cyan-300 font-semibold\">'국가 단위의 소버린 AI 구축과 미국 정부의 수출 드라이브'</span>가 든든한 뒷배가 되어주고 있습니다.",
+    "action_point": "주가 조정 시 두려움에 투매하지 말고, 엔비디아 및 핵심 메모리 파트너의 비중을 확신을 갖고 유지하십시오."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "젠슨황",
+      "G20",
+      "지능수출",
+      "AI규제혁파",
+      "엔비디아투자"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "video": {
+    "id": "phUpSOkZrBI",
+    "title": "국내 캡슐세제 8종 세탁력 비교결과! 최강의 캡슐세제는 이것?",
+    "published": "2026-09-05T00:00:00+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=phUpSOkZrBI",
+    "thumbnail": "https://img.youtube.com/vi/phUpSOkZrBI/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "국내 시판 중인 8개 대표 캡슐세제를 대상으로 <span class=\"text-cyan-300 font-semibold\">오염물별 세탁력 계측, 수용성 필름 용해도, 계면활성제 효능</span>을 과학적으로 전수 비교 검증함.\n피지 및 단백질 오염에는 복합 효소(프로테아제)가 풍부한 제품이 우수했으나, 찬물 세탁 시 캡슐 외피(PVA) 잔여물 형성 여부가 주요 변수로 나타남.\n고가 수입 브랜드와 가성비 PB 제품 간의 세척력 격차가 미미하여, 마케팅 거품을 제거한 합리적 소비 가이드라인을 제시함.",
+    "key_claims": [
+      "세탁력의 핵심은 브랜드 인지도가 아니라 오염별 타깃 효소의 배합 비율과 계면활성제 순도임.",
+      "수용성 필름(PVA) 잔여물을 막기 위해서는 찬물 급속 코스보다 30도 이상 표준 세탁 권장.",
+      "고가 프리미엄 제품과 국산 가성비 제품의 실제 오염 제거율 차이는 5% 미만으로 체감 수준 미미."
+    ],
+    "data_points": [
+      "비교 대상: 국내외 8종 대표 캡슐세제 브랜드",
+      "평가 항목: 찌든 때, 단백질, 기름 오염별 세척도 분광 측색기 수치화"
+    ],
+    "signal": "neutral",
+    "signal_reason": "일상 소비재의 성분 분석 및 합리적 선택 기준을 제시하는 생활과학 콘텐츠임.",
+    "key_companies": [
+      "LG생활건강(051900)",
+      "애경산업(018250)"
+    ],
+    "insight": "소비재 시장에서 <span class=\"text-cyan-300 font-semibold\">'과도한 프리미엄 마케팅'</span>의 환상을 걷어내면 고스란히 가계 실질 소득 방어와 합리적 소비로 연결됩니다.",
+    "action_point": "브랜드 프리미엄에 의존하는 고밸류 생활용품 기업보다 가격 경쟁력과 PB 납품력을 갖춘 OEM/ODM 제조사의 실적 안정성을 점검하십시오."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [],
+    "tags": [
+      "캡슐세제비교",
+      "안될과학",
+      "계면활성제",
+      "세탁력검증",
+      "합리적소비"
+    ]
+  }
+}

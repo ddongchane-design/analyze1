@@ -1,0 +1,41 @@
+{
+  "video": {
+    "id": "k0RkZgCRJis",
+    "title": "(1부) 물 아닌 콘크리트 반죽, 시속 180km 네팔 덮쳤다 (부산대학교 지질환경과학과 김기범 교수)",
+    "published": "2026-09-03T00:00:00+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=k0RkZgCRJis",
+    "thumbnail": "https://img.youtube.com/vi/k0RkZgCRJis/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "네팔 히말라야 대참사를 부른 돌발 홍수는 일반 물이 아닌 거대 암석과 토사가 뒤섞인 <span class=\"text-rose-400 font-medium\">암설류(Debris Flow, 시속 180km)</span>의 지질학적 재해였음.\n단순 기후변화에 따른 빙하 호수 붕괴를 넘어, 히말라야 판 충돌 지각 융기에 따른 선행 지진(규모 2.6)과 식생 없는 급경사 사면 붕괴가 복합 작용함.\n수증기를 머금은 몬순 강우와 빙하 융해가 결합되어 단 6분 만에 계곡 하류 인프라와 수력발전소를 초토화시킨 자연재해 메커니즘을 규명함.",
+    "key_claims": [
+      "사고의 실체는 콘크리트 반죽과 같은 초고밀도·고점성 암설류의 초고속(시속 180km) 강타임.",
+      "연간 1cm씩 융기하는 히말라야의 구조적 불안정성과 미소 지진이 초대형 사면 붕괴(폭 1.5km)를 촉발함.",
+      "기후위기로 인한 기습 폭우가 취약 지질대와 결합할 때 인프라 파괴 파급력이 기하급수적으로 증폭됨."
+    ],
+    "data_points": [
+      "암설류 이동 속도: 평균 시속 170~180km의 초고속 이동",
+      "사면 붕괴 규모: 붕괴 지역 폭 약 1.5km, 파괴 면적 길이 약 3km",
+      "선행 미소 지진: 본 붕괴 17분 전 규모 2.6 지진 관측"
+    ],
+    "signal": "neutral",
+    "signal_reason": "자연재해 및 지질학적 매스 웨이스팅(Mass Wasting) 현상을 심층 규명한 과학 교양 콘텐츠이기 때문임.",
+    "key_companies": [],
+    "insight": "지구 온난화에 따른 이상 기후와 지질학적 취약성이 결합하면서 <span class=\"text-rose-400 font-medium\">글로벌 수력발전 및 에너지 인프라</span>에 대한 기후 리스크 관리가 새로운 과제로 대두되었습니다.",
+    "action_point": "고산 지대 및 취약 지역에 위치한 글로벌 발전 인프라 자산의 기후 물리적 리스크와 재해보험 커버리지를 점검하십시오."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "네팔홍수",
+      "암설류",
+      "지질재해",
+      "히말라야붕괴",
+      "인프라리스크"
+    ]
+  }
+}

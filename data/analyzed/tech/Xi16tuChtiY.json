@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "Xi16tuChtiY",
+    "title": "\"결국 중국과도 AI 동맹 맺었다\"...G20 장관회의서 나온 미중 AI 합의가 의미하는 것",
+    "published": "2026-09-04T00:00:00+00:00",
+    "channel_name": "이효석아카데미",
+    "url": "https://www.youtube.com/watch?v=Xi16tuChtiY",
+    "thumbnail": "https://img.youtube.com/vi/Xi16tuChtiY/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "G20 디지털 경제 장관회의에서 미국과 중국이 프론티어 AI의 실존적 위험과 안전 거버넌스에 대해 <span class=\"text-violet-300 font-medium\">역사적인 미·중 AI 최소 규제 가이드라인</span>에 합의함.\n패권 경쟁과 기술 수출 통제 속에서도 핵무기 통제와 유사한 수준의 AI 통제 불능(Existential Risk) 방지 공감대가 형성됨.\n글로벌 표준 규제가 도입되면서 규제 준수 비용을 감당할 수 있는 <span class=\"text-cyan-300 font-semibold\">글로벌 빅테크 중심의 독과점 해자</span>가 한층 강화되는 역설적 결과를 초래함.",
+    "key_claims": [
+      "미·중 양국이 AI 군사화 및 파멸적 자율 행동 방지를 위한 핫라인과 안전 표준 수립에 공식 서명함.",
+      "AI 안전 규제의 제도화는 소규모 스타트업의 진입 장벽을 높이고 메이저 빅테크의 기득권을 합법적으로 보호함.",
+      "기술 냉전 속에서도 AI 안전 분야만큼은 미중 간 전략적 대화 채널이 유지될 것임."
+    ],
+    "data_points": [
+      "협약 기구: G20 디지털 경제 장관회의 공동선언문 채택",
+      "주요 의제: 프론티어 AI 모델 안전성 검증 및 군사 무기 자율 발사 방지 가이드라인"
+    ],
+    "signal": "neutral",
+    "signal_reason": "지정학적 파국 위험을 낮추는 안전판이 마련되었으나, 반도체 및 첨단 알고리즘을 둘러싼 실질적 미·중 공급망 블록화는 지속되기 때문임.",
+    "key_companies": [
+      "오픈AI",
+      "구글(GOOGL)",
+      "마이크로소프트(MSFT)",
+      "텐센트",
+      "바이두"
+    ],
+    "insight": "미·중 AI 안전 합의는 경쟁의 종식이 아니라 <span class=\"text-cyan-300 font-semibold\">'정부 공인 빅테크 카르텔'</span>의 탄생을 의미하므로 규제 리스크를 흡수할 수 있는 초대형 기업에 투자해야 합니다.",
+    "action_point": "규제 컴플라이언스 비용을 감당하기 어려운 영세 AI 기업을 경계하고, 미 정부 공인을 획득한 메가캡 AI 주도주에 집중하십시오."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "economy",
+      "etc"
+    ],
+    "tags": [
+      "미중AI합의",
+      "G20",
+      "AI안전규제",
+      "빅테크해자",
+      "지정학"
+    ]
+  }
+}

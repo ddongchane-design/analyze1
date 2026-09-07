@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "DIdKpyqqozI",
+    "title": "사이버캡 출시 직후 밝혀진, 놀라운 기술과 전략들... 10초 단위 생산과 브레이크액·희토류까지 없앤 테슬라 | Fleet 사업자까지",
+    "published": "2026-09-05T00:00:00+00:00",
+    "channel_name": "안될공학 - IT 테크 신기술",
+    "url": "https://www.youtube.com/watch?v=DIdKpyqqozI",
+    "thumbnail": "https://img.youtube.com/vi/DIdKpyqqozI/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "테슬라가 사이버캡 언팩 후 공개한 세부 기술에서 <span class=\"text-cyan-300 font-semibold\">10초 단위 언박스드(Unboxed) 조립 공정</span>과 브레이크액을 완전 제거한 'Dry Brake-by-Wire' 시스템이 확인됨.\n영구자석 모터에서 희토류를 0%로 배제하고 기가캐스팅을 극대화하여 대당 제조 원가를 3만 달러 미만으로 낮추는 원가 파괴를 단행함.\n개인 판매를 넘어 우버·렌터카 등 <span class=\"text-amber-300 font-bold\">Fleet(대규모 법인 선단) 운영자용 자동 청소·무선 충전 인프라</span>를 패키징하여 로보택시 서비스 상용화 속도를 가속함.",
+    "key_claims": [
+      "전통 유압식 브레이크액과 희토류를 전면 배제하여 유지보수 비용과 공급망 지정학 리스크를 원천 차단함.",
+      "언박스드 제조 프로세스로 조립 라인 공간 40% 절감 및 10초당 1대 생산이라는 경이적 생산성을 달성함.",
+      "무선 유도 충전과 자동 진공 청소 로봇을 포함한 Fleet 운영 턴키 솔루션으로 B2B 모빌리티 시장을 장악하려 함."
+    ],
+    "data_points": [
+      "목표 제조 주기: 언박스드 공정을 통한 10초당 1대 사이버캡 조립",
+      "핵심 원가 절감: 희토류 0% 영구자석 모터, 유압 브레이크액 완전 제거(Dry BBW)",
+      "차량 단가 목표: 대당 30,000달러 미만 공급"
+    ],
+    "signal": "bullish",
+    "signal_reason": "단순 콘셉트카 공개가 아니라 부품 수 대폭 감축, 완전 무인 유지보수 체계 등 상용 로보택시의 경제성(TCO) 임계점을 돌파했기 때문임.",
+    "key_companies": [
+      "테슬라(TSLA)"
+    ],
+    "insight": "사이버캡의 본질은 자동차가 아니라 <span class=\"text-cyan-300 font-semibold\">'유지보수 비용이 0에 수렴하는 바퀴 달린 무인 자동화 서버'</span>이며, 하드웨어 원가 파괴가 완성되어 모빌리티 플랫폼 패권이 가시화되었습니다.",
+    "action_point": "자율주행 규제 승인 일정과 무선 충전 표준화 수혜주를 추적하고, 제조 원가 혁신을 주도하는 테슬라의 모빌리티 플랫폼 독점 가치에 주목하십시오."
+  },
+  "classification": {
+    "primary_topic": "robot",
+    "secondary_topics": [
+      "tech",
+      "stock"
+    ],
+    "tags": [
+      "사이버캡",
+      "로보택시",
+      "언박스드공정",
+      "무선충전",
+      "테슬라"
+    ]
+  }
+}

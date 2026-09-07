@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "kHYCBlL4b74",
+    "title": "NASA의 새 우주망원경! 낸시 그레이스 로먼 우주망원경 발사 하이라이트!",
+    "published": "2026-08-30T10:00:15+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=kHYCBlL4b74",
+    "thumbnail": "https://img.youtube.com/vi/kHYCBlL4b74/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "NASA의 차세대 주력 망원경 <span class=\"text-cyan-300 font-semibold\">낸시 그레이스 로먼 우주망원경</span>이 스페이스X의 팰컨 헤비(Falcon Heavy) 로켓에 실려 제2 라그랑주 점(L2) 궤도로 성공적으로 발사되었습니다.\n시속 36,000km로 지구 중력권을 벗어난 로먼 망원경은 향후 3~4개월간의 이동 및 캘리브레이션을 거쳐 본격적인 심우주 관측을 개시합니다.\n허블의 100배 시야각으로 암흑 물질, 암흑 에너지, 외계 행성을 관측하며 현대 천문학의 새로운 장을 열 것으로 기대됩니다.",
+    "key_claims": [
+      "팰컨 헤비 로켓을 통해 로먼 우주망원경의 L2 궤도 투입 임무가 완벽하게 성공함.",
+      "스페이스X 발사체 재사용 기술의 신뢰성이 대형 심우주 과학 프로젝트에서도 입증됨.",
+      "향후 5년간 수억 개 은하를 관측하여 우주 가속 팽창의 비밀을 밝혀낼 예정임."
+    ],
+    "data_points": [
+      "투입 궤도: 지구-태양 라그랑주 점 L2 (약 150만 km 지점)",
+      "발사 속도: 시속 36,000km 도달",
+      "탑재체: 2.4m 주거울 및 3억 화소 광시야 적외선 장비"
+    ],
+    "signal": "neutral",
+    "signal_reason": "역사적인 우주 과학 기술 이벤트로 글로벌 항공우주 및 첨단 광학 산업의 역량을 입증하는 상징적 성과임.",
+    "key_companies": [
+      "NASA",
+      "스페이스X",
+      "L3해리스(LHX)"
+    ],
+    "insight": "민간 발사체(스페이스X)와 국가 우주 프로젝트(NASA)의 완벽한 융합이 <span class=\"text-cyan-300 font-semibold\">우주 탐사의 비용 혁신과 관측 스케일</span>을 근본적으로 바꾸어 놓았습니다.",
+    "action_point": "우주 항공 발사체 기술 및 차세대 심우주 관측 탑재체 관련 기술 기업의 중장기 성장성에 관심을 가질 것."
+  },
+  "classification": {
+    "primary_topic": "space",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "로먼우주망원경",
+      "스페이스X",
+      "팰컨헤비",
+      "L2궤도",
+      "안될과학"
+    ]
+  }
+}

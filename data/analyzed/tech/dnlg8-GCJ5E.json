@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "dnlg8-GCJ5E",
+    "title": "인스타 2차 인증했는데도 털린 이유?!",
+    "published": "2026-09-05T00:00:00+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=dnlg8-GCJ5E",
+    "thumbnail": "https://img.youtube.com/vi/dnlg8-GCJ5E/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "SNS 계정의 SMS 2차 인증(2FA)을 설정했음에도 계정이 탈취되는 <span class=\"text-rose-400 font-medium\">'세션 하이재킹(Session Hijacking)과 중간자 피싱(AiTM)'</span>의 기술적 원리를 규명함.\n문자 인증번호를 가로채거나 가짜 로그인 페이지를 거치게 하여 로그인 성공 후 생성되는 브라우저 '세션 쿠키(Cookie)'를 실시간 복제해 탈취함.\n취약한 SMS 문자 인증 대신 하드웨어 보안키(FIDO/WebAuthn)나 앱 기반 일회용 OTP(Authenticator) 사용의 절대적 필요성을 경고함.",
+    "key_claims": [
+      "SMS 기반 2단계 인증은 심 스와핑(SIM Swapping) 및 실시간 피싱 프록시에 완전히 뚫릴 수 있음.",
+      "해커의 궁극적 타깃은 비밀번호가 아니라 이미 로그인된 인증 상태를 증명하는 '세션 쿠키'임.",
+      "피싱에 원천 내성을 가진 패스키(Passkey) 및 하드웨어 토큰 도입이 시급함."
+    ],
+    "data_points": [
+      "해킹 기법: AiTM(Adversary-in-the-Middle) 피싱 프록시를 통한 세션 토큰 실시간 탈취",
+      "보안 표준: FIDO2 / WebAuthn 기반 암호화 보안키 사용 권장"
+    ],
+    "signal": "neutral",
+    "signal_reason": "사이버 보안 위협의 진화와 개인 디지털 자산 방어 솔루션을 제시하는 IT 보안 콘텐츠임.",
+    "key_companies": [
+      "클라우드플레어(NET)",
+      "크라우드스트라이크(CRWD)"
+    ],
+    "insight": "AI와 결합된 차세대 피싱 공격은 기존의 문자 인증을 무력화하므로 <span class=\"text-cyan-300 font-semibold\">'패스키(Passkey)와 제로 트러스트 보안'</span>으로의 전환이 필수적입니다.",
+    "action_point": "모든 금융 및 SNS 계정의 2차 인증을 SMS에서 구글 OTP 또는 패스키로 즉시 교체하고 사이버 보안 전문 솔루션 기업의 장기 성장성에 주목하십시오."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "etc"
+    ],
+    "tags": [
+      "세션하이재킹",
+      "2차인증우회",
+      "인스타해킹",
+      "패스키",
+      "안될과학"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "Vw5tGUzSXkk",
+    "title": "LNG 수출 1위 미국 셰일가스빨이다?",
+    "published": "2026-08-29T10:00:15+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=Vw5tGUzSXkk",
+    "thumbnail": "https://img.youtube.com/vi/Vw5tGUzSXkk/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국이 카타르와 호주를 제치고 글로벌 1위 LNG 수출국으로 등극한 배경에는 <span class=\"text-amber-300 font-bold\">셰일 혁명과 대규모 액화 플랜트 인프라</span>가 자리잡고 있습니다.\n러시아-우크라이나 전쟁 이후 유럽의 에너지 안보 수요를 미국산 LNG가 완벽히 대체하며 막대한 지정학적·경제적 헤게모니를 획득했습니다.\nAI 데이터센터 전력 수요 증가와 맞물려 천연가스는 신재생 에너지로 가는 가장 현실적인 브릿지 전력원으로 확고히 자리매김했습니다.",
+    "key_claims": [
+      "미국 셰일 가스의 압도적 채굴 원가 경쟁력과 걸프만 LNG 액화 터미널이 글로벌 1위 수출을 견인함.",
+      "유럽 및 아시아의 러시아 에너지 의존도 탈피로 미국산 LNG의 장기 계약 수요가 급증함.",
+      "AI 데이터센터의 기저 부하 전력원으로서 가스 화력 발전의 전략적 가치가 재조명됨."
+    ],
+    "data_points": [
+      "미국 글로벌 LNG 수출 순위: 전 세계 1위 달성",
+      "수출 주요 대상국: 유럽연합(EU) 비중 급증"
+    ],
+    "signal": "bullish",
+    "signal_reason": "글로벌 지정학적 에너지 재편과 AI 데이터센터 전력 공급원으로서 미국 천연가스 밸류체인의 구조적 호황이 지속되기 때문임.",
+    "key_companies": [
+      "셔니어 에너지(LNG)",
+      "EQT 코퍼레이션",
+      "한국조선해양(009540)"
+    ],
+    "insight": "미국의 에너지는 단순 원자재가 아니라 <span class=\"text-violet-300 font-medium\">동맹국을 결속하고 글로벌 에너지 공급망을 통제하는 지정학적 무기</span>입니다.",
+    "action_point": "미국 대형 LNG 수출 기업 및 LNG 운반선 건조 기술을 독점한 국내 대형 조선사에 대한 비중 확대를 추천합니다."
+  },
+  "classification": {
+    "primary_topic": "energy",
+    "secondary_topics": [
+      "economy",
+      "stock"
+    ],
+    "tags": [
+      "LNG수출1위",
+      "미국셰일가스",
+      "에너지패권",
+      "천연가스",
+      "언더스탠딩"
+    ]
+  }
+}

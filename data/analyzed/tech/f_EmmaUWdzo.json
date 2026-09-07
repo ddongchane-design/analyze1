@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "f_EmmaUWdzo",
+    "title": "머스크가 아직 안 쓴 테슬라 필살기",
+    "published": "2026-08-31T11:00:26+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=f_EmmaUWdzo",
+    "thumbnail": "https://img.youtube.com/vi/f_EmmaUWdzo/hqdefault.jpg"
+  },
+  "transcript": "Kind: captions Language: ko 테슬라는 이미 따라올 수 없는 회사가 되어 버렸어요. 필사기 같은게 있는데 머스크가 그걸 안 쓰고 있거든요. 바로 레이더입니다. &gt;&gt; 카메라 영상 기반으로는 제가 볼 때 어디 가도 따라갈 수 없을 정도의 최고 기술 갖고 있습니다. 아 &gt;&gt; 거기다가 레이더가 하나 추가되면 그러면 진짜 경쟁자가 [음악] 없을 수 있겠네요. &gt;&gt; 사기죠. 어떤 환경을 놓여서라도 자유 주행이 다 가능할 정도로 완전 자유형으로 가려면 레이더를 충분히 좀 넣어야 된다고 생각을 하고 있고 보조선을 돌입하려고 하고 있더라고요.",
+  "analysis": {
+    "summary": "일론 머스크가 테슬라에서 아직 본격적으로 꺼내들지 않은 숨겨진 필살기로 <span class=\"text-cyan-300 font-semibold\">비전 AI 기반 통합 물리 인텔리전스</span>를 조명함. 자율주행 FSD를 넘어 휴머노이드 <span class=\"text-cyan-300 font-semibold\">옵티머스 로봇</span>과 실세계 AI 생태계의 완전한 수직계열화가 궁극적 무기가 될 것임.",
+    "key_claims": [
+      "테슬라의 진정한 경쟁력은 단순 전기차가 아닌 비전 카메라 기반의 엔드투엔드 AI 모델임",
+      "자율주행 데이터 학습 파이프라인이 휴머노이드 로봇 옵티머스 훈련에 그대로 전이됨",
+      "실세계 물리 데이터를 독점 처리하는 거대 피지컬 AI 플랫폼 구축 추진"
+    ],
+    "data_points": [
+      "테슬라 FSD 누적 주행 거리 및 비전 학습 데이터 규모 독보적 1위",
+      "옵티머스 공장 실전 배치 및 양산 계획 가시화"
+    ],
+    "signal": "bullish",
+    "signal_reason": "모빌리티를 넘어 <span class=\"text-cyan-300 font-semibold\">로봇/피지컬 AI 플랫폼</span>으로의 기업가치 재평가 잠재력.",
+    "key_companies": [
+      "테슬라"
+    ],
+    "insight": "자율주행차와 휴머노이드 로봇은 하드웨어 형태만 다를 뿐 두뇌(비전 신경망)는 동일하며, 테슬라는 실세계 데이터를 가장 압도적으로 수집하는 유일한 기업임.",
+    "action_point": "전기차 인도량 둔화에 따른 단기 주가 조정을 장기 피지컬 AI 플랫폼 선점의 저가 분할 매수 기회로 활용"
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "robot"
+    ],
+    "tags": [
+      "테슬라",
+      "일론머스크",
+      "FSD",
+      "옵티머스",
+      "피지컬AI"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "A3DdYah0Vkg",
+    "title": "\"연준 금리인상 확률 9월 60%→12월 85%\"…이 와중에도 AI 투자 멈추면 안 되는 이유",
+    "published": "2026-09-04T00:00:00+00:00",
+    "channel_name": "이효석아카데미",
+    "url": "https://www.youtube.com/watch?v=A3DdYah0Vkg",
+    "thumbnail": "https://img.youtube.com/vi/A3DdYah0Vkg/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "견조한 고용과 끈질긴 인플레이션으로 연준의 금리 인상 확률이 급부상하는 등 <span class=\"text-amber-300 font-bold\">매크로 긴축 공포</span>가 시장을 압박하고 있음.\n그러나 AI는 단순 챗봇을 넘어 자율적으로 가설을 세우고 수개월간 연구를 완수하는 <span class=\"text-cyan-300 font-semibold\">'디스커버리 AI(Discovery AI)'</span> 단계로 진화하며 막대한 토큰 소비를 창출 중임.\n거시 금리 변동성에 흔들려 AI 테마를 이탈하는 것은 100도씨 물이 끓기 전 뽀글거리는 징조를 보고 불을 끄는 치명적 실수임.",
+    "key_claims": [
+      "매크로 금리 경로의 불확실성은 포트폴리오 헤지(현금·채권)로 대응하되 AI 성장 축을 놓쳐서는 안 됨.",
+      "디스커버리 AI는 기존 에이전트 대비 수십~수백 배의 토큰과 컴퓨팅 파워를 요구하는 차세대 성장 엔진임.",
+      "AI 인프라 투자는 단기 경기 사이클을 초월하는 기술 패권 경쟁이므로 자본 지출이 꺾이지 않음."
+    ],
+    "data_points": [
+      "시장 금리 확률: 연준 금리 추가 인상 혹은 동결 장기화 확률 급증",
+      "AI 기술 진화: 에이전트 AI -> 수개월 단위 자율 연구형 디스커버리 AI 단계로 확장"
+    ],
+    "signal": "bullish",
+    "signal_reason": "매크로 긴축 잡음에도 불구하고 엔터프라이즈 및 과학 연구 분야에서 AI의 실질적 가치 창출과 컴퓨팅 수요 폭증이 필연적이기 때문임.",
+    "key_companies": [
+      "마이크로소프트(MSFT)",
+      "구글(GOOGL)",
+      "엔비디아(NVDA)",
+      "오픈AI"
+    ],
+    "insight": "금리 공포는 거시 경제의 단기 소음일 뿐이며, <span class=\"text-cyan-300 font-semibold\">'디스커버리 AI가 촉발할 토큰 소비의 빅뱅'</span>이라는 장기 메가트렌드에 온전히 올라타 있어야 합니다.",
+    "action_point": "매크로 변동성으로 인한 기술주 일시적 조정을 적극적인 비중 확대 기회로 삼고, 프론티어 AI 모델 및 하드웨어 인프라 기업을 매집하십시오."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "economy",
+      "stock"
+    ],
+    "tags": [
+      "디스커버리AI",
+      "금리불확실성",
+      "토큰소비폭발",
+      "AI장기투자",
+      "연준긴축"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "Qi0KnaoteQs",
+    "title": "\"중국한테 따라잡히면 끝장\" 미국이 다급해진 이유 #교양이를부탁해 #비트코인 #금값 #인플레이션 #베센트",
+    "published": "2026-09-05T00:00:00+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=Qi0KnaoteQs",
+    "thumbnail": "https://img.youtube.com/vi/Qi0KnaoteQs/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국이 반도체, AI, 양자컴퓨팅 등 첨단 기술에서 중국에 1등 자리를 내어줄 경우 <span class=\"text-violet-300 font-medium\">'글로벌 기축통화와 군사 패권이 일거에 붕괴'</span>한다는 위기감이 워싱턴 정가를 지배함.\n중국의 막대한 국가 보조금과 공급망 수직계열화 속도를 꺾기 위해 미국은 수출 통제와 동맹국 강제 동원 등 사활을 건 기술 봉쇄를 감행함.\n이 패권 전쟁은 경제적 손익을 초월한 국가 안보 전쟁이므로 미국의 대중 규제 완화는 절대 기대할 수 없음.",
+    "key_claims": [
+      "미·중 기술 경쟁은 단순한 산업 경쟁이 아닌 차세대 글로벌 질서의 지배권을 건 생사투임.",
+      "미국은 자국 빅테크와 동맹국 반도체 생태계를 하나로 묶어 대중국 기술 장벽을 계속 높일 것임."
+    ],
+    "data_points": [
+      "전략 기술 분야: 첨단 AI 반도체, 휴머노이드 로봇, 희토류 정제 공급망",
+      "규제 강도: 대중 반도체 장비 수출 통제 및 투자 제한 지속 강화"
+    ],
+    "signal": "neutral",
+    "signal_reason": "미국의 초당적 테크 패권 수호 의지로 미국 AI 기업의 독점력은 유지되나, 글로벌 공급망 분절화 비용이 상승하기 때문임.",
+    "key_companies": [
+      "엔비디아(NVDA)",
+      "ASML(ASML)",
+      "TSMC(TSM)"
+    ],
+    "insight": "미국의 절박함은 <span class=\"text-cyan-300 font-semibold\">'미국 중심의 AI 기술 독점 동맹'</span>을 더욱 공고하게 결집시키는 결정적 추진체입니다.",
+    "action_point": "중국 매출 비중이 높은 테크 기업을 피하고, 미국 주도의 프론티어 AI 하드웨어 공급망 핵심주에 포트폴리오를 집중하십시오."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "미중패권전쟁",
+      "AI기술봉쇄",
+      "국가안보",
+      "베센트",
+      "공급망재편"
+    ]
+  }
+}

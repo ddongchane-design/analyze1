@@ -1,0 +1,48 @@
+{
+  "video": {
+    "id": "VCINFvAAR3g",
+    "title": "짐 80% 버려야 배 뜬다 강물 마르자 독일 초토화 (언더스탠딩 장순원 기자)",
+    "published": "2026-08-22T05:55:25+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=VCINFvAAR3g",
+    "thumbnail": "https://img.youtube.com/vi/VCINFvAAR3g/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "기후변화 폭염과 가뭄으로 인해 유럽의 핵심 경제 동맥인 <span class=\"text-rose-400 font-medium\">독일 라인강(Rhine River)의 수위가 역대 최저로 고갈되며 화물선 적재량이 20%로 급감한 물류 대란</span>을 언더스탠딩 장순원 기자가 심층 분석함. 바스프(BASF) 등 독일 핵심 화학·중공업 단지의 원자재 수송 마비와 석탄 발전 연료 공급 차질로 독일 GDP 성장률이 0.3%p 이상 직격탄을 맞는 등 기후 리스크가 실물 경제와 공급망을 어떻게 파괴하는지 생생히 조명함.",
+    "key_claims": [
+      "라인강은 독일 내륙 화물 수송의 핵심 축으로, 강 수위 저하는 철도·도로로 대체 불가능한 막대한 물류 비용 폭등을 야기함.",
+      "가뭄으로 인한 내륙 수운 마비는 유럽 화학, 철강, 에너지 발전 산업의 생산 중단과 공장 가동률 저하로 직결됨.",
+      "이상기후 현상이 단순 환경 문제를 넘어 국가 기간산업의 생산성과 거시 경제 성장률을 갉아먹는 상시적 경제 리스크로 고착화됨."
+    ],
+    "data_points": [
+      "라인강 가뭄으로 독일 연간 GDP 성장률 -0.3%p 하방 압력",
+      "화물선 적재율 평소 대비 20% 수준으로 급락 (짐 80% 감축 운항)",
+      "유럽 내륙 수운 운임 지수 수배 폭등"
+    ],
+    "signal": "bearish",
+    "signal_reason": "<span class=\"text-rose-400 font-medium\">유럽 제조업 심장부(독일)의 물류 마비와 공급망 차질</span>로 유럽 경기 침체 및 화학·철강 기업의 수익성 악화 심화.",
+    "key_companies": [
+      "BASF",
+      "ThyssenKrupp",
+      "Bayer",
+      "RWE",
+      "DHL"
+    ],
+    "insight": "기후변화로 인한 내륙 수로 고갈은 유럽 제조업의 고비용 구조를 가속화하며, 이는 글로벌 공급망의 아시아 및 북미 이전 압력을 더욱 높이는 요인으로 작용함.",
+    "action_point": "유럽 현지 공장 의존도가 높은 화학/소재 기업 투자 주의 및 글로벌 대체 물류·해운 수혜주 점검."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "energy",
+      "stock"
+    ],
+    "tags": [
+      "라인강가뭄",
+      "유럽물류마비",
+      "독일경제타격",
+      "이상기후",
+      "언더스탠딩"
+    ]
+  }
+}

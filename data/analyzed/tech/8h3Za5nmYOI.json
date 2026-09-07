@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "8h3Za5nmYOI",
+    "title": "Should I Continue Investing in Chinese AI...? | Visible China | 9/3/2026 (Thu)",
+    "published": "2026-09-03T04:46:18+00:00",
+    "channel_name": "Smart Money by MiraeAsset ",
+    "url": "https://www.youtube.com/watch?v=8h3Za5nmYOI",
+    "thumbnail": "https://img.youtube.com/vi/8h3Za5nmYOI/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국의 첨단 반도체 제재 속에서도 중국 정부는 <span class=\"text-amber-300 font-bold\">2%대 초저금리 정책 금융</span>과 전력 인프라 지원을 통해 자국 빅테크의 AI 인프라 구축 비용을 파격적으로 낮춰주고 있습니다.\n<span class=\"text-cyan-300 font-semibold\">알리바바(통이첸원)</span>와 <span class=\"text-cyan-300 font-semibold\">바이두(어니봇)</span> 등은 오픈소스 모델을 적극 공개하며 아시아 및 신흥국 시장을 중심으로 자체 AI 생태계를 급속히 확장하고 있습니다.\n고성능 컴퓨팅 클러스터 제약이라는 명확한 한계가 존재하지만, 비용 효율적인 오픈소스 모델과 거대 내수 응용 서비스 시장을 장악한 중국 AI 대표 기업들은 차별화된 실적 모멘텀을 확보하고 있습니다.",
+    "key_claims": [
+      "중국 정부의 2%대 저금리 자금 지원은 막대한 CapEx 투자가 필수적인 AI 데이터센터 구축의 실질 보조금 역할을 수행함.",
+      "알리바바 등 중국 빅테크는 폐쇄형 모델 대신 강력한 오픈소스 생태계 전략으로 글로벌 개발자 저변을 확대 중임.",
+      "<span class=\"text-rose-400 font-medium\">첨단 GPU 반도체 제재</span>로 인한 하드웨어 연산력 한계를 소프트웨어 알고리즘 경량화와 분산 연산으로 돌파 시도 중임."
+    ],
+    "data_points": [
+      "중국 주요 국채 및 기업 대출 금리: 2%대 초반 유지로 미국(5%대) 대비 절반 이하의 금융 조달 원가 확보",
+      "알리바바 큐원(Qwen) 오픈소스 다운로드 수 및 개발자 커뮤니티 점유율 급상승"
+    ],
+    "signal": "neutral",
+    "signal_reason": "정부의 막대한 금융/전력 인프라 지원과 오픈소스 확산은 긍정적이나, 미국의 고대역폭메모리(HBM) 및 첨단 GPU 수출 통제 장기화 리스크가 여전히 상존하기 때문임.",
+    "key_companies": [
+      "알리바바(BABA)",
+      "바이두(BIDU)",
+      "텐센트",
+      "엔비디아(NVDA)",
+      "TSMC"
+    ],
+    "insight": "AI 경쟁은 최고 사양 프론티어 모델 경쟁뿐만 아니라 '누가 가장 저렴한 비용으로 상용 서비스를 대중화하느냐'의 응용 레벨 경쟁으로 전환되고 있으며, 중국 기업들은 가성비 기반 엔드유저 앱 확산에서 강점을 보유하고 있습니다.",
+    "action_point": "중국 AI 투자는 전면적 비중 확대보다는 자체 클라우드 수익화와 글로벌 오픈소스 생태계를 선도하는 소수 최상위 플랫폼 기업(알리바바, 텐센트)으로 압축 대응하는 것이 유리합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock",
+      "economy"
+    ],
+    "tags": [
+      "중국AI투자",
+      "바이두",
+      "알리바바",
+      "AI저금리지원",
+      "오픈소스AI"
+    ]
+  }
+}

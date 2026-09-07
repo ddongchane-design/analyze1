@@ -1,0 +1,41 @@
+{
+  "video": {
+    "id": "TDwnWytgoX4",
+    "title": "인텔이랑 AMD한테 기회가 왔습니다",
+    "published": "2026-09-05T00:00:00+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=TDwnWytgoX4",
+    "thumbnail": "https://img.youtube.com/vi/TDwnWytgoX4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "엔비디아의 독주와 천문학적 GPU 가격에 피로감을 느낀 빅테크들이 <span class=\"text-cyan-300 font-semibold\">인텔과 AMD의 차세대 가속기 및 서버용 x86 CPU 대안</span>을 적극 모색하기 시작함.\nAMD의 MI350/MI400 시리즈와 인텔의 18A 공정 전환 및 가우디(Gaudi) 생태계가 원가 절감이 절실한 엔터프라이즈 AI 시장의 실질적 탈출구로 부상함.\n독점 완화를 원하는 빅테크의 공급망 다변화 전략이 후발 주자들에게 강력한 실적 턴어라운드 모멘텀을 제공함.",
+    "key_claims": [
+      "엔비디아 쿠다(CUDA) 독점에 맞선 오픈소스 프레임워크(Triton, ROCm)의 성숙이 AMD의 점유율 확대를 뒷받침함.",
+      "인텔의 파운드리 18A 공정 안착 여부가 미국 반도체 자립의 최대 승부처로 작용함."
+    ],
+    "data_points": [
+      "AI 가속기 시장 점유율: 엔비디아 85%+ 독점에 대응한 빅테크 2nd 벤더(AMD) 채택률 10~15% 목표 확대"
+    ],
+    "signal": "bullish",
+    "signal_reason": "빅테크들의 가속기 조달 다변화 수요로 AMD와 인텔의 저평가 멀티플이 회복될 수 있는 턴어라운드 기회가 열렸기 때문임.",
+    "key_companies": [
+      "AMD(AMD)",
+      "인텔(INTC)"
+    ],
+    "insight": "독점 기업의 과도한 마진은 필연적으로 <span class=\"text-cyan-300 font-semibold\">'경쟁사를 지원하려는 고객사들의 반작용'</span>을 불러오며 이것이 AMD와 인텔의 기회입니다.",
+    "action_point": "엔비디아 올인 전략에서 벗어나 가격 매력도와 점유율 반등 가능성을 지닌 AMD를 포트폴리오의 위성(Satellite) 종목으로 편입하십시오."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "인텔",
+      "AMD",
+      "가속기다변화",
+      "ROCm",
+      "엔비디아대항마"
+    ]
+  }
+}

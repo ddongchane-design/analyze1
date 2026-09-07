@@ -1,0 +1,49 @@
+{
+  "video": {
+    "id": "7VYu-P9tQZA",
+    "title": "연준 월러 이사 \"물가 안정되면 9월 동결 지지\"…테슬라, 사이버캡 발표 앞두고 급등 [월가 뉴스레터]",
+    "published": "2026-09-03T00:00:00+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=7VYu-P9tQZA",
+    "thumbnail": "https://img.youtube.com/vi/7VYu-P9tQZA/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "연준 내 대표 매파였던 월러 이사가 인플레이션 둔화 시 9월 금리 동결을 지지할 수 있다고 시사하며 뉴욕 증시 안도 랠리를 자극함.\n스노우플레이크 호실적과 오픈AI의 <span class=\"text-cyan-300 font-semibold\">차세대 AI 모델 '아스트라'</span> 공개에 힘입어 오라클, 팔란티어 등 AI 소프트웨어 섹터가 강력히 반등함.\n엔비디아의 허깅페이스 18조 원 인수와 테슬라의 <span class=\"text-cyan-300 font-semibold\">사이버캡(로보택시)</span> 공개 기대감이 테크 성장주의 모멘텀을 주도함.",
+    "key_claims": [
+      "월러 이사의 비둘기파적 선회 가능성이 금리 인상 공포를 완화시키며 위험자산 심리를 회복시킴.",
+      "하드웨어 칩 중심에서 스노우플레이크, 오라클 등 AI 소프트웨어 및 플랫폼으로 매수세가 확산됨.",
+      "엔비디아의 오픈소스 AI 생태계(허깅페이스) 장악과 테슬라 자율주행 상용화가 새로운 성장 동력임."
+    ],
+    "data_points": [
+      "뉴욕 증시 마감 지수: S&P500 +1.0%, 나스닥 +1.5% 상승 마감",
+      "엔비디아의 허깅페이스 인수 규모: 약 18조 원 수준의 빅딜 단행",
+      "오픈AI 신규 모델 아스트라 벤치마크: 프론티어 매스 티어4에서 98~100% 점수 획득"
+    ],
+    "signal": "bullish",
+    "signal_reason": "연준 이사진의 긴축 완화 시사와 함께 차세대 AI 모델 출시 및 빅테크 생태계 확장(M&A)으로 기술주 전반의 실적 프리미엄이 부각되기 때문임.",
+    "key_companies": [
+      "테슬라(TSLA)",
+      "엔비디아(NVDA)",
+      "오라클(ORCL)",
+      "스노우플레이크(SNOW)",
+      "팔란티어(PLTR)"
+    ],
+    "insight": "반도체 하드웨어에 쏠렸던 AI 투자 사이클이 <span class=\"text-cyan-300 font-semibold\">AI 소프트웨어 및 플랫폼 허브</span>로 온기가 확산되며 테크 주도주의 저변이 넓어지고 있습니다.",
+    "action_point": "실적이 뒷받침되는 AI 엔터프라이즈 소프트웨어 기업과 자율주행 상용화 모멘텀을 가진 <span class=\"text-cyan-300 font-semibold\">테슬라</span>의 비중을 적극 확대하십시오."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock",
+      "economy"
+    ],
+    "tags": [
+      "월러이사",
+      "사이버캡",
+      "테슬라",
+      "엔비디아",
+      "허깅페이스",
+      "오픈AI아스트라"
+    ]
+  }
+}

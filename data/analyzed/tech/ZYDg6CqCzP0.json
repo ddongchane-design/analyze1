@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "ZYDg6CqCzP0",
+    "title": "대한민국 과기부 장관 지원합니다. (하이젠버그)",
+    "published": "2026-09-05T00:00:00+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=ZYDg6CqCzP0",
+    "thumbnail": "https://img.youtube.com/vi/ZYDg6CqCzP0/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "90만 기술 채널 SOD가 현장 연구자 60명과 함께 기술과 자본을 연결하는 <span class=\"text-cyan-300 font-semibold\">'하이젠버그(Heisenberg)' 플랫폼 출범</span>을 알리며 국내 과학기술 생태계의 고질적 왜곡을 정면 비판함.\n초전도체 소동이나 왜곡된 루머에 주가가 출렁이고 정작 기술을 아는 연구자의 목소리는 묻히는 여론 지형을 타파하겠다고 선언함.\n기술 연구자는 논문을 알고 애널리스트는 돈을 알지만 그 교집합이 없었던 한국 시장에서 <span class=\"text-amber-300 font-bold\">'실제 현업 연구자가 팩트체크하는 진짜 기술 투자 정보'</span>의 독점적 가치를 제시함.",
+    "key_claims": [
+      "근거 없는 기술 루머와 목소리 큰 비전문가가 여론을 주도하며 국가적 R&D 자원 배분을 왜곡하고 있음.",
+      "삼성, LG 등 최전선 연구자들의 현장 검증을 통해 과장된 주가 버블과 거짓 테마주를 걸러내는 플랫폼을 구축함.",
+      "기술과 금융 자본 사이의 중간지대를 선점하여 올바른 기술 밸류에이션 문화를 정착시키려 함."
+    ],
+    "data_points": [
+      "플랫폼 규모: 현직 전문 연구진 60명 참여, 회원 수 11,000명 돌파",
+      "분야: 배터리, 자율주행, 반도체 첨단 패키징 등 핵심 테크 도메인 전수 커버"
+    ],
+    "signal": "neutral",
+    "signal_reason": "기술 투자의 팩트체크와 건전한 투자 문화 형성에 기여하는 혁신적 시도로 테크 섹터 전반의 신뢰도를 높이기 때문임.",
+    "key_companies": [
+      "삼성전자(005930)",
+      "LG에너지솔루션(373220)",
+      "SK하이닉스(000660)"
+    ],
+    "insight": "AI와 첨단 테크 투자에서 가장 위험한 것은 비전문가의 뇌피셜이며, <span class=\"text-cyan-300 font-semibold\">'논문을 직접 쓰는 현직 연구자의 날카로운 검증'</span>이 알파를 창출합니다.",
+    "action_point": "소문만 무성한 초전도체·신소재 테마주를 피하고, 실제 연구 개발진의 상용화 수율과 특허가 입증된 기업에만 선별 투자하십시오."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock",
+      "etc"
+    ],
+    "tags": [
+      "SOD",
+      "하이젠버그",
+      "과기부장관",
+      "기술팩트체크",
+      "연구자네트워크"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "video": {
+    "id": "TmXDriqgiIU",
+    "title": "돈 계속 나가도 빅테크가 AI 투자를 멈출 수 없는 이유 #교양이를부탁해 #미국채금리 #삼성전자 #SK하이닉스 #AI사이클 #데이터센터 #목대균",
+    "published": "2026-08-22T12:00:21+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=TmXDriqgiIU",
+    "thumbnail": "https://img.youtube.com/vi/TmXDriqgiIU/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "막대한 자본 지출(Capex)과 감가상각비 부담에도 불구하고 <span class=\"text-cyan-300 font-semibold\">빅테크(마이크로소프트, 구글, 메타, 아마존)가 AI 투자를 멈출 수 없는 죄수의 딜레마</span>를 목대균 대표가 명쾌하게 해설함. AI 플랫폼 패권 경쟁에서 한 번 뒤처지면 기존의 검색·클라우드·SNS 독점 지위가 통째로 증발할 수 있다는 '생존의 공포'가 천문학적 투자를 강제하고 있음을 분석함.",
+    "key_claims": [
+      "빅테크의 AI 투자는 단순한 신사업 진출이 아니라 기존 캐시카우 플랫폼의 수성과 생존을 위한 필수 방어 비용임.",
+      "투자를 멈추는 기업은 경쟁사(OpenAI, xAI 등)에 의해 플랫폼 락인(Lock-in) 효과를 빼앗기고 회복 불가능한 타격을 입게 됨.",
+      "따라서 단기 ROI 논란에도 불구하고 하이퍼스케일러들의 데이터센터·GPU 조달 경쟁은 향후 2~3년간 지속될 수밖에 없음."
+    ],
+    "data_points": [
+      "빅테크 4사(MS, 구글, 아마존, 메타) 연간 AI Capex 총합 2,000억 달러 돌파",
+      "AI 전환 실패 시 기존 플랫폼 트래픽 유실 리스크",
+      "GPU 및 차세대 AI 서버 수주 계약 다년도 확보"
+    ],
+    "signal": "bullish",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">빅테크 간 AI 플랫폼 생존 경쟁</span>으로 인해 하드웨어 공급망(엔비디아, 메모리)에 대한 자본 유입이 구조적으로 보장됨.",
+    "key_companies": [
+      "Microsoft",
+      "Alphabet",
+      "Meta",
+      "Amazon",
+      "NVIDIA"
+    ],
+    "insight": "AI 투자는 '돈을 얼마나 버느냐'의 문제가 아니라 '살아남느냐 죽느냐'의 죄수의 딜레마이며, 이 치열한 군비경쟁의 최대 수혜자는 무기를 파는 하드웨어 독점 기업들임.",
+    "action_point": "AI 하드웨어 픽앤셔블(무기 공급자) 대장주(엔비디아, SK하이닉스, TSMC) 비중 최우선 유지."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock",
+      "economy"
+    ],
+    "tags": [
+      "빅테크AI투자",
+      "Capex경쟁",
+      "목대균대표",
+      "플랫폼선점",
+      "AI생존게임"
+    ]
+  }
+}

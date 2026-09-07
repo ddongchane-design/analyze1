@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "-rPOmHInDpU",
+    "title": "Tesla Optimus vs. Hyundai Atlas: The Battle Will Ultimately Be Decided by 'Price, Data,' and Mass...",
+    "published": "2026-09-03T04:43:48+00:00",
+    "channel_name": "엔지니어TV",
+    "url": "https://www.youtube.com/watch?v=-rPOmHInDpU",
+    "thumbnail": "https://img.youtube.com/vi/-rPOmHInDpU/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "휴머노이드 로봇 시장의 선두 주자인 <span class=\"text-cyan-300 font-semibold\">테슬라 옵티머스</span>와 <span class=\"text-cyan-300 font-semibold\">현대차/보스턴 다이내믹스 아틀라스</span>의 최종 승부는 화려한 시연 동작이 아닌 <span class=\"text-amber-300 font-bold\">양산 단가(BOM 원가)</span>와 <span class=\"text-amber-300 font-bold\">피지컬 AI 훈련 데이터</span> 확보력에서 결정될 전망입니다.\n테슬라는 2만~3만 달러 수준의 원가 절감 목표와 자체 기가팩토리 제조 공정을 활용해 대량 양산을 추진하는 반면, 보스턴 다이내믹스는 압도적인 하드웨어 기구학 완성도 위에 현대차 글로벌 스마트팩토리를 실증 테스트베드로 투입하고 있습니다.\n결국 수만 대 이상의 로봇을 실전 공장에 배치하여 실시간 물리 인터랙션 데이터를 선점하는 기업이 휴머노이드 생태계의 표준을 장악할 것입니다.",
+    "key_claims": [
+      "로봇 경쟁력의 최종 본질은 연구소 시연이 아니라 2만~3만 달러 이하로 내릴 수 있는 대량 양산 및 부품 공급망 제어력임.",
+      "<span class=\"text-cyan-300 font-semibold\">테슬라</span>는 FSD 비전 데이터 파이프라인과 수직계열화된 액추에이터 생산 능력을 바탕으로 가장 빠른 상용 원가 절감에 근접함.",
+      "<span class=\"text-cyan-300 font-semibold\">현대차</span>는 보스턴 다이내믹스의 고난도 관절 제어 기술을 완성차 제조 라인에 직접 통합하여 실전 작업 데이터를 축적 중임."
+    ],
+    "data_points": [
+      "휴머노이드 상용화 임계 단가: 대당 2만~3만 달러(약 2,700만~4,000만 원) 수준 진입 시 인건비 대체 효과 극대화",
+      "테슬라 프리몬트 및 기가팩토리 내 옵티머스 파일럿 배치 및 2026~2027년 수천 대 규모 양산 목표"
+    ],
+    "signal": "bullish",
+    "signal_reason": "휴머노이드 로봇 경쟁이 기술 프로토타입 단계를 지나 공장 실증 및 대량 양산 단가 절감 경쟁으로 본격 진입하며 하드웨어 가치사슬 전반의 상용화가 가속화되고 있음.",
+    "key_companies": [
+      "테슬라",
+      "현대자동차",
+      "보스턴 다이내믹스",
+      "삼성전자",
+      "LG전자"
+    ],
+    "insight": "휴머노이드는 단순한 기계 장치가 아닌 <span class=\"text-amber-300 font-bold\">피지컬 AI의 데이터 수집 단말기</span>로 진화하고 있으며, 제조 공장에서 발생하는 엣지 케이스 데이터를 대규모로 학습할 수 있는 완성차/제조 기반 기업이 최종 승자가 될 것입니다.",
+    "action_point": "로봇 완성품 제조사뿐만 아니라 고정밀 감속기, 모터 제어 드라이브, 힘 토크 센서 등 원가 절감과 대량 생산이 가능한 핵심 하드웨어 밸류체인에 주목해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "robot",
+    "secondary_topics": [
+      "tech",
+      "stock"
+    ],
+    "tags": [
+      "옵티머스vs아틀라스",
+      "피지컬AI",
+      "로봇양산단가",
+      "휴머노이드BOM",
+      "현대차보스턴다이내믹스"
+    ]
+  }
+}

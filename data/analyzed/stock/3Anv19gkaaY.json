@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "3Anv19gkaaY",
+    "title": "S&P500 폭락기업 내부자 거래 포착, 큰손들은 지금 쓸어담는다?",
+    "published": "2026-08-22T10:40:12+00:00",
+    "channel_name": "수페TV",
+    "url": "https://www.youtube.com/watch?v=3Anv19gkaaY",
+    "thumbnail": "https://img.youtube.com/vi/3Anv19gkaaY/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "S&P500 지수 조정 국면에서 기업 내부 사정을 가장 잘 아는 <span class=\"text-cyan-300 font-semibold\">경영진 및 내부자(Insider)들의 대규모 순매수</span> 포착 데이터와 이를 활용한 역발상 투자 전략을 분석함. 워런 버핏의 옥시덴탈 페트롤리움 지속 매수를 비롯해 금융, 에너지, 바이오 섹터에서 주가 급락을 기회로 삼은 내부자 집중 매수 종목들을 추적함. 주가 바닥권에서 발생하는 <span class=\"text-amber-300 font-bold\">경영진의 자사주 직접 매입</span>은 강력한 하방 경직성과 밸류에이션 매력 시그널로 작용함.",
+    "key_claims": [
+      "최근 1~2개월간 급락한 S&P 500 종목 중 내부자 순매수 비율(Insider Buy/Sell Ratio)이 급등한 기업들은 통계적으로 6~12개월 후 시장 수익률을 상회함.",
+      "단순 자사주 소각이 아닌 CEO 및 이사진이 개인 사재로 주식을 매입하는 클러스터 매수는 가장 신뢰도 높은 반등 지표임.",
+      "거시경제 불안 속에서도 실적 개선 확신이 있는 헬스케어, 지역은행, 필수 인프라 기업들에 내부자 자금이 집중 유입되고 있음."
+    ],
+    "data_points": [
+      "S&P500 내부자 매수 비율 전월 대비 35% 증가",
+      "옥시덴탈(OXY) 버핏 지분율 28% 돌파",
+      "내부자 클러스터 매수 발생 후 1년 평균 초과 수익률 +14.2%"
+    ],
+    "signal": "bullish",
+    "signal_reason": "시장 조정기 발생한 <span class=\"text-cyan-300 font-semibold\">핵심 경영진의 사재 매입</span>은 단기 공포로 인한 저평가 국면 탈출과 기업 펀더멘털 회복에 대한 가장 강력한 선행 지표임.",
+    "key_companies": [
+      "Occidental Petroleum",
+      "Berkshire Hathaway",
+      "Charles Schwab",
+      "Bristol Myers Squibb"
+    ],
+    "insight": "거시 변수(금리, 지정학)로 인한 시장 전반의 투매는 개별 기업의 본질가치를 왜곡시키며, 이때 가장 정확한 내부 정보와 확신을 가진 인사이더의 자금 흐름을 추종하는 것이 효과적인 방어적 알파 전략임.",
+    "action_point": "최근 3개월간 낙폭 과대 종목 중 CEO/CFO 2인 이상의 연속 장내 순매수가 발생한 기업 리스트를 선별하여 분할 매수 진입."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "내부자거래",
+      "SP500",
+      "버핏",
+      "저평가매수",
+      "인사이더매수"
+    ]
+  }
+}

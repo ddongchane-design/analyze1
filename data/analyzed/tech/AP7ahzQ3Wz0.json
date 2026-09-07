@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "AP7ahzQ3Wz0",
+    "title": "SK하이닉스가 메모리 세계 1위인 이유",
+    "published": "2026-08-22T11:00:19+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=AP7ahzQ3Wz0",
+    "thumbnail": "https://img.youtube.com/vi/AP7ahzQ3Wz0/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>가 글로벌 플래시 메모리 서밋(FMS)에서 공개한 차세대 넥스트 메모리 <span class=\"text-cyan-300 font-semibold\">HBF(High Bandwidth Flash)</span>의 기술 구조와 시장 파급력을 분석함. HBM이 D램을 수직 적층하여 GPU 옆에 배치한 것처럼, HBF는 낸드 플래시를 TSV(실리콘 관통 전극) 기술로 수직 적층하여 GPU/가속기 바로 옆에 초근접 배치하는 혁신 개념임. 초대형 LLM 모델의 웨이트(가중치) 저장 및 추론 메모리 병목을 극복할 최적의 솔루션으로 부상함.",
+    "key_claims": [
+      "D램 기반 HBM은 용량당 단가가 매우 높아 수백 테라바이트급 초대형 AI 모델의 모든 데이터를 수용하기에 경제적 한계가 존재함.",
+      "HBF는 낸드 플래시의 압도적 대용량과 HBM 수준의 초고대역폭(TSV 연결)을 결합하여 가성비 높은 AI 추론 전용 메모리 계층을 형성함.",
+      "SK하이닉스는 D램의 HBM 1위에 이어 낸드 플래시에서도 HBF라는 새로운 폼팩터를 창출하며 글로벌 메모리 리더십을 독점하고 있음."
+    ],
+    "data_points": [
+      "FMS(Flash Memory Summit) 공식 공개 차세대 HBF 규격",
+      "TSV 기반 초다층 낸드 수직 적층 기술 적용",
+      "기존 eSSD 대비 대역폭 수십 배 향상 및 데이터 전송 지연시간(Latency) 대폭 단축"
+    ],
+    "signal": "bullish",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">SK하이닉스</span>가 HBM에 이어 <span class=\"text-cyan-300 font-semibold\">HBF</span>라는 차세대 AI 낸드 시장까지 개척하며 경쟁사 대비 독보적인 메모리 기술 격차를 증명함.",
+    "key_companies": [
+      "SK하이닉스",
+      "NVIDIA",
+      "삼성전자",
+      "Micron",
+      "SanDisk/Kioxia"
+    ],
+    "insight": "AI 메모리 시장이 고가의 HBM(학습/고성능)과 대용량 초고속 HBF(추론/스토리지)로 이원화되면서, 종합 메모리 패키징 기술을 확보한 선도 기업의 수익 구조가 한층 탄탄해질 것임.",
+    "action_point": "SK하이닉스 낸드 사업부 턴어라운드 및 차세대 HBF 밸류체인 장비/소재 기업(TSV 관련 한미반도체, 이오테크닉스 등) 지속 관심."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "SK하이닉스",
+      "HBF",
+      "FMS2026",
+      "NAND적층",
+      "AI스토리지"
+    ]
+  }
+}

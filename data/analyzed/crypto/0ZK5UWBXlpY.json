@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "0ZK5UWBXlpY",
+    "title": "SEC '레귤레이션 크립토' 공개…한국 시장의 미칠 영향 | 서동주, 김동환, 김종승 대표 [크립토 PLUS]",
+    "published": "2026-09-03T00:00:00+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=0ZK5UWBXlpY",
+    "thumbnail": "https://img.youtube.com/vi/0ZK5UWBXlpY/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 증권거래위원회(SEC)가 비증권 암호자산의 합법적 발행 및 대중 펀드레이징 경로를 명문화한 <span class=\"text-amber-300 font-bold\">레귤레이션 크립토(Regulation Crypto)</span> 제정안(약 300페이지)을 전격 공개함.\n스타트업 등록 면제 및 자금 조달 트랙을 신설하여 연방 차원에서 복잡한 주별 인허가 규제를 통합 면제하는 제도적 돌파구를 마련함.\n이에 따라 <span class=\"text-cyan-300 font-semibold\">코인베이스, 로빈후드</span> 등 대형 플랫폼의 자체 토큰 발행과 수탁(커스터디) 기업들의 기관 자금 흡수가 급물살을 탈 전망임.",
+    "key_claims": [
+      "SEC 레귤레이션 크립토는 모호했던 비증권 토큰의 공식 판매 및 자금 조달 가이드라인을 명문화함.",
+      "대중 참여형 토큰 세일즈 합법화로 글로벌 크립토 창업팀과 자본의 미국 쏠림 현상이 심화될 것임.",
+      "한국도 단순 규제 소비국을 넘어 디지털자산 기본법 제정과 제도적 수용을 서둘러야 함."
+    ],
+    "data_points": [
+      "SEC 레귤레이션 크립토 제정안 규모: 300페이지 이상 (규정 100~500번 체계)",
+      "제안서 공청회 의견 수렴 기한: 10월 20일까지 공식 피드백 접수"
+    ],
+    "signal": "bullish",
+    "signal_reason": "미국 금융당국이 암호자산 발행 및 공공 판매를 제도권 규정으로 양성화함으로써 규제 불확실성을 걷어내고 기관 및 대형 플랫폼의 웹3 사업 확장을 본격화하기 때문임.",
+    "key_companies": [
+      "코인베이스(COIN)",
+      "로빈후드(HOOD)",
+      "앵커리지 디지털",
+      "비트고"
+    ],
+    "insight": "규제 부재로 음성화되었던 토큰 발행 시장이 미국의 제도권 규정집(CFR) 안으로 편입되면서 <span class=\"text-cyan-300 font-semibold\">미국 라이선스 수탁사 및 거래소</span>가 글로벌 웹3 자금을 독점하는 금융 패권 구조가 강화될 것입니다.",
+    "action_point": "규제 명확화의 직접 수혜를 받는 <span class=\"text-cyan-300 font-semibold\">코인베이스, 로빈후드</span> 등 제도권 거래소/플랫폼 주식 및 검증된 인프라 수탁 관련주의 중장기 비중 확대를 검토하십시오."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "stock",
+      "economy"
+    ],
+    "tags": [
+      "레귤레이션크립토",
+      "SEC",
+      "토큰발행",
+      "코인베이스",
+      "로빈후드",
+      "암호화폐규제"
+    ]
+  }
+}

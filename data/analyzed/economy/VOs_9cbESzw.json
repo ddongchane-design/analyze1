@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "VOs_9cbESzw",
+    "title": "미 연준 금리 인하 기대와 잭슨홀 이후... 9월 금리인하 확률 53% [마켓 포커스]",
+    "published": "2026-08-30T22:45:18+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=VOs_9cbESzw",
+    "thumbnail": "https://img.youtube.com/vi/VOs_9cbESzw/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "잭슨홀 미팅 이후 페드워치(FedWatch) 기준 <span class=\"text-rose-400 font-medium\">9월 미국 금리 인하 확률이 50%대 초반까지 후퇴</span>하며 시장의 조기 완화 기대가 흔들리고 있습니다.\n견고한 고용 지표와 서비스 인플레이션의 끈적임(Sticky Inflation)으로 인해 연준 내부에서 매파적 목소리가 힘을 얻고 있습니다.\n금리 인하 시점과 폭에 대한 기대 조정이 진행됨에 따라 단기적으로 기술주 밸류에이션의 변동성 확대가 불가피합니다.",
+    "key_claims": [
+      "잭슨홀 이후 연준 위원들의 매파적 스탠스로 9월 금리 인하 베팅이 급격히 약화됨.",
+      "고용과 소비 지표가 여전히 견조하여 연준이 서둘러 완화 정책으로 돌아설 명분이 부족함.",
+      "시장의 과도했던 연내 다회 인하 기대가 현실적인 '점진적 인하'로 재조정되는 과도기임."
+    ],
+    "data_points": [
+      "페드워치 9월 금리 인하 확률: 기존 80%대에서 53% 수준으로 급락",
+      "미국 국채 금리: 10년물 금리 반등세 시현"
+    ],
+    "signal": "neutral",
+    "signal_reason": "통화정책 완화 시점의 이연이 단기적으로 증시 밸류에이션을 압박하나 펀더멘털 침체가 아닌 견고한 경제에 기인하기 때문임.",
+    "key_companies": [
+      "미국 연방준비제도(Fed)",
+      "JP모건(JPM)",
+      "골드만삭스(GS)"
+    ],
+    "insight": "금리 인하 지연은 악재가 아니라 미국 경제의 <span class=\"text-amber-300 font-bold\">견고한 펀더멘털(No Landing)</span>을 반영하는 양날의 검입니다.",
+    "action_point": "고금리 환경에서도 자체 현금 흐름으로 부채를 상환하고 자사주를 매입할 수 있는 퀄리티 우량주에 집중할 것."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "연준금리인하",
+      "페드워치53%",
+      "잭슨홀여파",
+      "통화정책",
+      "삼프로TV"
+    ]
+  }
+}

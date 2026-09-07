@@ -1,0 +1,48 @@
+{
+  "video": {
+    "id": "gxf4FKDZC-A",
+    "title": "다음 주 엔비디아 실적 발표보다 중요한 것은 | 월가백브리핑",
+    "published": "2026-08-23T03:00:30+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=gxf4FKDZC-A",
+    "thumbnail": "https://img.youtube.com/vi/gxf4FKDZC-A/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "글로벌 증시의 최대 분수령인 <span class=\"text-cyan-300 font-semibold\">엔비디아의 실적 발표</span>를 앞두고, 단순 어닝 서프라이즈 여부보다 월가가 주목하는 본질적인 핵심 변수(<span class=\"text-rose-400 font-medium\">마진 증가율 피크아웃, 자사주 매입의 성격, 하이퍼스케일러의 Capex 지속성</span>)를 월가백브리핑에서 심층 분석함. AI 칩 시장 점유율 100%에서 시작한 엔비디아가 직면한 성장률 둔화 압력과 역사적 버블 징후(자사주 매입 급증)에 대한 월가의 냉철한 시각을 전달함.",
+    "key_claims": [
+      "엔비디아가 시장 컨센서스를 상회하더라도 월가의 비공식 위스퍼 넘버(Whisper Number)를 크게 넘어서지 못하면 주가 변동성이 확대될 수 있음.",
+      "과거 2000년 닷컴버블 정점기처럼 성장주의 대규모 자사주 매입은 실적 성장률 둔화를 방어하기 위한 경영진의 마지막 카드일 수 있다는 경계론 존재.",
+      "AI 반도체 경쟁자(브로드컴, AMD, 빅테크 자체 ASIC)들의 추격과 마진율 정점 통과 여부가 엔비디아 밸류에이션의 최대 시험대임."
+    ],
+    "data_points": [
+      "엔비디아 최근 4개 분기 실적 서프라이즈에도 실적 발표 당일 주가 반응 엇갈림",
+      "빅테크 자사주 매입 규모 역사적 최대치 경신",
+      "엔비디아 총마진율(Gross Margin) 75% 내외 유지 여부 주목"
+    ],
+    "signal": "neutral",
+    "signal_reason": "압도적 실적에도 불구하고 <span class=\"text-rose-400 font-medium\">높아진 기대치(위스퍼 넘버)와 마진율 정점 논란</span>으로 실적 발표 직후 단기 주가 출렁임 가능성이 높아 보수적 접근 권장.",
+    "key_companies": [
+      "NVIDIA",
+      "Broadcom",
+      "AMD",
+      "Apple",
+      "Microsoft"
+    ],
+    "insight": "엔비디아의 실적 발표는 개별 기업의 성적표를 넘어 전 세계 AI 랠리의 지속 가능성을 검증하는 리트머스 시험지이며, 마진율의 고점 형성 여부가 장기 주가 궤적을 좌우할 것임.",
+    "action_point": "실적 발표 전 무리한 레버리지 추격 매수를 자제하고, 발표 후 마진 가이던스 확인 후 포지션 재조정."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "엔비디아실적",
+      "월가백브리핑",
+      "자사주매입",
+      "마진피크논란",
+      "빅테크Capex"
+    ]
+  }
+}

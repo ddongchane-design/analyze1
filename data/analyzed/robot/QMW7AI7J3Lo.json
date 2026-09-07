@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "QMW7AI7J3Lo",
+    "title": "현실에서 연습하지 않았는데 로봇이 바로 걷는다… 월드모델이 만드는 피지컬 AI의 미래",
+    "published": "2026-09-03T00:00:00+00:00",
+    "channel_name": "엔지니어TV",
+    "url": "https://www.youtube.com/watch?v=QMW7AI7J3Lo",
+    "thumbnail": "https://img.youtube.com/vi/QMW7AI7J3Lo/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "페이페이 리 교수가 이끄는 월드랩스(World Labs)의 아틀라스 기술과 3D 가우시안 스플래팅 기반 <span class=\"text-cyan-300 font-semibold\">월드 모델(World Model)</span>이 피지컬 AI 혁신을 촉발함.\n현실 공간을 3차원으로 복제한 가상 시뮬레이션 환경에서 로봇에게 수천 번의 물리 상호작용을 선행 학습시키는 'Real-Sim-Real' 체계를 구축함.\n이를 통해 현실에서 별도 보행 연습 없이도 조립 즉시 로봇이 바로 걷고 작업할 수 있는 <span class=\"text-cyan-300 font-semibold\">로봇의 'ChatGPT 모먼트'</span>가 임박함.",
+    "key_claims": [
+      "LLM이 다음 텍스트를 예측한다면 월드 모델은 물리 세계의 변화와 상호작용 결과를 예측함.",
+      "접촉(Tactile) 및 고빈도 물리 제어의 병목을 가상 공간 대량 시뮬레이션을 통해 80% 이상 해결함.",
+      "현실 훈련 비용을 획기적으로 줄여 범용 휴머노이드 로봇의 현장 투입 시기를 수년 앞당김."
+    ],
+    "data_points": [
+      "3D 공간 복원 기술: 소수 사진 데이터로 3D 가우시안 스플래팅 공간 생성",
+      "로봇 물리 제어 주파수: 접촉 시 수백~1,000Hz 이상의 초고해상도 데이터 실시간 처리 요구"
+    ],
+    "signal": "bullish",
+    "signal_reason": "물리 세계 시뮬레이션 및 파운데이션 모델의 결합으로 휴머노이드 로봇의 상용화 난제였던 일반화(Generalization)와 제어 학습 속도가 극적으로 개선되고 있기 때문임.",
+    "key_companies": [
+      "테슬라(TSLA)",
+      "엔비디아(NVDA)",
+      "유니트리(Unitree)",
+      "레인보우로보틱스(277810)"
+    ],
+    "insight": "물리적 공간 데이터를 가상으로 생성해 로봇의 행동 지능을 사전 체득시키는 <span class=\"text-cyan-300 font-semibold\">월드 모델 소프트웨어</span>가 차세대 피지컬 AI 패권의 핵심 코어가 될 것입니다.",
+    "action_point": "엔비디아의 옴니버스·피지컬 AI 생태계 및 자율 휴머노이드를 주도하는 <span class=\"text-cyan-300 font-semibold\">테슬라, 엔비디아, 핵심 로봇 부품사</span>의 장기 비중을 확대하십시오."
+  },
+  "classification": {
+    "primary_topic": "robot",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "월드모델",
+      "피지컬AI",
+      "월드랩스",
+      "페이페이리",
+      "휴머노이드",
+      "가우시안스플래팅"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "GqjQuaa55qU",
+    "title": "2년 안에 반도체 팹 완성하겠다는 중국, 가능할까?",
+    "published": "2026-09-03T00:00:00+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=GqjQuaa55qU",
+    "thumbnail": "https://img.youtube.com/vi/GqjQuaa55qU/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "중국이 미국의 통상 규제에 맞서 2년 내 반도체 팹(Fab)을 완공하겠다는 공격적 로드맵을 제시함.\n과거 일본 구마모토 TSMC JASM 팹이 전력·용수 인프라를 동시 구축하며 착공 18개월 만에 완공된 선례가 있어 물리적 불가능은 아님.\n다만 아무런 인프라가 없는 신규 부지에서 노광장비 수급 난항을 딛고 <span class=\"text-violet-300 font-medium\">2년 내 상용 양산 체제</span>를 구축할 수 있을지는 미지수임.",
+    "key_claims": [
+      "전력·가스·용수 공급 시설을 팹 건설과 동시 병행 추진할 경우 18~24개월 완공 사례가 실존함.",
+      "중국의 대규모 국가 보조금과 인력 투입으로 공사 속도는 빠르겠으나 선단 장비 조달이 최대 관건임.",
+      "중국의 레거시 및 중저가 반도체 팹 자립 속도전은 글로벌 성숙 공정 공급 과잉을 심화시킬 수 있음."
+    ],
+    "data_points": [
+      "TSMC 일본 구마모토 팹 완공 기록: 착공 후 1.5년(18개월) 만에 준공",
+      "중국 신규 반도체 팹 목표 공기: 착공 후 24개월 내 가동 목표"
+    ],
+    "signal": "neutral",
+    "signal_reason": "건설 인프라 속도전은 가능하나 첨단 반도체 장비 제재와 수율 확보라는 본질적 장벽이 여전히 높기 때문임.",
+    "key_companies": [
+      "SMIC(0981.HK)",
+      "TSMC(TSM)",
+      "ASML(ASML)"
+    ],
+    "insight": "중국이 인프라 동시 시공으로 팹 증설 기간을 극단적으로 단축하려 시도함에 따라 <span class=\"text-cyan-300 font-semibold\">레거시 반도체 시장의 가격 덤핑 공세</span>가 한층 거세질 전망입니다.",
+    "action_point": "중국의 추격이 빠른 레거시 공정 비중이 높은 반도체 부품주를 경계하고, 고난도 선단 공정(HBM, 선단 파운드리) 중심 기업으로 차별화하십시오."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "중국반도체팹",
+      "구마모토팹",
+      "반도체속도전",
+      "공급망자립",
+      "SMIC"
+    ]
+  }
+}

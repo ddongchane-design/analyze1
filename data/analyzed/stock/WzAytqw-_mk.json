@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "WzAytqw-_mk",
+    "title": "금리보다 수요가 중요해졌다…다시 주목받는 메모리 반도체, 국내주는 왜 못 올랐나 | 김장열 유니스토리자산운용 센터장 [글로벌 인터뷰]",
+    "published": "2026-09-04T00:00:00+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=WzAytqw-_mk",
+    "thumbnail": "https://img.youtube.com/vi/WzAytqw-_mk/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "연준 금리 인하 변수보다 빅테크의 실질 <span class=\"text-amber-300 font-bold\">AI 인프라 Capex와 서버용 메모리 수요</span>가 반도체 주가의 진짜 핵심 드라이버임.\n최근 국내 반도체 주가의 횡보는 실적 부진 때문이 아니라, 실적 발표 후 지나치게 높아진 눈높이와 수급적 공백(Sell on News)에 기인함.\n서버용 DDR5와 eSSD, HBM의 판가 상승세가 견고하게 유지되고 있어 하반기 실적 확인과 함께 강력한 리레이팅이 전개될 것임.",
+    "key_claims": [
+      "AI 서버향 고용량 고부가 메모리(DDR5 128GB, eSSD 64TB) 수요가 일반 레거시 부진을 완전히 압도함.",
+      "국내 대형 반도체주의 주가 정체는 펀더멘털 훼손이 아닌 외국인 수급 리밸런싱과 단기 모멘텀 공백의 결과임.",
+      "빅테크들의 AI 설비 투자가 축소되지 않는 한 메모리 업계의 영업이익 우상향 궤적은 변함없음."
+    ],
+    "data_points": [
+      "엔터프라이즈 SSD 및 DDR5 서버 모듈: 전년 대비 판가(ASP) 두 자릿수 이상 상승세 지속",
+      "빅테크 AI Capex 증가율: 2026년에도 주요 하이퍼스케일러 30% 이상 투자 확대 유지"
+    ],
+    "signal": "bullish",
+    "signal_reason": "견고한 서버 메모리 수요와 높은 ASP가 실적으로 입증되고 있으며, 주가 조정으로 밸류에이션 매력도가 한층 높아졌기 때문임.",
+    "key_companies": [
+      "삼성전자(005930)",
+      "SK하이닉스(000660)",
+      "마이크론(MU)"
+    ],
+    "insight": "주가의 단기 등락에 일희일비하기보다 <span class=\"text-cyan-300 font-semibold\">'하이퍼스케일러의 실제 데이터센터 가동률과 메모리 수급 밸런스'</span>에 집중해야 진정한 초과 수익을 거둘 수 있습니다.",
+    "action_point": "수급 공백으로 주가가 지지부진한 현 시점을 우량 메모리주의 비중 확대 적기로 활용하고 긴 호흡으로 3~4분기 실적 시즌을 겨냥하십시오."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "메모리반도체",
+      "김장열센터장",
+      "서버용DDR5",
+      "AI수요",
+      "밸류에이션"
+    ]
+  }
+}

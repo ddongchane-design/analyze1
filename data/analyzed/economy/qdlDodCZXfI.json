@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "qdlDodCZXfI",
+    "title": "[지식뉴스] \"미국은 빚 갚을 생각이 없습니다, AI 투자도 포기 안 합니다\"...당신이 꼭 알아야 할 베센트가 감춘 '진짜 시나리오' / 교양이를 부탁해 성상현",
+    "published": "2026-08-30T09:00:23+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=qdlDodCZXfI",
+    "thumbnail": "https://img.youtube.com/vi/qdlDodCZXfI/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "트럼프 2기 재무장관 지명자 스콧 베센트의 핵심 전략은 <span class=\"text-amber-300 font-bold\">'부채를 갚지 않고 AI 성장으로 희석시키는 시나리오'</span>입니다.\n미국은 단기 국채 중심 발행과 금융 규제 완화로 금리를 인위적으로 억누르고, 국가적 역량을 총동원해 AI 생산성 폭발을 유도하여 부채 비율을 자연 감소시키려 합니다.\n이 거대한 매크로 청사진 하에서 미국 정부는 AI 인프라 투자와 반도체 공급망 지원을 절대 중단하지 않을 것입니다.",
+    "key_claims": [
+      "미국은 증세나 긴축 대신 고성장과 인플레이션을 통한 '부채 희석(Debt Monetization)' 전략을 선택함.",
+      "스콧 베센트의 3-3-3 정책(GDP 3% 성장, 재정적자 3% 감축, 에너지 300만 배럴 증산)의 핵심 엔진은 AI임.",
+      "AI 데이터센터와 전력 인프라 투자는 국가 패권 수호를 위한 미국의 최우선 불가역적 과제임."
+    ],
+    "data_points": [
+      "미국 국가 부채 총액: 35조 달러 돌파",
+      "베센트 전략: 초단기 국채 발행 확대로 장기 금리 통제 및 GDP 대비 부채비율 축소"
+    ],
+    "signal": "bullish",
+    "signal_reason": "미국 정부의 최우선 국정 과제가 AI 생산성 극대화에 맞춰져 있어 정책적 유동성과 규제 혜택이 AI 생태계에 집중되기 때문임.",
+    "key_companies": [
+      "엔비디아(NVDA)",
+      "마이크로소프트(MSFT)",
+      "테슬라(TSLA)",
+      "콘스텔레이션 에너지(CEG)"
+    ],
+    "insight": "미국의 부채 위기는 긴축이 아니라 <span class=\"text-amber-300 font-bold\">AI를 통한 압도적 성장으로 부채를 녹여버리는 길</span>을 통해서만 해결될 수 있습니다.",
+    "action_point": "미국 정부의 정책적 비호를 받는 AI 하드웨어, 데이터센터 전력 유틸리티, 원전 밸류체인에 포트폴리오를 집중할 것."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "tech",
+      "stock"
+    ],
+    "tags": [
+      "스콧베센트",
+      "미국부채시나리오",
+      "AI성장드라이브",
+      "교양이를부탁해",
+      "성상현"
+    ]
+  }
+}

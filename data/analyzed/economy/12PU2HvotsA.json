@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "12PU2HvotsA",
+    "title": "요즘 미국 투자하는 사람들 심리",
+    "published": "2026-08-30T12:00:39+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=12PU2HvotsA",
+    "thumbnail": "https://img.youtube.com/vi/12PU2HvotsA/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "금리 인상기임에도 불구하고 <span class=\"text-amber-300 font-bold\">금과 달러 자산이 동반 상승</span>하는 이례적인 금융 현상이 관측되고 있습니다.\n이는 통상적인 경제 상식과 달리 글로벌 투자자들 사이에서 <span class=\"text-rose-400 font-medium\">미국 달러화 및 재정 신뢰도에 대한 불안감</span>이 확산되고 있음을 시사합니다.\n금리가 오르더라도 이자를 주지 않는 실물 안전자산인 금으로 자금이 유입되는 헤지 심리가 강화되고 있습니다.",
+    "key_claims": [
+      "금리 상승 시 금값이 하락하는 통상적 상관관계가 깨지고 동반 상승세가 나타남.",
+      "미국 재정 적자와 달러 패권에 대한 신뢰 균열이 안전자산 선호 심리를 자극함.",
+      "투자자들은 표면 금리 수익보다 자산의 장기적 실질 가치 보존(금 매수)에 집중하고 있음."
+    ],
+    "data_points": [
+      "통상적 매크로 공식(금리 상승 = 금 가격 하락)의 탈동조화 현상 심화"
+    ],
+    "signal": "neutral",
+    "signal_reason": "달러 자산의 불안 요인과 실물 안전자산 선호가 팽팽히 맞서며 매크로 불확실성을 키우고 있기 때문임.",
+    "key_companies": [
+      "미국 재무부",
+      "뉴몬트(NEM)"
+    ],
+    "insight": "단순한 통화정책 긴축 이슈를 넘어 글로벌 기축통화 시스템에 대한 <span class=\"text-amber-300 font-bold\">신뢰 재평가 사이클</span>이 시작되었음을 방증합니다.",
+    "action_point": "달러 표시 자산 일변도에서 벗어나 금 및 실물 원자재 ETF 등 대체 안전자산 비중을 일부 편입하는 헷지 전략이 필요합니다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "달러패권",
+      "금투자",
+      "금리인상",
+      "안전자산",
+      "한경글로벌마켓"
+    ]
+  }
+}

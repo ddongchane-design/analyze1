@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "19JgEChjtok",
+    "title": "트럼프가 한국 반도체 찍었다. 중국산 부품 몰래 섞지마 (생크션랩 조의준 대표)",
+    "published": "2026-09-03T00:00:00+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=19JgEChjtok",
+    "thumbnail": "https://img.youtube.com/vi/19JgEChjtok/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 백악관 및 통상 당국 보고서에서 한국의 <span class=\"text-violet-300 font-medium\">경기도 반도체 벨트</span>를 중국산 부품의 대미 우회 수출(환적) 고위험 지역(Tier 1)으로 공식 적시함.\n선진국 중 유일하게 특정 지역 지명이 지정되었으며, 저가 중국산 반도체의 세탁 조립 및 재수출 행위를 차단하기 위한 현장 감시와 제재 착수가 임박함.\n국내 반도체·부품 기업들이 미 BIS(산업안보국)의 <span class=\"text-rose-400 font-medium\">세컨더리 제재(Secondary Sanctions)</span> 타깃이 될 수 있어 공급망 실사 체계 구축이 시급함.",
+    "key_claims": [
+      "미 백악관 보고서가 경기도 반도체 벨트를 중국 부품 환적 및 우회 수출 고위험지로 명시함.",
+      "저가 범용 칩조차 국가안보 위협으로 간주하는 미국의 고강도 디커플링 기조가 한국 제조업을 압박함.",
+      "컴플라이언스 검증 실패 시 글로벌 금융 및 대미 수출 전면 차단이라는 치명적 제재 위험에 노출됨."
+    ],
+    "data_points": [
+      "미 당국 위험 분류: 한국 경기도 반도체 벨트를 최고 위험군(Tier 1)으로 등재",
+      "미국 금융기관 제재 시스템 활용도: 평균 9개 이상의 전문 제재 솔루션 병행 운용"
+    ],
+    "signal": "bearish",
+    "signal_reason": "대미 수출 의존도가 높은 한국 반도체 밸류체인이 미국의 직접적인 제재 조사 및 통상 압박 타깃으로 부상하여 공급망 규제 리스크가 극대화되었기 때문임.",
+    "key_companies": [
+      "삼성전자(005930)",
+      "SK하이닉스(000660)"
+    ],
+    "insight": "미국의 대중국 봉쇄망이 완제품을 넘어 하위 조립 부품 및 환적 경로까지 촘촘히 좁혀오면서 <span class=\"text-violet-300 font-medium\">공급망 클린화와 제재 준수 비용</span>이 한국 반도체 기업의 새로운 생존 화두로 부상했습니다.",
+    "action_point": "중국산 소재·부품 비중이 높은 중견·중소 반도체 부품업체들의 컴플라이언스 리스크를 점검하고, 대미 수출 인증 체계가 확실한 대형주 중심 포트폴리오를 유지하십시오."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "economy",
+      "stock"
+    ],
+    "tags": [
+      "대미반도체제재",
+      "경기도반도체벨트",
+      "우회수출",
+      "BIS",
+      "공급망분리"
+    ]
+  }
+}

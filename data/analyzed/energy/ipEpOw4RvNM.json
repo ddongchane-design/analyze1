@@ -1,0 +1,48 @@
+{
+  "video": {
+    "id": "ipEpOw4RvNM",
+    "title": "'기업이 원해서 찾아온다' 재생에너지 발전 현장 직접 가보고 충격먹은 이유ㅣ에코노믹스 EP.4",
+    "published": "2026-08-22T06:00:03+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=ipEpOw4RvNM",
+    "thumbnail": "https://img.youtube.com/vi/ipEpOw4RvNM/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "글로벌 빅테크 기업들이 한국을 비롯한 세계 각지의 <span class=\"text-cyan-300 font-semibold\">재생에너지(태양광·풍력) 발전 현장</span>을 직접 찾아다니며 전력 구매 계약(PPA)을 체결하려는 급박한 현실을 에코노믹스 현장 취재를 통해 분석함. AI 데이터센터의 폭발적인 전력 수요와 RE100 규제가 맞물리면서, 탄소 프리(Carbon-Free) 청정에너지를 안정적으로 확보하지 못한 국가는 첨단 테크 공장 유치전에서 배제되는 <span class=\"text-rose-400 font-medium\">에너지 안보 위기</span>에 직면해 있음을 경고함.",
+    "key_claims": [
+      "글로벌 수출 기업들에게 RE100 달성은 단순 ESG 구호가 아니라 공급망 납품을 결정짓는 생존 조건임.",
+      "AI 데이터센터 가동을 위해 빅테크들은 재생에너지 발전소 부지와 전력망(Grid) 연계 권리를 선점하기 위해 웃돈을 주고 장기 PPA를 체결 중임.",
+      "국내 재생에너지 보급률 제약과 전력망 송배전 병목 현상이 한국 첨단 반도체 및 데이터센터 클러스터 확장의 최대 리스크로 부상함."
+    ],
+    "data_points": [
+      "빅테크 데이터센터 전력 소비량 연평균 20% 이상 급증",
+      "국내 신재생에너지 발전 비중 OECD 최하위권(약 9%) 탈피 지연",
+      "글로벌 장기 전력구매계약(PPA) 체결 가격 프리미엄 15~20% 형성"
+    ],
+    "signal": "bullish",
+    "signal_reason": "AI 폭증으로 인한 <span class=\"text-cyan-300 font-semibold\">재생에너지 발전원 및 송배전 인프라</span>의 구조적 공급 부족으로 신재생에너지 개발사와 전력망 장비사의 중장기 수혜가 확정적임.",
+    "key_companies": [
+      "한화솔루션",
+      "씨에스윈드",
+      "HD현대일렉트릭",
+      "LS ELECTRIC",
+      "효성중공업"
+    ],
+    "insight": "에너지는 이제 단순 유틸리티가 아니라 AI 패권의 핵심 자원이며, 재생에너지 공급 능력과 스마트 송배전망을 선점한 국가와 인프라 기업이 미래 밸류체인의 최상단을 차지할 것임.",
+    "action_point": "변압기·송배전망 전력 인프라 대장주 지속 보유 및 해상풍력·태양광 핵심 부품 제조사 저가 분할 매수."
+  },
+  "classification": {
+    "primary_topic": "energy",
+    "secondary_topics": [
+      "tech",
+      "stock"
+    ],
+    "tags": [
+      "재생에너지",
+      "RE100",
+      "에코노믹스",
+      "태양광풍력",
+      "전력망"
+    ]
+  }
+}

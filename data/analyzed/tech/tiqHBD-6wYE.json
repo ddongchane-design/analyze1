@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "tiqHBD-6wYE",
+    "title": "테슬라가 꺼낸 최종병기 (Softdragon SOD)",
+    "published": "2026-08-29T11:00:38+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=tiqHBD-6wYE",
+    "thumbnail": "https://img.youtube.com/vi/tiqHBD-6wYE/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "테슬라가 수년간 고수해 온 '순수 비전(Pure Vision)' 전략에서 벗어나 <span class=\"text-cyan-300 font-semibold\">차세대 4D 레이더 센서 도입</span>을 본격 검토하고 있습니다.\n폭우나 렌즈 오염 시 카메라만으로 완전자율주행을 달성하기 어렵다는 엔지니어들의 지적과 안전 규제 허들을 극복하기 위한 결정입니다.\n라이다(LiDAR) 대비 경제적이면서도 악천후 투과력이 뛰어난 고해상도 레이더의 복귀는 로보택시 상용화의 결정적 열쇠가 될 전망입니다.",
+    "key_claims": [
+      "카메라 단독 비전 시스템의 물리적 사각지대 및 악천후 인식 한계 도달.",
+      "고가의 라이다 대신 가격 경쟁력과 성능을 갖춘 차세대 이미징 레이더 채택 유력.",
+      "센서 퓨전을 통한 하드웨어 신뢰성 확보가 무인 로보택시 승인의 전제 조건임."
+    ],
+    "data_points": [
+      "센서 정책 변화: 2021 레이더 삭제 → 2022 초음파 삭제 → 2026 차세대 HD 이미징 레이더 부활"
+    ],
+    "signal": "bullish",
+    "signal_reason": "현실적 안전 타협과 규제 승인 획득을 통해 테슬라 로보택시의 상용화 성공 확률이 급격히 높아졌기 때문임.",
+    "key_companies": [
+      "테슬라(TSLA)",
+      "콘티넨탈",
+      "스마트레이더시스템(424980)"
+    ],
+    "insight": "완전자율주행의 진정한 완성은 알고리즘의 자존심이 아니라 <span class=\"text-cyan-300 font-semibold\">어떤 기상 조건에서도 생명을 지키는 센서 다중화(Redundancy)</span>에 있습니다.",
+    "action_point": "테슬라 자율주행 생태계의 센서 복귀에 따른 차세대 차량용 레이더 및 센서 퓨전 관련 부품주를 주목할 것."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "robot",
+      "stock"
+    ],
+    "tags": [
+      "테슬라레이더",
+      "순수비전한계",
+      "로보택시센서",
+      "FSD안전",
+      "Softdragon"
+    ]
+  }
+}

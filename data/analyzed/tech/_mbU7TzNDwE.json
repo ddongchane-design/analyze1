@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "_mbU7TzNDwE",
+    "title": "일론 머스크가 짓겠다는 반도체 공장, 규모가 좀 미쳤다 #테슬라 #테라팹",
+    "published": "2026-08-21T14:15:18+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=_mbU7TzNDwE",
+    "thumbnail": "https://img.youtube.com/vi/_mbU7TzNDwE/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "일론 머스크 테슬라 CEO가 전 세계 모든 반도체 공장 생산 능력(약 20GW)의 50배에 달하는 <span class=\"text-cyan-300 font-semibold\">1TW(테라와트)급 초대형 '테라팹(가로 5km, 세로 1km 도시급 규모)' 건설 구상</span>을 밝힘. 2036년 완공을 목표로 하는 이 전례 없는 계획은 테슬라의 FSD 자율주행과 옵티머스 휴머노이드 로봇에 필요한 천문학적 AI 연산 칩을 자체 내재화하려는 파격적 시도로 평가됨.",
+    "key_claims": [
+      "테슬라 테라팹은 가로 5km, 세로 1km 규모로 도시 하나에 필적하는 초대형 반도체 팹 프로젝트임.",
+      "현재 전 세계 반도체 제조 역량 합계(20GW)를 단숨에 50배 뛰어넘는 1TW 생산 능력을 단일 거점에 구축하겠다는 파격적 구상."
+    ],
+    "data_points": [
+      "테라팹 목표 생산 용량: 1TW (현재 글로벌 반도체 총생산량 약 20GW의 50배)",
+      "테라팹 물리적 규모: 가로 5km x 세로 1km (완공 목표 시점 2036년)"
+    ],
+    "signal": "neutral",
+    "signal_confidence": "low",
+    "signal_reason": "전 세계 반도체 Capa의 50배라는 비현실적 규모와 10년 뒤(2036년)의 초장기 비전으로 당장의 실적 기여도를 평가하기에는 불확실성이 큼.",
+    "key_companies": [
+      "테슬라(TSLA)",
+      "TSMC(TSM)"
+    ],
+    "insight": "일론 머스크의 테라팹 선언은 미래 피지컬 AI(로봇·FSD) 시대에 요구되는 반도체 연산 수요가 기하급수적으로 폭증할 것임을 시사하는 상징적 선언임.",
+    "action_point": "테슬라의 장기 비전 자체보다 실제 FSD HW5/HW6 칩 설계 및 외주 파운드리(TSMC/삼성) 협력 진행 상황을 현실적으로 점검할 것."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "테슬라",
+      "일론머스크",
+      "테라팹",
+      "반도체공장",
+      "자체칩"
+    ]
+  }
+}

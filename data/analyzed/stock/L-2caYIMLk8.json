@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "L-2caYIMLk8",
+    "title": "\"미국 중간선거 이후...\" 반도체 주도주 너무 흔들린다 | 이승우 유진투자증권 센터장 [마켓 체크]",
+    "published": "2026-08-31T01:30:17+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=L-2caYIMLk8",
+    "thumbnail": "https://img.youtube.com/vi/L-2caYIMLk8/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 정치적 불확실성과 AI 수익성 검증 논란이 겹치며 <span class=\"text-rose-400 font-medium\">반도체 주도주의 주가 변동성</span>이 크게 확대되고 있습니다.\nHBM 등 고성능 AI 메모리는 여전히 공급 부족 상태이나, 레거시 PC/스마트폰용 범용 D램 및 낸드의 수요 회복 지연이 실적 우려를 자극하고 있습니다.\n선거 이후 대미 반도체 보조금 정책과 관세 정책의 방향성이 결정될 때까지 반도체 섹터 내 철저한 차별화 대응이 필요합니다.",
+    "key_claims": [
+      "미국 중간선거를 앞두고 반도체 지원법(CHIPS Act) 및 관세 정책에 대한 정책 불확실성이 상존함.",
+      "AI 서버향 HBM 수요는 견고하지만 범용 메모리의 더딘 회복세가 밸류에이션 상단을 제한함.",
+      "주가 조정 시 펀더멘털이 훼손되지 않은 HBM 독점 공급망 기업 위주의 저가 매수 전략이 유효함."
+    ],
+    "data_points": [
+      "HBM 시장 점유율 및 공급 타이트: 빅테크 차세대 GPU 출시로 내년까지 캐파 풀가동",
+      "국내 반도체 대장주 주가 조정 폭: 고점 대비 15~20% 내외의 기간 조정 진행 중"
+    ],
+    "signal": "neutral",
+    "signal_reason": "단기 정치적 불확실성과 레거시 수요 둔화가 주가를 누르고 있으나, AI 인프라의 중장기 성장 동력은 훼손되지 않았기 때문임.",
+    "key_companies": [
+      "SK하이닉스(000660)",
+      "삼성전자(005930)",
+      "엔비디아(NVDA)",
+      "TSMC(TSM)"
+    ],
+    "insight": "반도체 사이클은 '전체 상승'에서 <span class=\"text-cyan-300 font-semibold\">HBM 및 선단 패키징 중심의 극단적 양극화 장세</span>로 전환되었습니다.",
+    "action_point": "범용 메모리 의존도가 높은 종목보다는 HBM 수율과 공급 가시성이 확고한 선두 업체 중심으로 포트폴리오를 압축할 것."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "반도체주도주",
+      "HBM",
+      "미국선거",
+      "이승우센터장",
+      "삼프로TV"
+    ]
+  }
+}

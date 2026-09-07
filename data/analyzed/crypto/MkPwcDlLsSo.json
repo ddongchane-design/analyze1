@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "MkPwcDlLsSo",
+    "title": "비트코인 8만달러 붕괴 위기 속 연준 9월 금리인하 기대 커지나 | 안유화, 김동환, 김준우 대표 [크립토 PLUS]",
+    "published": "2026-08-31T03:07:05+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=MkPwcDlLsSo",
+    "thumbnail": "https://img.youtube.com/vi/MkPwcDlLsSo/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "비트코인이 8만 달러 지지선을 테스트하며 조정을 겪는 가운데, 연준의 9월 통화정책 방향성과 <span class=\"text-cyan-300 font-semibold\">미국 기관 자금의 현물 ETF 유출입</span>이 핵심 분수령으로 작용하고 있습니다.\n단기 선물 롱 포지션 청산으로 인한 변동성이 나타나고 있으나, 기관들의 디지털 자산 진출 빈도와 스테이블코인 실사용 회전율은 꾸준히 개선 중입니다.\n미국 규제 명확화(Clarity 법안) 진행 상황에 따라 크립토 시장의 하방 지지력이 확인될 전망입니다.",
+    "key_claims": [
+      "비트코인 8만 달러선 공방은 단기 레버리지 청산과 매크로 금리 불확실성이 결합된 숨고르기 국면임.",
+      "전통 금융기관(미래에셋 등)의 디지털 자산 시장 참여가 확대되며 자산군으로서의 신뢰도가 강화됨.",
+      "스테이블코인 유통량 증가와 실사용 결제 회전율이 크립토 생태계의 펀더멘털 성장 지표로 부각됨."
+    ],
+    "data_points": [
+      "비트코인 주요 가격 지지선: 80,000달러 ~ 76,000달러 구간",
+      "기관 ETF 자금 흐름: 단기 유출입 변동성 있으나 누적 유입 추세 유지"
+    ],
+    "signal": "neutral",
+    "signal_reason": "단기 가격 조정 압력이 존재하나 기관 수급 기반과 제도적 인프라 확충이 하방을 지지하고 있기 때문임.",
+    "key_companies": [
+      "블랙록(BLK)",
+      "코인베이스(COIN)",
+      "미래에셋자산운용"
+    ],
+    "insight": "크립토 시장은 더 이상 개인들의 투기 장세가 아니며, <span class=\"text-cyan-300 font-semibold\">전통 금융기관의 진입과 규제 제도화</span>에 따라 움직이는 성숙한 매크로 자산군으로 변모했습니다.",
+    "action_point": "레버리지 파생 거래를 지양하고 76K~80K 달러 지지 구간에서 현물 분할 매수 관점으로 접근할 것."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "economy",
+      "stock"
+    ],
+    "tags": [
+      "비트코인8만달러",
+      "크립토제도화",
+      "스테이블코인",
+      "연준금리",
+      "삼프로TV"
+    ]
+  }
+}

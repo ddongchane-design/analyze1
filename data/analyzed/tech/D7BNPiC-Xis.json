@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "D7BNPiC-Xis",
+    "title": "\"반도체 이제 끝난걸까?\" 내년 상반기까지 기회가 남아 있다고 보는 근거[월간 아신 9월호 풀영상]",
+    "published": "2026-09-04T00:00:00+00:00",
+    "channel_name": "이효석아카데미",
+    "url": "https://www.youtube.com/watch?v=D7BNPiC-Xis",
+    "thumbnail": "https://img.youtube.com/vi/D7BNPiC-Xis/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "오픈AI-브로드컴의 10GW(6,000억 달러) 데이터센터 파이프라인과 빅테크 커스텀 칩(ASIC) 확산으로 <span class=\"text-cyan-300 font-semibold\">삼성전자·SK하이닉스의 HBM4 수주 사이클</span>이 2028년까지 연장됨.\n오픈AI 자체 가속기 '할라피뇨'에 삼성전자 HBM4 최고 스펙 탑재가 유력해지며, 공급 과잉 우려를 뚫고 2027년까지 캐파 완판이 지속되는 국면임.\n외국인 리밸런싱으로 인한 단기 박스권 횡보는 피크아웃이 아니라 <span class=\"text-amber-300 font-bold\">내년 상반기 실적 레벨업을 앞둔 강력한 매집 기회</span>로 해석됨.",
+    "key_claims": [
+      "엔비디아 단일 고객 의존도에서 탈피하여 빅테크 자체 ASIC 시장이 새로운 HBM 폭식자로 부상함.",
+      "HBM4 세대부터 커스텀 버퍼 다이 기술이 결합되며 메모리 제조사의 가격 결정력과 영업이익률이 추가 상승함.",
+      "국내 메모리 양사의 밸류에이션이 역사적 밴드 하단에 위치해 있어 하방 경직성이 확보됨."
+    ],
+    "data_points": [
+      "오픈AI-브로드컴 데이터센터 규모: 10GW / 총 6,000억 달러 (HBM 원가 비중 약 30%)",
+      "수주 현황: 주요 메모리 3사 2026~2027년 HBM 생산 캐파 풀부킹 지속",
+      "HBM 시장 성장률: 2027년 50~80% 고성장 재가속 전망"
+    ],
+    "signal": "bullish",
+    "signal_reason": "빅테크의 천문학적 AI 인프라 투자 지속과 차세대 커스텀 HBM4 수주 확대로 국내 반도체 기업의 실적 퀀텀점프가 명확하기 때문임.",
+    "key_companies": [
+      "삼성전자(005930)",
+      "SK하이닉스(000660)",
+      "브로드컴(AVGO)",
+      "오픈AI"
+    ],
+    "insight": "반도체 피크아웃 논란은 레거시 PC·스마트폰 사이클에 갇힌 시각이며, <span class=\"text-cyan-300 font-semibold\">오픈AI·빅테크 주도의 커스텀 AI 인프라 파이프라인</span>이 실질적인 메모리 슈퍼사이클을 견인하고 있습니다.",
+    "action_point": "단기 노이즈에 흔들리지 말고 내년 상반기까지 강력한 실적 모멘텀이 보장된 <span class=\"text-cyan-300 font-semibold\">삼성전자와 SK하이닉스</span>를 분할 매수 관점으로 지속 축적하십시오."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "반도체사이클",
+      "HBM4",
+      "오픈AI데이터센터",
+      "브로드컴",
+      "슈퍼사이클"
+    ]
+  }
+}

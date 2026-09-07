@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "VmZ4wsoMgV8",
+    "title": "빈 배 통행료 63억 파나마 최악의 위기 왔나?",
+    "published": "2026-09-05T00:00:00+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=VmZ4wsoMgV8",
+    "thumbnail": "https://img.youtube.com/vi/VmZ4wsoMgV8/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "극심한 가뭄으로 파나마 운하의 흘수 제한과 통항 병목이 심화되며 <span class=\"text-violet-300 font-medium\">빈 배(공선) 1척 통행 경매 입찰가가 400만 달러(약 63억 원)</span>까지 치솟는 글로벌 물류 대란이 발생함.\n기후 변화로 담수 호수 수위가 낮아지면서 전 세계 해상 물동량의 핵심 동맥이 막혀 선박들이 남아메리카 마젤란 해협으로 우회하는 사태가 벌어짐.\n운송 거리 증가와 운하 통행 프리미엄 급등은 글로벌 해운 운임 상승과 공급망 인플레이션의 직접적 뇌관으로 작용함.",
+    "key_claims": [
+      "파나마 운하의 기후 가뭄 리스크는 일시적 현상이 아닌 구조적 병목으로 고착화되고 있음.",
+      "통항 경매 입찰 비용 폭등은 글로벌 원자재 및 컨테이너 해상 운임에 고스란히 전가됨."
+    ],
+    "data_points": [
+      "경매 입찰 통행료: 선박 1척 통항을 위한 우선권 경매 낙찰가 최대 400만 달러(약 63억 원) 기록",
+      "일일 통항 척수: 정상 36~38척에서 가뭄 심화 시 20척 안팎으로 급감"
+    ],
+    "signal": "bearish",
+    "signal_reason": "글로벌 해상 운송로의 구조적 차질이 운임 상승과 공급망 지연을 유발하여 전 세계 상품 물가에 상방 압력을 가하기 때문임.",
+    "key_companies": [
+      "HMM(011200)",
+      "머스크(Maersk)"
+    ],
+    "insight": "기후 이상에 따른 <span class=\"text-violet-300 font-medium\">'핵심 해상 초크포인트(Chokepoint) 마비'</span>는 글로벌 무역에 보이지 않는 상시적 인플레이션 세금을 부과하고 있습니다.",
+    "action_point": "해상 운임 급등 수혜를 입는 해운사 단기 트레이딩과 함께 운송비 전가력이 취약한 수출 중소 제조업체에 대한 투자 비중을 축소하십시오."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "etc"
+    ],
+    "tags": [
+      "파나마운하",
+      "물류대란",
+      "통행료폭등",
+      "기후가뭄",
+      "해상운임"
+    ]
+  }
+}

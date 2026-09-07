@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "gZCeHFiI_Lw",
+    "title": "금리 올라 반도체 흔들? AI 데이터센터 투자에 집중 | 임동민 유니스토리자산운용 리서치센터장 [글로벌 인터뷰]",
+    "published": "2026-08-30T23:30:17+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=gZCeHFiI_Lw",
+    "thumbnail": "https://img.youtube.com/vi/gZCeHFiI_Lw/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "단기 금리 상승으로 인한 주식 시장의 조정에도 불구하고, <span class=\"text-cyan-300 font-semibold\">글로벌 빅테크의 AI 데이터센터 설비투자(CapEx)</span>는 역사상 가장 강력한 우상향 곡선을 그리고 있습니다.\nAI 서버 1대당 탑재되는 HBM과 고용량 SSD(eSSD) 수요는 공급을 초과하는 상태가 유지되고 있습니다.\n매크로 금리 노이즈로 반도체 주가가 흔들릴 때마다 발생하는 밸류에이션 매력은 중장기 투자자에게 강력한 비중 확대 기회를 제공합니다.",
+    "key_claims": [
+      "빅테크들의 AI 인프라 투자는 단기 경기 사이클에 구애받지 않는 필수 생존 투자임.",
+      "HBM3E 및 차세대 HBM4 선점 여부가 글로벌 메모리 기업들의 실적 격차를 구조적으로 벌려놓음.",
+      "금리 공포로 인한 반도체 주가 조정은 실적 펀더멘털과 괴리된 단기적 수급 왜곡 현상임."
+    ],
+    "data_points": [
+      "빅테크 4사(MSFT, GOOGL, AMZN, META) 연간 AI CapEx: 2,000억 달러 돌파 지속",
+      "HBM 주문 잔고: 2027년 물량까지 타이트한 계약 진행 중"
+    ],
+    "signal": "bullish",
+    "signal_reason": "AI 데이터센터 인프라 투자의 지속성과 HBM 공급 부족 구조가 반도체 기업들의 강력한 실적 성장을 보장하기 때문임.",
+    "key_companies": [
+      "SK하이닉스(000660)",
+      "엔비디아(NVDA)",
+      "삼성전자(005930)",
+      "브로드컴(AVGO)"
+    ],
+    "insight": "금리의 등락보다 중요한 것은 <span class=\"text-cyan-300 font-semibold\">AI 데이터센터로 흘러 들어가는 빅테크의 확고한 현금 흐름</span>입니다.",
+    "action_point": "매크로 노이즈에 흔들리지 말고 HBM 독점 공급력과 엔비디아 공급망 핵심 반도체 주도주를 지속 보유 및 분할 매수할 것."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "AI데이터센터",
+      "HBM수요",
+      "반도체투자",
+      "임동민센터장",
+      "삼프로TV"
+    ]
+  }
+}

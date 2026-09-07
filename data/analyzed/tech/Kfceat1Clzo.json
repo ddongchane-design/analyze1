@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "Kfceat1Clzo",
+    "title": "현대차 내부에서 위기감 역대급인 이유",
+    "published": "2026-08-21T11:00:39+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=Kfceat1Clzo",
+    "thumbnail": "https://img.youtube.com/vi/Kfceat1Clzo/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "현대자동차가 내연기관의 캐시카우로 버티고 있으나, 안방 시장까지 침투한 테슬라와 중국 전기차의 공세 속에서 <span class=\"text-rose-400 font-medium\">배터리 원가(전체 원가의 30~40%)를 외부 배터리사에 의존하는 구조적 취약점</span>으로 인해 전례 없는 가격 전쟁과 수익성 압박에 직면함. 자율주행 소프트웨어 경쟁력과 자체 배터리 내재화 없이는 글로벌 전기차 대전환기 속 마진 훼손 리스크가 불가피함.",
+    "key_claims": [
+      "내연기관으로는 현상 유지만 가능할 뿐 미래 성장이 불가능하여 전기차/자율주행 격전지로 진입해야만 하는 상황임.",
+      "전기차 제조 원가의 30~40%를 차지하는 배터리 팩을 전량 외주에 의존하고 있어 자체 공급망을 갖춘 테슬라 및 중국 업체와의 치킨게임에서 불리함."
+    ],
+    "data_points": [
+      "전기차 제조 원가 비중: 배터리 팩 하나가 전체 원가의 약 30%~40% 차지"
+    ],
+    "signal": "bearish",
+    "signal_confidence": "medium",
+    "signal_reason": "전기차 캐즘 및 가격 인하 경쟁 심화 국면에서 배터리 외주 의존 구조에 따른 마진 방어 한계와 자율주행 기술 격차 우려.",
+    "key_companies": [
+      "현대자동차(005380)",
+      "테슬라(TSLA)",
+      "토요타(TM)"
+    ],
+    "insight": "완성차 업체의 가치 평가는 단순 조립 생산량이 아니라 자율주행 SW 역량과 배터리 원가 통제력에서 판가름 나며, 현대차의 내재화 속도가 주가 밸류에이션의 핵심 분수령임.",
+    "action_point": "현대차의 전기차 마진율 추이와 자체 배터리 개발/SDV 소프트웨어 전환 로드맵을 면밀히 확인하며 보수적으로 접근할 것."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "현대자동차",
+      "전기차전환",
+      "배터리원가",
+      "테슬라",
+      "중국전기차",
+      "자율주행"
+    ]
+  }
+}

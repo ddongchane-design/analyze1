@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "OJiCpqcTgkM",
+    "title": "삼전닉스 매출이 떡상한 이우",
+    "published": "2026-08-23T11:00:01+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=OJiCpqcTgkM",
+    "thumbnail": "https://img.youtube.com/vi/OJiCpqcTgkM/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">삼성전자와 SK하이닉스</span>의 분기 매출과 영업이익이 전례 없는 폭발적 성장을 기록한 구조적 배경을 분석함. AI 가속기용 <span class=\"text-cyan-300 font-semibold\">HBM3E 공급 단가 상승</span>과 함께 범용 고용량 D램(DDR5) 및 엔터프라이즈 SSD(eSSD)의 극심한 쇼티지로 인한 판가 급등(ASP 상승)이 실적 폭증을 견인함. 빅테크들의 AI 인프라 쟁탈전이 메모리 칩 제조사의 현금 창출력을 역대 최고 수준으로 끌어올림.",
+    "key_claims": [
+      "엔비디아 블랙웰 시리즈향 HBM3E 및 12단 적층 제품의 완판 행진으로 고부가가치 메모리 마진율이 50%를 상회함.",
+      "AI 서버의 데이터 병목을 해소하기 위한 초고용량 eSSD 수요 폭증이 낸드 사업부의 흑자 폭을 극대화함.",
+      "메모리 공급사들의 보수적인 설비 증설 기조로 인해 이번 사이클의 고수익 국면이 과거보다 장기화될 가능성이 높음."
+    ],
+    "data_points": [
+      "HBM 및 차세대 서버 D램 분기 판가(ASP) 전 분기 대비 15~20% 상승",
+      "SK하이닉스/삼성전자 반도체 부문 분기 영업이익 사상 최고치 경신 행진",
+      "글로벌 AI 데이터센터 메모리 주문 백로그(수주 잔고) 1년 치 확보"
+    ],
+    "signal": "bullish",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">HBM3E 및 서버용 D램/eSSD의 구조적 쇼티지</span>로 인해 2026년 하반기까지 실적 서프라이즈 모멘텀이 지속될 것임.",
+    "key_companies": [
+      "SK하이닉스",
+      "삼성전자",
+      "NVIDIA",
+      "Micron"
+    ],
+    "insight": "이번 메모리 호황은 단순 PC·스마트폰 교체 주기가 아닌 AI 데이터센터라는 거대 신규 수요처의 독점적 조달 경쟁에 의해 촉발된 슈퍼사이클임.",
+    "action_point": "SK하이닉스 및 삼성전자 메모리 밸류체인 핵심 부품/소재 기업 분할 매수 지속."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "삼전닉스",
+      "메모리매출폭등",
+      "HBM3E",
+      "서버D램",
+      "반도체실적"
+    ]
+  }
+}

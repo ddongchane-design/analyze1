@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "JXU-2mGaEkg",
+    "title": "[Moon Ji-woong's Big Money LIVE] Who Made Secretary Bessent Angry Again? | Why Are U.S. Employmen...",
+    "published": "2026-09-03T04:43:25+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=JXU-2mGaEkg",
+    "thumbnail": "https://img.youtube.com/vi/JXU-2mGaEkg/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "뉴욕 증시가 최근 국채 금리 급등세 진정에 힘입어 기술적 반등에 성공한 가운데, <span class=\"text-cyan-300 font-semibold\">스콧 베센트 재무장관</span>의 시장 압박과 <span class=\"text-cyan-300 font-semibold\">존 윌리엄스 뉴욕 연은 총재</span>의 중립적 발언이 시장의 이목을 집중시키고 있습니다.\n윌리엄스 총재는 최근 국채 금리 상승이 경제 비관론이나 채권 자경단의 투매가 아니라, 강력한 미국 경제 성장과 <span class=\"text-amber-300 font-bold\">하이퍼스케일러들의 대규모 AI 회사채 발행</span> 등 왕성한 투자 수요 견인 인플레이션 때문이라고 분석했습니다.\n이에 따라 9월 FOMC에서의 무리한 금리 인상 가능성은 낮으며, 시장은 거시 지표와 유가·물가 추세를 확인하는 변동성 장세가 이어질 것으로 판단됩니다.",
+    "key_claims": [
+      "존 윌리엄스 뉴욕 연은 총재는 중립적 스탠스를 유지하며 9월 추가 금리 인상 가능성을 일축함.",
+      "최근 국채 금리 상승의 핵심 원인은 미국 경제의 견조함과 빅테크 AI 인프라 투자를 위한 대규모 회사채 발행 쏠림 현상임.",
+      "고유가와 관세 이슈가 2차·3차 광범위한 인플레이션 확산으로 전이되는 징후는 아직 제한적임."
+    ],
+    "data_points": [
+      "미국 하이퍼스케일러들의 연간 수백조 원 단위 AI CapEx 조달을 위한 채권 발행 급증",
+      "연준의 인플레이션 목표치 2% 안착 추세 확인이 향후 통화정책 결정의 핵심 잣대"
+    ],
+    "signal": "neutral",
+    "signal_reason": "경기 펀더멘털은 견고하고 연준의 급격한 긴축 우려는 완화되었으나, AI 인프라 조달 수요에 따른 국채 금리 고공행진 변동성이 상존하기 때문임.",
+    "key_companies": [
+      "알파벳(GOOGL)",
+      "마이크로소프트(MSFT)",
+      "아마존(AMZN)",
+      "메타(META)",
+      "애플(AAPL)"
+    ],
+    "insight": "장기 국채 금리의 상승은 경기 침체의 전조가 아니라 <span class=\"text-amber-300 font-bold\">AI 투자 붐에 따른 민간 자본 조달 수요 폭증</span>을 반영하고 있으며, 금리 상방 압력을 견뎌낼 수 있는 빅테크의 독점적 현금흐름이 더욱 부각될 것입니다.",
+    "action_point": "9월 매크로 변동성(고용, CPI, FOMC)을 앞두고 무리한 레버리지 추격 매수를 자제하고, 현금 창출력이 확실한 빅테크 위주의 방어적 분할 매수 전략을 권장합니다."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock",
+      "tech"
+    ],
+    "tags": [
+      "베센트재무장관",
+      "존윌리엄스",
+      "국채금리상승",
+      "하이퍼스케일러회사채",
+      "9월FOMC전망"
+    ]
+  }
+}

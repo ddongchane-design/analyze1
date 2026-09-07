@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "OpOSVPD9Is8",
+    "title": "[문지웅의 빅머니 LIVE] 미국 국채, 달러 가치와 반대로 움직이는 비트코인과 Gold. 연준의 단기국채 보유 증가는 어떻게 봐야할까.",
+    "published": "2026-08-22T09:53:11+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=OpOSVPD9Is8",
+    "thumbnail": "https://img.youtube.com/vi/OpOSVPD9Is8/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 국채 발행 급증과 달러화 실질 가치 하락 속에서 <span class=\"text-cyan-300 font-semibold\">비트코인(BTC)과 금(Gold)이 대체 통화이자 가치 저장 수단</span>으로 동반 급등하는 거시적 메커니즘을 문지웅 기자가 라이브로 분석함. 연준(Fed)의 단기 국채 보유 비중 확대(수익률 곡선 관리)와 재정 적자 누적이 초래한 달러 패권의 신뢰 저하가 디지털 금(비트코인)으로의 글로벌 기관 자금 유입을 가속화하고 있음을 짚음.",
+    "key_claims": [
+      "미국 정부의 걷잡을 수 없는 국가 부채와 이자 비용 증가는 필연적으로 통화량 팽창과 법정화폐(Fiat Currency) 가치 훼손으로 귀결됨.",
+      "비트코인은 더 이상 위험자산 기술주가 아니라 금과 동일한 탈중앙화 '하드 머니(Hard Money)' 자산으로 기관 포트폴리오에 정착함.",
+      "연준의 단기 국채 매입과 양적완화(QE) 유사 정책 재개는 비트코인 유동성 랠리의 가장 강력한 촉매로 작용함."
+    ],
+    "data_points": [
+      "미국 국가부채 35조 달러 돌파 및 연간 이자 비용 1조 달러 육박",
+      "비트코인 현물 ETF 누적 순유입액 수백억 달러 돌파",
+      "금(Gold) 가격 온스당 사상 최고치 경신 행진"
+    ],
+    "signal": "bullish",
+    "signal_reason": "<span class=\"text-amber-300 font-bold\">미국 재정 적자 심화 및 달러화 가치 희석</span>에 따른 비트코인/금의 통화적 헤지 수요가 구조적으로 폭발하고 있음.",
+    "key_companies": [
+      "MicroStrategy",
+      "Coinbase",
+      "BlackRock",
+      "Marathon Digital"
+    ],
+    "insight": "글로벌 부채 사이클의 정점에서 법정화폐의 구매력 저하를 방어할 수 있는 유일한 대안은 공급량이 수학적으로 고정된 비트코인과 역사적 실물인 금임.",
+    "action_point": "자산의 5~10%를 비트코인 현물 ETF 또는 비트코인 직접 보유로 배분하여 화폐 가치 하락 헷지."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "economy",
+      "stock"
+    ],
+    "tags": [
+      "비트코인",
+      "금Gold",
+      "미국단기국채",
+      "달러가치",
+      "문지웅의빅머니"
+    ]
+  }
+}

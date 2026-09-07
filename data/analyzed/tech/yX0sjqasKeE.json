@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "yX0sjqasKeE",
+    "title": "92만 유튜브 채널 AI에이전트 활용법",
+    "published": "2026-09-05T00:00:00+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=yX0sjqasKeE",
+    "thumbnail": "https://img.youtube.com/vi/yX0sjqasKeE/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "92만 구독자의 기술 채널 SOD가 영상 기획과 성과 분석에 <span class=\"text-cyan-300 font-semibold\">다중 AI 에이전트 자율 워크플로우를 실전 도입</span>한 노하우를 최초 공개함.\n성공한 영상(테슬라 건식 배터리 등)의 클릭률(CTR), 시청지속시간 등의 성공 패턴을 AI가 자체 DB로 벡터화하고 학습함.\n주요 언론사 기사, 최신 논문, 하이젠버그 연구 데이터를 실시간 스크랩하여 성공 패턴과 일치율이 높은 콘텐츠 기획안을 AI가 텔레그램으로 자동 보고함.",
+    "key_claims": [
+      "AI는 단순 텍스트 작성을 넘어 비즈니스 성공 데이터베이스를 학습하고 다음 성공 전략을 도출하는 에이전트로 진화함.",
+      "유튜브 및 미디어 콘텐츠 제작 전반이 직관과 감에서 데이터 기반의 AI 자율 기획 시스템으로 전환됨.",
+      "AI 에이전트를 실무 파이프라인에 내재화한 크리에이터가 압도적인 생산성과 적중률을 확보함."
+    ],
+    "data_points": [
+      "에이전트 워크플로우: 성과 지표(CTR, 시청지속률) 분석 -> 글로벌 논문/뉴스 실시간 수집 -> 일치도 매칭 -> 텔레그램 보고",
+      "운영 채널: 구독자 92만 명 기술 전문 채널 SOD"
+    ],
+    "signal": "bullish",
+    "signal_reason": "AI 에이전트가 지식 기반 콘텐츠 비즈니스에서 실질적인 ROI와 업무 자동화를 성공적으로 입증하고 있기 때문임.",
+    "key_companies": [
+      "오픈AI",
+      "구글(GOOGL)"
+    ],
+    "insight": "AI의 진정한 힘은 챗봇과의 대화가 아니라 <span class=\"text-cyan-300 font-semibold\">'나만의 고유한 성공 데이터를 학습시킨 자율 에이전트 파이프라인 구축'</span>에 있습니다.",
+    "action_point": "업무 자동화 및 자율 에이전트 도구를 적극 도입하고, AI 에이전트 인프라와 기업용 소프트웨어 기업의 성장성에 베팅하십시오."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "etc"
+    ],
+    "tags": [
+      "AI에이전트활용",
+      "SOD",
+      "유튜브자동화",
+      "성공패턴학습",
+      "텔레그램에이전트"
+    ]
+  }
+}

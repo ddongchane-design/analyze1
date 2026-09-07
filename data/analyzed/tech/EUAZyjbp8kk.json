@@ -1,0 +1,48 @@
+{
+  "video": {
+    "id": "EUAZyjbp8kk",
+    "title": "\"3년이면 본전 다 뽑는다\" 데이터센터에 돈 몰리는 이유 #교양이를부탁해 #반도체 #금리 #코스피 #엔비디아",
+    "published": "2026-08-23T12:00:11+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=EUAZyjbp8kk",
+    "thumbnail": "https://img.youtube.com/vi/EUAZyjbp8kk/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "AI 인프라 거품론에도 불구하고 글로벌 자본이 데이터센터로 맹렬히 유입되는 이유와, <span class=\"text-cyan-300 font-semibold\">코어위브(CoreWeave)·아마존 등 네오클라우드 기업들의 경이로운 3년 원금 회수 모델</span>을 분석함. 오픈AI, 앤트로픽 등 생성형 AI 스타트업들의 폭발적인 GPU 수요로 인해 초고마진 단기 임대(3개월 계약)와 장기 계약을 믹스하여 고금리 환경에서도 1~3년 내에 막대한 설비투자금을 전액 회수하는 비즈니스 구조를 밝힘.",
+    "key_claims": [
+      "단순 호스팅과 달리 최신 엔비디아 GPU를 탑재한 전문 AI 네오클라우드의 시간당 임대료 마진율은 60~70%에 달함.",
+      "아마존 AWS 및 전문 클라우드 사업자들은 3년 내 투자 원금 회수 후 잔여 수명 기간 동안 막대한 순현금흐름을 창출하는 황금알 구조를 확립함.",
+      "고금리 장기화에도 불구하고 자본 조달 비용을 훨씬 상회하는 자본수익률(ROIC)이 확인되면서 월가 사모펀드와 빅테크가 자금을 쏟아붓고 있음."
+    ],
+    "data_points": [
+      "AI 데이터센터 투자금 회수 기간(Payback Period) 1~3년으로 단축",
+      "단기 3개월 단위 특수 GPU 클라우드 임대 마진율 60% 상회",
+      "월가 및 빅테크의 AI 인프라 대출 및 지분 투자 500억 달러 이상 집행"
+    ],
+    "signal": "bullish",
+    "signal_reason": "AI 데이터센터의 <span class=\"text-cyan-300 font-semibold\">3년 내 초고속 원금 회수 사이클</span>이 실증되면서 AI Capex 축소 우려가 불식되고 인프라 확장세가 지속될 것임.",
+    "key_companies": [
+      "Amazon",
+      "CoreWeave",
+      "NVIDIA",
+      "Microsoft",
+      "Oracle"
+    ],
+    "insight": "AI 인프라 투자는 단순한 '돈 먹는 하마'가 아니라 초단기 회수율을 보장하는 고수익 비즈니스 모델로 진화했으며, 이는 향후 2~3년간 GPU 및 데이터센터 밸류체인의 강력한 실적 하방을 지지함.",
+    "action_point": "엔비디아 외에도 AI 클라우드 인프라 제공업체(Amazon, Oracle) 및 전력·냉각 인프라 솔루션 기업 분할 매수."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock",
+      "economy"
+    ],
+    "tags": [
+      "데이터센터수익성",
+      "네오클라우드",
+      "코어위브",
+      "아마존",
+      "GPU임대"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "0dgyzU4g12I",
+    "title": "π는 틀렸다? 3.14 대신 6.28을 쓰자는 수학자들",
+    "published": "2026-08-23T06:00:02+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=0dgyzU4g12I",
+    "thumbnail": "https://img.youtube.com/vi/0dgyzU4g12I/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "원주율 원주율 상수 <span class=\"text-cyan-300 font-semibold\">파이(π, 3.14...)</span> 대신 원의 반지름을 기준으로 한 <span class=\"text-cyan-300 font-semibold\">타우(τ, 6.28...)</span>를 사용하자는 수학계의 오랜 논쟁과 타우 제안의 수학적 직관성을 다룸. 오일러 공식, 삼각함수, 원의 둘레($2\\pi r$) 등 주요 수학 공식에서 $2\\pi$가 반복 등장하는 비효율을 줄이고, 1회전=1타우 라디안이라는 <span class=\"text-amber-300 font-bold\">직관적 개념 체계</span>를 구축할 수 있음을 설명함. 비록 수백 년간 정착된 파이 체계를 전면 대체하기는 현실적으로 어렵지만 교육 및 공학적 유용성 측면에서 강력한 대안으로 주목받고 있음.",
+    "key_claims": [
+      "원은 본질적으로 '반지름'에 의해 정의되므로 지름 기준의 $\\pi$보다 반지름 기준의 $2\\pi(\\tau=6.28)$가 수학적 공식 표현과 각도(라디안) 이해에 훨씬 직관적임.",
+      "오일러 항등식($e^{i\\tau}=1$) 및 푸리에 변환, 양자역학 등 고급 물리학·수학 공식에서 상수 $2\\pi$ 뭉치가 단일 상수로 단순화됨.",
+      "기존 교과서와 표준 체계의 관성 때문에 전면 교체는 어렵지만, 컴퓨터 그래픽스 및 프로그래밍 언어(Python math.tau 등)에서는 점진적으로 도입되고 있음."
+    ],
+    "data_points": [
+      "$\\tau \\approx 6.283185307179586$",
+      "2001년 수학자 밥 팔레(Bob Palais)의 '$\\pi$는 틀렸다' 기고문 발표",
+      "2010년 마이클 하틀(Michael Hartl)의 타우 선언문(Tau Manifesto) 및 매년 6월 28일 타우의 날 기념"
+    ],
+    "signal": "neutral",
+    "signal_reason": "순수 수학적 상수 체계에 대한 학술·교육적 논쟁으로 금융 시장 직접 영향은 중립적이나 기초 공학 및 알고리즘 최적화에 개념적 기여를 함.",
+    "key_companies": [
+      "Python Software Foundation",
+      "MIT",
+      "Wolfram Research"
+    ],
+    "insight": "관습적으로 굳어진 수백 년의 표준 체계도 공학적 직관성과 단순성을 위해 끊임없이 재평가받으며, 이는 프로그래밍 라이브러리와 AI 연산 표준화 논의와도 맞닿아 있음.",
+    "action_point": "직접적인 투자 대상은 아니나, 3D 그래픽스 엔진 및 물리 시뮬레이션 알고리즘 설계 시 $\\tau$ 기반 라디안 연산 활용성 점검."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "수학",
+      "파이",
+      "타우",
+      "원주율",
+      "안될과학"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "vR_P0xGEZAY",
+    "title": "테슬라 사이버캡을 자동차로 보면 안 되는 이유… 로보택시는 인간의 전문기술에 침투한 첫 번째 로봇이다",
+    "published": "2026-09-05T00:00:00+00:00",
+    "channel_name": "엔지니어TV",
+    "url": "https://www.youtube.com/watch?v=vR_P0xGEZAY",
+    "thumbnail": "https://img.youtube.com/vi/vR_P0xGEZAY/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "사이버캡은 단순한 자율주행 전기차가 아니라 <span class=\"text-cyan-300 font-semibold\">'인간의 전문 운전 노동을 최초로 완전 대체하는 상용 피지컬 로봇'</span>으로 재정의되어야 함.\n운전대와 페달이 사라진 것은 기계 제어권을 소프트웨어 AI에 100% 이양했음을 의미하며, 이는 향후 공장 및 가사 로봇으로 이어질 피지컬 AI의 전초 기지임.\n로보택시 운임이 대중교통 수준(마일당 0.2~0.3달러)으로 하락할 경우 <span class=\"text-amber-300 font-bold\">운송업 일자리 재편과 도시 인프라 대변혁</span>을 유발할 것임.",
+    "key_claims": [
+      "사이버캡은 인간의 전문 조작 기술(운전)을 기계가 완전히 대체하는 피지컬 AI 상용화의 역사적 첫 단계임.",
+      "조작계(스티어링 휠·페달) 제거는 단순 원가 절감이 아니라 인간 개입이 불필요한 시스템 신뢰도의 선언임.",
+      "마일당 이동 단가의 획기적 하락이 기존 택시, 대중교통, 물류 운송 생태계의 전면적 파괴적 혁신을 촉발함."
+    ],
+    "data_points": [
+      "예상 로보택시 주행 원가: 마일당 0.2~0.3달러 (일반 택시 대비 80% 이상 저렴)",
+      "하드웨어 혁신: 운전대·가속 페달·사이드미러 완전 제거"
+    ],
+    "signal": "bullish",
+    "signal_reason": "피지컬 AI의 가장 거대한 시장인 운송 섹터에서 하드웨어와 AI FSD의 결합이 실질적 수익 모델로 전환되는 분기점이기 때문임.",
+    "key_companies": [
+      "테슬라(TSLA)",
+      "우버(UBER)"
+    ],
+    "insight": "로보택시는 자율주행차가 아니라 <span class=\"text-cyan-300 font-semibold\">'인간 노동을 대체하는 첫 번째 양산형 로봇'</span>이므로, 전통 완성차 관점의 밸류에이션(PER 5~8배)을 적용하는 것은 중대한 오류입니다.",
+    "action_point": "완성차 제조사와의 격차가 소프트웨어 및 피지컬 AI 플랫폼에서 급격히 벌어지고 있으므로, 단순 조립사보다 AI 수직통합 플랫폼 기업 비중을 확대하십시오."
+  },
+  "classification": {
+    "primary_topic": "robot",
+    "secondary_topics": [
+      "tech",
+      "stock"
+    ],
+    "tags": [
+      "로보택시",
+      "피지컬AI",
+      "노동대체",
+      "사이버캡",
+      "FSD"
+    ]
+  }
+}

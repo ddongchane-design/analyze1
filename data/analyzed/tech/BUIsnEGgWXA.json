@@ -1,0 +1,48 @@
+{
+  "video": {
+    "id": "BUIsnEGgWXA",
+    "title": "인텔과 스페이스X까지 사들인 엔비디아, 10조를 또 꺼낸 건 중국 때문이었습니다",
+    "published": "2026-08-23T21:00:07+00:00",
+    "channel_name": "이효석아카데미",
+    "url": "https://www.youtube.com/watch?v=BUIsnEGgWXA",
+    "thumbnail": "https://img.youtube.com/vi/BUIsnEGgWXA/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "<span class=\"text-cyan-300 font-semibold\">엔비디아(NVIDIA)</span>가 인텔 파운드리 및 스페이스X(SpaceX) 스타링크 생태계와의 전략적 협력을 강화하고 10조 원대 이상의 추가 자금을 투입하여 <span class=\"text-violet-300 font-medium\">중국의 반도체 우회 및 자체 생태계 확장</span>을 선제적으로 차단하려는 메가딜 전략을 해설함. 우주 저궤도 위성 데이터센터(우주 컴퓨팅)와 차세대 엣지 컴퓨팅을 선점해 지상과 우주를 아우르는 절대적 AI 컴퓨팅 독점망을 완성하려는 젠슨 황의 빅픽처를 조명함.",
+    "key_claims": [
+      "엔비디아는 단순 GPU 칩 공급을 넘어 스페이스X 스타링크 위성에 탑재되는 우주 전용 저전력 방사선 내성 AI 연산 노드 인프라를 구축 중임.",
+      "인텔의 첨단 패키징(EMIB) 및 지적재산권(IP) 협력을 통해 TSMC 단일 공급망 의존 리스크를 분산하고 미국의 온쇼어링 반도체 패권 정책에 부응함.",
+      "중국 화웨이 등의 독자 칩 개발 추격을 따돌리기 위해 우주 및 통신, 로보틱스 전 영역으로 독점 소프트웨어 CUDA 생태계를 확장하고 있음."
+    ],
+    "data_points": [
+      "엔비디아 10조 원(약 75억 달러) 규모 신규 R&D 및 전략적 지분 투자 집행",
+      "스페이스X 스타링크 우주 궤도 내 AI 엣지 프로세서 탑재 프로젝트 가동",
+      "인텔 18A/14A 차세대 노드 협력 검토"
+    ],
+    "signal": "bullish",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">엔비디아</span>가 지상 데이터센터를 넘어 <span class=\"text-amber-300 font-bold\">우주 항공(스페이스X) 및 글로벌 반도체 연합</span>으로 확장하며 경쟁사가 넘볼 수 없는 초격차 해자를 구축함.",
+    "key_companies": [
+      "NVIDIA",
+      "SpaceX",
+      "Intel",
+      "TSMC",
+      "Broadcom"
+    ],
+    "insight": "AI 인프라 경쟁의 무대가 데이터센터 전력 한계를 넘어 '우주 태양광 기반 저궤도 AI 위성 컴퓨팅'으로 전이되고 있으며, 엔비디아는 이 거대한 전환의 표준을 가장 빠르게 선점하고 있음.",
+    "action_point": "엔비디아 본주 보유 및 우주 위성 통신·탑재체용 초소형 고신뢰성 반도체/부품 관련주(한화에어로스페이스, 세트렉아이 등) 관심."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "space",
+      "stock"
+    ],
+    "tags": [
+      "엔비디아",
+      "스페이스X",
+      "인텔인수설",
+      "대중국견제",
+      "우주AI"
+    ]
+  }
+}

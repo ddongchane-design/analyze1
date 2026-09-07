@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "_vfcPX39fwM",
+    "title": "\"금리 인상 후 오히려...\" 더 오를 수 있다? | 박준우 하나증권 리서치센터 연구위원 [더블 업]",
+    "published": "2026-08-31T00:30:15+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=_vfcPX39fwM",
+    "thumbnail": "https://img.youtube.com/vi/_vfcPX39fwM/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "연준의 금리 인상 사이클 후반부 또는 금리 동결 국면에서 <span class=\"text-amber-300 font-bold\">불확실성 해소로 인해 증시가 오히려 추가 상승</span>했던 역사적 사례를 분석합니다.\n금리 인상 자체가 주가 하락을 부르는 것이 아니라, 경제 성장이 뒷받침되는 국면에서의 금리 상승은 기업 실적 장세로 전환되는 신호일 수 있습니다.\n매크로 금리 수치 자체에 매몰되기보다 기업들의 주당순이익(EPS) 성장률과 경기 확장 지속성을 확인해야 합니다.",
+    "key_claims": [
+      "역사적으로 금리 인상기 후반에는 불확실성 완화와 경기 호조로 인해 주식 시장이 랠리를 펼친 경우가 많았음.",
+      "성장을 동반한 고금리는 주식 시장에 치명적이지 않으며, 실적주 중심의 차별화가 진행됨.",
+      "금리 방향성보다 중요한 것은 기업 이익 추정치의 상향 여부임."
+    ],
+    "data_points": [
+      "역대 금리 인상 후반기 증시 추이: S&P 500 실적 성장 동반 시 평균 두 자릿수 상승률 기록"
+    ],
+    "signal": "bullish",
+    "signal_reason": "경기 침체 없는 고금리 국면은 실적이 뒷받침되는 퀄리티 성장주의 리레이팅 기회이기 때문임.",
+    "key_companies": [
+      "애플(AAPL)",
+      "마이크로소프트(MSFT)",
+      "하나금융지주(086790)"
+    ],
+    "insight": "주식 시장의 진짜 적은 '고금리'가 아니라 '기업 실적의 역성장'이며, <span class=\"text-amber-300 font-bold\">EPS가 상승하는 한 증시의 상방은 열려 있습니다.</span>",
+    "action_point": "금리 공포로 인한 조정 시 실적 추정치가 상향 조정되는 우량 대형 기술주를 적극 매수할 것."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "금리인상과증시",
+      "실적장세",
+      "박준우위원",
+      "하나증권",
+      "삼프로TV"
+    ]
+  }
+}

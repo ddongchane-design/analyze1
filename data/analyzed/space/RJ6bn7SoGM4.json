@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "RJ6bn7SoGM4",
+    "title": "로먼 우주망원경이 수억 개의 은하를 보는 이유",
+    "published": "2026-08-30T10:00:23+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=RJ6bn7SoGM4",
+    "thumbnail": "https://img.youtube.com/vi/RJ6bn7SoGM4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "NASA의 차세대 광시야 적외선 망원경 <span class=\"text-cyan-300 font-semibold\">낸시 그레이스 로먼(Nancy Grace Roman)</span> 우주망원경이 수억 개의 은하를 관측하여 우주 거대 구조의 3차원 지도를 제작합니다.\n3억 화소의 와이드 필드 인스트루먼트(WFI)를 탑재하여 허블 망원경이 수백 년 걸릴 관측 면적을 단 몇 개월 만에 스캔합니다.\n암흑 물질의 중력 렌즈 효과와 우주 가속 팽창의 원인인 암흑 에너지를 정밀 측정하는 역사적 우주 프로젝트입니다.",
+    "key_claims": [
+      "로먼 망원경의 초광시야 적외선 카메라는 수억 개 은하의 위치와 후퇴 속도를 초고속으로 수집함.",
+      "중력 렌즈 현상을 분석해 보이지 않는 암흑 물질의 질량 분포를 입체적으로 규명함.",
+      "대규모 우주 빅데이터 수집으로 외계 행성 탐사와 우주론 연구에 혁명적 전기를 마련함."
+    ],
+    "data_points": [
+      "카메라 해상도: 3억 화소급 광시야 적외선 센서 탑재",
+      "관측 대상: 100억 광년 범위 내 수억 개 이상의 은하 데이터 수집"
+    ],
+    "signal": "neutral",
+    "signal_reason": "우주 항공 및 기초 천문학 분야의 획기적 기술 연구 성과로 직접적 금융 투자보다는 첨단 광학/우주 테크 가치에 집중됨.",
+    "key_companies": [
+      "NASA",
+      "스페이스X",
+      "록히드마틴(LMT)"
+    ],
+    "insight": "심우주 관측이 빅데이터와 AI 알고리즘을 만나면서 <span class=\"text-cyan-300 font-semibold\">우주 데이터 프로세싱과 초정밀 광학 센서 산업</span>의 기술적 도약이 가속화되고 있습니다.",
+    "action_point": "우주 항공 발사체 및 위성 광학 부품 제조 기술을 보유한 글로벌 우주 방산 밸류체인을 지속 관찰할 것."
+  },
+  "classification": {
+    "primary_topic": "space",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "로먼우주망원경",
+      "NASA",
+      "암흑물질",
+      "우주지도",
+      "안될과학"
+    ]
+  }
+}

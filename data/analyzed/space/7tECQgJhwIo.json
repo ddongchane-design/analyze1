@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "7tECQgJhwIo",
+    "title": "유클리드 우주망원경과 로먼 우주망원경의 공통점과 차이점?",
+    "published": "2026-08-31T03:00:23+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=7tECQgJhwIo",
+    "thumbnail": "https://img.youtube.com/vi/7tECQgJhwIo/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "ESA의 유클리드(Euclid)와 NASA의 낸시 그레이스 로먼(Nancy Grace Roman) 우주망원경은 모두 <span class=\"text-cyan-300 font-semibold\">암흑 에너지와 암흑 물질 탐사</span>를 위한 광시야 관측 자산입니다.\n유클리드는 가시광선-근적외선 영역에서 전천 서베이를 수행하며, 로먼은 허블 대비 100배 넓은 시야각과 고해상도 적외선 분광 장비로 심우주 구조를 3D 맵핑합니다.\n차세대 우주 관측 인프라의 가동으로 천체물리학 및 우주 항공 데이터 처리 기술의 도약이 가시화되고 있습니다.",
+    "key_claims": [
+      "두 망원경 모두 우주의 팽창 속도와 암흑 에너지의 본질을 밝히기 위한 광시야 서베이 임무를 가짐.",
+      "로먼 우주망원경은 허블 수준의 해상도를 유지하면서도 100배 넓은 하늘을 동시에 촬영 가능함.",
+      "대규모 우주 데이터 처리와 영상 합성 알고리즘에 AI 기반 분석 기술이 핵심 요소로 결합됨."
+    ],
+    "data_points": [
+      "로먼 우주망원경 시야각: 허블 우주망원경 대비 100배 넓은 면적 관측",
+      "목표: 수억 개 은하의 3차원 우주 지도 구축"
+    ],
+    "signal": "neutral",
+    "signal_reason": "순수 기초과학 및 항공우주 관측 기술 연구로 단기 상업적 금융 시그널보다는 중장기 우주 테크 인프라 발전 흐름에 해당함.",
+    "key_companies": [
+      "NASA",
+      "ESA",
+      "스페이스X(SpaceX)"
+    ],
+    "insight": "지상 천문대를 넘어 심우주 광시야 탐사가 본격화되면서 <span class=\"text-cyan-300 font-semibold\">빅데이터 천문학</span>과 우주 통신 밸류체인의 기술적 파급효과가 커지고 있습니다.",
+    "action_point": "우주 항공 인프라 및 위성 탑재체 센서, 대용량 광학 부품 밸류체인에 대한 중장기 기술 트렌드를 모니터링할 것."
+  },
+  "classification": {
+    "primary_topic": "space",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "우주망원경",
+      "로먼우주망원경",
+      "유클리드",
+      "암흑에너지",
+      "안될과학"
+    ]
+  }
+}

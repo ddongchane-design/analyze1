@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "IQg1kQE59Z4",
+    "title": "암 치료제를 감기약처럼 만들 수는 없을까?",
+    "published": "2026-08-30T10:00:27+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=IQg1kQE59Z4",
+    "thumbnail": "https://img.youtube.com/vi/IQg1kQE59Z4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "개인 맞춤형으로 막대한 비용이 소요되던 암 치료제를 감기약처럼 <span class=\"text-cyan-300 font-semibold\">대량 생산 및 범용화</span>하기 위한 차세대 바이오 기술 혁신이 진행 중입니다.\nmRNA 플랫폼과 인공지능 기반 단백질 설계(알파폴드 등)를 통해 표적 항암제 개발 속도와 생산 단가가 획기적으로 개선되고 있습니다.\n글로벌 제약사들의 파이프라인 표준화 노력은 차세대 바이오 의약품의 접근성을 대폭 끌어올릴 전망입니다.",
+    "key_claims": [
+      "고가의 맞춤형 항암제를 플랫폼 기반으로 모듈화하여 저비용 범용 치료제로 전환하려는 시도가 활발함.",
+      "mRNA 및 AI 기반 신약 개발 툴이 결합하여 치료제 생산 공정의 혁신을 견인함.",
+      "바이오 테크의 궁극적 목표는 난치병 치료제의 대량 보급 및 가격 파괴에 있음."
+    ],
+    "data_points": [
+      "기존 맞춤형 면역항암제 치료비용 수천만~수억 원 대비 대량 양산 시 비용 대폭 절감 기대"
+    ],
+    "signal": "bullish",
+    "signal_reason": "AI 신약 설계와 차세대 바이오 생산 플랫폼의 융합으로 바이오 헬스케어 산업의 상업화 생산성이 급격히 개선되고 있기 때문임.",
+    "key_companies": [
+      "모더나(MRNA)",
+      "바이온텍(BNTX)",
+      "로슈",
+      "삼성바이오로직스(207940)"
+    ],
+    "insight": "바이오 산업의 핵심 경쟁력은 개별 후보물질 발굴에서 <span class=\"text-cyan-300 font-semibold\">표준화된 플랫폼 생산 인프라</span>를 구축하는 역량으로 진화하고 있습니다.",
+    "action_point": "플랫폼 기술을 보유한 글로벌 mRNA 및 차세대 바이오 위탁개발생산(CDMO) 선두 기업들을 주목할 것."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "암치료제",
+      "mRNA",
+      "바이오혁신",
+      "신약개발",
+      "언더스탠딩"
+    ]
+  }
+}

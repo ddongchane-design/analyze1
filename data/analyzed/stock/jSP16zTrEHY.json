@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "jSP16zTrEHY",
+    "title": "환율 1380원, 미국주식 ETF 배당금 어디로 재투자할까?",
+    "published": "2026-08-29T10:00:23+00:00",
+    "channel_name": "수페TV",
+    "url": "https://www.youtube.com/watch?v=jSP16zTrEHY",
+    "thumbnail": "https://img.youtube.com/vi/jSP16zTrEHY/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "달러-원 환율이 1,380원대 고환율을 유지하는 환경에서 <span class=\"text-amber-300 font-bold\">달러 배당금의 효율적인 재투자 및 자산배분 전략</span>을 제시합니다.\n고환율 시기에 달러를 무리하게 원화로 환전하기보다 미국 고배당 성장 ETF(SCHD)와 빅테크 인덱스(QQQ, SPY)로 자동 재투자하는 복리 효과가 유리합니다.\n환율 변동성을 방어하면서 안정적인 월배당 현금 흐름을 극대화하는 실전 포트폴리오 구성법을 상세히 다룹니다.",
+    "key_claims": [
+      "1,380원대 환율에서는 달러 배당금을 원화로 환전하지 않고 달러 자산 내에서 재투자하는 것이 복리에 유리함.",
+      "배당 성장형 ETF(SCHD)와 기술주 지수(QQQ)의 조합으로 배당 수익과 자본 차익을 동시에 추구.",
+      "환율 하락 리스크를 분산하기 위해 분할 적립식 매수 원칙을 철저히 준수해야 함."
+    ],
+    "data_points": [
+      "달러-원 환율: 1,380원선 상단 등락",
+      "SCHD 10년 연평균 배당성장률: 10% 이상 유지"
+    ],
+    "signal": "bullish",
+    "signal_reason": "달러 현금 흐름을 활용한 미국 우량 자산 재투자는 환율 및 증시 변동성을 방어하는 가장 확실한 장기 복리 공식이기 때문임.",
+    "key_companies": [
+      "SCHD(슈드)",
+      "QQQ",
+      "SPY",
+      "애플(AAPL)"
+    ],
+    "insight": "환율을 맞추려 하지 말고 <span class=\"text-amber-300 font-bold\">달러 배당금을 스스로 일하는 달러 우량 자산으로 재투자</span>하는 시스템을 구축하는 것이 자산 증식의 지름길입니다.",
+    "action_point": "매월 입금되는 달러 배당금으로 SCHD 및 QQQ를 기계적으로 분할 매수하여 배당 성장 파이프라인을 확장할 것."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "미국ETF",
+      "달러배당금",
+      "SCHD",
+      "환율1380원",
+      "수페TV"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "KVRGQGhMGEU",
+    "title": "고용 서프라이즈에 금리인상 전망 60%...반도체는 상승 마감 [월가 뉴스레터]",
+    "published": "2026-09-05T00:00:00+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=KVRGQGhMGEU",
+    "thumbnail": "https://img.youtube.com/vi/KVRGQGhMGEU/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 비농업 고용지표가 시장 예상치를 대폭 상회하는 서프라이즈를 기록하며 페드워치(FedWatch) 상 <span class=\"text-amber-300 font-bold\">연준의 추가 금리 인상 확률이 60%</span>까지 치솟는 이례적 긴축 공포가 발생함.\n국채 금리 급등으로 중소형 성장주가 타격을 입었으나, AI 대장주와 국내외 반도체 섹터는 '오픈AI 차세대 모델 기대감'으로 상승 마감하는 탈동조화(Decoupling)를 연출함.\n경기 침체 공포는 완전히 소멸되었으며, 시장은 '고금리 장기화 vs AI 생산성 혁신'의 치열한 줄다리기 국면에 돌입함.",
+    "key_claims": [
+      "견고한 노동 시장으로 인해 연준의 조기 금리 인하 피벗 시나리오는 완전히 폐기됨.",
+      "고금리 충격을 흡수할 수 있는 압도적 현금 창출력과 가격 전가력을 가진 AI 반도체 메가캡으로 수급이 압축됨.",
+      "지수 전체의 광범위한 상승보다는 실적 가시성이 뚜렷한 소수 주도주 중심의 차별화 장세가 강화됨."
+    ],
+    "data_points": [
+      "금리 시장 확률: 연준 기준금리 추가 인상 전망치 60% 육박",
+      "지수 및 섹터 반응: 다우·러셀2000 약세 대비 엔비디아 및 필라델피아 반도체 지수 강세 마감"
+    ],
+    "signal": "bullish",
+    "signal_reason": "경기 침체 리스크가 사라진 가운데 AI 하드웨어 수요가 매크로 금리 상방 압력을 뚫고 독자적 펀더멘털 성장을 입증하고 있기 때문임.",
+    "key_companies": [
+      "엔비디아(NVDA)",
+      "브로드컴(AVGO)",
+      "삼성전자(005930)",
+      "SK하이닉스(000660)"
+    ],
+    "insight": "고금리 환경에서 시장은 오직 <span class=\"text-cyan-300 font-semibold\">'금리를 씹어먹는 압도적 AI 실적 성장주'</span>만을 대접하므로 지수 ETF보다는 독점적 반도체 주도주에 집중해야 합니다.",
+    "action_point": "매크로 지표 발표로 발생하는 단기 채권 금리 발작 조정을 반도체 핵심 주도주의 저가 매수 기회로 활용하십시오."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy",
+      "tech"
+    ],
+    "tags": [
+      "고용서프라이즈",
+      "금리인상전망",
+      "월가뉴스레터",
+      "반도체차별화",
+      "AI실적"
+    ]
+  }
+}

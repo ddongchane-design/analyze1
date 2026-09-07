@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "usB9krFVg0k",
+    "title": "\"미국에서 벌어지는 기괴한 사건\"",
+    "published": "2026-09-05T00:00:00+00:00",
+    "channel_name": "월텍남",
+    "url": "https://www.youtube.com/watch?v=usB9krFVg0k",
+    "thumbnail": "https://img.youtube.com/vi/usB9krFVg0k/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "오픈AI가 적발한 '데이터센터 밴드 작전'을 통해 <span class=\"text-violet-300 font-medium\">중국 연계 세력이 평범한 미국 시민으로 위장해 AI 데이터센터 건설 저지 여론 공작</span>을 펼친 사실이 폭로됨.\n소셜 미디어를 통해 '데이터센터가 전기와 물을 독점해 서민 가정의 전기요금을 폭등시킨다'는 공포를 선동하여 미국의 AI 인프라 확충 속도를 늦추려 시도함.\n미 의회와 FBI가 즉각 수사에 착수하면서 <span class=\"text-amber-300 font-bold\">'전력 인프라 확보'가 미·중 AI 테크 전쟁의 최대 지정학적 격전지</span>로 부상함.",
+    "key_claims": [
+      "중국발 가짜 계정들이 미국의 국지적 전력요금 반발 심리를 자극하여 데이터센터 인허가 지연을 유도함.",
+      "AI 패권 경쟁이 알고리즘 개발을 넘어 전력망, 원전, 냉각수 등 물리적 유틸리티 인프라 쟁탈전으로 전면 확대됨.",
+      "미국 정부의 국가안보 차원 데이터센터 보호법 및 전력망 우선 확충 정책이 가속화될 것임."
+    ],
+    "data_points": [
+      "사건 개요: 오픈AI 2026년 6월 보고서 발표 및 미 하원 공화당 지도부 FBI 수사 의뢰",
+      "핵심 표적: 데이터센터 밀집 지역의 전력요금 인상 불안과 주민 소환 운동 조장"
+    ],
+    "signal": "bullish",
+    "signal_reason": "역설적으로 중국이 여론 공작까지 펼칠 만큼 미국의 AI 인프라 우위가 압도적이며, 미 정부의 전력망 전폭 지원이 확실시되기 때문임.",
+    "key_companies": [
+      "컨스텔레이션에너지(CEG)",
+      "비스트라(VST)",
+      "GE버노바(GEV)",
+      "오픈AI"
+    ],
+    "insight": "데이터센터를 향한 외국의 견제는 <span class=\"text-cyan-300 font-semibold\">'전력과 에너지가 AI 시대의 가장 결정적인 안보 자산'</span>임을 증명하고 있습니다.",
+    "action_point": "데이터센터 전력 공급을 독점하는 미국 원자력 발전주(CEG, VST) 및 전력망 송배전 인프라(GEV, HD현대일렉트릭)를 적극 매수하십시오."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "energy",
+      "economy"
+    ],
+    "tags": [
+      "AI데이터센터",
+      "중국여론공작",
+      "전력인프라",
+      "월텍남",
+      "테크안보"
+    ]
+  }
+}

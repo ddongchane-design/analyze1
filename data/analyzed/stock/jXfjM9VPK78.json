@@ -1,0 +1,48 @@
+{
+  "video": {
+    "id": "jXfjM9VPK78",
+    "title": "[박신영의 개장전요것만-9월2일] AI 추론 시대 열리자 3배 뛴 ‘이 회사’..월가 “40% 더 오른다” | “데이터센터 투자, 4.3‘경’원 간다”",
+    "published": "2026-09-03T04:45:11+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=jXfjM9VPK78",
+    "thumbnail": "https://img.youtube.com/vi/jXfjM9VPK78/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "AI 시장이 모델 학습(Training)에서 실서비스 <span class=\"text-amber-300 font-bold\">추론(Inference) 중심</span>으로 급속히 진화함에 따라 맞춤형 커스텀 ASIC과 네트워킹을 독점 공급하는 <span class=\"text-cyan-300 font-semibold\">브로드컴(AVGO)과 마벨 테크놀로지(MRVL)</span>의 주가가 폭발적으로 급등하고 있습니다.\n월가 주요 투자은행들은 향후 5~10년간 글로벌 데이터센터 및 전력망 인프라 누적 투자 규모가 최대 <span class=\"text-amber-300 font-bold\">4.3경 원(약 3조 달러 이상)</span>에 달할 것으로 전망하며 추가 상승 여력을 제시했습니다.\n한편 미국과 이란의 호르무즈 해협 충돌 우려로 국제 유가가 배럴당 90달러선을 위협하는 등 지정학적 인플레이션 변수가 단기 시장 변동성을 자극하고 있습니다.",
+    "key_claims": [
+      "AI 패러다임이 추론으로 이동하면서 빅테크 자체 커스텀 칩(ASIC) 설계 파트너인 브로드컴의 마진율과 실적이 급격히 개선됨.",
+      "향후 10년간 데이터센터, AI 반도체, 전력 그리드를 아우르는 전 세계 인프라 CapEx는 4.3경 원 규모로 전례 없는 슈퍼사이클 진입.",
+      "<span class=\"text-rose-400 font-medium\">호르무즈 해협 통제권 갈등</span>으로 인한 브렌트유 94달러 돌파는 거시 물가와 금리에 단기 복병으로 작용."
+    ],
+    "data_points": [
+      "글로벌 AI 데이터센터 및 관련 인프라 누적 투자 전망치: 약 4.3경 원(3조 달러 이상)",
+      "WTI 유가: 89.6달러, 브렌트유: 94.3달러 상회 (호르무즈 긴장 고조)",
+      "브로드컴 및 커스텀 AI 반도체 기업 주가 목표치 월가 30~40% 추가 상향"
+    ],
+    "signal": "bullish",
+    "signal_reason": "AI 하이퍼스케일러들의 투자가 학습을 넘어 대규모 실사용 추론 인프라 확충으로 본격화되면서 반도체 및 네트워킹 밸류체인의 이익 가시성이 극대화되고 있기 때문임.",
+    "key_companies": [
+      "브로드컴(AVGO)",
+      "마벨 테크놀로지(MRVL)",
+      "엔비디아(NVDA)",
+      "오라클(ORCL)",
+      "TSMC"
+    ],
+    "insight": "AI 투자는 일시적 테마가 아니라 4.3경 원 규모의 <span class=\"text-amber-300 font-bold\">글로벌 물리 인프라 대개조 프로젝트</span>이며, 엔비디아뿐만 아니라 커스텀 ASIC과 광통신/네트워킹을 독점하는 브로드컴 류의 인프라 장악 기업이 2차 랠리의 주역이 될 것입니다.",
+    "action_point": "유가 급등에 따른 단기 지수 변동성을 기회로 활용하여, 추론용 맞춤형 ASIC 수혜주(브로드컴, 마벨) 및 고속 광통신 부품 기업 비중을 적극 확대해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "AI추론칩수혜주",
+      "브로드컴",
+      "마벨테크놀로지",
+      "데이터센터투자4.3경",
+      "호르무즈유가리스크"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "U0mjM-4xsxg",
+    "title": "비트코인 상승장, 지금 사도 될까? 꼭 알아야 할 3가지",
+    "published": "2026-08-23T03:30:02+00:00",
+    "channel_name": "디파이 농부 조선생 | Professor Jo",
+    "url": "https://www.youtube.com/watch?v=U0mjM-4xsxg",
+    "thumbnail": "https://img.youtube.com/vi/U0mjM-4xsxg/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "비트코인(BTC) 대세 상승장에서 신규 진입을 고려하는 투자자가 반드시 확인해야 할 <span class=\"text-cyan-300 font-semibold\">3대 핵심 온체인 지표(MVRV Z-Score, 장기 보유자 물량 이동, 스테이블코인 공급량)</span>를 디파이 농부 조선생이 심층 분석함. 과거 반감기 사이클과의 비교를 통해 현재 비트코인 시장이 거품의 정점이 아닌 중기 성숙 국면에 위치해 있음을 논증하고 실전 분할 매수 전략을 제시함.",
+    "key_claims": [
+      "MVRV Z-Score와 NUPL(미실현 손익 지표) 기준 현재 비트코인은 과열권(역사적 고점 6~8)에 도달하지 않은 중립 상승 구간에 위치함.",
+      "미국 현물 ETF를 통한 전통 기관 자금의 지속 유입이 과거 개미 중심의 변동성 장세와 차별화된 하방 지지력을 형성함.",
+      "단기 급등 시 몰빵 매수보다는 주간 분할 매수(DCA) 및 선물 펀딩비 과열 시기 헷지 전략이 승률을 극대화함."
+    ],
+    "data_points": [
+      "MVRV Z-Score 2.0~2.5 레벨 (역사적 사이클 정점은 6.0 이상)",
+      "비트코인 반감기 후 12~18개월 랠리 주기 패턴",
+      "거래소 내 비트코인 잔고 수년래 최저치 경신 (공급 쇼크 지속)"
+    ],
+    "signal": "bullish",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">온체인 밸류에이션 지표 미과열 및 기관 유입 지속</span>으로 2026~2027년 추가 상승 여력이 충분함.",
+    "key_companies": [
+      "Bitcoin",
+      "Ethereum",
+      "MicroStrategy",
+      "Coinbase"
+    ],
+    "insight": "가격만 보고 고점 여부를 예단하기보다 온체인 데이터(장기 홀더의 매집/매도 여부)를 통해 스마트 머니의 실제 행동을 추적하는 것이 크립토 투자의 정석임.",
+    "action_point": "MVRV 3.0 이하 구간에서 비트코인 및 이더리움 주간 정기 적립식 분할 매수 지속."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "economy",
+      "stock"
+    ],
+    "tags": [
+      "비트코인상승장",
+      "온체인데이터",
+      "MVRV",
+      "디파이농부조선생",
+      "반감기사이클"
+    ]
+  }
+}

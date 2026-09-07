@@ -1,0 +1,41 @@
+{
+  "video": {
+    "id": "jHnHpCqwNmw",
+    "title": "곰팡이는 식물일까, 동물일까?",
+    "published": "2026-08-21T02:00:07+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=jHnHpCqwNmw",
+    "thumbnail": "https://img.youtube.com/vi/jHnHpCqwNmw/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "곰팡이는 식물이 아니라 <span class=\"text-cyan-300 font-semibold\">진화적으로 동물과 훨씬 가까운 균계(Fungi) 생물</span>임. 광합성을 하지 못해 외부 유기물을 섭취해야 하고, 식물의 셀룰로오스와 달리 키틴 세포벽을 가지며, 탄수화물을 동물처럼 글리코젠으로 저장하고 동물 세포의 콜레스테롤과 유사한 '에르고스테롤'을 세포막에 보유하는 등 동물 세포와 핵심 특성을 공유함.",
+    "key_claims": [
+      "곰팡이는 스스로 양분을 만드는 식물과 달리 유기물을 섭취해야 생존하는 종속영양생물임.",
+      "세포벽의 구성 성분이 곤충/갑각류 외골격과 동일한 '키틴'이며, 당분을 식물성 녹말이 아닌 동물성 '글리코젠'으로 저장함.",
+      "세포막 유동성을 조절하는 에르고스테롤은 동물 세포의 콜레스테롤과 분자 구조 및 생리적 기능이 매우 유사함."
+    ],
+    "data_points": [
+      "생물학적 특징 비교: 식물(셀룰로오스, 녹말, 광합성) vs 곰팡이/동물(키틴, 글리코젠, 에르고스테롤/콜레스테롤, 종속영양)"
+    ],
+    "signal": "na",
+    "signal_confidence": "high",
+    "signal_reason": "순수 기초 생물학 교양 콘텐츠로 금융 시장 및 투자 판단 시그널에 해당하지 않음.",
+    "key_companies": [],
+    "insight": "곰팡이의 동물 유사 세포 특성은 항진균제 개발 시 인체 세포 독성을 피하기 어려운 생물학적 난제의 원인이자, 바이오 발효 및 대체 단백질 산업의 핵심 기전임.",
+    "action_point": "기초 과학 지식 참고용으로 활용."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "곰팡이",
+      "생물학적분류",
+      "동물세포",
+      "키틴",
+      "에르고스테롤",
+      "안될과학"
+    ]
+  }
+}

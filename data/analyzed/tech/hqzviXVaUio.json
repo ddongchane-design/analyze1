@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "hqzviXVaUio",
+    "title": "\"번호표가 너덜해질 때까지 기다렸다\" TSMC 줄에서 밀린 고객들이 삼성 파운드리로 향하는 이유가 숫자로 확인됐습니다 [월간 아신 9월호 2부]",
+    "published": "2026-09-03T00:00:00+00:00",
+    "channel_name": "이효석아카데미",
+    "url": "https://www.youtube.com/watch?v=hqzviXVaUio",
+    "thumbnail": "https://img.youtube.com/vi/hqzviXVaUio/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "삼성전자 파운드리 사업부가 4nm·5nm 최대 15%, 8nm 10% 등 <span class=\"text-cyan-300 font-semibold\">공정 공급 단가 인상</span>을 단행하며 TSMC 캐파 포화에 따른 직접적 낙수효과를 입증함.\nTSMC 대기열에서 밀려난 미국·중국 팹리스들이 삼성으로 유입되며 4나노 공정은 작년 말부터 풀가동 중이며, 엔비디아 LPU(저디언 추론 시스템) 수주도 가시화됨.\n반면 2나노는 가격 인하로 고객 유치에 고전 중이며, 4나노 캐파를 자사 HBM4 베이스 다이에 배정할지 빅테크 외주에 배정할지가 핵심 전략적 딜레마로 부상함.",
+    "key_claims": [
+      "삼성 파운드리의 단가 인상은 적자 구조 탈피와 TSMC 수주 낙수효과가 숫자로 발현된 중대 전곡점임.",
+      "글로벌 팹리스의 대안 부재로 미국·중국 고객 상대 10~15% 수준의 가격 결정력을 회복함.",
+      "저마진 레거시 공정 비중 축소로 파운드리 점유율은 일시 하락했으나 선단 공정 집중으로 내년 흑자 전환이 가시화됨."
+    ],
+    "data_points": [
+      "삼성 파운드리 공정별 가격 인상률: 4nm/5nm 최대 15%, 8nm 10% 인상 단행",
+      "지역별 인상률 차등: 미국·중국 팹리스 10~15% 인상, 대만 5~10% 인상",
+      "파운드리 시장 점유율 추이: 레거시 구조조정으로 작년 2분기 11.5%에서 7.3%로 조정"
+    ],
+    "signal": "bullish",
+    "signal_reason": "만성 적자였던 삼성 파운드리가 선단 공정 풀가동과 단가 인상에 힘입어 구조적 흑자 턴어라운드 궤도에 진입하고 있기 때문임.",
+    "key_companies": [
+      "삼성전자(005930)",
+      "TSMC(TSM)",
+      "엔비디아(NVDA)"
+    ],
+    "insight": "TSMC 독점에 따른 생산 단가 상승과 납기 지연이 극에 달하면서 <span class=\"text-cyan-300 font-semibold\">삼성 파운드리가 글로벌 빅테크의 필수 2차 공급처(Second Vendor)</span>로 재평가받고 있습니다.",
+    "action_point": "파운드리 흑자 전환 가시성과 HBM4 양산 모멘텀을 보유한 <span class=\"text-cyan-300 font-semibold\">삼성전자</span>의 저평가 구간을 중장기 매수 기회로 활용하십시오."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "삼성파운드리",
+      "단가인상",
+      "TSMC낙수효과",
+      "4나노풀가동",
+      "HBM4베이스다이"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "nAxwv3kaExU",
+    "title": "엔비디아 내러티브의 변화 | 월스트리트파인더ㅣ2026.8.31(월)",
+    "published": "2026-08-31T00:45:40+00:00",
+    "channel_name": "Smart Money by MiraeAsset ",
+    "url": "https://www.youtube.com/watch?v=nAxwv3kaExU",
+    "thumbnail": "https://img.youtube.com/vi/nAxwv3kaExU/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "엔비디아의 어닝스 콜에서 시장의 핵심 질문이 'AI 수요가 유지되는가'에서 <span class=\"text-cyan-300 font-semibold\">'차세대 아키텍처(베라 루빈)를 통해 어떻게 지속 가능한 수익을 창출하는가'</span>로 프레임이 진화했습니다.\n블랙웰(Blackwell)에 이어 차세대 '베라 루빈(Vera Rubin)'으로 이어지는 로드맵과 마진 방어력이 주가 리레이팅의 핵심 잣대로 부각되었습니다.\n한편 글로벌 기후 변화에 따른 식량 물가 상승과 잭슨홀 매파 기조가 9월 증시의 잠재적 할인율 부담 요인으로 지목되었습니다.",
+    "key_claims": [
+      "엔비디아를 둘러싼 내러티브가 단순 AI 열풍에서 '실질 수익화(Monetization)'와 '마진 안정성'으로 성숙해짐.",
+      "차세대 AI 플랫폼 '베라 루빈'의 가시성과 랙 스케일 시스템 공급 능력이 장기 성장성을 견인함.",
+      "글로벌 식품 인플레이션과 연준의 고금리 장기화(Higher for longer) 기조가 9월 증시 변동성 요인으로 작용함."
+    ],
+    "data_points": [
+      "어닝콜 핵심 질문 전환: AI CapEx 지속성 → AI 투자 대비 ROI 및 수익화 가시성",
+      "차세대 아키텍처: 블랙웰(Blackwell) 양산 본격화 및 베라 루빈(Vera Rubin) 개발 가속"
+    ],
+    "signal": "bullish",
+    "signal_reason": "엔비디아의 기술 독점력과 차세대 로드맵이 흔들림 없으며 AI 인프라의 수익화 단계 진입이 가시화되고 있기 때문임.",
+    "key_companies": [
+      "엔비디아(NVDA)",
+      "TSMC(TSM)",
+      "SK하이닉스(000660)",
+      "미래에셋증권"
+    ],
+    "insight": "AI 투자는 버블 붕괴가 아니라 <span class=\"text-cyan-300 font-semibold\">인프라 구축에서 실질적 비즈니스 수익 모델 창출로 진화하는 성숙 국면</span>에 진입했습니다.",
+    "action_point": "9월 매크로 변동성으로 인한 엔비디아 및 AI 핵심 밸류체인의 단기 주가 조정을 장기 비중 확대 기회로 삼을 것."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "엔비디아실적",
+      "베라루빈",
+      "AI수익화",
+      "월스트리트파인더",
+      "미래에셋"
+    ]
+  }
+}

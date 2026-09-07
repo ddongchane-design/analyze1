@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "FEQV3FaJlMU",
+    "title": "대량 판매되는 최초의 피지컬 AI 로봇이 등장했다? 399달러 Microduck 돌풍, 로봇 5만 대가 액추에이터 75만 개가 되는 이유",
+    "published": "2026-08-30T10:04:12+00:00",
+    "channel_name": "엔지니어TV",
+    "url": "https://www.youtube.com/watch?v=FEQV3FaJlMU",
+    "thumbnail": "https://img.youtube.com/vi/FEQV3FaJlMU/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "399달러라는 파격적인 가격에 출시된 소형 2족 피지컬 AI 로봇 <span class=\"text-cyan-300 font-semibold\">'마이크로덕(Microduck)'</span>이 5만 대 사전 주문을 돌파하며 대량 양산의 물꼬를 텄습니다.\n로봇 1대당 15개의 다관절 액추에이터가 탑재되어, 로봇 5만 대 판매는 곧 <span class=\"text-cyan-300 font-semibold\">액추에이터 75만 개</span>라는 전례 없는 대량 부품 수요로 직결됩니다.\n중국의 초저가 부품 생태계와 결합된 소형 피지컬 AI의 보급은 로봇 하드웨어 및 핵심 구동기 시장의 폭발적 성장을 가속화하고 있습니다.",
+    "key_claims": [
+      "399달러의 진입 장벽 파괴로 피지컬 AI 로봇이 연구용에서 일반 소비자용 대량 판매 제품으로 전환됨.",
+      "로봇 본체 수량의 15배에 달하는 액추에이터 및 모터 부품 수요 레버리지 효과가 발생함.",
+      "중국 하드웨어 공급망의 원가 절감 능력과 결합하여 피지컬 AI 생태계의 스케일업이 가속화됨."
+    ],
+    "data_points": [
+      "마이크로덕 판매 가격: 399달러 (소비자 친화적 가격대)",
+      "사전 주문량: 5만 대 돌파",
+      "탑재 액추에이터 수: 로봇 1대당 15개 → 총 75만 개 소요"
+    ],
+    "signal": "bullish",
+    "signal_reason": "소비자용 피지컬 AI 로봇의 대량 양산이 본격화되면서 로봇용 액추에이터, 감속기, 모터 부품 생태계의 구조적 매출 성장이 입증되었기 때문임.",
+    "key_companies": [
+      "Microduck 제조사",
+      "삼익THK(004380)",
+      "에스피지(058610)",
+      "유니트리"
+    ],
+    "insight": "피지컬 AI의 대중화는 완성품 로봇보다 <span class=\"text-cyan-300 font-semibold\">핵심 구동 부품(액추에이터·모터)</span>을 대량 양산할 수 있는 부품 공급망 기업에 더 직접적이고 강력한 수혜를 가져옵니다.",
+    "action_point": "로봇 본체 완제품 기업뿐 아니라 대량 양산 능력을 갖춘 정밀 액추에이터 및 소형 감속기 밸류체인에 주목할 것."
+  },
+  "classification": {
+    "primary_topic": "robot",
+    "secondary_topics": [
+      "tech",
+      "stock"
+    ],
+    "tags": [
+      "피지컬AI",
+      "마이크로덕",
+      "액추에이터75만개",
+      "로봇양산",
+      "엔지니어TV"
+    ]
+  }
+}

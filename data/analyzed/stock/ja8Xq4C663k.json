@@ -1,0 +1,48 @@
+{
+  "video": {
+    "id": "ja8Xq4C663k",
+    "title": "트럼프 \"채권 시장, 필요하다면 군사력 사용할 것\"...테슬라, 9월 3일 사이버캡 공개 [월가 뉴스레터]",
+    "published": "2026-08-23T22:04:04+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=ja8Xq4C663k",
+    "thumbnail": "https://img.youtube.com/vi/ja8Xq4C663k/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "트럼프의 파격적인 채권 시장 및 달러 방어 발언과 함께, 오는 9월 예정된 <span class=\"text-cyan-300 font-semibold\">테슬라(Tesla)의 사이버캡(Cybercab) 완전자율주행 로보택시 공개 이벤트</span>가 글로벌 모빌리티 및 테크 시장에 미칠 파급력을 삼프로TV 월가 뉴스레터에서 정리함. FSD V12 고도화에 기반한 무인 운행 상용화 일정과 원가 절감 플랫폼이 테슬라 밸류에이션의 멀티플을 전기차 제조사에서 AI 로보틱스 플랫폼으로 완전히 재정의할 수 있을지 집중 진단함.",
+    "key_claims": [
+      "트럼프 전 대통령의 국채 시장 안정화 및 강달러 압박 발언이 월가 채권 수익률에 미치는 심리적 충격 분석.",
+      "테슬라 사이버캡 쇼케이스는 스티어링 휠과 페달이 없는 전용 2인승 자율주행 차량의 양산 일정과 비용 구조를 최초 공개하는 전환점임.",
+      "FSD 구독 매출 확대와 무인 택시 네트워크 호출 서비스(Cybercab Network)의 현실성이 입증될 경우 테슬라 주가의 재평가 기폭제가 될 것임."
+    ],
+    "data_points": [
+      "9월 3일(예정) 테슬라 로보택시/사이버캡 공식 쇼케이스",
+      "테슬라 FSD 누적 주행 거리 수십억 마일 돌파",
+      "사이버캡 차량 대당 예상 생산 원가 2만 달러대 초반 타겟"
+    ],
+    "signal": "bullish",
+    "signal_reason": "<span class=\"text-cyan-300 font-semibold\">테슬라 사이버캡 쇼케이스</span>를 기점으로 자율주행 상용화 가시성이 확보되며 전기차 캐즘 우려를 상쇄할 강력한 신규 성장 동력 점화 기대.",
+    "key_companies": [
+      "Tesla",
+      "Uber",
+      "Alphabet(Waymo)",
+      "Mobileye",
+      "NVIDIA"
+    ],
+    "insight": "하드웨어 판매 마진 한계에 직면한 모빌리티 산업에서, 자율주행 소프트웨어 기반의 플랫폼 구독 및 로보택시 서비스 수익 모델이 기업 가치의 절대적 기준이 되고 있음.",
+    "action_point": "사이버캡 쇼케이스 전 변동성 구간을 활용한 테슬라 분할 매수 및 자율주행 비전 센서·통신 모듈 협력사 점검."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "테슬라",
+      "사이버캡",
+      "트럼프국채발언",
+      "로보택시",
+      "월가뉴스레터"
+    ]
+  }
+}
