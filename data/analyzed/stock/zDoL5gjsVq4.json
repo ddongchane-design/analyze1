@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "zDoL5gjsVq4",
+    "title": "[26.09.07 오전 방송 전체보기] 금리인상 경계감에 뉴욕증시 하락...반도체주 동반 '급등'",
+    "published": "2026-09-07T03:20:05+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=zDoL5gjsVq4",
+    "thumbnail": "https://img.youtube.com/vi/zDoL5gjsVq4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "연준의 9월 금리 인상 경계감으로 뉴욕 증시가 일제히 조정을 받았으나, 국내 증시에서는 <span class=\"text-cyan-300 font-semibold\">삼성전자와 SK하이닉스가 동반 급등</span>하는 차별화된 디커플링(Decoupling) 장세가 연출됨.\n오픈AI GPT-6 아스트라 공개 이후 글로벌 하이퍼스케일러들의 데이터센터 메모리 주문이 쇄도하며 한국 반도체가 글로벌 AI 랠리의 진원지로 부상함.\n미국의 8월 고용 호조와 물가 경계감이 공존하는 가운데, <span class=\"text-amber-300 font-bold\">실물 하드웨어 공급망 독점력</span>이 거시 리스크를 압도하는 장세가 뚜렷함.",
+    "key_claims": [
+      "미국 증시의 금리 발 하락에도 불구하고 한국 반도체 섹터는 실적 모멘텀으로 독자 급등세를 시현함.",
+      "GPT-6 아스트라가 요구하는 극단적 메모리 대역폭이 국내 기업들의 판가 인상 능력을 입증함.",
+      "글로벌 자금이 매크로 취약 자산에서 한국의 핵심 반도체 주식으로 피난하는 현상이 관측됨."
+    ],
+    "data_points": [
+      "시장 반응: 뉴욕 증시 3대 지수 하락 vs 국내 코스피 반도체 대형주 +3~5%대 급등",
+      "수급 특징: 글로벌 헤지펀드의 국내 반도체 롱(Long) / 미국 고PER 테크 숏(Short) 페어트레이딩 유입"
+    ],
+    "signal": "bullish",
+    "signal_reason": "뉴욕 증시의 하락 충격을 한국 반도체가 자체 실적 펀더멘털로 튕겨내며 글로벌 시장 주도권을 확보했기 때문임.",
+    "key_companies": [
+      "삼성전자(005930)",
+      "SK하이닉스(000660)",
+      "엔비디아(NVDA)"
+    ],
+    "insight": "글로벌 매크로가 흔들릴 때 진정한 대장주는 빛을 발하며, <span class=\"text-cyan-300 font-semibold\">'한국 반도체의 독점적 공급망 지위'</span>는 글로벌 포트폴리오에서 가장 매력적인 대체 불가 안전자산 역할을 수행 중입니다.",
+    "action_point": "미국 증시 하락에 지레 겁먹고 한국 주식을 던지지 말고, 글로벌 자금이 유입되는 삼성전자와 SK하이닉스를 포트폴리오 중심축으로 유지하십시오."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "뉴욕증시하락반도체급등",
+      "디커플링장세",
+      "아스트라효과",
+      "글로벌자금피난",
+      "삼프로모닝"
+    ]
+  }
+}

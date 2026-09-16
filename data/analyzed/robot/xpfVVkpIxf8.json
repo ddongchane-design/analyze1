@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "xpfVVkpIxf8",
+    "title": "왜 휴머노이드가 아니라 ‘손’을 만들었을까? 7년간 모터를 연구한 WUJI 창업자가 내린 결론",
+    "published": "2026-09-07T10:46:31+00:00",
+    "channel_name": "엔지니어TV",
+    "url": "https://www.youtube.com/watch?v=xpfVVkpIxf8",
+    "thumbnail": "https://img.youtube.com/vi/xpfVVkpIxf8/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "글로벌 최상위 덱스트러스 핸드(Dexterous Hand) 전문 기업 WUJI 창업자가 7년간의 모터 연구 끝에 <span class=\"text-cyan-300 font-semibold\">'휴머노이드 상용화의 최종 병목은 로봇 몸체가 아니라 인간의 손'</span>이라는 결론을 내림.\n기존 와이어/텐던(Tendon) 구동의 내구성·마찰·백래시 문제를 극복하기 위해 관절 직결형 초소형 고토크 모터를 독자 개발하여 기계적 완성도를 극대화함.\n피지컬 AI 조작의 결정적 한계인 <span class=\"text-amber-300 font-bold\">'촉각(Tactile) 데이터 부재'</span>를 해결하기 위해 스마트 촉각 수집 글러브를 자체 구축하여 데이터 수집부터 양산까지 완결형 플랫폼을 구축 중임.",
+    "key_claims": [
+      "휴머노이드 전신을 만드는 것보다 인간 수준의 다지 로봇 손을 양산하는 것이 사업성과 기술 진입장벽이 훨씬 높음.",
+      "텐던 와이어 방식의 정비/수명 한계를 직결 모터와 미세 제어로 대체하여 산업용 내구성을 검증함.",
+      "시각(Vision) 모달리티만으로는 정밀 조작이 불가능하며, 촉각 모달리티가 결합된 VLA 모델만이 피지컬 AI의 완성을 이룸."
+    ],
+    "data_points": [
+      "연구 및 업력: 7년간 로봇 전용 모터 및 액추에이터 원천 기술 축적",
+      "핵심 경쟁력: 초소형 고토크 직결 모터 + 촉각 데이터 수집 스마트 글러브 통합"
+    ],
+    "signal": "bullish",
+    "signal_reason": "휴머노이드 로봇이 단순 이동 시연에서 실질적 공장 작업(조작)으로 진화하는 핵심 하드웨어 및 데이터 병목을 정밀 타격하고 있기 때문임.",
+    "key_companies": [
+      "테슬라(TSLA)",
+      "보스턴다이내믹스",
+      "현대모비스(012330)",
+      "레인보우로보틱스(277810)"
+    ],
+    "insight": "로봇의 두뇌가 AI로 해결되는 순간, 다음 독점 가치는 <span class=\"text-cyan-300 font-semibold\">'인간처럼 느끼고 쥐는 촉각 핸드 하드웨어와 양산 데이터'</span>를 장악한 핵심 부품사에 집중될 것입니다.",
+    "action_point": "로봇 완성체 제조사뿐만 아니라 고출력 마이크로 모터, 로봇 손 액추에이터, 촉각 센서 전문 공급망 기업을 선별하여 조기 발굴하십시오."
+  },
+  "classification": {
+    "primary_topic": "robot",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "WUJI로봇손",
+      "덱스트러스핸드",
+      "촉각센서데이터",
+      "초소형고토크모터",
+      "엔지니어TV"
+    ]
+  }
+}

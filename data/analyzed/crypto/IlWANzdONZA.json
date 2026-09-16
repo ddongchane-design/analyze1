@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "IlWANzdONZA",
+    "title": "\"스테이블코인이 커지는 건 규제의 문제가 아니다?\"",
+    "published": "2026-09-16T08:05:51+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=IlWANzdONZA",
+    "thumbnail": "https://img.youtube.com/vi/IlWANzdONZA/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "스테이블코인의 본질적 확장은 법적 규제 통과 여부보다 <span class=\"text-amber-300 font-bold\">실제 생태계 내 사용자들의 경제 활동과 거래 수요</span>에 의해 결정됨. 트럼프 행정부와 베센트 재무장관이 추진하는 국채 소화 수단으로서의 국가적 필요성이 상존하므로, 클래리티 법안 부결에도 불구하고 스테이블코인 유동성 기반의 비트코인 가격 하방 경직성은 유지될 전망임.",
+    "key_claims": [
+      "스테이블코인의 공급 증가는 규제 정비 자체보다 실물 및 온체인 경제에서의 결제·담보 수요가 견인함.",
+      "미국 재무부 입장에서 단기 국채의 강력한 매수 주체인 스테이블코인을 완전히 억누를 수 없다는 구조적 역학이 작동함."
+    ],
+    "data_points": [
+      "규제 상태: 클래리티 법안 부결에도 미 재무부의 스테이블코인 활용 기조 지속"
+    ],
+    "signal": "neutral",
+    "signal_reason": "법안 부결 악재에도 불구하고 스테이블코인을 통한 달러 국채 흡수 수요와 실물 사용처 확대가 하방을 방어하기 때문임.",
+    "key_companies": [
+      "테더(USDT)",
+      "서클(USDC)",
+      "비트코인(BTC)"
+    ],
+    "insight": "규제는 속도를 늦출 뿐, 기축통화 달러의 글로벌 디지털 유통을 장악하려는 스테이블코인의 구조적 팽창 추세를 되돌리지는 못함.",
+    "action_point": "단기 법안 이슈로 인한 급락 시 스테이블코인 생태계 핵심 기초자산인 비트코인의 분할 매수 기회로 활용할 것."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "스테이블코인",
+      "실사용수요",
+      "클래리티법안",
+      "트럼프",
+      "베센트",
+      "단기쇼츠"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "8WmWroeA8EU",
+    "title": "고금리 환경에서 살아남기, 핵심광물과 스테이블 코인 투자 테마 주목 #투자전략｜애널리스트리포트｜2026.09.08(화)",
+    "published": "2026-09-08T00:00:05+00:00",
+    "channel_name": "Smart Money by MiraeAsset ",
+    "url": "https://www.youtube.com/watch?v=8WmWroeA8EU",
+    "thumbnail": "https://img.youtube.com/vi/8WmWroeA8EU/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 10년물 국채금리가 4.7%를 돌파하고 잭슨홀에서 연준의 추가 금리 인상 가능성이 시사되면서 <span class=\"text-rose-400 font-medium\">고금리 장기화(Higher for Longer) 리스크</span>가 주식 시장 밸류에이션을 강하게 압박하고 있음.\nAI 집중 포트폴리오의 가격 부담을 완화하기 위해 비(非)AI 섹터로의 분산 투자가 시급하며, 9월 24일 미중 정상회담을 앞두고 <span class=\"text-violet-300 font-medium\">중국산 핵심광물 공급망 탈피 테마</span>가 급부상함.\n또한 미국 정부의 단기 국채(T-Bill) 소화의 핵심 축으로 떠오른 <span class=\"text-cyan-300 font-semibold\">스테이블코인 발행사들의 미 국채 매입 급증 수혜</span>에 주목해야 함.",
+    "key_claims": [
+      "워시 연준 의장의 2% 인플레 고수 및 금리 인상 시사로 연내 금리 인상 확률이 급격히 상승함.",
+      "미국의 필수 군수물자 내 중국산 광물 의존도가 80%를 상회하여, 미중 정상회담 이후 서방 공급망 독립 투자가 가속화될 것임.",
+      "미 재무부의 장기채 부담 경감을 위한 단기채 증발 과정에서 스테이블코인이 핵심 매수 주체로 기능함."
+    ],
+    "data_points": [
+      "미국 10년 국채 금리: 4.7% 돌파, 일본 10년 금리: 3.0% 상회",
+      "미국 군수물자용 중국산 핵심 광물 의존도: 80% 상회",
+      "주요 일정: 9월 24일 미중 정상회담 예정"
+    ],
+    "signal": "neutral",
+    "signal_reason": "고금리 장기화로 기술주 밸류에이션 압박이 크나, 핵심 광물 및 스테이블코인 국채 수요 등 새로운 정책 수혜 테마가 명확히 분화되고 있기 때문임.",
+    "key_companies": [
+      "미래에셋증권",
+      "테더(USDT)",
+      "서클(USDC)",
+      "MP머티리얼즈(MP)"
+    ],
+    "insight": "고금리 환경의 돌파구는 단순 현금 보유가 아니라, <span class=\"text-cyan-300 font-semibold\">미국 재무부 단기채를 흡수하는 스테이블코인 생태계</span>와 지정학적 공급망 재편의 필수재인 <span class=\"text-violet-300 font-medium\">핵심 광물 안보주</span>로 포트폴리오를 재편하는 것입니다.",
+    "action_point": "지나치게 고평가된 테크주 비중을 일부 조절하고, 단기 국채 수요를 견인하는 가상자산 인프라주 및 희토류/핵심 광물 공급망 다변화 ETF(REMX 등)를 포트폴리오에 편입하십시오."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock",
+      "crypto"
+    ],
+    "tags": [
+      "고금리장기화",
+      "국채금리4.7%",
+      "핵심광물",
+      "미중정상회담",
+      "스테이블코인"
+    ]
+  }
+}

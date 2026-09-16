@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "DOt3CEYT-IY",
+    "title": "\"이런 적은 없었습니다\" 태평양 연결고리 절단, 올 연말 역대급 기후 재앙온다 ㄷㄷ",
+    "published": "2026-09-09T11:00:15+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=DOt3CEYT-IY",
+    "thumbnail": "https://img.youtube.com/vi/DOt3CEYT-IY/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "태평양 해류 순환 고리가 사상 처음으로 단절되는 이상 기후 징후가 포착되며, 올겨울 북반구 전역에 <span class=\"text-rose-400 font-medium\">역대급 북극 한파와 이상 기후 재앙</span>이 닥칠 것으로 경고됨.\n극단적 한파는 난방용 천연가스와 난방유 소비를 폭발적으로 자극하여 겨울철 글로벌 에너지 수급 위기를 증폭시킬 전망임.\n농산물 작황 파괴와 물류 항만 결빙으로 인해 <span class=\"text-amber-300 font-bold\">기후발 2차 공급망 쇼크 및 에너지 인플레이션</span>이 매크로의 새로운 복병으로 부상함.",
+    "key_claims": [
+      "태평양 해양 대순환의 연결고리가 끊어지며 올겨울 북반구에 기록적인 한파와 폭설이 닥칠 위험이 급증함.",
+      "겨울철 난방 수요 폭증으로 천연가스(LNG) 및 등유 가격의 단기 급등세가 불가피함.",
+      "이상 기후로 인한 농작물 수확 차질과 물류망 동결이 원자재 인플레이션을 자극함."
+    ],
+    "data_points": [
+      "기후 이상: 태평양 해류 순환 모니터링 관측 사상 초유의 단절 현상 발생",
+      "수혜/위험 섹터: 천연가스(LNG), 정유 난방유, 곡물 ETF"
+    ],
+    "signal": "neutral",
+    "signal_reason": "전반적 거시 경제에는 원자재 인플레 악재이나, 천연가스 생산사 및 겨울철 에너지 인프라 기업에는 강력한 계절적 실적 모멘텀이기 때문임.",
+    "key_companies": [
+      "한국가스공사(036460)",
+      "EQT(EQT)",
+      "셰브론(CVX)"
+    ],
+    "insight": "기후 변화는 환경 이슈를 넘어 <span class=\"text-rose-400 font-medium\">'에너지 가격의 계절적 폭등을 촉발하는 거시적 리스크'</span>이며, 겨울철 천연가스 인프라 포지션이 유효한 방어막이 됩니다.",
+    "action_point": "겨울 성수기 진입을 앞두고 미국 천연가스 생산업체 및 국내 도시가스/난방 에너지 관련주를 단기 계절성 테마로 분할 편입하십시오."
+  },
+  "classification": {
+    "primary_topic": "energy",
+    "secondary_topics": [
+      "etc",
+      "economy"
+    ],
+    "tags": [
+      "태평양해류단절",
+      "역대급겨울한파",
+      "천연가스급등",
+      "기후인플레이션",
+      "난방에너지"
+    ]
+  }
+}

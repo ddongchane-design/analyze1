@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "On3-sFGoC8I",
+    "title": "11월 최고 vs 9월 최저! 월별 주가 패턴의 절대 법칙ㅣ명민준, 서수진, 송재경 [주린이 구조대]",
+    "published": "2026-09-07T14:00:30+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=On3-sFGoC8I",
+    "thumbnail": "https://img.youtube.com/vi/On3-sFGoC8I/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "역사적 통계상 미국 및 글로벌 증시에서 <span class=\"text-amber-300 font-bold\">9월은 가장 변동성이 크고 약세를 보이는 달</span>인 반면, 11~12월은 가장 높은 수익률을 기록하는 계절적 주기(Seasonality)가 뚜렷함.\n정치 테마 ETF(민주당 수혜 DEMZ vs 트럼프 수혜 MAGA)를 5년간 추적한 결과, 정파적 테마주 모두 S&P 500(SPY) 시장 지수 수익률을 크게 하회함.\n미국 재무부 일반계정(TGA) 잔고 활용 및 부채한도 도달 리스크로 인해 재정 지출 여력이 제한되므로, 9월 조정장을 <span class=\"text-cyan-300 font-semibold\">연말 랠리를 위한 분할 매수 기회</span>로 삼아야 함.",
+    "key_claims": [
+      "9월 증시 약세는 세금 납부와 펀드 회계연도 마감 등이 겹친 구조적 계절성으로, 패닉 셀링보다는 진입 기회임.",
+      "정치 성향 기반 테마 ETF는 5년 누적 기준 SPY(73%) 대비 DEMZ(63%), MAGA(57%)로 지수 대비 심각하게 언더퍼폼함.",
+      "미국 부채한도 재협상 및 재무부 TGA 잔고 이슈로 단기 정책적 유동성 주입 기대는 경계해야 함."
+    ],
+    "data_points": [
+      "5년 누적 수익률 비교: S&P 500(SPY) +73% vs 민주당 테마(DEMZ) +63% vs 트럼프 테마(MAGA) +57%",
+      "계절성 패턴: 9월 최저 승률/수익률 -> 11~12월 연중 최고 랠리 전개"
+    ],
+    "signal": "neutral",
+    "signal_reason": "단기 9월 계절적 조정 압력이 불가피하나, 이는 4분기 강력한 연말 랠리를 앞둔 전략적 진입 구간이기 때문임.",
+    "key_companies": [
+      "SPDR S&P 500 ETF(SPY)",
+      "인베스코 QQQ(QQQ)"
+    ],
+    "insight": "정치적 구호나 대선 테마주에 휩쓸리지 말고, <span class=\"text-amber-300 font-bold\">'9월의 계절적 투매를 4분기 실적 랠리의 디딤돌'</span>로 삼는 냉정한 지수 및 우량주 중심 분할 매수 원칙이 검증된 승률을 보장합니다.",
+    "action_point": "9월 중순 변동성 확대 국면에서 현금 비중을 소진하며 핵심 AI 하드웨어 및 지수 ETF(SPY, QQQ)를 11월 랠리 대비 포지션으로 구축하십시오."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "9월계절성",
+      "주가패턴",
+      "연말랠리",
+      "정치테마ETF",
+      "TGA부채한도"
+    ]
+  }
+}

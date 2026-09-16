@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "FBTSEXEMtYw",
+    "title": "주춤하는 비트코인, 이번주 꼭 봐야할 지표 2가지",
+    "published": "2026-09-07T09:00:28+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=FBTSEXEMtYw",
+    "thumbnail": "https://img.youtube.com/vi/FBTSEXEMtYw/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "비트코인이 8만 달러 선을 지키지 못하고 숨고르기에 들어간 가운데, 예상치를 웃돈 고용 지표로 인해 <span class=\"text-rose-400 font-medium\">연준의 긴축 완화 지연 우려</span>가 하방 압력을 가함.\n이번 주 9월 10일 발표되는 8월 PPI(생산자물가)와 9월 11일 CPI(소비자물가)가 크립토 시장의 단기 반등 여부를 결정할 핵심 분수령임.\n연준 위원(월러, 윌리엄스)들이 물가 지표 중심의 통화정책 결정을 강조한 만큼, <span class=\"text-amber-300 font-bold\">물가 지표 예상치 부합 여부</span>가 위험 자산 유동성의 핵심 잣대임.",
+    "key_claims": [
+      "비트코인의 8만 달러 안착 실패는 견고한 미국 고용 지표에 따른 고금리 지속 경계감 때문임.",
+      "월러와 윌리엄스 연준 위원 발언대로 8월 PPI 및 CPI 결과가 연준 금리 결정의 결정적 키를 쥠.",
+      "인플레이션 지표가 상회할 경우 비트코인을 비롯한 가상자산 전반에 단기 매물 출회가 불가피함."
+    ],
+    "data_points": [
+      "비트코인 핵심 지지선: 80,000달러 선 공방",
+      "핵심 발표 일정: 9월 10일 미국 8월 PPI, 9월 11일 미국 8월 CPI"
+    ],
+    "signal": "neutral",
+    "signal_reason": "거시 유동성 환경이 물가 지표 발표에 연동되어 있어 발표 직전까지 시장 참여자들의 관망세와 변동성이 확대될 구간이기 때문임.",
+    "key_companies": [
+      "마이크로스트래티지(MSTR)",
+      "코인베이스(COIN)"
+    ],
+    "insight": "가상자산 시장이 독자 생태계 호재보다 <span class=\"text-amber-300 font-bold\">미국 인플레이션 매크로 지표</span>에 극도로 민감하게 연동되고 있으므로, 거시 지표 통과 후 진입 타이밍을 포착해야 합니다.",
+    "action_point": "CPI/PPI 발표 전 무리한 레버리지 매수를 자제하고, 8만 달러 지지력 테스트를 확인한 뒤 분할 매수 관점으로 접근하십시오."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "비트코인8만달러",
+      "8월CPI",
+      "8월PPI",
+      "연준금리경계",
+      "가상자산전략"
+    ]
+  }
+}

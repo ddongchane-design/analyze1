@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "pGxNg98y668",
+    "title": "테슬라 사이버캡, 운전대까지 없앴다… 우리는 이 차를 믿고 탈 수 있을까?",
+    "published": "2026-09-08T08:00:20+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=pGxNg98y668",
+    "thumbnail": "https://img.youtube.com/vi/pGxNg98y668/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "테슬라 사이버캡이 스티어링 휠과 가속/브레이크 페달을 완전히 배제하고 오직 <span class=\"text-cyan-300 font-semibold\">엔드투엔드(End-to-End) 비전 AI 신경망</span>만으로 승객을 수송하는 구조적 안전성 메커니즘을 과학적으로 분석함.\n인간 운전자 대비 사고율을 80% 이상 낮췄다는 테슬라의 FSD 안전성 데이터와, 돌발 악천후·예외 상황(Edge cases)에서의 규제 당국(NHTSA) 검증 허들이 공존함.\n조작계 제거는 단순한 원가 절감이 아니라 <span class=\"text-amber-300 font-bold\">인간의 개입을 원천 배제한 레벨 4/5 완전 자율주행 시대의 기술적 선언</span>임.",
+    "key_claims": [
+      "운전대 제거는 사고 시 인간에게 책임을 전가하지 않고 시스템이 100% 안전을 보증하겠다는 테슬라의 자신감임.",
+      "카메라 비전 기반 신경망은 라이다 없이도 인간 시각 이상의 360도 공간 인지와 예측 주행을 수행함.",
+      "향후 미국 및 글로벌 규제 당국의 무인 운행 승인 속도가 테슬라 로보택시 상용화의 최종 분수령이 됨."
+    ],
+    "data_points": [
+      "안전성 데이터: FSD 기반 주행 시 인간 운전자 대비 마일당 사고율 약 80% 감소",
+      "하드웨어 혁신: 운전대, 페달, 백미러, 유압 브레이크 라인 완전 삭제"
+    ],
+    "signal": "bullish",
+    "signal_reason": "기술적 신뢰도와 제조 원가 파괴가 결합되어 상용 로보택시의 안전성 기준을 세계 최초로 정립하고 있기 때문임.",
+    "key_companies": [
+      "테슬라(TSLA)",
+      "엔비디아(NVDA)"
+    ],
+    "insight": "운전대가 없는 사이버캡은 <span class=\"text-cyan-300 font-semibold\">'인간이 운전하던 100년의 자동차 역사를 끝내고 이동을 소프트웨어 서비스(MaaS)로 치환하는 첫 번째 바퀴 달린 로봇'</span>입니다.",
+    "action_point": "자율주행 규제 승인 이벤트마다 주가 변동성이 발생할 때 테슬라 주식을 장기 플랫폼 관점에서 지속 매집하십시오."
+  },
+  "classification": {
+    "primary_topic": "robot",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "사이버캡안전성",
+      "운전대없는차",
+      "엔드투엔드FSD",
+      "안될과학",
+      "완전자율주행"
+    ]
+  }
+}

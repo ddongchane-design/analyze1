@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "zoV8daFxLfM",
+    "title": "금리 올려도 소용 없다? 미국 뒤에서 돈 풀고 있다 (ABP자산운용 성상현 전무)",
+    "published": "2026-09-07T07:55:06+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=zoV8daFxLfM",
+    "thumbnail": "https://img.youtube.com/vi/zoV8daFxLfM/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "연준이 기준금리를 높게 유지하거나 추가 인상을 시사하더라도, 미국 재무부와 금융 시스템 이면에서 <span class=\"text-cyan-300 font-semibold\">실질 유동성이 대규모로 방출</span>되고 있는 숨겨진 메커니즘이 분석됨.\n재무부 일반계정(TGA) 방출, 역레포(RRP) 잔고 소진, 그리고 장기채 대신 단기 국채(T-Bills)를 집중 발행하는 '스텔스 유동성 완화'가 금융 시장의 하방을 완벽히 지탱함.\n결과적으로 표면적인 기준금리보다 <span class=\"text-amber-300 font-bold\">'실질 시장 유동성의 증감 궤적'</span>과 10년물 국채 금리 움직임을 나침반으로 삼아야 시장의 진정한 방향을 읽을 수 있음.",
+    "key_claims": [
+      "연준의 통화 긴축을 미 재무부의 단기채 위주 발행과 TGA/RRP 유동성 주입이 정면으로 상쇄함.",
+      "중앙은행의 금리 인상 발언은 표면적 정치 구호일 뿐, 금융 시스템 내부의 달러 유동성은 여전히 풍부함.",
+      "투자자는 금리 뉴스 헤드라인의 공포에 매몰되지 말고 실질 유동성 지표와 10년물 국채 금리를 기준으로 매매를 결정해야 함."
+    ],
+    "data_points": [
+      "유동성 공급 기제: 역레포(RRP) 잔고 감소분 및 TGA 지출을 통한 상업은행 지준 공급",
+      "핵심 모니터링 지표: 미국 10년물 국채 금리 일별 가격 변화"
+    ],
+    "signal": "bullish",
+    "signal_reason": "표면적 금리 긴축에도 불구하고 배후의 실질 금융 유동성이 풍부하여 위험 자산 가격을 강력히 떠받치고 있기 때문임.",
+    "key_companies": [
+      "JP모건(JPM)",
+      "골드만삭스(GS)"
+    ],
+    "insight": "시장을 움직이는 진짜 힘은 금리 숫자가 아니라 <span class=\"text-cyan-300 font-semibold\">'재무부와 금융 시스템의 실질 유동성 총량'</span>이며, 뒤에서 풀리는 돈의 물결을 타는 자가 승리합니다.",
+    "action_point": "연준의 매파적 발언에 흔들리지 말고, 미국 10년물 국채 금리의 박스권 안정 여부를 확인하며 주식 및 위험 자산 비중을 유지하십시오."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "스텔스유동성",
+      "재무부돈풀기",
+      "TGA역레포",
+      "10년물국채금리",
+      "성상현전무"
+    ]
+  }
+}

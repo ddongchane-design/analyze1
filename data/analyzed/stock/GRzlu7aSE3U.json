@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "GRzlu7aSE3U",
+    "title": "투자자들한테 난리난 네이버 근황",
+    "published": "2026-09-09T10:00:12+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=GRzlu7aSE3U",
+    "thumbnail": "https://img.youtube.com/vi/GRzlu7aSE3U/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "네이버가 중동 소버린 AI 수출 계약과 생성형 AI 검색(Cue:)의 B2B 수익화 모델을 잇달아 성사시키며 <span class=\"text-cyan-300 font-semibold\">국내외 기관 투자자들의 강한 재평가 러브콜</span>을 받고 있음.\n내수 광고 정체 우려를 딛고 사우디 디지털 트윈 및 AI 데이터센터 구축 파트너십이 가시적 매출로 반영되기 시작함.\n밸류에이션 바닥권에서 탈출하여 <span class=\"text-amber-300 font-bold\">AI 인프라 및 플랫폼 실적 턴어라운드</span> 국면에 본격 진입함.",
+    "key_claims": [
+      "네이버는 사우디 등 중동 소버린 AI 시장에서 글로벌 빅테크 대비 뛰어난 보안성과 맞춤형 현지화 경쟁력을 입증함.",
+      "AI 기반 검색 고도화로 이커머스 거래액과 타겟 광고 단가가 동반 반등하는 선순환에 진입함.",
+      "역사적 저점 수준이던 밸류에이션(PER 15배 이하)의 리레이팅이 빠르게 전개되고 있음."
+    ],
+    "data_points": [
+      "실적 모멘텀: 사우디 디지털 트윈 및 소버린 AI 프로젝트 수천억 원 수주 잔고 반영",
+      "밸류에이션: 역사적 밴드 하단 통과 후 기관 순매수 전환"
+    ],
+    "signal": "bullish",
+    "signal_reason": "내수 플랫폼 한계론을 벗어나 중동 AI 수출 실적이 숫자로 확인되며 멀티플 상향이 확실시되기 때문임.",
+    "key_companies": [
+      "네이버(035420)"
+    ],
+    "insight": "빅테크 일변도의 글로벌 AI 시장에서 <span class=\"text-cyan-300 font-semibold\">'데이터 주권을 지켜주는 네이버의 소버린 AI 플랫폼'</span>은 비영어권 국가들에게 가장 매력적인 대안으로 부상했습니다.",
+    "action_point": "저평가 국면을 탈출하는 네이버를 국내 플랫폼 대장주로 포트폴리오에 담아 AI 수출 턴어라운드 수익을 추구하십시오."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "네이버근황",
+      "소버린AI수출",
+      "사우디디지털트윈",
+      "플랫폼턴어라운드",
+      "기관러브콜"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "GkoIluSit6Q",
+    "title": "AI 감속론에도 메모리는 부족하다…삼성전자·SK하이닉스 수요가 쉽게 꺾이지 않는 이유",
+    "published": "2026-09-15T12:17:50+00:00",
+    "channel_name": "엔지니어TV",
+    "url": "https://www.youtube.com/watch?v=GkoIluSit6Q",
+    "thumbnail": "https://img.youtube.com/vi/GkoIluSit6Q/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "빅테크 수장들의 AI 감속론 발언에도 불구하고 <span class=\"text-cyan-300 font-semibold\">메모리 장기 공급 계약과 데이터센터 투자는 단 한 건도 취소되지 않고 오히려 확대</span>되고 있음. HBM 생산 능력은 하루아침에 증설할 수 없기에 계약 취소는 곧 2030년 미래 AI 패권을 포기하는 행위이며, 오픈AI CFO와 클라우드 인프라(IREN) 대표의 증언대로 컴퓨팅 자원은 여전히 극심한 공급 부족 상태임.",
+    "key_claims": [
+      "빅테크 간 죄수의 딜레마로 인해 메모리 장기 계약 취소 시 수년 뒤 배정된 HBM 물량을 경쟁사에 영구히 빼앗기게 됨.",
+      "오픈AI CFO(사라 플라이어)는 1년 전 확보한 컴퓨팅 가격이 3~5배 폭등했음에도 불구하고 여전히 공급이 턱없이 부족하다고 밝힘.",
+      "AI 데이터센터 건설사 IREN은 시장의 우려와 달리 컴퓨터가 너무 빨리 지어지는 것이 아니라 충분히 빨리 짓지 못하는 것이 유일한 문제라고 반박함."
+    ],
+    "data_points": [
+      "컴퓨팅 파워 자산 가치: 1년 전 대비 컴퓨팅 자산 시장 재판매 가치 3~5배 급등",
+      "인프라 병목: 데이터센터 건설 속도가 전 세계 AI 수요 확대 속도를 하회"
+    ],
+    "signal": "bullish",
+    "signal_reason": "정치적 규제 노이즈와 무관하게 빅테크의 HBM 및 데이터센터 실물 발주가 견고하게 유지되고 있기 때문임.",
+    "key_companies": [
+      "SK하이닉스(000660)",
+      "삼성전자(005930)",
+      "오픈AI",
+      "엔비디아(NVDA)",
+      "IREN"
+    ],
+    "insight": "AI 업계의 발언(말)과 자본 집행(돈)을 분리해서 봐야 하며, 미래 컴퓨팅 능력을 선점하려는 빅테크의 HBM 확보 경쟁은 구조적으로 꺾일 수 없음.",
+    "action_point": "AI 속도조절론으로 삼성전자와 SK하이닉스 주가가 조정을 받을 때마다 비중을 적극 확대할 것."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "AI감속론실체",
+      "HBM장기계약",
+      "오픈AICFO",
+      "IREN컴퓨팅부족",
+      "엔지니어TV"
+    ]
+  }
+}

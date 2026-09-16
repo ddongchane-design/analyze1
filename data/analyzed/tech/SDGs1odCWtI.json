@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "SDGs1odCWtI",
+    "title": "TSMC보다 2년 빠르게 도입하는 삼성?  High-NA EUV의 한계와 두 회사의 서로 다른 계산",
+    "published": "2026-09-15T05:24:04+00:00",
+    "channel_name": "안될공학 - IT 테크 신기술",
+    "url": "https://www.youtube.com/watch?v=SDGs1odCWtI",
+    "thumbnail": "https://img.youtube.com/vi/SDGs1odCWtI/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "삼성전자가 ASML과 함께 12인치 대형 포토마스크 컨소시엄에 참여하며 <span class=\"text-cyan-300 font-semibold\">2028년 첨단 D램 양산에 메모리 업계 최초로 하이 NA EUV(0.55 NA)를 적용</span>하겠다고 발표함. 파운드리 로직 칩의 경제성 문제로 도입을 2030년으로 늦춘 TSMC와 달리, 반복 패턴이 단순한 D램에서 멀티 패터닝 공정을 획기적으로 줄여 원가를 절감하려는 기술적 승부수를 띄움.",
+    "key_claims": [
+      "하이 NA EUV의 아나모픽 광학 한계로 노광 면적이 절반(429mm²)으로 줄어드는 하프필드 문제를 해결하기 위해 12인치 대형 마스크 전환이 필수적임.",
+      "ASML은 12인치 마스크 도입 시 하이 NA 장비의 생산성이 최대 40% 향상될 것으로 분석함.",
+      "삼성과 SK하이닉스는 2028년 첨단 D램 양산 적용을 목표로 경쟁 중이며, TSMC는 비용 대비 효율성을 고려해 2030년 이후 도입할 계획임."
+    ],
+    "data_points": [
+      "장비 사양: 기존 0.33 NA에서 0.55 NA로 해상도 대폭 개선, 대당 가격 약 3.5억~4억 달러",
+      "노광 면적: 기존 858mm²에서 429mm²로 절반 축소 (12인치 마스크 전환 시 생산성 최대 40% 개선)"
+    ],
+    "signal": "bullish",
+    "signal_reason": "메모리 미세화 한계를 돌파할 하이 NA 선제 적용을 통해 한국 메모리 반도체의 기술 초격차 유지가 기대되기 때문임.",
+    "key_companies": [
+      "삼성전자(005930)",
+      "SK하이닉스(000660)",
+      "ASML(ASML)",
+      "TSMC(TSM)"
+    ],
+    "insight": "단순히 누가 먼저 샀느냐의 순위 경쟁이 아니라, D램 단위 면적당 원가를 낮추는 공정 축소 효율성을 선점하는 기업이 차세대 슈퍼 사이클을 주도함.",
+    "action_point": "EUV 펠리클 및 대형 포토마스크 국산화 밸류체인 기업들의 중장기 성장 모멘텀에 주목할 것."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "하이NAEUV",
+      "12인치마스크",
+      "삼성전자디램",
+      "TSMC계산",
+      "ASML",
+      "안될공학"
+    ]
+  }
+}

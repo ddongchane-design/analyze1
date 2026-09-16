@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "1YicAYoR1Zs",
+    "title": "스테이블코인이 바꿀 한국 금융의 미래는? | 이성산 솔라나 코리아 대표 [크립토 PLUS]",
+    "published": "2026-09-09T09:00:28+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=1YicAYoR1Zs",
+    "thumbnail": "https://img.youtube.com/vi/1YicAYoR1Zs/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "원화 기반 및 글로벌 <span class=\"text-cyan-300 font-semibold\">스테이블코인 제도화</span>가 한국 외환 송금 및 무역 결제 인프라의 마찰 비용을 제로에 가깝게 혁신할 것임.\n솔라나 등 초고속 블록체인 네트워크와 결합하여 초당 수만 건의 결제를 실시간 처리하며 전통 PG사 및 카드사 수수료 모델을 정면 대체함.\n달러 패권에 대응하여 아시아 공급망 결제 통화로서 <span class=\"text-amber-300 font-bold\">원화 스테이블코인 생태계의 선제 구축</span>이 국가 금융 경쟁력의 핵심 과제로 부각됨.",
+    "key_claims": [
+      "스테이블코인은 단순 암호화폐가 아니라 글로벌 결제망의 인터넷 표준 프로토콜(TCP/IP)로 진화함.",
+      "솔라나와 같은 고성능 L1 메인넷이 금융 기관급 결제 속도와 초저비용을 완벽히 지원함.",
+      "제도권 금융(은행·증권)과의 결합을 통해 무역 결제 및 토큰증권(STO) 정산의 핵심 수단으로 자리잡음."
+    ],
+    "data_points": [
+      "인프라 역량: 솔라나 초당 수만 TPS 처리 능력 기반 실시간 결제",
+      "수수료 절감 효과: 전통 크로스보더 송금 대비 90% 이상 비용 절감"
+    ],
+    "signal": "bullish",
+    "signal_reason": "제도권 금융과 블록체인 인프라의 융합이 가속화되며 스테이블코인 발행 및 인프라 기업의 실질적 매출 성장이 본격화되기 때문임.",
+    "key_companies": [
+      "솔라나(SOL)",
+      "비자(V)",
+      "마스터카드(MA)"
+    ],
+    "insight": "스테이블코인은 화폐의 디지털화에 그치지 않고 <span class=\"text-cyan-300 font-semibold\">'돈이 프로그래밍되어 빛의 속도로 흐르는 차세대 결제 고속도로'</span>이며, 이를 선점하는 체인이 웹3 금융의 승자가 됩니다.",
+    "action_point": "고성능 퍼블릭 블록체인(SOL) 생태계와 국내외 스테이블코인 결제 인프라 연계 기업의 지분을 중장기 관점에서 분할 매수하십시오."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "economy",
+      "tech"
+    ],
+    "tags": [
+      "스테이블코인",
+      "솔라나코리아",
+      "결제혁신",
+      "무역송금",
+      "이성산대표"
+    ]
+  }
+}

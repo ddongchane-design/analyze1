@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "gUfdzjf_J2k",
+    "title": "GPT6, 일반인도 잡일, 업무 다 대체됩니다… 제대로 쓰는 법 | AI 에이전트의 진짜 비용 구조 | Computer Use·하네스·토큰 절약법까지",
+    "published": "2026-09-08T23:05:25+00:00",
+    "channel_name": "안될공학 - IT 테크 신기술",
+    "url": "https://www.youtube.com/watch?v=gUfdzjf_J2k",
+    "thumbnail": "https://img.youtube.com/vi/gUfdzjf_J2k/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "GPT-6 아스트라가 화면 인식(ScreenSpot Pro 93%) 및 'Computer Use' 기능을 통해 <span class=\"text-cyan-300 font-semibold\">일반인의 반복적인 잡무와 웹 행정 작업을 100% 자율 대체</span>하는 실전 활용법이 공개됨.\n고성능 모델의 토큰 비용을 아끼기 위해 일상적 실행과 확인은 저렴한 모델(소넷/GPT-4o)에 맡기고 어려운 고난도 판단만 아스트라를 호출하는 <span class=\"text-amber-300 font-bold\">'하네스(Harness) 복합 오케스트레이션'</span>이 핵심 비용 절감 공식임.\n토큰을 무조건 아끼기보다, 1시간 걸리던 보고서 작업을 10분으로 줄여 <span class=\"text-cyan-300 font-semibold\">'내 50분의 자유 시간을 돈으로 사는 생산성 레버리지'</span> 관점으로 패러다임이 전환됨.",
+    "key_claims": [
+      "아스트라는 화면 속 작은 버튼과 입력창을 93% 정확도로 찾아내어 브라우저 클릭과 폼 작성을 자율 수행함.",
+      "단순 프롬프트 축소보다 고가·저가 AI 모델을 하네스 아키텍처로 분업시키는 것이 토큰 비용을 70% 이상 절감함.",
+      "AI의 본질은 배달비나 택시비처럼 인간의 귀찮음과 시간을 절약해 주는 실질적 유료 서비스임."
+    ],
+    "data_points": [
+      "화면 인식 성능: ScreenSpot Pro 평가 기준 아스트라 약 93% vs 기존 모델 77%",
+      "시간 절약 효과: 주간 반복 보고서 작성 시간 60분 -> 10분으로 83% 단축"
+    ],
+    "signal": "bullish",
+    "signal_reason": "AI 에이전트가 개발자뿐만 아니라 일반 대중의 일상 생산성에 완벽히 침투하여 B2C 유료 구독 시장의 지불 용의가 폭발적으로 확산되기 때문임.",
+    "key_companies": [
+      "오픈AI",
+      "마이크로소프트(MSFT)",
+      "구글(GOOGL)",
+      "앤트로픽"
+    ],
+    "insight": "AI 시대의 경쟁력은 기술 이해도가 아니라 <span class=\"text-cyan-300 font-semibold\">'내 시간을 아끼기 위해 AI에게 얼마의 토큰 비용을 기꺼이 지불할 수 있는가'</span>의 생산성 레버리지 마인드입니다.",
+    "action_point": "업무 자동화 에이전트 툴을 실무에 적극 도입하고, AI 에이전트 플랫폼을 서비스하는 빅테크(MSFT, GOOGL) 지분을 장기 적립하십시오."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "etc"
+    ],
+    "tags": [
+      "GPT6업무대체법",
+      "ComputerUse",
+      "하네스비용절약",
+      "시간레버리지",
+      "안될공학패치"
+    ]
+  }
+}

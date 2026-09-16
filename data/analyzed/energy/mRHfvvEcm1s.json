@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "mRHfvvEcm1s",
+    "title": "유가 100달러에 증시 긴장ㅣ“AI 기업, 인류 생명 걸고 도박”ㅣ구글, 150억달러로 AI 전력 확보ㅣ美 데이터센터 세금혜택 끝?ㅣ모기지 금리 7% 목전ㅣ홍혜진의 뉴욕브리핑",
+    "published": "2026-09-08T13:57:53+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=mRHfvvEcm1s",
+    "thumbnail": "https://img.youtube.com/vi/mRHfvvEcm1s/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "국제 유가가 배럴당 100달러에 육박하고 모기지 금리가 다시 7%를 목전에 두며 뉴욕 증시의 긴장감이 고조됨.\n구글(알파벳)은 AI 데이터센터의 전력 부족을 해결하기 위해 <span class=\"text-cyan-300 font-semibold\">무려 150억 달러(약 20조 원)를 투입해 소형원자로(SMR) 및 청정 전력망</span>을 전격 직접 확보함.\n미국 지자체들이 전력난을 이유로 데이터센터 세금 감면 혜택을 철회하려는 움직임을 보이는 등 <span class=\"text-rose-400 font-medium\">'AI 인프라의 전력 및 환경 규제'</span>가 핵심 쟁점으로 부상함.",
+    "key_claims": [
+      "유가 100달러와 모기지 금리 7% 재진입은 미국 소비 심리와 주택 시장을 위축시키는 강력한 거시적 역풍임.",
+      "구글의 150억 달러 전력망 베팅은 빅테크가 전력 자급자족을 위해 원자력과 발전 인프라의 직접 소유주로 변신함을 뜻함.",
+      "데이터센터 세금 혜택 축소는 AI 클라우드 운영사들의 원가 상승 압력으로 작용할 수 있음."
+    ],
+    "data_points": [
+      "빅테크 CapEx: 구글 AI 전력 확보 프로젝트에 150억 달러(약 20조 원) 배정",
+      "모기지 금리: 미국 30년 만기 고정 모기지 금리 6.9%대 (7% 목전)"
+    ],
+    "signal": "neutral",
+    "signal_reason": "유가·금리 상승의 거시적 압박 속에서도 빅테크의 150억 달러 원전·전력 인프라 투자가 원전 밸류체인에 막대한 낙수효과를 제공하기 때문임.",
+    "key_companies": [
+      "알파벳(GOOGL)",
+      "뉴스케일파워(SMR)",
+      "오클로(OKLO)",
+      "콘스텔레이션에너지(CEG)"
+    ],
+    "insight": "구글의 150억 달러 전력 투자는 <span class=\"text-cyan-300 font-semibold\">'빅테크가 발전 사업자로 진화하는 거대한 패러다임 전환'</span>이며, 원자력(SMR) 발전사는 AI 인프라의 최대 수혜주입니다.",
+    "action_point": "구글 및 빅테크와 PPA(전력구매계약)를 체결하는 원자력 유틸리티(Constellation Energy) 및 SMR 핵심 부품사 비중을 포트폴리오에 적극 편입하십시오."
+  },
+  "classification": {
+    "primary_topic": "energy",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "구글150억달러전력",
+      "유가100달러긴장",
+      "SMR원전확보",
+      "모기지7%목전",
+      "뉴욕브리핑"
+    ]
+  }
+}

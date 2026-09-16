@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "f0E-q837jfo",
+    "title": "[박신영의 개장전요것만-9월8일] 앤트로픽 IPO, 하락 위험 종목은..오라클의 시간 오나",
+    "published": "2026-09-08T22:30:10+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=f0E-q837jfo",
+    "thumbnail": "https://img.youtube.com/vi/f0E-q837jfo/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "앤트로픽(Anthropic)이 수백억 달러 규모의 기업공개(IPO)를 본격 추진하면서 <span class=\"text-cyan-300 font-semibold\">오라클(Oracle)의 OCI 클라우드 인프라 수혜</span>가 부각되는 반면, 기존 레거시 SaaS 소프트웨어 기업들의 하락 위험이 경고됨.\n오라클은 대규모 GPU 클러스터 호스팅 계약을 앤트로픽과 체결하여 클라우드 부문 매출이 전년 대비 50% 이상 폭증하는 황금기에 진입함.\n반면 단순 기능성 업무 툴을 판매하던 구독형 소프트웨어사들은 <span class=\"text-rose-400 font-medium\">AI 에이전트에 의한 시장 잠식(Disruption)</span>으로 멀티플 급락에 직면함.",
+    "key_claims": [
+      "앤트로픽 상장은 AI 소프트웨어 기업 가치 평가의 기준점이자 오라클 클라우드의 재평가 계기임.",
+      "오라클은 엔비디아 GPU를 가장 공격적으로 임대하며 빅테크 AI 모델사들의 핵심 백본으로 급부상함.",
+      "AI 에이전트로 손쉽게 대체 가능한 레거시 SaaS 기업들은 구조적인 주가 하락 리스크에 노출됨."
+    ],
+    "data_points": [
+      "오라클 클라우드: OCI AI 인프라 잔여 계약 가치(RPO) 역대 최대치 경신",
+      "앤트로픽 펀딩: 기업가치 수백억 달러 상회하는 메가 IPO 준비"
+    ],
+    "signal": "bullish",
+    "signal_reason": "AI 인프라를 공급하는 오라클의 실적 폭증이 확인되는 반면, AI 소프트웨어 진영의 옥석 가리기가 명확해졌기 때문임.",
+    "key_companies": [
+      "오라클(ORCL)",
+      "세일즈포스(CRM)",
+      "엔비디아(NVDA)"
+    ],
+    "insight": "AI 시대의 진짜 승자는 화려한 소프트웨어가 아니라 <span class=\"text-cyan-300 font-semibold\">'앤트로픽과 오픈AI가 서버를 빌려 쓰는 오라클 같은 필수 호스팅 인프라'</span>입니다.",
+    "action_point": "고평가된 레거시 SaaS 소프트웨어 주식을 매도하고, AI 인프라 수주가 폭발하는 오라클(ORCL) 및 클라우드 데이터센터 인프라주로 갈아타십시오."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "앤트로픽IPO",
+      "오라클OCI수혜",
+      "레거시SaaS위험",
+      "클라우드CapEx",
+      "박신영특파원"
+    ]
+  }
+}

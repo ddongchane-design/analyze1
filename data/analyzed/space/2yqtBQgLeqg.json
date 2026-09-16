@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "2yqtBQgLeqg",
+    "title": "스페이스X 투자, 가격보다 중요한 것?!",
+    "published": "2026-09-09T02:00:20+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=2yqtBQgLeqg",
+    "thumbnail": "https://img.youtube.com/vi/2yqtBQgLeqg/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "스페이스X의 역사적 기업공개(IPO)를 앞두고 단순 공모가 산정보다 <span class=\"text-cyan-300 font-semibold\">'스타링크의 현금흐름 창출력과 궤도 독점권'</span>이 밸류에이션의 본질임이 강조됨.\n재사용 발사체 '스타십(Starship)'의 궤도 재진입 성공으로 발사 비용이 kg당 100달러 미만으로 급감하며 글로벌 우주 물류 시장을 완전 독점함.\n단기 상장 프리미엄의 과열을 경계하되, 전 세계 우주 인프라의 절대 권력을 장악한 <span class=\"text-amber-300 font-bold\">스페이스 플랫폼의 독점적 경제적 해자</span>에 주목해야 함.",
+    "key_claims": [
+      "스페이스X 투자의 핵심 축은 불확실한 화성 탐사가 아니라 매달 막대한 현금을 창출하는 스타링크 구독 비즈니스임.",
+      "스타십 양산 체계는 경쟁 우주 기업들이 수십 년간 쫓아올 수 없는 압도적인 발사 원가 격차를 창출함.",
+      "상장 초기 단기 락업 물량 출회로 인한 가격 변동성보다 장기 궤도 인프라 독점 가치가 훨씬 큼."
+    ],
+    "data_points": [
+      "발사 원가 혁신: 스타십 본격 가동 시 kg당 궤도 수송 비용 100달러 이하 달성 목표",
+      "수익 구조: 스타링크 전 세계 가입자 기반의 폭발적 흑자 전환"
+    ],
+    "signal": "bullish",
+    "signal_reason": "우주 발사체 시장 독점과 글로벌 위성 통신망 캐시카우의 결합으로 스페이스 테크 기업의 독보적 실적 성장이 입증되었기 때문임.",
+    "key_companies": [
+      "스페이스X",
+      "테슬라(TSLA)",
+      "이리듐(IRDM)"
+    ],
+    "insight": "스페이스X는 단순한 로켓 회사가 아니라 <span class=\"text-cyan-300 font-semibold\">'지구 밖 우주 궤도로 나아가는 유일한 유료 통행료(Tollgate) 징수자'</span>이며, 그 밸류에이션 프리미엄은 정당합니다.",
+    "action_point": "IPO 상장 직후 과열 구간에서 추격 매수하기보다 첫 분기 매물 소화 조정을 노려 스페이스X 및 우주 밸류체인 핵심 부품주를 매집하십시오."
+  },
+  "classification": {
+    "primary_topic": "space",
+    "secondary_topics": [
+      "tech",
+      "stock"
+    ],
+    "tags": [
+      "스페이스X상장",
+      "스타링크캐시카우",
+      "스타십원가혁신",
+      "우주궤도독점",
+      "안될과학"
+    ]
+  }
+}

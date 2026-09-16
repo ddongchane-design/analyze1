@@ -1,0 +1,48 @@
+{
+  "video": {
+    "id": "BCGuMkcFEz0",
+    "title": "삼전닉스 HBM보다 빠르다? 미국과 일본의 메모리 신무기 | 하이젠버그",
+    "published": "2026-09-13T12:00:35+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=BCGuMkcFEz0",
+    "thumbnail": "https://img.youtube.com/vi/BCGuMkcFEz0/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "인텔과 소프트뱅크가 HBM에 대항하기 위해 대역폭 3.3~5.3TB/s에 달하는 차세대 적층 메모리 <span class=\"text-cyan-300 font-semibold\">'ZAM(Z-Angle Memory)'</span>을 개발 중임. 반도체 공학 전문가들은 차세대 메모리가 HBM이든 ZAM이든 관계없이 <span class=\"text-cyan-300 font-semibold\">'본딩(Bonding) 장비 기술'</span>이 최종 승자가 될 것임을 강조함. 또한 ICML 2026 분석 결과 최신 경량화 모델(문샷 키미 K3 등)이 확산되어도 인프라 컴퓨팅 및 반도체 수요는 유지될 것으로 전망됨.",
+    "key_claims": [
+      "ZAM은 새로운 적층 방식과 본딩 구조를 채택해 초당 3.3~5.3TB 대역폭을 목표로 하며 HBM4 속도를 능가할 잠재력 보유.",
+      "메모리 규격 경쟁의 이면에서 무조건 거쳐가야 하는 필수 공정은 '본딩'이며 장비 제조사가 최대 수혜를 입음.",
+      "모델 압축과 경량화(LRM) 기술이 발전할수록 AI 대중화가 가속되어 전체 인프라 반도체 수요의 파이는 지속 확장됨."
+    ],
+    "data_points": [
+      "ZAM 환산 속도: 초당 3.3TB ~ 5.3TB/s (HBM4 마이크론 2.8TB/s, 삼성전자 3.3TB/s 대비 동등 이상)",
+      "IBM 1나노 나노스택 기술: 기술적 재미는 있으나 상업적 수익성은 의문 평가"
+    ],
+    "signal": "bullish",
+    "signal_confidence": "high",
+    "signal_reason": "차세대 메모리 규격 경쟁 본격화와 불변의 필수 공정인 어드밴스드 본딩 장비 수요 폭증 기대.",
+    "key_companies": [
+      "한미반도체(042700)",
+      "베시(Besi)",
+      "인텔(INTC)",
+      "소프트뱅크(9984.T)"
+    ],
+    "insight": "소프트웨어의 경량화와 칩 아키텍처의 다변화 속에서도 물리적 한계를 극복하는 패키징/본딩 기술은 병목의 최전선에 위치하므로 가장 안전한 투자처임.",
+    "action_point": "규격 표준 싸움에 흔들리지 말고 차세대 HBM 및 ZAM에 필수적으로 공급되는 첨단 본딩 장비 독점 기업을 핵심 보유할 것."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "ZAM",
+      "인텔",
+      "소프트뱅크",
+      "HBM4",
+      "본딩",
+      "한미반도체",
+      "LRM"
+    ]
+  }
+}

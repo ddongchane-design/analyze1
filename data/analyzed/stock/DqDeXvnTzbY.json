@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "DqDeXvnTzbY",
+    "title": "[26.09.07 오후 방송 전체보기] 반도체 회복 신호 포착! 오늘보다 내일이 기대되는 국내 증시, 박스피 장기화 탈출은 언제쯤?",
+    "published": "2026-09-07T11:01:56+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=DqDeXvnTzbY",
+    "thumbnail": "https://img.youtube.com/vi/DqDeXvnTzbY/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "오픈AI의 GPT-6 아스트라 출시와 엔비디아의 차세대 가속기 수요 확대로 <span class=\"text-cyan-300 font-semibold\">국내 HBM 및 레거시 메모리 반도체 턴어라운드</span> 기대감이 국내 증시를 견인함.\n외국인과 기관의 강력한 쌍끌이 매수세가 삼성전자와 SK하이닉스에 집중되며 코스피가 박스피 상단 돌파를 시도하는 양상임.\n다만 이번 주 발표될 미국의 8월 PPI/CPI 지표와 <span class=\"text-amber-300 font-bold\">9월 FOMC 금리 경계감</span>이 단기 지수 변동성의 분수령이 될 전망임.",
+    "key_claims": [
+      "GPT-6 아스트라 발 컴퓨팅 수요 폭증이 메모리 반도체 공급 부족 우려를 촉발하며 업황 반등 신호가 명확해짐.",
+      "국내 증시의 장기 박스권 탈출은 반도체 투톱(삼성전자·SK하이닉스)의 실적 가이던스 상향에 전적으로 달려 있음.",
+      "단기 거시 지표(미국 8월 CPI/PPI) 발표 전까지는 지수 레벨업 과정에서 숨고르기 변동성에 대비해야 함."
+    ],
+    "data_points": [
+      "주요 이벤트: 9월 10일 미국 8월 PPI 발표, 9월 11일 미국 8월 CPI 발표",
+      "수급 주체: 외국인 및 기관 동반 순매수 반도체 집중 유입"
+    ],
+    "signal": "bullish",
+    "signal_reason": "AI 모델 고도화에 따른 물리적 인프라 수요가 메모리 칩 가격과 가동률 상승으로 직결되며 한국 대표 반도체주의 강한 실적 턴어라운드가 확인되기 때문임.",
+    "key_companies": [
+      "삼성전자(005930)",
+      "SK하이닉스(000660)",
+      "한미반도체(042700)"
+    ],
+    "insight": "박스피 탈출의 유일한 열쇠는 <span class=\"text-cyan-300 font-semibold\">'AI 에이전트 인프라 확장에 따른 차세대 HBM 및 고용량 DRAM 수급 타이트'</span>이며, 이번 실적 장세는 과거 단순 사이클을 넘어서는 구조적 호황 진입을 시사합니다.",
+    "action_point": "지수 변동성을 이용해 삼성전자와 SK하이닉스 및 후공정 패키징 선도 기업들의 눌림목 비중 확대를 적극 검토하십시오."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "반도체턴어라운드",
+      "코스피박스권탈출",
+      "삼성전자",
+      "SK하이닉스",
+      "GPT6아스트라"
+    ]
+  }
+}

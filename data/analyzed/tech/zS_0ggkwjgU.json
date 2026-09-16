@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "zS_0ggkwjgU",
+    "title": "사기적인 AMD 최신 칩 성능 (AMD 현직 임원)",
+    "published": "2026-09-15T11:00:03+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=zS_0ggkwjgU",
+    "thumbnail": "https://img.youtube.com/vi/zS_0ggkwjgU/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "AMD의 차세대 AI 가속기 헬리오스(MI450X)가 경쟁사 동급 GPU 대비 <span class=\"text-cyan-300 font-semibold\">2배에 달하는 432GB 대용량 HBM4 메모리를 탑재</span>하여 동일 비용 대비 토큰 생성 효율을 30% 대폭 개선함. 초거대 언어 모델(LLM)의 파라미터가 급증하는 환경에서 방대한 메모리 용량을 바탕으로 유저 서빙 캐패시티를 극대화하며 엔비디아 독점에 대한 강력한 대항마로 부상함.",
+    "key_claims": [
+      "MI450X는 432GB HBM4를 탑재해 경쟁사 GPU 대비 압도적인 메모리 대역폭과 용량 우위를 확보함.",
+      "AI 추론 및 서빙 환경에서 동일 전력·비용당 토큰 처리량을 30% 향상시켜 데이터센터 TCO(총소유비용)를 획기적으로 절감함."
+    ],
+    "data_points": [
+      "메모리 사양: 432GB HBM4 메모리 탑재 (경쟁사 대비 약 2배)",
+      "비용 효율성: 동일 투자금 대비 토큰 생성량 최대 30% 개선"
+    ],
+    "signal": "bullish",
+    "signal_reason": "초대형 HBM 탑재를 통한 추론 가성비 우위로 AMD의 AI 데이터센터 점유율 확대가 가시화되고 있기 때문임.",
+    "key_companies": [
+      "AMD(AMD)",
+      "SK하이닉스(000660)",
+      "삼성전자(005930)"
+    ],
+    "insight": "AI 모델이 거대화될수록 GPU 연산 코어보다 고용량 HBM 메모리 인터페이스가 추론 성능의 결정적 차이를 만듦.",
+    "action_point": "HBM4 공급망 핵심 제조사(SK하이닉스, 삼성전자)와 AMD의 AI 가속기 점유율 반등에 주목할 것."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "AMD헬리오스",
+      "MI450X",
+      "HBM4탑재",
+      "토큰생성효율",
+      "Softdragon"
+    ]
+  }
+}

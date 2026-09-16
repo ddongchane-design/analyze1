@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "LdR8YerGtng",
+    "title": "스타링크가 스마트폰까지 연결한다면?",
+    "published": "2026-09-07T02:00:10+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=LdR8YerGtng",
+    "thumbnail": "https://img.youtube.com/vi/LdR8YerGtng/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "스페이스X의 스타링크가 별도 안테나 없이 일반 스마트폰과 위성을 직접 연결하는 <span class=\"text-cyan-300 font-semibold\">다이렉트 투 셀(Direct-to-Cell) 서비스</span>를 전격 확장함.\n지상 통신망이 닿지 않는 극지방, 해상, 산악 음영지역을 100% 해소하여 글로벌 긴급 구조 및 초연결 모빌리티의 핵심 인프라로 자리잡음.\nT-모바일 등 글로벌 이통사와의 제휴를 통해 지상망 보완을 넘어 <span class=\"text-amber-300 font-bold\">우주 통신 주파수 및 궤도 독점권</span>을 강화함.",
+    "key_claims": [
+      "일반 LTE 스마트폰의 수정 없이 궤도 상의 eNodeB 위성이 직접 셀룰러 신호를 송수신함.",
+      "재난 상황이나 통신 음영 지역에서도 음성 통화 및 데이터 전송을 완벽히 보장함.",
+      "저궤도 위성 군집을 통한 통신망 장악은 미래 자율주행차, 도심항공교통(UAM), 피지컬 로봇의 백본 망이 됨."
+    ],
+    "data_points": [
+      "기술 방식: Direct-to-Cell 저궤도 위성 내 기지국 탑재",
+      "파트너십: T-Mobile 등 주요 글로벌 통신사 연합 구축"
+    ],
+    "signal": "bullish",
+    "signal_reason": "우주 발사체 비용 절감과 저궤도 위성망의 일상 디바이스 침투가 가시화되며 스페이스 테크의 수익화 모델이 B2C 전 영역으로 확산되기 때문임.",
+    "key_companies": [
+      "스페이스X",
+      "T-모바일(TMUS)",
+      "애플(AAPL)",
+      "AST스페이스모바일(ASTS)"
+    ],
+    "insight": "다이렉트 투 셀은 단순 위성 통신이 아니라 <span class=\"text-cyan-300 font-semibold\">'지상 기지국 없는 글로벌 초연결 통신 제국'</span>의 완성 단계이며, 미래 피지컬 AI 로봇의 글로벌 통신망 주도권을 스페이스X가 쥐게 됨을 시사합니다.",
+    "action_point": "저궤도 통신 위성 부품 공급사 및 위성 통신 RF 칩셋 제조사, 그리고 우주 인프라 상장 ETF(UFO, ROKT)의 중장기 모멘텀에 주목하십시오."
+  },
+  "classification": {
+    "primary_topic": "space",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "스타링크",
+      "다이렉트투셀",
+      "스페이스X",
+      "저궤도위성",
+      "초연결통신"
+    ]
+  }
+}

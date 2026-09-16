@@ -1,0 +1,37 @@
+{
+  "video": {
+    "id": "7ntRfcyEk_U",
+    "title": "몇백 원 더 받으려다 끝내 못 파는 일이 생깁니다, 이효석이 개인 투자자에게 시장가를 권하는 진짜 이유 | 왕초보 탈출 7탄",
+    "published": "2026-09-09T00:00:05+00:00",
+    "channel_name": "이효석아카데미",
+    "url": "https://www.youtube.com/watch?v=7ntRfcyEk_U",
+    "thumbnail": "https://img.youtube.com/vi/7ntRfcyEk_U/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "개인 투자자들이 몇 호가(몇백 원) 더 유리하게 체결하려 지정가를 고집하다가 <span class=\"text-rose-400 font-medium\">급변하는 추세에서 매도 타이밍을 완전히 놓치는 치명적 오류</span>를 분석함.\n리스크 관리나 차익 실현을 결정했을 때는 미체결 위험을 원천 차단하는 <span class=\"text-cyan-300 font-semibold\">'시장가(Market Order) 체결 원칙'</span>이 계좌의 총수익률을 지키는 핵심 기법임.\n가격의 미세한 틱 단위 이익보다 <span class=\"text-amber-300 font-bold\">포지션 청산과 진입의 타이밍 완결성</span>이 변동성 장세의 절대적 승패를 가름.",
+    "key_claims": [
+      "매도 타이밍을 놓쳤을 때 발생하는 하락 손실은 지정가로 아끼려던 몇백 원의 수십, 수백 배에 달함.",
+      "대형 추세 전환 구간에서는 호가 갭을 따지지 말고 시장가로 즉시 유동성을 확보해야 함.",
+      "호가창을 보며 감정적으로 1~2틱에 연연하는 매매 습관이 개인 투자자 장기 손실의 주원인임."
+    ],
+    "data_points": [
+      "매매 원칙: 리스크 오프 및 익절 신호 발생 시 즉시 시장가 분할 체결"
+    ],
+    "signal": "neutral",
+    "signal_reason": "시장 매매 스킬 및 투자 심리 원칙을 다룬 실전 가이드 콘텐츠로 특정 종목 시그널에는 중립적임.",
+    "key_companies": [],
+    "insight": "주식 시장에서 가장 값비싼 대가는 <span class=\"text-rose-400 font-medium\">'몇 호가를 탐내다 기회를 날려버리는 우유부단함'</span>이며, 과감한 시장가 체결이 계좌의 복리를 지킵니다.",
+    "action_point": "손절 라인 도달이나 목표 수익 달성 시 미체결 스트레스를 유발하는 지정가 주문 대신 시장가 주문을 즉각 실행하는 규율을 훈련하십시오."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [],
+    "tags": [
+      "시장가매매원칙",
+      "이효석아카데미",
+      "초보탈출",
+      "체결타이밍",
+      "리스크관리"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "6ChE6QkS1GA",
+    "title": "중국 CXMT 개발실장이 삼성 부자이었다;;",
+    "published": "2026-09-13T11:00:38+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=6ChE6QkS1GA",
+    "thumbnail": "https://img.youtube.com/vi/6ChE6QkS1GA/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "검찰 수사를 통해 중국 대표 메모리 기업 CXMT(창신메모리)의 창립 개발실장이 <span class=\"text-rose-400 font-medium\">삼성전자 부장 출신</span>이었으며, 2016년 이직 당시 연봉 3~4배를 받고 핵심 연구원과 함께 <span class=\"text-cyan-300 font-semibold\">600단계 DRAM 핵심 공정 레시피를 필사해 유출</span>한 사실이 밝혀짐. 수많은 변수와 극단적 미세 노하우가 집약된 한국 반도체 공정이 인력 유출을 통해 복제되고 있어, 국가적 기술 안보 및 지적재산권 방어가 중대 과제로 대두됨.",
+    "key_claims": [
+      "CXMT 창립 멤버로 합류한 전 삼성전자 부장이 600단계 DRAM 공정 레시피를 손으로 적어 유출.",
+      "DRAM 공정은 단순 요리 레시피와 달리 수만 가지 경우의 수가 결합된 극비 기술로 불법 복제를 통해 중국의 개발 기간을 대폭 단축시킴.",
+      "한국 메모리 반도체 산업에 대한 중국의 집요한 인력 빼가기와 기술 탈취 실태가 재확인됨."
+    ],
+    "data_points": [
+      "CXMT 창립 연도: 2016년",
+      "이직 조건: 기존 한국 연봉의 3~4배 제시",
+      "유출된 DRAM 핵심 공정 단계: 약 600단계 공정 레시피"
+    ],
+    "signal": "neutral",
+    "signal_confidence": "high",
+    "signal_reason": "과거 기술 유출 사건에 대한 사법적 확인 보도로 즉각적인 실적 영향보다는 기술 안보 경각심 제고 성격.",
+    "key_companies": [
+      "삼성전자(005930)",
+      "SK하이닉스(000660)"
+    ],
+    "insight": "중국의 추격이 거세질수록 한국 기업들은 레거시 DRAM에서 탈피해 HBM4, CXL 등 기술 격차가 3년 이상 벌어진 고부가가치 AI 메모리로 전선을 급격히 이동해야만 함.",
+    "action_point": "중국의 저가 물량 공세 리스크가 있는 범용 레거시 메모리 비중을 축소하고, 독보적 첨단 공정 지배력을 가진 HBM 선도주 중심으로 포트폴리오를 제한할 것."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "CXMT",
+      "삼성전자",
+      "기술유출",
+      "DRAM",
+      "반도체레시피",
+      "창신메모리"
+    ]
+  }
+}

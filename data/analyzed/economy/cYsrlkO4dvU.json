@@ -1,0 +1,50 @@
+{
+  "video": {
+    "id": "cYsrlkO4dvU",
+    "title": "[26.09.14 오전 방송 전체보기] '금리인상' 확률 증가 속 유가·금리 하락...뉴욕증시 5일만의 '반등'",
+    "published": "2026-09-14T03:18:40+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=cYsrlkO4dvU",
+    "thumbnail": "https://img.youtube.com/vi/cYsrlkO4dvU/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "CPI 상회에도 장기금리 안정으로 뉴욕증시가 5일 만에 반등했으나, 국내 증시는 AI 속도조절론과 야간거래 개시 속에서 하락세를 보임. 시장에서는 <span class=\"text-cyan-300 font-semibold\">부유식 데이터센터(한화오션)</span>와 <span class=\"text-cyan-300 font-semibold\">SMR 발전엔진(HD현대중공업·현대마린솔루션)</span> 등 신규 융합 테마가 대두되었으며, AI 안보 우려에 따른 <span class=\"text-violet-300 font-medium\">양자암호·보안주(샌즈랩 등)</span> 및 지정학 유가 급등 수혜주(흥구석유)가 차별화된 흐름을 나타냄.",
+    "key_claims": [
+      "한화오션이 태국 박람회에서 세계 최초 부유식(플로팅) 데이터센터를 공개하며 조선-AI 융합 시동.",
+      "HD현대중공업의 발전 엔진 사업부 1조 투자 및 HD현대마린솔루션의 순정 부품 A/S 수혜 지속.",
+      "AI 모델의 자가 개선 및 보안 사고 우려가 부각되면서 사이버 보안 및 양자암호 테마로 수급 이동."
+    ],
+    "data_points": [
+      "HD현대중공업: SMR 주기기 및 AI 데이터센터 발전 엔진 사업부에 1조 원 이상 투자 발표",
+      "사이버 보안/양자암호 테마주(샌즈랩, 모니터랩, 엑스게이트 등) 10~20%대 급등",
+      "흥구석유: 호르무즈 해협 긴장감 및 유가 100달러 육박에 힘입어 10%대 급등"
+    ],
+    "signal": "neutral",
+    "signal_confidence": "high",
+    "signal_reason": "전체 지수의 하방 압력 속에서도 AI 인프라 파생 테마(조선, 발전엔진, 보안)로의 수급 순환매 활발.",
+    "key_companies": [
+      "한화오션(042660)",
+      "HD현대중공업(329180)",
+      "HD현대마린솔루션(443060)",
+      "샌즈랩(411080)",
+      "흥구석유(024060)"
+    ],
+    "insight": "AI 투자의 축이 기존 GPU 단품에서 '전력 발전 엔진'과 '해상 냉각 데이터센터', 그리고 '사이버 보안'으로 다변화되고 있음을 보여주는 신호임.",
+    "action_point": "지수 대형주보다는 AI 병목을 해결하는 발전 엔진 및 해상 데이터센터 수혜주(조선/엔진 밸류체인)를 눌림목에서 분할 매수할 것."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock",
+      "tech"
+    ],
+    "tags": [
+      "삼프로모닝",
+      "금리인상",
+      "부유식데이터센터",
+      "한화오션",
+      "양자보안",
+      "흥구석유"
+    ]
+  }
+}

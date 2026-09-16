@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "YW2Sp5BYAUs",
+    "title": "(2부) AI로 공부시키기, 이러면 아이 망친다 (IT커뮤니케이션연구소 김덕진 소장)",
+    "published": "2026-09-13T05:55:09+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=YW2Sp5BYAUs",
+    "thumbnail": "https://img.youtube.com/vi/YW2Sp5BYAUs/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "자녀에게 단순히 과제나 숙제를 대신 시키는 방식으로 생성형 AI를 접하게 하면 <span class=\"text-rose-400 font-medium\">사고력 붕괴와 지적 게으름</span>을 낳아 아이를 망칠 수 있습니다. AI 시대의 진짜 경쟁력은 '정답을 외우는 것'이 아니라 <span class=\"text-cyan-300 font-semibold\">'AI의 답변을 검증하고, 반론을 제기하며, 심층 질문을 유도하는 메타인지와 비판적 사고력'</span>에 있습니다.",
+    "key_claims": [
+      "AI에게 보고서나 수학 풀이를 전부 대신 시키면 아이는 문제 해결 과정을 건너뛰어 뇌의 인지적 연결고리가 끊어집니다.",
+      "올바른 AI 교육법은 AI를 '과외 선생님'이자 '토론 상대'로 활용하여, 학생이 설명하고 AI가 반박하게 만드는 소크라테스식 대화법을 적용하는 것입니다.",
+      "AI가 생성한 환각(Hallucination)을 스스로 찾아내고 사실 확인을 거치는 팩트체크 훈련이 필수적입니다.",
+      "미래 세대에게 요구되는 핵심 스킬은 단순한 코딩 능력이 아니라 '복잡한 맥락을 구조화하여 질문하는 능력(프롬프트 문해력)'입니다."
+    ],
+    "data_points": [
+      "학생들의 생성형 AI 활용률: 과제 작성 시 60% 이상 접목 경험",
+      "단순 복사-붙여넣기 집단 vs 반박 토론 활용 집단의 학습 잔존율 격차: 3배 이상 발생",
+      "국내외 명문교의 AI 가이드라인: 결과물 제출 금지 및 'AI와의 대화 로그(Thinking Process)' 제출 의무화 확산"
+    ],
+    "signal": "neutral",
+    "signal_reason": "AI는 양날의 검으로, 맹목적 의존은 지적 퇴보를 부르지만 올바른 프롬프트 훈련은 초개인화 학습 혁명을 촉진합니다.",
+    "key_companies": [
+      "OpenAI ChatGPT",
+      "Anthropic Claude",
+      "Google Gemini"
+    ],
+    "insight": "AI가 모든 지식을 0.1초 만에 인출하는 시대에 암기형 인재의 가치는 0에 수렴합니다. 부모와 교사가 길러줘야 할 유일한 자산은 <span class=\"text-amber-300 font-bold\">'AI의 그럴듯한 거짓말을 잡아채는 집요한 지적 호기심과 논리적 비판력'</span>입니다.",
+    "action_point": "가정에서 자녀가 AI를 쓸 때 '숙제 답 알려줘' 대신 '내가 이해한 개념을 너한테 설명해 볼 테니 틀린 부분을 지적해줘'라는 튜터링 프롬프트 템플릿을 지도하십시오."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "etc",
+      "culture"
+    ],
+    "tags": [
+      "AI교육",
+      "생성형AI",
+      "프롬프트",
+      "자녀교육",
+      "디지털리터러시"
+    ]
+  }
+}

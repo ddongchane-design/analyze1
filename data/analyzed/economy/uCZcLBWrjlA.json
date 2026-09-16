@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "uCZcLBWrjlA",
+    "title": "파나마 운하 막히면 사실상 대안이 없습니다",
+    "published": "2026-09-08T12:25:06+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=uCZcLBWrjlA",
+    "thumbnail": "https://img.youtube.com/vi/uCZcLBWrjlA/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "기후 가뭄으로 인한 담수 부족으로 파나마 운하의 일일 통항 척수가 급감하면서 <span class=\"text-rose-400 font-medium\">글로벌 해운 물류망에 대체 불가능한 병목 위기</span>가 고착화됨.\n남미 최남단 마젤란 해협이나 아프리카 희망봉으로 우회할 경우 운항 일수가 10~15일 늘어나고 연료비와 선박 용선료가 폭등함.\n미국 동부로 향하는 아시아 수출 화물 및 미국산 LNG 수출선이 묶이면서 <span class=\"text-amber-300 font-bold\">글로벌 컨테이너 및 LNG 운임비 급등 쇼크</span>가 상품 물가를 자극함.",
+    "key_claims": [
+      "파나마 운하는 인공 호수 담수로 갑문을 채우는 구조여서 가뭄 발생 시 물리적으로 통항 척수를 늘릴 수 없음.",
+      "대체 항로 우회는 막대한 탄소 배출과 물류비 상승을 초래해 공급망 인플레이션을 유발함.",
+      "선박 공급 부족으로 인해 글로벌 해운사들의 스팟(Spot) 운임 마진이 급등하는 반사이익이 발생함."
+    ],
+    "data_points": [
+      "물류 지연: 희망봉 및 마젤란 우회 시 항해 일수 10~15일 추가 소요",
+      "운임 영향: 상하이컨테이너운임지수(SCFI) 및 LNG선 용선료 급등세"
+    ],
+    "signal": "neutral",
+    "signal_reason": "글로벌 교역 및 수출 기업에는 물류비 상승 악재이나, 해운선사에는 운임 급등에 따른 깜짝 실적 호재이기 때문임.",
+    "key_companies": [
+      "HMM(011200)",
+      "머스크(Maersk)"
+    ],
+    "insight": "파나마 운하와 수에즈 운하의 동시 지정학·기후 병목은 <span class=\"text-rose-400 font-medium\">'글로벌 공급망이 기후 이상에 얼마나 취약한지 보여주는 경고'</span>이며, 해운 운임의 구조적 고공행진을 낳습니다.",
+    "action_point": "글로벌 물류 병목에 따른 운임 지수 상승 수혜를 입는 컨테이너 해운사(HMM)의 단기 실적 모멘텀을 모니터링하십시오."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "energy"
+    ],
+    "tags": [
+      "파나마운하병목",
+      "가뭄통항제한",
+      "해운운임급등",
+      "공급망쇼크",
+      "언더스탠딩"
+    ]
+  }
+}

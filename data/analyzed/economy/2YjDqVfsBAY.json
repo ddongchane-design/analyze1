@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "2YjDqVfsBAY",
+    "title": "금리 상승 국면에서의 대응 | 월스트리트파인더ㅣ2026.9.14(월)",
+    "published": "2026-09-14T00:42:16+00:00",
+    "channel_name": "Smart Money by MiraeAsset ",
+    "url": "https://www.youtube.com/watch?v=2YjDqVfsBAY",
+    "thumbnail": "https://img.youtube.com/vi/2YjDqVfsBAY/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "9월 FOMC 25bp 금리 인상 확률이 90%에 달하며 기준금리가 3.75%를 넘어서는 긴축 국면으로 회귀함. 김석한 연구위원은 10년물 금리가 5%에 육박한 핵심 배경으로 <span class=\"text-amber-300 font-bold\">디젤(경유) 정제마진 폭등에 따른 생산자물가(PPI) 전가</span>를 꼽았으며, 고금리 장기화 시대에는 단순 PER 멀티플 확장주가 아닌 <span class=\"text-cyan-300 font-semibold\">자본비용을 초과하는 실질 잉여현금흐름(FCF) 창출 기업</span>으로 자산 포트폴리오를 압축 재편해야 한다고 강조함.",
+    "key_claims": [
+      "미국 생산자물가의 핵심 연료인 디젤 가격 급등이 2~6개월 시차를 두고 소비자물가로 전가되어 인플레이션 고착화 유발.",
+      "금리 인하를 전제로 한 고평가 성장주의 멀티플 확장은 한계에 부딪혔으며 밸류에이션 재평가가 불가피함.",
+      "AI 하이퍼스케일러 역시 막대한 CapEx 지출을 상쇄할 수 있는 구체적 ROI와 현금 창출력을 입증해야만 주가 프리미엄 유지 가능."
+    ],
+    "data_points": [
+      "9월 FOMC 25bp 기준금리 인상 시장 기대치: 약 90% (기준금리 3.75% 상향 전망)",
+      "미국 10년물 국채 벤치마크 금리: 4.5% 돌파 후 5.0% 페인포인트 근접",
+      "미국 상원 클래리티 법안 필리버스터 무력화 정족수: 60표 필요"
+    ],
+    "signal": "neutral",
+    "signal_confidence": "high",
+    "signal_reason": "연쇄적 글로벌 긴축(ECB, Fed, BOJ) 물결 속에서 멀티플 축소 압력이 상존하나 실적 고현금 기업의 방어력 부각.",
+    "key_companies": [
+      "마이크로소프트(MSFT)",
+      "알파벳(GOOGL)"
+    ],
+    "insight": "저금리 시대의 레버리지 성장 방정식은 끝났으며, 이제는 철저하게 자본비용(CoC) 대비 이익 창출력과 부채 비율이 낮은 현금 부자 기업만이 시장을 아웃퍼폼할 수 있음.",
+    "action_point": "부채 비율이 높거나 현금 유입이 먼 미래에 편중된 바이오·적자 성장주 비중을 줄이고, 높은 잉여현금흐름 수익률(FCF Yield)을 자랑하는 빅테크에 집중할 것."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "월스트리트파인더",
+      "김석한",
+      "고금리대응",
+      "디젤마진",
+      "FCF",
+      "유동성축소"
+    ]
+  }
+}

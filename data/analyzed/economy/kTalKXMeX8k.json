@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "kTalKXMeX8k",
+    "title": "[박신영의 개장전요것만-9월9일] 베선트, 금리는 “나에게 베팅”..엔화 강세에 발목잡힌 반도체",
+    "published": "2026-09-08T22:30:08+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=kTalKXMeX8k",
+    "thumbnail": "https://img.youtube.com/vi/kTalKXMeX8k/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "스콧 베센트 재무장관 지명자가 <span class=\"text-cyan-300 font-semibold\">'국채 금리 안정은 나에게 베팅하라'</span>며 강력한 재정 지출 삭감과 국채 발행 믹스 조정을 약속함.\n그러나 일본은행(BOJ)의 추가 금리 인상 시사로 엔화 가치가 급등(엔캐리 트레이드 청산 재개)하면서 글로벌 반도체 기술주가 단기 발목을 잡힘.\n환율 변동성과 채권 금리 사이에서 <span class=\"text-amber-300 font-bold\">정책적 금리 안정화 기대감과 외환 청산 리스크</span>가 치열한 공방전을 벌임.",
+    "key_claims": [
+      "베센트는 장기 국채 발행을 줄이고 T-Bill(단기채)을 늘려 장기 금리 5% 돌파를 필사적으로 막을 것임.",
+      "엔화 강세 반전은 엔캐리 자금의 글로벌 주식 회수를 촉발하여 반도체 대형주에 일시적 수급 하방 압력을 줌.",
+      "외환 노이즈가 진정되는 시점에 베센트의 재정 통제 효과가 주식 시장의 안도 랠리를 이끌 것임."
+    ],
+    "data_points": [
+      "외환 지표: 엔-달러 환율 급락(엔화 가치 급등세 재연)",
+      "정책 공약: 3-3-3 정책(재정적자 3% 감축, GDP 3% 성장, 원유 3백만 배럴 증산) 추진"
+    ],
+    "signal": "neutral",
+    "signal_reason": "베센트의 정책적 금리 안정화 의지는 긍정적이나, 엔화 강세로 인한 단기 글로벌 캐리 트레이드 청산 충격이 상존하기 때문임.",
+    "key_companies": [
+      "엔비디아(NVDA)",
+      "삼성전자(005930)",
+      "도요타(TM)"
+    ],
+    "insight": "엔화 강세는 일시적 수급 흔들림에 불과하며, <span class=\"text-cyan-300 font-semibold\">'미 재무부의 장기 금리 통제 의지가 확고하다면'</span> 엔캐리 청산 충격은 단기 매수 기회로 전환됩니다.",
+    "action_point": "엔화 강세 뉴스로 반도체주가 눌림목을 형성할 때마다 글로벌 HBM 및 파운드리 대형주를 분할 매수하십시오."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock",
+      "tech"
+    ],
+    "tags": [
+      "베선트매직",
+      "엔화강세반도체발목",
+      "엔캐리청산",
+      "미국채금리통제",
+      "박신영특파원"
+    ]
+  }
+}

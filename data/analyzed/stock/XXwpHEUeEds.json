@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "XXwpHEUeEds",
+    "title": "\"공포에 사라\" 지금 들어가면 될까? | 이지은 이지스탁 대표 [더블 체크]",
+    "published": "2026-09-14T00:55:46+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=XXwpHEUeEds",
+    "thumbnail": "https://img.youtube.com/vi/XXwpHEUeEds/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "야간거래(오후 8시) 도입 첫날, 주말 AI 감속 노이즈로 증시가 하락 출발한 가운데 <span class=\"text-cyan-300 font-semibold\">8인치 레거시 파운드리 가격 상승 수혜주</span>와 AI 전력망 인프라가 대안으로 부각됨. 이지은 대표는 실적이 뒷받침되지 않는 급등 테마주(금호전기 등)의 전량 차익 실현을 강력 권고하는 한편, 상용화 시점이 불확실한 <span class=\"text-rose-400 font-medium\">유리기판(SKC, 필옵틱스 등)</span>보다는 확실한 실적이 나오는 <span class=\"text-cyan-300 font-semibold\">AI 전력·데이터센터 인프라</span>에 집중할 것을 주문함.",
+    "key_claims": [
+      "첨단 12인치 쏠림 속에서 8인치 파운드리 공급 부족 및 단가 상승으로 레거시 칩 제조사의 수혜 지속.",
+      "실체 없는 적자 테마성 급등주는 이번 기회에 반드시 차익 실현하여 현금을 확보해야 함.",
+      "유리기판은 필수 기술이나 상용화 불확실성으로 탄력이 둔화되고 있어 단기 반등 시 비중 축소 권고."
+    ],
+    "data_points": [
+      "국내 증시 오후 8시까지 거래 시간 연장 제도 시행",
+      "8인치 파운드리 웨이퍼 가격 상승 흐름 및 레거시 반도체 수급 개선"
+    ],
+    "signal": "neutral",
+    "signal_confidence": "high",
+    "signal_reason": "FOMC와 중간선거를 앞둔 매크로 불확실성 속에서 테마주 차익 실현과 실적 기반 인프라주 압축 대응 필요.",
+    "key_companies": [
+      "DB하이텍(000990)",
+      "주성엔지니어링(036930)",
+      "SKC(011790)",
+      "필옵틱스(161580)"
+    ],
+    "insight": "시장의 유동성이 타이트해질수록 '언젠가 될 기술'보다 '지금 당장 돈을 벌고 가격 결정력을 가진 부품/장비'로 수급이 극단적으로 쏠리게 됨.",
+    "action_point": "부실 테마주 매도로 현금을 쥐고, 실적 턴어라운드가 확인되는 8인치 파운드리 및 ESS/변압기 등 전력 인프라 대장주 분할 매수 대기."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "이지은",
+      "8인치파운드리",
+      "유리기판",
+      "AI인프라",
+      "DB하이텍",
+      "SKC"
+    ]
+  }
+}

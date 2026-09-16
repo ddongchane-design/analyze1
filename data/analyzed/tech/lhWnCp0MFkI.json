@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "lhWnCp0MFkI",
+    "title": "설계도 한 장을 AI에게 줬더니?!",
+    "published": "2026-09-13T11:00:28+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=lhWnCp0MFkI",
+    "thumbnail": "https://img.youtube.com/vi/lhWnCp0MFkI/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "오픈AI의 차세대 멀티모달 모델 <span class=\"text-cyan-300 font-semibold\">'아스트라(Astra)'</span> 데모 챌린지에서 평면 증기기관차 설계도 한 장으로 블렌더(Blender) 내에 <span class=\"text-cyan-300 font-semibold\">3,295개의 개별 편집 가능한 3D 객체 모델</span>을 자동 구축함. 인터넷 자료 검색부터 의회 도서관 문서 치수 대조, 자체 렌더링 검토 및 오류 수정까지 스스로 수행하는 <span class=\"text-amber-300 font-bold\">완전자율 에이전트(Autonomous Agent)</span>의 파괴적 작업 수행 능력을 입증함.",
+    "key_claims": [
+      "평면 2D 설계도 한 장을 인식해 3,295개의 부품으로 구성된 정밀 3D CAD/블렌더 모델 자동 제작.",
+      "AI가 스스로 의회 도서관 역사 자료를 찾아 기둥 치수를 확인하고 렌더링 결과를 반복 비교 수정하는 피드백 루프 구현.",
+      "단순 이미지 생성을 넘어 전문가용 소프트웨어를 직접 조작하고 수정 가능한 작업 결과물을 완성하는 에이전트 단계 진입."
+    ],
+    "data_points": [
+      "평면 설계도 기반 생성 3D 모델 개별 객체 수: 3,295개",
+      "오픈AI 개발자 챌린지: 24시간 데모 챌린지 진행"
+    ],
+    "signal": "bullish",
+    "signal_confidence": "high",
+    "signal_reason": "제조, 건축, 게임, 엔지니어링 전반에서 AI 에이전트의 생산성 혁신과 3D 소프트웨어 툴체인 결합 가속화.",
+    "key_companies": [
+      "오픈AI",
+      "마이크로소프트(MSFT)",
+      "오토데스크(ADSK)",
+      "유니티(U)"
+    ],
+    "insight": "AI가 텍스트와 2D 이미지를 넘어 복잡한 공학 소프트웨어와 3D 공간 연산 도구를 직접 제어하기 시작하면서 지식 노동 및 설계 엔지니어링의 패러다임이 전면 재편됨.",
+    "action_point": "3D 설계 자동화 및 자율 에이전트 툴체인 생태계를 주도하는 빅테크와 산업용 소프트웨어 선도 기업에 주목할 것."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "etc"
+    ],
+    "tags": [
+      "오픈AI",
+      "아스트라",
+      "3D모델링",
+      "블렌더",
+      "AI에이전트",
+      "안될과학"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "video": {
+    "id": "E6yoKoTngY8",
+    "title": "AI가 바보같다고 느끼는 가장 큰 이유",
+    "published": "2026-09-13T10:49:56+00:00",
+    "channel_name": "월텍남",
+    "url": "https://www.youtube.com/watch?v=E6yoKoTngY8",
+    "thumbnail": "https://img.youtube.com/vi/E6yoKoTngY8/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "똑똑하던 AI가 긴 대화 중에 갑자기 엉뚱한 답을 내놓거나 멍청해지는 근본적인 원인은 <span class=\"text-cyan-300 font-semibold\">'컨텍스트 창(Context Window)'의 용량 한계</span> 때문임. 사용자의 질문과 AI의 답변이 누적되어 한도를 초과하면 <span class=\"text-rose-400 font-medium\">초기 지침과 핵심 조건이 창 밖으로 밀려나 망각</span>되기 때문이며, 대화가 길어질수록 주요 제약 조건을 주기적으로 재입력해 주어야 정확한 출력을 유지할 수 있음.",
+    "key_claims": [
+      "LLM은 현재 컨텍스트 창 내에 남아 있는 대화 텍스트만을 참조해 다음 토큰을 생성함.",
+      "대화가 길어져 토큰 한도를 넘어가면 초기에 설정한 시스템 프롬프트나 조건이 밖으로 밀려나 완전히 유실됨.",
+      "AI의 지능 부족이 아니라 입력 윈도우의 메모리 메커니즘 특성상 발생하는 기술적 제약임."
+    ],
+    "data_points": [
+      "컨텍스트 창 밖으로 밀려난 프롬프트 정보는 LLM 연산 참조 대상에서 100% 제외됨"
+    ],
+    "signal": "na",
+    "signal_confidence": "high",
+    "signal_reason": "LLM 작동 원리와 컨텍스트 윈도우 한계를 설명하는 기술 교육 콘텐츠.",
+    "key_companies": [],
+    "insight": "에이전트 시스템 구축 시 긴 대화를 단순히 누적하기보다, 중간 요약 메모리(Scratchpad)와 RAG(검색 증강 생성)를 결합한 컨텍스트 압축 파이프라인이 필수적임.",
+    "action_point": "긴 호흡의 AI 프롬프트 작업 시 핵심 제약사항을 매 턴마다 명시하거나 컨텍스트 캐싱 및 RAG 구조를 적극 도입할 것."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "etc"
+    ],
+    "tags": [
+      "월텍남",
+      "컨텍스트창",
+      "ContextWindow",
+      "LLM한계",
+      "프롬프트망각",
+      "AI원리"
+    ]
+  }
+}

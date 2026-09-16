@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "ZEFAdsOHQf8",
+    "title": "Seasonality 이번에도 9월은 약할까 | 월스트리트파인더ㅣ2026.9.7(월)",
+    "published": "2026-09-07T01:35:47+00:00",
+    "channel_name": "Smart Money by MiraeAsset ",
+    "url": "https://www.youtube.com/watch?v=ZEFAdsOHQf8",
+    "thumbnail": "https://img.youtube.com/vi/ZEFAdsOHQf8/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "역사적으로 9월 증시 약세 계절성이 반복되는 가운데, 이번 주는 미국 8월 ISM 서비스업 PMI 내 물가 지수 급등(4년래 최고치)으로 <span class=\"text-rose-400 font-medium\">장기 국채 금리 상승 압력</span>이 재차 점화됨.\n금요일 발표 예정인 8월 CPI/PPI 지표가 예상치를 상회할 경우 단기 금리 인상 공포가 확산되며 9월 하방 변동성이 커질 수 있음.\n그러나 서비스업 경기 확장세와 기업 실적 펀더멘털은 견고하므로, 9월 계절적 조정을 <span class=\"text-cyan-300 font-semibold\">4분기 계절적 강세장 대비 최적의 저가 매수 구간</span>으로 활용해야 함.",
+    "key_claims": [
+      "미국 ISM 서비스업 PMI 물가 세부 항목이 4년 만에 최고치를 기록하며 선행 인플레이션 반등 경고등이 켜짐.",
+      "이번 주 후반 미국 CPI/PPI 발표가 9월의 계절적 약세 강도를 결정할 핵심 뇌관임.",
+      "계절적 약세는 일시적 현상이며, 4분기 실적 시즌과 맞물려 강력한 연말 반등 랠리가 전개될 것임."
+    ],
+    "data_points": [
+      "선행 인플레 지표: ISM 서비스업 PMI 지불가격 지수 4년 만에 최고 수준",
+      "계절성: 9월 평균 마이너스 수익률 vs 10~12월 플러스 반등 역사적 반복"
+    ],
+    "signal": "neutral",
+    "signal_reason": "단기 물가 지표에 따른 9월 금리 변동성 리스크가 존재하나, 구조적 펀더멘털 훼손이 아닌 계절적 노이즈에 가깝기 때문임.",
+    "key_companies": [
+      "미래에셋증권",
+      "애플(AAPL)",
+      "마이크로소프트(MSFT)"
+    ],
+    "insight": "9월의 계절적 약세는 두려움의 대상이 아니라 <span class=\"text-amber-300 font-bold\">'연말 성수기 랠리를 가장 저렴하게 매수할 수 있는 정기 세일 기간'</span>으로 이해해야 합니다.",
+    "action_point": "물가 지표 발표 전 현금 유동성을 일정 부분 유지하고, 지수 조정이 깊어질 때마다 4분기 호실적이 담보된 빅테크 우량주를 분할 매집하십시오."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "9월계절성",
+      "ISM서비스업물가",
+      "4년래최고",
+      "8월CPI대비",
+      "월스트리트파인더"
+    ]
+  }
+}

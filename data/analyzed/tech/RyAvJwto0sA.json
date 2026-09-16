@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "RyAvJwto0sA",
+    "title": "\"이런 건 본 적이 없다\" AMD가 꺼낸 최종병기, AI 반도체 혁명이 시작됐습니다",
+    "published": "2026-09-07T09:00:25+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=RyAvJwto0sA",
+    "thumbnail": "https://img.youtube.com/vi/RyAvJwto0sA/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "AMD가 CPU, GPU, 첨단 네트워킹에 더해 자일링스(Xilinx)의 FPGA 프로그래머블 반도체를 결합한 <span class=\"text-cyan-300 font-semibold\">엔드투엔드 AI 및 피지컬 AI 컴퓨팅 플랫폼</span>을 공개함.\n엔비디아가 장악한 거대 데이터센터 가속기 시장의 틈새를 파고들어, 통신·자율주행차·산업용 휴머노이드 로봇에 탑재되는 <span class=\"text-amber-300 font-bold\">임베디드 피지컬 AI 칩셋 시장</span>을 독점 공략하는 전략임.\n자체 소프트웨어 ROCm의 개방형 생태계 확장과 강력한 다각화 포트폴리오를 앞세워 엔비디아의 단일 GPU 종속을 탈피하려는 빅테크 고객사들의 대안으로 부상함.",
+    "key_claims": [
+      "AMD는 업계에서 유일하게 CPU, GPU, 네트워킹, FPGA를 수직 통합한 완결형 칩 설계 포트폴리오를 보유함.",
+      "자일링스의 임베디드 강점을 피지컬 AI와 로보틱스 온디바이스 플랫폼으로 직접 연결해 신성장 동력을 확보함.",
+      "엔비디아 쿠다(CUDA) 대비 가격 경쟁력과 오픈소스 소프트웨어 지원으로 B2B 점유율 확대를 가속화함."
+    ],
+    "data_points": [
+      "인수 시너지: 자일링스(FPGA 1위) 인수 완료 후 피지컬 AI 임베디드 전용 플랫폼 출시",
+      "타겟 시장: 데이터센터 가속기 + 자동차·로봇·통신 임베디드 AI 복합 제어"
+    ],
+    "signal": "bullish",
+    "signal_reason": "AI 하드웨어 시장이 순수 LLM 학습용 클라우드 GPU에서 로봇 및 임베디드 디바이스로 확장되는 국면에서 AMD의 FPGA-GPU 하이브리드 경쟁력이 실질 매출로 연결되기 때문임.",
+    "key_companies": [
+      "AMD(AMD)",
+      "엔비디아(NVDA)",
+      "자일링스"
+    ],
+    "insight": "엔비디아 독점 구도에 균열을 낼 유일한 대항마는 단순 복제 칩이 아니라 <span class=\"text-cyan-300 font-semibold\">'FPGA 임베디드 기술을 결합한 피지컬 AI 맞춤형 플랫폼'</span>을 보유한 AMD이며, 로보틱스 상용화와 맞물려 주가 재평가가 기대됩니다.",
+    "action_point": "엔비디아 일변도의 AI 하드웨어 바스켓에 AMD를 분할 편입하여 칩 공급망 다변화 및 피지컬 AI 칩셋 성장 수혜를 동시에 확보하십시오."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock",
+      "robot"
+    ],
+    "tags": [
+      "AMD최종병기",
+      "자일링스FPGA",
+      "피지컬AI칩",
+      "엔비디아대항마",
+      "임베디드AI"
+    ]
+  }
+}

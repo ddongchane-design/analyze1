@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "60t6oZAsTVk",
+    "title": "사우디 피격, 유가 100달러 코앞ㅣ구리 사상 최고ㅣ애플 19년 만의 대변신ㅣ캐나다 맞불관세, 진짜 승자는?ㅣ홍혜진의 뉴욕브리핑",
+    "published": "2026-09-09T13:57:53+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=60t6oZAsTVk",
+    "thumbnail": "https://img.youtube.com/vi/60t6oZAsTVk/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "사우디아라비아 정유 설비 피격 사태로 국제 유가가 100달러 돌파를 위협하고, 전력망 증설 수요로 <span class=\"text-rose-400 font-medium\">국제 구리 가격이 사상 최고치</span>를 경신하며 원자재 인플레를 재점화함.\n애플은 창립 19년 만에 최초의 접는 스마트폰 <span class=\"text-cyan-300 font-semibold\">'아이폰 듀오(iPhone Duo)'를 1,999달러</span>에 전격 공개하며 모바일 폼팩터 혁신과 AI 온디바이스 생태계 확장을 선언함.\n캐나다의 대미 보복 맞불 관세 선언으로 북미 무역 갈등이 고조되는 등 복합적인 매크로 변수가 시장 변동성을 극대화함.",
+    "key_claims": [
+      "사우디 피격으로 인한 원유 공급 차질 우려가 유가 100달러 돌파 압력을 급격히 고조시킴.",
+      "AI 데이터센터와 전력망 케이블 필수재인 구리가 공급 부족으로 역사적 최고가를 경신함.",
+      "애플의 1,999달러 폴더블 아이폰 듀오는 정체된 스마트폰 시장에 강력한 교체 수요 사이클을 촉발할 것임."
+    ],
+    "data_points": [
+      "신제품 출시: 애플 첫 폴더블 '아이폰 듀오' 출고가 1,999달러",
+      "원자재 동향: 구리 가격 사상 최고가 돌파, 국제 유가 배럴당 100달러 임박"
+    ],
+    "signal": "neutral",
+    "signal_reason": "원자재·유가 급등에 따른 인플레이션 악재와 애플 하드웨어 신제품 및 구리 관련주 호재가 팽팽하게 대립하고 있기 때문임.",
+    "key_companies": [
+      "애플(AAPL)",
+      "프리포트맥모란(FCX)",
+      "LG디스플레이(034220)",
+      "풍산(103140)"
+    ],
+    "insight": "인플레이션 압력 속에서도 살아남는 기업은 <span class=\"text-cyan-300 font-semibold\">'원가 상승을 1,999달러 판가로 전가하는 애플'</span>과 <span class=\"text-rose-400 font-medium\">'전력망의 핵심 혈관인 구리 독점 광산 기업'</span>뿐입니다.",
+    "action_point": "애플 폴더블 힌지 및 OLED 디스플레이 공급망과 구리 채굴 ETF(COPX), 원유 E&P 기업으로 포트폴리오를 분산하십시오."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "tech",
+      "energy"
+    ],
+    "tags": [
+      "사우디피격유가100달러",
+      "구리사상최고",
+      "아이폰듀오1999불",
+      "캐나다맞불관세",
+      "뉴욕브리핑"
+    ]
+  }
+}

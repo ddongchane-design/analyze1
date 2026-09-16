@@ -1,0 +1,48 @@
+{
+  "video": {
+    "id": "tA-XCLAHdy8",
+    "title": "본전까지 딱 1년",
+    "published": "2026-09-13T12:00:14+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=tA-XCLAHdy8",
+    "thumbnail": "https://img.youtube.com/vi/tA-XCLAHdy8/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "10년물 국채 금리가 5%에 육박해도 빅테크의 AI 설비투자(CapEx)가 흔들리지 않는 이유는 압도적인 투자 회수 속도(ROI) 때문임. 구글 클라우드 CEO의 언급처럼 <span class=\"text-cyan-300 font-semibold\">자체 AI 가속기 칩 투자는 1년, 데이터센터 투자는 2년 만에 원금을 회수</span>할 수 있는 수익성이 보장됨. 골드만삭스가 제시한 경기 침체 확률 또한 <span class=\"text-amber-300 font-bold\">자연적 평균치인 15%</span>에 불과해 규제가 아니라면 AI 성장 사이클은 독립적으로 지속될 전망임.",
+    "key_claims": [
+      "하이퍼스케일러는 차입 금리 상승에 구애받지 않을 만큼 막대한 현금 보유량과 1~2년 내 원금 회수 ROI를 기록 중임.",
+      "AI 인프라 투자의 본질적 리스크는 금리가 아니라 정부 규제와 경기 침체이나, 침체 확률은 15%로 지극히 낮음.",
+      "AI 사이클은 거시 경제 사이클과 분리되어 독자적인 가속 성장을 구가하고 있음."
+    ],
+    "data_points": [
+      "구글 클라우드 AI 칩 투자 원금 회수 기간: 약 1년",
+      "구글 클라우드 인프라 전체 투자 회수 기간: 약 2년",
+      "골드만삭스 제시 미국 경기 침체 확률: 15% (7년 주기 침체 평균치)"
+    ],
+    "signal": "bullish",
+    "signal_confidence": "high",
+    "signal_reason": "1년 만에 본전을 뽑는 압도적 자본 회수율과 낮은 경기 침체 확률이 지지하는 강력한 펀더멘탈.",
+    "key_companies": [
+      "알파벳(GOOGL)",
+      "엔비디아(NVDA)",
+      "브로드컴(AVGO)"
+    ],
+    "insight": "비용보다 수익 창출 속도가 월등히 빠르다면 금리는 투자 집행의 장애물이 될 수 없으며, 빅테크의 공격적 CapEx 증액은 정당한 경제적 합리성에 기반함.",
+    "action_point": "금리 상승으로 인한 테크주 조정 시기를 빅테크 자체 칩 및 가속기 생태계 핵심 수혜주를 담는 절호의 기회로 삼을 것."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock",
+      "economy"
+    ],
+    "tags": [
+      "하이퍼스케일러",
+      "구글클라우드",
+      "투자회수",
+      "ROI",
+      "경기침체확률",
+      "김현석"
+    ]
+  }
+}

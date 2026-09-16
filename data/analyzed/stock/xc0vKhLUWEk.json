@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "xc0vKhLUWEk",
+    "title": "ETF 분산 투자하고 있다고? 사실상 주식 몰빵인 이유 #교양이를부탁해 #인플레이션 #금값 #비트코인 #자산배분 #신환종 #달러약세",
+    "published": "2026-09-09T07:30:25+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=xc0vKhLUWEk",
+    "thumbnail": "https://img.youtube.com/vi/xc0vKhLUWEk/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "반도체 ETF 70%, 조선 ETF 20%, 방산 ETF 10%로 포트폴리오를 구성하고 '분산 투자했다'고 착각하는 것은 <span class=\"text-rose-400 font-medium\">'섹터만 쪼갰을 뿐 100% 주식 몰빵 위험'</span>에 노출된 심각한 오류임.\n주식 시장 전체가 급락할 때는 모든 섹터 ETF의 상관계수가 1에 수렴하며 동반 폭락하므로 진정한 위험 분산 효과가 제로임.\n진정한 자산배분은 기능별로 성격이 완전히 다른 <span class=\"text-cyan-300 font-semibold\">'성장 주식 + 현금흐름 인컴 채권 + 위기 시 유동성 초단기채 + 인플레 헤지 금/비트코인'</span>의 4대 축으로 나누어야 함.",
+    "key_claims": [
+      "동일한 주식 자산군 내에서 여러 테마 ETF를 쪼개 담는 것은 분산 투자가 아니라 착시 현상임.",
+      "하락장에서는 섹터 간 상관관계가 급상승하여 포트폴리오 전체가 동일한 하락률로 파괴됨.",
+      "기능별(성장, 인컴, 유동성, 인플레 헷지)로 자산을 완전히 분리해야만 경기 사이클을 버텨냄."
+    ],
+    "data_points": [
+      "포트폴리오 오류: 주식형 ETF 100% 보유 시 시장 충격기 최대 낙폭(MDD) -40~50% 불가피",
+      "권장 배분: 성장 주식 50%, 인컴/채권 30%, 실물 금/비트코인/유동성 20%"
+    ],
+    "signal": "neutral",
+    "signal_reason": "개인 투자자의 포트폴리오 착각을 바로잡고 진정한 올웨더 자산배분 원칙을 교육하는 콘텐츠이기 때문임.",
+    "key_companies": [
+      "SPDR S&P 500(SPY)",
+      "iShares 단기국채(SHV)",
+      "SPDR Gold(GLD)"
+    ],
+    "insight": "ETF를 10개 샀다고 분산이 아니며, <span class=\"text-cyan-300 font-semibold\">'주식이 부러질 때 역으로 솟구치는 금과 단기 채권을 가졌는가'</span>가 진정한 계좌의 생존을 가릅니다.",
+    "action_point": "주식형 ETF 일변도 계좌에서 일부를 덜어내어 초단기 국채 ETF(SGOV) 및 실물 금 ETF(IAU)를 채워 진정한 자산배분을 완성하십시오."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "ETF분산투자착시",
+      "주식몰빵오류",
+      "기능별자산배분",
+      "금단기채헤지",
+      "신환종"
+    ]
+  }
+}

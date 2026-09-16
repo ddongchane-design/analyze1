@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "C2W8k9ObcN4",
+    "title": "90년 수학 난제 나비에-스토크스 방정식, OpenAI는 어떻게 답을 찾았나?",
+    "published": "2026-09-09T08:00:20+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=C2W8k9ObcN4",
+    "thumbnail": "https://img.youtube.com/vi/C2W8k9ObcN4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "오픈AI가 90년간 풀리지 않던 밀레니엄 수학 난제인 <span class=\"text-cyan-300 font-semibold\">나비에-스토크스(Navier-Stokes) 방정식의 유한 시간 특이점(Blowup) 존재 증명</span>을 담은 166쪽 논문을 전격 발표함.\n매끄러운 힘을 가했음에도 유한한 시간 안에 유체 속도가 무한대로 치솟는 해를 AI가 단 8시간 만에 수학적으로 도출함.\nAI가 단순 코딩이나 요약을 넘어 <span class=\"text-amber-300 font-bold\">순수 이론 과학 및 고등 수학의 미해결 난제를 직접 증명</span>하는 진정한 과학적 AGI 단계에 도달했음을 입증함.",
+    "key_claims": [
+      "오픈AI는 고리 모양 진동 소용돌이 설계를 통해 외력 폭증 없이 내부 특이점을 유도하는 정밀한 수학적 해를 발견함.",
+      "클레이 수학 연구소가 지정한 100만 달러 밀레니엄 난제 중 하나에 대해 AI가 실질적 돌파구를 제공함.",
+      "AI 연구 개발의 패러다임이 과학자들의 직관 보조 도구에서 독자적 가설 생성 및 증명 엔진으로 완전 전환됨."
+    ],
+    "data_points": [
+      "논문 분량: 166쪽 분량의 나비에-스토크스 특이점 증명 논문",
+      "연산 시간: AI 에이전트 단 8시간 만에 증명 프레임워크 도출",
+      "난제 역사: 1930년대 이후 90년간 미해결 상태"
+    ],
+    "signal": "bullish",
+    "signal_reason": "AI가 인류 역사상 가장 고난도의 순수 수학 난제를 자율 해결함으로써 과학 기술 전반(항공우주·신약·기상)의 발전 속도를 수십 배 가속할 것이 확실하기 때문임.",
+    "key_companies": [
+      "오픈AI",
+      "마이크로소프트(MSFT)",
+      "엔비디아(NVDA)"
+    ],
+    "insight": "나비에-스토크스 난제 증명은 <span class=\"text-cyan-300 font-semibold\">'AI가 인류 최고 지성의 한계를 돌파한 역사적 순간'</span>이며, 과학용 초거대 추론 컴퓨팅 시장의 폭발적 성장을 예고합니다.",
+    "action_point": "과학 시뮬레이션 및 고등 추론 AI 인프라를 독점 공급하는 엔비디아와 오픈AI 생태계 선도 기업에 대한 장기 투자를 확고히 유지하십시오."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "etc"
+    ],
+    "tags": [
+      "나비에스토크스",
+      "오픈AI166쪽논문",
+      "밀레니엄수학난제",
+      "특이점증명",
+      "과학적AGI"
+    ]
+  }
+}

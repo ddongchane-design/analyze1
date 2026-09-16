@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "ZmQ6CMwMz5I",
+    "title": "AI시대 환율 보는법｜The Economistㅣ2026.9.7(월)",
+    "published": "2026-09-07T06:30:00+00:00",
+    "channel_name": "Smart Money by MiraeAsset ",
+    "url": "https://www.youtube.com/watch?v=ZmQ6CMwMz5I",
+    "thumbnail": "https://img.youtube.com/vi/ZmQ6CMwMz5I/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "AI 시대 환율의 핵심 결정 요인은 각국의 <span class=\"text-cyan-300 font-semibold\">'AI 혁신 주도권과 성장 잠재력 격차'</span>로 재편되고 있음.\n미국 달러는 AI 생태계 독점으로 펀더멘털 강세 요인을 지니고 있으나, GDP 대비 6~7%에 달하는 <span class=\"text-rose-400 font-medium\">만성적 재정 적자</span>로 인해 일방적 초강세로 가지 못하는 딜레마에 갇힘.\n달러의 신뢰도 저하와 대체 기축통화 부재라는 공백을 파고들며 글로벌 중앙은행들이 집중 매집하는 <span class=\"text-amber-300 font-bold\">실물 금(Gold)의 구조적 강세 랠리</span>가 중장기 대세로 자리잡음.",
+    "key_claims": [
+      "AI 혁신을 선도하는 국가와 그렇지 못한 국가 간 통화 가치 양극화가 구조적으로 심화됨.",
+      "미국의 대규모 재정 적자 만성화가 달러 신뢰도를 갉아먹으며 일방적 달러 독주를 제어함.",
+      "달러 약점을 완벽히 보완하는 유일한 대안 자산으로서 글로벌 금 보유 확대 기조는 지속될 것임."
+    ],
+    "data_points": [
+      "미국 재정 적자 비율: 2020년대 들어 GDP 대비 6~7% 수준 지속 (만성화)",
+      "중앙은행 외환보유액 추이: 달러 비중 완만한 하락 vs 금 보유 비중 지속 증가"
+    ],
+    "signal": "bullish",
+    "signal_reason": "AI 주도권에 기반한 미국 자산의 우위와 함께, 통화가치 희석을 헤지하는 실물 금 및 전략 자산의 중장기 밸류에이션 확장이 확실시되기 때문임.",
+    "key_companies": [
+      "SPDR Gold Shares(GLD)",
+      "뉴몬트(NEM)"
+    ],
+    "insight": "AI 시대 통화 전쟁의 최종 승자는 달러 단독이 아니라 <span class=\"text-amber-300 font-bold\">'AI 독점 달러 자산과 탈법정화폐의 종착역인 금(Gold)'</span>의 하이브리드 조합이 될 것입니다.",
+    "action_point": "외환 변동성을 헤지하기 위해 순수 달러 현금보다는 미국 AI 빅테크 주식과 실물 금(Gold ETF)을 7:3 비율로 배분하여 보유하십시오."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "tech",
+      "stock"
+    ],
+    "tags": [
+      "AI시대환율",
+      "재정적자GDP7%",
+      "달러딜레마",
+      "금값구조적강세",
+      "박희찬센터장"
+    ]
+  }
+}

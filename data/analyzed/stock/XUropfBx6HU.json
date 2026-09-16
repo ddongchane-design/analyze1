@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "XUropfBx6HU",
+    "title": "SK하이닉스 ADR 사상 최고치 경신…금리, 유가 동반 급등에도 반도체 강세 지속 [월가 뉴스레터]",
+    "published": "2026-09-09T22:09:27+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=XUropfBx6HU",
+    "thumbnail": "https://img.youtube.com/vi/XUropfBx6HU/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 증시에서 거래되는 <span class=\"text-cyan-300 font-semibold\">SK하이닉스 ADR(미국 주식예탁증서)이 역사상 최고치를 경신</span>하며 글로벌 AI 투자자들의 압도적 러브콜을 증명함.\n국제 유가 95달러 돌파와 미 국채 금리 급등이라는 최악의 거시 악재 속에서도, HBM3E 및 차세대 HBM4 시장 독점력이 모든 매크로 악재를 완벽히 압도함.\n글로벌 기관들이 엔비디아의 유일무이한 핵심 칩 파트너로 SK하이닉스를 지목하며 <span class=\"text-amber-300 font-bold\">글로벌 반도체 밸류체인 내 최우선 매수 종목</span>으로 낙점함.",
+    "key_claims": [
+      "SK하이닉스 미국 ADR 신고가 돌파는 글로벌 메이저 펀드들이 한국 본주를 공격적으로 선취매하고 있음을 뜻함.",
+      "금리와 유가가 동시에 폭등하는 구간에서도 엔비디아 향 HBM 공급 병목을 쥔 하이닉스는 사상 최대 영업이익률을 갱신 중임.",
+      "매크로 긴축 공포에 흔들려 반도체 주식을 파는 것은 글로벌 스마트머니에게 물량을 넘겨주는 격임."
+    ],
+    "data_points": [
+      "주가 지표: SK하이닉스 미국 ADR 사상 최고가 돌파 기록",
+      "수급 현황: 글로벌 테크 펀드 및 롱숏 헤지펀드의 아시아 반도체 비중 최상위 배정"
+    ],
+    "signal": "bullish",
+    "signal_reason": "전 세계 자본 시장에서 매크로 충격을 완전히 무시하고 신고가를 뚫어내는 가장 강력한 주도주 에너지가 확인되었기 때문임.",
+    "key_companies": [
+      "SK하이닉스(000660)",
+      "엔비디아(NVDA)",
+      "한미반도체(042700)"
+    ],
+    "insight": "유가와 금리가 아무리 치솟아도 <span class=\"text-cyan-300 font-semibold\">'엔비디아가 없으면 안 되고, 하이닉스 HBM이 없으면 엔비디아가 안 돌아가는 독점 사슬'</span>이 주가를 역사적 신고가로 이끌고 있습니다.",
+    "action_point": "SK하이닉스를 포트폴리오 최우선 핵심 자산(Core Asset)으로 설정하고 일시적 지수 조정 시마다 비중을 공격적으로 추가 확대하십시오."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "SK하이닉스ADR신고가",
+      "HBM독점력",
+      "금리유가무시랠리",
+      "엔비디아파트너",
+      "월가뉴스레터"
+    ]
+  }
+}

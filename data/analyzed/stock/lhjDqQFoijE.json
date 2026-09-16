@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "lhjDqQFoijE",
+    "title": "[문지웅의 빅머니 LIVE] 인텔 9%, 코어위브 12% 급등한 이유 | 美, 세계1위 원유생산국인데 디젤값 왜 치솟나",
+    "published": "2026-09-08T21:54:29+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=lhjDqQFoijE",
+    "thumbnail": "https://img.youtube.com/vi/lhjDqQFoijE/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "인텔이 파운드리 사업부 분사 및 외부 사모펀드 자금 유치 소식에 <span class=\"text-cyan-300 font-semibold\">+9% 급등</span>하고, 엔비디아의 핵심 파트너 코어위브(CoreWeave)가 대규모 AI 데이터센터 수주로 +12% 폭등함.\n반면 미국이 세계 1위 산유국임에도 불구하고 정유소 정기 보수와 정제 마진 폭등으로 디젤 및 난방유 가격이 치솟는 <span class=\"text-rose-400 font-medium\">'에너지 정제 인프라 병목'</span>이 발생함.\nAI 하드웨어 기업들의 구조조정 랠리와 실물 정유 병목에 따른 물류비 상승 압력이 시장에 복합 작용함.",
+    "key_claims": [
+      "인텔의 제조 파운드리 분사는 만성 적자 사업부를 격리하여 팹리스 부문의 본질 가치를 회복시키는 결정적 전환점임.",
+      "코어위브의 폭풍 성장은 GPU 전문 클라우드 인프라에 대한 빅테크의 아웃소싱 수요가 확고함을 증명함.",
+      "디젤 가격 상승은 미국 내 물류 트럭 운임과 상품 수송비를 밀어 올려 헤드라인 인플레이션을 자극함."
+    ],
+    "data_points": [
+      "주가 변동: 인텔(INTC) +9.2% 급등, 코어위브 지분 가치 +12% 상향",
+      "에너지 지표: 미국 디젤유 크랙 스프레드 사상 최고 수준 근접"
+    ],
+    "signal": "bullish",
+    "signal_reason": "레거시 반도체 대표주 인텔의 턴어라운드와 AI 클라우드 벤더의 폭발적 성장이 테크 섹터 전반의 온기를 확산시키기 때문임.",
+    "key_companies": [
+      "인텔(INTC)",
+      "엔비디아(NVDA)",
+      "발레로에너지(VLO)"
+    ],
+    "insight": "인텔의 파운드리 분사는 <span class=\"text-cyan-300 font-semibold\">'칩 설계와 제조의 완전한 분리'</span>라는 시장의 요구에 응답한 것이며, 코어위브의 급등은 AI 클라우드 인프라의 막대한 레버리지를 증명합니다.",
+    "action_point": "바닥권에서 구조조정을 단행하는 인텔의 턴어라운드 콜옵션 매수 및 고마진 정제 마진 수혜주(Valero 등)를 바스켓으로 구성하십시오."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "energy"
+    ],
+    "tags": [
+      "인텔9%급등",
+      "코어위브12%",
+      "파운드리분사",
+      "디젤값치솟는이유",
+      "문지웅빅머니"
+    ]
+  }
+}

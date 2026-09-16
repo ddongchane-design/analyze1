@@ -1,0 +1,37 @@
+{
+  "video": {
+    "id": "u3T5wGShrwY",
+    "title": "'그의 투자법' 과연 괜찮을까? | 하창완 하보노의 주식 이야기 대표 [더블 체크]",
+    "published": "2026-09-08T05:56:25+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=u3T5wGShrwY",
+    "thumbnail": "https://img.youtube.com/vi/u3T5wGShrwY/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "개인 투자자들이 흔히 추종하는 공격적 테마주 및 급등주 단타 매매법의 치명적 맹점을 지적하고, <span class=\"text-cyan-300 font-semibold\">'수급과 차트 변곡점을 데이터로 검증하는 스윙 트레이딩 원칙'</span>을 제시함.\n시장의 거래대금이 터지는 주도 섹터에서만 매매하고, 손절 기준을 기계적으로 엄수하는 리스크 통제가 전제되지 않으면 복리 누적이 불가능함.\n테마의 소멸과 확장을 철저히 구분하여 <span class=\"text-amber-300 font-bold\">실적과 수급이 뒷받침되는 눌림목 매매</span>만이 시장에서 살아남는 해법임.",
+    "key_claims": [
+      "맹목적인 유명 인플루언서 매매 추종은 필연적으로 고점 물림과 계좌 파탄으로 이어짐.",
+      "거래대금 상위 20위 내 주도주에서만 매매 타점을 잡아야 반등 탄력성을 누릴 수 있음.",
+      "손실폭을 -3~5% 내로 철저히 제한하는 기계적 손절 규칙이 트레이더의 절대적 생명선임."
+    ],
+    "data_points": [
+      "트레이딩 룰: 거래대금 최상위 종목군 집중 및 손절 -5% 엄격 적용"
+    ],
+    "signal": "neutral",
+    "signal_reason": "실전 주식 매매 원칙과 트레이딩 리스크 관리를 점검하는 교육형 콘텐츠이기 때문임.",
+    "key_companies": [],
+    "insight": "주식 시장에서 돈을 버는 사람은 가장 화려한 기법을 쓰는 자가 아니라 <span class=\"text-amber-300 font-bold\">'원칙대로 손절하고 주도주 눌림목만 집요하게 노리는 지루한 반복자'</span>입니다.",
+    "action_point": "개별 테마주 뇌동매매를 중단하고, 시장 주도주(반도체·전력)의 20일선 눌림목 반등 타점을 선별 공략하십시오."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [],
+    "tags": [
+      "주식트레이딩원칙",
+      "하창완대표",
+      "수급눌림목",
+      "손절규칙",
+      "더블체크"
+    ]
+  }
+}

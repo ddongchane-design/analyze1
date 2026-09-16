@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "yZJQ5putBx0",
+    "title": "금리인상 확률 내려간다? 9월 증시 반등의 조건 | 한상희 한화투자증권 수석연구위원 [글로벌 인터뷰]",
+    "published": "2026-09-07T22:51:28+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=yZJQ5putBx0",
+    "thumbnail": "https://img.youtube.com/vi/yZJQ5putBx0/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "월가 일각의 9월 금리 인상 공포에도 불구하고 채권 시장 선물에 반영된 <span class=\"text-cyan-300 font-semibold\">실질 금리 인상 확률은 점진적으로 하향 안정화</span>되고 있음.\n9월 증시가 계절적 약세를 딛고 V자 반등을 달성하기 위한 전제 조건은 8월 CPI의 코어 인플레 둔화와 미 국채 10년물 금리의 4.5% 이하 안착임.\n실제 기업들의 3분기 실적 추정치가 AI 인프라와 빅테크를 중심으로 견고하게 유지되고 있어 <span class=\"text-amber-300 font-bold\">매크로 금리 노이즈 통과 후 실적 장세로의 전환</span>이 유력함.",
+    "key_claims": [
+      "페드워치(FedWatch) 선물 시장 데이터 분석상 9월 실제 금리 인상 가능성은 과도하게 부풀려진 공포임.",
+      "코어 물가가 안정세를 확인할 경우 9월 후반부터 글로벌 증시의 강력한 안도 랠리(Relief Rally)가 촉발됨.",
+      "AI와 반도체 주도의 기업 이익 성장이 매크로 할인율 부담을 흡수하고 지수 반등을 견인할 것임."
+    ],
+    "data_points": [
+      "핵심 반등 조건: 미국 10년물 국채 금리 4.5% 하회 안착 및 근원 CPI 둔화",
+      "실적 모멘텀: S&P 500 및 코스피 3분기 영업이익 컨센서스 상향 지속"
+    ],
+    "signal": "bullish",
+    "signal_reason": "시장의 공포가 극에 달한 시점에 금리 인상 확률의 현실화 가능성이 낮고 기업 이익의 상향 궤적이 훼손되지 않았기 때문임.",
+    "key_companies": [
+      "한화투자증권",
+      "마이크로소프트(MSFT)",
+      "SK하이닉스(000660)"
+    ],
+    "insight": "채권 시장의 과민 반응이 진정되는 순간 주식 시장은 <span class=\"text-cyan-300 font-semibold\">'금리 인상 회피 + 실적 호조'라는 강력한 안도 랠리</span>를 펼칠 것이며, 지금은 바닥을 잡는 용기가 필요한 시점입니다.",
+    "action_point": "CPI 발표를 앞두고 투매가 발생하는 구간을 우량 성장주 저가 매수의 최적 기회로 포착하여 주식 비중을 적극 확대하십시오."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "금리인상확률하락",
+      "9월증시반등조건",
+      "코어CPI안정",
+      "안도랠리",
+      "한상희위원"
+    ]
+  }
+}

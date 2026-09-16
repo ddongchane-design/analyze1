@@ -1,0 +1,39 @@
+{
+  "video": {
+    "id": "H-9F0T2ZTug",
+    "title": "실험 물리학자 vs 이론 물리학자",
+    "published": "2026-09-09T03:00:20+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=H-9F0T2ZTug",
+    "thumbnail": "https://img.youtube.com/vi/H-9F0T2ZTug/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "이론적 수식과 가설로 우주의 법칙을 모델링하는 <span class=\"text-cyan-300 font-semibold\">이론 물리학</span>과, 거대 입자가속기와 실험 장비로 실체를 검증하는 <span class=\"text-amber-300 font-bold\">실험 물리학</span> 간의 유기적 대립과 협력 구조를 조명함.\nAI 시뮬레이션의 발전으로 이론 물리학자의 가설 도출 속도가 비약적으로 빨라지는 반면, 최종 검증을 위한 물리적 실험 인프라의 중요성은 더욱 커지고 있음.\n순수 과학의 방법론 발전이 미래 양자 컴퓨팅과 첨단 반도체 공정 기술의 사상적 토대가 됨을 설명함.",
+    "key_claims": [
+      "이론과 실험은 어느 한쪽의 우위가 아닌 상호 보완적 피드백 루프를 통해 과학 혁명을 이끎.",
+      "AI 추론 모델의 개입으로 이론 물리 가설 생성 속도가 기하급수적으로 단축됨.",
+      "양자역학과 응집물질물리학의 실험 검증이 차세대 반도체 및 초전도체 기술 상용화의 핵심 열쇠임."
+    ],
+    "data_points": [
+      "과학사적 발견: 힉스 보손 예측(이론) 후 50년 만의 CERN 가속기 검증(실험)"
+    ],
+    "signal": "neutral",
+    "signal_reason": "기초 과학 지식 및 학문 방법론을 다룬 순수 과학 교양 콘텐츠이기 때문임.",
+    "key_companies": [],
+    "insight": "과학의 역사는 <span class=\"text-cyan-300 font-semibold\">'과감한 이론적 상상력'</span>을 <span class=\"text-amber-300 font-bold\">'정밀한 물리적 실험 장치'</span>로 증명해 온 과정이며, AI 시대에도 물리적 실험 검증의 가치는 대체되지 않습니다.",
+    "action_point": "장기적으로 양자 컴퓨터 및 차세대 물질 공정 연구를 주도하는 글로벌 과학 장비 및 연구 소프트웨어 기업에 관심을 두십시오."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "실험물리학",
+      "이론물리학",
+      "과학방법론",
+      "양자역학",
+      "안될과학"
+    ]
+  }
+}

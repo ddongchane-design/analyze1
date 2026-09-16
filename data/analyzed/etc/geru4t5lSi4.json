@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "geru4t5lSi4",
+    "title": "상위 1%들이 한국을 떠나는 이유",
+    "published": "2026-09-07T11:00:12+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=geru4t5lSi4",
+    "thumbnail": "https://img.youtube.com/vi/geru4t5lSi4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "네이버 벤처스 등 국내 대표 IT 대기업의 투자 펀드조차 판교가 아닌 <span class=\"text-cyan-300 font-semibold\">미국 실리콘밸리에 자금을 집중 배정</span>하는 현상이 심화됨.\n이는 국내에 유망한 AI 스타트업이 부족해서라기보다는, 전 세계 최고의 AI 인재와 메가 자본, 그리고 최대 B2B 고객 시장이 실리콘밸리로 초집중되고 있기 때문임.\n결과적으로 한국의 상위 1% 기술 창업자와 핵심 엔지니어들이 글로벌 시장을 선점하기 위해 <span class=\"text-rose-400 font-medium\">미국 현지 법인 설립 및 이주를 선택하는 브레인 드레인(Brain Drain)</span>이 가속화됨.",
+    "key_claims": [
+      "국내 CVC(기업형 벤처캐피털)들도 실리콘밸리 현지 투자 비중을 공격적으로 늘리는 추세임.",
+      "AI 비즈니스는 초기부터 글로벌 최대 고객 시장과 데이터센터 인프라를 쥔 실리콘밸리에서 승부해야 함.",
+      "최고급 엔지니어 및 테크 자본의 미국 엑소더스는 국내 테크 생태계의 장기 공동화 우려를 낳음."
+    ],
+    "data_points": [
+      "자본 이동: 국내 대기업 CVC 글로벌 투자 펀드의 실리콘밸리 쏠림 현상 심화"
+    ],
+    "signal": "neutral",
+    "signal_reason": "국내 테크 생태계에는 인재 유출 리스크이나, 미국 현지 글로벌 빅테크 및 실리콘밸리 AI 펀드에는 자본 집중 호재이기 때문임.",
+    "key_companies": [
+      "네이버(035420)"
+    ],
+    "insight": "AI 패권 경쟁은 로컬 시장 방어가 불가능한 승자독식 게임이며, <span class=\"text-rose-400 font-medium\">'인재와 자본의 실리콘밸리 블랙홀 현상'</span>은 미국 빅테크 플랫폼 기업들의 독점력을 더욱 공고히 만듭니다.",
+    "action_point": "국내 내수 중심 소프트웨어 기업에 대한 투자를 지양하고, 글로벌 인재와 자본을 빨아들이는 미국 실리콘밸리 상장 AI 인프라 및 플랫폼 기업 비중을 극대화하십시오."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "상위1%이유",
+      "실리콘밸리집중",
+      "네이버벤처스",
+      "브레인드레인",
+      "AI인재엑소더스"
+    ]
+  }
+}

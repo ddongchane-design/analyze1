@@ -1,0 +1,41 @@
+{
+  "video": {
+    "id": "cu48GPZdjaU",
+    "title": "인간의 뇌를 컴퓨터 안에 재현할 수 있을까?",
+    "published": "2026-09-14T03:25:03+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=cu48GPZdjaU",
+    "thumbnail": "https://img.youtube.com/vi/cu48GPZdjaU/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "마인크래프트 게임 엔진 안에서 <span class=\"text-cyan-300 font-semibold\">초파리의 실제 신경 연결망(커넥톰) 데이터</span>를 바탕으로 신경 활동과 생체 행동을 재현한 디지털 뇌 시뮬레이션 연구를 소개함. 초파리의 전체 신경망조차 감각과 호르몬 반응의 극히 일부만을 계산 모델로 옮겨놓은 초기 단계이나, 장기적으로 인간 뇌의 커넥톰 시뮬레이션과 <span class=\"text-amber-300 font-bold\">디지털 지능·생명의 본질</span>에 대한 과학적·철학적 질문을 던짐.",
+    "key_claims": [
+      "마인크래프트 내 초파리 신경 회로 모델은 실제 신경 연결 정보를 기반으로 한 정밀 계산 시뮬레이션임.",
+      "신경 연결 지도뿐만 아니라 시냅스 반응, 신경 조절 물질, 신체 상태와의 상호작용까지 재현해야 완전한 뇌 복제 가능.",
+      "초파리 수준의 단순 신경망 재현을 넘어 인간 뇌의 디지털 재현으로 나아가기 위한 컴퓨팅 및 데이터 과제 산적."
+    ],
+    "data_points": [
+      "초파리 커넥톰 기반 마인크래프트 내 가상 생물 행동 모델 시연"
+    ],
+    "signal": "na",
+    "signal_confidence": "high",
+    "signal_reason": "기초 뇌과학 및 인공신경망 시뮬레이션 연구를 다룬 과학 교양 콘텐츠로 금융 시장 직접 시그널 없음.",
+    "key_companies": [],
+    "insight": "생물학적 뇌의 배선도를 실리콘 반도체 위에서 에뮬레이션하려는 시도는 향후 뉴로모픽 컴퓨팅 및 차세대 생체 모방 AI 아키텍처 연구의 중요한 이정표가 될 것임.",
+    "action_point": "뉴로모픽 반도체 및 생체 두뇌 시뮬레이션 관련 중장기 연구개발 동향을 기술 트렌드 관점에서 모니터링할 것."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "etc"
+    ],
+    "tags": [
+      "뇌시뮬레이션",
+      "초파리뇌",
+      "커넥톰",
+      "마인크래프트",
+      "디지털트윈",
+      "신경망"
+    ]
+  }
+}

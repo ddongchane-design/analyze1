@@ -1,0 +1,51 @@
+{
+  "video": {
+    "id": "KjVfGPWGujY",
+    "title": "[한국어] 지금은 현금을 보유할 때? '기술주 분석의 대가' 댄 나일스가 보는 미국 증시의 다음 고비 | Dan Niles",
+    "published": "2026-09-13T06:00:39+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=KjVfGPWGujY",
+    "thumbnail": "https://img.youtube.com/vi/KjVfGPWGujY/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "전설적인 월가 테크 애널리스트 댄 나일스(Dan Niles)는 역사적으로 <span class=\"text-amber-300 font-bold\">중간선거 기간 S&P 500이 평균 10%의 깊은 조정</span>을 겪어왔으며, 현재 유가 100달러 및 국채 매도세 속에서 지금은 주식 공격보다 <span class=\"text-cyan-300 font-semibold\">현금 및 머니마켓(MMF) 보유가 가장 안전한 선택</span>이라고 경고했습니다.",
+    "key_claims": [
+      "역대 중간선거가 있는 해에는 7월 말부터 11월 초 사이 최대 낙폭이 평년(5%)의 두 배인 10%에 달합니다.",
+      "AI 에이전트 혁명은 이제 시작된 지 7개월에 불과해 거품이 당장 꺼질 단계는 아니지만, 토큰 단가 50% 급락과 기업들의 AI 지출 통제가 단기 속도 조절을 부르고 있습니다.",
+      "브로드컴 실적 미달에서 보듯 AI 관련주의 실적 눈높이가 지나치게 높아져 작은 미스에도 큰 변동성이 불가피합니다.",
+      "채권 금리가 치솟아 채권도 안전하지 못한 국면이므로 현재 가장 합리적인 피난처는 MMF와 현금입니다."
+    ],
+    "data_points": [
+      "중간선거 해 S&P 500 평균 최대 낙폭: 10% (일반 해 5% 대비 2배)",
+      "클라우드 3사(AWS, Azure, GCP) 성장률: 3월 35% -> 6월 43% 가속",
+      "AI 토큰당 비용 하락폭: 5월 말 이후 50% 이상 하락",
+      "앤트로픽 ARR: 작년 말 90억 달러에서 700억 달러 돌파"
+    ],
+    "signal": "neutral",
+    "signal_reason": "장기적 AI 메가트렌드는 유효하지만, 거시경제 리스크(유가/금리)와 중간선거 계절성이 겹치며 단기 10% 이상의 변동성 리스크가 고조되었습니다.",
+    "key_companies": [
+      "NVIDIA",
+      "Broadcom",
+      "Alphabet",
+      "Amazon",
+      "Microsoft",
+      "Anthropic"
+    ],
+    "insight": "시장을 이기려 하지 말고 시장을 존중해야 할 타이밍입니다. AI의 생산성 혁명 자체는 명확하지만, 거시적 유동성 압박과 정치적 불확실성이 겹치는 9~10월 구간에서는 <span class=\"text-amber-300 font-bold\">현금을 쥐고 다음 매수 기회를 노리는 전략</span>이 최선의 알파를 창출합니다.",
+    "action_point": "신규 레버리지 매수를 즉시 중단하고 포트폴리오의 15~20% 이상을 현금 및 초단기 MMF로 전환하여 10~11월 선거 전후의 급락 시 분할 매수 실탄을 확보하십시오."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "댄나일스",
+      "미국증시",
+      "현금비중",
+      "AI버블",
+      "중간선거조정"
+    ]
+  }
+}

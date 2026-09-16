@@ -1,0 +1,40 @@
+{
+  "video": {
+    "id": "YNjMpEz2lhU",
+    "title": "\"있을 수가 없습니다\"…운용·리서치·교육·사업 다 해본 20년 차 투자자가 모든 것을 담은 '이것'",
+    "published": "2026-09-08T00:00:05+00:00",
+    "channel_name": "이효석아카데미",
+    "url": "https://www.youtube.com/watch?v=YNjMpEz2lhU",
+    "thumbnail": "https://img.youtube.com/vi/YNjMpEz2lhU/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "20년간 자산운용·애널리스트·투자 교육을 총괄한 베테랑 전문가가 시장의 극단적 쏠림과 변동성을 이겨내는 <span class=\"text-cyan-300 font-semibold\">체계적 자산배분 및 내러티브 검증 시스템</span>을 제시함.\n단순 종목 추종이나 테마 광풍에 휩쓸리지 않고, 기업의 실질 현금흐름 창출력과 매크로 사이클의 변곡점을 데이터로 교차 검증하는 투자 프레임워크가 필수적임.\n특히 AI와 고금리가 공존하는 복합 변곡기에서는 <span class=\"text-amber-300 font-bold\">확률적 사고와 철저한 리스크 관리 규칙</span>을 사전에 확립하는 것이 장기 복리 수익의 유일한 길임.",
+    "key_claims": [
+      "시장의 소음(뉴스)과 신호(펀더멘털)를 분리하여 감정을 배제한 규칙 기반 투자를 실행해야 함.",
+      "아무리 유망한 테마라도 매크로 금리 환경과 밸류에이션 상단을 무시한 몰빵 투자는 치명적 손실을 부름.",
+      "성공적인 투자는 예측의 정확도가 아니라, 틀렸을 때의 손실 제어와 맞았을 때의 포지션 극대화 구조에서 나옴."
+    ],
+    "data_points": [
+      "운용 경력: 20년 차 펀드매니저 및 리서치 총괄 경험 집약",
+      "핵심 프레임워크: 매크로(Macro) x 펀더멘털(Fundamental) x 센티먼트(Sentiment) 삼각 검증"
+    ],
+    "signal": "neutral",
+    "signal_reason": "특정 종목에 대한 단기 매수/매도 시그널이 아닌 장기 투자 방법론과 리스크 관리 철학을 다룬 심층 콘텐츠이기 때문임.",
+    "key_companies": [],
+    "insight": "변동성 장세에서 가장 위험한 것은 시장의 하락이 아니라 <span class=\"text-amber-300 font-bold\">'원칙 없는 뇌동매매'</span>이며, 검증된 투자 프레임워크를 갖춘 자만이 AI 전환기의 거대한 부를 온전히 취할 수 있습니다.",
+    "action_point": "개별 종목의 단기 등락에 일희일비하지 말고, 포트폴리오의 최대 낙폭(MDD) 한도를 설정하고 자산군별 리밸런싱 주기를 정례화하십시오."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "20년차투자원칙",
+      "자산배분프레임워크",
+      "리스크관리",
+      "투자철학",
+      "복리수익"
+    ]
+  }
+}

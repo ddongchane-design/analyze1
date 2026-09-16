@@ -1,0 +1,51 @@
+{
+  "video": {
+    "id": "d0kRWcguYSU",
+    "title": "중국 정부 기밀 정보, Claude로… 앤트로픽 베끼려다가 중국 기밀이 Claude로 넘어간 현 상황 | 딥시크·키미 황당한 역유출 | 러시아 정보도?",
+    "published": "2026-09-13T07:28:14+00:00",
+    "channel_name": "안될공학 - IT 테크 신기술",
+    "url": "https://www.youtube.com/watch?v=d0kRWcguYSU",
+    "thumbnail": "https://img.youtube.com/vi/d0kRWcguYSU/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "중국 주요 AI 기업인 문샷(Kimi)과 딥시크가 <span class=\"text-cyan-300 font-semibold\">클로드(Claude)</span>의 추론 능력을 증류(Distillation)하기 위해 대규모 프록시 파이프라인을 운영하던 중, 실제 고객들의 <span class=\"text-rose-400 font-medium\">러시아 국방부 DB 접속 정보와 중국 경찰 감시 CCTV 데이터</span> 등 국가 1급 기밀들이 고스란히 <span class=\"text-cyan-300 font-semibold\">앤트로픽</span>으로 역유출되는 초유의 사태가 발생했습니다. 이는 AI 모델 간 불법 기술 복제 과정에서 발생한 구조적 역풍입니다.",
+    "key_claims": [
+      "문샷 AI와 딥시크는 5,000개 이상의 프록시 계정으로 <span class=\"text-cyan-300 font-semibold\">클로드</span>의 'Thinking Signature'와 추론 과정을 수천만 건 무단 증류했습니다.",
+      "벤치마크 테스트뿐 아니라 실제 사용자 요청을 프록시로 넘기면서, <span class=\"text-violet-300 font-medium\">러시아 국방부 DB</span> 및 <span class=\"text-violet-300 font-medium\">중국 공안 감시망</span> 정보가 <span class=\"text-cyan-300 font-semibold\">앤트로픽</span> 서버로 직접 유입되었습니다.",
+      "일반 기업의 케펙스(Capex) 투자 기밀과 텔레그램/노션 API 토큰 등 기업 핵심 보안 자산도 무방비로 노출되었습니다.",
+      "사용자가 화면상 마주하는 AI 브랜드 뒤에서 여러 외부 API와 프록시가 연동되는 현 아키텍처는 <span class=\"text-rose-400 font-medium\">심각한 데이터 통제권 상실</span>을 초래합니다."
+    ],
+    "data_points": [
+      "문샷의 클로드 무단 증류 호출 건수: 2026년 5~7월간 2,300만 건 이상",
+      "딥시크 관찰 호출 건수: 7월 2주간 1,210만 건",
+      "사용된 비인가 프록시 계정: 5,000개 이상",
+      "열흘간 클로드로 우회 전송된 실제 고객 요청: 약 30만 건"
+    ],
+    "signal": "bearish",
+    "signal_reason": "중국 AI 모델들의 독자 개발 능력에 대한 신뢰도 타격과 함께, 엔터프라이즈 AI 도입 시 <span class=\"text-rose-400 font-medium\">데이터 주권 및 기밀 역유출 리스크</span>가 글로벌 규제와 기업 도입 지연의 뇌관으로 부상했습니다.",
+    "key_companies": [
+      "Anthropic",
+      "Moonshot AI",
+      "DeepSeek",
+      "Telegram",
+      "Notion"
+    ],
+    "insight": "이번 사태는 'AI에게 무엇을 입력했는가'를 넘어 <span class=\"text-amber-300 font-bold\">'AI가 업무 처리 중 어디까지 들여다보고 누구에게 전달했는가'</span>의 거대한 패러다임 전환을 시사합니다. 중국 AI의 저가 공세 뒤에 숨겨진 프록시 증류와 역유출 구조는 글로벌 빅테크의 AI 보안 및 폐쇄형 생태계 강화 명분을 한층 공고히 할 것입니다.",
+    "action_point": "엔터프라이즈 기업 및 투자자는 사내 데이터가 통제되지 않는 서드파티 AI 서비스 사용을 즉각 차단하고, 프라이빗 온프레미스 또는 보안 인증(SOC2)을 획득한 신뢰할 수 있는 플랫폼 중심의 AI 거버넌스를 재정비해야 합니다."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "economy",
+      "etc"
+    ],
+    "tags": [
+      "앤트로픽",
+      "클로드",
+      "딥시크",
+      "보안유출",
+      "지정학AI",
+      "문샷"
+    ]
+  }
+}

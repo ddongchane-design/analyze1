@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "wP9rUEQfbzw",
+    "title": "금리 불안에 흔들리는 주식시장, 결국 반도체가 답이다? ㅣ 박지훈 부장 [아침앤투자]",
+    "published": "2026-09-16T07:01:16+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=wP9rUEQfbzw",
+    "thumbnail": "https://img.youtube.com/vi/wP9rUEQfbzw/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "시장 일각의 AI 속도조절론은 중국의 가성비 AI 모델 공세에 맞서기 위한 전술적 대응에 불과하며, <span class=\"text-cyan-300 font-semibold\">오픈AI가 IPO 전 대규모 자금 조달에 나선 현실</span>이 이를 증명함. 일시적 소나기성 조정 이후 결국 도달할 결론은 '기승전 전력 쇼티지, 기승전 반도체'이며, 하드웨어 공급 부족 국면에서 독점적 메모리 반도체 공급사들의 실적 가시성은 확고함.",
+    "key_claims": [
+      "오픈 AI가 추가 펀딩과 자금 조달을 공격적으로 타진하는 상황에서 AI 투자가 감속한다는 주장은 모순임.",
+      "중국 AI 소프트웨어와의 격차를 벌리기 위한 전략적 노이즈를 AI 산업의 침체로 오판해서는 안 됨.",
+      "전력 부족과 고성능 연산 반도체 수급 불균형은 단기간에 해소될 수 없는 구조적 병목임."
+    ],
+    "data_points": [
+      "투자 사이클: 오픈AI 및 앤트로픽의 수조 원 단위 추가 자금 조달 추진"
+    ],
+    "signal": "bullish",
+    "signal_reason": "AI 모델 진화에 따른 인프라 및 메모리 수요가 변함없이 폭증하고 있기 때문임.",
+    "key_companies": [
+      "오픈AI",
+      "엔비디아(NVDA)",
+      "SK하이닉스(000660)",
+      "삼성전자(005930)"
+    ],
+    "insight": "소프트웨어 단에서의 규제와 속도 조절 논란은 역설적으로 하드웨어 연산 효율성을 높이기 위한 고대역폭 메모리와 전력 솔루션의 가치를 배가시킴.",
+    "action_point": "AI 속도조절론으로 인한 반도체 주가 단기 하락을 매수 기회로 삼아 비중을 확대할 것."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "AI속도조절론",
+      "전력쇼티지",
+      "반도체수혜",
+      "오픈AI자금조달",
+      "박지훈"
+    ]
+  }
+}

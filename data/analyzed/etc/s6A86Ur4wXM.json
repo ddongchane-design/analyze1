@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "s6A86Ur4wXM",
+    "title": "[연금 포트폴리오 서비스] 퇴직연금 로보Wrap 서비스",
+    "published": "2026-09-07T02:08:54+00:00",
+    "channel_name": "Smart Money by MiraeAsset ",
+    "url": "https://www.youtube.com/watch?v=s6A86Ur4wXM",
+    "thumbnail": "https://img.youtube.com/vi/s6A86Ur4wXM/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "퇴직연금 가입자의 방치된 적립금을 AI 기반 알고리즘으로 자율 운용해주는 <span class=\"text-cyan-300 font-semibold\">'퇴직연금 로보Wrap(랩어카운트) 서비스'</span>가 출시됨.\n글로벌 자산배분 모델을 통해 시장 국면별로 주식·채권·대체자산의 비중을 자동 리밸런싱하여 원금 손실 위험을 제어하면서 복리 수익을 극대화함.\n디폴트옵션 제도화와 맞물려 복잡한 금융 지식 없이도 <span class=\"text-amber-300 font-bold\">장기 안정적 노후 자산 형성</span>을 지원하는 연금 핀테크 인프라가 대중화됨.",
+    "key_claims": [
+      "원리금보장 상품에 방치되어 인플레이션에 녹아내리는 퇴직연금을 자동 AI 랩으로 운용 전환함.",
+      "빅데이터 기반 글로벌 EMP(ETF Managed Portfolio) 알고리즘으로 체계적 하방 리스크를 통제함.",
+      "고객의 투자 성향에 맞춘 맞춤형 자동 리밸런싱으로 퇴직연금 수익률의 구조적 제고를 달성함."
+    ],
+    "data_points": [
+      "운용 방식: 인공지능 기반 글로벌 ETF 자동 분산 및 분기별 정기 리밸런싱",
+      "대상 상품: 확정기여형(DC) 및 개인형퇴직연금(IRP)"
+    ],
+    "signal": "neutral",
+    "signal_reason": "특정 금융 테마나 주식의 시그널이 아닌 연금 자산배분 서비스 소개 콘텐츠이기 때문임.",
+    "key_companies": [
+      "미래에셋증권"
+    ],
+    "insight": "고금리·고인플레이션 시대에 원리금 보장 상품은 사실상 실질 마이너스 수익률이며, <span class=\"text-cyan-300 font-semibold\">'AI 자산배분 로보어드바이저'</span>를 통한 연금 운용 전환은 필수적인 생존 전략입니다.",
+    "action_point": "DC/IRP 계좌에 잠자고 있는 예적금형 대기 자금을 AI 로보Wrap 서비스나 글로벌 자산배분 ETF 펀드로 전환 신청하십시오."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "퇴직연금",
+      "로보Wrap",
+      "자산배분",
+      "디폴트옵션",
+      "미래에셋"
+    ]
+  }
+}

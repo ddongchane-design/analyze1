@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "j2-KQtQp03E",
+    "title": "트럼프가 중간선거에서 지면 이 종목을 봐야 합니다",
+    "published": "2026-09-13T14:15:11+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=j2-KQtQp03E",
+    "thumbnail": "https://img.youtube.com/vi/j2-KQtQp03E/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "AI 데이터센터 확장에 따른 극심한 전력 부족 사태에도 불구하고 <span class=\"text-amber-300 font-bold\">트럼프의 행정명령 중심 정책</span>은 실질 보조금 지급이 결여되어 있다는 한계가 지적됨. 만약 다가오는 중간선거에서 민주당이 의회를 탈환할 경우, 전력망 인프라와 <span class=\"text-cyan-300 font-semibold\">소형모듈원자로(SMR)에 대한 실질 재정 보조금</span>이 대거 집행되어 <span class=\"text-cyan-300 font-semibold\">원전 및 전력 인프라 밸류체인</span>이 구조적 수혜를 입을 전망임.",
+    "key_claims": [
+      "트럼프는 AI 인프라 장려 행정명령에 서명만 할 뿐 실질적인 설비투자 보조금 지급에는 인색함.",
+      "민주당이 중간선거에서 승리할 경우 법안을 통한 직접적 보조금과 재정 지원이 가동될 수 있음.",
+      "SMR과 대규모 송배전 전력망 기업들에게 가장 절실한 촉매제는 정부의 직접 보조금 예산임."
+    ],
+    "data_points": [
+      "미국 AI 데이터센터 확장에 따른 전력 인프라 및 전력망 부족 병목 현상 지속"
+    ],
+    "signal": "bullish",
+    "signal_confidence": "medium",
+    "signal_reason": "중간선거 결과에 따라 지연되던 원전 및 전력 인프라 연방 보조금 지급이 재개될 수 있다는 정책 전환 기대감.",
+    "key_companies": [
+      "두산에너빌리티(034020)",
+      "뉴스케일파워(SMR)",
+      "GE버노바(GEV)",
+      "HD현대일렉트릭(267260)"
+    ],
+    "insight": "AI 발전을 가로막는 최대 병목은 연산칩이 아닌 '전력'이며, 양당 중 누가 의회를 장악하든 보조금 정책의 현실화 여부가 SMR 상용화 속도를 결정할 것임.",
+    "action_point": "미국 중간선거 여론조사를 추적하며, 보조금 수혜 가시성이 높은 SMR 주기기 및 전력 변압기 대형주를 눌림목마다 분할 매수할 것."
+  },
+  "classification": {
+    "primary_topic": "energy",
+    "secondary_topics": [
+      "stock",
+      "tech"
+    ],
+    "tags": [
+      "중간선거",
+      "트럼프",
+      "전력인프라",
+      "SMR",
+      "보조금",
+      "원전"
+    ]
+  }
+}

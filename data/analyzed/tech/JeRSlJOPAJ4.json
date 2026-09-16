@@ -1,0 +1,48 @@
+{
+  "video": {
+    "id": "JeRSlJOPAJ4",
+    "title": "인플레 부담 덜어낸 미국과 'AI 속도조절론' 9월 증시 조정 뒷면에 숨은 기회 | 여도은, 이혁진 [아침N투자]",
+    "published": "2026-09-14T02:26:27+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=JeRSlJOPAJ4",
+    "thumbnail": "https://img.youtube.com/vi/JeRSlJOPAJ4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "AI 프론티어 모델의 업데이트 주기가 2023년 평균 128일에서 <span class=\"text-rose-400 font-medium\">2026년 월 1회로 극단적 단축</span>되면서 기업 간 출혈 경쟁과 보안 리스크가 폭발한 것이 이번 속도조절론의 본질임. 메모리 가격 지수의 단기 탄력 둔화 우려로 코스피가 3%대 조정을 받았으나, 이혁진 팀장은 <span class=\"text-amber-300 font-bold\">빅테크의 구조적 CapEx 추세</span>는 변함없다고 평가하며 <span class=\"text-cyan-300 font-semibold\">방어주(지주사, 방산, 엔터)</span>와 함께 실적주 옥석 가리기를 제안함.",
+    "key_claims": [
+      "분기당 1회 미만이던 AI 모델 업데이트가 월 1회로 가속화되어 자가 발전 통제 및 해킹 위험 노출.",
+      "프론티어 모델의 감속은 메모리 반도체의 단기 가격 급등세를 진정시킬 수 있으나 장기 데이터센터 투자는 유지됨.",
+      "코스피 6,690선 급락 국면에서 지주사, 방산, 엔터 등 경기방어 섹터의 상대적 강세 확인."
+    ],
+    "data_points": [
+      "주요 AI 모델(GPT, 클로드, 제미나이) 업데이트 주기: 2023년 128일 -> 2026년 약 30일(월 1회)",
+      "코스피 지수: 3%대 급락하며 6,690선 하회, 코스닥 지수: -1.3% 하락"
+    ],
+    "signal": "neutral",
+    "signal_confidence": "high",
+    "signal_reason": "AI 모델의 안전 규제 도입에 따른 단기 수급 조정과 펀더멘탈 간의 줄다리기 국면.",
+    "key_companies": [
+      "원익IPS(240810)",
+      "SK하이닉스(000660)",
+      "한화에어로스페이스(012450)",
+      "하이브(352820)"
+    ],
+    "insight": "AI 발전의 병목이 '알고리즘의 속도'에서 '시스템 통제력과 신뢰성'으로 이동함에 따라, 무차별적 AI 하드웨어 랠리 대신 안정성과 전력 효율을 보장하는 장비/소재주로 차별화가 진행될 것임.",
+    "action_point": "코스피 투매 시 지주사 및 방산주로 단기 변동성을 헤지하고, 눌림목이 심화된 반도체 소부장 대장주(원익IPS 등)를 선별 매수할 것."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock",
+      "economy"
+    ],
+    "tags": [
+      "이혁진",
+      "AI업데이트주기",
+      "코스피조정",
+      "방어주",
+      "지주사",
+      "방산"
+    ]
+  }
+}
