@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "DTs-FOUwrso",
+    "title": "At the September FOMC, the base rate rose, but the 30-year yield fell instead. The real point to ...",
+    "published": "2026-09-17T06:29:59+00:00",
+    "channel_name": "이효석아카데미",
+    "url": "https://www.youtube.com/watch?v=DTs-FOUwrso",
+    "thumbnail": "https://img.youtube.com/vi/DTs-FOUwrso/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "9월 FOMC 기준금리 25bp 인상에도 불구하고 <span class=\"text-amber-300 font-bold\">미국 30년물 장기 국채금리가 오히려 하락</span>하는 독특한 디커플링 현상이 발생함.\n단기 정책금리 상승이 장기 경기 둔화와 침체를 앞당길 것이라는 시장의 우려가 반영되며 <span class=\"text-rose-400 font-medium\">장단기 금리 역전 현상이 재차 심화</span>됨.\n경제 4분면(물가-성장) 매트릭스 상 현재 국면은 <span class=\"text-rose-400 font-medium\">'고물가 속 성장 둔화(스태그플레이션 리스크)'의 경계선</span>에 위치하여 공격적 주식 매수보다 방어가 요구됨.",
+    "key_claims": [
+      "기준금리 인상 시 단기 금리는 오르지만 미래 성장 둔화를 반영하는 30년물 장기 금리는 하락 압력을 받을 수 있음.",
+      "골디락스(저물가-고성장) 구간이 아닌 고물가-긴축 국면에서는 빚을 내서 주식을 사는 과도한 레버리지를 극도로 경계해야 함.",
+      "FOMC 경제전망요약(SEP)과 점도표를 통해 연준의 장기 성장률 전망과 중립금리 시각 변화를 면밀히 추적해야 함."
+    ],
+    "data_points": [
+      "금리 움직임: 연준 기준금리 25bp 인상 vs 30년 만기 미국 국채 금리 하락",
+      "경제 매트릭스: 물가 상승률 여전히 목표치 상회, 실질 성장률 둔화 우려 상존"
+    ],
+    "signal": "neutral",
+    "signal_reason": "장기 금리 하락은 일부 채권 자산에 기회가 될 수 있으나, 본질적으로는 긴축에 따른 경기 침체 우려를 반영하고 있어 위험자산에 대한 보수적 접근이 필요하기 때문임.",
+    "key_companies": [
+      "미국국채 ETF(TLT)",
+      "S&P500 ETF(SPY)",
+      "나스닥100 ETF(QQQ)"
+    ],
+    "insight": "장기 금리가 기준금리 인상에 역행하여 하락한 것은 시장이 연준의 긴축 성공보다 <span class=\"text-rose-400 font-medium\">'고금리가 유발할 미래 경기 냉각'</span>에 더 큰 무게를 두고 있음을 경고합니다.",
+    "action_point": "주식 비중을 무리하게 확대하지 말고, 장기 국채 분할 매수 및 경기 방어형 밸류 ETF를 병행하는 바벨 전략을 구사하십시오."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "이효석",
+      "기준금리인상",
+      "30년물국채",
+      "수익률곡선역전",
+      "스태그플레이션",
+      "점도표"
+    ]
+  }
+}

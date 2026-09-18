@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "p9HrEf1KnS8",
+    "title": "AI 값이 300분의 1이 됐는데 지출은 세 배가 됐다",
+    "published": "2026-09-18T07:42:36+00:00",
+    "channel_name": "월텍남",
+    "url": "https://www.youtube.com/watch?v=p9HrEf1KnS8",
+    "thumbnail": "https://img.youtube.com/vi/p9HrEf1KnS8/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "지난 3년간 AI 모델 API 사용료가 99.7%(1/300) 급락했음에도 <span class=\"text-amber-300 font-bold\">기업들의 AI 총 지출액은 오히려 320% 급증하는 폭발적 역설</span>이 발생함.\n가격이 파격적으로 저렴해지자 기업들이 사소한 모든 업무에 AI를 투입하고, AI가 또 다른 AI를 연쇄 호출하는 에이전트 워크플로우가 정착됨.\n단일 요청당 수십만 개의 토큰이 순식간에 소모되면서 <span class=\"text-cyan-300 font-semibold\">단가 인하분을 사용량 폭증이 수십 배로 압도하는 구조적 성장 국면</span>임.",
+    "key_claims": [
+      "AI 모델 단가 하락은 서비스 제공사의 매출 감소가 아니라 전면적인 수요 폭발을 유발함.",
+      "사람의 단일 프롬프트가 다중 에이전트 간의 연속 호출을 유발하여 토큰 소비량이 기하급수적으로 팽창함.",
+      "석유 가격이 내리면 운행 거리가 늘어나듯 '제본스의 역설'이 AI 컴퓨팅 시장에서 완벽히 입증됨."
+    ],
+    "data_points": [
+      "API 가격 변동: 3년간 토큰당 사용 요금 99.7% 하락 (약 300분의 1 수준)",
+      "기업 총 지출액: 동일 기간 엔터프라이즈 AI 예산 지출 320% 급증"
+    ],
+    "signal": "bullish",
+    "signal_reason": "단가 인하가 시장 확대를 견인하여 전체 AI 인프라 및 모델 시장 파이를 폭발적으로 키우고 있음이 입증되었기 때문임.",
+    "key_companies": [
+      "오픈AI",
+      "앤트로픽",
+      "엔비디아(NVDA)",
+      "마이크로소프트(MSFT)"
+    ],
+    "insight": "AI가 싸졌다는 것은 지출이 줄어든다는 뜻이 아니라, <span class=\"text-cyan-300 font-semibold\">'너무 저렴해진 나머지 세상의 모든 텍스트와 프로세스를 AI로 처리하느라 전체 청구서가 세 배로 커졌다'</span>는 의미입니다.",
+    "action_point": "단가 인하로 인한 빅테크 수익성 악화 우려는 기우에 불과하므로, 추론 토큰 소비량 폭증의 직접 수혜를 받는 하이퍼스케일러와 반도체주를 매수하십시오."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "AI단가하락",
+      "제본스의역설",
+      "토큰폭증",
+      "기업AI지출",
+      "에이전트호출"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "s9Ke5W8eH6c",
+    "title": "팀 쿡의 첫날 vs 존 터너스의 첫날",
+    "published": "2026-09-10T02:30:00+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=s9Ke5W8eH6c",
+    "thumbnail": "https://img.youtube.com/vi/s9Ke5W8eH6c/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "팀 쿡 CEO의 뒤를 이을 애플의 차기 사령탑으로 유력하게 부상한 <span class=\"text-cyan-300 font-semibold\">존 터너스(John Ternus) 하드웨어 엔지니어링 수석부사장</span>의 리더십 전환을 조명함. 25년간 애플 하드웨어 혁신을 이끌어온 전문성을 바탕으로, 아이폰·맥의 자체 실리콘(Apple Silicon) 도약과 <span class=\"text-cyan-300 font-semibold\">온디바이스 AI 폼팩터 혁신</span>을 이끌 새로운 경영 승계 구도를 제시함.",
+    "key_claims": [
+      "팀 쿡의 공급망 및 운영 중심 리더십에서 하드웨어 기술과 엔지니어링 혁신을 중시하는 존 터너스 체제로의 승계 가시화.",
+      "존 터너스는 애플에서 25년간 호기심과 탁월함을 바탕으로 아이폰, 아이패드, M시리즈 실리콘 설계를 총괄해 온 핵심 인물.",
+      "AI와 폴더블 등 새로운 디바이스 폼팩터 격변기에 엔지니어 출신 리더십이 애플의 하드웨어 완성도를 강화할 것으로 기대."
+    ],
+    "data_points": [
+      "경력 지표: 애플 근속 25년 차 하드웨어 엔지니어링 총괄 수석부사장",
+      "주요 성과: 애플 실리콘(M시리즈, A시리즈) 전환 및 아이폰 폼팩터 슬림화 주도"
+    ],
+    "signal": "neutral",
+    "signal_reason": "애플의 경영권 승계 과정에서 엔지니어링 리더십 강화는 긍정적이나 실제 CEO 교체 일정 및 제품 믹스 변화를 지켜볼 필요가 있기 때문임.",
+    "key_companies": [
+      "애플(AAPL)"
+    ],
+    "insight": "AI 소프트웨어의 범람기일수록 이를 효율적으로 구현할 반도체·냉각·배터리 등 하드웨어 엔지니어링의 정밀함이 빅테크의 차별화 요소로 부각됩니다.",
+    "action_point": "애플의 하드웨어 리더십 개편에 따른 자체 AI 반도체 로드맵과 차세대 폼팩터 공급망 파트너십 추적."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "애플",
+      "팀쿡",
+      "존터너스",
+      "애플차기CEO",
+      "하드웨어리더십"
+    ]
+  }
+}

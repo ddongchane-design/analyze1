@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "5D2qmkYOsFM",
+    "title": "AI 칩이 모자란 진짜 이유는 붙이는 공정에 있다",
+    "published": "2026-09-17T19:59:21+00:00",
+    "channel_name": "월텍남",
+    "url": "https://www.youtube.com/watch?v=5D2qmkYOsFM",
+    "thumbnail": "https://img.youtube.com/vi/5D2qmkYOsFM/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "GPU와 HBM을 다 만들어 놓고도 AI 가속기를 납품하지 못하는 진짜 병목은 <span class=\"text-cyan-300 font-semibold\">대만 TSMC의 2.5D 첨단 패키징 공정인 'CoWoS(Chip-on-Wafer-on-Substrate)' 케파 부족</span> 때문임.\n얇은 실리콘 인터포저 위에 GPU와 HBM을 나란히 실장하는 CoWoS는 수율 확보가 극도로 까다로워 대기 시간만 40주를 상회함.\n엔비디아, 구글, 브로드컴, AMD 4개사가 CoWoS 물량의 90%를 독점하고 있어 <span class=\"text-amber-300 font-bold\">AI 칩 출하량의 결정권은 팹이 아니라 패키징 슬롯 확보 여부</span>에 달려 있음.",
+    "key_claims": [
+      "AI 반도체 쇼티지의 본질은 웨이퍼 식각이 아니라 서로 다른 칩을 하나로 묶는 후공정 패키징 병목임.",
+      "TSMC가 설비 투자를 연 560억 달러로 늘리고 생산량을 76% 확대해도 엔비디아의 예약이 이를 압도함.",
+      "CoWoS 슬롯 배정에서 밀린 후발 칩 제조사는 수주를 받고도 출하량을 강제 삭감당하는 상황임."
+    ],
+    "data_points": [
+      "공정 대기 시간: TSMC CoWoS 패키징 대기 기간 40주 이상",
+      "케파 점유율: 엔비디아, 구글, 브로드컴, AMD 4대 기업이 전체 케파의 90% 독점"
+    ],
+    "signal": "bullish",
+    "signal_reason": "첨단 패키징 병목으로 인해 CoWoS 및 차세대 어드밴스드 패키징 기술을 보유한 TSMC와 관련 국내 장비·기판 생태계의 수혜가 확실하기 때문임.",
+    "key_companies": [
+      "TSMC(TSM)",
+      "엔비디아(NVDA)",
+      "이수페타시스(007660)",
+      "한미반도체(042700)"
+    ],
+    "insight": "AI 반도체 패권의 열쇠는 '누가 더 미세하게 회로를 그리느냐'에서 <span class=\"text-cyan-300 font-semibold\">'누가 GPU와 HBM을 결함 없이 가장 빠르게 한 몸으로 붙여내느냐(패키징)'</span>로 이동했습니다.",
+    "action_point": "TSMC 패키징 공급망 수혜주 및 국내 턴키 어드밴스드 패키징(2.5D/3D) 인프라를 구축 중인 삼성전자와 후공정 장비주를 주목하십시오."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "CoWoS",
+      "TSMC",
+      "첨단패키징",
+      "엔비디아",
+      "반도체병목",
+      "어드밴스드패키징"
+    ]
+  }
+}

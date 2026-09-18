@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "LjyYg8kOi7E",
+    "title": "[언팩 아메리카] 넷플릭스 시대에 역대 최고 매출...영화관은 어떻게 살아났나",
+    "published": "2026-09-18T03:00:06+00:00",
+    "channel_name": "매경월가월부",
+    "url": "https://www.youtube.com/watch?v=LjyYg8kOi7E",
+    "thumbnail": "https://img.youtube.com/vi/LjyYg8kOi7E/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "넷플릭스 등 OTT 스트리밍 전성기 속에서도 북미 올여름 <span class=\"text-amber-300 font-bold\">영화 티켓 매출이 47억 6천만 달러를 기록하며 13년 만에 역대 최고치를 경신</span>함.\n놀란 감독의 '오디세이' 등 전편 아이맥스(IMAX) 70mm 필름 촬영 대작들이 폭발적 인기를 끌며 <span class=\"text-cyan-300 font-semibold\">고가 특수관(IMAX, 돌비) 티켓 단가 상승과 전석 매진</span>을 견인함.\n상영 직전 5분 상업광고(플래티넘 스팟)와 식사 결합 상영관 등 비즈니스 모델 고도화로 극장 체인의 수익성이 극적으로 반등함.",
+    "key_claims": [
+      "단순 관객 수 증가보다 특수관 중심의 객단가(P) 상승이 극장가 사상 최대 매출을 이끎.",
+      "거대한 스크린과 압도적 음향 등 집에서 경험할 수 없는 물리적 몰입감이 관객을 극장으로 다시 불러모음.",
+      "할리우드 파업 종료 후 텐트폴 대작 공급 회복과 광고/식음료 부가 수익 다각화가 안착함."
+    ],
+    "data_points": [
+      "북미 여름 티켓 매출: 47억 6,000만 달러 (2013년 이후 13년 만의 신기록)",
+      "글로벌 박스오피스: 8월 전 세계 영화 티켓 매출 46억 4,500만 달러 역대 8월 최고치"
+    ],
+    "signal": "bullish",
+    "signal_reason": "OTT 위협을 뚫고 프리미엄 특수관 포맷과 콘텐츠 파워를 입증하며 글로벌 극장 및 영화 플랫폼의 구조적 턴어라운드가 확인되었기 때문임.",
+    "key_companies": [
+      "AMC(AMC)",
+      "아이맥스(IMAX)",
+      "시네마크(CNK)"
+    ],
+    "insight": "디지털 편의성이 극대화될수록 역설적으로 <span class=\"text-cyan-300 font-semibold\">'거대한 필름 아이맥스와 사운드가 선사하는 대체 불가능한 프리미엄 현장 경험'</span>에 기꺼이 지갑을 여는 소비 양극화가 뚜렷해집니다.",
+    "action_point": "단순 상영관보다 독점적 특수관 포맷 라이선스를 보유한 글로벌 엔터테인먼트 및 광학 인프라 기업(IMAX 등)에 주목하십시오."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "AMC",
+      "아이맥스70mm",
+      "오디세이",
+      "영화관부활",
+      "티켓매출신기록",
+      "특수관"
+    ]
+  }
+}

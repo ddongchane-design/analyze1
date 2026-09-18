@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "XpubPMH0dA4",
+    "title": "AI 인류 멸망론은 진짜일까 | 월가백브리핑",
+    "published": "2026-09-13T03:00:16+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=XpubPMH0dA4",
+    "thumbnail": "https://img.youtube.com/vi/XpubPMH0dA4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "오픈AI 핵심 연구원의 퇴사와 AI 안전 규제(킬스위치) 논쟁이 촉발한 <span class=\"text-rose-400 font-semibold\">'AI 인류 멸망론'의 실체와 빅테크 규제 리스크</span>를 진단함. 거대 AI 랩들이 안전성을 명분으로 후발 주자의 진입 장벽을 세우려는 '사다리 걷어차기' 전략 가능성을 짚고, 자체 거대 모델이 부재한 <span class=\"text-cyan-300 font-semibold\">애플의 장기 AI 에이전트 종속 위험</span>을 지적함.",
+    "key_claims": [
+      "오픈AI 및 앤트로픽 출신 인사들이 제기하는 AI 파멸론과 킬스위치 법안은 후발 주자를 배제하려는 자본 독점 규제 명분으로도 작용.",
+      "소셜미디어 규제 소송에 20년이 걸렸듯, AI 규제가 단기간에 빅테크의 수익 창출 레이스를 중단시키기는 어려움.",
+      "AI 에이전트가 스마트폰 OS를 우회하는 환경이 도래할 경우, 자체 파운데이션 모델이 없는 애플의 플랫폼 헤게모니가 위협받을 수 있음."
+    ],
+    "data_points": [
+      "규제 및 소송: 메타 숏폼 청소년 유해 소송 및 대규모 합의금 전례",
+      "산업 동향: AGI 선언 직후 오픈AI의 선도 AI 랩 개발 속도 조절 협의 제안"
+    ],
+    "signal": "neutral",
+    "signal_reason": "AI 규제 논쟁이 기술주 투자 심리를 단기 위축시키고 있으나, 빅테크의 실질적 상업화 및 자본 투자는 지속되고 있기 때문임.",
+    "key_companies": [
+      "오픈AI(OpenAI)",
+      "마이크로소프트(MSFT)",
+      "애플(AAPL)",
+      "알파벳(GOOGL)"
+    ],
+    "insight": "AI 규제 공포는 역설적으로 시장을 선점한 최상위 빅테크의 독점력을 강화하는 해자가 될 수 있으며, 자체 모델을 가진 플랫폼 기업의 우위가 지속됩니다.",
+    "action_point": "자체 AI 모델 경쟁력이 취약한 하드웨어 조립사보다 독자 파운데이션 모델과 생태계를 보유한 빅테크 플랫폼 집중 유지."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "AI멸망론",
+      "오픈AI",
+      "킬스위치",
+      "규제리스크",
+      "애플"
+    ]
+  }
+}

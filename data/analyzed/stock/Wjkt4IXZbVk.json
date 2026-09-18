@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "Wjkt4IXZbVk",
+    "title": "지금 한국 증시에서 벌어지고 있는 일 | 빈센트 하나증권 애널리스트 [주말인터뷰]",
+    "published": "2026-09-12T02:00:05+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=Wjkt4IXZbVk",
+    "thumbnail": "https://img.youtube.com/vi/Wjkt4IXZbVk/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 10년물 국채금리가 <span class=\"text-amber-300 font-semibold\">5% 돌파 목전</span>에 도달하며 코스피 7,000선이 붕괴된 국내외 증시의 내부 체력을 해부함. S&P 500 내부에서 200일선을 하회하는 종목이 급증하는 체력 약화 현상, <span class=\"text-cyan-300 font-semibold\">SK하이닉스 ADR과 국내 본주 간 괴리율 수렴</span> 시나리오, 그리고 9월 24일 예정된 미중 워싱턴 금융 회담에서의 미국채 매각 중단 합의 가능성을 종합 진단함.",
+    "key_claims": [
+      "겉보기에 견고한 미국 주요 지수와 달리 S&P 500 내 200일 이동평균선을 이탈한 개별 종목이 급증하며 질적 체력 악화.",
+      "SK하이닉스 미국 ADR이 50% 수준의 프리미엄을 형성하고 있어 결국 본주 상승 또는 ADR 조정 형태로 키 맞추기가 전개될 전망.",
+      "9월 24일 미중 워싱턴 고위급 회담에서 미국의 장기 자금 부족과 중국의 유동성 운용처 부재가 맞물려 중국의 미국채 매도 중단 등 모종의 금융 합의 기대."
+    ],
+    "data_points": [
+      "금리 지표: 미국 10년 만기 국채금리 5.0% 터치 목전",
+      "ADR 지표: SK하이닉스 ADR 프리미엄 49~51% 고공행진"
+    ],
+    "signal": "neutral",
+    "signal_reason": "단기 국채금리 5% 충격에 따른 지수 하방 압력과 미중 금융 협상 및 ADR 키맞추기 반등 기대감이 팽팽히 맞서기 때문임.",
+    "key_companies": [
+      "SK하이닉스(000660)",
+      "삼성전자(005930)"
+    ],
+    "insight": "지수의 겉모습만 보지 말고 200일선 이탈 종목 비율과 ADR 프리미엄 같은 내부 수급 괴리를 추적해야 변곡점을 선제적으로 포착할 수 있습니다.",
+    "action_point": "국채금리 5% 테스트 과정에서 국내 본주와 해외 ADR 간 괴리율이 극대화된 SK하이닉스를 중심으로 저가 분할 매수 대응."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "빈센트",
+      "국채금리5%",
+      "ADR괴리율",
+      "미중회담",
+      "삼프로TV"
+    ]
+  }
+}

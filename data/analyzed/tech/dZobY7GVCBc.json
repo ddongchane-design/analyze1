@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "dZobY7GVCBc",
+    "title": "OpenAI공식 '안쓰면 바보되는' 핵심 꿀팁 2가지 까지 요약했습니다.",
+    "published": "2026-09-11T02:48:30+00:00",
+    "channel_name": "월텍남",
+    "url": "https://www.youtube.com/watch?v=dZobY7GVCBc",
+    "thumbnail": "https://img.youtube.com/vi/dZobY7GVCBc/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "오픈AI의 GPT-6 아스트라 발표 후 화면을 직접 보며 키보드와 마우스를 조작하는 <span class=\"text-cyan-300 font-semibold\">'컴퓨터 유즈(Computer Use)' 기술</span>이 3D 블렌더 모델링과 고난도 게임을 실시간 제작하는 수준에 이름. 실무 활용에 있어 무조건 비싼 최상위 모델보다 <span class=\"text-amber-300 font-bold\">파레토 최적 지점인 '아스트라 미디엄(1.54달러)' 추론 단계</span>를 선택하고 불필요한 규칙을 덜어내는 것이 비용 효율을 극대화하는 핵심 전략임.",
+    "key_claims": [
+      "인간이 90년간 풀지 못했던 나비에-스토크스 방정식 문제를 아스트라 1만 개가 88시간 동안 자율 작동해 해결함.",
+      "화면 픽셀을 인식하고 마우스 커서를 제어하는 컴퓨터 유즈 기술이 완벽해지며 물리적 로봇 제어로의 확장이 가시화됨.",
+      "최고가 모델(맥스/페이블) 대비 아스트라 미디엄 모델이 1/5 가격으로 95% 수준의 퍼포먼스를 제공하는 최고의 가성비 구간임.",
+      "오픈AI와 엔트로픽이 압도적 슈퍼컴퓨팅 파워를 활용해 'AI가 차세대 가성비 AI를 낳는 자가 개선(Self-Improvement)' 증류 루프를 독점함."
+    ],
+    "data_points": [
+      "모델 가성비(파레토 곡선): 아스트라 미디엄 1.54달러(50점) vs 클로드 페이블 7.63달러(53점)",
+      "수학 난제 해결: 나비에-스토크스 방정식 88시간 연속 1만 개 인스턴스 연산 해결"
+    ],
+    "signal": "bullish",
+    "signal_reason": "AI가 인간의 PC 인터페이스를 완벽 대체하고 초고효율 가성비 모델을 자체 생산하며 B2B 침투 속도가 가속화되기 때문임.",
+    "key_companies": [
+      "오픈AI(OpenAI)",
+      "앤트로픽(Anthropic)",
+      "마이크로소프트(MSFT)"
+    ],
+    "insight": "AI 기업의 진정한 경제적 해자는 단순 모델 파라미터가 아니라, <span class=\"text-cyan-300 font-semibold\">'더 똑똑한 AI를 낳기 위해 쏟아붓는 압도적인 슈퍼컴퓨팅 파워 규모'</span>입니다.",
+    "action_point": "비싼 API 비용을 지출하는 대신 아스트라 미디엄 추론 레벨을 활용해 소프트웨어 개발 원가를 절감하고 마이크로소프트 인프라에 주목할 것."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "GPT6아스트라꿀팁",
+      "컴퓨터유즈",
+      "파레토가성비모델",
+      "자가개선AI",
+      "컴퓨팅파워해자",
+      "월텍남"
+    ]
+  }
+}

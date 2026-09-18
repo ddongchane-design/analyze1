@@ -1,0 +1,41 @@
+{
+  "video": {
+    "id": "xmncQzgO_bw",
+    "title": "배 타고 1시간 가야 나오는 왕돌초 해양과학기지의 정체",
+    "published": "2026-09-17T11:00:02+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=xmncQzgO_bw",
+    "thumbnail": "https://img.youtube.com/vi/xmncQzgO_bw/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "울진 후포항 동쪽 25km 바다 한가운데 위치한 왕돌초 해양과학기지에서 <span class=\"text-cyan-300 font-semibold\">동해 수온 상승 및 생태계 아열대화를 추적하는 첨단 해양 관측 시스템</span>이 가동 중임.\n난류와 한류가 교차하는 지정학적 요충지에서 CTD 장비를 통한 수온·염분 측정과 <span class=\"text-amber-300 font-bold\">CCTV 영상 데이터에 AI 비전 인식 기술을 결합</span>해 신규 어종 유입을 실시간 자동 감지함.\n버려지던 방대한 해양 영상 데이터를 인공지능으로 구조화하여 동해 기후변화 예측 및 국가 해양 자원 관리를 고도화함.",
+    "key_claims": [
+      "왕돌초 기지는 아파트 10층 높이(30m)의 대형 철골 구조물로 험난한 외해에서 무인 연속 관측을 수행함.",
+      "AI 비전 기술의 접목으로 과거 수작업 판독이 불가능했던 방대한 수중 생태계 데이터를 정밀 지표화함.",
+      "동해바다의 온대-아열대 어종 혼재 현상을 조기 포착하여 기후 위기 대응 데이터베이스를 구축함."
+    ],
+    "data_points": [
+      "기지 위치: 경북 울진 후포항 동쪽 약 25km 외해 해상",
+      "구조물 규모: 해수면 위 높이 약 30m, 태양광 패널 및 납축전지 110개 기반 독립 전력망"
+    ],
+    "signal": "neutral",
+    "signal_reason": "국가 해양 기후 관측 및 AI 응용 기술에 관한 교양 과학 탐사 콘텐츠로 금융 자산에 미치는 영향은 중립적이기 때문임.",
+    "key_companies": [],
+    "insight": "AI 기술의 침투는 도심의 사무실을 넘어 <span class=\"text-cyan-300 font-semibold\">'거친 외해 한가운데서 실시간으로 기후 변화와 생태계 데이터를 수집·분석하는 지구적 센서망'</span>으로 확장되고 있습니다.",
+    "action_point": "해양 기후변화 데이터 및 국책 연구기관의 친환경 해양 솔루션 디지털화 트렌드를 참고하십시오."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "왕돌초",
+      "해양과학기지",
+      "키오스트",
+      "동해기후변화",
+      "해양데이터",
+      "AI해양분석"
+    ]
+  }
+}

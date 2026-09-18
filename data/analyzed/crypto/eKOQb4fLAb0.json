@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "eKOQb4fLAb0",
+    "title": "비트코인·이더리움 다음은? 알트코인 오르는 순서가 있다",
+    "published": "2026-09-12T04:00:33+00:00",
+    "channel_name": "디파이 농부 조선생 | Professor Jo",
+    "url": "https://www.youtube.com/watch?v=eKOQb4fLAb0",
+    "thumbnail": "https://img.youtube.com/vi/eKOQb4fLAb0/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "크립토 강세장에서 알트코인의 상승 순서는 1차 실적 기반 토큰(<span class=\"text-cyan-300 font-semibold\">유니스왑</span>, <span class=\"text-cyan-300 font-semibold\">비텐서 TAO</span>)에서 2차 기대감 및 파생 인프라(<span class=\"text-cyan-300 font-semibold\">아비트럼</span>, <span class=\"text-cyan-300 font-semibold\">베니스</span>, <span class=\"text-cyan-300 font-semibold\">펜들</span>)로 순환하는 패턴을 보임. 특히 실제 프로토콜 매출을 바탕으로 토큰을 바이백 소각하는 구조와 토큰화 주식(RWA) 생태계의 파생상품 확장에 주목해야 함.",
+    "key_claims": [
+      "알트코인 상승은 1차 '숫자/수수료 실적'이 확인되는 대장주에서 2차 '생태계 기대감/파생 인프라' 종목으로 자금이 이동함.",
+      "토큰화 주식(RWA) 시장은 '거래(유니스왑/베이스)' → '담보 대출(메이커/에이브)' → '배당·이자 구조화 상품(펜들)' 순으로 고도화됨.",
+      "베니스(VV)는 연환산 1억 달러 수준의 AI API 매출을 바탕으로 지속적인 토큰 바이백 소각 메커니즘을 확립함."
+    ],
+    "data_points": [
+      "가격 변동률: 유니스왑 실적 기반 112% 상승, 아비트럼 106% 후행 상승",
+      "베니스(VV) 지표: 연환산 매출 1억 달러 달성 및 API 매출 100달러당 5달러 토큰 바이백 투입"
+    ],
+    "signal": "bullish",
+    "signal_reason": "실제 온/오프체인 현금흐름과 바이백 메커니즘을 갖춘 프로젝트들이 시장 주도주로 안착하며 질적 성장 국면으로 진입 중이기 때문임.",
+    "key_companies": [
+      "유니스왑(UNI)",
+      "아비트럼(ARB)",
+      "펜들(PENDLE)",
+      "코인베이스(Coinbase)"
+    ],
+    "insight": "과거 단순 밈이나 내러티브 중심의 알트코인 랠리와 달리, 이번 사이클에서는 실제 프로토콜 수수료 및 바이백 펀더멘털을 입증한 자산이 1차 시세를 형성한 뒤 구조화 디파이로 온기가 확산됩니다.",
+    "action_point": "토큰화 주식 거래 활성화 수혜를 직접 받는 탈중앙화 거래소 및 이자/배당 구조화 프로토콜(펜들)에 대한 분할 매수 전략 수립."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "tech",
+      "stock"
+    ],
+    "tags": [
+      "알트코인순환매",
+      "디파이",
+      "토큰화주식",
+      "RWA",
+      "베니스",
+      "유니스왑"
+    ]
+  }
+}

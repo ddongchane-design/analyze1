@@ -1,0 +1,37 @@
+{
+  "video": {
+    "id": "5LM2pNIvnuU",
+    "title": "의사들 싸움에 환자 등 터진 이야기",
+    "published": "2026-09-12T02:15:01+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=5LM2pNIvnuU",
+    "thumbnail": "https://img.youtube.com/vi/5LM2pNIvnuU/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "동맥경화 예방에 유용한 <span class=\"text-cyan-300 font-semibold\">고감도 C-반응성 단백질(HS-CRP)</span> 검사가 의학적 유효성에도 불구하고 표준 진료 가이드라인 진입에 난항을 겪은 배경에는 특정 연구자의 상업적 특허 등록과 의학계 내부의 세력 다툼이 존재함. 학술적 혁신이 상업적 특허 권리 및 의료 기득권의 이해관계와 충돌할 때 환자들이 조기 진단 혜택에서 소외되는 구조적 모순을 지적함.",
+    "key_claims": [
+      "폴 리드커 박사가 HS-CRP의 동맥경화 진단 목적 측정법을 개인 특허로 등록하면서 의사 사회의 거센 반발을 촉발함.",
+      "가이드라인에 의무 검사로 반영될 경우 특정 연구자에게 막대한 로열티가 집중된다는 반감으로 인해 도입이 장기간 지연됨.",
+      "의료계 내부의 라이선스 갈등과 상업성 논란이 궁극적으로 심혈관 질환 조기 발견 기회를 놓치게 만드는 부작용을 낳음."
+    ],
+    "data_points": [
+      "진단 기술: 동맥경화 예측 바이오마커 HS-CRP(High-Sensitivity C-Reactive Protein)"
+    ],
+    "signal": "neutral",
+    "signal_reason": "의료계 특허 분쟁과 진단 표준화 프로세스의 이면을 분석한 교양 콘텐츠임.",
+    "key_companies": [],
+    "insight": "의학적 발견의 가치는 과학적 진실 자체뿐만 아니라 <span class=\"text-amber-300 font-bold\">'의료계 생태계의 공공성 및 라이선스 수용성'</span>과 맞물려 결정됩니다.",
+    "action_point": "바이오·헬스케어 투자 시 임상적 우수성뿐 아니라 표준 치료 가이드라인 등재 여부와 특허 독점에 따른 의료계 저항 요소를 반드시 점검할 것."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [],
+    "tags": [
+      "HSCRP특허",
+      "의료가이드라인",
+      "의학계이권다툼",
+      "동맥경화검사",
+      "언더스탠딩"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "EokYIv6Ap1s",
+    "title": "삼성 전 직원의 충격적인 자백",
+    "published": "2026-09-11T11:00:32+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=EokYIv6Ap1s",
+    "thumbnail": "https://img.youtube.com/vi/EokYIv6Ap1s/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "중국 반도체 기업들의 기술 추격이 가속화되며 <span class=\"text-cyan-300 font-semibold\">YMTC(양쯔메모리)</span>가 마이크론과 키옥시아를 제치고 글로벌 낸드플래시 시장 세계 3위로 도약함. YMTC는 이미 267단 3D 낸드 양산에 성공하여 SK하이닉스의 321단 최고 수준 기술력과의 격차를 급속히 좁히며 국내 반도체 공급망에 강력한 <span class=\"text-rose-400 font-semibold\">지정학적 추격 위협</span>을 가하고 있음.",
+    "key_claims": [
+      "삼성전자 및 국내 반도체 인력의 기술 유출을 계기로 중국 CXMT·YMTC의 국산화 및 양산 역량이 급성장함.",
+      "YMTC가 2026년 2분기 마이크론과 키옥시아를 제치고 글로벌 낸드 점유율 3위 달성.",
+      "8월 12일 YMTC가 267단 3D 낸드 양산에 성공하며 선두 SK하이닉스(321단)와의 격차를 1년 이내로 단축함."
+    ],
+    "data_points": [
+      "시장 순위: YMTC 2026년 2분기 글로벌 낸드플래시 점유율 3위 도약",
+      "양산 스펙: YMTC 267단 3D 낸드 양산 성공 (SK하이닉스 321단 대비 54단 차이)"
+    ],
+    "signal": "neutral",
+    "signal_reason": "한국 메모리 기업의 단기 HBM 경쟁력은 견고하나, 범용 낸드 플래시 부문에서 중국의 초고속 추격에 따른 단가 인하 및 점유율 잠식 우려가 상존하기 때문임.",
+    "key_companies": [
+      "YMTC",
+      "CXMT",
+      "삼성전자(005930)",
+      "SK하이닉스(000660)",
+      "마이크론(Micron)"
+    ],
+    "insight": "낸드플래시 시장에서 중국 정부의 막대한 보조금을 등에 업은 YMTC의 침투는 레거시 낸드 마진 축소를 촉발할 것이며, 국내 기업들은 차세대 고부가 V-NAND 및 AI 스토리지 솔루션으로의 빠른 전환이 필수적입니다.",
+    "action_point": "국내 반도체 섹터 투자 시 범용 낸드 노출도가 높은 서플라이체인보다 HBM 및 고단수 패키징 독점 장비주 중심으로 포트폴리오 압축."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "중국반도체",
+      "YMTC",
+      "CXMT",
+      "3D낸드267단",
+      "반도체기술탈취"
+    ]
+  }
+}

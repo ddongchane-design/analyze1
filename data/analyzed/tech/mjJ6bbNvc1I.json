@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "mjJ6bbNvc1I",
+    "title": "AI 주가를 가로막는 리스크가 무엇인지 알아보았습니다 | 박신영의 월가아나토미",
+    "published": "2026-09-18T01:00:14+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=mjJ6bbNvc1I",
+    "thumbnail": "https://img.youtube.com/vi/mjJ6bbNvc1I/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "월가에서 AI 투자가 기대감 중심의 1막을 지나 <span class=\"text-rose-400 font-medium\">'통제 안전성, 인프라 전력 병목, 밸류에이션 과열'이라는 3대 리스크를 검증받는 증명의 시간</span>에 돌입함.\n채권왕 제프리 건들락은 실러 CAPE 지수가 35를 초과한 과열 국면을 경고하며 주식 비중을 축소하고 AI 진원지 탈출을 권고함.\n모든 종목이 동반 상승하던 시기는 끝났으며, <span class=\"text-cyan-300 font-semibold\">실제 수주 잔고와 클라우드 마진을 방어하는 빅테크 옥석 가리기</span>가 진행 중임.",
+    "key_claims": [
+      "앤트로픽 CEO 등의 AI 위험 경고는 속도 조절 논쟁을 촉발했으나 산업의 치열한 경쟁으로 개발은 가속화됨.",
+      "중국산 저가 오픈소스 AI 모델의 범람은 미국 빅테크의 서비스 가격과 마진 회수 기간을 압박할 수 있음.",
+      "결국 막대한 현금흐름과 클라우드 수익화 파이프라인을 갖춘 소수 플랫폼만이 증명의 시간을 통과할 것임."
+    ],
+    "data_points": [
+      "밸류에이션 지표: S&P500 실러 CAPE(경기조정 주가수익비율) 35선 근접",
+      "월가 거물 뷰: 제프리 건들락 주식 비중 40%→30% 축소 권고"
+    ],
+    "signal": "neutral",
+    "signal_reason": "AI 산업의 장기 방향성은 불변이나 밸류에이션 부담과 차입금 리스크로 인해 종목별 주가 양극화가 불가피하기 때문임.",
+    "key_companies": [
+      "마이크로소프트(MSFT)",
+      "알파벳(GOOGL)",
+      "오라클(ORCL)",
+      "스노우플레이크(SNOW)"
+    ],
+    "insight": "AI 투자는 이제 '꿈의 크기'로 매수하는 장세가 아니며, <span class=\"text-cyan-300 font-semibold\">'투자한 천문학적 CapEx를 초과하는 실제 현금 흐름을 회수할 수 있는가'</span>를 증명해야 하는 냉혹한 시험대입니다.",
+    "action_point": "부채 비율이 높고 스토리로만 급등한 중소형 AI 테마주는 비중을 줄이고, 수주 잔고가 검증된 메가캡 클라우드 과점주로 방어벽을 구축하십시오."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "AI리스크",
+      "증명의시간",
+      "건들락",
+      "앤트로픽안전성",
+      "인프라병목",
+      "옥석가리기"
+    ]
+  }
+}

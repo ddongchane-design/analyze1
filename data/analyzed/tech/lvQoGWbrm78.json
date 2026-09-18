@@ -1,0 +1,42 @@
+{
+  "video": {
+    "id": "lvQoGWbrm78",
+    "title": "How long is the film used for Odyssey, shot entirely on IMAX?",
+    "published": "2026-09-17T06:28:36+00:00",
+    "channel_name": "안될공학 - IT 테크 신기술",
+    "url": "https://www.youtube.com/watch?v=lvQoGWbrm78",
+    "thumbnail": "https://img.youtube.com/vi/lvQoGWbrm78/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "영화 오디세이 제작 과정에서 전편 아이맥스(IMAX) 70mm 필름 촬영을 구현하기 위한 <span class=\"text-cyan-300 font-semibold\">초정밀 방음 하우징 및 카메라 기계공학 혁신</span>이 공개됨.\n분당 100m 속도로 구동되는 필름 모터의 소음을 차단하는 블림프 기술을 통해 <span class=\"text-cyan-300 font-semibold\">조용한 실내 대화 장면의 동시 녹음</span>을 완벽 구현함.\n총 210만 피트(약 640km)에 이르는 초거대 필름 운용은 상업 영화의 시각적·기술적 한계를 다시 한번 확장함.",
+    "key_claims": [
+      "아이맥스 필름 카메라는 거대한 소음 문제로 과거 조용한 대화 씬 촬영이 불가능했으나 신형 블림프 시스템으로 극복함.",
+      "대형 장비로 인한 시선 차단을 거울 광학계를 통해 배우 간 아이컨택을 유지하도록 특수 설계함.",
+      "디지털 시네마 시대에도 압도적인 해상도와 필름 특유의 계조를 확보하기 위한 광학·음향 엔지니어링의 정점을 보여줌."
+    ],
+    "data_points": [
+      "사용 필름 규모: 210만 피트 (약 640km 길이)",
+      "필름 이동 속도: 분당 100m 이상 고속 전송 및 프레임 정밀 고정"
+    ],
+    "signal": "neutral",
+    "signal_reason": "특수 영상 광학 장비 및 영화 촬영 기술의 혁신적인 사례이나 상장 기업 주가 및 산업 전반에 미치는 즉각적인 금융 영향은 중립적이기 때문임.",
+    "key_companies": [
+      "아이맥스(IMAX)"
+    ],
+    "insight": "디지털 전환 속에서도 아날로그 필름의 물성을 유지하기 위해 <span class=\"text-cyan-300 font-semibold\">'정밀 기계공학과 광학·방음 엔지니어링'</span>을 극한으로 결합한 대표적 기술 융합 사례입니다.",
+    "action_point": "프리미엄 극장 포맷(IMAX, 돌비 시네마 등) 기술 고도화에 따른 글로벌 특수 영상 장비 및 음향 솔루션 시장 동향을 참고하십시오."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "etc"
+    ],
+    "tags": [
+      "아이맥스",
+      "오디세이",
+      "카메라기술",
+      "필름촬영",
+      "음향엔지니어링"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "3UA7xwbfQPI",
+    "title": "[9월 FOMC 생중계] 워시 의장 기자회견 집중분석 | 해설 김현석·박신영 뉴욕특파원",
+    "published": "2026-09-17T06:29:21+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=3UA7xwbfQPI",
+    "thumbnail": "https://img.youtube.com/vi/3UA7xwbfQPI/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "9월 FOMC에서 연준이 25bp 금리 인상을 단행한 가운데, 케빈 워시 의장이 <span class=\"text-amber-300 font-bold\">'인플레이션 목표 2% 복귀 속도가 불충분하다'</span>며 명확한 추가 긴축 의지를 천명함.\n시장 일각에서 제기된 '단발성 인상 후 동결' 기대를 완전히 차단하고 <span class=\"text-rose-400 font-medium\">원자재 가격 상승과 서비스 물가 고착화에 대한 강력한 방어선</span>을 구축함.\n과거 긴축 사이클의 역사적 통계를 근거로 볼 때 1~2회에 그치지 않고 <span class=\"text-rose-400 font-medium\">최소 100bp 수준의 누적 인상 가능성</span>까지 열어두며 국채금리 급등을 촉발함.",
+    "key_claims": [
+      "워시 의장은 취임 후 첫 기자회견에서 중앙은행의 물가 안정 책무를 재차 확인하며 정치적 압력에 흔들리지 않겠다는 신호를 줌.",
+      "6개월 및 12개월 기준 다수 품목에서 3%를 웃도는 물가 상승 압력이 지속되어 통화 규율(Monetary Discipline) 유지가 불가피함.",
+      "역사적으로 2차대전 이후 18번의 긴축 사이클 중 3회 미만으로 끝난 경우는 4번에 불과해 연속 인상 리스크를 경계해야 함."
+    ],
+    "data_points": [
+      "금리 결정: 기준금리 25bp 인상 (연방기금금리 목표 범위 상향)",
+      "물가 현황: 핵심 원자재 및 서비스 물가 다수 항목이 3% 이상 유지 중"
+    ],
+    "signal": "bearish",
+    "signal_reason": "워시 의장이 강력한 물가 억제 의지와 함께 추가 인상 가능성을 열어두어 단기 긴축 종료를 기대하던 주식·채권 시장 전반에 찬물을 끼얹었기 때문임.",
+    "key_companies": [
+      "JP모건(JPM)",
+      "뱅크오브아메리카(BAC)",
+      "테슬라(TSLA)",
+      "엔비디아(NVDA)"
+    ],
+    "insight": "워시 연준은 인플레이션 둔화 착시를 경계하고 있으며, <span class=\"text-amber-300 font-bold\">'중립금리 상향과 장기 고금리 유지'</span>를 통해 시장 유동성을 철저히 통제하겠다는 확고한 노선을 택했습니다.",
+    "action_point": "추가 금리 인상 가능성을 감안하여 고부채·적자 기업에 대한 투자 비중을 축소하고, 금리 상승기 순이자마진(NIM) 방어가 가능한 대형 금융주와 배당주로 헷지하십시오."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "FOMC생중계",
+      "워시의장",
+      "기준금리",
+      "긴축사이클",
+      "중립금리",
+      "뉴욕특파원"
+    ]
+  }
+}

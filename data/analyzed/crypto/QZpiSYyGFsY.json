@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "QZpiSYyGFsY",
+    "title": "글로벌 거물들 총 집합, 크립토 시장 판도 바뀔까? | 서동주, 김동환, 김준우 쟁글 대표",
+    "published": "2026-09-10T06:00:14+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=QZpiSYyGFsY",
+    "thumbnail": "https://img.youtube.com/vi/QZpiSYyGFsY/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "KBW 행사에 아폴로, 테더, 로빈후드 등 글로벌 금융 거물들이 대거 방한했으나, 한국 가상자산 시장이 실질적인 토큰화 주식(RWA) 및 기관 유동성을 흡수하기 위해서는 <span class=\"text-amber-300 font-semibold\">'원화 기반 스테이블코인'과 디파이 인프라 확립</span>이 선결되어야 함. 기반 제도 없이 주식 토큰화만 서두를 경우 실질 유동성 창출 없이 공회전할 위험이 있어 <span class=\"text-cyan-300 font-semibold\">제도적 인프라 완성까지 시간이 소요</span>될 전망임.",
+    "key_claims": [
+      "글로벌 금융 기관들의 방한에도 불구하고 원화 스테이블코인이 부재하면 해외 RWA 유동성과의 상호운용성 확보 불가능.",
+      "단순 주식 토큰 발행을 넘어 주식을 담보로 대출받고 배당·이자를 합성하는 디파이 기반이 결합되어야만 토큰화 주식의 실익이 발생함.",
+      "규제 명확화와 지급결제형 통화 인프라의 단계적 정비가 선행되어야 기관 자금의 대규모 온체인 유입이 가능함."
+    ],
+    "data_points": [
+      "참여 기관: 테더(Tether), 아폴로(Apollo), 로빈후드(Robinhood) 등 글로벌 초대형 금융사",
+      "병목 요인: 국내 원화 스테이블코인 제도화 지연 및 기관 디파이 참여 제한"
+    ],
+    "signal": "neutral",
+    "signal_reason": "글로벌 기관의 관심은 매우 뜨거우나 국내 법제화 및 스테이블코인 인프라 미비로 실질적인 상용화 수혜까지는 시차가 존재하기 때문임.",
+    "key_companies": [
+      "로빈후드(HOOD)",
+      "테더(Tether)",
+      "아폴로(Apollo)",
+      "쟁글(Xangle)"
+    ],
+    "insight": "토큰화 주식(RWA)의 본질은 자산의 블록체인 등록이 아니라 글로벌 디파이 유동성 풀과의 결합에 있으므로, 결제형 스테이블코인 허용 법안 통과가 핵심 변수입니다.",
+    "action_point": "RWA 테마에 대한 단기 과열 추격을 피하고, 규제 친화적 스테이블코인 발행 인프라 및 토큰 증권 컨소시엄 참여 기업의 진행 경과 추적."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "stock",
+      "economy"
+    ],
+    "tags": [
+      "KBW2026",
+      "토큰화주식",
+      "원화스테이블코인",
+      "디파이인프라",
+      "삼프로TV"
+    ]
+  }
+}

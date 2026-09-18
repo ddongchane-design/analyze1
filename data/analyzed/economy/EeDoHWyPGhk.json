@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "EeDoHWyPGhk",
+    "title": "Checking China's Consumption Trends | Visible China | 9/17/2026 (Thu)",
+    "published": "2026-09-17T06:30:21+00:00",
+    "channel_name": "Smart Money by MiraeAsset ",
+    "url": "https://www.youtube.com/watch?v=EeDoHWyPGhk",
+    "thumbnail": "https://img.youtube.com/vi/EeDoHWyPGhk/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "상하이 관광 페스티벌 등 인파 집중에도 불구하고 <span class=\"text-rose-400 font-medium\">중국 내수 가계 소비의 구조적 침체와 양극화</span>가 지속되고 있음.\n부동산 침체와 고용 불안으로 가계 단기 대출은 5년 내 최저치를 기록하고 저축 잔고만 증가하는 <span class=\"text-amber-300 font-bold\">'불안형 저축 현상'</span>이 고착화됨.\n자동차·가전 등 대형 내구재 소비는 급감한 반면, 여행·공연 등 <span class=\"text-cyan-300 font-semibold\">경험형 서비스 소비('티켓 경제')</span>에만 선별적 회복세가 국한됨.",
+    "key_claims": [
+      "중국 소비 부진의 본질은 쓸 돈이 없는 것이 아니라 부동산 및 소득 미래 불확실성에 따른 소비 심리 위축임.",
+      "과거 정부 주도의 이구환신(보조금 교체) 정책 효과가 소진되며 자동차와 인테리어 등 고가 내구재 소비는 마이너스로 전환됨.",
+      "서비스·관광 소비가 늘더라도 기업 간 출혈 할인 경쟁이 심화되어 소비재 기업들의 마진 개선은 극히 제한적임."
+    ],
+    "data_points": [
+      "대출 지표: 중국 단기 가계 대출 규모 최근 5년 내 최저 수준 기록",
+      "소비 항목: 여행·문화·레저 소비 약 10% 증가 vs 자동차·건축자재 소비 급감"
+    ],
+    "signal": "neutral",
+    "signal_reason": "경험형 소비 중심의 부분 회복이 나타나고 있으나 전반적인 가계 지출 여력과 소비재 기업 수익성 반등을 확인하기까지는 저가 매수 진입이 성급하기 때문임.",
+    "key_companies": [
+      "트립닷컴(TCOM)",
+      "알리바바(BABA)",
+      "텐센트(0700.HK)",
+      "비야디(002594.SZ)"
+    ],
+    "insight": "중국 소비는 '양적 팽창'에서 <span class=\"text-cyan-300 font-semibold\">'가성비 중심의 경험형 지출(티켓 경제)'</span>로 구조적 체질 전환 중이며, 단순 부양책만으로 과거의 소비 대국 복귀는 요원합니다.",
+    "action_point": "중국 내수 관련주의 무조건적인 낙폭과대 저가 매수를 지양하고, 서비스 소비 반등의 직접 수혜를 받는 독점적 여행·플랫폼 선도주 위주로 압축 대응하십시오."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "중국소비",
+      "보이는차이나",
+      "상하이여행제",
+      "이구환신",
+      "가계저축",
+      "티켓경제"
+    ]
+  }
+}

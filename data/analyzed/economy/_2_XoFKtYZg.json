@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "_2_XoFKtYZg",
+    "title": "AI시대 환율 보는법｜한국 원｜일본 엔｜The Economistㅣ2026.9.18(금)",
+    "published": "2026-09-18T04:48:03+00:00",
+    "channel_name": "Smart Money by MiraeAsset ",
+    "url": "https://www.youtube.com/watch?v=_2_XoFKtYZg",
+    "thumbnail": "https://img.youtube.com/vi/_2_XoFKtYZg/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "영국 이코노미스트(The Economist) 분석을 통해 <span class=\"text-cyan-300 font-semibold\">AI 산업 혁명이 한국 원화와 일본 엔화의 통화 가치에 미치는 차별적 메커니즘</span>을 조명함.\n한국은 고대역폭메모리(HBM) 등 글로벌 AI 가속기 필수 하드웨어 공급망을 과점하여 막대한 수출 흑자를 기록, <span class=\"text-amber-300 font-bold\">원화의 구조적 지지력과 방어력</span>을 확보함.\n반면 일본은 소프트웨어·서비스 수입 적자와 완만한 금리 인상 기조로 인해 엔화의 추세적 강세 전환에 상대적 제약이 따름.",
+    "key_claims": [
+      "AI 시대의 환율은 단순 내외 금리차뿐만 아니라 첨단 AI 밸류체인 수출을 통한 경상수지 흑자 역량에 좌우됨.",
+      "한국의 메모리 반도체 수출 호조는 원화 가치 절하 압력을 흡수하는 강력한 안전판 역할을 수행함.",
+      "엔화는 일본은행(BOJ)의 정책 정상화 속도와 에너지 수입 의존도에 따라 변동성을 지속할 것임."
+    ],
+    "data_points": [
+      "한국 반도체 수출: HBM 중심 AI 메모리 수출액 역대급 증가세 기록",
+      "통화 펀더멘털: IT 수출 슈퍼사이클에 따른 한국 경상수지 흑자 기여도 확대"
+    ],
+    "signal": "neutral",
+    "signal_reason": "AI 하드웨어 수출 흑자가 원화 가치를 지지하는 긍정적 요인이지만 글로벌 강달러 기조와 유가 변동성이 복합적으로 작용하기 때문임.",
+    "key_companies": [
+      "삼성전자(005930)",
+      "SK하이닉스(000660)"
+    ],
+    "insight": "AI 시대 통화의 힘은 금리 수준보다 <span class=\"text-cyan-300 font-semibold\">'글로벌 빅테크들이 달러를 싸 들고 와서 사 갈 수밖에 없는 독점 하드웨어 제조 역량'</span>에서 나옵니다.",
+    "action_point": "환율 변동성에 따른 수출 대형주의 실질 환산 영업이익 개선 효과를 모니터링하며, 반도체 중심의 포트폴리오를 유지하십시오."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "tech"
+    ],
+    "tags": [
+      "이코노미스트",
+      "환율전망",
+      "원화",
+      "엔화",
+      "AI하드웨어수혜",
+      "경상수지"
+    ]
+  }
+}

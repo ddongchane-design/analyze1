@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "pEyMXFhFKHg",
+    "title": "쏟아지는 뉴스 속에서 일반인이 알아차려야 할 신호는?| 서동주, 김동환, 김준우 쟁글 대표 [크립토 PLUS]",
+    "published": "2026-09-17T22:00:05+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=pEyMXFhFKHg",
+    "thumbnail": "https://img.youtube.com/vi/pEyMXFhFKHg/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "뉴욕증권거래소(NYSE) 모회사인 인터컨티넨탈익스체인지(ICE)가 탈중앙화 예측 시장 플랫폼 <span class=\"text-cyan-300 font-semibold\">'폴리마켓(Polymarket)'에 대규모 전략적 투자</span>를 집행함.\n기관 투자자의 자금 집행은 단순 돈 투입이 아니라 개인들이 보지 못하는 <span class=\"text-amber-300 font-bold\">주주명부·재무안정성·규제 리스크에 대한 혹독한 실사(Due Diligence) 통과</span>를 의미함.\n수많은 크립토 뉴스 홍수 속에서 제도권 초대형 기관의 실질 지분 투자야말로 스타트업 단계를 넘어선 진짜 성장 신호임.",
+    "key_claims": [
+      "개인이 확인하기 어려운 법적·재무적 리스크를 월가 거대 기관이 직접 검증하고 자금을 넣었는지 여부가 핵심 판별 기준임.",
+      "폴리마켓과 같은 탈중앙화 정보 예측 플랫폼이 전통 제도권 금융 인프라와 결합하고 있음.",
+      "논의 중인 MOU 뉴스와 실제 지분 투자가 완료된 뉴스를 엄격히 구분해야 함."
+    ],
+    "data_points": [
+      "투자 주체: 뉴욕증권거래소 모회사 ICE(Intercontinental Exchange)",
+      "투자 대상: 글로벌 1위 블록체인 예측 시장 플랫폼 폴리마켓"
+    ],
+    "signal": "bullish",
+    "signal_reason": "전통 제도권 금융거래소 공룡(ICE)의 직접 지분 투자를 통해 웹3 예측 시장 인프라의 신뢰성과 제도권 안착 가능성이 공인되었기 때문임.",
+    "key_companies": [
+      "인터컨티넨탈익스체인지(ICE)",
+      "폴리마켓"
+    ],
+    "insight": "홍보용 파트너십에 현혹되지 말고, <span class=\"text-cyan-300 font-semibold\">'제도권 거대 자본이 컴플라이언스 리스크를 감수하고 실제 지분을 샀는가'</span>를 진짜 시그널로 포착해야 합니다.",
+    "action_point": "블록체인 인프라 섹터 투자 시 전통 금융 기관의 지분 투자 및 커스터디 제휴가 확정된 검증된 프로젝트 위주로 선별하십시오."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "tech",
+      "stock"
+    ],
+    "tags": [
+      "폴리마켓",
+      "기관투자",
+      "ICE",
+      "신호해석",
+      "크립토",
+      "스타트업"
+    ]
+  }
+}

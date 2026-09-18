@@ -1,0 +1,38 @@
+{
+  "video": {
+    "id": "5Roq0lukuoY",
+    "title": "야식의 진짜 문제는 살이 찌는 게 아닙니다 (강남세브란스 내분비내과 안철우 교수)",
+    "published": "2026-09-12T05:55:21+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=5Roq0lukuoY",
+    "thumbnail": "https://img.youtube.com/vi/5Roq0lukuoY/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "야식의 본질적 위험은 단순 체중 증가가 아니라, 음식 섭취로 인한 <span class=\"text-rose-400 font-medium\">인슐린 분비 급증이 수면 호르몬인 멜라토닌 분비를 차단</span>하여 신체 회복 시스템을 마비시키는 데 있음. 야간 고혈당과 수면 장애는 면역세포(NK세포) 활성을 떨어뜨리고 만성 피로와 감정 기복, 염증 질환의 악순환을 유발함.",
+    "key_claims": [
+      "포만감으로 인슐린이 치솟으면 숙면을 유도하고 야간 혈당을 낮춰주는 멜라토닌이 분비되지 않아 깊은 잠을 방해함.",
+      "수면 부족과 만성 스트레스는 음식 섭취 없이도 연속혈당측정기(CGM) 수치를 급등시키는 주원인임.",
+      "저녁의 과식은 낮에 먹는 정크푸드보다 내분비계 호르몬 밸런스에 치명적인 교란을 일으킴."
+    ],
+    "data_points": [
+      "인체 호르몬 종류: 약 4,000여 종 (평생 분비량은 찻숟가락 한 술 분량 수준)"
+    ],
+    "signal": "neutral",
+    "signal_reason": "내분비학적 혈당 관리 및 수면 건강 관리 가이드 콘텐츠임.",
+    "key_companies": [],
+    "insight": "건강한 신체 컨디션의 핵심은 칼로리 계산이 아니라 <span class=\"text-amber-300 font-bold\">'혈당 리듬과 수면 호르몬의 정상적 상호작용'</span>을 복원하는 것입니다.",
+    "action_point": "취침 전 최소 3~4시간 공복을 유지해 야간 멜라토닌 분비 환경을 조성하고 일상 속 자투리 근력 운동을 습관화할 것."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [],
+    "tags": [
+      "야식위험성",
+      "인슐린호르몬",
+      "혈당스파이크",
+      "멜라토닌수면",
+      "안철우교수",
+      "언더스탠딩"
+    ]
+  }
+}

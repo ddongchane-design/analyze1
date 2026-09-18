@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "qGONAkIChzA",
+    "title": "엔비디아 이길 수 있다 (AMD 현직 임원)",
+    "published": "2026-09-14T11:00:23+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=qGONAkIChzA",
+    "thumbnail": "https://img.youtube.com/vi/qGONAkIChzA/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "AMD의 데이터센터 부문 매출이 전년 대비 거의 2배 급증하며 엔비디아 독점 구조에 실질적인 균열을 내기 시작함. 시장을 장악한 서버용 EPYC CPU의 폭발적 성장세에 더해, <span class=\"text-cyan-300 font-semibold\">오픈AI(6GW), 메타(6GW), 앤트로픽(최대 2GW) 등 최상위 AI 빅테크들과 대규모 AI 가속기 공급 계약</span>을 체결하며 인프라 주류로 확고히 안착함.",
+    "key_claims": [
+      "AMD 데이터센터 매출이 1년 만에 2배로 성장하며 서버용 CPU(EPYC)와 GPU 가속기 양대 축의 동반 랠리 시현.",
+      "오픈AI 6GW, 메타 6GW, 앤트로픽 2GW 등 프론티어 AI 기업들과 초대형 인프라 전력 환산 계약을 공식 체결.",
+      "엔비디아의 높은 단가와 공급 부족에 지친 빅테크들이 AMD를 대체재가 아닌 필수 듀얼 벤더로 정식 채택함."
+    ],
+    "data_points": [
+      "실적 지표: AMD 데이터센터 매출 전년 동기 대비 약 100% 급증",
+      "수주 규모: 오픈AI 6GW, 메타 6GW, 앤트로픽 최대 2GW 규모 가속기 인프라 계약 확정"
+    ],
+    "signal": "bullish",
+    "signal_reason": "빅테크 하이퍼스케일러들의 엔비디아 의존도 탈피 전략에 따라 AMD의 AI 가속기 매출 점유율이 기하급수적으로 확대되기 때문임.",
+    "key_companies": [
+      "AMD",
+      "엔비디아(NVDA)",
+      "오픈AI(OpenAI)",
+      "메타(META)",
+      "TSMC(TSM)"
+    ],
+    "insight": "엔비디아 일변도였던 AI 가속기 생태계가 개방형 ROCm 소프트웨어 안정화와 원가 절감 요구에 힘입어 본격적인 2강 체제로 재편되고 있습니다.",
+    "action_point": "엔비디아 대비 밸류에이션 부담이 적고 빅테크 수주가 확정된 AMD를 AI 하드웨어 핵심 포트폴리오로 편입."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "AMD",
+      "에픽CPU",
+      "AI가속기수주",
+      "엔비디아대항마",
+      "소프트드래곤"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "qYpNoSgh7AM",
+    "title": "클래리티 법안 부결, 크립토 걱정할 필요 없는 이유?",
+    "published": "2026-09-17T10:00:17+00:00",
+    "channel_name": "디파이 농부 조선생 | Professor Jo",
+    "url": "https://www.youtube.com/watch?v=qYpNoSgh7AM",
+    "thumbnail": "https://img.youtube.com/vi/qYpNoSgh7AM/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 가상자산 클래리티 법안 부결은 표면적 정치 이벤트에 불과하며 <span class=\"text-amber-300 font-bold\">글로벌 기관의 온체인 유동성 유입과 스테이블코인 생태계 확장</span>은 전혀 훼손되지 않음.\n정치적 타협 과정에서 표결이 연기되거나 수정안이 오가는 것은 미국 의회의 전형적인 입법 과정일 뿐임.\n오히려 달러 표시 스테이블코인의 글로벌 결제망 침투와 탈중앙화 금융(DeFi)의 실제 거래량은 역대 최고 수준을 유지하며 <span class=\"text-cyan-300 font-semibold\">구조적 펀더멘털의 견고함</span>을 증명함.",
+    "key_claims": [
+      "법안 표결 실패는 단기 규제 노이즈일 뿐 실질적인 블록체인 채택 속도를 늦추지 못함.",
+      "글로벌 결제 기업(비자, 마스터카드, 페이팔)의 스테이블코인 연계 결제망 구축이 실질적 성장 동력임.",
+      "단기 정치 뉴스에 일희일비하여 패닉 셀링을 하기보다 장기 온체인 데이터(TVL, 활성 지갑수)를 추적해야 함."
+    ],
+    "data_points": [
+      "스테이블코인 시가총액: 역대 최고치 수준 유지 및 글로벌 무역 결제 활용 급증",
+      "온체인 거래량: 정치 이벤트와 무관하게 DeFi 총 예치액(TVL) 견조한 우상향"
+    ],
+    "signal": "bullish",
+    "signal_reason": "단기 입법 지연 노이즈에도 불구하고 온체인 실질 유동성과 스테이블코인 제도권 침투 속도가 굳건하기 때문임.",
+    "key_companies": [
+      "서클(Circle)",
+      "테더(Tether)",
+      "비자(V)"
+    ],
+    "insight": "정치권의 법안 통과 여부보다 중요한 것은 <span class=\"text-amber-300 font-bold\">'글로벌 시장과 거대 금융 기관이 이미 온체인 달러 결제망을 일상 도구로 채택했다'</span>는 거역할 수 없는 현실입니다.",
+    "action_point": "법안 부결로 인한 단기 가격 조정을 우량 레이어1 및 검증된 블루칩 디파이 자산의 분할 매수 기회로 활용하십시오."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "클래리티부결",
+      "조선생",
+      "온체인유동성",
+      "스테이블코인",
+      "디파이",
+      "기관자금"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "viemdZ0JNhM",
+    "title": "이제 AI한테 컴퓨터를 맡겨도 될까? 우리가 알던 챗GPT와 완전히 달라진 이유 (GPT6 아스트라)",
+    "published": "2026-09-10T11:00:32+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=viemdZ0JNhM",
+    "thumbnail": "https://img.youtube.com/vi/viemdZ0JNhM/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "오픈AI의 차세대 프론티어 모델 <span class=\"text-cyan-300 font-semibold\">GPT-6 아스트라(Astra)</span>의 공개와 AGI 논쟁을 다각도로 해부함. 복잡한 3D 블렌더 모델링 자율 수행 및 사이버보안 취약점 발굴(Exploit) 평가 만점 등 뛰어난 컴퓨터 조작 능력을 입증했으나, 내부 추론(CoT) 감시의 불투명성과 밀레니엄 난제(나비에-스톡스) 도전 등 <span class=\"text-rose-400 font-semibold\">초지능 안전성 및 검증 과제</span>를 심층 고찰함.",
+    "key_claims": [
+      "아스트라는 단순 텍스트 생성을 넘어 운영체제와 3D 소프트웨어를 스스로 조작하며 긴 호흡의 다단계 작업을 자율 수행.",
+      "사이버보안 능력이 '크리티컬' 위험 등급에 최초 도달하여 스스로 보안 취약점을 탐색·공격할 수 있는 잠재력 확인.",
+      "오픈AI는 1만 개 에이전트 협업으로 나비에-스톡스 난제 해법을 8시간 만에 도출했다고 발표했으나, 학계의 최종 검증과 안전성 감독 체계 확립이 선결 과제."
+    ],
+    "data_points": [
+      "벤치마크: 사이버보안 Exploit 벤치마크 만점 달성",
+      "수학 난제: 1만 개 AI 에이전트 협업 8시간 만에 나비에-스톡스 해법 도출 및 17시간 린(Lean) 검증"
+    ],
+    "signal": "bullish",
+    "signal_reason": "AI 에이전트가 순수 소프트웨어 조작 및 고등 수학 난제 해결 단계로 도약하며 차세대 생산성 혁신을 입증했기 때문임.",
+    "key_companies": [
+      "오픈AI(OpenAI)",
+      "마이크로소프트(MSFT)",
+      "엔비디아(NVDA)"
+    ],
+    "insight": "AGI의 기준은 단순한 대화 수준이 아니라 인간의 개입 없이 복잡한 도구를 다루고 자율적으로 문제를 해결하는 피지컬·디지털 에이전트 능력으로 이동하고 있습니다.",
+    "action_point": "AI 에이전트 인프라를 독점하는 클라우드 빅테크(MSFT, 구글) 및 AI 컴퓨팅 하드웨어 수혜주에 대한 장기 포트폴리오 유지."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "GPT6",
+      "아스트라",
+      "OpenAI",
+      "AGI",
+      "나비에스톡스"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "18HUcCE30ds",
+    "title": "AI 경쟁의 기준이 달라지고 있습니다",
+    "published": "2026-09-12T11:00:32+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=18HUcCE30ds",
+    "thumbnail": "https://img.youtube.com/vi/18HUcCE30ds/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "최신 프론티어 AI 경쟁의 핵심 축이 단순 질의응답 지능에서 <span class=\"text-cyan-300 font-semibold\">복잡한 컴퓨터 작업을 자율 수행하는 에이전트(Agentic) 실행력과 토큰 효율성</span>으로 급격히 전환됨. 구글의 <span class=\"text-cyan-300 font-semibold\">제미나이 3.8 플래시</span>가 저비용 구조에도 불구하고 고가의 최상위 모델(클로드 오퍼스 5)과 대등한 코딩 벤치마크를 기록하며 경량화·고효율 AI의 강력한 경쟁력을 증명함.",
+    "key_claims": [
+      "차세대 AI 평가 기준은 정적 시험 점수보다 실제 전문 소프트웨어를 자율 조작하여 업무를 완수하는 '에이전트 완결력'으로 이동함.",
+      "아스트라(Astra)는 클로드 오퍼스 5 대비 약 65% 적은 출력 토큰으로 동등 이상의 전문 소프트웨어 수행 능력을 발휘함.",
+      "소프트웨어 개발 벤치마크(SWE)에서 저비용 고속 모델인 제미나이 3.8 플래시(73.8점)가 최상위 플래그십 모델들과 대등한 실력을 입증함."
+    ],
+    "data_points": [
+      "에이전트 전문 업무 벤치마크: 아스트라 59.3점 vs 클로드 오퍼스 5 55.5점",
+      "토큰 효율성: 아스트라가 오퍼스 5 대비 약 65% 적은 출력 토큰 소모",
+      "소프트웨어 코딩 벤치마크: 아스트라 74.1점, 제미나이 3.8 플래시 73.8점, 클로드 오퍼스 5 73.7점"
+    ],
+    "signal": "bullish",
+    "signal_reason": "AI 추론 비용이 획기적으로 절감되고 실질 업무 자동화가 가능한 에이전트 생태계가 개화하고 있기 때문임.",
+    "key_companies": [
+      "구글(GOOGL)",
+      "앤트로픽(Anthropic)",
+      "오픈AI(OpenAI)"
+    ],
+    "insight": "AI의 승패는 '누가 가장 똑똑한가'가 아니라 <span class=\"text-amber-300 font-bold\">'누가 가장 저렴하고 효율적으로 실무 작업을 끝까지 완수하는가'</span>에 달려 있습니다.",
+    "action_point": "고가의 거대 모델보다 제미나이 플래시 등 고효율 경량 모델을 적극 도입해 추론 단가를 낮춘 B2B AI 서비스 기업에 주목할 것."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "AI모델벤치마크",
+      "아스트라",
+      "제미나이플래시",
+      "클로드오퍼스5",
+      "AI에이전트",
+      "안될과학"
+    ]
+  }
+}

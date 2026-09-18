@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "2fAUiJlNGlA",
+    "title": "[Knowledge News] \"Don't kid yourself, everything changes after 50\": The cold reality facing retir...",
+    "published": "2026-09-17T06:31:30+00:00",
+    "channel_name": "교양이를 부탁해",
+    "url": "https://www.youtube.com/watch?v=2fAUiJlNGlA",
+    "thumbnail": "https://img.youtube.com/vi/2fAUiJlNGlA/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "은퇴를 앞둔 50대의 노후 준비 실패 원인을 분석하고 <span class=\"text-amber-300 font-bold\">'목돈(수익률) 중심에서 연금(수명) 중심'</span>으로의 패러다임 전환을 촉구함.\n70~80대 고령기에는 활동력·판단력·기억력 감퇴로 인해 수억 원의 목돈 자산을 지키는 능력 자체가 급격히 저하됨.\n목돈은 본인이 평생 방어해야 하는 리스크 덩어리인 반면 <span class=\"text-cyan-300 font-semibold\">종신형 연금은 사망 시까지 노후를 자동으로 지켜주는 안전판</span>임을 역설함.",
+    "key_claims": [
+      "젊은 시절의 판단력 기준으로 10억 모으기 등 목돈에 집착하면 고령기에 금융 사기 및 자산 지키기 실패로 직결됨.",
+      "2030세대는 주택 구매·결혼 등 생애 주기상 연금 해지 위험이 크므로 단기 투자 후 40대 후반부터 연금 구축에 집중해야 함.",
+      "은퇴 후 진정한 행복과 심리적 안정감은 높은 수익률이 아닌 매달 끊기지 않고 지급되는 지속 가능한 현금흐름에서 나옴."
+    ],
+    "data_points": [
+      "노후 실태: 50대 은퇴 예정자의 상당수가 실질적 연금 캐시플로우 준비 부재",
+      "자산 패러다임: 목돈 자산(수익률 경쟁, 관리 부담) vs 연금 자산(평생 수명 매칭, 자동 방어)"
+    ],
+    "signal": "neutral",
+    "signal_reason": "개인 자산 배분 및 생애 주기 재무 설계에 대한 인사이트로 거시 증시 방향성에는 중립적이나 퇴직연금 및 보험 자산관리 시장의 장기 성장을 지지하기 때문임.",
+    "key_companies": [
+      "삼성생명(032830)",
+      "미래에셋증권(006800)",
+      "KB금융(105560)"
+    ],
+    "insight": "노후의 자산 관리는 부를 극대화하는 공격의 게임이 아니라, 인지 능력 저하 속에서도 현금이 마르지 않게 하는 <span class=\"text-amber-300 font-bold\">'수명 연동형 방어 시스템'</span>을 설계하는 일입니다.",
+    "action_point": "은퇴 시점의 총자산 크기보다 매월 확보 가능한 종신 연금액(국민·퇴직·개인연금 합산)을 사전 점검하고 현금흐름 중심으로 자산을 재편하십시오."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock",
+      "etc"
+    ],
+    "tags": [
+      "은퇴준비",
+      "연금박사",
+      "목돈관리",
+      "노후자산",
+      "종신연금",
+      "자산관리"
+    ]
+  }
+}

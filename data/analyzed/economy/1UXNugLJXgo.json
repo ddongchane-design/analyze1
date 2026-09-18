@@ -1,0 +1,40 @@
+{
+  "video": {
+    "id": "1UXNugLJXgo",
+    "title": "부동산 불패, 소문이 만든 착시였다 (김나영 경제전문작가)",
+    "published": "2026-09-15T12:25:39+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=1UXNugLJXgo",
+    "thumbnail": "https://img.youtube.com/vi/1UXNugLJXgo/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "노벨 경제학상 수상자 로버트 실러의 연구를 통해 <span class=\"text-amber-300 font-bold\">'부동산 불패와 똘똘한 한 채'라는 믿음이 강력한 사회적 내러티브(Narrative)가 만들어낸 착시</span>임을 조명함. 대중의 뇌리에 각인된 바이럴 스토리는 펀더멘털을 초월한 과열 버블을 형성하지만, 역사적으로 어떤 자산도 영구히 우상향할 수 없으며 결국 매크로 사이클의 평균으로 회귀함.",
+    "key_claims": [
+      "주식과 부동산의 극단적 가격 변동성은 객관적 지표보다 사람들 사이에 전염되는 매력적인 이야기(내러티브)의 바이럴 속도에 좌우됨.",
+      "한국의 '정부가 부동산을 망가뜨리지 못한다'는 풋옵션 믿음 역시 과거 일본 도쿄 부동산에서도 똑같이 나타났다가 붕괴된 대표적 내러티브임.",
+      "대중 모두가 확신에 차서 이야기할 때가 버블의 정점이며, 내러티브가 매력적일수록 투자 위험은 극대화됨."
+    ],
+    "data_points": [
+      "학술 이론: 2013년 노벨경제학상 로버트 실러의 케이스-실러 지수 및 내러티브 경제학(Narrative Economics)"
+    ],
+    "signal": "neutral",
+    "signal_reason": "사회적 내러티브의 강한 관성으로 단기 버블이 연장될 수 있으나 중장기적으로는 고평가 해소와 사이클 하강 압력이 불가피하기 때문임.",
+    "key_companies": [],
+    "insight": "투자 시장에서 가장 위험한 순간은 <span class=\"text-rose-400 font-medium\">'이번엔 다르며 절대 망하지 않는다'는 내러티브가 온 사회를 지배할 때</span>입니다.",
+    "action_point": "영끌 매수 등 과도한 레버리지 주택 매수를 지양하고, 내러티브의 과열 강도를 객관적인 소득 대비 주택가격비율(PIR)로 냉정히 검증할 것."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "로버트실러",
+      "내러티브경제학",
+      "부동산불패",
+      "버블사이클",
+      "집값전망",
+      "언더스탠딩"
+    ]
+  }
+}

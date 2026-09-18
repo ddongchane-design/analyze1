@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "xjoH2bhO4xg",
+    "title": "하루만에 벗어난 금리인상 충격... 미국증시 반등 | 데일리 라이브 | 2026.9.18(금)",
+    "published": "2026-09-17T23:19:24+00:00",
+    "channel_name": "Smart Money by MiraeAsset ",
+    "url": "https://www.youtube.com/watch?v=xjoH2bhO4xg",
+    "thumbnail": "https://img.youtube.com/vi/xjoH2bhO4xg/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "연준의 25bp 금리 인상 발표 직후 하루 만에 뉴욕증시가 급반등하며 <span class=\"text-amber-300 font-bold\">긴축 충격을 완벽히 흡수하고 펀더멘털 랠리로 복귀</span>함.\n예상보다 견고한 미국 소매판매와 주간 고용 지표가 경기 침체 공포를 원천 차단하며 기업 실적 자신감을 북돋움.\n국채금리가 5% 저항선에서 꺾이고 기술주 밸류에이션 부담이 경감됨에 따라 <span class=\"text-cyan-300 font-semibold\">실적 가시성이 담보된 메가캡 빅테크</span>로 저가 매수세가 집중됨.",
+    "key_claims": [
+      "시장 참여자들은 연준의 금리 인상을 '경기 과열에 따른 자신감'으로 재해석함.",
+      "소비 지표 호조는 고금리 환경에서도 미국 가계와 기업의 완충 체력이 유지되고 있음을 시사함.",
+      "금리 공포가 진정되면서 AI 사이클의 중심축인 반도체와 클라우드 플랫폼의 멀티플 회복이 가속화됨."
+    ],
+    "data_points": [
+      "증시 반등폭: 뉴욕 3대 지수 1% 이상 동반 상승, 나스닥 1.69% 급등",
+      "거시 지표: 소매판매 및 실업수당 청구건수 모두 시장 예상치 상회"
+    ],
+    "signal": "bullish",
+    "signal_reason": "긴축 악재가 하루 만에 소멸되고 탄탄한 실물 경기 펀더멘털에 기반한 기술주 반등세가 확인되었기 때문임.",
+    "key_companies": [
+      "마이크로소프트(MSFT)",
+      "아마존(AMZN)",
+      "엔비디아(NVDA)",
+      "구글(GOOGL)"
+    ],
+    "insight": "금리 인상기 시장의 진정한 적은 고금리 자체가 아니라 경기 침체 공포이며, <span class=\"text-amber-300 font-bold\">'침체 없는 견고한 성장'</span>이 확인되는 한 주식시장의 상승 동력은 꺾이지 않습니다.",
+    "action_point": "긴축 공포에 따른 포트폴리오 축소를 중단하고 현금 창출 능력이 독보적인 글로벌 빅테크 및 반도체 ETF를 적극 보유하십시오."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "미래에셋",
+      "미국증시반등",
+      "금리인상소화",
+      "소매판매호조",
+      "기술주랠리"
+    ]
+  }
+}

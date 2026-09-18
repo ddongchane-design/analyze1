@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "-i7qB8nsYbs",
+    "title": "서프라이즈, 또 서프라이즈! | RE포트 | 2026.9.18(금)",
+    "published": "2026-09-18T00:00:13+00:00",
+    "channel_name": "Smart Money by MiraeAsset ",
+    "url": "https://www.youtube.com/watch?v=-i7qB8nsYbs",
+    "thumbnail": "https://img.youtube.com/vi/-i7qB8nsYbs/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 실물 경제 데이터가 연이은 서프라이즈를 기록하며 <span class=\"text-amber-300 font-bold\">'하드랜딩(경착륙)' 우려를 지우고 강력한 '노랜딩(무착륙)' 궤도</span>를 입증함.\n소매판매 지표의 서프라이즈한 반등과 고용의 견조함이 이어져 연준의 통화 긴축을 실물 경제가 거뜬히 흡수하고 있음.\n지표 호조가 경기 확장 국면을 지속시킴에 따라 <span class=\"text-cyan-300 font-semibold\">기업 이익 성장(EPS 성장)이 금리 부담을 상쇄</span>하는 실적 장세가 전개됨.",
+    "key_claims": [
+      "소비와 고용의 연쇄 서프라이즈는 미국 경제의 회복 탄력성이 역사적으로 가장 강력함을 증명함.",
+      "고금리가 지속되더라도 기업 실적이 이를 상회하는 성장률을 보이면 주식 밸류에이션 정당화가 가능함.",
+      "비관론에 치우친 경기 침체 베팅은 지속적으로 손실을 유발하고 있음."
+    ],
+    "data_points": [
+      "소매판매 지표: 예상치 상회하며 견조한 소비 지출 증명",
+      "신규 실업수당 청구: 안정적 범위 내 유지되며 고용 시장 타이트함 확인"
+    ],
+    "signal": "bullish",
+    "signal_reason": "소비 및 고용 지표의 연이은 서프라이즈로 미국 경제의 무착륙 성장이 입증되며 기업 이익 모멘텀이 강화되고 있기 때문임.",
+    "key_companies": [
+      "애플(AAPL)",
+      "월마트(WMT)",
+      "코스트코(COST)"
+    ],
+    "insight": "지표 서프라이즈의 연속은 고금리 속에서도 <span class=\"text-amber-300 font-bold\">'미국 경제의 압도적인 펀더멘털과 가계 소비의 생명력'</span>이 건재함을 웅변합니다.",
+    "action_point": "거시 경기 침체를 가정한 방어적 채권 올인 전략을 지양하고, 실질 소비 증가 수혜를 누리는 소비재 선도주와 성장주에 주력하십시오."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "경제서프라이즈",
+      "소매판매",
+      "고용안정",
+      "노랜딩",
+      "미래에셋"
+    ]
+  }
+}

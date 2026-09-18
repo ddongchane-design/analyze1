@@ -1,0 +1,39 @@
+{
+  "video": {
+    "id": "fl-uuEuxOFU",
+    "title": "Eating healthy food at night is worse than eating ramen during the day",
+    "published": "2026-09-17T06:31:12+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=fl-uuEuxOFU",
+    "thumbnail": "https://img.youtube.com/vi/fl-uuEuxOFU/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "야간 과식이 수면 유도 호르몬인 <span class=\"text-amber-300 font-bold\">멜라토닌 분비를 억제하고 교감신경을 흥분</span>시키는 생리학적 메커니즘을 규명함.\n음식 섭취로 혈당과 인슐린이 급상승하면 체내 호르몬 균형이 교란되어 아무리 좋은 보약을 밤에 먹어도 신체 회복을 방해함.\n숙면과 호르몬 안정을 위해서는 <span class=\"text-cyan-300 font-semibold\">가벼운 공복 상태를 유지하는 식이 루틴</span>이 최적의 건강 관리법임을 강조함.",
+    "key_claims": [
+      "저녁 시간대의 과식은 소화 기관의 부담을 가중시키고 교감신경계를 자극하여 수면 장애를 유발함.",
+      "수면 호르몬인 멜라토닌은 포만 상태보다 적절한 공복 상태에서 훨씬 원활하게 합성·분비됨.",
+      "음식의 질보다 섭취 타이밍이 중요하며 늦은 밤 보약 섭취가 낮의 인스턴트식보다 생체 리듬에 더 유해할 수 있음."
+    ],
+    "data_points": [
+      "생체 반응: 식후 인슐린 스파이크 발생 시 수면 유도 멜라토닌 분비량 급감",
+      "신경계: 과식 시 부교감신경 대신 교감신경 흥분으로 심박수 및 체온 상승"
+    ],
+    "signal": "neutral",
+    "signal_reason": "생리학 및 헬스케어 루틴에 관한 건강 상식 정보로 금융 투자 자산에 미치는 직접적 시그널은 중립적이기 때문임.",
+    "key_companies": [],
+    "insight": "생체 리듬의 핵심은 영양소 투입량이 아니라 <span class=\"text-amber-300 font-bold\">'호르몬 분비 주기에 맞춘 섭취 타이밍과 공복 시간 확보'</span>에 있습니다.",
+    "action_point": "업무 생산성과 집중력 유지를 위해 취침 3~4시간 전 야간 식사를 지양하고 일정한 공복 수면 주기를 유지하십시오."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [],
+    "tags": [
+      "수면건강",
+      "인슐린",
+      "멜라토닌",
+      "야식",
+      "생체리듬",
+      "교감신경"
+    ]
+  }
+}

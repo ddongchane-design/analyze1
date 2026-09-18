@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "zMgiY4-mkbY",
+    "title": "\"자체 HBM 탑재 완료\"... 화웨이 역대급 도발에 발칵 뒤집힌 삼성·SK",
+    "published": "2026-09-17T09:00:01+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=zMgiY4-mkbY",
+    "thumbnail": "https://img.youtube.com/vi/zMgiY4-mkbY/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "화웨이가 최신 AI 칩 '어센드 950'에 <span class=\"text-violet-300 font-medium\">자체 패키징 HBM(HIZQ 2.0)을 탑재하고 딥시크에 16만 개 공급 계약</span>을 체결하며 한국 메모리 업계에 도전장을 던짐.\n그러나 공개된 4TB/s 대역폭은 칩 전체 수치일 뿐 개별 스택 성능은 HBM3 이하 수준이며 중국 파운드리(SMIC)와 D램(CXMT) 수율 한계가 명확함.\n다만 SK하이닉스가 샌디스크와 표준화 중인 <span class=\"text-cyan-300 font-semibold\">낸드 기반 차세대 HBF 기술 추격과 중국 정부의 846조 원 연구개발비 물량 공세</span>는 중장기 잠재 위협임.",
+    "key_claims": [
+      "화웨이의 자체 HBM 탑재 발표는 마케팅적 과장이 섞여 있으나 미국의 첨단 칩 봉쇄 우회 노력이 가시화됨.",
+      "딥시크 등 중국 내 대형 AI 모델 기업들이 성능 열세를 감수하고도 국산 칩 채택을 본격화함.",
+      "한국 메모리 투톱(SK하이닉스·삼성전자)의 압도적 기술 격차 유지를 위해선 국가 차원의 규제 철폐와 R&D 지원이 시급함."
+    ],
+    "data_points": [
+      "화웨이 수주: 딥시크 향 AI 가속기 칩 16만 장 공급 체결",
+      "국가 R&D 투자액: 중국 연간 846조 원 vs 미국 831조 원 vs 한국 133조 원"
+    ],
+    "signal": "neutral",
+    "signal_reason": "단기 기술 격차와 수율 열세로 국내 HBM 지배력은 공고하나, 중국의 천문학적 자본 투입과 내수 생태계 자립 시도는 구조적 리스크 요인이기 때문임.",
+    "key_companies": [
+      "SK하이닉스(000660)",
+      "삼성전자(005930)",
+      "화웨이",
+      "SMIC(0981.HK)"
+    ],
+    "insight": "중국의 반도체 자립은 단기 성능 완성도보다 <span class=\"text-violet-300 font-medium\">'결함이 있어도 일단 국가가 사주고 쓰면서 개선하는 막대한 내수 규모의 힘'</span>에 기반하고 있습니다.",
+    "action_point": "단기 중국 HBM 위협론에 따른 국내 메모리주 과도한 매도는 경계하되, 차세대 HBM4 및 3차원 적층 패키징 독점 밸류체인에 집중하십시오."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "화웨이HBM",
+      "어센드950",
+      "딥시크",
+      "HBF",
+      "SK하이닉스",
+      "중국반도체추격"
+    ]
+  }
+}

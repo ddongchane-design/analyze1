@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "af6KINlbiiQ",
+    "title": "Why Lisa Su Is Investing in Korea (Current AMD Executive)",
+    "published": "2026-09-17T06:29:42+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=af6KINlbiiQ",
+    "thumbnail": "https://img.youtube.com/vi/af6KINlbiiQ/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "AMD 리사 수 CEO가 방한하여 국내 최대 데이터센터 운영사인 <span class=\"text-cyan-300 font-semibold\">네이버 경영진과 독점 비즈니스 미팅</span>을 갖고 한국 시장 협력을 대폭 강화함.\n네이버는 이미 AMD의 데이터센터용 고성능 EPYC CPU 최대 고객사이며 <span class=\"text-cyan-300 font-semibold\">소버린 AI 인프라 확장에 따른 차세대 칩셋 도입</span>을 집중 논의함.\n한국 정부와 기업들의 대규모 국가 AI 클러스터 투자 흐름에 발맞추어 엔비디아 독점에 맞선 <span class=\"text-violet-300 font-medium\">AMD 생태계의 한국 내 침투율 확대 전략</span>이 본격화됨.",
+    "key_claims": [
+      "글로벌 빅테크 하이퍼스케일러 대비 규모는 작지만 한국은 자체 초거대 AI 모델과 데이터센터 인프라를 보유한 핵심 거점임.",
+      "네이버는 AMD 서버용 CPU의 핵심 레퍼런스 고객으로 향후 AI 가속기(MI300 시리즈 등) 협력으로 확장될 잠재력이 큼.",
+      "정부 주도의 국가 AI 인프라 프로젝트에서 단일 공급사(엔비디아) 탈피를 원하는 수요가 AMD에게 중대한 기회 요인임."
+    ],
+    "data_points": [
+      "협력 규모: 네이버는 한국 내 AMD 데이터센터 CPU 최대 수요처",
+      "국내 AI 투자: 정부 및 통신·플랫폼 빅테크 중심의 수조 원대 AI 데이터센터 건립 가속"
+    ],
+    "signal": "bullish",
+    "signal_reason": "AMD의 한국 내 서버 공급망 확대와 네이버의 소버린 AI 인프라 구축이 상호 시너지를 내며 국내 AI 데이터센터 및 하드웨어 밸류체인 전반에 긍정적 모멘텀을 형성하기 때문임.",
+    "key_companies": [
+      "AMD(AMD)",
+      "NAVER(035420)",
+      "삼성전자(005930)"
+    ],
+    "insight": "리사 수의 방한은 한국을 단순 완제품 판매 시장이 아니라 <span class=\"text-cyan-300 font-semibold\">'소버린 AI 생태계를 구축할 수 있는 전략적 파트너'</span>로 격상시켰음을 입증합니다.",
+    "action_point": "네이버 데이터센터 인프라 확장에 따른 수혜 기업 및 AMD 생태계 편입(메모리, 기판, 냉각 솔루션) 관련 핵심 IT 종목에 주목하십시오."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "AMD",
+      "리사수",
+      "네이버",
+      "데이터센터",
+      "CPU",
+      "소버린AI"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "3uxzvAib7dg",
+    "title": "[박신영의 개장전요것만-9월17일] 아마존의 AI전력 수혜주는? | 추락하는 나이키",
+    "published": "2026-09-17T14:09:20+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=3uxzvAib7dg",
+    "thumbnail": "https://img.youtube.com/vi/3uxzvAib7dg/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "아마존이 AI 데이터센터의 전력망 단전 리스크를 방어하기 위해 <span class=\"text-cyan-300 font-semibold\">산업용 비상 발전기 선도사 제너랙(Generac)에 대규모 발주와 함께 주식 워런트</span>를 확보함.\n클라우드 빅테크의 전력 인프라 확보 경쟁이 원전과 변압기를 넘어 <span class=\"text-amber-300 font-bold\">디젤/가스 비상 발전 솔루션</span>으로까지 외연을 공격적으로 확장하고 있음.\n반면 나이키는 D2C 직판 과신과 신제품 혁신 부재로 인해 실적 전망치 하향과 함께 주가가 연일 곤두박질치는 양극화가 뚜렷함.",
+    "key_claims": [
+      "아마존-제너랙 계약은 단순 장비 구매가 아닌 빅테크가 공급사의 지분 가치까지 챙기는 전략적 파트너십 형태임.",
+      "AI 데이터센터 가동률 100% 보장을 위한 최후의 보루로서 비상 발전기 및 백업 파워 수요가 급증함.",
+      "전통 소비재(나이키)의 침체와 AI 인프라 수혜주의 신고가 행진이 뚜렷한 주가 디커플링을 연출함."
+    ],
+    "data_points": [
+      "수혜 종목: 제너랙(GNRC) 주가 급등 및 아마존의 신주인수권 확보",
+      "소비재 부진: 나이키 분기 가이던스 대폭 하향 및 주가 연중 신저가권 추락"
+    ],
+    "signal": "neutral",
+    "signal_reason": "AI 전력주(제너랙)의 구조적 수혜 모멘텀은 매우 강력하나 전통 경기민감 소비재의 급락세가 혼재된 장세이기 때문임.",
+    "key_companies": [
+      "제너랙(GNRC)",
+      "아마존(AMZN)",
+      "나이키(NKE)"
+    ],
+    "insight": "빅테크의 자금력은 AI 전력 인프라 쇼티지를 해결하기 위해 <span class=\"text-cyan-300 font-semibold\">'발전 장비 납품을 넘어 협력사 지분까지 인수하는 적극적 수직 계열화'</span>를 추진하고 있습니다.",
+    "action_point": "단순 소비재 노출을 줄이고, 데이터센터 비상 백업 전력 및 전력망 기기 밸류체인(제너랙, 변압기, ESS) 비중을 확대하십시오."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "energy",
+      "tech"
+    ],
+    "tags": [
+      "아마존",
+      "제너랙",
+      "비상발전기",
+      "AI전력수혜",
+      "나이키",
+      "어닝쇼크"
+    ]
+  }
+}

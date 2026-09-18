@@ -1,0 +1,48 @@
+{
+  "video": {
+    "id": "HXHDZcwXtXg",
+    "title": "[박신영의 개장전요것만-9월10일] 고유가 2029년까지 간다? | 엔비디아&팔란티어 연합군 | 오픈AI&앤트로픽 위협",
+    "published": "2026-09-10T14:17:34+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=HXHDZcwXtXg",
+    "thumbnail": "https://img.youtube.com/vi/HXHDZcwXtXg/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "유가 급등과 국채금리 상승 여파로 나스닥이 1.27% 급락했으나, <span class=\"text-cyan-300 font-semibold\">TSMC의 8월 매출이 53% 급증</span>하며 역대 최고치를 경신해 AI 하드웨어 수요의 폭발적 성장을 재확인함. 아울러 <span class=\"text-cyan-300 font-semibold\">아마존과 오픈AI가 챗GPT 기반 대화형 광고 동맹</span>을 체결(연환산 10억 달러 규모)하면서 생성형 AI의 본격적인 수익화 모델이 가시화되고 있음.",
+    "key_claims": [
+      "TSMC 8월 매출이 전년비 53% 급증한 5,148억 대만달러를 기록하며 AI 반도체 및 첨단 패키징 수요의 초강세 입증.",
+      "아마존이 오픈AI와 제휴하여 챗GPT 내 스폰서 광고를 집행, 검색 광고에서 대화형 AI 광고로의 패러다임 전환 가속.",
+      "바클레이스는 빅테크의 견고한 실적과 하이퍼스케일러 케펙스(2027년 1.1조 달러 전망)를 반영하여 S&P500 목표치를 7,950으로 상향함."
+    ],
+    "data_points": [
+      "TSMC 실적: 8월 매출 5,148억 NT$ (약 163.5억 달러, 전년비 +53%, 전월비 +10%)",
+      "지수 및 변동성: S&P500 선물 -0.5%, 나스닥 -1.27%, VIX +4.39% 상승",
+      "오픈AI 광고: 연환산 광고 매출 10억 달러 도달 및 월간 활성 사용자(MAU) 9억 명 확보"
+    ],
+    "signal": "neutral",
+    "signal_reason": "유가·금리 상승에 따른 단기 기술주 멀티플 압박에도 불구하고 TSMC의 역대급 실적과 아마존-오픈AI 광고 연합 등 실질적 이익 지표가 매우 강력하기 때문임.",
+    "key_companies": [
+      "TSMC(TSM)",
+      "아마존(AMZN)",
+      "오픈AI(OpenAI)",
+      "오라클(ORCL)",
+      "메타(META)"
+    ],
+    "insight": "AI 버블론의 유일한 해독제는 실적(숫자)이며, 파운드리 1등 TSMC의 폭발적 매출 성장과 챗GPT 광고의 상용화는 AI 생태계가 실질적 현금 창출 국면에 안착했음을 입증합니다.",
+    "action_point": "매크로 노이즈로 나스닥이 조정받을 때 TSMC 및 첨단 패키징·파운드리 장비주를 저가 매수하고 AI 광고 수혜주인 아마존·메타 비중 확대."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "TSMC실적",
+      "아마존오픈AI광고",
+      "고유가리스크",
+      "바클레이스전망",
+      "한경글로벌마켓"
+    ]
+  }
+}

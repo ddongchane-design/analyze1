@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "KXw8tdAhFIo",
+    "title": "미국 자산 현대화법 진행된다?  | 서동주, 김동환, 최윤영 한화투자증권 팀장 [크립토 PLUS]",
+    "published": "2026-09-18T03:43:05+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=KXw8tdAhFIo",
+    "thumbnail": "https://img.youtube.com/vi/KXw8tdAhFIo/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 의회에서 추진 중인 '자산 현대화법'이 <span class=\"text-cyan-300 font-semibold\">전통 금융자산(국채, 사모펀드, 부동산)의 블록체인 기반 실물자산 토큰화(RWA) 제도화</span>를 본격 견인하고 있음.\n월가 대형 자산운용사(블랙록, 프랭클린템플턴 등)의 온체인 머니마켓펀드(MMF) 안착에 이어 제도적 규제 프레임워크가 정립됨.\n국경 간 자본 이동 비용 절감과 24시간 실시간 정산이라는 <span class=\"text-amber-300 font-bold\">금융 인프라 혁신이 크립토를 넘어 전통 월가 금융을 재편</span>하고 있음.",
+    "key_claims": [
+      "자산 현대화법은 비효율적인 레거시 청산 결제 시스템을 블록체인 원장으로 대체하는 법적 근거를 제공함.",
+      "RWA 시장은 단순 가상자산 투자가 아닌 수천조 달러 규모의 전통 채권 및 금융상품을 온체인화하는 거대 흐름임.",
+      "미국 규제 당국의 명확한 가이드라인 정립은 기관 자금의 합법적 웹3 유입을 가속화할 것임."
+    ],
+    "data_points": [
+      "기관 RWA 규모: 블랙록 온체인 국채 펀드(BUIDL) 등 수십억 달러 단위 자금 유입",
+      "효율성 개선: T+1, T+2 결제 주기를 T+0(실시간 원장 기록)으로 단축"
+    ],
+    "signal": "bullish",
+    "signal_reason": "전통 금융 자산의 온체인 토큰화(RWA) 법제화가 가시화되며 디지털 자산 플랫폼과 전통 수탁 금융기관 모두에 새로운 수익 모델이 열리기 때문임.",
+    "key_companies": [
+      "블랙록(BLK)",
+      "코인베이스(COIN)",
+      "비자(V)"
+    ],
+    "insight": "자산 토큰화는 가상자산 업계의 희망사항이 아니라, <span class=\"text-cyan-300 font-semibold\">'월가가 거래 비용을 줄이고 24시간 유동성을 확보하기 위해 필연적으로 선택한 인프라 진화'</span>입니다.",
+    "action_point": "RWA 인프라 선도 블록체인 프로토콜 및 자산 토큰화 파이프라인을 구축 중인 전통 금융 지주사에 주목하십시오."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "자산현대화법",
+      "RWA",
+      "실물자산토큰화",
+      "미국규제",
+      "디지털자산"
+    ]
+  }
+}

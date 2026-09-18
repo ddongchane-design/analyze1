@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "dEE8wz7qshM",
+    "title": "중국 반도체 참교육 해준 미국 ㄷㄷ",
+    "published": "2026-09-12T11:00:24+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=dEE8wz7qshM",
+    "thumbnail": "https://img.youtube.com/vi/dEE8wz7qshM/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "중국 대표 메모리 기업 CXMT가 상반기 매출 873% 급증과 16조 원 순이익으로 흑자 전환하며 LPDDR6를 선보였으나, <span class=\"text-violet-300 font-medium\">미국의 ASML EUV(극자외선) 노광장비 수출 통제라는 치명적 기술 장벽</span>에 가로막힘. EUV 없이 구형 DUV 멀티패터닝으로 미세 D램을 양산함에 따라 동일 수량 제조 시 웨이퍼가 30%나 더 낭비되는 극심한 수율·원가 열세에 처해 있어 K-반도체의 초격차 방벽은 견고함.",
+    "key_claims": [
+      "CXMT의 가파른 실적 성장에도 불구하고 선단 D램 미세 공정의 필수 장비인 EUV 배제로 양산 원가가 기하급수적으로 상승함.",
+      "EUV 한 번으로 끝날 회로 패터닝을 구형 DUV로 3~4회 반복 수행하면서 공정 복잡도와 결함률이 치솟음.",
+      "동일한 메모리 칩을 생산할 때 CXMT 방식은 삼성전자·SK하이닉스 대비 웨이퍼가 약 30% 더 소모되어 원가 경쟁력 한계가 명확함."
+    ],
+    "data_points": [
+      "CXMT 실적: 상반기 매출 873% 폭증 및 16조 원 흑자 전환",
+      "원가 열세: EUV 부재로 인한 웨이퍼 소모량 약 30% 추가 발생 (CNBC 보도)"
+    ],
+    "signal": "bullish",
+    "signal_reason": "대중국 반도체 장비 통제로 중국 메모리의 선단 D램 추격이 구조적 원가 한계에 봉착해 국내 메모리사의 시장 지배력이 유지되기 때문임.",
+    "key_companies": [
+      "삼성전자(005930)",
+      "SK하이닉스(000660)",
+      "ASML(ASML)"
+    ],
+    "insight": "장비 봉쇄가 유지되는 한, 구형 장비로 억지 패터닝을 하는 중국의 추격은 <span class=\"text-cyan-300 font-semibold\">'웨이퍼 30%를 허공에 날리는 밑 빠진 독에 물 붓기'</span>에 불과합니다.",
+    "action_point": "중국 D램 굴기 공포로 인한 삼성전자·SK하이닉스의 단기 주가 조정을 저가 매수 기회로 활용할 것."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "중국반도체제재",
+      "CXMT디램",
+      "EUV장비통제",
+      "웨이퍼손실30%",
+      "반도체초격차",
+      "Softdragon"
+    ]
+  }
+}

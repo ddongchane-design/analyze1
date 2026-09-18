@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "Tq9BIfy_TWg",
+    "title": "16만 개의 신경세포로 마인크래프트를 한다?!",
+    "published": "2026-09-15T02:00:11+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=Tq9BIfy_TWg",
+    "thumbnail": "https://img.youtube.com/vi/Tq9BIfy_TWg/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "실제 초파리 뇌의 <span class=\"text-cyan-300 font-semibold\">16만 개 신경세포 연결망(Connectome)</span>을 3차원 가상 게임인 마인크래프트 환경과 실시간으로 연동하여 생체 신경 회로의 자율 행동 반응을 시뮬레이션한 획기적 계산신경과학 연구가 공개됨. 비록 감각 수용체 전체를 완벽히 모사하진 못했으나, <span class=\"text-cyan-300 font-semibold\">생체 뇌 회로를 디지털 가상 세계에 직접 이식하는 뇌-컴퓨터 융합 기술</span>의 중대한 이정표를 수립함.",
+    "key_claims": [
+      "게임 속 빛, 먹이, 적의 공격 등 환경 데이터를 초파리 신경계의 감각 입력 신호로 매핑하여 16만 개 뉴런의 전기적 연결망을 통해 실시간 계산.",
+      "실제 초파리의 겹눈 구조나 복잡한 신경전달물질을 단순화했으나, 커넥톰 기반 신경 활동이 게임 속 물리적 행동으로 실행되는 메커니즘 구축.",
+      "인간 뇌 모사 인공지능(Neuromorphic AI) 및 인공 두뇌를 탑재한 생체 모방 로봇 개발의 핵심 기초 기술로 활용 가능."
+    ],
+    "data_points": [
+      "신경망 규모: 초파리 뇌 전체 16만 개 이상의 실제 뉴런 연결 정보(Connectome) 실시간 연동",
+      "시뮬레이션 환경: 마인크래프트 샌드박스 가상 월드 입력-출력 테스트베드 활용"
+    ],
+    "signal": "bullish",
+    "signal_reason": "생체 뇌 회로 기반 뉴로모픽 컴퓨팅과 자율 에이전트 월드 모델 개발의 실질적 기술 진전을 증명했기 때문임.",
+    "key_companies": [
+      "구글딥마인드(DeepMind)",
+      "오픈AI(OpenAI)"
+    ],
+    "insight": "현재의 전력 다소비 트랜스포머 AI 구조를 극복할 궁극의 대안은 초저전력으로 동작하는 생체 뇌 신경망(Connectome) 구조의 칩셋 구현(Neuromorphic)입니다.",
+    "action_point": "뉴로모픽 반도체 설계 및 뇌-컴퓨터 인터페이스(BCI) 관련 선행 연구 기업에 대한 중장기 R&D 모니터링."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "etc"
+    ],
+    "tags": [
+      "초파리커넥톰",
+      "마인크래프트AI",
+      "16만개신경세포",
+      "계산신경과학",
+      "안될과학"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "ev79s2IN_H4",
+    "title": "[모닝효] 9월 금리인상이 확정된 날, 시장이 찍어준 종목 2개 | AI시대 투자에 대해서...",
+    "published": "2026-09-11T23:24:34+00:00",
+    "channel_name": "이효석아카데미",
+    "url": "https://www.youtube.com/watch?v=ev79s2IN_H4",
+    "thumbnail": "https://img.youtube.com/vi/ev79s2IN_H4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "금리 상승 환경이 가시화되는 국면에서 시장의 자금은 고비용 Capex를 감당해야 하는 기업보다, 이미 확정 주문을 받아 현금과 매출을 창출하는 <span class=\"text-cyan-300 font-semibold\">공급 병목 하드웨어 및 전력 인프라 기업</span>(<span class=\"text-cyan-300 font-semibold\">엔비디아</span>, <span class=\"text-cyan-300 font-semibold\">브로드컴</span>, <span class=\"text-cyan-300 font-semibold\">효성중공업</span>, 버티브)으로 집중되고 있음. AI 에이전트 도구를 능동적으로 활용하되 독자적인 투자 분석 체계를 구축하는 것이 중요함.",
+    "key_claims": [
+      "고금리 장기화 시 Capex 지출 부담 기업보다 이미 수주 잔고를 확보해 현금을 벌어들이는 '병목 하드웨어' 기업 선호.",
+      "AI 인프라 병목 섹터(네트워킹, 전력 변압기, 냉각 솔루션) 대장주로의 기관 수급 쏠림 지속.",
+      "AI 도구(아스트라 등)는 리서치 취합용으로 활용하고 실제 투자 판단은 독립적인 가치 평가에 근거해야 함."
+    ],
+    "data_points": [
+      "거시 지표: 연준 9월 통화정책 불확실성 및 엔캐리 청산 잔존 여파",
+      "수혜 핵심 종목군: 엔비디아, 브로드컴, 버티브, 이튼, 효성중공업, 마벨"
+    ],
+    "signal": "neutral",
+    "signal_reason": "매크로 금리 부담에도 불구하고 AI 인프라 공급망 내 독점적 현금흐름을 창출하는 핵심 하드웨어 기업들의 실적 모멘텀은 지속 차별화되기 때문임.",
+    "key_companies": [
+      "엔비디아(NVDA)",
+      "브로드컴(AVGO)",
+      "버티브(VRT)",
+      "효성중공업(298040)",
+      "SK하이닉스(000660)"
+    ],
+    "insight": "Capex 사이클의 수혜주 중에서도 밸류체인 내 대체 불가능한 위치를 점하고 있는 전력망·냉각·네트워킹 기업들은 금리 상승기에도 가격 결정력을 유지하며 견고한 주가 방어력을 보입니다.",
+    "action_point": "실제 현금 창출 능력이 입증된 전력 인프라(효성중공업, 버티브) 및 광통신/네트워킹(브로드컴, 루멘텀) 비중 유지."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "모닝효",
+      "금리인상수혜주",
+      "AI인프라병목",
+      "전력기기",
+      "이효석아카데미"
+    ]
+  }
+}

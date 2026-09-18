@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "-j2sAjRFKhY",
+    "title": "경영권 살 때 의무공개매수 '50%+1주’…개미도 경영권 프리미엄 | AI 붐 올라탄 두산 | 한화시스템 '대공망 UAE 수출' 임박 | 권순우 삼프로TV 취재팀장 [뉴스3]",
+    "published": "2026-09-17T23:23:13+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=-j2sAjRFKhY",
+    "thumbnail": "https://img.youtube.com/vi/-j2sAjRFKhY/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "상장사 경영권 인수 시 '50%+1주' 이상 의무공개매수 제도가 도입되면서 <span class=\"text-amber-300 font-bold\">일반 소액주주도 대주주와 동일하게 경영권 프리미엄을 공유</span>하는 상법 개혁이 본격화됨.\nAI 가속기 붐으로 고마진 회로박(Copper Foil)을 생산하는 <span class=\"text-cyan-300 font-semibold\">두산이 엔비디아 공급망 편입</span>으로 실적 서프라이즈를 달성하며 급부상함.\n한화시스템은 UAE에 이어 중동 대공 방어망(천궁-II 다기능 레이다) 추가 조 단위 수출이 임박하여 <span class=\"text-violet-300 font-medium\">K-방산의 중동 방공망 독점 지위</span>를 강화함.",
+    "key_claims": [
+      "의무공개매수제 도입은 코리아 디스카운트의 주범인 대주주만의 사익 편취를 막고 지배구조 밸류업의 중대 분기점이 됨.",
+      "전기차용 전지박은 단가 인하 압박을 받는 반면, 엔비디아향 AI 고성능 회로박은 P와 Q가 동반 폭증하는 호황을 누림.",
+      "한화시스템의 천궁-II MFR 레이다 수출은 단발성이 아닌 중동 국가 전역의 통합 방공망 플랫폼 구축으로 확장됨."
+    ],
+    "data_points": [
+      "제도 개혁: 경영권 변경 시 지분 50%+1주 의무공개매수 법안 추진",
+      "방산 수출: 한화시스템 UAE 및 중동 천궁-II 다기능 레이다 수조 원대 수주 임박"
+    ],
+    "signal": "bullish",
+    "signal_reason": "일반주주 권익 보호 제도 개선과 함께 AI 엔비디아 공급망(두산) 및 K-방산 수출(한화시스템) 등 구조적 실적 성장주들의 모멘텀이 뚜렷하기 때문임.",
+    "key_companies": [
+      "두산(000150)",
+      "한화시스템(272210)",
+      "LIG넥스원(079550)",
+      "엔비디아(NVDA)"
+    ],
+    "insight": "국내 증시의 체질이 '지배주주만의 잔치'에서 <span class=\"text-amber-300 font-bold\">'의무공개매수를 통한 주주가치 제고'</span>로 진화하고 있으며, 확실한 전방 고객을 둔 독점 부품사들이 시장을 주도합니다.",
+    "action_point": "엔비디아향 AI 기판 소재(회로박) 턴어라운드 수혜주(두산)와 중동 수주 모멘텀이 임박한 방산 대장주를 비중 확대하십시오."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "의무공개매수",
+      "경영권프리미엄",
+      "두산",
+      "한화시스템",
+      "천궁2",
+      "동박회로박"
+    ]
+  }
+}

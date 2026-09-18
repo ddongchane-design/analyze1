@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "J1vwS3ImEpo",
+    "title": "동남아도 먹는 약, 한국만 없는 이유 (강동경희대병원 신경과 신원철 교수)",
+    "published": "2026-09-13T01:05:38+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=J1vwS3ImEpo",
+    "thumbnail": "https://img.youtube.com/vi/J1vwS3ImEpo/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "글로벌 시장에서 표준 치료제로 각광받는 불면증 혁신 신약 <span class=\"text-cyan-300 font-semibold\">데이비고(에자이)</span>와 SK바이오팜의 뇌전증 신약 <span class=\"text-cyan-300 font-semibold\">세노바메이트</span>가 한국의 경직된 저가 약가 통제 정책으로 인해 국내 도입이 장기 지연되거나 <span class=\"text-rose-400 font-semibold\">비급여로 출시되는 '코리아 패싱' 현상</span>이 심화되고 있음.",
+    "key_claims": [
+      "에자이의 불면증 치료제 데이비고가 미국 및 동남아 등 전 세계에 보급된 지 5~7년 만에 한국에 비급여로 뒤늦게 도입됨.",
+      "과거 150원짜리 졸피뎀 등 저가 복제약 대비 월등한 효능 입증만을 요구하는 건강보험 약가 평가 구조가 글로벌 혁신 신약의 한국 시장 기피를 초래.",
+      "국내 기업(SK)이 개발해 미국 시장을 평정한 세노바메이트조차 국내 약가 협상 문제로 수년간 진입하지 못하는 모순 발생."
+    ],
+    "data_points": [
+      "데이비고 미국 출시 2019년 대비 한국 도입 2026년으로 7년 격차 발생",
+      "한국 비급여 정당 1,631원 출시 (미국 한 달 복용 비용 약 10만 원 선)"
+    ],
+    "signal": "neutral",
+    "signal_reason": "건강보험 재정 건전성 유지라는 정책적 목표와 최신 혁신 신약에 대한 국민 치료 접근권 간의 제도적 괴리가 지속되고 있기 때문임.",
+    "key_companies": [
+      "에자이(Eisai)",
+      "SK바이오팜(326030)"
+    ],
+    "insight": "글로벌 제약사들이 약가 참조국인 한국에서의 과도한 가격 인하를 우려해 한국 출시를 최후순위로 미루는 '약가 참조제 트랩'을 해소하기 위한 위험분담제(RSA) 확대 등 제도 개혁이 시급합니다.",
+    "action_point": "국내 시장 의존도가 낮고 미국 등 선진 시장에서 직접 약가를 보장받는 글로벌 바이오텍(SK바이오팜 등) 중심 선별 투자."
+  },
+  "classification": {
+    "primary_topic": "etc",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "신약약가정책",
+      "데이비고",
+      "세노바메이트",
+      "건강보험공단",
+      "언더스탠딩"
+    ]
+  }
+}

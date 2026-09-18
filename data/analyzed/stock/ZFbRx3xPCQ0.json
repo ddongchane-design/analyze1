@@ -1,0 +1,44 @@
+{
+  "video": {
+    "id": "ZFbRx3xPCQ0",
+    "title": "[LIVE] AI시대 오픈북 테스트가 되어버린 지금 이것만이라도 꼭 알고 투자해야합니다",
+    "published": "2026-09-14T11:50:17+00:00",
+    "channel_name": "이효석아카데미",
+    "url": "https://www.youtube.com/watch?v=ZFbRx3xPCQ0",
+    "thumbnail": "https://img.youtube.com/vi/ZFbRx3xPCQ0/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "기술주 조정 국면에서 시장의 핑계인 <span class=\"text-rose-400 font-semibold\">'AI 속도 조절론'의 허상</span>을 지적하고, 진짜 핵심 변수는 <span class=\"text-amber-300 font-semibold\">유가 급등에 따른 미 연준(FOMC)의 금리 인상 확률 상승</span>임을 명확히 규명함. 과거와 달리 거시 변수와 기업 가치가 모두 공개된 '오픈북 테스트' 환경에서, 금리 공포에 위축되기보다 확실한 <span class=\"text-cyan-300 font-semibold\">실적 호전과 밸류에이션 매력을 갖춘 기업으로 포트폴리오를 압축</span>해야 한다는 실전 지침을 제시함.",
+    "key_claims": [
+      "주말 사이 불거진 AI 속도 조절론은 주가 조정의 핑계일 뿐이며, 시장의 실질적 공포는 유가發 금리 추가 인상 리스크에 기인.",
+      "모든 정보와 매크로 데이터가 실시간으로 투명하게 공유되는 오픈북 테스트 시장에서는 막연한 기대감 테마주는 도태됨.",
+      "금리가 상승하더라도 이를 압도하는 실적 성장률을 기록하는 섹터(반도체, CPO, 첨단 기판)는 조정을 딛고 가장 빠르게 신고가를 경신."
+    ],
+    "data_points": [
+      "매크로 변수: FOMC 9월 회의 앞두고 유가 급등에 따른 1회 추가 금리 인상 확률 급상승",
+      "투자 전략: 주도주 사이클(반도체 -> CPO -> 기판) 중심의 압축 대응"
+    ],
+    "signal": "neutral",
+    "signal_reason": "금리 인상 불안감으로 인한 시장 단기 충격과 실적 호전 기업의 눌림목 매수 기회가 동시에 열려 있기 때문임.",
+    "key_companies": [
+      "삼성전자(005930)",
+      "SK하이닉스(000660)",
+      "이수페타시스(007660)"
+    ],
+    "insight": "금리 급등기에는 스토리와 내러티브만 가진 기업은 밸류에이션 할인을 받지만, 숫자로 증명하는 실적 성장주는 오픈북 시험에서 만점을 받습니다.",
+    "action_point": "금리 노이즈로 기술주 전반이 하락할 때 실적 컨센서스가 지속 상향되는 AI 하드웨어 밸류체인(CPO, 기판 대장주) 분할 매수."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "이효석",
+      "오픈북테스트",
+      "금리인상",
+      "FOMC",
+      "실적주"
+    ]
+  }
+}

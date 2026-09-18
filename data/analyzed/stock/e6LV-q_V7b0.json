@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "e6LV-q_V7b0",
+    "title": "FOMC 금리인상 기정 사실화?…하루 전 잔뜩 움츠린 뉴욕증시 [월가 뉴스레터]",
+    "published": "2026-09-15T22:19:50+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=e6LV-q_V7b0",
+    "thumbnail": "https://img.youtube.com/vi/e6LV-q_V7b0/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "FOMC 회의를 앞두고 미 국채 10년물 금리가 <span class=\"text-amber-300 font-semibold\">5%를 돌파</span>하며 뉴욕증시 3대 지수가 일제히 하락 마감함. AI 속도조절론 속에서 사이버 보안 대장주인 <span class=\"text-cyan-300 font-semibold\">크라우드스트라이크</span>는 견고한 상승세를 유지했으나, 민주당 주도의 <span class=\"text-rose-400 font-semibold\">AI 프론티어 규제 법안</span> 공방과 오라클 등 주요 소프트웨어 종목의 약세가 이어짐.",
+    "key_claims": [
+      "FOMC 금리 결정 대기 심리와 국채금리 5% 상회 부담으로 S&P500(-0.5%), 나스닥(-0.8%) 등 주요 지수 일제히 하락.",
+      "AI 독립 3자 평가기관 의무화를 담은 프론티어 법안을 둘러싸고 정치적 로비 및 규제 리스크가 시장 불확실성을 키움.",
+      "기술주 전반의 조정 압력 속에서도 사이버 보안(크라우드스트라이크) 및 정유 에너지 섹터는 차별적 강세를 보임."
+    ],
+    "data_points": [
+      "지수 변동률: S&P500 -0.5%, 나스닥 -0.8%, 다우 -0.6%, 러셀2000 -0.9%",
+      "금리 지표: 미 국채 10년물 금리 장중 5% 돌파",
+      "종목 변동: 오라클(Oracle) 주가 3% 하락"
+    ],
+    "signal": "bearish",
+    "signal_reason": "미 국채 금리가 심리적 저항선인 5%를 재돌파하며 자산 밸류에이션에 부담을 주고 AI 규제 법안 관련 정치적 불확실성이 지속되기 때문임.",
+    "key_companies": [
+      "크라우드스트라이크(CrowdStrike)",
+      "오라클(Oracle)",
+      "오픈AI(OpenAI)",
+      "시게이트(Seagate)"
+    ],
+    "insight": "금리 레벨 5% 이상에서는 기술 성장주의 밸류에이션 할인이 불가피하므로, 현금 흐름이 견고하고 필수 보안 인프라를 공급하는 종목 중심의 방어적 포트폴리오 압축이 필요합니다.",
+    "action_point": "FOMC 결과 발표 직후 점도표와 파월 의장의 발언 확인 전까지 레버리지성 기술주 비중을 축소하고 단기 채권 및 현금 비중을 유지할 것."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy",
+      "tech"
+    ],
+    "tags": [
+      "FOMC",
+      "국채금리5%",
+      "AI규제법안",
+      "크라우드스트라이크",
+      "삼프로TV"
+    ]
+  }
+}

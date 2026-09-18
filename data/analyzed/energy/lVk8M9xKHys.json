@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "lVk8M9xKHys",
+    "title": "MoreScience Unstoppable Science X Ministry of Oceans and Fisheries BDC Blue Carbon Short-form Wor...",
+    "published": "2026-09-17T06:28:57+00:00",
+    "channel_name": "안될과학 Unrealscience",
+    "url": "https://www.youtube.com/watch?v=lVk8M9xKHys",
+    "thumbnail": "https://img.youtube.com/vi/lVk8M9xKHys/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "한국의 갯벌 2단계(여수, 고흥, 무안, 서산 등)가 유네스코 세계유산에 최종 등재되며 <span class=\"text-amber-300 font-bold\">해양 탄소 흡수원인 '블루카본(Blue Carbon)'</span>의 가치가 국제적으로 공인됨.\n산림 대비 최대 수십 배 빠른 탄소 격리 능력을 갖춘 갯벌의 보전과 복원이 <span class=\"text-amber-300 font-bold\">국가 탄소중립 감축 실적 인정</span>을 위한 핵심 자산으로 부각됨.\n기후변화 대응을 위한 해양 생태계 보전과 탄소배출권 연계 프로젝트의 제도적 중요성이 확대되는 추세임.",
+    "key_claims": [
+      "한국 서남해안 갯벌은 생물다양성뿐만 아니라 막대한 온실가스를 장기간 퇴적·격리하는 핵심 탄소 싱크(Sink)임.",
+      "유네스코 등재를 통해 국제적인 갯벌 복원 및 관리 의무가 강화되며 관련 친환경 복원 사업 예산이 확대될 전망임.",
+      "블루카본의 공식 감축량 산정 기준 마련은 향후 탄소배출권 거래제와의 연계 가능성을 높임."
+    ],
+    "data_points": [
+      "세계유산 등재: 기존 5개 권역에 이어 여수·고흥·무안·서산 추가 등재 성공",
+      "탄소 흡수 능력: 육상 산림 대비 해양 퇴적층의 단위 면적당 탄소 저장 효율 5~10배 이상"
+    ],
+    "signal": "neutral",
+    "signal_reason": "ESG 및 친환경 탄소 흡수원으로서의 정책적·학술적 가치는 매우 크나, 민간 기업의 즉각적인 수익 창출 파이프라인으로 연결되기까지는 제도 구축 시간이 필요하기 때문임.",
+    "key_companies": [
+      "한국가스공사(036460)",
+      "한화솔루션(009830)"
+    ],
+    "insight": "기후변화 대응이 에너지 전환(그린 탄소)을 넘어 <span class=\"text-amber-300 font-bold\">'해양 갯벌·염습지 중심의 블루카본 국유 자산화'</span>로 정책적 외연이 확장되고 있습니다.",
+    "action_point": "정부 주도의 해양 생태계 복원 및 탄소 배출권 관련 제도화 흐름을 친환경 인프라 및 ESG 정책 관점에서 지속 모니터링하십시오."
+  },
+  "classification": {
+    "primary_topic": "energy",
+    "secondary_topics": [
+      "etc"
+    ],
+    "tags": [
+      "블루카본",
+      "유네스코갯벌",
+      "탄소중립",
+      "해양수산부",
+      "기후변화"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "H407_I2hu5Q",
+    "title": "앤트로픽이 증류 조사 결과를 공개했습니다. 중국 쪽에서 베껴 가려다 거꾸로 넘기고 온 것이 무엇이었는지 드러났습니다 [Z1 뉴스 - 2부]",
+    "published": "2026-09-17T08:00:12+00:00",
+    "channel_name": "이효석아카데미",
+    "url": "https://www.youtube.com/watch?v=H407_I2hu5Q",
+    "thumbnail": "https://img.youtube.com/vi/H407_I2hu5Q/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "앤트로픽(Anthropic)이 공식 조사 보고서를 통해 <span class=\"text-rose-400 font-medium\">중국계 AI 연구진들의 체계적인 클로드(Claude) 모델 지식 증류(Distillation) 무단 탈취 시도</span>를 폭로함.\n합성 데이터와 프롬프트 주입을 통해 상위 모델의 지능을 저비용으로 복제하려던 시도가 오히려 <span class=\"text-violet-300 font-medium\">클로드 고유의 정렬(Alignment)과 안전성 규칙까지 전이</span>되는 역설적 결과를 낳음.\n첨단 AI 프런티어 모델을 둘러싼 미중 기술 패권 전쟁이 단순 칩 규제를 넘어 <span class=\"text-amber-300 font-bold\">'가중치 및 데이터 도용 방지'라는 소프트웨어 안보 전선</span>으로 전면 확대됨.",
+    "key_claims": [
+      "선두 모델의 아웃풋을 학습 데이터로 삼는 모델 증류가 지식재산권 침해의 새로운 수단으로 악용됨.",
+      "앤트로픽은 고유의 워터마킹 및 행동 분석 기법을 활용해 조직적인 프롬프트 추출 공격을 성공적으로 추적·입증함.",
+      "미국 정부와 빅테크의 AI 보안 및 API 접근 통제 조치가 한층 더 강화될 전망임."
+    ],
+    "data_points": [
+      "보고서 공개: 앤트로픽의 공식 모델 탈취 및 역증류 조사 백서 발간",
+      "규제 파급: 대중국 AI API 접근 차단 및 보안 가이드라인 강화 추진"
+    ],
+    "signal": "neutral",
+    "signal_reason": "AI 지식재산권 및 지정학적 안보 갈등을 부각시키는 사안으로, 빅테크의 독점적 해자 강화와 API 보안 비용 증가가 공존하기 때문임.",
+    "key_companies": [
+      "앤트로픽",
+      "오픈AI",
+      "구글(GOOGL)",
+      "알리바바(BABA)"
+    ],
+    "insight": "AI 모델의 가치는 단순 코드나 가중치가 아니라 <span class=\"text-cyan-300 font-semibold\">'오랜 안전성 훈련과 인간 정렬을 거친 미세한 지능의 결'</span>에 있으며, 이를 무단 복제하는 것은 기술 안보 범죄로 간주되고 있습니다.",
+    "action_point": "독자적인 원천 AI 파운데이션 모델과 강력한 사이버 보안 방어망을 보유한 글로벌 선도 소프트웨어 기업에 대한 장기 투자를 유지하십시오."
+  },
+  "classification": {
+    "primary_topic": "tech",
+    "secondary_topics": [
+      "economy"
+    ],
+    "tags": [
+      "앤트로픽",
+      "클로드",
+      "지식증류",
+      "중국AI",
+      "모델도용",
+      "AI안보"
+    ]
+  }
+}

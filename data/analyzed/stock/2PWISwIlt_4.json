@@ -1,0 +1,50 @@
+{
+  "video": {
+    "id": "2PWISwIlt_4",
+    "title": "[박신영의 개장전요것만-9월14일] 월가에 몰려온 3개의 폭풍",
+    "published": "2026-09-14T14:15:34+00:00",
+    "channel_name": "한경 글로벌마켓",
+    "url": "https://www.youtube.com/watch?v=2PWISwIlt_4",
+    "thumbnail": "https://img.youtube.com/vi/2PWISwIlt_4/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "월가 증시가 <span class=\"text-rose-400 font-medium\">FOMC 금리 경계감, 앤트로픽발 AI 속도 조절론, 이란 확전에 따른 유가 급등</span>이라는 3대 폭풍을 맞아 일제히 조정을 받음. 반도체 하드웨어주가 큰 폭으로 하락한 반면, 광고 본업 수익이 확인된 알파벳·메타와 에이전트 커머스 수혜주인 <span class=\"text-cyan-300 font-semibold\">어펌(Affirm)</span> 등 선별적 종목군은 차별화된 방어력을 과시함.",
+    "key_claims": [
+      "앤트로픽 CEO 다리오 아모데이의 AI 안전 속도 조절론 발언이 반도체(엔비디아, 마이크론) 및 하드웨어 공급망 투매를 촉발함.",
+      "마이클 버리는 빅테크의 AI 속도 조절 주장이 통제 불가능한 성장 둔화를 가리고 IPO 가치를 부풀리기 위한 명분이라고 비판함.",
+      "알파벳과 메타는 설비투자(CAPEX) 속도 조절에 따른 재무 부담 완화와 강력한 디지털 광고 현금흐름 덕분에 상승 방어에 성공함.",
+      "BNPL 대표주 어펌은 소비 둔화 우려에도 불구하고 시장 점유율 확대와 에이전트 결제 수혜로 강력한 매수 추천을 받음."
+    ],
+    "data_points": [
+      "시장 등락률: 나스닥 -1.81%, 엔비디아 -2.6%, 마이크론 -7.2%, AMD -6.1%",
+      "역주행 종목: 구글 +2.44%, 메타 +2.21%",
+      "어펌(AFRM) 투자의견: 울프리서치 목표가 90달러(+26% 업사이드) 상향"
+    ],
+    "signal": "neutral",
+    "signal_reason": "하드웨어주 단기 급락 충격에도 불구하고 빅테크 플랫폼의 본업 실적과 에이전트 커머스 생태계의 성장성은 견고하게 작동하고 있기 때문임.",
+    "key_companies": [
+      "엔비디아(NVDA)",
+      "마이크론(MU)",
+      "알파벳(GOOGL)",
+      "메타(META)",
+      "어펌(AFRM)"
+    ],
+    "insight": "AI 투자의 무게중심이 무차별적 하드웨어 칩 매수에서 <span class=\"text-cyan-300 font-semibold\">'실제 현금 창출력을 입증하는 소프트웨어 플랫폼 및 커머스 결제망'</span>으로 이동하고 있습니다.",
+    "action_point": "조정을 겪는 반도체 비중을 무리하게 추격 매수하기보다 실적 방어력이 입증된 메타·구글 및 낙폭과대 결제 플랫폼(AFRM)을 분할 매수할 것."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "economy"
+    ],
+    "tags": [
+      "월가3대폭풍",
+      "AI속도조절론",
+      "FOMC금리",
+      "유가급등",
+      "어펌홀딩스",
+      "한경글로벌마켓"
+    ]
+  }
+}

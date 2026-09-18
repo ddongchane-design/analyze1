@@ -1,0 +1,43 @@
+{
+  "video": {
+    "id": "PEmN9slNKOA",
+    "title": "미국 금리, 지금 안 올리는 게 더 위험합니다",
+    "published": "2026-09-11T14:15:17+00:00",
+    "channel_name": "언더스탠딩_Understanding",
+    "url": "https://www.youtube.com/watch?v=PEmN9slNKOA",
+    "thumbnail": "https://img.youtube.com/vi/PEmN9slNKOA/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "연준이 금리 인상을 주저하고 미온적으로 대처할 경우 2022~2023년 장기물 국채 ETF가 <span class=\"text-rose-400 font-semibold\">-50% 폭락했던 참사가 재현</span>될 수 있다는 강력한 경고가 제기됨. 시장에 불확실성을 남겨두고 물가 적분값을 누적시키는 것보다, <span class=\"text-amber-300 font-semibold\">차라리 2~3회 선제적 금리 인상</span>을 단행해 매를 빨리 맞고 불확실성을 종식시키는 편이 주식과 채권 시장에 유리함.",
+    "key_claims": [
+      "금리 인상 실기 시 채권 수익률 급등으로 미국 장기채 ETF의 대규모 자본 손실(-50% 수준) 재발 위험.",
+      "미적지근한 동결은 향후 수년간 누적 인플레이션 상승분을 더 키워 실물 경제와 주식 시장의 체력을 장기 훼손함.",
+      "선제적 금리 인상으로 정책 불확실성을 조기에 털어내는 것이 장기적인 자산 시장 안정화의 지름길임."
+    ],
+    "data_points": [
+      "역사적 손실: 2022~2023년 미국 장기 국채 ETF 7개월간 약 -50% 폭락",
+      "정책 제언: 5~6회 질질 끄는 인상보다 2~3회 집중 선제 인상으로 긴축 조기 마무리 촉구"
+    ],
+    "signal": "bearish",
+    "signal_reason": "연준의 인상 지연이 장기 인플레이션 고착화와 채권 시장의 추가 대폭락을 야기할 수 있다는 매크로 경고이기 때문임.",
+    "key_companies": [
+      "미국 연방준비제도(Fed)",
+      "미국 재무부(US Treasury)"
+    ],
+    "insight": "금리 동결이 단기 주가에는 안도감을 줄지 몰라도, 장기 기대 인플레이션의 고삐가 풀리면 국채 시장 붕괴를 통해 증시에 훨씬 더 가혹한 후폭풍을 가져옵니다.",
+    "action_point": "연준의 확실한 물가 억제 의지가 확인될 때까지 듀레이션이 긴 장기 채권 ETF 투자를 회피하고 단기 MMF 중심으로 대피."
+  },
+  "classification": {
+    "primary_topic": "economy",
+    "secondary_topics": [
+      "stock"
+    ],
+    "tags": [
+      "금리인상위험",
+      "장기채폭락",
+      "연준통화정책",
+      "물가적분값",
+      "언더스탠딩"
+    ]
+  }
+}

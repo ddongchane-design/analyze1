@@ -1,0 +1,46 @@
+{
+  "video": {
+    "id": "rKegtDsF7zI",
+    "title": "클래리티 법안은 엎어졌는데 SEC는 오히려 속도전 나섰다? | 김동환, 서동주, 박상혁 디지털애셋 편집장 [크립토 PLUS]",
+    "published": "2026-09-18T02:46:16+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=rKegtDsF7zI",
+    "thumbnail": "https://img.youtube.com/vi/rKegtDsF7zI/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "미국 가상자산 규제 명확성(Clarity) 법안이 부결되었음에도 <span class=\"text-amber-300 font-bold\">SEC가 주식 토큰화(STO) 지침을 신속 정비</span>하며 디지털 자산 시장이 안도 랠리를 펼침.\n다만 비상장 유니콘 주식 토큰화 시 기업의 사전 거부권 행사 가능성과 거래소-주관사 간 이해 상충이 새로운 쟁점으로 대두됨.\n일본 자민당이 칼시 등 미국 예측 시장 플랫폼을 초청해 제도화를 검토하는 반면, 한국은 <span class=\"text-rose-400 font-medium\">폴리마켓 접속 차단 등 과도한 규제 갈라파고스화</span>를 겪고 있음.",
+    "key_claims": [
+      "클래리티 법안 부결이라는 악재 속에서도 연준 금리 불확실성 해소로 비트코인이 상승 방어력을 과시함.",
+      "SEC의 토큰화 지침은 기업 주도의 공식 발행(A타입) 외에 거래소 임의 발행을 제한하는 방향으로 가닥을 잡음.",
+      "글로벌 주요국이 예측 시장을 금융·정보 분석 도구로 수용하는 반면 한국은 단순 도박으로 규제해 제도적 괴리가 커짐."
+    ],
+    "data_points": [
+      "비트코인 가격: 금리 인상 발표 및 법안 부결에도 상승세 유지",
+      "예측 시장 규제: 일본 10월 제도화 세미나 개최 vs 한국 차단 조치"
+    ],
+    "signal": "neutral",
+    "signal_reason": "법안 부결의 단기 악재는 소화되었으나 SEC의 주식 토큰화 세부 규제 및 국가별 제도화 격차로 당분간 혼조세가 예상되기 때문임.",
+    "key_companies": [
+      "코인베이스(COIN)",
+      "시큐리타이즈(Securitize)",
+      "로빈후드(HOOD)"
+    ],
+    "insight": "토큰 증권(STO)의 주도권은 탈중앙 거래소가 아니라 <span class=\"text-cyan-300 font-semibold\">'기업의 공식 거버넌스와 제도권 결제망(DTC)을 통제하는 적법 플랫폼'</span>으로 넘어가고 있습니다.",
+    "action_point": "무리한 장외 토큰화 주식 투자보다는 미국 제도권 커스터디 및 비트코인 현물 ETF 중심의 정석 투자를 유지하십시오."
+  },
+  "classification": {
+    "primary_topic": "crypto",
+    "secondary_topics": [
+      "stock",
+      "tech"
+    ],
+    "tags": [
+      "클래리티법안",
+      "SEC토큰화",
+      "비트코인",
+      "예측시장",
+      "폴리마켓",
+      "STO"
+    ]
+  }
+}

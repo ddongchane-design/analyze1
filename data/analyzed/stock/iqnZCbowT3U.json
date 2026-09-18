@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "iqnZCbowT3U",
+    "title": "금리 걱정하다 AI 상승 놓칠까…지금 시장에서 '기회보다 위험'을 먼저 보는 이유ㅣ홍선애, 장우진 금시공 대표 [여의도 인사이트]",
+    "published": "2026-09-10T09:18:03+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=iqnZCbowT3U",
+    "thumbnail": "https://img.youtube.com/vi/iqnZCbowT3U/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "브렌트유가 101달러를 돌파하며 시장의 3대 위험 임계치(국채금리 5%, 달러 100, 유가 100) 중 하나가 촉발된 가운데, 디젤과 휘발유 가격 급등이 <span class=\"text-rose-400 font-semibold\">소비자 기대 인플레이션을 자극하는 국면</span>에 진입함. 또한 오픈AI와 앤트로픽 간의 프론티어 모델 가격 인하 경쟁으로 <span class=\"text-amber-300 font-semibold\">AI 소프트웨어 기업들의 마진 훼손 우려</span>가 대두되어 CPI 발표 전까지 방어적 리스크 관리가 요구됨.",
+    "key_claims": [
+      "브렌트유 101달러 안착으로 에너지발 기대 인플레이션 상승 위험이 가시화되며 연준의 긴축 압박 가중.",
+      "AI 모델 고도화에 따른 토큰 비용 급증 대비 빅테크 간 점유율 치킨 게임으로 단기 수익성 악화 가능성 대두.",
+      "물가 지표(PPI, CPI) 및 미시간대 기대 인플레이션 발표 전까지는 섣부른 반도체 추가 베팅보다 현금 비중 유지가 안전함."
+    ],
+    "data_points": [
+      "원자재 지표: 브렌트유 배럴당 101달러 돌파",
+      "주요 이벤트: 8월 미국 PPI 및 CPI, 미시간대 기대인플레이션 지표 발표 대기"
+    ],
+    "signal": "neutral",
+    "signal_reason": "유가 100달러 돌파에 따른 기대 인플레 위험과 AI 업계의 치킨 게임 우려가 맞물려 단기 시장 변동성이 극대화되는 변곡점이기 때문임.",
+    "key_companies": [
+      "오픈AI(OpenAI)",
+      "앤트로픽(Anthropic)",
+      "SK하이닉스(000660)"
+    ],
+    "insight": "AI 소프트웨어 모델 단가 인하 경쟁은 칩 제조사와 파운드리에는 사용량 증가로 호재이나, 모델 자체를 개발하는 AI 스타트업들의 밸류에이션에는 혹독한 구조조정을 불러올 수 있습니다.",
+    "action_point": "물가 지표 확인 전까지 무리한 신규 매수를 지양하고, 모델 개발사보다는 확정 수익을 챙기는 반도체 하드웨어 팹/소부장으로 압축 대응."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "economy",
+      "tech"
+    ],
+    "tags": [
+      "여의도인사이트",
+      "브렌트유100달러",
+      "기대인플레이션",
+      "AI치킨게임",
+      "삼프로TV"
+    ]
+  }
+}

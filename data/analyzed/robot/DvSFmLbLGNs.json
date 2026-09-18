@@ -1,0 +1,45 @@
+{
+  "video": {
+    "id": "DvSFmLbLGNs",
+    "title": "한국에서 반도체 다음은 로봇이라고? 정말??",
+    "published": "2026-09-10T11:00:25+00:00",
+    "channel_name": "Softdragon SOD",
+    "url": "https://www.youtube.com/watch?v=DvSFmLbLGNs",
+    "thumbnail": "https://img.youtube.com/vi/DvSFmLbLGNs/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "반도체 다음의 차세대 국가 전략 산업으로 <span class=\"text-cyan-300 font-semibold\">'피지컬 AI(로봇)'</span>가 지목되는 이유는 피지컬 AI의 최종 수요처이자 최대 수혜 산업이 바로 '제조업'이기 때문임. 텍스트를 긁어모으던 LLM과 달리 피지컬 AI는 실제 공장과 물리적 생산 현장의 정밀 데이터가 필수적인데, 한국은 독일·일본과 더불어 <span class=\"text-amber-300 font-bold\">세계 최강의 첨단 제조 인프라와 한·미·일 동맹 네트워크</span>를 보유해 독보적인 포지션을 점하고 있음.",
+    "key_claims": [
+      "피지컬 AI의 성패는 인터넷 웹 크롤링이 불가능한 '물리적 제조 현장의 정밀 공정 데이터' 확보에 달려 있음.",
+      "전 세계에서 가장 발전된 제조 하드웨어 기반을 갖춘 한국은 로봇 AI를 실증하고 적용할 최적의 테스트베드임.",
+      "지정학적 블록화 국면에서 미국·일본과의 안보 및 테크 동맹 관계는 중국 대비 한국 피지컬 AI 생태계에 강력한 프리미엄을 부여함."
+    ],
+    "data_points": [
+      "제조업 강국 피어 그룹: 대한민국, 독일, 일본 중심의 물리적 하드웨어 데이터 독점권"
+    ],
+    "signal": "bullish",
+    "signal_reason": "제조업 데이터 희소성과 글로벌 공급망 동맹을 기반으로 K-로봇 및 피지컬 AI 밸류체인의 구조적 도약이 유력하기 때문임.",
+    "key_companies": [
+      "현대차(005380)",
+      "두산로보틱스(454910)",
+      "레인보우로보틱스(277810)"
+    ],
+    "insight": "LLM 시대의 무기가 텍스트였다면 피지컬 AI 시대의 진짜 원유는 <span class=\"text-cyan-300 font-semibold\">'공장에서 땀 흘려 쌓아 올린 실제 제조 공정 데이터'</span>입니다.",
+    "action_point": "제조 라인 자동화 및 피지컬 휴머노이드 도입을 선도하는 국내 완성차(현대차) 및 액추에이터·로봇 부품 전문주를 적극 매수할 것."
+  },
+  "classification": {
+    "primary_topic": "robot",
+    "secondary_topics": [
+      "tech",
+      "stock"
+    ],
+    "tags": [
+      "피지컬AI",
+      "제조업데이터",
+      "한국로봇경쟁력",
+      "한미일동맹",
+      "물리엔진",
+      "Softdragon"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "video": {
+    "id": "odX3X4qxM-c",
+    "title": "유가·국채금리 하락…증시 상승 추세 이어질까 | 하창완 하보노의 주식 이야기 대표 [더블 체크]",
+    "published": "2026-09-18T01:00:00+00:00",
+    "channel_name": "삼프로TV_3ProTV",
+    "url": "https://www.youtube.com/watch?v=odX3X4qxM-c",
+    "thumbnail": "https://img.youtube.com/vi/odX3X4qxM-c/hqdefault.jpg"
+  },
+  "analysis": {
+    "summary": "국제유가 안정과 미국 10년물 국채수익률의 4.9%대 초반 반락으로 <span class=\"text-amber-300 font-bold\">긴축 공포가 완화되며 기술주 주도의 상승 랠리</span>가 재개됨.\nAI 가속기 쇼티지(공급 부족)와 데이터센터 데이터 전송 병목 현상을 해결하기 위해 <span class=\"text-cyan-300 font-semibold\">광통신·양자보안(ICTK 등) 및 통신장비·전선 섹터</span>로 수급 순환매가 집중됨.\n선물옵션 동시만기일의 단기 흔들림 속에서도 AI 하드웨어의 실적 펀더멘털 우상향 방향성이 재확인됨.",
+    "key_claims": [
+      "유가와 국채수익률 안정이 위험자산 투자 심리를 회복시키는 핵심 트리거로 작용함.",
+      "데이터센터 전력 공급 병목에 이어 데이터 트래픽 병목을 풀기 위한 광통신/유리기판 부품주가 강세임.",
+      "대형주 중심 장세에서는 원전 테마주보다 숫자가 확실한 반도체 대장주가 중기 투자 매력도가 높음."
+    ],
+    "data_points": [
+      "미국 국채 지표: 10년물 국채금리 5% 상회 후 4.9% 초반대로 반락",
+      "수급 특징: 코스닥 내 양자·광통신(ICTK 등) 상한가 및 전선 인프라주 동반 급등"
+    ],
+    "signal": "bullish",
+    "signal_reason": "유가 및 국채금리 하향 안정과 AI 데이터센터 병목 해소를 위한 광통신·네트워크 하드웨어 전반의 수주 모멘텀이 뚜렷하기 때문임.",
+    "key_companies": [
+      "ICTK(456010)",
+      "엔비디아(NVDA)",
+      "두산에너빌리티(034020)",
+      "삼성전자(005930)"
+    ],
+    "insight": "AI 데이터센터 인프라 확장은 전력망을 넘어 <span class=\"text-cyan-300 font-semibold\">'광통신과 차세대 반도체 기판을 통한 데이터 전송 효율 극대화'</span>로 진화하고 있습니다.",
+    "action_point": "단기 급등 테마보다 데이터센터 트래픽 병목을 해결하는 광통신 부품 및 반도체 장비 우량주를 선별하여 매수 관점을 유지하십시오."
+  },
+  "classification": {
+    "primary_topic": "stock",
+    "secondary_topics": [
+      "tech",
+      "energy"
+    ],
+    "tags": [
+      "유가하락",
+      "국채금리안정",
+      "광통신",
+      "ICTK",
+      "데이터센터병목",
+      "소부장"
+    ]
+  }
+}
